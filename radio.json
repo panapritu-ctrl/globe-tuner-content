@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "updated": "2026-07-26",
+  "stations": [
+    { "id": "bbc_world_service", "title": "BBC World Service", "subtitle": "Global News", "location": "London, UK", "genre": "News", "countryCode": "GB", "streamUrl": "http://stream.live.vc.bbcmedia.co.uk/bbc_world_service" },
+    { "id": "bbc_radio_4", "title": "BBC Radio 4", "subtitle": "Spoken Word / Drama", "location": "London, UK", "genre": "Talk", "countryCode": "GB", "streamUrl": "http://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio=128000.norewind.m3u8" },
+    { "id": "npr_24hr", "title": "NPR", "subtitle": "24 Hour Program Stream", "location": "USA", "genre": "News", "countryCode": "US", "streamUrl": "http://npr-ice.streamguys1.com/live.mp3" },
+    { "id": "fox_news_radio", "title": "Fox News Radio", "subtitle": "News / Talk", "location": "USA", "genre": "News", "countryCode": "US", "streamUrl": "https://live.amperwave.net/direct/foxnewsradio-foxnewsradioaac-imc?source=fnr.web" },
+    { "id": "cnn_audio", "title": "CNN", "subtitle": "24/7 Global News", "location": "USA", "genre": "News", "countryCode": "US", "streamUrl": "https://tunein.cdnstream1.com/2868_96.mp3" },
+    { "id": "france_inter", "title": "France Inter", "subtitle": "French Public Radio", "location": "Paris, France", "genre": "Talk", "countryCode": "FR", "streamUrl": "http://direct.franceinter.fr/live/franceinter-hifi.aac" },
+    { "id": "deutsche_welle", "title": "Deutsche Welle", "subtitle": "German International Broadcaster", "location": "Germany", "genre": "News", "countryCode": "DE", "streamUrl": "https://dw.audiostream.io/dw/1027/mp3/64/dw08" },
+    { "id": "cbc_radio_one", "title": "CBC Radio One", "subtitle": "Canadian National News", "location": "Montreal, Canada", "genre": "News", "countryCode": "CA", "streamUrl": "https://cbcradiolive.akamaized.net/hls/live/2041030/ES_R1EMT/master.m3u8" },
+    { "id": "abc_newsradio", "title": "ABC NewsRadio", "subtitle": "Australian Continuous News", "location": "Australia", "genre": "News", "countryCode": "AU", "streamUrl": "http://abc.streamguys1.com/live/newsradio/icecast.audio" },
+    { "id": "lbc_uk", "title": "LBC", "subtitle": "Leading UK Talk Radio", "location": "London, UK", "genre": "Talk", "countryCode": "GB", "streamUrl": "http://media-sov.musicradio.com/LBC973MP3Low" },
+
+    { "id": "kexp_seattle", "title": "KEXP 90.3 FM", "subtitle": "Alternative / Indie", "location": "Seattle, USA", "genre": "Alternative", "countryCode": "US", "streamUrl": "http://live-mp3-128.kexp.org/kexp128.mp3" },
+    { "id": "bbc_6music", "title": "BBC Radio 6 Music", "subtitle": "Alternative / Indie / Classic", "location": "London, UK", "genre": "Alternative", "countryCode": "GB", "streamUrl": "http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio=320000.norewind.m3u8" },
+    { "id": "kcrw_eclectic", "title": "KCRW Eclectic 24", "subtitle": "Eclectic Music Station", "location": "Los Angeles, USA", "genre": "Alternative", "countryCode": "US", "streamUrl": "https://streams.kcrw.com/e24_mp3" },
+    { "id": "radio_x_uk", "title": "Radio X", "subtitle": "Alternative Rock / Britpop", "location": "UK", "genre": "Rock", "countryCode": "GB", "streamUrl": "http://media-the.musicradio.com/RadioXUK" },
+    { "id": "nts_radio_1", "title": "NTS Radio 1", "subtitle": "Global Underground Alternative", "location": "London, UK", "genre": "Alternative", "countryCode": "GB", "streamUrl": "http://stream-relay-geo.ntslive.net/stream" },
+    { "id": "radio_caroline", "title": "Radio Caroline", "subtitle": "Classic Rock / Pirate Radio", "location": "UK", "genre": "Rock", "countryCode": "GB", "streamUrl": "http://78.129.202.200:8040/" },
+    { "id": "virgin_radio_classic_rock", "title": "Virgin Radio Classic Rock", "subtitle": "Classic Rock", "location": "Italy", "genre": "Rock", "countryCode": "IT", "streamUrl": "http://icy.unitedradio.it/VirginRockClassics.mp3" },
+
+    { "id": "somafm_groove_salad", "title": "SomaFM - Groove Salad", "subtitle": "Ambient / Downtempo", "location": "USA", "genre": "Electronic", "countryCode": "US", "streamUrl": "https://ice5.somafm.com/groovesalad-128-mp3" },
+    { "id": "ibiza_global_radio", "title": "Ibiza Global Radio", "subtitle": "House / Techno", "location": "Ibiza, Spain", "genre": "Electronic", "countryCode": "ES", "streamUrl": "http://ibizaglobalradio.streaming-pro.com:8024/" },
+    { "id": "dance_wave", "title": "Dance Wave!", "subtitle": "Euro Dance", "location": "Hungary", "genre": "Electronic", "countryCode": "HU", "streamUrl": "https://dancewave.online/dance.mp3" },
+    { "id": "tomorrowland_owr", "title": "Tomorrowland One World Radio", "subtitle": "Official EDM Festival Station", "location": "Belgium", "genre": "Electronic", "countryCode": "BE", "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_INTERNATIONAL_ADP.aac" },
+    { "id": "radio_fg", "title": "Radio FG", "subtitle": "Deep House / Electro", "location": "Paris, France", "genre": "Electronic", "countryCode": "FR", "streamUrl": "http://radiofg.impek.com/fg" },
+    { "id": "somafm_space_station", "title": "SomaFM - Space Station Soma", "subtitle": "Spaced-out Ambient Electronica", "location": "USA", "genre": "Electronic", "countryCode": "US", "streamUrl": "https://ice5.somafm.com/spacestation-128-aac" },
+
+    { "id": "z100_new_york", "title": "Z100 New York", "subtitle": "Hit Music Station", "location": "New York, USA", "genre": "Pop", "countryCode": "US", "streamUrl": "https://stream.revma.ihrhls.com/zc1469" },
+    { "id": "capital_fm_uk", "title": "Capital FM", "subtitle": "UK No.1 Hit Music Station", "location": "London, UK", "genre": "Pop", "countryCode": "GB", "streamUrl": "http://media-ice.musicradio.com/CapitalMP3" },
+    { "id": "nrj_paris", "title": "NRJ", "subtitle": "Hit Music Only", "location": "Paris, France", "genre": "Pop", "countryCode": "FR", "streamUrl": "https://streaming.nrjaudio.fm/ou5k6tirv93h" },
+    { "id": "kiis_fm", "title": "102.7 KIIS FM", "subtitle": "Pop / Top 40", "location": "Los Angeles, USA", "genre": "Pop", "countryCode": "US", "streamUrl": "https://stream.revma.ihrhls.com/zc185" },
+    { "id": "qmusic_nl", "title": "Qmusic", "subtitle": "Euro-Pop Network", "location": "Netherlands", "genre": "Pop", "countryCode": "NL", "streamUrl": "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_live_96.mp3" },
+    { "id": "heart_80s", "title": "Heart 80s", "subtitle": "80s Pop Throwback", "location": "UK", "genre": "Pop", "countryCode": "GB", "streamUrl": "https://media-ssl.musicradio.com/Heart80sMP3" },
+    { "id": "sinar_fm", "title": "Sinar FM", "subtitle": "Southeast Asian Pop", "location": "Malaysia", "genre": "Pop", "countryCode": "MY", "streamUrl": "https://n08a-eu.rcs.revma.com/azatk0tbv4uvv/8_1ksmof3jo7vso02/playlist.m3u8" },
+    { "id": "mega_97_9", "title": "Mega 97.9", "subtitle": "Latin / Reggaeton", "location": "New York, USA", "genre": "Pop", "countryCode": "US", "streamUrl": "https://liveaudio.lamusica.com/NY_WSKQ_icy" },
+
+    { "id": "fip_france", "title": "FIP", "subtitle": "Eclectic Music", "location": "Paris, France", "genre": "Eclectic", "countryCode": "FR", "streamUrl": "http://icecast.radiofrance.fr/fip-hifi.aac" },
+    { "id": "venice_classic_radio", "title": "Venice Classic Radio", "subtitle": "Baroque and Classical", "location": "Venice, Italy", "genre": "Classical", "countryCode": "IT", "streamUrl": "https://uk2.streamingpulse.com/ssl/vcr1" },
+    { "id": "classic_fm_uk", "title": "Classic FM", "subtitle": "UK's Biggest Classical Network", "location": "UK", "genre": "Classical", "countryCode": "GB", "streamUrl": "http://ice-the.musicradio.com/ClassicFMMP3" },
+    { "id": "wqxr_operavore", "title": "WQXR Operavore", "subtitle": "New York Public Radio - Opera", "location": "New York, USA", "genre": "Classical", "countryCode": "US", "streamUrl": "http://opera-stream.wqxr.org/operavore-tunein" },
+    { "id": "tsf_jazz", "title": "TSF Jazz", "subtitle": "European Jazz", "location": "Paris, France", "genre": "Jazz", "countryCode": "FR", "streamUrl": "http://tsfjazz.ice.infomaniak.ch/tsfjazz-high.mp3" },
+    { "id": "kusc_classical", "title": "Classical KUSC", "subtitle": "Listener-Supported Classical Radio", "location": "Los Angeles, USA", "genre": "Classical", "countryCode": "US", "streamUrl": "https://16603.live.streamtheworld.com/KUSCAAC96_SC" },
+    { "id": "radio_swiss_jazz", "title": "Radio Swiss Jazz", "subtitle": "Traditional Jazz", "location": "Switzerland", "genre": "Jazz", "countryCode": "CH", "streamUrl": "http://stream.srg-ssr.ch/m/rsj/mp3_128" },
+    { "id": "vividh_bharati", "title": "Vividh Bharati", "subtitle": "Classic Bollywood & Classical Indian Music", "location": "India", "genre": "World", "countryCode": "IN", "streamUrl": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/playlist.m3u8" }
+  ]
+}
