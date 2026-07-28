@@ -1,6 +1,110 @@
 {
-  "version": 1,
-  "updated": "2026-07-26",
-  "_comment": "Optional hand-picked 'Editor's Picks' audiobooks, layered on top of the live Internet Archive search (already dynamic, 560k+ titles). Each entry needs the Internet Archive 'identifier' (e.g. from an archive.org/details/<identifier> URL) - the app fetches chapters/cover from that at play time. Leave 'items' empty until you're ready to curate.",
-  "items": []
+  "version": 3,
+  "updated": "2026-07-28",
+  "items": [
+    {
+      "identifier": "OTRR_YoursTrulyJohnnyDollar_Singles",
+      "title": "Yours Truly, Johnny Dollar - Single Episodes",
+      "creator": "Old Time Radio Researchers Group",
+      "description": "YOURS TRULY, JOHNNY DOLLAR For over twelve years, from 1949 through 1962 (including a one year hiatus in 1954-1955), this series recounted the cases \"the man with the action-packed expense account, Am",
+      "year": 2020,
+      "downloads": 5242546
+    },
+    {
+      "identifier": "uncle_toms_cabin_librivox",
+      "title": "Uncle Tom's Cabin",
+      "creator": "Harriet Beecher Stowe",
+      "description": "Librivox recording of Uncle Tom's Cabin by Harriet Beecher Stowe. Read by John Greenman. Among the most \"banned\" books in the United States, Uncle Tom’s Cabin; or, Life Among the Lowly is a novel by A",
+      "year": 2006,
+      "downloads": 5099828
+    },
+    {
+      "identifier": "man_thursday_zach_librivox",
+      "title": "The Man Who was Thursday, A Nightmare",
+      "creator": "G.K. Chesterton",
+      "description": "LibriVox recording of The Man who was Thursday, a Nightmare , by G.K. Chesterton. Read by Zachary Brewster-Geisz. In a surreal turn-of-the-century London, Gabriel Syme, a poet, is recruited to a secre",
+      "year": 2007,
+      "downloads": 882864
+    },
+    {
+      "identifier": "don_quixote_vol1_librivox",
+      "title": "Don Quixote, Volume 1",
+      "creator": "Miguel de Cervantes Saavedra",
+      "description": "Librivox recording of Don Quixote Volume 1 , by Miguel de Cervantes Saavedra (transl. John Ormsby). Don Quixote is an early novel written by Spanish author Miguel de Cervantes Saavedra. Cervantes crea",
+      "year": 2007,
+      "downloads": 869619
+    },
+    {
+      "identifier": "tausend_und_eine_nacht_1_1504_librivox",
+      "title": "Tausend und eine Nacht, Band 1",
+      "creator": "Unknown",
+      "description": "LibriVox recording of Tausend und eine Nacht, Band 1. (Übersetzung von Gustav Weil.) Gelesen auf Deutsch von Bernd Ungerer Scheherazade oder Schehersad, die Tochter eines Wesirs, heiratete den König /",
+      "year": 2015,
+      "downloads": 867547
+    },
+    {
+      "identifier": "twelvestories_1603_librivox",
+      "title": "Twelve Stories and a Dream",
+      "creator": "H. G. Wells",
+      "description": "LibriVox recording of Twelve Stories and a Dream by H. G. Wells. Read in English by volunteer readers. Thirteen short stories by HG Wells, the master of speculative fiction! Included in this collectio",
+      "year": 2016,
+      "downloads": 864264
+    },
+    {
+      "identifier": "dorothy_wizard_oz_librivox",
+      "title": "Dorothy and the Wizard in Oz",
+      "creator": "L. Frank Baum",
+      "description": "Librivox recording of Dorothy and the Wizard in Oz, by L. Frank Baum. Read by Judy Bieber Dorothy and the Wizard in Oz was the fourth of 14 Oz books written by L. Frank Baum (1856-1919). Published in ",
+      "year": 2006,
+      "downloads": 863080
+    },
+    {
+      "identifier": "aesopforchildren_1308_librivox",
+      "title": "The Aesop for Children",
+      "creator": "Aesop",
+      "description": "LibriVox recording of The Aesop for Children by Aesop. Read in English by Librivox volunteers. A collection of Aesop's fables for children from the classic American book illustrated by Milo Winter. Re",
+      "year": 2013,
+      "downloads": 859963
+    },
+    {
+      "identifier": "tarzan_apes_mfs",
+      "title": "Tarzan of the Apes",
+      "creator": "Edgar Rice Burroughs",
+      "description": "Librivox recording of Tarzan of the Apes.  Read by Mark F. Smith Tarzan of the Apes is Burroughs’ exciting, if improbable, story of an English lord, left by the death of his stranded parents in the ha",
+      "year": 2007,
+      "downloads": 858653
+    },
+    {
+      "identifier": "anne_of_green_gables_2_librivox",
+      "title": "Anne of Green Gables (version 2)",
+      "creator": "Lucy Maud Montgomery",
+      "description": "Librivox recording of Anne of Green Gables by Lucy Maud Montgomery. Read by rachelellen Lucy Maud Montgomery's classic children's novel, Anne of Green Gables tells the story of a red headed orphan gir",
+      "year": 2006,
+      "downloads": 857730
+    },
+    {
+      "identifier": "lifeofantony_1308_librivox",
+      "title": "Life of Anthony",
+      "creator": "Athanasius of Alexandria",
+      "description": "LibriVox recording of The Life of Anthony by Athanasius of Alexandria. (Translated by H. Ellershaw.) Read in English by Matthew James Gray. Anthony (251-356CE) lived in Egypt, and became one of the fa",
+      "year": 2013,
+      "downloads": 826696
+    },
+    {
+      "identifier": "three_little_pigs_librivox",
+      "title": "The Story of the Three Little Pigs",
+      "creator": "L. Leslie Brooke",
+      "description": "Librivox , public domain recording of L. Leslie Brooke's The Story of the Three Little Pigs , read by Denny Sayers. This version of the classic tale of the three pigs, their houses and a wolf, publish",
+      "year": 2006,
+      "downloads": 819610
+    },
+    {
+      "identifier": "capitan_veneno_1002_librivox",
+      "title": "El Capitan Veneno",
+      "creator": "Pedro Antonio de Alarcon",
+      "description": "LibriVox recording of El Capitán Veneno by Pedro Antonio de Alarcón. Read by Tux. El día 26 de marzo de 1848 en una escaramuza entre monárquicos y republicanos, cae gravemente herido don Jorge de Córd",
+      "year": 2010,
+      "downloads": 811439
+    }
+  ]
 }
