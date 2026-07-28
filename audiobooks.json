@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "updated": "2026-07-26",
-  "_comment": "Optional hand-picked 'Top Picks' devotional items per religion, replacing the current 'most-downloaded result' auto-selection (which sometimes surfaces mismatched content, e.g. Buddhist chants under a Hindu 'Mantras' filter). Each entry needs the Internet Archive 'identifier' and a 'religion' (Hindu/Islam/Christian/Sikh/Buddhist). Leave 'items' empty until you're ready to curate.",
+  "version": 4,
+  "updated": "2026-07-28",
+  "_comment": "Curated, verified-playable audiobooks pulled from the Internet Archive (LibriVox collection), grouped by the same genre keys the app uses (Love Story, Fictions, History, Self Help, Mystery, Biography). Each entry needs an Internet Archive 'identifier' (used to fetch chapter mp3s at playback time), 'title', 'creator', and 'genre'. Populated by a verification script that confirms real .mp3 chapter files exist before an entry is added here.",
   "items": []
 }
