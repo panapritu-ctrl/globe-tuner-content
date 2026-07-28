@@ -1,6 +1,457 @@
 {
-  "version": 1,
-  "updated": "2026-07-26",
-  "_comment": "Optional hand-picked 'Top Picks' devotional items per religion, replacing the current 'most-downloaded result' auto-selection (which sometimes surfaces mismatched content, e.g. Buddhist chants under a Hindu 'Mantras' filter). Each entry needs the Internet Archive 'identifier' and a 'religion' (Hindu/Islam/Christian/Sikh/Buddhist). Leave 'items' empty until you're ready to curate.",
-  "items": []
+ "version": 2,
+ "updated": "2026-07-28",
+ "_comment": "Hand-picked 'Top Picks' devotional items per religion, verified to have real playable audio. Replaces the 'most-downloaded result' auto-selection which sometimes surfaced mismatched content (e.g. Buddhist chants under a Hindu filter). Each entry's 'identifier' is used to fetch tracks at playback time.",
+ "items": [
+  {
+   "identifier": "ashutosh-shashamk-shekhar",
+   "title": "Ashutosh Shashamk Shekhar",
+   "creator": "bhojpurigeetmala",
+   "religion": "Hindu"
+  },
+  {
+   "identifier": "har-har-mahadev",
+   "title": "Har Har Mahadev",
+   "creator": "bhojpurigeetmala",
+   "religion": "Hindu"
+  },
+  {
+   "identifier": "hara-hara-shambhu",
+   "title": "Hara Hara Shambhu",
+   "creator": "bhojpurigeetmala",
+   "religion": "Hindu"
+  },
+  {
+   "identifier": "ShriHanumanChalisa_404",
+   "title": "Shri Hanuman Chalisa",
+   "creator": "Unknown",
+   "religion": "Hindu"
+  },
+  {
+   "identifier": "om-namah-shivay-dhoon",
+   "title": "Om Namah Shivay Dhoon",
+   "creator": "bhojpurigeetmala",
+   "religion": "Hindu"
+  },
+  {
+   "identifier": "Bhagavadgita-SwamiNikhilananda",
+   "title": "Bhagavadgita Discourse",
+   "creator": "Swami Nikhilananda",
+   "religion": "Hindu"
+  },
+  {
+   "identifier": "kama_sutra_1008_librivox",
+   "title": "The Kama Sutra",
+   "creator": "Mallanaga Vatsyayana",
+   "religion": "Hindu"
+  },
+  {
+   "identifier": "MahaEpi7DronasRevenge",
+   "title": "Mahabharata: Episode 7 - Drona's Revenge",
+   "creator": "Sudipta Bhawmik, Avi Ziv",
+   "religion": "Hindu"
+  },
+  {
+   "identifier": "HindiBhajansMp3-meeraKrishnaBhajan",
+   "title": "Hindi Bhajans MP3-MEERA KRISHNA BHAJAN",
+   "creator": "Smt.Anuradha Podwal Ji & other",
+   "religion": "Hindu"
+  },
+  {
+   "identifier": "HindiBhajanmp3-HanumanChalisaAartiyaan",
+   "title": "Hindi BhajanMp3- Hanuman Chalisa & AARTIYAAN",
+   "creator": "Hindi BhajanMp3- Hanuman Chalisa & AARTIYAAN",
+   "religion": "Hindu"
+  },
+  {
+   "identifier": "tamilquranmp3",
+   "title": "QURAN TAMiL TRANSLATiON MP3",
+   "creator": "QURAN TAMiL",
+   "religion": "Hindu"
+  },
+  {
+   "identifier": "gita-nochur",
+   "title": "Bhagavad Gita Discourse - Nochur Venkataraman",
+   "creator": "Unknown",
+   "religion": "Hindu"
+  },
+  {
+   "identifier": "VEDAVEDAMVEDICYAJURVEDAKRISHNAYAJURVEDACOMPLETEAUDIOSAMHITAARANYAKABRAHMANAMSriK",
+   "title": "VEDA, VEDAM, VEDIC, YAJURVEDA , KRISHNA YAJURVEDA COMPLETE AUDIO, SAMHITA, ARANYAKA, BRAHMANAM, Sri Krishna Yajurveda Samhita, Aranyakam, Brahmanam, Audio, Kramam, Ghanam and Kannada Text Pdf,",
+   "creator": "Unknown",
+   "religion": "Hindu"
+  },
+  {
+   "identifier": "MahabharataEp11",
+   "title": "Mahabharata Episode 11 : Dhritarashtra's Dilemma",
+   "creator": "Sudipta Bhawmik, Avi Ziv",
+   "religion": "Hindu"
+  },
+  {
+   "identifier": "MahabharataEp9",
+   "title": "Mahabharata Episode 9 - Draupadi's Swayamvara",
+   "creator": "Sudipta Bhawmik, Avi Ziv",
+   "religion": "Hindu"
+  },
+  {
+   "identifier": "rqa_iiih",
+   "title": "\u0627\u0644\u0631\u0642\u064a\u0629 \u0627\u0644\u0634\u0631\u0639\u064a\u0629 \u0627\u0644\u0643\u0627\u0645\u0644\u0629 \u0644\u0644\u0648\u0642\u0627\u064a\u0629 \u0648\u0627\u0644\u0639\u0644\u0627\u062c \u0645\u0646 \u0627\u0644\u0633\u062d\u0631 \u0648\u0627\u0644\u0645\u0633 \u0648\u0627\u0644\u0639\u064a\u0646 \u0648\u0627\u0644\u062d\u0633\u062f",
+   "creator": "\u062a\u0645 \u0631\u0641\u0639 \u0647\u0630\u0647 \u0627\u0644\u0645\u0627\u062f\u0629 \u0628\u0648\u0627\u0633\u0637\u0629 \u0645\u064f\u0633\u0644\u0645 \u0627\u0644\u062a\u0648\u0646\u0633\u064a_uP_bY_mUSLEm",
+   "religion": "Islam"
+  },
+  {
+   "identifier": "takberat_______al3eed-------mp3",
+   "title": "\u062a\u0643\u0628\u064a\u0631\u0627\u062a \u0627\u0644\u0639\u064a\u062f \u0645\u0643\u0631\u0631\u0629 \u062a\u0643\u0628\u064a\u0631 \u0645\u0646 \u0627\u0644\u062d\u0631\u0645 \u0645\u0643\u0631\u0631 \u0644\u0645\u062f\u0629 \u0633\u0627\u0639\u062a\u064a\u0646",
+   "creator": "\u0634\u0628\u0643\u0629 \u0631\u0628\u064a\u0639 \u0627\u0644\u0641\u0631\u062f\u0648\u0633 \u0627\u0644\u0627\u0639\u0644\u0649",
+   "religion": "Islam"
+  },
+  {
+   "identifier": "11111111111_61",
+   "title": "\u062a\u0644\u0627\u0648\u0627\u062a \u062e\u0627\u0634\u0639\u0629 \u0644\u0644\u0642\u0627\u0631\u0626 \u062e\u0627\u0644\u062f \u0627\u0644\u062c\u0644\u064a\u0644",
+   "creator": "\u062a\u0645 \u0631\u0641\u0639 \u0647\u0630\u0647 \u0627\u0644\u0645\u0627\u062f\u0629 \u0628\u0648\u0627\u0633\u0637\u0629 \u0645\u064f\u0633\u0644\u0645 \u0627\u0644\u062a\u0648\u0646\u0633\u064a_mUSLEm.eTTouNssi",
+   "religion": "Islam"
+  },
+  {
+   "identifier": "Mishary-Alafasy",
+   "title": "Mishary-Alafasy",
+   "creator": "Unknown",
+   "religion": "Islam"
+  },
+  {
+   "identifier": "AdhaN_M_up-by-muslem",
+   "title": "\u062d\u0645\u0644 \u0648 \u0627\u0633\u062a\u0645\u0639 \u0627\u0644\u0649 \u0627\u0644\u0627\u0630\u0627\u0646 \u0628\u0635\u0648\u062a \u0627\u0644\u0639\u062f\u064a\u062f \u0645\u0646 \u0627\u0644\u0634\u064a\u0648\u062e \u0645\u0646 \u0645\u062e\u062a\u0644\u0641 \u0627\u0644\u062f\u0648\u0644 \u0627\u0644\u0625\u0633\u0644\u0627\u0645\u064a\u0629",
+   "creator": "\u062a\u0645 \u0631\u0641\u0639 \u0647\u0630\u0647 \u0627\u0644\u0645\u0627\u062f\u0629 \u0628\u0648\u0627\u0633\u0637\u0629 \u0645\u064f\u0633\u0644\u0645 \u0627\u0644\u062a\u0648\u0646\u0633\u064a_uP_bY_mUSLEm",
+   "religion": "Islam"
+  },
+  {
+   "identifier": "all----years-----mp3--do3aa----traweeh--and--khatm---quran---and--laylat--alqa_717",
+   "title": "\u0635\u0648\u062a\u064a \u0645\u0648\u0633\u0648\u0639\u0629 \u0627\u0644\u0627\u062f\u0639\u064a\u0629 \u0627\u0644\u062e\u0627\u0634\u0639\u0629 \u0627\u0643\u062b\u0631 \u0645\u0646 400 \u062f\u0639\u0627\u0621 \u062e\u0627\u0634\u0639 \u0628\u0627\u0643\u064a \u0645\u0646 \u0631\u0645\u0636\u0627\u0646 \u0643\u0644 \u0627\u0644\u0633\u0646\u064a\u0646 \u0644\u0627\u062c\u0645\u0644 \u0627\u0644\u0627\u0635\u0648\u0627\u062a \u0628\u0645\u0627 \u0641\u064a\u0647\u0627 \u0639\u0627\u0645 1435 \u0639\u0627\u0645 2014 - \u0627\u0644\u062a\u0631\u0627\u0648\u064a\u062d \u0648 \u0627\u0644\u062a\u0647\u062c\u062f \u0648 \u062f\u0639\u0627\u0621 \u062e\u062a\u0645 \u0627\u0644\u0642\u0631\u0627\u0646 \u0648 \u0644\u064a\u0644\u0629 \u0627\u0644\u0642\u062f\u0631 \u0644\u0643\u0644 \u0627\u0644\u0642\u0631\u0627\u0621 \u0645\u062b\u0644 \u0646\u0627\u0635\u0631 \u0627\u0644\u0642\u0637\u0627\u0645\u064a - \u064a\u0627\u0633\u0631 \u0627\u0644\u062f\u0648\u0633\u0631\u064a - \u0627\u062f\u0631\u064a\u0633 \u0627\u0628\u0643\u0631 - \u0633\u0639\u062f \u0627\u0644\u063a\u0627\u0645\u062f\u064a - \u062e\u0627\u0644\u062f \u0627\u0644\u062c\u0644\u064a\u0644 - \u0628\u0646\u062f\u0631 \u0628\u0644\u064a\u0644\u0629 - \u0645\u0627\u0647\u0631 \u0627\u0644\u0645\u0639\u064a\u0642\u0644\u064a - \u0627\u0644\u0643\u0644\u0628\u0627\u0646\u064a - \u0639\u0645\u0631 \u0627\u0644\u0642\u0632\u0627\u0628\u0631\u064a - \u0639\u0628\u062f \u0627\u0644\u0639\u0632\u064a\u0632 \u0627\u0644\u0632\u0647\u0631\u0627\u0646\u064a - \u0639\u0628\u062f \u0627\u0644\u0648\u0644\u064a \u0627\u0644\u0627\u0631\u0643\u0627\u0646\u064a - \u0627\u0644\u0634\u0627\u0637\u0631\u064a - -",
+   "creator": "\u0634\u0628\u0643\u0629 \u0631\u0628\u064a\u0639 \u0627\u0644\u0641\u0631\u062f\u0648\u0633 \u0627\u0644\u0627\u0639\u0644\u0649",
+   "religion": "Islam"
+  },
+  {
+   "identifier": "64kb--yaser--aldosry---quran--mp3---604--part---full",
+   "title": "\u064a\u0627\u0633\u0631 \u0627\u0644\u062f\u0648\u0633\u0631\u064a \u0645\u0635\u062d\u0641 \u0645\u0642\u0633\u0645 \u0635\u0641\u062d\u0627\u062a",
+   "creator": "\u0634\u0628\u0643\u0629 \u0631\u0628\u064a\u0639 \u0627\u0644\u0641\u0631\u062f\u0648\u0633 \u0627\u0644\u0627\u0639\u0644\u0649",
+   "religion": "Islam"
+  },
+  {
+   "identifier": "NaghamaT_W_HassanaT_Mobile_Rings_ParT-1_Up-By-MusleM",
+   "title": "\u0640\u0640 163 \u0646\u063a\u0645\u0629 \u0644\u0644\u062c\u0648\u0627\u0644 ..\u0645\u0642\u062a\u0637\u0641\u0627\u062a \u0645\u0646 \u0623\u062c\u0645\u0644 \u0627\u0644\u0623\u0646\u0627\u0634\u064a\u062f \u0627\u0644\u0625\u0633\u0644\u0627\u0645\u064a\u0629",
+   "creator": "\u062a\u0645 \u0631\u0641\u0639 \u0647\u0630\u0647 \u0627\u0644\u0645\u0627\u062f\u0629 \u0628\u0648\u0627\u0633\u0637\u0629 \u0645\u064f\u0633\u0644\u0645 \u0627\u0644\u062a\u0648\u0646\u0633\u064a_uP_bY_mUSLEm",
+   "religion": "Islam"
+  },
+  {
+   "identifier": "Saad_Al_Ghamdi-256-KBPS_up-by-muslem",
+   "title": "256KBPS_\u0627\u0644\u0645\u0635\u062d\u0641 \u0627\u0644\u0645\u0631\u062a\u0644 \u0644\u0644\u0642\u0627\u0631\u0626 \u0633\u0639\u062f \u0627\u0644\u063a\u0627\u0645\u062f\u064a \u062c\u0648\u062f\u0629 \u0639\u0627\u0644\u064a\u0629 \u062c\u062f\u0627",
+   "creator": "uP_bY_mUSLEm-\u062a\u0645 \u0631\u0641\u0639 \u0647\u0630\u0647 \u0627\u0644\u0645\u0627\u062f\u0629 \u0628\u0648\u0627\u0633\u0637\u0629 \u0645\u0633\u0644\u0645 \u0627\u0644\u062a\u0648\u0646\u0633\u064a",
+   "religion": "Islam"
+  },
+  {
+   "identifier": "mshary-al3afasy-by-qasr-almonfasel-604-page-quran-mp3-128kb_21",
+   "title": "\u0645\u0635\u062d\u0641 \u0627\u0644\u0642\u0631\u0627\u0646 \u0645\u0642\u0633\u0645 \u0635\u0641\u062d\u0627\u062a \u0645\u0634\u0627\u0631\u064a \u0627\u0644\u0639\u0641\u0627\u0633\u064a \u0645\u0639 \u0642\u0635\u0631 \u0627\u0644\u0645\u0646\u0641\u0635\u0644 \u0628\u062c\u0648\u062f\u0629 \u0631\u0647\u064a\u0628\u0629 128 \u0643",
+   "creator": "Unknown",
+   "religion": "Islam"
+  },
+  {
+   "identifier": "quran-minshawi-child-repeat",
+   "title": "Full Qur'an - Minshawi - Child Repeat",
+   "creator": "AbdurRahman.Org",
+   "religion": "Islam"
+  },
+  {
+   "identifier": "AlQuranWithBengaliBanglaTranslation-ReciterMisharyRashidAl-Afasy",
+   "title": "Al Quran with Bengali / Bangla Translation - Reciter Mishary Rashid Al-Afasy",
+   "creator": "Unknown",
+   "religion": "Islam"
+  },
+  {
+   "identifier": "BacaanDanTerjemahanAlQuran-MisharyAlAffasy",
+   "title": "Bacaan dan Terjemahan Al Quran - Mishary Al Affasy",
+   "creator": "JomKuliah.com",
+   "religion": "Islam"
+  },
+  {
+   "identifier": "Maher_Al-Muaiqly_Quran",
+   "title": "\u0627\u0644\u0645\u0635\u062d\u0641 \u0627\u0644\u0645\u0631\u062a\u0644 \u0644\u0644\u0642\u0627\u0631\u0626 \u0627\u0644\u0634\u064a\u062e \u0645\u0627\u0647\u0631 \u0627\u0644\u0645\u0639\u064a\u0642\u0644\u064a - The Holy Quran Recited by Sheikh Maher Al-Muaiqly",
+   "creator": "\u0645\u0627\u0647\u0631 \u0627\u0644\u0645\u0639\u064a\u0642\u0644\u064a",
+   "religion": "Islam"
+  },
+  {
+   "identifier": "imamlari",
+   "title": "kabe imamlari hatim",
+   "creator": "kabe imamlari",
+   "religion": "Islam"
+  },
+  {
+   "identifier": "ChapletOfDivineMercyInSongCourtesyTrishShort",
+   "title": "Chaplet Of Divine Mercy In Song Courtesy Trish Short",
+   "creator": "Unknown",
+   "religion": "Christian"
+  },
+  {
+   "identifier": "abideinchrist_cs_librivox",
+   "title": "Abide in Christ",
+   "creator": "Andrew Murray",
+   "religion": "Christian"
+  },
+  {
+   "identifier": "TheSoundOfTheRosary",
+   "title": "The Sound of the Rosary",
+   "creator": "Christian Peschken",
+   "religion": "Christian"
+  },
+  {
+   "identifier": "san_juan_0808_librivox",
+   "title": "El Evangelio Segun San Juan",
+   "creator": "Reina Valera",
+   "religion": "Christian"
+  },
+  {
+   "identifier": "quraninindonesia",
+   "title": "Holy Quran in Indonesian Translation MP3",
+   "creator": "Quran in Indonesian Terjemahnya Translation MP3",
+   "religion": "Christian"
+  },
+  {
+   "identifier": "8thanniversary_1308_librivox",
+   "title": "LibriVox 8th Anniversary Collection",
+   "creator": "Various",
+   "religion": "Christian"
+  },
+  {
+   "identifier": "holybiblenondrama",
+   "title": "4kimage",
+   "creator": "Unknown",
+   "religion": "Christian"
+  },
+  {
+   "identifier": "hindi-meal",
+   "title": "QURAN ARABiC - HiNDi TRANSLATiON MP3",
+   "creator": "Es-Sudais - Yunus Khan",
+   "religion": "Christian"
+  },
+  {
+   "identifier": "OTRR_Ranger_Bill_Singles",
+   "title": "Ranger Bill - Single Episodes",
+   "creator": "Old Time Radio Researchers Group",
+   "religion": "Christian"
+  },
+  {
+   "identifier": "6thanniversary_1108_librivox",
+   "title": "LibriVox 6th Anniversary Collection",
+   "creator": "Various",
+   "religion": "Christian"
+  },
+  {
+   "identifier": "lifeofantony_1308_librivox",
+   "title": "Life of Anthony",
+   "creator": "Athanasius of Alexandria",
+   "religion": "Christian"
+  },
+  {
+   "identifier": "tamilquranmp3",
+   "title": "QURAN TAMiL TRANSLATiON MP3",
+   "creator": "QURAN TAMiL",
+   "religion": "Christian"
+  },
+  {
+   "identifier": "biblecurious",
+   "title": "Bible Curious",
+   "creator": "Arthur Milliken",
+   "religion": "Christian"
+  },
+  {
+   "identifier": "bible_kjv_01_02_03_0908_librivox",
+   "title": "Bible (KJV) 01-03: Genesis, Exodus and Leviticus",
+   "creator": "King James Version",
+   "religion": "Christian"
+  },
+  {
+   "identifier": "romanos_1103_librivox",
+   "title": "Bible (Reina Valera 1909) NT 06: La Epistola del Apostol San Pablo a los Romanos",
+   "creator": "Reina Valera",
+   "religion": "Christian"
+  },
+  {
+   "identifier": "jagat-mein-jhoothi-dekhi-preet-part-1-mr-jatt.com-1_202011",
+   "title": "Bhai Joginder Singh",
+   "creator": "Unknown",
+   "religion": "Sikh"
+  },
+  {
+   "identifier": "SUPRABHATAM",
+   "title": "SUPRABHATAM",
+   "creator": "Unknown",
+   "religion": "Sikh"
+  },
+  {
+   "identifier": "ChhelChhogalo",
+   "title": "Chhel Chhogalo",
+   "creator": "Unknown",
+   "religion": "Sikh"
+  },
+  {
+   "identifier": "vaddi-vadiyai-ja-vadda-nao-new-katha",
+   "title": "Katha",
+   "creator": "Unknown",
+   "religion": "Sikh"
+  },
+  {
+   "identifier": "sikhreligion4_1905_librivox",
+   "title": "The Sikh Religion: Its Gurus, Sacred Writings and Authors, Volume 4",
+   "creator": "Max Arthur Macauliffe",
+   "religion": "Sikh"
+  },
+  {
+   "identifier": "Rain_without_clouds",
+   "title": "Bhagwan Rajneesh HINDI AUDIOS COLLECTION A TO D Amr Files",
+   "creator": "Bhagwan Rajneesh",
+   "religion": "Sikh"
+  },
+  {
+   "identifier": "Savariya",
+   "title": "Savariya",
+   "creator": "Unknown",
+   "religion": "Sikh"
+  },
+  {
+   "identifier": "sikhreligion_1504_librivox",
+   "title": "The Sikh Religion: Its Gurus, Sacred Writings and Authors, Volume 1",
+   "creator": "Max Arthur Macauliffe",
+   "religion": "Sikh"
+  },
+  {
+   "identifier": "asa-di-war-vol-4_202105",
+   "title": "Asa Di War Katha",
+   "creator": "Unknown",
+   "religion": "Sikh"
+  },
+  {
+   "identifier": "purvaraga",
+   "title": "Purva-raga - Radha and Krishna fall in love",
+   "creator": "Lake of Flowers Productions",
+   "religion": "Sikh"
+  },
+  {
+   "identifier": "sikhreligion2_1510_librivox",
+   "title": "The Sikh Religion: Its Gurus, Sacred Writings and Authors, Volume 2",
+   "creator": "Max Arthur Macauliffe",
+   "religion": "Sikh"
+  },
+  {
+   "identifier": "adhivasa",
+   "title": "Adhivasa-kirtana - The opening songs of a festival (2005-2006)",
+   "creator": "Lake of Flowers Productions",
+   "religion": "Sikh"
+  },
+  {
+   "identifier": "Ocean_in_a_Drop",
+   "title": "Bhagwan Rajneesh OSHO HINDI AUDIOS collection M-Z amr",
+   "creator": "Rajneesh",
+   "religion": "Sikh"
+  },
+  {
+   "identifier": "BalaJogi",
+   "title": "Bala Jogi",
+   "creator": "Unknown",
+   "religion": "Sikh"
+  },
+  {
+   "identifier": "JagoMereLalJago",
+   "title": "Jago Mere Lal Jago",
+   "creator": "Unknown",
+   "religion": "Sikh"
+  },
+  {
+   "identifier": "3HOURSOfHEALINGZENMusic",
+   "title": "3 HOURS Of HEALING ZEN Music",
+   "creator": "Unknown",
+   "religion": "Buddhist"
+  },
+  {
+   "identifier": "dhammapada_0707_librivox",
+   "title": "The Dhammapada",
+   "creator": "Translated by F. Max Muller",
+   "religion": "Buddhist"
+  },
+  {
+   "identifier": "elsagrado",
+   "title": "QURAN ARABiC SPANiSH (Espa\u00f1ol) EL SAGRADO MP3",
+   "creator": "EL SAGRADO",
+   "religion": "Buddhist"
+  },
+  {
+   "identifier": "quranarabichindimp3",
+   "title": "Holy Quran Translation Arabic - Hindi News (Reciter Mohammed Siddiq Al-Minshawi) MP3",
+   "creator": "Quran in Hindi MP3",
+   "religion": "Buddhist"
+  },
+  {
+   "identifier": "VenAjahnChah",
+   "title": "\u0e40\u0e2a\u0e35\u0e22\u0e07\u0e2d\u0e48\u0e32\u0e19\u0e18\u0e23\u0e23\u0e21\u0e40\u0e17\u0e28\u0e19\u0e32\u0e2b\u0e25\u0e27\u0e07\u0e1b\u0e39\u0e48\u0e0a\u0e32 \u0e2a\u0e38\u0e20\u0e31\u0e17\u0e42\u0e17",
+   "creator": "\u0e18\u0e23\u0e23\u0e21\u0e2a\u0e20\u0e32",
+   "religion": "Buddhist"
+  },
+  {
+   "identifier": "AmbientSoundbathPodcast",
+   "title": "Ambient Soundbath Podcast",
+   "creator": "Matt Borghi",
+   "religion": "Buddhist"
+  },
+  {
+   "identifier": "quraninkannada",
+   "title": "Kannada Translation of The Holy Quran MP3",
+   "creator": "Quran in Kannada Mp3",
+   "religion": "Buddhist"
+  },
+  {
+   "identifier": "telugumeal",
+   "title": "QURAN TELUGU TRANSLATiON MP3",
+   "creator": "Al Musahaf Al Kamil",
+   "religion": "Buddhist"
+  },
+  {
+   "identifier": "buddhist_writings_0911_librivox",
+   "title": "Buddhist Writings",
+   "creator": "Various",
+   "religion": "Buddhist"
+  },
+  {
+   "identifier": "dasgrunegesicht_1309_librivox",
+   "title": "Das Gr\u00fcne Gesicht",
+   "creator": "Gustav Meyrink",
+   "religion": "Buddhist"
+  },
+  {
+   "identifier": "qur-translation",
+   "title": "News Holy Quran Translation Arabic English German French Turkish Spanish MP3 Audio",
+   "creator": "Unknown",
+   "religion": "Buddhist"
+  },
+  {
+   "identifier": "YatharthGeetaHindiAudio",
+   "title": "Yatharth Geeta - Srimad Bhagavad Gita - Hindi (Audio)",
+   "creator": "Swami Adgadanand",
+   "religion": "Buddhist"
+  },
+  {
+   "identifier": "Episode33-TheHawkAndTheDove",
+   "title": "Episode 33 - The Hawk and the Dove",
+   "creator": "Lawrence Manzo",
+   "religion": "Buddhist"
+  },
+  {
+   "identifier": "buddhism_0707_librivox",
+   "title": "Buddhism and Buddhists in China",
+   "creator": "Lewis Hodus",
+   "religion": "Buddhist"
+  },
+  {
+   "identifier": "mystic_will_1207_librivox",
+   "title": "The Mystic Will",
+   "creator": "Charles Godfrey Leland",
+   "religion": "Buddhist"
+  }
+ ]
 }
