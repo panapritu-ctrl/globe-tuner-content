@@ -1,34 +1,32 @@
 {
-  "version": 3,
-  "updated": "2026-07-29T14:38:35Z",
+  "version": 4,
+  "updated": "2026-07-29T14:47:49Z",
   "files": [
     "radio/radio_africa.json",
-    "radio/radio_americas.json",
-    "radio/radio_asia.json",
-    "radio/radio_europe.json",
     "radio/radio_oceania.json",
-    "radio/radio_other.json"
+    "radio/radio_other.json",
+    "radio/radio_europe_1.json",
+    "radio/radio_europe_2.json",
+    "radio/radio_europe_3.json",
+    "radio/radio_europe_4.json",
+    "radio/radio_europe_5.json",
+    "radio/radio_europe_6.json",
+    "radio/radio_europe_7.json",
+    "radio/radio_europe_8.json",
+    "radio/radio_americas_1.json",
+    "radio/radio_americas_2.json",
+    "radio/radio_americas_3.json",
+    "radio/radio_americas_4.json",
+    "radio/radio_americas_5.json",
+    "radio/radio_asia_1.json",
+    "radio/radio_asia_2.json",
+    "radio/radio_asia_3.json"
   ],
   "regions": [
     {
       "file": "radio/radio_africa.json",
       "region": "africa",
       "count": 963
-    },
-    {
-      "file": "radio/radio_americas.json",
-      "region": "americas",
-      "count": 10209
-    },
-    {
-      "file": "radio/radio_asia.json",
-      "region": "asia",
-      "count": 6694
-    },
-    {
-      "file": "radio/radio_europe.json",
-      "region": "europe",
-      "count": 19905
     },
     {
       "file": "radio/radio_oceania.json",
@@ -39,6 +37,102 @@
       "file": "radio/radio_other.json",
       "region": "other",
       "count": 49
+    },
+    {
+      "file": "radio/radio_europe_1.json",
+      "region": "europe",
+      "part": 1,
+      "count": 2500
+    },
+    {
+      "file": "radio/radio_europe_2.json",
+      "region": "europe",
+      "part": 2,
+      "count": 2500
+    },
+    {
+      "file": "radio/radio_europe_3.json",
+      "region": "europe",
+      "part": 3,
+      "count": 2500
+    },
+    {
+      "file": "radio/radio_europe_4.json",
+      "region": "europe",
+      "part": 4,
+      "count": 2500
+    },
+    {
+      "file": "radio/radio_europe_5.json",
+      "region": "europe",
+      "part": 5,
+      "count": 2500
+    },
+    {
+      "file": "radio/radio_europe_6.json",
+      "region": "europe",
+      "part": 6,
+      "count": 2500
+    },
+    {
+      "file": "radio/radio_europe_7.json",
+      "region": "europe",
+      "part": 7,
+      "count": 2500
+    },
+    {
+      "file": "radio/radio_europe_8.json",
+      "region": "europe",
+      "part": 8,
+      "count": 2405
+    },
+    {
+      "file": "radio/radio_americas_1.json",
+      "region": "americas",
+      "part": 1,
+      "count": 2500
+    },
+    {
+      "file": "radio/radio_americas_2.json",
+      "region": "americas",
+      "part": 2,
+      "count": 2500
+    },
+    {
+      "file": "radio/radio_americas_3.json",
+      "region": "americas",
+      "part": 3,
+      "count": 2500
+    },
+    {
+      "file": "radio/radio_americas_4.json",
+      "region": "americas",
+      "part": 4,
+      "count": 2500
+    },
+    {
+      "file": "radio/radio_americas_5.json",
+      "region": "americas",
+      "part": 5,
+      "count": 209
+    },
+    {
+      "file": "radio/radio_asia_1.json",
+      "region": "asia",
+      "part": 1,
+      "count": 2500
+    },
+    {
+      "file": "radio/radio_asia_2.json",
+      "region": "asia",
+      "part": 2,
+      "count": 2500
+    },
+    {
+      "file": "radio/radio_asia_3.json",
+      "region": "asia",
+      "part": 3,
+      "count": 1694
     }
   ]
 }
