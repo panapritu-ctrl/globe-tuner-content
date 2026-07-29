@@ -50,24 +50,35 @@ likewise for the other three. If you edit a category file, regenerate (or
 manually mirror the change into) the matching legacy file too, or older
 app installs won't see the update until they're upgraded.
 
-## Radio: regional coverage (2026-07 refresh)
+## Radio: regional coverage (2026-07 refresh, expanded same month)
 
-`radio/` was expanded from the original ~5,000 curated stations to ~5,800 by
-pulling verified-working (`hidebroken`, ordered by votes) stations per
-country from the [Radio Browser API](https://api.radio-browser.info) — a
-community-run, continuously-verified directory of internet radio streams —
-so small/less-popular countries get representation rather than the list
-skewing toward the US/UK. Deduped against the existing list by normalized
-stream URL and by (title, country).
+`radio/` was expanded from the original ~5,000 curated stations in two
+passes, both pulling verified-working (`hidebroken=true`, `lastcheckok=1`,
+ordered by votes) stations per country from the
+[Radio Browser API](https://api.radio-browser.info) — a community-run,
+continuously-verified directory of internet radio streams — so small/
+less-popular countries get representation rather than the list skewing
+toward the US/UK. Deduped at every step against the existing list by
+normalized stream URL and by (title, country).
+
+- Pass 1: top ~15/country → 5,788 total.
+- Pass 2: full per-country pull (no cap, still `hidebroken`-filtered) →
+  **39,626 total**.
 
 | Region    | Stations |
 |-----------|----------|
-| Europe    | 2,564    |
-| Americas  | 1,306    |
-| Asia      | 1,212    |
-| Africa    | 515      |
-| Oceania   | 142      |
+| Europe    | 19,905   |
+| Americas  | 10,209   |
+| Asia      | 6,694    |
+| Oceania   | 1,806    |
+| Africa    | 963      |
 | Other     | 49       |
+
+Region sizes reflect real-world coverage in Radio Browser's database, not a
+curation choice — Africa has far fewer catalogued streams there than Europe/
+Americas. `radio/radio_europe.json` is ~6.9MB uncompressed; the app fetches
+it (and every region file) with a 25s timeout and falls back to bundled
+content silently if that's too slow on a given connection.
 
 ## Editing a station entry
 
