@@ -3,18 +3,73 @@
 Editable content lists for the Globe Tuner app, fetched at runtime so a fix or
 addition here goes live without an app store release.
 
-## Files
+## Layout (split by index, 2026-07)
 
-- `radio.json` — curated live radio stations. **Primary source** for the
-  "Featured" radio rows; the app's bundled station list is the offline
-  fallback if this can't be reached, and the Radio Browser API covers
-  everything else (country browsing, search).
-- `podcasts.json`, `audiobooks.json`, `devotional.json` — optional
-  "Editor's Picks" layered on top of their live APIs (iTunes Search /
-  Internet Archive), which are already large and self-updating. Leave
-  `items: []` until you want to curate a specific list.
+Each content type now follows the same pattern: an index file at the repo
+root listing category files, plus the category files themselves in a
+subfolder. This replaced single monolithic files (`radio.json` had grown to
+~1.5MB / 5,000 stations / 45,000 lines, unwieldy to hand-edit on github.com)
+without breaking older app builds — see "Legacy files" below.
 
-## Editing `radio.json`
+| Content   | Index                    | Category files                     | Split by            |
+|-----------|---------------------------|-------------------------------------|----------------------|
+| Radio     | `radio_index.json`         | `radio/radio_<region>.json`         | continent            |
+| Podcasts  | `podcasts_index.json`      | `podcasts/podcasts_<category>.json` | genre bucket         |
+| Audiobooks| `audiobooks_index.json`    | `audiobooks/audiobooks_<genre>.json`| genre                |
+| Devotional| `devotional_index.json`    | `devotional/devotional_<religion>.json` | religion         |
+
+An index file looks like:
+
+```json
+{
+  "version": 2,
+  "updated": "2026-07-29T00:00:00Z",
+  "files": ["radio/radio_europe.json", "radio/radio_asia.json", "..."]
+}
+```
+
+The app fetches the index, then fetches every listed file in parallel and
+merges the results — same `Future.wait` fan-out pattern it already used for
+the 4 top-level fetches (see `RemoteContentService` in the app repo).
+
+**To add/fix a station**: edit the one region file it lives in (or add a new
+region file and list it in `radio_index.json`) — never the whole list.
+
+**To add a brand new region/category file**: create it, then add its path
+to the relevant `_index.json`'s `files` array. No app update needed.
+
+## Legacy files (`radio.json`, `podcasts.json`, `audiobooks.json`,
+`devotional.json`)
+
+Kept at the repo root, same filename/shape as before, and **must stay in
+sync** with the split files — they're the fallback for app installs that
+predate the split-fetch code (which checks the index first, and falls back
+to fetching the single legacy file by its old name if the index 404s or is
+empty). `radio.json` is the union of all `radio/radio_*.json` files;
+likewise for the other three. If you edit a category file, regenerate (or
+manually mirror the change into) the matching legacy file too, or older
+app installs won't see the update until they're upgraded.
+
+## Radio: regional coverage (2026-07 refresh)
+
+`radio/` was expanded from the original ~5,000 curated stations to ~5,800 by
+pulling verified-working (`hidebroken`, ordered by votes) stations per
+country from the [Radio Browser API](https://api.radio-browser.info) — a
+community-run, continuously-verified directory of internet radio streams —
+so small/less-popular countries get representation rather than the list
+skewing toward the US/UK. Deduped against the existing list by normalized
+stream URL and by (title, country).
+
+| Region    | Stations |
+|-----------|----------|
+| Europe    | 2,564    |
+| Americas  | 1,306    |
+| Asia      | 1,212    |
+| Africa    | 515      |
+| Oceania   | 142      |
+| Other     | 49       |
+
+## Editing a station entry
 
 Each station:
 

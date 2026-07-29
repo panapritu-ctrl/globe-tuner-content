@@ -1,0 +1,44 @@
+{
+  "version": 2,
+  "updated": "2026-07-29T14:26:39Z",
+  "files": [
+    "audiobooks/audiobooks_biography.json",
+    "audiobooks/audiobooks_fictions.json",
+    "audiobooks/audiobooks_history.json",
+    "audiobooks/audiobooks_love_story.json",
+    "audiobooks/audiobooks_mystery.json",
+    "audiobooks/audiobooks_self_help.json"
+  ],
+  "genres": [
+    {
+      "file": "audiobooks/audiobooks_biography.json",
+      "genre": "biography",
+      "count": 300
+    },
+    {
+      "file": "audiobooks/audiobooks_fictions.json",
+      "genre": "fictions",
+      "count": 300
+    },
+    {
+      "file": "audiobooks/audiobooks_history.json",
+      "genre": "history",
+      "count": 300
+    },
+    {
+      "file": "audiobooks/audiobooks_love_story.json",
+      "genre": "love_story",
+      "count": 300
+    },
+    {
+      "file": "audiobooks/audiobooks_mystery.json",
+      "genre": "mystery",
+      "count": 300
+    },
+    {
+      "file": "audiobooks/audiobooks_self_help.json",
+      "genre": "self_help",
+      "count": 300
+    }
+  ]
+}

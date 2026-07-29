@@ -1,0 +1,44 @@
+{
+  "version": 2,
+  "updated": "2026-07-29T14:25:51Z",
+  "files": [
+    "radio/radio_africa.json",
+    "radio/radio_americas.json",
+    "radio/radio_asia.json",
+    "radio/radio_europe.json",
+    "radio/radio_oceania.json",
+    "radio/radio_other.json"
+  ],
+  "regions": [
+    {
+      "file": "radio/radio_africa.json",
+      "region": "africa",
+      "count": 515
+    },
+    {
+      "file": "radio/radio_americas.json",
+      "region": "americas",
+      "count": 1306
+    },
+    {
+      "file": "radio/radio_asia.json",
+      "region": "asia",
+      "count": 1212
+    },
+    {
+      "file": "radio/radio_europe.json",
+      "region": "europe",
+      "count": 2564
+    },
+    {
+      "file": "radio/radio_oceania.json",
+      "region": "oceania",
+      "count": 142
+    },
+    {
+      "file": "radio/radio_other.json",
+      "region": "other",
+      "count": 49
+    }
+  ]
+}
