@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-07-29T14:38:35Z",
+  "updated": "2026-07-30T15:39:31Z",
   "region": "oceania",
   "stations": [
     {
@@ -88,19 +88,6 @@
       "bitrate": 24
     },
     {
-      "id": "rb_station_ce6dc5a4",
-      "title": "希望之声",
-      "subtitle": "Radio",
-      "imageUrl": "https://www.soundofhope.org/img/logo.svg",
-      "streamUrl": "https://livecast1.soundofhope.org:2087/soh-live",
-      "location": "USA, American Samoa",
-      "genre": "Radio",
-      "countryCode": "AS",
-      "language": null,
-      "clickCount": 5,
-      "bitrate": 128
-    },
-    {
       "id": "1_au",
       "title": "1",
       "subtitle": "AAC+ 32kbps",
@@ -171,19 +158,6 @@
       "bitrate": 192
     },
     {
-      "id": "rb2_101_9_the_fox_melbourne_3f8fa6c1",
-      "title": "101.9 The Fox Melbourne",
-      "subtitle": "Adult Contemporary",
-      "imageUrl": "https://hit.listnr.com/wp-content/uploads/2024/04/cropped-hit-favicon-180x180.png",
-      "streamUrl": "https://wz3liw.scahw.com.au/live/3fox_128.stream/playlist.m3u8",
-      "location": "Melbourne VIC, Australia",
-      "genre": "Adult Contemporary",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 2,
-      "bitrate": 130
-    },
-    {
       "id": "rb2_102_7_fm_toowoomba_0ff351e4",
       "title": "102.7 FM Toowoomba",
       "subtitle": "Community Radio",
@@ -245,15 +219,6 @@
       "bitrate": 64
     },
     {
-      "id": "107_1_safm_adelaide_au",
-      "title": "107.1 SAFM Adelaide",
-      "subtitle": "Adult Contemporary / Pop",
-      "location": "South Australia, Australia",
-      "genre": "Pop",
-      "countryCode": "AU",
-      "streamUrl": "https://wz5liw.scahw.com.au/live/5ssa_128.stream/playlist.m3u8"
-    },
-    {
       "id": "rb2_107_3_hfm_gosnells_83c3d75f",
       "title": "107.3 HFM Gosnells",
       "subtitle": "Community Radio",
@@ -303,32 +268,6 @@
       "countryCode": "AU",
       "language": null,
       "clickCount": 6,
-      "bitrate": 64
-    },
-    {
-      "id": "rb2_1170_sen_sydney_08f5ceb0",
-      "title": "1170 SEN Sydney",
-      "subtitle": "Sport",
-      "imageUrl": "https://www.sen.com.au/icon.png?82291b6720bc6ca8",
-      "streamUrl": "https://d11fwwlrb0wuhh.cloudfront.net/playlist.m3u8",
-      "location": "Australia",
-      "genre": "Sport",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 1,
-      "bitrate": 65
-    },
-    {
-      "id": "rb2_2_oceans_fm_augusta_9a99bf30",
-      "title": "2 Oceans FM Augusta",
-      "subtitle": "Community",
-      "imageUrl": "https://www.2oceansfm.com.au/favicon.ico",
-      "streamUrl": "https://s2.stationplaylist.com:7032/listen.aac",
-      "location": "Australia",
-      "genre": "Community",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
       "bitrate": 64
     },
     {
@@ -395,19 +334,6 @@
       "language": "english",
       "clickCount": 0,
       "bitrate": 64
-    },
-    {
-      "id": "rb2_2ay_albury_1494_am_http_278f03c7",
-      "title": "2AY - Albury - 1494 AM (HTTP)",
-      "subtitle": "Classic Hits, News",
-      "imageUrl": "https://i.ibb.co/4jC4RQd/ACE-2-AY-1176191-config-station-logo-image-1446180575.png",
-      "streamUrl": "http://wz2liw.scahw.com.au/live/2ay_128.stream/playlist.m3u8",
-      "location": "New South Wales, Australia",
-      "genre": "Classic Hits",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 130
     },
     {
       "id": "rb2_2bob_radio_taree_104_7_fm_aac_033d5dc1",
@@ -597,19 +523,6 @@
       "bitrate": 33
     },
     {
-      "id": "rb2_2dayfm_104_1_sydney_3b06ec44",
-      "title": "2DayFM 104.1 Sydney",
-      "subtitle": "Adult Contemporary",
-      "imageUrl": "https://images.ctfassets.net/yxg7lydfj6tc/a03bb302-c2be-4f60-81b2-145a24c62edc/09d58d340e1ffe74f3fdcf133aca2df7/0001-2day.png",
-      "streamUrl": "https://wz2liw.scahw.com.au/live/2day_128.stream/playlist.m3u8",
-      "location": "Sydney NSW, Australia",
-      "genre": "Adult Contemporary",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 130
-    },
-    {
       "id": "rb2_2ec_58c52d2f",
       "title": "2EC",
       "subtitle": "Community Radio, Local News",
@@ -665,19 +578,6 @@
       "genre": "News",
       "streamUrl": "https://28093.live.streamtheworld.com/2GBAAC_O/HLS/playlist.m3u8",
       "countryCode": "AU"
-    },
-    {
-      "id": "rb2_2gb_sydney_low_video_stream_no_ads_17f74315",
-      "title": "2GB Sydney (Low Video Stream No Ads)",
-      "subtitle": "News, Radio Webcams",
-      "imageUrl": "https://www.2gb.com/wp-content/themes/2gb/assets/img/favicon/apple-touch-icon.png",
-      "streamUrl": "https://2gblive.akamaized.net/hls/live/2033805-b/2GB/2GB360B/chunklist.m3u8",
-      "location": "NSW, Australia",
-      "genre": "News",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
     },
     {
       "id": "rb2_2ghr_greater_hume_radio_b0a84d93",
@@ -819,32 +719,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_2me_gold_edcb7b39",
-      "title": "2ME Gold",
-      "subtitle": "Radio",
-      "imageUrl": "https://www.2me.com.au/wp-content/uploads/2019/09/2ME_dk_bg.png",
-      "streamUrl": "https://streaming.2me.com.au/2me-gold",
-      "location": "Australia",
-      "genre": "Radio",
-      "countryCode": "AU",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 64
-    },
-    {
-      "id": "rb2_2me_radio_arabic_aa5dc44c",
-      "title": "2ME Radio Arabic",
-      "subtitle": "Radio",
-      "imageUrl": "https://www.radio-australia.org/favicon.ico",
-      "streamUrl": "https://streaming.2me.com.au/2me",
-      "location": "Australia",
-      "genre": "Radio",
-      "countryCode": "AU",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 64
-    },
-    {
       "id": "rb2_2mfm_0155f9e9",
       "title": "2MFM",
       "subtitle": "Radio",
@@ -876,19 +750,6 @@
       "subtitle": "Community Radio, Local",
       "imageUrl": "https://i.ibb.co/x6fMYBM/430862664-1469848283796204-8591352733957084514-n.jpg",
       "streamUrl": "http://playerservices.streamtheworld.com/api/livestream-redirect/2MIA.mp3",
-      "location": "New South Wales, Australia",
-      "genre": "Community Radio",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_2mno_monaro_fm_bef628b0",
-      "title": "2MNO Monaro FM",
-      "subtitle": "Community Radio",
-      "imageUrl": "",
-      "streamUrl": "http://220.233.66.253:88/broadwave.m3u",
       "location": "New South Wales, Australia",
       "genre": "Community Radio",
       "countryCode": "AU",
@@ -1012,19 +873,6 @@
       "language": "english",
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_2qn_deniliquin_1521_am_e550a6b2",
-      "title": "2QN - Deniliquin - 1521 AM",
-      "subtitle": "Adult Contemporary, Classic Hits",
-      "imageUrl": "https://i.ibb.co/42FTd2K/5b7661bd7f66f2e057927a50.jpg",
-      "streamUrl": "http://wz2liw.scahw.com.au/live/2qn_128.stream/playlist.m3u8",
-      "location": "Victoria, Australia",
-      "genre": "Adult Contemporary",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 130
     },
     {
       "id": "rb2_2rrr_ryde_88_5_fm_mp3_4b4c220c",
@@ -1205,19 +1053,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_2ue_sydney_954_am_a1496048",
-      "title": "2UE - Sydney - 954 AM",
-      "subtitle": "Classic Hits, Oldies",
-      "imageUrl": "https://i.ibb.co/Cmm8W7k/ACE-2-UE-APP-SQUARE-3000x3000.jpg",
-      "streamUrl": "http://wz2liw.scahw.com.au/live/2ue_128.stream/playlist.m3u8",
-      "location": "Sydney NSW, Australia",
-      "genre": "Classic Hits",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 130
-    },
-    {
       "id": "rb2_2way_fm_port_macquarie_103_9_fm_mp3_85e801f5",
       "title": "2WAY FM - Port Macquarie - 103.9 FM (MP3)",
       "subtitle": "Community Radio, Miscellaneous",
@@ -1370,19 +1205,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_3cs_colac_1134_am_e8fcff35",
-      "title": "3CS - Colac - 1134 AM",
-      "subtitle": "Commercial, Music",
-      "imageUrl": "https://i.ibb.co/GRTFHP0/24718986-ffff-4426-9ab7-2f818f17c378.webp",
-      "streamUrl": "http://wz3liw.scahw.com.au/live/3cs_128.stream/playlist.m3u8",
-      "location": "Victoria, Australia",
-      "genre": "Commercial",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 1,
-      "bitrate": 130
-    },
-    {
       "id": "rb2_3gg_warragul_531_am_aac_b71b5f78",
       "title": "3GG - Warragul - 531 AM (AAC+)",
       "subtitle": "Classic Hits, Commercial",
@@ -1394,19 +1216,6 @@
       "language": "english",
       "clickCount": 1,
       "bitrate": 64
-    },
-    {
-      "id": "rb2_3ha_hamilton_portland_92_9_fm_981_am_df8dcd4f",
-      "title": "3HA - Hamilton / Portland - 92.9 FM / 981 AM",
-      "subtitle": "Commercial, Music",
-      "imageUrl": "https://i.ibb.co/TLfNbX2/3a44e0af-d775-4e95-9b04-5010f9db24c9.webp",
-      "streamUrl": "http://wz3liw.scahw.com.au/live/3ha_128.stream/playlist.m3u8",
-      "location": "Victoria, Australia",
-      "genre": "Commercial",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 65
     },
     {
       "id": "rb2_3knd_kool_n_deadly_1503_am_c24e76e8",
@@ -1474,32 +1283,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_3mp_melbourne_1377_am_ba662d59",
-      "title": "3MP - Melbourne - 1377 AM",
-      "subtitle": "Commercial, Easy Listening",
-      "imageUrl": "https://i.ibb.co/KxHPdVq/ACE-3-MP-APP-SQUARE-3000x3000.jpg",
-      "streamUrl": "http://wz3liw.scahw.com.au/live/3mp_128.stream/playlist.m3u8",
-      "location": "Melbourne VIC, Australia",
-      "genre": "Commercial",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 1,
-      "bitrate": 130
-    },
-    {
-      "id": "rb2_3ne_wangaratta_1566_am_db8e5ea3",
-      "title": "3NE - Wangaratta - 1566 AM",
-      "subtitle": "Adult Contemporary, Commercial",
-      "imageUrl": "https://i.ibb.co/Qpv04zW/5b7662cf7f66f2e057927a52.webp",
-      "streamUrl": "https://wz3liw.scahw.com.au/live/3ne_128.stream/playlist.m3u8",
-      "location": "Victoria, Australia",
-      "genre": "Adult Contemporary",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 129
-    },
-    {
       "id": "rb2_3rrr_triple_r_102_7_fm_melbourne_vic_low_9649707f",
       "title": "3RRR \"Triple R\" 102.7 FM Melbourne, VIC (low bitrate live stream)",
       "subtitle": "Community Radio, Indie",
@@ -1539,19 +1322,6 @@
       "bitrate": 64
     },
     {
-      "id": "rb2_3sh_swan_hill_1332_am_b26aee10",
-      "title": "3SH - Swan Hill - 1332 AM",
-      "subtitle": "Commercial, Music",
-      "imageUrl": "https://i.ibb.co/7gRXSkL/0b6b0cde-62ba-450c-aa72-edec88ada5da.webp",
-      "streamUrl": "http://wz3liw.scahw.com.au/live/3sh_128.stream/playlist.m3u8",
-      "location": "Victoria, Australia",
-      "genre": "Commercial",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 130
-    },
-    {
       "id": "rb2_3wbc_box_hill_melbourne_94_1_fm_aac_f6d36287",
       "title": "3WBC - Box Hill, Melbourne - 94.1 FM (AAC+)",
       "subtitle": "Community Radio, Local",
@@ -1563,32 +1333,6 @@
       "language": "english",
       "clickCount": 0,
       "bitrate": 56
-    },
-    {
-      "id": "rb2_3wm_horsham_1089_am_b8558b9a",
-      "title": "3WM - Horsham - 1089 AM",
-      "subtitle": "Commercial, Music",
-      "imageUrl": "https://i.ibb.co/FVMp7pg/ccf60d56-b86c-4603-ba5e-425a3d8c7358.webp",
-      "streamUrl": "http://wz3liw.scahw.com.au/live/3wm_128.stream/playlist.m3u8",
-      "location": "Victoria, Australia",
-      "genre": "Commercial",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 130
-    },
-    {
-      "id": "rb2_3yb_fm_warrnambool_94_5_fm_637a017e",
-      "title": "3YB FM - Warrnambool - 94.5 FM",
-      "subtitle": "Adult Contemporary, News",
-      "imageUrl": "https://i.ibb.co/msMhG4F/3YBFM.jpg",
-      "streamUrl": "http://wz3liw.scahw.com.au/live/3yb_128.stream/playlist.m3u8",
-      "location": "Victoria, Australia",
-      "genre": "Adult Contemporary",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 65
     },
     {
       "id": "rb2_3zzz_melbourne_92_3_fm_aac_932195b1",
@@ -1637,19 +1381,6 @@
       "genre": "News",
       "countryCode": "AU",
       "streamUrl": "http://playerservices.streamtheworld.com/api/livestream-redirect/4BC.mp3"
-    },
-    {
-      "id": "rb2_4bh_brisbane_1116_am_f54798a6",
-      "title": "4BH - Brisbane - 1116 AM",
-      "subtitle": "Classic Hits, Oldies",
-      "imageUrl": "https://i.ibb.co/dQMHBtc/ACE-4-BH-APP-SQUARE-3000x3000.jpg",
-      "streamUrl": "http://wz4liw.scahw.com.au/live/4bh_128.stream/playlist.m3u8",
-      "location": "Brisbane QLD, Australia",
-      "genre": "Classic Hits",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 130
     },
     {
       "id": "rb2_4bu_bundaberg_1332_am_aac_91df0c34",
@@ -2016,19 +1747,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_5aa_9609c9f5",
-      "title": "5AA",
-      "subtitle": "News, Talk",
-      "imageUrl": "https://www.fiveaa.com.au/wp-content/themes/theme-fiveaa.com.au/assets/icons/apple-touch-icon.png",
-      "streamUrl": "http://streaming.novaentertainment.com.au/fiveaa?type=.mp3",
-      "location": "South Australia, Australia",
-      "genre": "News",
-      "countryCode": "AU",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 48
-    },
-    {
       "id": "rb2_5ebi_103_1_fm_fb796ac8",
       "title": "5EBI 103.1 FM",
       "subtitle": "Mix",
@@ -2040,19 +1758,6 @@
       "language": "multiculti",
       "clickCount": 0,
       "bitrate": 192
-    },
-    {
-      "id": "rb2_5gtr_c2dd0612",
-      "title": "5GTR",
-      "subtitle": "Blues, Classical",
-      "imageUrl": "https://www.5gtr.net/favicon.ico",
-      "streamUrl": "http://203.45.194.8:88/broadwave.mp3",
-      "location": "Australia",
-      "genre": "Blues",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
     },
     {
       "id": "rb2_5mbs_99_9fm_349c1e42",
@@ -2114,19 +1819,6 @@
       "genre": "News",
       "streamUrl": "http://playerservices.streamtheworld.com/api/livestream-redirect/6PR.mp3",
       "countryCode": "AU"
-    },
-    {
-      "id": "rb2_70_s_to_90_s_hits_melbourne_mp3_78f8fa58",
-      "title": "70's To 90's Hits - Melbourne (MP3)",
-      "subtitle": "1970S, 1980S",
-      "imageUrl": "",
-      "streamUrl": "http://stream.zeno.fm/9y1n4cn8dd0uv",
-      "location": "Melbourne VIC, Australia",
-      "genre": "1970S",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 1,
-      "bitrate": 128
     },
     {
       "id": "rb2_70s_classics_sydney_mp3_655b54c2",
@@ -2409,19 +2101,6 @@
       "language": "arabic",
       "clickCount": 0,
       "bitrate": 64
-    },
-    {
-      "id": "rb2_90s_throwback_tracks_mp3_bb04ce6f",
-      "title": "90s Throwback Tracks (MP3)",
-      "subtitle": "1990S, 90'S",
-      "imageUrl": "https://i.ibb.co/6P5WzvN/image.jpg",
-      "streamUrl": "http://stream.zeno.fm/xo4hqc5s9djuv",
-      "location": "Australia",
-      "genre": "1990S",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
     },
     {
       "id": "rb2_91_1_hot_fm_maroochydore_91_1_fm_aac_0e953020",
@@ -4486,19 +4165,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_allhitoldies_mp3_4bf37053",
-      "title": "Allhitoldies (MP3)",
-      "subtitle": "1950S, 1960S",
-      "imageUrl": "https://i.ibb.co/LdQ11XTh/95073-v2.png",
-      "streamUrl": "http://67.212.238.178:7086/;",
-      "location": "Victoria, Australia",
-      "genre": "1950S",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_alpine_fm_kiewa_valley_ovens_valley_moun_ea8cb112",
       "title": "Alpine FM - Kiewa Valley / Ovens Valley - Mount Beauty - 96.5 FM / 92.9 FM (MP3)",
       "subtitle": "Community Radio",
@@ -4571,19 +4237,6 @@
       "streamUrl": "https://stream.artsound.fm/mp3",
       "location": "Canberra ACT, Australia",
       "genre": "Arts",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_aspire_radio_mp3_d9343354",
-      "title": "Aspire Radio (MP3)",
-      "subtitle": "Music",
-      "imageUrl": "https://i.ibb.co/wrq47j4/image.jpg",
-      "streamUrl": "http://stream.zeno.fm/tt8d4se3f2zuv",
-      "location": "Australia",
-      "genre": "Music",
       "countryCode": "AU",
       "language": "english",
       "clickCount": 0,
@@ -9088,19 +8741,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_australian_open_radio_ao_radio_aac_d5417cab",
-      "title": "Australian Open Radio - AO Radio (AAC)",
-      "subtitle": "Sports, Talk",
-      "imageUrl": "https://i.ibb.co/ZzzcZPGk/67842b82d166c5a385dc391a.webp",
-      "streamUrl": "https://streams.radiomast.io/32fda7c0-5457-4c24-8afb-d7ab1b9f9fc0",
-      "location": "Melbourne VIC, Australia",
-      "genre": "Sports",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_b_rock_fm_bathurst_99_3_fm_mp3_d7f0731a",
       "title": "B-Rock FM - Bathurst - 99.3 FM (MP3)",
       "subtitle": "Hot Adult Contemporary, Rock",
@@ -9114,15 +8754,6 @@
       "bitrate": 128
     },
     {
-      "id": "b105_105_3_brisbane_au_26aaf9",
-      "title": "B105 105.3 Brisbane",
-      "subtitle": "Adult Contemporary",
-      "location": "Brisbane, Australia",
-      "genre": "Adult Contemporary",
-      "streamUrl": "https://wz4liw.scahw.com.au/live/4bbb_128.stream/playlist.m3u8",
-      "countryCode": "AU"
-    },
-    {
       "id": "rb2_bbbfm_89_1_barossa_a0c9a448",
       "title": "BBBfm 89.1 Barossa",
       "subtitle": "Community",
@@ -9130,32 +8761,6 @@
       "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/5BBBAAC.aac",
       "location": "Australia",
       "genre": "Community",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_banging_hits_radio_melbourne_mp3_cfe64852",
-      "title": "Banging Hits Radio - Melbourne (MP3)",
-      "subtitle": "Music, Talk",
-      "imageUrl": "https://i.ibb.co/RYLM9Lk/image.jpg",
-      "streamUrl": "http://stream.zeno.fm/5u6utt21ueftv",
-      "location": "Melbourne VIC, Australia",
-      "genre": "Music",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_bar_sessions_mp3_5fded32a",
-      "title": "Bar Sessions (MP3)",
-      "subtitle": "Music",
-      "imageUrl": "https://i.ibb.co/vvwtmWk/image-1.webp",
-      "streamUrl": "http://stream.zeno.fm/47080zndvbruv",
-      "location": "Australia",
-      "genre": "Music",
       "countryCode": "AU",
       "language": "english",
       "clickCount": 0,
@@ -9240,19 +8845,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_beachside_fm_darwin_mp3_5ccc070e",
-      "title": "Beachside FM - Darwin (MP3)",
-      "subtitle": "All Music, Music",
-      "imageUrl": "https://i.ibb.co/XDszXXy/image.jpg",
-      "streamUrl": "http://stream.zeno.fm/608kfvke4nhvv",
-      "location": "Darwin NT, Australia",
-      "genre": "All Music",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_big_hits_radio_qld_townsville_north_quee_1cf68d54",
       "title": "Big Hits Radio QLD Townsville North Queensland 20220701",
       "subtitle": "Ballad, Classic Rock",
@@ -9305,19 +8897,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_bitwaves_980320a3",
-      "title": "BitWaves",
-      "subtitle": "Radio",
-      "imageUrl": "https://bitwaves.com.au/wp-content/uploads/2020/08/cropped-logocircle512png.png",
-      "streamUrl": "https://singapore.audio-stream.com/proxy/mlittl00?mp=/stream",
-      "location": "Australia",
-      "genre": "Radio",
-      "countryCode": "AU",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_bitwaves_classics_fad123b4",
       "title": "BitWaves Classics",
       "subtitle": "Radio",
@@ -9342,32 +8921,6 @@
       "language": null,
       "clickCount": 1,
       "bitrate": 320
-    },
-    {
-      "id": "rb2_blender_beats_bd0b1aa1",
-      "title": "Blender Beats",
-      "subtitle": "Adult Contemporary",
-      "imageUrl": "https://images.ctfassets.net/yxg7lydfj6tc/d1575cd5-4e24-4683-b217-d7acd50696c7/94d729909ca55f40f9dd61fe31b72ed5/blender-beats-dab-show-image-3000x3000.png",
-      "streamUrl": "https://wz2liw.scahw.com.au/live/2blenderbeats_128.stream/playlist.m3u8",
-      "location": "Sydney NSW, Australia",
-      "genre": "Adult Contemporary",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 130
-    },
-    {
-      "id": "rb2_blox_radio_b997dab8",
-      "title": "Blox Radio",
-      "subtitle": "Radio",
-      "imageUrl": "https://radio.typicalmedia.net/api/station/bloxradio/art/adcc35f8f994c68bbdb13583",
-      "streamUrl": "https://radio.typicalmedia.net/listen/bloxradio/stream",
-      "location": "Australia",
-      "genre": "Radio",
-      "countryCode": "AU",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 96
     },
     {
       "id": "rb2_bondi_radio_mp3_38835645",
@@ -9561,19 +9114,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_canberra_s_1way_fm_canberra_91_9_fm_aac_2241480d",
-      "title": "Canberra's 1WAY FM - Canberra - 91.9 FM (AAC+)",
-      "subtitle": "Christian, Community Radio",
-      "imageUrl": "https://i.ibb.co/hB2hksb/1-WAY-2546771-config-station-logo-image-1646965054.png",
-      "streamUrl": "http://playerservices.streamtheworld.com/api/livestream-redirect/1WAYAAC.aac",
-      "location": "Canberra ACT, Australia",
-      "genre": "Christian",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_canberra_s_1way_fm_canberra_91_9_fm_mp3_52821600",
       "title": "Canberra's 1WAY FM - Canberra - 91.9 FM (MP3)",
       "subtitle": "Christian, Community Radio",
@@ -9611,32 +9151,6 @@
       "language": null,
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_central_coast_radio_935cdc0f",
-      "title": "Central Coast Radio",
-      "subtitle": "Radio",
-      "imageUrl": "https://static.wixstatic.com/media/e8c1c3_6c84475d2ab248dea1423b5b6f794c7b~mv2.png/v1/fill/w_494,h_289,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/new%20logo%20trans%20300DPI%20512%20wide.png",
-      "streamUrl": "https://s4.radio.co/scf2280c01/low",
-      "location": "Australia",
-      "genre": "Radio",
-      "countryCode": "AU",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 64
-    },
-    {
-      "id": "rb2_central_coast_radio_com_238baf96",
-      "title": "Central Coast Radio.com",
-      "subtitle": "90'S And More!, Alternative Rock",
-      "imageUrl": "https://static.wixstatic.com/media/da30f8_ab7658c641924b3cbe4870ae11a3e5df%7emv2.png/v1/fill/w_32%2ch_32%2clg_1%2cusm_0.66_1.00_0.01/da30f8_ab7658c641924b3cbe4870ae11a3e5df%7emv2.png",
-      "streamUrl": "https://s4.radio.co/scf2280c01/listen",
-      "location": "New South Wales, Australia",
-      "genre": "90'S And More!",
-      "countryCode": "AU",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 192
     },
     {
       "id": "rb2_ch89_global_radio_melbourne_mp3_27f8426d",
@@ -9847,19 +9361,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_coast_2_coast_radio_australia_0cfbde6a",
-      "title": "Coast 2 Coast Radio Australia",
-      "subtitle": "Classic Rock  50'S 60'S 70'S 80'S 90'S",
-      "imageUrl": "",
-      "streamUrl": "http://stream.c2cra.online/live",
-      "location": "Australia",
-      "genre": "Classic Rock  50'S 60'S 70'S 80'S 90'S",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 320
-    },
-    {
       "id": "rb2_coast_fm_960a81e1",
       "title": "Coast FM",
       "subtitle": "Community Radio",
@@ -9871,19 +9372,6 @@
       "language": null,
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_coast_fm_warrnambool_95_3_fm_504a6fae",
-      "title": "Coast FM - Warrnambool - 95.3 FM",
-      "subtitle": "Contemporary Hits Radio",
-      "imageUrl": "https://i.ibb.co/hSp3n6G/279349411-399328248865653-8559756052769357219-n.jpg",
-      "streamUrl": "http://wz3liw.scahw.com.au/live/3yfm_128.stream/playlist.m3u8",
-      "location": "Victoria, Australia",
-      "genre": "Contemporary Hits Radio",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 65
     },
     {
       "id": "rb2_coast_fm_963_gosford_96_3_fm_aac_c671051c",
@@ -10081,19 +9569,6 @@
       "bitrate": 64
     },
     {
-      "id": "rb2_coral_coast_radio_bundaberg_94_7_fm_mp3_150deda8",
-      "title": "Coral Coast Radio - Bundaberg - 94.7 FM (MP3)",
-      "subtitle": "Community Radio",
-      "imageUrl": "https://i.ibb.co/qdV8Z1N/305485245-493577782777736-7994360038483179378-n.png",
-      "streamUrl": "http://165.228.147.198:88/broadwave.mp3",
-      "location": "Queensland, Australia",
-      "genre": "Community Radio",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_cowra_web_radio_mp3_cc4c9621",
       "title": "Cowra Web Radio (MP3)",
       "subtitle": "Various",
@@ -10104,19 +9579,6 @@
       "countryCode": "AU",
       "language": "english",
       "clickCount": 1,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_critter_radio_6b24eed7",
-      "title": "Critter Radio",
-      "subtitle": "Radio",
-      "imageUrl": "https://lycanea.dev/favicon.ico",
-      "streamUrl": "https://radio.lycanea.dev/radio.mp3",
-      "location": "Australia",
-      "genre": "Radio",
-      "countryCode": "AU",
-      "language": null,
-      "clickCount": 0,
       "bitrate": 128
     },
     {
@@ -10131,19 +9593,6 @@
       "language": null,
       "clickCount": 0,
       "bitrate": 320
-    },
-    {
-      "id": "rb2_crow_fm_90_7_wondai_37ce6dc6",
-      "title": "Crow FM 90.7 Wondai",
-      "subtitle": "Community",
-      "imageUrl": "",
-      "streamUrl": "https://stream2.fre.hostgeek.com.au/8006/;",
-      "location": "Australia",
-      "genre": "Community",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 64
     },
     {
       "id": "rb2_cruise_1323_2cbb9bc3",
@@ -10185,19 +9634,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_crunchie_fm_melbourne_aac_9f613cf9",
-      "title": "Crunchie FM - Melbourne (AAC+)",
-      "subtitle": "Classic, Commercial-Free",
-      "imageUrl": "https://i.ibb.co/21bwFXv1/464566762-8328303413962564-2876728734556809421-n.jpg",
-      "streamUrl": "http://199.115.115.71/proxy/cdwwbiqx?mp=/;stream/1",
-      "location": "Melbourne VIC, Australia",
-      "genre": "Classic",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 96
-    },
-    {
       "id": "rb2_curtin_radio_f188869f",
       "title": "Curtin Radio",
       "subtitle": "Radio",
@@ -10237,19 +9673,6 @@
       "bitrate": 64
     },
     {
-      "id": "rb2_dance_hits_d45994e0",
-      "title": "Dance Hits",
-      "subtitle": "Dance, Dance Music",
-      "imageUrl": "https://images.ctfassets.net/yxg7lydfj6tc/8ed4cc58-1dba-4aa3-99b2-42f68df3665d/54c3be5e0554e81638fc2b297c3e9cf9/dance.png",
-      "streamUrl": "https://wz2liw.scahw.com.au/live/2dance_128.stream/playlist.m3u8",
-      "location": "Sydney NSW, Australia",
-      "genre": "Dance",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 3,
-      "bitrate": 130
-    },
-    {
       "id": "rb2_darwin_fm_91_5_fm_be41d441",
       "title": "Darwin FM 91.5 FM",
       "subtitle": "Radio",
@@ -10276,19 +9699,6 @@
       "bitrate": 192
     },
     {
-      "id": "rb2_diffusion_fm_f76eba54",
-      "title": "Diffusion FM",
-      "subtitle": "Diy, Experimental",
-      "imageUrl": "",
-      "streamUrl": "https://giss.tv:666/diffusionfm919.mp3",
-      "location": "Australia",
-      "genre": "Diy",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_discorhythm_bbbe37c8",
       "title": "DiscoRhythm",
       "subtitle": "Disco, Funk",
@@ -10313,19 +9723,6 @@
       "language": "english",
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_dooshfm_ce24066c",
-      "title": "DooshFM",
-      "subtitle": "Dance, Electronic",
-      "imageUrl": "https://dooshfm.online/wp-content/uploads/2024/02/DooshFM-Round-Frontpage.png",
-      "streamUrl": "https://a9.asurahosting.com:7050/stream",
-      "location": "NSW, Australia",
-      "genre": "Dance",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 1,
-      "bitrate": 208
     },
     {
       "id": "rb2_double_j_adbcdfba",
@@ -10445,19 +9842,6 @@
       "bitrate": 192
     },
     {
-      "id": "rb2_easy_80s_hits_fa21a319",
-      "title": "Easy 80s Hits",
-      "subtitle": "1980S, 80'S",
-      "imageUrl": "https://hit.listnr.com/wp-content/uploads/2024/04/cropped-hit-favicon-180x180.png",
-      "streamUrl": "https://wz2liw.scahw.com.au/live/2easy_128.stream/playlist.m3u8",
-      "location": "Sydney NSW, Australia",
-      "genre": "1980S",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 2,
-      "bitrate": 130
-    },
-    {
       "id": "rb2_edge_fm_bega_valley_community_radio_93_7_6ee3cb94",
       "title": "Edge FM - Bega Valley Community Radio - 93.7 FM (MP3)",
       "subtitle": "Community Radio",
@@ -10469,45 +9853,6 @@
       "language": "english",
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_edge_fm_deniliquin_102_5_fm_df7699ca",
-      "title": "Edge FM - Deniliquin - 102.5 FM",
-      "subtitle": "Adult Contemporary, Top 40",
-      "imageUrl": "https://i.ibb.co/cLg96MN/5b7664cb7f66f2e057927a54.jpg",
-      "streamUrl": "http://wz2liw.scahw.com.au/live/2mor_128.stream/playlist.m3u8",
-      "location": "New South Wales, Australia",
-      "genre": "Adult Contemporary",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 129
-    },
-    {
-      "id": "rb2_edge_fm_wangaratta_102_1_fm_0b6209a2",
-      "title": "Edge FM - Wangaratta - 102.1 FM",
-      "subtitle": "Adult Contemporary, Commercial",
-      "imageUrl": "https://i.ibb.co/NWkSpkg/5b7666357f66f2e057927a56.webp",
-      "streamUrl": "http://wz3liw.scahw.com.au/live/3nnn_128.stream/playlist.m3u8",
-      "location": "Victoria, Australia",
-      "genre": "Adult Contemporary",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 129
-    },
-    {
-      "id": "rb2_edge_radio_hobart_99_3_fm_aac_81c6b494",
-      "title": "Edge Radio - Hobart - 99.3 FM (AAC)",
-      "subtitle": "Arts, Australian Music",
-      "imageUrl": "https://i.ibb.co/G2XCJPF/Edge-Cube-Trans-002.jpg",
-      "streamUrl": "http://streaming.edgeradio.org.au/radio/8000/stream",
-      "location": "Hobart TAS, Australia",
-      "genre": "Arts",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 64
     },
     {
       "id": "rb2_fifo_radio_fcbf4a98",
@@ -10699,32 +10044,6 @@
       "language": "american english",
       "clickCount": 0,
       "bitrate": 320
-    },
-    {
-      "id": "rb2_freedom_radio_0fafed72",
-      "title": "Freedom Radio",
-      "subtitle": "Deep House",
-      "imageUrl": "https://stream.zeno.fm/6vrckoj1sumuv",
-      "streamUrl": "https://stream.zeno.fm/6vrckoj1sumuv",
-      "location": "Melbourne VIC, Australia",
-      "genre": "Deep House",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 2,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_freocast_de02840c",
-      "title": "FreoCast",
-      "subtitle": "Community Radio",
-      "imageUrl": "",
-      "streamUrl": "https://streams.radio.co/scb1173a64/listen",
-      "location": "Western Australia, Australia",
-      "genre": "Community Radio",
-      "countryCode": "AU",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
     },
     {
       "id": "rb_fresh_92_7_54b53ad4",
@@ -11022,19 +10341,6 @@
       "bitrate": 64
     },
     {
-      "id": "rb2_good_vibes_9a678eb6",
-      "title": "Good Vibes",
-      "subtitle": "Dance, Pop Music",
-      "imageUrl": "https://images.ctfassets.net/yxg7lydfj6tc/3hn5qkZbS9BM1zccczwxzu/4a8410d09fb8653c557e331809e2f09c/LiSTNR_MOOD_GOOD_VIBES.png",
-      "streamUrl": "https://wz7liw.scahw.com.au/live/7goodvibes_128.stream/playlist.m3u8?",
-      "location": "Australia",
-      "genre": "Dance",
-      "countryCode": "AU",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 130
-    },
-    {
       "id": "rb2_good_vibes_pilipinas_1ddb77a9",
       "title": "Good Vibes Pilipinas",
       "subtitle": "Radio",
@@ -11152,19 +10458,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_grip_radio_sydney_mp3_e83d80ed",
-      "title": "Grip Radio - Sydney (MP3)",
-      "subtitle": "Music",
-      "imageUrl": "https://i.ibb.co/5s6KKV7/image-2.webp",
-      "streamUrl": "http://stream.zeno.fm/tdbb2z39368uv",
-      "location": "Sydney NSW, Australia",
-      "genre": "Music",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_gympie_s_positive_91five_gympie_91_5_fm__21409826",
       "title": "Gympie's Positive 91FIVE - Gympie - 91.5 FM (AAC+)",
       "subtitle": "Christian, Community Radio",
@@ -11256,19 +10549,6 @@
       "bitrate": 192
     },
     {
-      "id": "rb2_heavy_haulage_ead36218",
-      "title": "Heavy Haulage",
-      "subtitle": "Heavy Rock, Metal",
-      "imageUrl": "",
-      "streamUrl": "https://s2.stationplaylist.com:7046/listen.aac",
-      "location": "Newcastle NSW, Australia",
-      "genre": "Heavy Rock",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_hellenic_radio_perth_df95baed",
       "title": "Hellenic Radio Perth",
       "subtitle": "Radio",
@@ -11280,19 +10560,6 @@
       "language": null,
       "clickCount": 0,
       "bitrate": 320
-    },
-    {
-      "id": "rb2_highland_fm_bowral_107_1_fm_aac_4de47233",
-      "title": "Highland FM - Bowral - 107.1 FM (AAC)",
-      "subtitle": "Community Radio",
-      "imageUrl": "https://i.ibb.co/5LsSDjV/hfm-logobanner.jpg",
-      "streamUrl": "http://streams.radiomast.io/dfc148be-5d2d-4a8b-8fdc-2a7f922b48cb",
-      "location": "New South Wales, Australia",
-      "genre": "Community Radio",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 56
     },
     {
       "id": "rb2_highway_61_internet_radio_hobart_mp3_320_c2549b10",
@@ -11319,19 +10586,6 @@
       "language": "english",
       "clickCount": 1,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_hit100_9_hobart_0d0b1b9e",
-      "title": "Hit100.9 Hobart",
-      "subtitle": "Adult Contemporary",
-      "imageUrl": "https://images.ctfassets.net/yxg7lydfj6tc/d55a53b2-2495-4ec9-89d3-c65c0588e4cc/1deb033edb2f01a527cbbc34994309eb/0032-hobart-1009.png",
-      "streamUrl": "https://wz7liw.scahw.com.au/live/7ttt_128.stream/playlist.m3u8",
-      "location": "Hobart TAS, Australia",
-      "genre": "Adult Contemporary",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 130
     },
     {
       "id": "rb2_hit104_7_canberra_104_7_fm_f83adb39",
@@ -11436,32 +10690,6 @@
       "language": "english",
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_hottest_hits_mp3_c9f0e2aa",
-      "title": "Hottest Hits (MP3)",
-      "subtitle": "Music",
-      "imageUrl": "https://i.ibb.co/JdDxR51/image.jpg",
-      "streamUrl": "http://stream.zeno.fm/4g7rhtv2zf9uv",
-      "location": "Australia",
-      "genre": "Music",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_imc_country_radio_b155ea05",
-      "title": "IMC Country Radio",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://servidor36.brlogic.com:7050/live",
-      "location": "Victoria, Australia",
-      "genre": "Radio",
-      "countryCode": "AU",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 192
     },
     {
       "id": "rb2_indian_link_radio_05e3dfae",
@@ -11588,19 +10816,6 @@
       "language": "english",
       "clickCount": 1,
       "bitrate": 64
-    },
-    {
-      "id": "rb2_kglw_bootleg_radio_e62f91c3",
-      "title": "KGLW Bootleg Radio",
-      "subtitle": "Psychedelic, Psychedelic Rock",
-      "imageUrl": "",
-      "streamUrl": "https://gizzradio.live/listen/listen/radio.mp3",
-      "location": "Australia",
-      "genre": "Psychedelic",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 192
     },
     {
       "id": "rb2_kiis_101_1_5cceea34",
@@ -11946,19 +11161,6 @@
       "bitrate": 63
     },
     {
-      "id": "rb2_listnr_2010s_d866d004",
-      "title": "LiSTNR - 2010s",
-      "subtitle": "10'S, 10S",
-      "imageUrl": "https://images.ctfassets.net/yxg7lydfj6tc/2c74752d-beec-4b7d-a40f-ff685d4d1732/2958ab9cfe7d207ed2ee7bd9cf51dd9a/listnr-2010s-station-logo-3000x3000.png",
-      "streamUrl": "https://wz7liw.scahw.com.au/live/72010s_128.stream/playlist.m3u8",
-      "location": "Australia",
-      "genre": "10'S",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 130
-    },
-    {
       "id": "rb2_listnr_2010s_hls_13b135cc",
       "title": "LiSTNR - 2010s (HLS)",
       "subtitle": "2010S",
@@ -12024,45 +11226,6 @@
       "bitrate": 63
     },
     {
-      "id": "rb2_listnr_60s_hits_514247bf",
-      "title": "LiSTNR - 60s Hits",
-      "subtitle": "1960S, 60'S",
-      "imageUrl": "https://images.ctfassets.net/yxg7lydfj6tc/d07446da-c9c2-4f84-b964-c00ad978ada2/e92706c7113f14683048b854853f2583/listnr-60s-hits-station-logo-3000x3000.png",
-      "streamUrl": "https://wz2liw.scahw.com.au/live/760shits_128.stream/playlist.m3u8",
-      "location": "Australia",
-      "genre": "1960S",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 1,
-      "bitrate": 130
-    },
-    {
-      "id": "rb2_listnr_70s_hits_d774a152",
-      "title": "LiSTNR - 70s Hits",
-      "subtitle": "1970S, 70'S",
-      "imageUrl": "https://images.ctfassets.net/yxg7lydfj6tc/28ece998-b035-43d1-ab3f-4c417f4db4db/a19a728809b0723c238694bd71e6df22/listnr-genre-station-logos-3000x3000-70s-hits.png",
-      "streamUrl": "https://wz7liw.scahw.com.au/live/770shits_128.stream/playlist.m3u8",
-      "location": "Australia",
-      "genre": "1970S",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_listnr_80s_new_wave_e96086c0",
-      "title": "LiSTNR - 80s New Wave",
-      "subtitle": "1980S, 80'S",
-      "imageUrl": "https://play.listnr.com/favicon/apple-touch-icon.png",
-      "streamUrl": "https://wz7liw.scahw.com.au/live/780snewwave_128.stream/playlist.m3u8",
-      "location": "Australia",
-      "genre": "1980S",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 2,
-      "bitrate": 130
-    },
-    {
       "id": "rb2_listnr_80s_new_wave_hls_032e1063",
       "title": "LiSTNR - 80s New Wave (HLS)",
       "subtitle": "1980S, New Wave",
@@ -12070,19 +11233,6 @@
       "streamUrl": "http://sa46.scastream.com.au/live/780snewwave_128.stream/playlist.m3u8",
       "location": "Australia",
       "genre": "1980S",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 130
-    },
-    {
-      "id": "rb2_listnr_90s_soft_pop_9484a8e5",
-      "title": "LiSTNR - 90s Soft Pop",
-      "subtitle": "1990S, 90'S",
-      "imageUrl": "https://images.ctfassets.net/yxg7lydfj6tc/733d2c9a-04e4-4f62-82c2-bbf8fbea85a8/468db409fa7f6a687a04ff456816ff73/LISTNR_MOOD_SQUARES_3000x3000_90s_Soft_Pop.png",
-      "streamUrl": "https://wz7liw.scahw.com.au/live/790ssoftpop_128.stream/playlist.m3u8",
-      "location": "Australia",
-      "genre": "1990S",
       "countryCode": "AU",
       "language": "english",
       "clickCount": 0,
@@ -12113,19 +11263,6 @@
       "language": "english",
       "clickCount": 2,
       "bitrate": 63
-    },
-    {
-      "id": "rb2_listnr_almost_acoustic_4e4324d0",
-      "title": "LiSTNR - Almost Acoustic",
-      "subtitle": "1990S, Acoustic",
-      "imageUrl": "https://i.ibb.co/hm28dnR/Almost-Acoustic-UAC-1200x1200.png",
-      "streamUrl": "http://wz7liw.scahw.com.au/live/7almostacoustic_128.stream/playlist.m3u8",
-      "location": "Australia",
-      "genre": "1990S",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 3,
-      "bitrate": 130
     },
     {
       "id": "rb2_listnr_almost_acoustic_hls_522a39d7",
@@ -12191,19 +11328,6 @@
       "language": "english",
       "clickCount": 0,
       "bitrate": 64
-    },
-    {
-      "id": "rb2_listnr_aussie_pub_rock_b17c5a84",
-      "title": "LiSTNR - Aussie Pub Rock",
-      "subtitle": "1970S, 1980S",
-      "imageUrl": "https://images.ctfassets.net/yxg7lydfj6tc/5thIlmIHu8SyoExcIC75Yy/136d626d9436a37da5a590a9a95ecc31/LiSTNR_GENRE_AUSSIE_PUB_ROCK.png",
-      "streamUrl": "https://wz7liw.scahw.com.au/live/7mushroom50_128.stream/playlist.m3u8",
-      "location": "Australia",
-      "genre": "1970S",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 130
     },
     {
       "id": "rb2_listnr_aussie_pub_rock_hls_a1f5a73f",
@@ -12284,19 +11408,6 @@
       "bitrate": 63
     },
     {
-      "id": "rb2_listnr_buddha_b1f0cacd",
-      "title": "LiSTNR - Buddha",
-      "subtitle": "Easy Listening",
-      "imageUrl": "https://play.listnr.com/favicon/apple-touch-icon.png",
-      "streamUrl": "https://wz2liw.scahw.com.au/live/2buddha_128.stream/playlist.m3u8",
-      "location": "Australia",
-      "genre": "Easy Listening",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 130
-    },
-    {
       "id": "rb2_listnr_buddha_hls_92914ce4",
       "title": "LiSTNR - Buddha (HLS)",
       "subtitle": "Music",
@@ -12373,19 +11484,6 @@
       "language": "english",
       "clickCount": 1,
       "bitrate": 63
-    },
-    {
-      "id": "rb2_listnr_chill_pop_hits_75194db5",
-      "title": "LiSTNR - Chill Pop Hits",
-      "subtitle": "Easy Listening, Soft Pop",
-      "imageUrl": "https://images.ctfassets.net/yxg7lydfj6tc/6ocCZgoJABh8Jji753gERW/bfda19443cb6d4f3f3c104abb3710f6e/LISTNR_MOOD_SQUARES_3000x3000_Chill_Pop_Hits.png",
-      "streamUrl": "https://wz7liw.scahw.com.au/live/7chillpophits_128.stream/playlist.m3u8",
-      "location": "Australia",
-      "genre": "Easy Listening",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 3,
-      "bitrate": 130
     },
     {
       "id": "rb2_listnr_chill_pop_hits_hls_5a2fcb1d",
@@ -12466,19 +11564,6 @@
       "bitrate": 65
     },
     {
-      "id": "rb2_listnr_cover_up_f8527cf1",
-      "title": "LiSTNR - Cover Up",
-      "subtitle": "Music",
-      "imageUrl": "https://play.listnr.com/favicon/apple-touch-icon.png",
-      "streamUrl": "https://wz7liw.scahw.com.au/live/7coverme_128.stream/playlist.m3u8",
-      "location": "Australia",
-      "genre": "Music",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 2,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_listnr_cowgirl_country_hls_f4ca667e",
       "title": "LiSTNR - Cowgirl Country (HLS)",
       "subtitle": "Country",
@@ -12490,19 +11575,6 @@
       "language": "english",
       "clickCount": 3,
       "bitrate": 63
-    },
-    {
-      "id": "rb2_listnr_crooners_swooners_d5366c19",
-      "title": "LiSTNR - Crooners & Swooners",
-      "subtitle": "Classic, Jazz",
-      "imageUrl": "https://images.ctfassets.net/yxg7lydfj6tc/f12624d4-07cd-4a79-9f70-57c7a270d8df/e99d9ae58659826da9b30f6e6b0e1d31/listnr-genre-station-logos-3000x3000-crooners-and-swooners.png",
-      "streamUrl": "https://wz7liw.scahw.com.au/live/7croonersandswooners_128.stream/playlist.m3u8",
-      "location": "Australia",
-      "genre": "Classic",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 2,
-      "bitrate": 128
     },
     {
       "id": "rb2_listnr_crooners_swooners_hls_ab7190bc",
@@ -12568,19 +11640,6 @@
       "language": "english",
       "clickCount": 1,
       "bitrate": 65
-    },
-    {
-      "id": "rb2_listnr_easy_hits_13db7ce4",
-      "title": "LiSTNR - Easy Hits",
-      "subtitle": "2000S, 80S",
-      "imageUrl": "https://i.ibb.co/L9DhNjX/Li-STNR-MOOD-EASY-HITS.jpg",
-      "streamUrl": "https://wz2liw.scahw.com.au/live/2easyhits_128.stream/playlist.m3u8",
-      "location": "Australia",
-      "genre": "2000S",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 1,
-      "bitrate": 128
     },
     {
       "id": "rb2_listnr_easy_office_vibes_hls_240b8ced",
@@ -12700,19 +11759,6 @@
       "bitrate": 65
     },
     {
-      "id": "rb2_listnr_fit_hits_1a9bf9a6",
-      "title": "LiSTNR - Fit Hits",
-      "subtitle": "Charts, Electronic Dance Music",
-      "imageUrl": "https://images.ctfassets.net/yxg7lydfj6tc/fce7e65e-f9c7-4d53-b322-c891f1997fa3/d7f02147bd22a8ece567a8cc60c46936/listnr-mood-station-logos-3000x3000-working-file-0006-fit-hits.png",
-      "streamUrl": "https://wz7liw.scahw.com.au/live/7fithits_128.stream/playlist.m3u8",
-      "location": "Australia",
-      "genre": "Charts",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 1,
-      "bitrate": 130
-    },
-    {
       "id": "rb2_listnr_fit_hits_hls_c15fc727",
       "title": "LiSTNR - Fit Hits (HLS)",
       "subtitle": "Fitness",
@@ -12778,19 +11824,6 @@
       "bitrate": 64
     },
     {
-      "id": "rb2_listnr_girl_power_2e14a16d",
-      "title": "LiSTNR - Girl Power",
-      "subtitle": "Pop Music",
-      "imageUrl": "https://images.ctfassets.net/yxg7lydfj6tc/5f016fb7-387b-4c58-8739-ecc2c1e5a235/c675317693dc1033901003b3cee8082a/listnr-mood-station-logos-3000x3000-girl-power.png",
-      "streamUrl": "https://wz7liw.scahw.com.au/live/7girlpower_128.stream/playlist.m3u8",
-      "location": "Australia",
-      "genre": "Pop Music",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 3,
-      "bitrate": 130
-    },
-    {
       "id": "rb2_listnr_girl_power_hls_654e4b71",
       "title": "LiSTNR - Girl Power (HLS)",
       "subtitle": "Music",
@@ -12843,19 +11876,6 @@
       "bitrate": 63
     },
     {
-      "id": "rb2_listnr_guilty_pleasures_7866d8c0",
-      "title": "LiSTNR - Guilty Pleasures",
-      "subtitle": "Music",
-      "imageUrl": "https://play.listnr.com/favicon/apple-touch-icon.png",
-      "streamUrl": "https://wz7liw.scahw.com.au/live/7guiltypleasures_128.stream/playlist.m3u8",
-      "location": "Australia",
-      "genre": "Music",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 2,
-      "bitrate": 130
-    },
-    {
       "id": "rb2_listnr_guilty_pleasures_hls_f97b7ec0",
       "title": "LiSTNR - Guilty Pleasures (HLS)",
       "subtitle": "Music",
@@ -12880,19 +11900,6 @@
       "language": "english",
       "clickCount": 1,
       "bitrate": 63
-    },
-    {
-      "id": "rb2_listnr_hard_n_heavy_32e0049c",
-      "title": "LiSTNR - Hard N Heavy",
-      "subtitle": "Rock",
-      "imageUrl": "https://play.listnr.com/favicon/apple-touch-icon.png",
-      "streamUrl": "https://wz2liw.scahw.com.au/live/2hardnheavy_128.stream/playlist.m3u8",
-      "location": "Australia",
-      "genre": "Rock",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 2,
-      "bitrate": 130
     },
     {
       "id": "rb2_listnr_hard_n_heavy_hls_ca39d796",
@@ -12934,19 +11941,6 @@
       "bitrate": 130
     },
     {
-      "id": "rb2_listnr_heart_breakers_e2504a4e",
-      "title": "LiSTNR - Heart Breakers",
-      "subtitle": "Pop Music",
-      "imageUrl": "https://images.ctfassets.net/yxg7lydfj6tc/ad4ddee9-a478-4bf4-8c8d-d8e6f062860a/caea63995fd8366f33f5bf4cb68b9fef/listnr-mood-station-logos-3000x3000-working-file-0005-heart-breakers.png",
-      "streamUrl": "https://wz7liw.scahw.com.au/live/7heartbreaker_128.stream/playlist.m3u8",
-      "location": "Australia",
-      "genre": "Pop Music",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 2,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_listnr_heart_hits_hls_1fa9154a",
       "title": "LiSTNR - Heart Hits (HLS)",
       "subtitle": "1970S, 1980S",
@@ -12971,19 +11965,6 @@
       "language": "english",
       "clickCount": 1,
       "bitrate": 63
-    },
-    {
-      "id": "rb2_listnr_homegrown_76f8ff38",
-      "title": "LiSTNR - Homegrown",
-      "subtitle": "Australian Music, Pop",
-      "imageUrl": "https://images.ctfassets.net/yxg7lydfj6tc/a7894b72-95d3-48ea-84e5-d7a5a6c76ece/c16a33c106853348e087a4ae9272ea3f/listnr-genre-station-logos-3000x3000-working-files-0007-home-grown.png",
-      "streamUrl": "https://wz7liw.scahw.com.au/live/7homegrown_128.stream/playlist.m3u8",
-      "location": "Australia",
-      "genre": "Australian Music",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 2,
-      "bitrate": 130
     },
     {
       "id": "rb2_listnr_homegrown_hls_78cac547",
@@ -13051,19 +12032,6 @@
       "bitrate": 64
     },
     {
-      "id": "rb2_listnr_indie_alt_d9c98c8f",
-      "title": "LiSTNR - Indie & Alt",
-      "subtitle": "Alternative, Indie",
-      "imageUrl": "https://images.ctfassets.net/yxg7lydfj6tc/2f7fbc4f-08fd-4aa7-b7db-26337eefb67a/d7b3b7e8b61b5cb2086ef016c4fa6844/listnr-genre-station-logos-3000x3000-indie-and-alt.png",
-      "streamUrl": "https://wz7liw.scahw.com.au/live/7indieandalternative_128.stream/playlist.m3u8",
-      "location": "Australia",
-      "genre": "Alternative",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 2,
-      "bitrate": 130
-    },
-    {
       "id": "rb2_listnr_indie_alt_hls_b151c8cb",
       "title": "LiSTNR - Indie & Alt (HLS)",
       "subtitle": "Alternative, Indie",
@@ -13088,19 +12056,6 @@
       "language": "english",
       "clickCount": 1,
       "bitrate": 64
-    },
-    {
-      "id": "rb2_listnr_indigenous_7fe32f0c",
-      "title": "LiSTNR - Indigenous",
-      "subtitle": "Australian Music, Hip-Hop",
-      "imageUrl": "https://images.ctfassets.net/yxg7lydfj6tc/2758721c-20e5-491e-a00a-8922adc84281/39346648dd8fe868f0de6e3dfc767ecf/listnr-genre-station-logos-3000x3000-first-nations.png",
-      "streamUrl": "https://wz7liw.scahw.com.au/live/7firstnations_128.stream/playlist.m3u8",
-      "location": "Australia",
-      "genre": "Australian Music",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 1,
-      "bitrate": 130
     },
     {
       "id": "rb2_listnr_indigenous_australians_hls_0a9bd180",
@@ -13140,19 +12095,6 @@
       "language": "english",
       "clickCount": 1,
       "bitrate": 64
-    },
-    {
-      "id": "rb2_listnr_karaoke_stage_4ebccd81",
-      "title": "LiSTNR - Karaoke Stage",
-      "subtitle": "Pop Music",
-      "imageUrl": "https://images.ctfassets.net/yxg7lydfj6tc/8a1c8815-1af3-4a21-99de-094cae1f8b4c/2a60d6837c38a04376d0929cf00ada6f/listnr-mood-station-logos-3000x3000-working-file-0003-karaoke-stage.png",
-      "streamUrl": "https://wz7liw.scahw.com.au/live/7karaokestage_128.stream/playlist.m3u8",
-      "location": "Australia",
-      "genre": "Pop Music",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 1,
-      "bitrate": 128
     },
     {
       "id": "rb2_listnr_key_ingredient_hls_807edcce",
@@ -13266,19 +12208,6 @@
       "language": "english",
       "clickCount": 1,
       "bitrate": 64
-    },
-    {
-      "id": "rb2_listnr_noughties_a8b6d1e0",
-      "title": "LiSTNR - Noughties",
-      "subtitle": "00'S, 00S",
-      "imageUrl": "https://play.listnr.com/favicon/apple-touch-icon.png",
-      "streamUrl": "https://wz7liw.scahw.com.au/live/7noughties_128.stream/playlist.m3u8",
-      "location": "Australia",
-      "genre": "00'S",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 1,
-      "bitrate": 130
     },
     {
       "id": "rb2_listnr_number_1s_hls_a86ddebf",
@@ -13524,19 +12453,6 @@
       "bitrate": 65
     },
     {
-      "id": "rb2_listnr_rock_n_road_trip_4f6d0637",
-      "title": "LiSTNR - Rock 'n' Road Trip",
-      "subtitle": "Classic Rock, Hard Rock",
-      "imageUrl": "https://play.listnr.com/favicon/apple-touch-icon.png",
-      "streamUrl": "https://wz7liw.scahw.com.au/live/7rocknroadtrip_128.stream/playlist.m3u8",
-      "location": "Australia",
-      "genre": "Classic Rock",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 1,
-      "bitrate": 130
-    },
-    {
       "id": "rb2_listnr_rock_n_road_trip_hls_873cafa6",
       "title": "LiSTNR - Rock 'n' Road Trip (HLS)",
       "subtitle": "Rock 'N' Road Trip",
@@ -13615,19 +12531,6 @@
       "bitrate": 65
     },
     {
-      "id": "rb2_listnr_santa_radio_21dba6e8",
-      "title": "LiSTNR - Santa Radio",
-      "subtitle": "Christmas Music, Oldies",
-      "imageUrl": "https://play.listnr.com/favicon/apple-touch-icon.png",
-      "streamUrl": "https://wz7liw.scahw.com.au/live/7santa_128.stream/playlist.m3u8",
-      "location": "Australia",
-      "genre": "Christmas Music",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 2,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_listnr_sleep_hls_ea937a4b",
       "title": "LiSTNR - Sleep (HLS)",
       "subtitle": "Sleep",
@@ -13667,19 +12570,6 @@
       "bitrate": 64
     },
     {
-      "id": "rb2_listnr_stress_free_52c3078f",
-      "title": "LiSTNR - Stress Free",
-      "subtitle": "Easy Listening, Electronic Dance Music",
-      "imageUrl": "https://images.ctfassets.net/yxg7lydfj6tc/da32ea6f-2c6f-496d-980d-ec5a218b6f34/1730bff60a99e787f4358c883f9227cf/image.png",
-      "streamUrl": "https://wz7liw.scahw.com.au/live/7stressfree_128.stream/playlist.m3u8",
-      "location": "Australia",
-      "genre": "Easy Listening",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 1,
-      "bitrate": 130
-    },
-    {
       "id": "rb2_listnr_stress_free_hls_8e96e9b0",
       "title": "LiSTNR - Stress Free (HLS)",
       "subtitle": "Music",
@@ -13693,19 +12583,6 @@
       "bitrate": 130
     },
     {
-      "id": "rb2_listnr_top_30_f1f59ecd",
-      "title": "LiSTNR - Top 30",
-      "subtitle": "Charts, Hits",
-      "imageUrl": "https://images.ctfassets.net/yxg7lydfj6tc/810bda5e-0265-4c63-a7fc-b1cdb5ff0067/c776936e77c229664753702d5897d3b5/image.png",
-      "streamUrl": "https://wz7liw.scahw.com.au/live/7top30_128.stream/playlist.m3u8",
-      "location": "Australia",
-      "genre": "Charts",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 1,
-      "bitrate": 130
-    },
-    {
       "id": "rb2_listnr_top_30_hls_ea808ac1",
       "title": "LiSTNR - Top 30 (HLS)",
       "subtitle": "Top 30",
@@ -13713,19 +12590,6 @@
       "streamUrl": "http://sa47.scastream.com.au/live/7top30_128.stream/playlist.m3u8",
       "location": "Australia",
       "genre": "Top 30",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 1,
-      "bitrate": 130
-    },
-    {
-      "id": "rb2_listnr_trending_now_889ecf8f",
-      "title": "LiSTNR - Trending Now",
-      "subtitle": "Charts, Hits",
-      "imageUrl": "https://images.ctfassets.net/yxg7lydfj6tc/bf6e3444-9dd2-403b-9ffd-4044c29b34bc/28b7f8e69000b3b74690025a507ecab5/listnr-genre-station-logos-3000x3000-working-files-0006-trending-now.png",
-      "streamUrl": "https://wz7liw.scahw.com.au/live/7trendingnow_128.stream/playlist.m3u8",
-      "location": "Australia",
-      "genre": "Charts",
       "countryCode": "AU",
       "language": "english",
       "clickCount": 1,
@@ -13836,19 +12700,6 @@
       "bitrate": 63
     },
     {
-      "id": "rb2_listnr_yacht_rock_aa8fedb1",
-      "title": "LiSTNR - Yacht Rock",
-      "subtitle": "Classic, Easy Listening",
-      "imageUrl": "https://images.ctfassets.net/yxg7lydfj6tc/e9d50f37-d783-4efe-acda-da0af6b9d04f/aaf36c27365754ad2175588a3d94220f/listnr-genre-station-logos-3000x3000-working-files-0005-yacht-rock.png",
-      "streamUrl": "https://wz7liw.scahw.com.au/live/7yachtrock_128.stream/playlist.m3u8",
-      "location": "Australia",
-      "genre": "Classic",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 4,
-      "bitrate": 130
-    },
-    {
       "id": "rb2_listnr_yacht_rock_hls_9769eeb5",
       "title": "LiSTNR - Yacht Rock (HLS)",
       "subtitle": "Soft Rock",
@@ -13925,19 +12776,6 @@
       "language": "english",
       "clickCount": 0,
       "bitrate": 64
-    },
-    {
-      "id": "rb2_lofty_88_9_93163155",
-      "title": "Lofty 88.9",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://stream01.sigile.net/lofty-24-aac",
-      "location": "Australia",
-      "genre": "Radio",
-      "countryCode": "AU",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 24
     },
     {
       "id": "rb2_lofty_community_media_beee2145",
@@ -14070,32 +12908,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_magic_1278_melbourne_1278_am_e140c4a0",
-      "title": "Magic 1278 - Melbourne - 1278 AM",
-      "subtitle": "Classic Hits, Oldies",
-      "imageUrl": "https://i.ibb.co/NLt4MF5/ACE-Magic1278-APP-SQUARE-3000x3000.jpg",
-      "streamUrl": "http://wz3liw.scahw.com.au/live/3ee_128.stream/playlist.m3u8",
-      "location": "Melbourne VIC, Australia",
-      "genre": "Classic Hits",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 1,
-      "bitrate": 130
-    },
-    {
-      "id": "rb2_magic_87_6_e62a225a",
-      "title": "Magic 87.6",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://syd02.sdn.dhcmedia.com.au/radio/8010/magic876",
-      "location": "NSW, Australia",
-      "genre": "Radio",
-      "countryCode": "AU",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 32
-    },
-    {
       "id": "rb2_magic_87_6_mudgee_87_6_fm_aac_77b506b6",
       "title": "Magic 87.6 - Mudgee - 87.6 FM (AAC)",
       "subtitle": "Adult Contemporary, Classic Hits",
@@ -14161,19 +12973,6 @@
       "bitrate": 192
     },
     {
-      "id": "rb2_massive_dance_23a0ceb1",
-      "title": "Massive Dance",
-      "subtitle": "Radio",
-      "imageUrl": "https://www.massivedance.com/favicon.ico",
-      "streamUrl": "https://cast2.torontocast.com:1045/stream",
-      "location": "Australia wide, Australia",
-      "genre": "Radio",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 1,
-      "bitrate": 192
-    },
-    {
       "id": "rb2_memphis_mayhem_radio_tweed_heads_west_10_8ba231bf",
       "title": "Memphis Mayhem Radio - Tweed Heads West - 101.3 FM (MP3 320k)",
       "subtitle": "Community Radio, Miscellaneous",
@@ -14185,19 +12984,6 @@
       "language": "english",
       "clickCount": 1,
       "bitrate": 320
-    },
-    {
-      "id": "rb2_mic_drop_radio_23b66159",
-      "title": "Mic Drop Radio",
-      "subtitle": "Best, Brain Teaser",
-      "imageUrl": "",
-      "streamUrl": "http://170.64.130.119:8000/stream",
-      "location": "Sydney, Australia",
-      "genre": "Best",
-      "countryCode": "AU",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
     },
     {
       "id": "rb2_mix_102_3_1ab478cb",
@@ -14315,71 +13101,6 @@
       "language": "english",
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_mix94_5_perth_7804fe49",
-      "title": "Mix94.5 Perth",
-      "subtitle": "Adult Contemporary",
-      "imageUrl": "https://images.ctfassets.net/yxg7lydfj6tc/a8b1f7dc-6849-45c0-9e4a-c50789c5b403/7ce76e0179ca940ed2e37472670c2062/0005-mix.png",
-      "streamUrl": "https://wz6liw.scahw.com.au/live/6mix_128.stream/playlist.m3u8",
-      "location": "Perth WA, Australia",
-      "genre": "Adult Contemporary",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 130
-    },
-    {
-      "id": "rb2_mixx_fm_colac_apollo_bay_106_3_fm_95_9_f_58f4132b",
-      "title": "Mixx FM - Colac / Apollo Bay - 106.3 FM / 95.9 FM",
-      "subtitle": "Commercial, Contemporary Hit Radio",
-      "imageUrl": "https://i.ibb.co/MyZ9THsn/464729209-8624871627569967-2493163801482881547-n.jpg",
-      "streamUrl": "http://wz3liw.scahw.com.au/live/3ccs_128.stream/playlist.m3u8",
-      "location": "Victoria, Australia",
-      "genre": "Commercial",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 130
-    },
-    {
-      "id": "rb2_mixx_fm_hamilton_portland_88_9_fm_93_7_f_294903b6",
-      "title": "Mixx FM - Hamilton / Portland - 88.9 FM / 93.7 FM",
-      "subtitle": "Commercial, Contemporary Hits Radio",
-      "imageUrl": "https://i.ibb.co/pj2rZ3ZJ/466389861-27958163450441558-8293462477805428485-n.jpg",
-      "streamUrl": "http://wz3liw.scahw.com.au/live/3hfm_128.stream/playlist.m3u8",
-      "location": "Victoria, Australia",
-      "genre": "Commercial",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 65
-    },
-    {
-      "id": "rb2_mixx_fm_horsham_ararat_nhill_101_3_fm_98_6dd3fc3a",
-      "title": "Mixx FM - Horsham / Ararat / Nhill - 101.3 FM / 98.5 FM / 94.5 FM",
-      "subtitle": "Commercial, Contemporary Hits Radio",
-      "imageUrl": "https://i.ibb.co/tMk1PXqr/455063264-1672931243462721-1774484930826437687-n.jpg",
-      "streamUrl": "http://wz3liw.scahw.com.au/live/3wwm_128.stream/playlist.m3u8",
-      "location": "Victoria, Australia",
-      "genre": "Commercial",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 130
-    },
-    {
-      "id": "rb2_mixx_fm_swan_hill_kerang_107_7_fm_98_7_f_954e8856",
-      "title": "Mixx FM - Swan Hill / Kerang - 107.7 FM / 98.7 FM",
-      "subtitle": "Commercial, Contemporary Hits Radio",
-      "imageUrl": "https://i.ibb.co/Dgs4v1sG/464225624-8429972347090166-7017787999550621466-n.jpg",
-      "streamUrl": "http://wz3liw.scahw.com.au/live/3shi_128.stream/playlist.m3u8",
-      "location": "Victoria, Australia",
-      "genre": "Commercial",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 130
     },
     {
       "id": "rb2_move_fm_lithgow_107_9_fm_mp3_bb05189d",
@@ -14512,19 +13233,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_nimfm_nimbin_102_3_fm_mp3_33dbb465",
-      "title": "NimFM - Nimbin - 102.3 FM (MP3)",
-      "subtitle": "Community Radio, Miscellaneous",
-      "imageUrl": "https://www.nimfm.org/favicon.ico",
-      "streamUrl": "http://uk5.internet-radio.com/proxy/nimfm",
-      "location": "New South Wales, Australia",
-      "genre": "Community Radio",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_no_add_radio_diamond_beach_mp3_6d895646",
       "title": "No Add Radio - Diamond Beach (MP3)",
       "subtitle": "Music",
@@ -14575,19 +13283,6 @@
       "language": "english",
       "clickCount": 0,
       "bitrate": 96
-    },
-    {
-      "id": "rb2_north_west_fm_98_9_hadfield_melbourne_98_388df3d2",
-      "title": "North West FM 98.9 - Hadfield, Melbourne - 98.9 FM (AAC)",
-      "subtitle": "Community Radio, Various",
-      "imageUrl": "https://i.ibb.co/vqKBdXy/309682015-455778439912539-6818562319758863983-n.png",
-      "streamUrl": "https://ssl1.viastreaming.net:8935/;",
-      "location": "Melbourne VIC, Australia",
-      "genre": "Community Radio",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 64
     },
     {
       "id": "rb2_northern_soul_fm_8ad1d8ef",
@@ -14655,19 +13350,6 @@
       "bitrate": 96
     },
     {
-      "id": "rb2_nova_100_960a26d5",
-      "title": "Nova 100",
-      "subtitle": "Hits",
-      "imageUrl": "http://www.nova100.com.au/assets/nova/icons/favicon/apple-touch-icon.png",
-      "streamUrl": "http://streaming.novaentertainment.com.au/nova100",
-      "location": "Victoria, Australia",
-      "genre": "Hits",
-      "countryCode": "AU",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 48
-    },
-    {
       "id": "rb2_nova_100_melbourne_100_3_fm_aac_128k_ddfff858",
       "title": "Nova 100 - Melbourne - 100.3 FM (AAC+ 128k)",
       "subtitle": "Adult Contemporary, Commercial",
@@ -14718,19 +13400,6 @@
       "language": "english",
       "clickCount": 0,
       "bitrate": 96
-    },
-    {
-      "id": "rb2_nova_106_9_960a2859",
-      "title": "Nova 106.9",
-      "subtitle": "Hits",
-      "imageUrl": "http://www.nova1069.com.au/assets/nova/icons/favicon/apple-touch-icon.png",
-      "streamUrl": "http://streaming.novaentertainment.com.au/nova1069",
-      "location": "Queensland, Australia",
-      "genre": "Hits",
-      "countryCode": "AU",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 48
     },
     {
       "id": "rb2_nova_106_9_brisbane_106_9_fm_aac_128k_861c0194",
@@ -14798,19 +13467,6 @@
       "bitrate": 48
     },
     {
-      "id": "rb2_nova_919_960ab507",
-      "title": "Nova 919",
-      "subtitle": "Hits",
-      "imageUrl": "",
-      "streamUrl": "http://streaming.novaentertainment.com.au/nova919",
-      "location": "South Australia, Australia",
-      "genre": "Hits",
-      "countryCode": "AU",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 48
-    },
-    {
       "id": "rb2_nova_919_adelaide_91_9_fm_aac_128k_95e5993d",
       "title": "Nova 919 - Adelaide - 91.9 FM (AAC+ 128k)",
       "subtitle": "Adult Contemporary, Commercial",
@@ -14848,19 +13504,6 @@
       "language": "english",
       "clickCount": 0,
       "bitrate": 96
-    },
-    {
-      "id": "rb2_nova_93_7_960a29d2",
-      "title": "Nova 93.7",
-      "subtitle": "Hits",
-      "imageUrl": "https://www.novafm.com.au/wp-content/themes/theme-novafm.com.au/assets/icons/apple-touch-icon.png",
-      "streamUrl": "http://streaming.novaentertainment.com.au/nova937",
-      "location": "Western Australia, Australia",
-      "genre": "Hits",
-      "countryCode": "AU",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 48
     },
     {
       "id": "rb2_nova_93_7_perth_93_7_fm_aac_128k_245e08d7",
@@ -15201,19 +13844,6 @@
       "bitrate": 96
     },
     {
-      "id": "rb2_obsradio_mp3_c3919471",
-      "title": "OBSRadio (MP3)",
-      "subtitle": "Music",
-      "imageUrl": "https://i.ibb.co/mtVTkXR/image.jpg",
-      "streamUrl": "http://stream.zeno.fm/2wvf2v34ekhvv",
-      "location": "Australia",
-      "genre": "Music",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_ocr_fm_colac_98_3_fm_mp3_47d86ba2",
       "title": "OCR FM - Colac - 98.3 FM (MP3)",
       "subtitle": "Community Radio, Miscellaneous",
@@ -15251,19 +13881,6 @@
       "language": "english",
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_oldskool_90s_hits_bd1e4878",
-      "title": "Oldskool 90s Hits",
-      "subtitle": "1990S, 90'S",
-      "imageUrl": "",
-      "streamUrl": "https://wz2liw.scahw.com.au/live/2oldskool_128.stream/playlist.m3u8",
-      "location": "Sydney NSW, Australia",
-      "genre": "1990S",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 1,
-      "bitrate": 130
     },
     {
       "id": "rb2_onair_im_3090e29d",
@@ -15630,19 +14247,6 @@
       "bitrate": 64
     },
     {
-      "id": "rb2_pure_hits_australian_made_8ade45f1",
-      "title": "Pure Hits Australian Made",
-      "subtitle": "Australia, Pop",
-      "imageUrl": "",
-      "streamUrl": "http://stream10.as.amplifystreaming.com/radio/8000/amm_128.mp3",
-      "location": "VIC, Australia",
-      "genre": "Australia",
-      "countryCode": "AU",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_pure_hits_fresh_3bc8f02f",
       "title": "Pure Hits FRESH",
       "subtitle": "Hits, Pop",
@@ -15654,15 +14258,6 @@
       "language": "english",
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "pure_hits_retro_au_c569c4",
-      "title": "Pure Hits RETRO",
-      "subtitle": "Classic Hits",
-      "location": "Victoria, Australia",
-      "genre": "Pop",
-      "countryCode": "AU",
-      "streamUrl": "http://stream10.as.amplifystreaming.com/radio/8010/retro_128.aac"
     },
     {
       "id": "rb2_qbn_fm_queanbeyan_96_7_fm_e49e67b7",
@@ -15743,19 +14338,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_realradio_australia_mp3_b859d4cf",
-      "title": "REALRADIO Australia (MP3)",
-      "subtitle": "Music",
-      "imageUrl": "https://i.ibb.co/Db8b92V/image.jpg",
-      "streamUrl": "http://stream.zeno.fm/9bfsckh4dkhvv",
-      "location": "Australia",
-      "genre": "Music",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_roq_fm_australia_s_favourite_roq_mp3_320_8c53b9be",
       "title": "ROQ FM - Australia's Favourite ROQ (MP3 320k)",
       "subtitle": "Active Rock, Classic Rock",
@@ -15793,32 +14375,6 @@
       "language": "english",
       "clickCount": 2,
       "bitrate": 64
-    },
-    {
-      "id": "rb2_rustralia_radio_mp3_faf5d92c",
-      "title": "RUSTRALIA Radio (MP3)",
-      "subtitle": "Music",
-      "imageUrl": "https://i.ibb.co/JHcYKHV/image.webp",
-      "streamUrl": "http://stream.zeno.fm/wure6q3q008uv",
-      "location": "Australia",
-      "genre": "Music",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_1629_am_newcastle_1629_am_aac_dacf0883",
-      "title": "Radio 1629 AM - Newcastle - 1629 AM (AAC)",
-      "subtitle": "Community Radio, Country",
-      "imageUrl": "https://lh3.googleusercontent.com/uiOOdLMG4dC3vP9JgjKr5ZEYZBXu3yoR0w-CVJSTaQ49QOIPvvW2Crkh5bSYLIqSiobcCy_nE2bVaU1qAg=s120",
-      "streamUrl": "http://173.255.143.170:8007/stream",
-      "location": "Newcastle NSW, Australia",
-      "genre": "Community Radio",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
     },
     {
       "id": "rb2_radio_1rph_canberra_1125_am_mp3_14a46224",
@@ -15986,19 +14542,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_radio_blues_djerdan_c0c4b436",
-      "title": "Radio Blues Djerdan",
-      "subtitle": "Blues, Roots",
-      "imageUrl": "https://static.wixstatic.com/media/cb3cf8_a8395a03e37541e9806a2f477af70f18~mv2.png",
-      "streamUrl": "https://stream.zeno.fm/vxr78nb51k8uv",
-      "location": "Australia",
-      "genre": "Blues",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_radio_carrum_05d07a24",
       "title": "Radio Carrum",
       "subtitle": "Radio",
@@ -16025,19 +14568,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_radio_djerdan_mp3_7567b9e4",
-      "title": "Radio Djerdan (MP3)",
-      "subtitle": "Blues, Country",
-      "imageUrl": "https://i.ibb.co/g4Y06vM/image.jpg",
-      "streamUrl": "http://stream.zeno.fm/5hgefy1tp68uv",
-      "location": "Australia",
-      "genre": "Blues",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_radio_eastern_fm_croydon_melbourne_98_1__c58e473d",
       "title": "Radio Eastern FM - Croydon, Melbourne - 98.1 FM (AAC+)",
       "subtitle": "Community Radio, Easy Listening",
@@ -16048,19 +14578,6 @@
       "countryCode": "AU",
       "language": "english",
       "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_freedom_mp3_19b293b5",
-      "title": "Radio Freedom (MP3)",
-      "subtitle": "Ambient Electronic, Downtempo",
-      "imageUrl": "https://i.ibb.co/KhdBgvJ/image.jpg",
-      "streamUrl": "http://stream.zeno.fm/sbm7c72dbkhvv",
-      "location": "Australia",
-      "genre": "Ambient Electronic",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 1,
       "bitrate": 128
     },
     {
@@ -16088,58 +14605,6 @@
       "language": "english",
       "clickCount": 0,
       "bitrate": 64
-    },
-    {
-      "id": "rb2_radio_insomnia_97fbf9e8",
-      "title": "Radio Insomnia",
-      "subtitle": "Radio",
-      "imageUrl": "https://insomnia.radio.fm/user/themes/nixhol-template/images/favicon.png",
-      "streamUrl": "http://stream.p-node.org/radioinsomnia.mp3",
-      "location": "Australia",
-      "genre": "Radio",
-      "countryCode": "AU",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 256
-    },
-    {
-      "id": "rb2_radio_italian_music_9628e108",
-      "title": "Radio Italian Music",
-      "subtitle": "Italian Pop, Rsl",
-      "imageUrl": "https://cdn-elements.radiostreamlive.com/v1/images/favicon.ico",
-      "streamUrl": "https://streaming.radiostreamlive.com/radioitalianmusic_devices",
-      "location": "New South Wales, Australia",
-      "genre": "Italian Pop",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_italian_music_mobile_688a6f28",
-      "title": "Radio Italian Music - Mobile",
-      "subtitle": "Radio",
-      "imageUrl": "https://cdn.radiostreamlive.com/v1/logos/radioitalianmusic.png",
-      "streamUrl": "https://streaming.radiostreamlive.com/radioitalianmusic_devices-low?token=%3C?%20echo%20rand%20(1,200000);%20?%3E",
-      "location": "Australia",
-      "genre": "Radio",
-      "countryCode": "AU",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 32
-    },
-    {
-      "id": "rb2_radio_italiana_531_8fd83c4f",
-      "title": "Radio Italiana 531",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://5rti.igateway.com.au:8000/stream",
-      "location": "South Australia, Australia",
-      "genre": "Radio",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 192
     },
     {
       "id": "rb2_radio_mama_0cf4e09c",
@@ -16207,19 +14672,6 @@
       "bitrate": 96
     },
     {
-      "id": "rb2_radio_pvs_8f528655",
-      "title": "Radio PVS",
-      "subtitle": "Jazz, Rock",
-      "imageUrl": "",
-      "streamUrl": "https://s28.myradiostream.com/28802/listen.mp3",
-      "location": "Australia",
-      "genre": "Jazz",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 192
-    },
-    {
       "id": "rb2_radio_upper_murray_walwa_corryong_tumbar_bef56aa2",
       "title": "Radio Upper Murray - Walwa / Corryong / Tumbarumba - 88.7 FM / 98.9 FM / 107.7 FM (MP3)",
       "subtitle": "Community Radio, Local",
@@ -16281,19 +14733,6 @@
       "genre": "00'S",
       "countryCode": "AU",
       "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_ratfm_3f03648b",
-      "title": "RatFm",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://223.27.30.189:8007/live",
-      "location": "Victoria, Australia",
-      "genre": "Radio",
-      "countryCode": "AU",
-      "language": null,
       "clickCount": 0,
       "bitrate": 128
     },
@@ -16426,19 +14865,6 @@
       "language": "italian",
       "clickCount": 0,
       "bitrate": 48
-    },
-    {
-      "id": "rb2_retro_80_s_80s_remix_mp3_55b1529c",
-      "title": "Retro 80's - 80s Remix (MP3)",
-      "subtitle": "1980'S, 1980S",
-      "imageUrl": "https://i.ibb.co/cDQVs6p/image.jpg",
-      "streamUrl": "http://stream.zeno.fm/2ptupyw61fxvv",
-      "location": "Australia",
-      "genre": "1980'S",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 1,
-      "bitrate": 128
     },
     {
       "id": "rb2_retro_fm_1b35f951",
@@ -16580,19 +15006,6 @@
       "bitrate": 88
     },
     {
-      "id": "rb2_rnb_fridays_radio_e4ed9843",
-      "title": "RnB Fridays Radio",
-      "subtitle": "Adult Contemporary",
-      "imageUrl": "https://hit.listnr.com/wp-content/uploads/2024/04/cropped-hit-favicon-180x180.png",
-      "streamUrl": "https://wz2liw.scahw.com.au/live/2rnbfridays_128.stream/playlist.m3u8",
-      "location": "Sydney NSW, Australia",
-      "genre": "Adult Contemporary",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 3,
-      "bitrate": 130
-    },
-    {
       "id": "rb2_rockeasyradio_com_perth_mp3_9ade757f",
       "title": "Rockeasyradio.com - Perth (MP3)",
       "subtitle": "Blues, Rock",
@@ -16656,32 +15069,6 @@
       "language": "english",
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_rust_radio_mp3_c2a0ace8",
-      "title": "Rust Radio (MP3)",
-      "subtitle": "Music",
-      "imageUrl": "https://i.ibb.co/Fh35y53/images.webp",
-      "streamUrl": "http://stream.zeno.fm/28geuebxafhvv",
-      "location": "Australia",
-      "genre": "Music",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_safm_96_1_limestone_coast_d463308f",
-      "title": "SAFM 96.1 Limestone Coast",
-      "subtitle": "Adult Contemporary",
-      "imageUrl": "https://images.ctfassets.net/yxg7lydfj6tc/0bfd6c1a-e9bf-4994-9f94-cad3e4e1b052/11bd316757d4b21863989b960ba9c023/0013-safm-mt-gambier.png",
-      "streamUrl": "https://wz5liw.scahw.com.au/live/5sef_128.stream/playlist.m3u8",
-      "location": "Mount Gambier SA, Australia",
-      "genre": "Adult Contemporary",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 33
     },
     {
       "id": "sbs_chill_au_0ed423",
@@ -16810,32 +15197,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_sapphire_fm_225d7017",
-      "title": "Sapphire FM",
-      "subtitle": "Community",
-      "imageUrl": "",
-      "streamUrl": "http://149.28.161.112/stream",
-      "location": "Australia",
-      "genre": "Community",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_satin_jazz_b78f9ea4",
-      "title": "Satin Jazz",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://quincy.torontocast.com:2725/stream",
-      "location": "Australia",
-      "genre": "Radio",
-      "countryCode": "AU",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 192
-    },
-    {
       "id": "rb2_savage_hits_mp3_4ae689eb",
       "title": "Savage Hits (MP3)",
       "subtitle": "Music",
@@ -16860,19 +15221,6 @@
       "language": "arabic",
       "clickCount": 1,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_sea_fm_90_9_gold_coast_d0a91f34",
-      "title": "Sea FM 90.9 Gold Coast",
-      "subtitle": "Adult Contemporary",
-      "imageUrl": "https://images.ctfassets.net/yxg7lydfj6tc/bb98ca18-49a0-4bbc-b9a4-90a38aa164cf/4d57d3259aa91a37f742306bc14ebce0/0003-sea.png",
-      "streamUrl": "https://wz4liw.scahw.com.au/live/4sea_128.stream/playlist.m3u8",
-      "location": "Broadbeach QLD, Australia",
-      "genre": "Adult Contemporary",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 130
     },
     {
       "id": "rb2_seymour_fm_seymour_103_9_fm_mp3_a250628a",
@@ -17574,19 +15922,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_star_104_5_9609a895",
-      "title": "Star 104.5",
-      "subtitle": "Adult, Contemporary",
-      "imageUrl": "",
-      "streamUrl": "http://streaming.novaentertainment.com.au/starfm",
-      "location": "New South Wales, Australia",
-      "genre": "Adult",
-      "countryCode": "AU",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 48
-    },
-    {
       "id": "rb2_star_104_5_gosford_104_5_fm_aac_128k_1be03fa1",
       "title": "Star 104.5 - Gosford - 104.5 FM (AAC 128k)",
       "subtitle": "Adult Contemporary, Top 40",
@@ -17702,19 +16037,6 @@
       "language": "english",
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_starter_fm_6dd8d859",
-      "title": "Starter FM",
-      "subtitle": "Radio",
-      "imageUrl": "https://starterfm.com.au/wp-content/uploads/2020/06/Starter-24-Short-tr-e1726924490144.png",
-      "streamUrl": "http://10321.cloudrad.io:9054/hd",
-      "location": "Australia",
-      "genre": "Radio",
-      "countryCode": "AU",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 2328
     },
     {
       "id": "rb2_station_x_xrn_australia_fc9d83cc",
@@ -17834,19 +16156,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_surf_fm_87_6_ab4258cb",
-      "title": "Surf FM 87.6",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://video1.getstreamhosting.com:8386/stream",
-      "location": "Australia",
-      "genre": "Radio",
-      "countryCode": "AU",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 32
-    },
-    {
       "id": "rb2_sweet_fm_97_1mhz_community_radio_burdeki_51b081ca",
       "title": "Sweet FM 97.1MHz Community Radio Burdekin Queensland",
       "subtitle": "Classic Rock, Community Radio",
@@ -17912,19 +16221,6 @@
       "bitrate": 256
     },
     {
-      "id": "rb2_tabradio_a688a398",
-      "title": "TABradio",
-      "subtitle": "Radio",
-      "imageUrl": "https://s46780.pcdn.co/wp-content/uploads/2021/04/cropped-tabradiosquare-180x180.png",
-      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/RWWA.mp3",
-      "location": "Australia",
-      "genre": "Radio",
-      "countryCode": "AU",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 64
-    },
-    {
       "id": "rb2_teabba_radio_87445c90",
       "title": "TEABBA RADIO",
       "subtitle": "Radio",
@@ -17938,19 +16234,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_tem_fm_temora_102_5_fm_mp3_6aa1e112",
-      "title": "TEM-FM - Temora - 102.5 FM (MP3)",
-      "subtitle": "Community Radio",
-      "imageUrl": "https://i.ibb.co/fHF9MGK/734708-408015965946031-890592808-n.png",
-      "streamUrl": "http://s34.myradiostream.com:5066/;listen.mp3",
-      "location": "New South Wales, Australia",
-      "genre": "Community Radio",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 141
-    },
-    {
       "id": "rb2_tlc_fm_the_lower_clarence_valley_yamba_n_4c2e615a",
       "title": "TLC FM The Lower Clarence Valley Yamba NSW Australia",
       "subtitle": "Community Radio, Nsw",
@@ -17962,19 +16245,6 @@
       "language": null,
       "clickCount": 0,
       "bitrate": 96
-    },
-    {
-      "id": "rb2_trfm_sale_gippsland_99_5_fm_99_9_fm_fea5b264",
-      "title": "TRFM - Sale / Gippsland - 99.5 FM / 99.9 FM",
-      "subtitle": "Contemporary Hit Radio",
-      "imageUrl": "https://i.ibb.co/BsmYcKH/d46288ed-67f7-43de-a410-e1f24796fb1d.webp",
-      "streamUrl": "http://wz3liw.scahw.com.au/live/3tfm_128.stream/playlist.m3u8",
-      "location": "Victoria, Australia",
-      "genre": "Contemporary Hit Radio",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 129
     },
     {
       "id": "rb2_tamar_fm_95_3_george_town_83c451de",
@@ -18094,19 +16364,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_the_80s_hits_mp3_cb85fc50",
-      "title": "The 80s: Hits (MP3)",
-      "subtitle": "80S, Classic Rock",
-      "imageUrl": "https://i.ibb.co/8DzWt5jS/8969b06b-a2a2-4c99-9e51-323d27ce3ffd.png",
-      "streamUrl": "https://play.radioking.io/the-80s",
-      "location": "Adelaide SA, Australia",
-      "genre": "80S",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_the_90s_iheartradio_australia_aac_f7da6ef0",
       "title": "The 90s iHeartRadio Australia (AAC+)",
       "subtitle": "1990S, 90'S",
@@ -18220,19 +16477,6 @@
       "bitrate": 192
     },
     {
-      "id": "rb2_the_engineered_network_d2a92f65",
-      "title": "The Engineered Network",
-      "subtitle": "Education, News",
-      "imageUrl": "https://engineered.network/favicon/favicon.ico",
-      "streamUrl": "https://stream.engineered.network:8002/stream",
-      "location": "Australia",
-      "genre": "Education",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_the_hellenic_radio_station_of_australia_c0da2a25",
       "title": "The Hellenic Radio Station of Australia",
       "subtitle": "Radio",
@@ -18244,19 +16488,6 @@
       "language": "greek",
       "clickCount": 0,
       "bitrate": 48
-    },
-    {
-      "id": "rb2_the_lamp_radio_300_0f757dc0",
-      "title": "The Lamp Radio 300",
-      "subtitle": "Alternative, Country Music",
-      "imageUrl": "",
-      "streamUrl": "https://fire.doscast.com:8222/stream",
-      "location": "Western Australia, Australia",
-      "genre": "Alternative",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 320
     },
     {
       "id": "rb2_the_light_aw_0880dc90",
@@ -18283,19 +16514,6 @@
       "language": "english",
       "clickCount": 0,
       "bitrate": 64
-    },
-    {
-      "id": "rb2_the_local_radio_channel_mp3_767c8873",
-      "title": "The Local Radio Channel (MP3)",
-      "subtitle": "Music",
-      "imageUrl": "https://i.ibb.co/VxSBnGR/image.jpg",
-      "streamUrl": "http://stream.zeno.fm/hmcx0p9t91zuv",
-      "location": "Australia",
-      "genre": "Music",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
     },
     {
       "id": "rb2_the_positive_alternative_gympie_aac_72a4d2ef",
@@ -18857,19 +17075,6 @@
       "bitrate": 56
     },
     {
-      "id": "rb2_triple_m_2000s_a39dc3e3",
-      "title": "Triple M 2000s",
-      "subtitle": "2000S, Rock",
-      "imageUrl": "https://triplem.listnr.com/wp-content/uploads/2024/04/cropped-mmm-favicon-180x180.png",
-      "streamUrl": "https://wz2liw.scahw.com.au/live/22000s_128.stream/playlist.m3u8",
-      "location": "Australia",
-      "genre": "2000S",
-      "countryCode": "AU",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 130
-    },
-    {
       "id": "rb2_triple_m_80s_8c94ab1f",
       "title": "Triple M 80s",
       "subtitle": "Radio",
@@ -18903,119 +17108,6 @@
       "language": "english",
       "clickCount": 1,
       "bitrate": 33
-    },
-    {
-      "id": "triple_m_brisbane_au_8e1930",
-      "title": "Triple M Brisbane",
-      "subtitle": "Classic Rock",
-      "location": "Queensland, Australia",
-      "genre": "Rock",
-      "streamUrl": "https://wz4liw.scahw.com.au/live/4mmm_128.stream/playlist.m3u8?dist=listnr-web&aw_0_1st.playerId=LiSTNR_Web_native&cb=641bc940-6513-11ed-b730-9fc45eec0ec1",
-      "countryCode": "AU"
-    },
-    {
-      "id": "rb2_triple_m_bundy_0b5d0054",
-      "title": "Triple M Bundy",
-      "subtitle": "Good Times And Greatest Hits, Greatest Hits",
-      "imageUrl": "https://images.ctfassets.net/yxg7lydfj6tc/1697a2f1-5137-4a51-b2a9-97efa4b81ae3/2c8ef0b384491af641a01c1a936bfa09/0038-triplem-bundy-rev.png?w=320&h=320&fit=fill",
-      "streamUrl": "https://wz4liw.scahw.com.au/live/4rgb_128.stream/playlist.m3u8",
-      "location": "Australia",
-      "genre": "Good Times And Greatest Hits",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 1,
-      "bitrate": 130
-    },
-    {
-      "id": "rb2_triple_m_classic_rock_078fb787",
-      "title": "Triple M Classic Rock",
-      "subtitle": "Classic Rock",
-      "imageUrl": "https://images.ctfassets.net/yxg7lydfj6tc/75f6ebae-ad7f-4935-8219-0cb890d0bf74/50e3f1e17371c7eb028659c162b3058b/0004-classicrock.png",
-      "streamUrl": "https://wz2liw.scahw.com.au/live/2classicrock_128.stream/playlist.m3u8",
-      "location": "Victoria, Australia",
-      "genre": "Classic Rock",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 2,
-      "bitrate": 130
-    },
-    {
-      "id": "rb2_triple_m_fraser_coast_1b8810ec",
-      "title": "Triple M Fraser Coast",
-      "subtitle": "Good Times And Greatest Hits",
-      "imageUrl": "https://www.play.listnr.com/favicon/apple-touch-icon.png",
-      "streamUrl": "https://wz4liw.scahw.com.au/live/4mbb_128.stream/playlist.m3u8?listeningSessionID=638606f8054f91d9_1332470_ClkSurzq_MTAuNzAuMS4xOA!!_00000002Ig9&downloadSessionID=0&dist=listnr-web&aw_0_1st.playerId=LiSTNR_Web_native&cb=b864b890-7c06-11ed-858b-43d1749a55ef&aw_0_1st.playerId=LiSTNR_Web_native&cb=e5f39fb0-7c06-11ed-858b-43d1749a55ef",
-      "location": "Queensland, Australia",
-      "genre": "Good Times And Greatest Hits",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_triple_m_geraldton_98_1_5a1efd49",
-      "title": "Triple M Geraldton 98.1",
-      "subtitle": "Radio",
-      "imageUrl": "https://images.ctfassets.net/yxg7lydfj6tc/a7c3b50a-9ebb-44da-8416-3825964404bb/43a1fbafb72565d311b0a6b57fe97518/0046-triplem-981-geraldton.png",
-      "streamUrl": "https://wz6liw.scahw.com.au/live/6bay_128.stream/playlist.m3u8",
-      "location": "Western Australia, Australia",
-      "genre": "Radio",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 33
-    },
-    {
-      "id": "rb2_triple_m_melbourne_dbaa152a",
-      "title": "Triple M Melbourne",
-      "subtitle": "80S, Rock",
-      "imageUrl": "https://triplem.listnr.com/wp-content/uploads/2024/04/cropped-mmm-favicon-180x180.png",
-      "streamUrl": "https://wz3drp.scahw.com.au/live/3mmm_32.stream/playlist.m3u8",
-      "location": "Victoria, Australia",
-      "genre": "80S",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 2,
-      "bitrate": 33
-    },
-    {
-      "id": "rb2_triple_m_newcastle_3b8cfbcf",
-      "title": "Triple M Newcastle",
-      "subtitle": "Radio",
-      "imageUrl": "https://triplem.listnr.com/wp-content/uploads/2024/04/cropped-mmm-favicon-180x180.png",
-      "streamUrl": "https://wz2liw.scahw.com.au/live/2kko_128.stream/playlist.m3u8",
-      "location": "Australia",
-      "genre": "Radio",
-      "countryCode": "AU",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 130
-    },
-    {
-      "id": "rb2_triple_m_perth_6c40924d",
-      "title": "Triple M Perth",
-      "subtitle": "Rock",
-      "imageUrl": "https://triplem.listnr.com/wp-content/uploads/2024/04/cropped-mmm-favicon-180x180.png",
-      "streamUrl": "https://wz6liw.scahw.com.au/live/6ppm_128.stream/playlist.m3u8",
-      "location": "Western Australia, Australia",
-      "genre": "Rock",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 130
-    },
-    {
-      "id": "rb2_triple_m_southwest_9dd50e27",
-      "title": "Triple M Southwest",
-      "subtitle": "Hits",
-      "imageUrl": "",
-      "streamUrl": "https://wz6liw.scahw.com.au/live/6tz_128.stream/playlist.m3u8",
-      "location": "Australia",
-      "genre": "Hits",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 130
     },
     {
       "id": "triple_m_sydney_au_5f80f8",
@@ -19077,32 +17169,6 @@
       "language": null,
       "clickCount": 1,
       "bitrate": 238
-    },
-    {
-      "id": "rb2_triple_m_102_3mhz_fm_townsville_qld_rock_f400ee71",
-      "title": "Triple-M 102.3MHz FM Townsville QLD Rock Sports and Comedy 20220701",
-      "subtitle": "Classic Rock, Comedy",
-      "imageUrl": "https://triplem.listnr.com/wp-content/uploads/2024/04/cropped-mmm-favicon-180x180.png",
-      "streamUrl": "https://wz4liw.scahw.com.au/live/4too_128.stream/playlist.m3u8",
-      "location": "Queensland Townsville, Australia",
-      "genre": "Classic Rock",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 1,
-      "bitrate": 130
-    },
-    {
-      "id": "rb2_tripple_m_adelaide_128kbps_208b177b",
-      "title": "Tripple M Adelaide (128kbps)",
-      "subtitle": "80'S, Rock",
-      "imageUrl": "",
-      "streamUrl": "https://wz5liw.scahw.com.au/live/5mmm_128.stream/playlist.m3u8",
-      "location": "South Australia, Australia",
-      "genre": "80'S",
-      "countryCode": "AU",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 130
     },
     {
       "id": "rb2_ucfm_87_8_canberra_87_8_fm_mp3_3d6cf1b8",
@@ -19695,214 +17761,6 @@
       "countryCode": "AU"
     },
     {
-      "id": "rb2_hit_100_3_94_7_mackay_and_the_whitsunday_1f21fa5a",
-      "title": "hit 100.3 & 94.7 Mackay and the Whitsundays",
-      "subtitle": "Adult Contemporary",
-      "imageUrl": "https://images.ctfassets.net/yxg7lydfj6tc/2a747a44-8663-4875-ab28-0dbddbb7a0f8/0a4e23808360c756d010a213f5b409b5/0015-mackay-whutsundays.png",
-      "streamUrl": "https://wz4liw.scahw.com.au/live/4mky_128.stream/playlist.m3u8",
-      "location": "Mackay QLD, Australia",
-      "genre": "Adult Contemporary",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 130
-    },
-    {
-      "id": "rb2_hit_101_9_fraser_coast_9ea06b8a",
-      "title": "hit 101.9 Fraser Coast",
-      "subtitle": "Hits You Love From Then To Now",
-      "imageUrl": "https://www.play.listnr.com/favicon/apple-touch-icon.png",
-      "streamUrl": "https://wz4liw.scahw.com.au/live/4cee_128.stream/playlist.m3u8",
-      "location": "Queensland, Australia",
-      "genre": "Hits You Love From Then To Now",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 1,
-      "bitrate": 130
-    },
-    {
-      "id": "rb2_hit_103_1mhz_fm_townsville_qld_hitnetwor_079a0321",
-      "title": "hit 103.1MHz FM Townsville QLD hitNETWORK Hits and Old Skool 20220701",
-      "subtitle": "Local Radio, News",
-      "imageUrl": "https://hit.listnr.com/wp-content/uploads/2024/04/cropped-hit-favicon-180x180.png",
-      "streamUrl": "https://wz4liw.scahw.com.au/live/4ram_128.stream/playlist.m3u8?",
-      "location": "Queensland Townsville, Australia",
-      "genre": "Local Radio",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 1,
-      "bitrate": 130
-    },
-    {
-      "id": "rb2_hit_106_5_karratha_6a51911c",
-      "title": "hit 106.5 Karratha",
-      "subtitle": "Adult Contemporary",
-      "imageUrl": "https://images.ctfassets.net/yxg7lydfj6tc/2f709271-8c89-47e5-aabf-ec8b5055791a/33b0e0756c9029c4553270ee0ff54c50/0030-karratha-1065.png",
-      "streamUrl": "https://wz6liw.scahw.com.au/live/6red_128.stream/playlist.m3u8",
-      "location": "Karratha WA, Australia",
-      "genre": "Adult Contemporary",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 33
-    },
-    {
-      "id": "rb2_hit_4rok_107_9mhz_fm_rockhampton_central_0719daa5",
-      "title": "hit 4ROK 107.9MHz FM Rockhampton Central Queensland",
-      "subtitle": "Classic Hits, Local Radio",
-      "imageUrl": "",
-      "streamUrl": "https://wz4liw.scahw.com.au/live/4rok_128.stream/playlist.m3u8?",
-      "location": "Rockhampton Queensland, Australia",
-      "genre": "Classic Hits",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 1,
-      "bitrate": 130
-    },
-    {
-      "id": "rb2_hit_95_1_maranoa_4409cd16",
-      "title": "hit 95.1 Maranoa",
-      "subtitle": "Adult Contemporary",
-      "imageUrl": "",
-      "streamUrl": "https://wz4liw.scahw.com.au/live/4rgd_128.stream/playlist.m3u8",
-      "location": "Toowoomba QLD, Australia",
-      "genre": "Adult Contemporary",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 130
-    },
-    {
-      "id": "rb2_hit_96_9_goulburn_valley_50568f43",
-      "title": "hit 96.9 Goulburn Valley",
-      "subtitle": "Adult Contemporary",
-      "imageUrl": "https://images.ctfassets.net/yxg7lydfj6tc/0fd6a9d3-4a1f-4846-bb99-2bdc378f3fed/f18ad75f5774644d5595ceeab9b707cc/0034-goulburn-valley-969.png",
-      "streamUrl": "https://wz3liw.scahw.com.au/live/3sun_128.stream/playlist.m3u8",
-      "location": "Shepparton VIC, Australia",
-      "genre": "Adult Contemporary",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 33
-    },
-    {
-      "id": "rb2_hit_southwest_932abb65",
-      "title": "hit Southwest",
-      "subtitle": "Adult Contemporary",
-      "imageUrl": "https://hit.listnr.com/wp-content/uploads/2024/04/cropped-hit-favicon-180x180.png",
-      "streamUrl": "https://wz6liw.scahw.com.au/live/6bun_128.stream/playlist.m3u8",
-      "location": "Bunbury WA, Australia",
-      "genre": "Adult Contemporary",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 130
-    },
-    {
-      "id": "rb2_hit_wa_87bbf617",
-      "title": "hit WA",
-      "subtitle": "Adult Contemporary",
-      "imageUrl": "",
-      "streamUrl": "https://wz6liw.scahw.com.au/live/6fms_128.stream/playlist.m3u8",
-      "location": "Subiaco WA, Australia",
-      "genre": "Adult Contemporary",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 130
-    },
-    {
-      "id": "rb2_hit_wheatbelt_0f35fa3a",
-      "title": "hit Wheatbelt",
-      "subtitle": "Adult Contemporary",
-      "imageUrl": "https://images.ctfassets.net/yxg7lydfj6tc/08ebaccf-773c-40aa-9c82-3d5635f89a1f/a1f23eea96df55ba490682597bad6b5d/0006-wheatbelt.png",
-      "streamUrl": "https://wz6liw.scahw.com.au/live/6nam_128.stream/playlist.m3u8",
-      "location": "Northam WA, Australia",
-      "genre": "Adult Contemporary",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 33
-    },
-    {
-      "id": "rb2_hit101_3_broome_bcd9027b",
-      "title": "hit101.3 Broome",
-      "subtitle": "Adult Contemporary",
-      "imageUrl": "https://images.ctfassets.net/yxg7lydfj6tc/ce6ea296-7c28-46fe-afc7-cd93c15687ee/ad1796937290c0b09e192d0fb52198cf/0050-broome-1013.png",
-      "streamUrl": "https://wz6liw.scahw.com.au/live/6hedb_128.stream/playlist.m3u8",
-      "location": "Broome WA, Australia",
-      "genre": "Adult Contemporary",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 33
-    },
-    {
-      "id": "rb2_hit101_3_central_coast_81fab755",
-      "title": "hit101.3 Central Coast",
-      "subtitle": "Adult Contemporary",
-      "imageUrl": "",
-      "streamUrl": "https://wz2liw.scahw.com.au/live/2cfm_128.stream/playlist.m3u8",
-      "location": "Gosford NSW, Australia",
-      "genre": "Adult Contemporary",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 130
-    },
-    {
-      "id": "rb2_hit102_3_105_1_mid_north_coast_e09c35fa",
-      "title": "hit102.3 & 105.1 Mid North Coast",
-      "subtitle": "Adult Contemporary",
-      "imageUrl": "https://images.ctfassets.net/yxg7lydfj6tc/ecf30f36-caec-4672-add5-16563182d368/6bfb5d556be4e1018af75c24ced047c5/0024-mid-north-coast.png",
-      "streamUrl": "https://wz2liw.scahw.com.au/live/2rox_128.stream/playlist.m3u8",
-      "location": "Thrumster NSW, Australia",
-      "genre": "Adult Contemporary",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 33
-    },
-    {
-      "id": "rb2_hit102_3_esperance_f55c6c18",
-      "title": "hit102.3 Esperance",
-      "subtitle": "Adult Contemporary",
-      "imageUrl": "https://images.ctfassets.net/yxg7lydfj6tc/617ceb2b-8256-4c29-814e-045de632b92a/418e02b71b3366666b2401a4d1bec3d0/0037-esperance-1023.png",
-      "streamUrl": "https://wz6liw.scahw.com.au/live/6sea_128.stream/playlist.m3u8",
-      "location": "Esperance WA, Australia",
-      "genre": "Adult Contemporary",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 33
-    },
-    {
-      "id": "rb2_hit102_5_mount_isa_0bf782b5",
-      "title": "hit102.5 Mount Isa",
-      "subtitle": "Adult Contemporary",
-      "imageUrl": "https://hit.listnr.com/wp-content/uploads/2024/04/cropped-hit-favicon-180x180.png",
-      "streamUrl": "https://wz4liw.scahw.com.au/live/4mic_128.stream/playlist.m3u8",
-      "location": "Mt Isa QLD, Australia",
-      "genre": "Adult Contemporary",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 130
-    },
-    {
-      "id": "rb2_hit103_5_cairns_632f0948",
-      "title": "hit103.5 Cairns",
-      "subtitle": "Adult Contemporary",
-      "imageUrl": "https://images.ctfassets.net/yxg7lydfj6tc/d96866b3-6ef5-4c36-914a-a310b552a17d/ae84579d579d5379432d2709a63ec7ae/0047-cairns-1035.png",
-      "streamUrl": "https://wz4liw.scahw.com.au/live/4hot_128.stream/playlist.m3u8",
-      "location": "Cairns Queensland, Australia",
-      "genre": "Adult Contemporary",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 1,
-      "bitrate": 130
-    },
-    {
       "id": "rb2_hit104_7_canberra_8c936ad3",
       "title": "hit104.7 Canberra",
       "subtitle": "Radio",
@@ -19914,201 +17772,6 @@
       "language": "english",
       "clickCount": 0,
       "bitrate": 48
-    },
-    {
-      "id": "rb2_hit104_9_the_border_960358b8",
-      "title": "hit104.9 The Border",
-      "subtitle": "Adult Contemporary",
-      "imageUrl": "",
-      "streamUrl": "https://wz2liw.scahw.com.au/live/2aay_128.stream/playlist.m3u8",
-      "location": "Albury NSW, Australia",
-      "genre": "Adult Contemporary",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 130
-    },
-    {
-      "id": "rb2_hit105_5_coffs_coast_2f0ec1f7",
-      "title": "hit105.5 Coffs Coast",
-      "subtitle": "Adult Contemporary",
-      "imageUrl": "https://images.ctfassets.net/yxg7lydfj6tc/a1e67b36-a12c-4089-8180-f8e7f631f9dc/4582df13cb1f3eefcb1da7b70b1d70d6/0040-coffs-coast-1055.png",
-      "streamUrl": "https://wz2liw.scahw.com.au/live/2csf_128.stream/playlist.m3u8",
-      "location": "Coffs Harbour NSW, Australia",
-      "genre": "Adult Contemporary",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 33
-    },
-    {
-      "id": "rb2_hit105_9_central_west_24e3f07d",
-      "title": "hit105.9 Central West",
-      "subtitle": "Adult Contemporary",
-      "imageUrl": "https://images.ctfassets.net/yxg7lydfj6tc/385f53b1-dac9-4f2b-b3da-88117b5201cd/86b4d9712327666520db888f074fa74b/0041-central-west-1059.png",
-      "streamUrl": "https://wz2liw.scahw.com.au/live/2gzf_128.stream/playlist.m3u8",
-      "location": "Orange NSW, Australia",
-      "genre": "Adult Contemporary",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 33
-    },
-    {
-      "id": "rb2_hit106_9_newcastle_1c685fee",
-      "title": "hit106.9 Newcastle",
-      "subtitle": "Adult Contemporary",
-      "imageUrl": "https://images.ctfassets.net/yxg7lydfj6tc/61f09026-6e71-4b7a-8e51-7c6b90c82817/84aeddded2ef0b9e3cfea46ea622413c/0021-newcastle-1069.png",
-      "streamUrl": "https://wz2liw.scahw.com.au/live/2xxx_128.stream/playlist.m3u8",
-      "location": "Newcastle NSW, Australia",
-      "genre": "Adult Contemporary",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 130
-    },
-    {
-      "id": "rb2_hit91_7_port_hedland_4e7be5ca",
-      "title": "hit91.7 Port Hedland",
-      "subtitle": "Adult Contemporary",
-      "imageUrl": "https://images.ctfassets.net/yxg7lydfj6tc/ba3c1c4e-f61f-478d-b5b5-941b958dd252/c375ba9e974912d6440bf18998a3b80a/0018-port-hedland-917.png",
-      "streamUrl": "https://wz6liw.scahw.com.au/live/6hed_128.stream/playlist.m3u8",
-      "location": "South Hedland WA, Australia",
-      "genre": "Adult Contemporary",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 33
-    },
-    {
-      "id": "rb2_hit91_9_bendigo_ca189f16",
-      "title": "hit91.9 Bendigo",
-      "subtitle": "Adult Contemporary",
-      "imageUrl": "https://images.ctfassets.net/yxg7lydfj6tc/ebf5f28e-fd35-4945-943f-bda00aa11080/0fe7de42c78d9d40a3f4489a8a63e193/0052-bendigo-919.png",
-      "streamUrl": "https://wz3liw.scahw.com.au/live/3bdg_128.stream/playlist.m3u8",
-      "location": "Bendigo VIC, Australia",
-      "genre": "Adult Contemporary",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 33
-    },
-    {
-      "id": "rb2_hit93_1_riverina_0ea641ca",
-      "title": "hit93.1 Riverina",
-      "subtitle": "Adult Contemporary",
-      "imageUrl": "https://images.ctfassets.net/yxg7lydfj6tc/7600c046-1271-4398-867d-e65dca92f443/526403f4c51cb2f6b411f69c43acad24/0017-riverina-931.png",
-      "streamUrl": "https://wz2liw.scahw.com.au/live/2wzd_128.stream/playlist.m3u8",
-      "location": "Wagga Wagga NSW, Australia",
-      "genre": "Adult Contemporary",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 33
-    },
-    {
-      "id": "rb2_hit94_7_emerald_5f1b1b5f",
-      "title": "hit94.7 Emerald",
-      "subtitle": "Adult Contemporary",
-      "imageUrl": "https://hit.listnr.com/wp-content/uploads/2024/04/cropped-hit-favicon-180x180.png",
-      "streamUrl": "https://wz4liw.scahw.com.au/live/4hit_128.stream/playlist.m3u8",
-      "location": "Emerald QLD, Australia",
-      "genre": "Adult Contemporary",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 130
-    },
-    {
-      "id": "rb2_hit95_3_albany_93f0fa17",
-      "title": "hit95.3 Albany",
-      "subtitle": "Adult Contemporary",
-      "imageUrl": "https://images.ctfassets.net/yxg7lydfj6tc/596e9d8b-0fd5-46b4-8562-3af4e00de073/4399da0b387a3675954bd332df3d0206/0053-albany-953.png",
-      "streamUrl": "https://wz6liw.scahw.com.au/live/6aay_128.stream/playlist.m3u8",
-      "location": "Albany WA, Australia",
-      "genre": "Adult Contemporary",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 33
-    },
-    {
-      "id": "rb2_hit96_5_geraldton_03da7ad4",
-      "title": "hit96.5 Geraldton",
-      "subtitle": "Adult Contemporary",
-      "imageUrl": "https://images.ctfassets.net/yxg7lydfj6tc/cf613023-5286-4f30-831b-0d23ac5f2c32/7cdec3c1f3c54481eabbac3f3ab363d5/0035-geraldton-965.png",
-      "streamUrl": "https://wz6liw.scahw.com.au/live/6ggg_128.stream/playlist.m3u8",
-      "location": "Geraldton WA, Australia",
-      "genre": "Adult Contemporary",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 33
-    },
-    {
-      "id": "rb2_hit97_9_goldfields_aa88ba00",
-      "title": "hit97.9 Goldfields",
-      "subtitle": "Adult Contemporary",
-      "imageUrl": "https://images.ctfassets.net/yxg7lydfj6tc/26579c3c-31ff-4f0c-883b-8b35a5e4bcfb/343cd177e8b4f6659131464b1e5a489e/0031-goldfields-kalgoorlie-979.png",
-      "streamUrl": "https://wz6liw.scahw.com.au/live/6kar_128.stream/playlist.m3u8",
-      "location": "Kalgoorlie WA, Australia",
-      "genre": "Adult Contemporary",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 33
-    },
-    {
-      "id": "rb2_hit97_9_tablelands_a12d23f7",
-      "title": "hit97.9 Tablelands",
-      "subtitle": "Adult Contemporary",
-      "imageUrl": "https://images.ctfassets.net/yxg7lydfj6tc/b9cede00-1724-4fe8-a398-2826a6cd1a0b/e3d761fd47761c2ac4d8b3fc96a42d60/0009-tablelands-979.png",
-      "streamUrl": "https://wz4liw.scahw.com.au/live/4amm_128.stream/playlist.m3u8",
-      "location": "Cairns QLD, Australia",
-      "genre": "Adult Contemporary",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 130
-    },
-    {
-      "id": "rb2_hit99_5_sunraysia_76479bb7",
-      "title": "hit99.5 Sunraysia",
-      "subtitle": "Adult Contemporary",
-      "imageUrl": "",
-      "streamUrl": "https://wz3liw.scahw.com.au/live/3mda_128.stream/playlist.m3u8",
-      "location": "Mildura VIC, Australia",
-      "genre": "Adult Contemporary",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 33
-    },
-    {
-      "id": "rb2_hit99_7_carnarvon_2d558831",
-      "title": "hit99.7 Carnarvon",
-      "subtitle": "Adult Contemporary",
-      "imageUrl": "https://images.ctfassets.net/yxg7lydfj6tc/baefbef0-1fc2-4b19-b430-8a80a8bf307e/70b743e8a6f6d0c1ad373395e4308c53/0045-carnarvon-997.png",
-      "streamUrl": "https://wz6liw.scahw.com.au/live/6car_128.stream/playlist.m3u8",
-      "location": "Subiaco WA, Australia",
-      "genre": "Adult Contemporary",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 33
-    },
-    {
-      "id": "rb2_hit99_7_riverina_mia_059cf3f3",
-      "title": "hit99.7 Riverina MIA",
-      "subtitle": "Adult Contemporary",
-      "imageUrl": "https://images.ctfassets.net/yxg7lydfj6tc/8fb3c09a-11c6-4494-9d5b-b3f0b32cf6dd/2f6958c8de2567d94e39beae5f7b7241/0016-riverina-mia-997.png",
-      "streamUrl": "https://wz2liw.scahw.com.au/live/2rgf_128.stream/playlist.m3u8",
-      "location": "Griffith NSW, Australia",
-      "genre": "Adult Contemporary",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 33
     },
     {
       "id": "rb2_i98fm_4ed26e13",
@@ -20280,32 +17943,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_slayernetradio_a592f011",
-      "title": "slayernetradio",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://ir.slayer.network/listen/slayernetradio/radio.mp3",
-      "location": "Queensland, Australia",
-      "genre": "Radio",
-      "countryCode": "AU",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 192
-    },
-    {
-      "id": "rb2_streamless_fm_b960761d",
-      "title": "streamless.fm",
-      "subtitle": "Radio",
-      "imageUrl": "https://streamless.fm/icon-512.png",
-      "streamUrl": "https://live.streamless.fm/listen",
-      "location": "Victoria, Australia",
-      "genre": "Radio",
-      "countryCode": "AU",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "triple_j_nsw_au_f30460",
       "title": "triple j (NSW)",
       "subtitle": "Dance",
@@ -20352,51 +17989,6 @@
       "language": null,
       "clickCount": 5,
       "bitrate": 33
-    },
-    {
-      "id": "2dayfm_104_0_suva_fj",
-      "title": "2dayFM 104.0 Suva",
-      "subtitle": "Pop / Suva",
-      "location": "Fiji",
-      "genre": "Pop",
-      "countryCode": "FJ",
-      "streamUrl": "http://peridot.streamguys.com:7150/2Day"
-    },
-    {
-      "id": "bula_fm_fj",
-      "title": "Bula FM",
-      "subtitle": "Fijian Programming",
-      "location": "Fiji",
-      "genre": "Music",
-      "countryCode": "FJ",
-      "streamUrl": "http://peridot.streamguys.com:7150/Bula"
-    },
-    {
-      "id": "fiji_gold_fm_100_4_suva_fj",
-      "title": "Fiji Gold FM 100.4 Suva",
-      "subtitle": "Fiji / Local News",
-      "location": "Fiji",
-      "genre": "News",
-      "countryCode": "FJ",
-      "streamUrl": "http://peridot.streamguys.com:7150/Gold"
-    },
-    {
-      "id": "radio_fiji_one_fj",
-      "title": "Radio Fiji One",
-      "subtitle": "Pacific Island Music",
-      "location": "Fiji",
-      "genre": "Music",
-      "countryCode": "FJ",
-      "streamUrl": "http://peridot.streamguys.com:7150/RFOne"
-    },
-    {
-      "id": "radio_fiji_two_fj",
-      "title": "Radio Fiji Two",
-      "subtitle": "South Asian Music",
-      "location": "Fiji",
-      "genre": "Music",
-      "countryCode": "FJ",
-      "streamUrl": "http://peridot.streamguys.com:7150/RFTwo"
     },
     {
       "id": "104_3_boss_fm_gu",
@@ -20617,19 +18209,6 @@
       "bitrate": 96
     },
     {
-      "id": "rb2_8k_nz_54663c94",
-      "title": "8K.NZ",
-      "subtitle": "Community Radio, Eclectic",
-      "imageUrl": "",
-      "streamUrl": "http://radio8k.out.airtime.pro:8000/radio8k_a",
-      "location": "New Zealand",
-      "genre": "Community Radio",
-      "countryCode": "NZ",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 192
-    },
-    {
       "id": "rb2_91_2_oamaru_fm_c93a5edc",
       "title": "91.2 Oamaru FM",
       "subtitle": "Radio",
@@ -20641,32 +18220,6 @@
       "language": null,
       "clickCount": 1,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_93_5_eagle_radio_the_true_alternative_4f03ad1b",
-      "title": "93 5 Eagle Radio - The True Alternative",
-      "subtitle": "Radio",
-      "imageUrl": "https://primary.jwwb.nl/public/m/o/a/temp-qwwivcgxsmoafqnsfida/ai-logo-b2b5d92b6b7c-standard.png?enable-io=true&width=96",
-      "streamUrl": "https://az10.yesstreaming.net:8680/radio.mp3",
-      "location": "Waikato, New Zealand",
-      "genre": "Radio",
-      "countryCode": "NZ",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 320
-    },
-    {
-      "id": "rb2_93_5_the_eagle_9eebd3eb",
-      "title": "93 5 The Eagle",
-      "subtitle": "Radio",
-      "imageUrl": "https://primary.jwwb.nl/public/m/o/a/temp-qwwivcgxsmoafqnsfida/ai-logo-b2b5d92b6b7c-standard.png?enable-io=true&width=96",
-      "streamUrl": "https://streaming.live365.com/a88592",
-      "location": "Waikato, Taupo 3330, New Zealand",
-      "genre": "Radio",
-      "countryCode": "NZ",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 192
     },
     {
       "id": "95bfm_256kbps_mp3_nz",
@@ -20739,19 +18292,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_amped_ai_16356b10",
-      "title": "Amped AI",
-      "subtitle": "Various",
-      "imageUrl": "",
-      "streamUrl": "https://amped-ai1.azuracast.tgnz.net/listen/amped_ai/radio.mp3",
-      "location": "New Zealand",
-      "genre": "Various",
-      "countryCode": "NZ",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_anthemz_f559ba5e",
       "title": "Anthemz",
       "subtitle": "Radio",
@@ -20817,19 +18357,6 @@
       "bitrate": 192
     },
     {
-      "id": "rb2_bay_fm_100_7_013e7197",
-      "title": "Bay FM 100.7",
-      "subtitle": "Classic Rock",
-      "imageUrl": "https://static-media.streema.com/media/cache/9f/95/9f9598196955d2228f613c8f0cda3da9.jpg",
-      "streamUrl": "https://s38.myradiostream.com:8876/;;?listening-from-radio-garden=1686796930",
-      "location": "Hawkes Bay, New Zealand",
-      "genre": "Classic Rock",
-      "countryCode": "NZ",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "beachfm_106_3_nz_00956d",
       "title": "BeachFM 106.3",
       "subtitle": "00S",
@@ -20850,19 +18377,6 @@
       "language": "english",
       "clickCount": 1,
       "bitrate": 320
-    },
-    {
-      "id": "rb2_big_river_fm_0a26a71c",
-      "title": "Big River FM",
-      "subtitle": "Community, Music",
-      "imageUrl": "https://www.facebook.com/favicon.ico",
-      "streamUrl": "http://bigriver.broadcast.co.nz/bigriverfm.mp3",
-      "location": "Dargaville, New Zealand",
-      "genre": "Community",
-      "countryCode": "NZ",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
     },
     {
       "id": "rb2_brian_fm_105_6_nelson_nz_d714b8c3",
@@ -21008,19 +18522,6 @@
       "bitrate": 192
     },
     {
-      "id": "rb2_country_radio_invercargill_105_2fm_9ef832af",
-      "title": "Country Radio Invercargill 105.2FM",
-      "subtitle": "Country, Kiwi Country",
-      "imageUrl": "",
-      "streamUrl": "http://countryradio2.no-ip.org:8000/;",
-      "location": "Southland, New Zealand",
-      "genre": "Country",
-      "countryCode": "NZ",
-      "language": "english",
-      "clickCount": 2,
-      "bitrate": 32
-    },
-    {
       "id": "rb2_dave_fm_6178568a",
       "title": "Dave FM",
       "subtitle": "70S, 80S",
@@ -21119,19 +18620,6 @@
       "language": null,
       "clickCount": 5,
       "bitrate": 80
-    },
-    {
-      "id": "rb2_galaxy_107_fm_kawerau_963533f2",
-      "title": "Galaxy 107 FM  Kawerau",
-      "subtitle": "Adult Contemporary, Community Radio",
-      "imageUrl": "http://www.galaxyfm.co.nz/favicon.ico",
-      "streamUrl": "http://s39.myradiostream.com:14858/;listen.mp3",
-      "location": "New Zealand",
-      "genre": "Adult Contemporary",
-      "countryCode": "NZ",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 192
     },
     {
       "id": "george_fm_nz_0f9588",
@@ -21643,19 +19131,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_one_double_x_8ab96af5",
-      "title": "One Double-X",
-      "subtitle": "Local, News",
-      "imageUrl": "https://static.wixstatic.com/media/2997c4_037e291ea90b41719f166f41a3ea5005%7emv2.png/v1/fill/w_32%2ch_32%2clg_1%2cusm_0.66_1.00_0.01/2997c4_037e291ea90b41719f166f41a3ea5005%7emv2.png",
-      "streamUrl": "https://radio.e-cast.co.nz/1xxone/stream.m3u8",
-      "location": "Eastern & Central Bay Of Plenty, New Zealand",
-      "genre": "Local",
-      "countryCode": "NZ",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_paekakariki_96169329",
       "title": "Paekakariki",
       "subtitle": "Radio",
@@ -21745,19 +19220,6 @@
       "language": null,
       "clickCount": 3,
       "bitrate": 64
-    },
-    {
-      "id": "rb2_q97_2d5c53a1",
-      "title": "Q97",
-      "subtitle": "Contemporary Hits, Whakatane",
-      "imageUrl": "https://static.wixstatic.com/media/2997c4_dd6042bd43aa449c9318d09ed79dd9eb%7emv2.png/v1/fill/w_32%2ch_32%2clg_1%2cusm_0.66_1.00_0.01/2997c4_dd6042bd43aa449c9318d09ed79dd9eb%7emv2.png",
-      "streamUrl": "https://radio.e-cast.co.nz/q97/stream.m3u8",
-      "location": "Eastern Bay Of Plenty, New Zealand",
-      "genre": "Contemporary Hits",
-      "countryCode": "NZ",
-      "language": "english",
-      "clickCount": 1,
-      "bitrate": 128
     },
     {
       "id": "rb2_rag_fm_107_7fm_6bccda6d",
@@ -21986,19 +19448,6 @@
       "bitrate": 160
     },
     {
-      "id": "rb2_radio_ferrymead_1413_am_fdf25d0a",
-      "title": "Radio Ferrymead 1413 AM",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://s2.stationplaylist.com:9440/listen.aac?1780841789005",
-      "location": "New Zealand",
-      "genre": "Radio",
-      "countryCode": "NZ",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 32
-    },
-    {
       "id": "rb2_radio_hauraki_91828462",
       "title": "Radio Hauraki",
       "subtitle": "Radio",
@@ -22036,19 +19485,6 @@
       "language": "english",
       "clickCount": 3,
       "bitrate": 192
-    },
-    {
-      "id": "rb2_radio_kps_kauri_park_school_0d28f346",
-      "title": "Radio KPS (Kauri Park School)",
-      "subtitle": "Children, Pop",
-      "imageUrl": "https://lh3.googleusercontent.com/sitesv/AA5AbUA_u_j1gvQEVPUAiosRq7lTsmW11yYC9dm4m8rUOrEWdaGDDkabOJYIkjLVAytN5U04J6iqCRV1NQoDGfmynj-yO4ZdP1Gf8m6yBe5V54zsTwEhFHrSzGvIifYsd0Ba5XacQx3Ee3MP-yJ3rW9cQsLeyzuoo6LDBIIr8AVwjwX8zEYZ8IsoAkyuMOXTrlmyXY9hn9a4Dlmh99vT919cJ9WtOg",
-      "streamUrl": "http://202.150.97.198:8000/;",
-      "location": "New Zealand",
-      "genre": "Children",
-      "countryCode": "NZ",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 256
     },
     {
       "id": "rb2_radio_kidnappers_3c5bb36b",
@@ -22151,19 +19587,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_radio_universo_fm_e7aa06ad",
-      "title": "Radio Universo FM",
-      "subtitle": "Radio",
-      "imageUrl": "https://static.wixstatic.com/media/997731_6db60f6e7a53483b81213fa9eac4da43~mv2.jpg/v1/fill/w_250,h_116,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/a%20logo.jpg",
-      "streamUrl": "https://stationplaylist.com:7140/listen.aac",
-      "location": "New Zealand",
-      "genre": "Radio",
-      "countryCode": "NZ",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 32
-    },
-    {
       "id": "rb2_radioactive_fm_88_6_35732d95",
       "title": "Radioactive.FM 88.6",
       "subtitle": "Alternative, Indie",
@@ -22227,19 +19650,6 @@
       "language": "english",
       "clickCount": 1,
       "bitrate": 96
-    },
-    {
-      "id": "rb2_rush_fm_c8345e4f",
-      "title": "Rush FM",
-      "subtitle": "Fringe, Music",
-      "imageUrl": "",
-      "streamUrl": "http://rushbroadcasting.serverroom.us:5204/;",
-      "location": "Hamilton, New Zealand",
-      "genre": "Fringe",
-      "countryCode": "NZ",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
     },
     {
       "id": "rb2_sanctuary_aac_c6723382",
@@ -22318,19 +19728,6 @@
       "language": "english",
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_southern_cross_country_4d182f6b",
-      "title": "Southern Cross Country",
-      "subtitle": "Country",
-      "imageUrl": "https://player.streamerr.co/uploads/logos/Untitled_design_-_2023-10-211.png",
-      "streamUrl": "https://sxcountry.radioca.st/stream",
-      "location": "Auckland, New Zealand",
-      "genre": "Country",
-      "countryCode": "NZ",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 192
     },
     {
       "id": "rb_sport_nation_aac_b61e2d85",
@@ -22457,32 +19854,6 @@
       "genre": "Radio",
       "streamUrl": "https://mediaworks.streamguys1.com/breeze-akl-high_icy",
       "countryCode": "NZ"
-    },
-    {
-      "id": "rb2_the_cheese_9d17a168",
-      "title": "The Cheese",
-      "subtitle": "Radio",
-      "imageUrl": "https://station.thecheese.co.nz/static/uploads/the_cheese/album_art.1716808937.png",
-      "streamUrl": "https://station.thecheese.co.nz/hls/the_cheese/live.m3u8",
-      "location": "New Zealand",
-      "genre": "Radio",
-      "countryCode": "NZ",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 52
-    },
-    {
-      "id": "rb2_the_cheese_flac_5dc4b7a8",
-      "title": "The Cheese FLAC",
-      "subtitle": "Gen X, Hits",
-      "imageUrl": "",
-      "streamUrl": "https://station.thecheese.co.nz/listen/the_cheese/flac",
-      "location": "New Zealand",
-      "genre": "Gen X",
-      "countryCode": "NZ",
-      "language": null,
-      "clickCount": 6,
-      "bitrate": 128
     },
     {
       "id": "the_edge_nz_2e1c8d",
@@ -22904,33 +20275,6 @@
       "bitrate": 128
     },
     {
-      "id": "legendfm_101_1_pg",
-      "title": "LegendFM 101.1",
-      "subtitle": "MP3 64kbps",
-      "location": "Papua New Guinea",
-      "genre": "Music",
-      "countryCode": "PG",
-      "streamUrl": "https://27163.live.streamtheworld.com/PNGLEGENDFM.mp3"
-    },
-    {
-      "id": "naufm_pg",
-      "title": "NauFM",
-      "subtitle": "MP3 64kbps",
-      "location": "Papua New Guinea",
-      "genre": "Music",
-      "countryCode": "PG",
-      "streamUrl": "https://27163.live.streamtheworld.com/NAUFM.mp3"
-    },
-    {
-      "id": "naufm_pg_2",
-      "title": "NauFM",
-      "subtitle": "MP3 64kbps",
-      "location": "Papua New Guinea",
-      "genre": "Music",
-      "countryCode": "PG",
-      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/NAUFM.mp3"
-    },
-    {
       "id": "radio_bantaba_pg",
       "title": "Radio Bantaba",
       "subtitle": "MP3 128kbps",
@@ -22938,15 +20282,6 @@
       "genre": "Music",
       "countryCode": "PG",
       "streamUrl": "https://radio.streemlion.com/radiobantaba"
-    },
-    {
-      "id": "yumifm_pg",
-      "title": "YumiFM",
-      "subtitle": "MP3 64kbps",
-      "location": "Papua New Guinea",
-      "genre": "Music",
-      "countryCode": "PG",
-      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/YUMIFM.mp3"
     },
     {
       "id": "upbeat_radio_pw",
@@ -22967,15 +20302,6 @@
       "streamUrl": "https://halo.streamerr.co/listen/italiavera/stream.mp3"
     },
     {
-      "id": "kalofiama_o_e_amanaki_to",
-      "title": "Kalofiama 'O E 'Amanaki",
-      "subtitle": "Christian / Mrcrosby",
-      "location": "Nuku'alofa, Tonga",
-      "genre": "Devotional",
-      "countryCode": "TO",
-      "streamUrl": "https://stream.zeno.fm/v4kaet5ab1ntv"
-    },
-    {
       "id": "letio_tonga_to",
       "title": "Letio Tonga",
       "subtitle": "Mrcrosby / News",
@@ -22983,15 +20309,6 @@
       "genre": "News",
       "countryCode": "TO",
       "streamUrl": "https://stream.zeno.fm/wnd22q3485quv"
-    },
-    {
-      "id": "buzz_fm_96_3_vu",
-      "title": "BUZZ FM 96.3",
-      "subtitle": "News / Pop Rock",
-      "location": "Centre, sef, Vanuatu, Vanuatu",
-      "genre": "News",
-      "countryCode": "VU",
-      "streamUrl": "https://streamer.dailypost.vu/live"
     },
     {
       "id": "femme_pawa_fm_vu",
