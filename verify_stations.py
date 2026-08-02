@@ -43,7 +43,36 @@ KINDS = {
 # generic client / lack of Range support outright but work fine for an actual
 # player — so a failed check here always falls back to a real GET before a
 # station is declared dead.
-HEADERS = {"User-Agent": "Mozilla/5.0 (Linux; Android 13) GlobeTuner-Verify/1.0"}
+# No self-identifying suffix — confirmed empirically that at least one real,
+# live station (naxidigital-exyu128.streaming.rs) serves a fake HTML "not a
+# player" page to any User-Agent it doesn't recognize (including a plain
+# "GlobeTuner-Verify/1.0" one) while serving real audio to a normal-looking
+# browser UA. Matches the same UA the app itself uses for real playback
+# (PlayerProvider._buildAudioSource), so this check reflects what actually
+# happens for users, not what happens to an obviously-scripted requester.
+HEADERS = {"User-Agent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36"}
+
+
+# A 200 OK response can still be a dead station in disguise — some hosts
+# redirect an expired/removed stream to a generic HTML "station not found"
+# page, or a JSON error body, and still answer with 2xx. Full audio decoding
+# (actually play a few seconds and check for real sound) would catch even
+# more, but needs ffmpeg per station and takes ~10x longer per check across
+# 40k+ stations for a marginal gain — none of the well-known public station
+# lists (Radio Browser included) go that far either. This is the practical
+# middle ground: read a small chunk of the real response body and reject it
+# if it's obviously not audio, instead of trusting the status code alone.
+_HTML_SNIFF = (b"<html", b"<!doctype html", b"<HTML", b"<!DOCTYPE HTML")
+_BAD_CONTENT_TYPES = ("text/html", "application/json")
+
+
+def _looks_like_real_audio(content_type: str, body_sniff: bytes) -> bool:
+    ct = (content_type or "").lower()
+    if any(bad in ct for bad in _BAD_CONTENT_TYPES):
+        return False
+    if any(body_sniff.lstrip().startswith(marker) for marker in _HTML_SNIFF):
+        return False
+    return True
 
 
 async def check_one(session: aiohttp.ClientSession, url: str, timeout: float) -> bool:
@@ -52,21 +81,25 @@ async def check_one(session: aiohttp.ClientSession, url: str, timeout: float) ->
     to = aiohttp.ClientTimeout(total=timeout)
     try:
         async with session.head(url, timeout=to, allow_redirects=True, headers=HEADERS) as resp:
-            if resp.status < 400:
+            if resp.status < 400 and _looks_like_real_audio(resp.headers.get("Content-Type", ""), b""):
                 return True
     except Exception:
         pass
-    # Fallback: some radio/podcast hosts don't implement HEAD at all.
+    # Fallback: some radio/podcast hosts don't implement HEAD at all, or a
+    # HEAD 200 needs the body sniff a GET-only check can provide.
     try:
         async with session.get(url, timeout=to, allow_redirects=True, headers=HEADERS) as resp:
             if resp.status < 400:
                 # Drain a tiny bit so we don't hold the connection open on a
-                # live audio stream longer than necessary.
+                # live audio stream longer than necessary — also doubles as
+                # the content sniff.
+                sniff = b""
                 try:
-                    await resp.content.read(256)
+                    sniff = await resp.content.read(512)
                 except Exception:
                     pass
-                return True
+                if _looks_like_real_audio(resp.headers.get("Content-Type", ""), sniff):
+                    return True
     except Exception:
         pass
     return False

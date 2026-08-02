@@ -1,19 +1,10 @@
 {
   "version": 3,
-  "updated": "2026-07-30T15:40:20Z",
+  "updated": "2026-08-02T04:54:17Z",
   "region": "europe",
   "part": 1,
   "of": 8,
   "stations": [
-    {
-      "id": "radio_polignano_web_ad",
-      "title": "Radio Polignano Web",
-      "subtitle": "Music",
-      "location": "Andorra",
-      "genre": "Music",
-      "countryCode": "AD",
-      "streamUrl": "https://sp3.server89.com:7018/"
-    },
     {
       "id": "rb_radiosoleluna_5252b0bf",
       "title": "RadioSoleLuna",
@@ -461,19 +452,6 @@
       "genre": "Radio",
       "countryCode": "AT",
       "language": null,
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_arb_verkehrsradio_9644403a",
-      "title": "ARBÖ Verkehrsradio",
-      "subtitle": "Dab+, Oldies",
-      "imageUrl": "",
-      "streamUrl": "http://live.datamatix.at:8022/",
-      "location": "Vienna, Austria",
-      "genre": "Dab+",
-      "countryCode": "AT",
-      "language": "german",
       "clickCount": 1,
       "bitrate": 128
     },
@@ -2451,19 +2429,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_radio_balkan_eu_9e23a9de",
-      "title": "Radio Balkan EU",
-      "subtitle": "Balkan",
-      "imageUrl": "",
-      "streamUrl": "http://cast2.name.ba:8185/",
-      "location": "Austria",
-      "genre": "Balkan",
-      "countryCode": "AT",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_radio_burgenland_hq_77bb2bea",
       "title": "Radio Burgenland HQ",
       "subtitle": "Orf",
@@ -2623,19 +2588,6 @@
       "genre": "Rock",
       "streamUrl": "https://radiogoed.securestream.kapper.net/stream",
       "countryCode": "AT"
-    },
-    {
-      "id": "rb2_radio_harmonie_96096e93",
-      "title": "Radio Harmonie",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://host6.cartwall.at:9630/",
-      "location": "Kärnten, Austria",
-      "genre": "Radio",
-      "countryCode": "AT",
-      "language": "german",
-      "clickCount": 0,
-      "bitrate": 192
     },
     {
       "id": "rb2_radio_helsinki_92_6_mhz_128_kbps_96072598",
@@ -2859,19 +2811,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_radio_studio_enns_48d9b2d6",
-      "title": "Radio Studio Enns",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://server4.streamserver24.com:61414/",
-      "location": "Upper Austria, Austria",
-      "genre": "Radio",
-      "countryCode": "AT",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_radio_surprise_the_live_dj_radio_47aa17cf",
       "title": "Radio Surprise The Live DJ Radio",
       "subtitle": "Edm, Pop",
@@ -3054,32 +2993,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_replayscape_64_dbd87fa6",
-      "title": "Replayscape (64)",
-      "subtitle": "Radio",
-      "imageUrl": "https://replayscape.com/pix/logo/171206a_simpler_full_0of12_zoom_tiny_blue.jpg",
-      "streamUrl": "http://radio.replayscape.com:8064/",
-      "location": "Austria",
-      "genre": "Radio",
-      "countryCode": "AT",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 64
-    },
-    {
-      "id": "rb2_replayscape_96_67e0ad0a",
-      "title": "Replayscape (96)",
-      "subtitle": "Radio",
-      "imageUrl": "https://replayscape.com/pix/logo/171206a_simpler_full_0of12_zoom_tiny_blue.jpg",
-      "streamUrl": "http://radio.replayscape.com:8096/",
-      "location": "Austria",
-      "genre": "Radio",
-      "countryCode": "AT",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 96
-    },
-    {
       "id": "rb2_revisited_61fd5d72",
       "title": "Revisited",
       "subtitle": "Classic Rock, Rock",
@@ -3154,19 +3067,6 @@
       "genre": "Radio",
       "countryCode": "AT",
       "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_schwendermarkt_3131770d",
-      "title": "Schwendermarkt",
-      "subtitle": "News",
-      "imageUrl": "",
-      "streamUrl": "https://laut.fm/schwendermarkt",
-      "location": "Austria",
-      "genre": "News",
-      "countryCode": "AT",
-      "language": "english",
       "clickCount": 0,
       "bitrate": 128
     },
@@ -3876,19 +3776,6 @@
       "bitrate": 64
     },
     {
-      "id": "rb2_kakanj_radio_kakanj_1b52f3a0",
-      "title": "Kakanj, Radio Kakanj",
-      "subtitle": "Folk, News",
-      "imageUrl": "https://cdn-profiles.tunein.com/s9967/images/logog.png",
-      "streamUrl": "http://cast2.name.ba:8067/",
-      "location": "Bosnia And Herzegovina",
-      "genre": "Folk",
-      "countryCode": "BA",
-      "language": "bosnian",
-      "clickCount": 1,
-      "bitrate": 96
-    },
-    {
       "id": "rb2_kalesijski_ba_7de34405",
       "title": "Kalesijski Ba",
       "subtitle": "Radio",
@@ -3924,32 +3811,6 @@
       "bitrate": 320
     },
     {
-      "id": "rb2_koprivljanski_radio_8774cb71",
-      "title": "Koprivljanski radio",
-      "subtitle": "Radio",
-      "imageUrl": "https://www.koprivljanskiradio.com/images/13654287_1017881974927424_7392547567572622816_n.jpg",
-      "streamUrl": "http://cast2.name.ba:8101/",
-      "location": "Bosnia And Herzegovina",
-      "genre": "Radio",
-      "countryCode": "BA",
-      "language": "bosnian",
-      "clickCount": 2,
-      "bitrate": 128
-    },
-    {
-      "id": "rb_kraji_ki_radio_dubica_2a24228f",
-      "title": "Krajiški Radio Dubica",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://stream1.srvnetplus.com:18039/",
-      "location": "Republika Srpska, Bosnia And Herzegovina",
-      "genre": "Radio",
-      "countryCode": "BA",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_kupre_ki_radio_0356e497",
       "title": "Kupreški Radio",
       "subtitle": "Nebeski Radio",
@@ -3973,41 +3834,6 @@
       "countryCode": "BA",
       "language": "bosnian",
       "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "narodni_radio_sarajevo_ba_713c83",
-      "title": "Narodni Radio - Sarajevo",
-      "subtitle": "Bih",
-      "location": "Bosnia And Herzegovina",
-      "genre": "Bih",
-      "countryCode": "BA",
-      "streamUrl": "http://server1.tnt.ba:8010/"
-    },
-    {
-      "id": "rb2_narodni_radio_tuzla_84694019",
-      "title": "Narodni Radio Tuzla",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://server1.tnt.ba:9080/",
-      "location": "Bosnia And Herzegovina",
-      "genre": "Radio",
-      "countryCode": "BA",
-      "language": "bosnian",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_narodni_radio_zenica_a3774158",
-      "title": "Narodni Radio Zenica",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://server1.tnt.ba:9010/",
-      "location": "Bosnia And Herzegovina",
-      "genre": "Radio",
-      "countryCode": "BA",
-      "language": "bosnian",
-      "clickCount": 2,
       "bitrate": 128
     },
     {
@@ -4060,19 +3886,6 @@
       "countryCode": "BA",
       "language": "english",
       "clickCount": 4,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_pop_fm_c8b11c6d",
-      "title": "Pop FM",
-      "subtitle": "Radio",
-      "imageUrl": "https://popfm.ba/slike/popfm-logo.png",
-      "streamUrl": "http://188.40.62.20:8032/",
-      "location": "Bosnia And Herzegovina",
-      "genre": "Radio",
-      "countryCode": "BA",
-      "language": "bosnian",
-      "clickCount": 1,
       "bitrate": 128
     },
     {
@@ -4332,15 +4145,6 @@
       "bitrate": 128
     },
     {
-      "id": "radio_bir_ba_961228",
-      "title": "Radio Bir",
-      "subtitle": "Religion",
-      "location": "Sarajevo, Bosnia And Herzegovina",
-      "genre": "News/Talk",
-      "streamUrl": "http://188.40.62.20:8090/",
-      "countryCode": "BA"
-    },
-    {
       "id": "rb2_radio_bosanska_krupa_ef3eedbb",
       "title": "Radio Bosanska Krupa",
       "subtitle": "Radio",
@@ -4393,19 +4197,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_radio_brcko_district_961d9264",
-      "title": "Radio Brcko District",
-      "subtitle": "Information, Music",
-      "imageUrl": "",
-      "streamUrl": "http://91.191.0.45:8000/",
-      "location": "Bosnia And Herzegovina",
-      "genre": "Information",
-      "countryCode": "BA",
-      "language": "bosnian",
-      "clickCount": 1,
-      "bitrate": 64
-    },
-    {
       "id": "rb2_radio_breza_b813c53b",
       "title": "Radio Breza",
       "subtitle": "Bosna",
@@ -4445,19 +4236,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_radio_cazin_08a07369",
-      "title": "Radio Cazin",
-      "subtitle": "Radio",
-      "imageUrl": "https://crt.ba/wp-content/uploads/2021/11/crtLogo.png",
-      "streamUrl": "http://195.222.33.217:8095/",
-      "location": "Bosnia And Herzegovina",
-      "genre": "Radio",
-      "countryCode": "BA",
-      "language": "bosnian",
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_radio_da_c64a7302",
       "title": "Radio DAŠ",
       "subtitle": "Folk",
@@ -4480,28 +4258,6 @@
       "genre": "Radio",
       "countryCode": "BA",
       "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "radio_d_ungla_doboj_2_ba_86ea5d",
-      "title": "Radio Džungla Doboj 2",
-      "subtitle": "Radio",
-      "location": "Bosnia And Herzegovina",
-      "genre": "Radio",
-      "countryCode": "BA",
-      "streamUrl": "http://cast2.name.ba:9054/"
-    },
-    {
-      "id": "rb2_radio_d_ungla_doboj_3_6d9bcd3f",
-      "title": "Radio Džungla Doboj 3",
-      "subtitle": "Radio",
-      "imageUrl": "https://dzungla.net/radio-live/wp-content/uploads/2019/11/dzungla-radio-wh-m.png",
-      "streamUrl": "http://cast2.name.ba:8006/",
-      "location": "Bosnia And Herzegovina",
-      "genre": "Radio",
-      "countryCode": "BA",
-      "language": "bosnian",
       "clickCount": 0,
       "bitrate": 128
     },
@@ -4571,19 +4327,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_radio_grude_62f1cf05",
-      "title": "Radio Grude",
-      "subtitle": "Misc",
-      "imageUrl": "",
-      "streamUrl": "http://radio.pa-hosting.de:1040/",
-      "location": "Bosnia And Herzegovina",
-      "genre": "Misc",
-      "countryCode": "BA",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 192
-    },
-    {
       "id": "rb2_radio_hit_fm_529200e4",
       "title": "Radio HIT FM",
       "subtitle": "Radio",
@@ -4594,19 +4337,6 @@
       "countryCode": "BA",
       "language": "bosnian",
       "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_kalesijski_ba_6eff3da1",
-      "title": "Radio Kalesijski Ba",
-      "subtitle": "Folk Music",
-      "imageUrl": "https://kalesijski.ba/radio",
-      "streamUrl": "https://stream1.srvnetplus.com:18102/",
-      "location": "FBiH, Bosnia And Herzegovina",
-      "genre": "Folk Music",
-      "countryCode": "BA",
-      "language": "bosnian",
-      "clickCount": 1,
       "bitrate": 128
     },
     {
@@ -4660,19 +4390,6 @@
       "language": "bosnian",
       "clickCount": 0,
       "bitrate": 96
-    },
-    {
-      "id": "rb2_radio_lukavac_a199193d",
-      "title": "Radio Lukavac",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://195.222.33.217:8022/",
-      "location": "Bosnia And Herzegovina",
-      "genre": "Radio",
-      "countryCode": "BA",
-      "language": "bosnian",
-      "clickCount": 0,
-      "bitrate": 192
     },
     {
       "id": "rb_radio_m_b3a1daea",
@@ -4753,19 +4470,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_radio_marija_961d9543",
-      "title": "Radio Marija",
-      "subtitle": "Catholic",
-      "imageUrl": "http://www.radiomarija.ba/templates/t3_bs3_blank/favicon.ico",
-      "streamUrl": "http://dreamsiteradiocp.com:8034/",
-      "location": "Bosnia And Herzegovina",
-      "genre": "Catholic",
-      "countryCode": "BA",
-      "language": "bosnian",
-      "clickCount": 0,
-      "bitrate": 64
-    },
-    {
       "id": "rb2_radio_merak_063f6556",
       "title": "Radio Merak",
       "subtitle": "Radio",
@@ -4776,19 +4480,6 @@
       "countryCode": "BA",
       "language": null,
       "clickCount": 2,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_novi_grad_7095ad02",
-      "title": "Radio Novi Grad",
-      "subtitle": "Folk, Pop",
-      "imageUrl": "",
-      "streamUrl": "http://s2.myradiostream.com:5584/",
-      "location": "Republika Srpska, Bosnia And Herzegovina",
-      "genre": "Folk",
-      "countryCode": "BA",
-      "language": null,
-      "clickCount": 0,
       "bitrate": 128
     },
     {
@@ -4828,19 +4519,6 @@
       "countryCode": "BA",
       "language": "bosnian",
       "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_posu_je_96372853",
-      "title": "Radio Posušje",
-      "subtitle": "Croatian, Domaća",
-      "imageUrl": "",
-      "streamUrl": "http://136.243.144.93:9994/",
-      "location": "Bosnia And Herzegovina",
-      "genre": "Croatian",
-      "countryCode": "BA",
-      "language": "croatian",
-      "clickCount": 1,
       "bitrate": 128
     },
     {
@@ -4922,19 +4600,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_radio_srebrenik_845580a9",
-      "title": "Radio Srebrenik",
-      "subtitle": "Folk",
-      "imageUrl": "",
-      "streamUrl": "http://live.radiosrebrenik.ba:7600/",
-      "location": "Bosnia And Herzegovina",
-      "genre": "Folk",
-      "countryCode": "BA",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 256
-    },
-    {
       "id": "rb2_radio_studio_m_40f41113",
       "title": "Radio Studio M",
       "subtitle": "Narodna, Pop",
@@ -4972,19 +4637,6 @@
       "language": "bosnian",
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_trebinje_2f0491fa",
-      "title": "Radio Trebinje",
-      "subtitle": "Radio",
-      "imageUrl": "https://radiotrebinje.com/assets/rt/images/logo.jpg",
-      "streamUrl": "https://radio.dukahosting.com:7002/",
-      "location": "Bosnia And Herzegovina",
-      "genre": "Radio",
-      "countryCode": "BA",
-      "language": "bosnian",
-      "clickCount": 0,
-      "bitrate": 48
     },
     {
       "id": "rb2_radio_usk_48c3aef1",
@@ -5052,32 +4704,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_radio_veseli_bosanac_45ae78d9",
-      "title": "Radio Veseli Bosanac",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://opportunity.shoutca.st:8038/",
-      "location": "Bosnia And Herzegovina",
-      "genre": "Radio",
-      "countryCode": "BA",
-      "language": "bosnian",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_visoko_ab2407e4",
-      "title": "Radio Visoko",
-      "subtitle": "Local Music, Local News",
-      "imageUrl": "https://www.visoko-rtv.ba/wp-content/uploads/2019/07/visocka_icon.png",
-      "streamUrl": "http://188.40.62.20:8080/",
-      "location": "Bosnia And Herzegovina",
-      "genre": "Local Music",
-      "countryCode": "BA",
-      "language": "bosnian",
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_radio_vogo_a_8abede59",
       "title": "Radio Vogošća",
       "subtitle": "Radio",
@@ -5098,32 +4724,6 @@
       "streamUrl": "http://5.189.168.133:8020/stream/2/;",
       "location": "Bosnia And Herzegovina",
       "genre": "Radio",
-      "countryCode": "BA",
-      "language": "bosnian",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_apljina_cd358fa7",
-      "title": "Radio Čapljina",
-      "subtitle": "Radio",
-      "imageUrl": "https://radio-capljina.com/wp-content/uploads/2023/01/radio-capljina-box2-bijela.png",
-      "streamUrl": "http://s8.iqstreaming.com:8016/",
-      "location": "Bosnia And Herzegovina",
-      "genre": "Radio",
-      "countryCode": "BA",
-      "language": "bosnian",
-      "clickCount": 0,
-      "bitrate": 96
-    },
-    {
-      "id": "rb2_radio_ar_ija_f6334c2f",
-      "title": "Radio Čaršija",
-      "subtitle": "Folk, Narodna",
-      "imageUrl": "",
-      "streamUrl": "http://cast2.name.ba:8081/",
-      "location": "Bosnia And Herzegovina",
-      "genre": "Folk",
       "countryCode": "BA",
       "language": "bosnian",
       "clickCount": 0,
@@ -5163,19 +4763,6 @@
       "genre": "Christian",
       "streamUrl": "https://mirm.live/mir.mp3",
       "countryCode": "BA"
-    },
-    {
-      "id": "rb2_skala_radio_4aa287d0",
-      "title": "Skala Radio",
-      "subtitle": "Folk, Narodna",
-      "imageUrl": "https://www.skalaradio.net/wp-content/uploads/2016/02/logoskala.png",
-      "streamUrl": "http://cast2.name.ba:9049/",
-      "location": "Republika Srpska, Bosnia And Herzegovina",
-      "genre": "Folk",
-      "countryCode": "BA",
-      "language": "bosnian",
-      "clickCount": 1,
-      "bitrate": 128
     },
     {
       "id": "rb2_slon_radio_tuzla_0115bf0e",
@@ -5241,19 +4828,6 @@
       "language": "bosnian",
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_avaz_radio_7b1b984d",
-      "title": "avaz radio",
-      "subtitle": "Radio",
-      "imageUrl": "https://www.radioavaz.net/photos/muzicki%20radio%20avaz.png",
-      "streamUrl": "http://51.254.61.148:8222/",
-      "location": "Bosnia And Herzegovina",
-      "genre": "Radio",
-      "countryCode": "BA",
-      "language": "bosnian",
-      "clickCount": 1,
-      "bitrate": 56
     },
     {
       "id": "rb2_radio_osvit_649b6727",
@@ -5372,19 +4946,6 @@
       "language": "oilsjters",
       "clickCount": 2,
       "bitrate": 192
-    },
-    {
-      "id": "rb2_audiodrama_radio_d8d45ed8",
-      "title": "AudioDrama Radio",
-      "subtitle": "Radio",
-      "imageUrl": "https://media.audiodrama.com/2026/01/10142806/cropped-Copy-of-AUDIODRAMA-1000-x-1000-px_20260123_171114_0000-180x180.png",
-      "streamUrl": "https://fritske.be:8000/stream",
-      "location": "Belgium",
-      "genre": "Radio",
-      "countryCode": "BE",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 67
     },
     {
       "id": "rb2_best_oldies_radio_bor_f9373e82",
@@ -5701,19 +5262,6 @@
       "bitrate": 192
     },
     {
-      "id": "rb2_de_jukebox_4fb3b708",
-      "title": "De Jukebox",
-      "subtitle": "Radio",
-      "imageUrl": "https://www.dejukebox.com/de%20jukebox2.ico",
-      "streamUrl": "http://s35.myradiostream.com:14472/",
-      "location": "Antwerpen, Belgium",
-      "genre": "Radio",
-      "countryCode": "BE",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 192
-    },
-    {
       "id": "de_tijdloze_be_40386f",
       "title": "De Tijdloze",
       "subtitle": "Alternative Indie Rock",
@@ -5862,19 +5410,6 @@
       "countryCode": "BE"
     },
     {
-      "id": "rb2_gaveromroep_696a4757",
-      "title": "Gaveromroep",
-      "subtitle": "Local Radio",
-      "imageUrl": "",
-      "streamUrl": "http://s43.myradiostream.com:18192/",
-      "location": "Belgium",
-      "genre": "Local Radio",
-      "countryCode": "BE",
-      "language": "dutch",
-      "clickCount": 0,
-      "bitrate": 192
-    },
-    {
       "id": "rb2_geel_fm_e08c290e",
       "title": "Geel fm",
       "subtitle": "Radio",
@@ -5928,19 +5463,6 @@
       "subtitle": "Radio",
       "imageUrl": "https://gothville.radio/static/uploads/gothville/album_art.1709762064.png",
       "streamUrl": "http://streams.radio.co/s62583474c/listen",
-      "location": "Belgium",
-      "genre": "Radio",
-      "countryCode": "BE",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_grand_prix_radio_f50df77b",
-      "title": "Grand Prix Radio",
-      "subtitle": "Radio",
-      "imageUrl": "https://grandprixradio.be/themes/flixi/favicons/apple-touch-icon.png?v=2",
-      "streamUrl": "https://eu-playerservices.streamtheworld.com/api/livestream-redirect/GPRDANCEAAC.aac?lsid=app%3Abrowser-1732200021666izj9zpla1",
       "location": "Belgium",
       "genre": "Radio",
       "countryCode": "BE",
@@ -8017,19 +7539,6 @@
       "bitrate": 224
     },
     {
-      "id": "rb2_radio_reflex_ae2471de",
-      "title": "Radio Reflex",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://shoutcast2.wirelessbelgie.be:8510/",
-      "location": "België, Belgium",
-      "genre": "Radio",
-      "countryCode": "BE",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 192
-    },
-    {
       "id": "rb2_radio_star_355a25f8",
       "title": "Radio STAR",
       "subtitle": "Radio",
@@ -8145,19 +7654,6 @@
       "language": "dutch",
       "clickCount": 0,
       "bitrate": 320
-    },
-    {
-      "id": "rb2_radio_tamara_867fdb70",
-      "title": "Radio Tamara",
-      "subtitle": "70S, 80S",
-      "imageUrl": "",
-      "streamUrl": "http://audiostreamen.nl:8006/",
-      "location": "Belgium",
-      "genre": "70S",
-      "countryCode": "BE",
-      "language": "dutch",
-      "clickCount": 0,
-      "bitrate": 128
     },
     {
       "id": "rb2_radio_valencia_105_fm_meer_be_f9bc14bf",
@@ -8554,19 +8050,6 @@
       "countryCode": "BE",
       "language": null,
       "clickCount": 1,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_trendy_fm_961bed99",
-      "title": "Trendy FM",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://stream.trendyfm.be/",
-      "location": "Belgium",
-      "genre": "Radio",
-      "countryCode": "BE",
-      "language": "dutch",
-      "clickCount": 0,
       "bitrate": 128
     },
     {
@@ -9162,19 +8645,6 @@
       "bitrate": 320
     },
     {
-      "id": "rb2_radio_qui_chifel_aba308de",
-      "title": "radio qui chifel",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://5.39.80.55:8000/",
-      "location": "Belgium",
-      "genre": "Radio",
-      "countryCode": "BE",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 256
-    },
-    {
       "id": "rb2_radiorsj_be_06845788",
       "title": "radiorsj.be",
       "subtitle": "Radio",
@@ -9458,19 +8928,6 @@
       "language": null,
       "clickCount": 0,
       "bitrate": 192
-    },
-    {
-      "id": "rb2_bumerang_fm_19f5080a",
-      "title": "Bumerang FM",
-      "subtitle": "Radio",
-      "imageUrl": "https://www.bumerangfm.net/images/logo.jpg",
-      "streamUrl": "http://185.20.88.1:8010/",
-      "location": "Bulgaria, Bulgaria",
-      "genre": "Radio",
-      "countryCode": "BG",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
     },
     {
       "id": "rb2_cherveniat_papagal_0affe3d8",
@@ -9905,19 +9362,6 @@
       "bitrate": 320
     },
     {
-      "id": "rb2_hot_dance_331464ed",
-      "title": "Hot Dance",
-      "subtitle": "Dance",
-      "imageUrl": "",
-      "streamUrl": "http://listen.hotget.net:810/",
-      "location": "Bulgaria",
-      "genre": "Dance",
-      "countryCode": "BG",
-      "language": null,
-      "clickCount": 3,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_hot_hits_fm_5b360510",
       "title": "Hot Hits FM",
       "subtitle": "Radio",
@@ -10210,19 +9654,6 @@
       "countryCode": "BG",
       "language": "bulgarian",
       "clickCount": 1,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_njs_radio_new_jack_swing_2c1d1e23",
-      "title": "NJS Radio - New Jack Swing",
-      "subtitle": "R&B/Urban",
-      "imageUrl": "http://njsradio.com/wp-content/uploads/2019/04/njsavatar.png",
-      "streamUrl": "http://162.244.80.106:11198/",
-      "location": "Bulgaria",
-      "genre": "R&B/Urban",
-      "countryCode": "BG",
-      "language": null,
-      "clickCount": 0,
       "bitrate": 128
     },
     {
@@ -10747,32 +10178,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_radio_lele_male_5e76d031",
-      "title": "Radio Lele Male",
-      "subtitle": "Chalga, Pop Folk",
-      "imageUrl": "",
-      "streamUrl": "http://79.98.108.170:8332/",
-      "location": "Bulgaria",
-      "genre": "Chalga",
-      "countryCode": "BG",
-      "language": "bulgarian",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_mega_hit_7d25b50d",
-      "title": "Radio Mega Hit",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://sunaer-stream.com:7824/",
-      "location": "Bulgaria",
-      "genre": "Radio",
-      "countryCode": "BG",
-      "language": "bulgaria",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_radio_melodia_silistra_8dbb2c0c",
       "title": "Radio Melodia Silistra",
       "subtitle": "Misc",
@@ -10897,32 +10302,6 @@
       "genre": "Folk",
       "streamUrl": "https://cast6.asurahosting.com/proxy/iliyan12/stream.mp3",
       "countryCode": "BG"
-    },
-    {
-      "id": "rb2_radio_pianica_3672a2f3",
-      "title": "Radio Pianica",
-      "subtitle": "Radio",
-      "imageUrl": "https://www.radiopi.top/favicon.ico",
-      "streamUrl": "http://mpc1.mediacp.eu:8024/",
-      "location": "Bulgaria",
-      "genre": "Radio",
-      "countryCode": "BG",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 224
-    },
-    {
-      "id": "rb2_radio_retro_folk_28950e81",
-      "title": "Radio Retro Folk",
-      "subtitle": "Folk",
-      "imageUrl": "",
-      "streamUrl": "http://79.98.108.170:8053/",
-      "location": "Bulgaria",
-      "genre": "Folk",
-      "countryCode": "BG",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 128
     },
     {
       "id": "rb2_radio_rezonans_d56a3a82",
@@ -11086,19 +10465,6 @@
       "streamUrl": "https://bss1.neterra.tv/veselina/veselina.m3u8"
     },
     {
-      "id": "rb2_radio_vidin_996ec8cf",
-      "title": "Radio Vidin",
-      "subtitle": "Talking",
-      "imageUrl": "",
-      "streamUrl": "http://89.106.110.85:8000/",
-      "location": "Bulgaria",
-      "genre": "Talking",
-      "countryCode": "BG",
-      "language": "bulgarian",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "radio_vitosha_bg_dacd25",
       "title": "Radio Vitosha",
       "subtitle": "Pop",
@@ -11184,19 +10550,6 @@
       "language": null,
       "clickCount": 4,
       "bitrate": 160
-    },
-    {
-      "id": "rb2_radioxaschove_cd3d8bc2",
-      "title": "Radioxaschove",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://79.98.108.173:8006/",
-      "location": "Bulgaria",
-      "genre": "Radio",
-      "countryCode": "BG",
-      "language": "bulgarian",
-      "clickCount": 0,
-      "bitrate": 128
     },
     {
       "id": "rb2_raimos_disco_radio_63e43cf1",
@@ -11303,32 +10656,6 @@
       "bitrate": 192
     },
     {
-      "id": "rb2_ultra_blagoevgrad_9619f7a6",
-      "title": "Ultra Blagoevgrad",
-      "subtitle": "Chalga",
-      "imageUrl": "",
-      "streamUrl": "http://88.80.96.25:3060/",
-      "location": "Blagoevgad, Bulgaria",
-      "genre": "Chalga",
-      "countryCode": "BG",
-      "language": "bulgarian",
-      "clickCount": 3,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_ultra_sandanski_9619f87b",
-      "title": "Ultra Sandanski",
-      "subtitle": "Chalga",
-      "imageUrl": "",
-      "streamUrl": "http://88.80.96.25:8000/",
-      "location": "Blagoevgad, Bulgaria",
-      "genre": "Chalga",
-      "countryCode": "BG",
-      "language": "bulgarian",
-      "clickCount": 3,
-      "bitrate": 128
-    },
-    {
       "id": "vanilla_bg_3f107a",
       "title": "Vanilla",
       "subtitle": "Chill Out",
@@ -11336,19 +10663,6 @@
       "genre": "Chill Out",
       "countryCode": "BG",
       "streamUrl": "https://play.global.audio/vanillahi.aac"
-    },
-    {
-      "id": "rb2_vega_sandaski_9619f601",
-      "title": "Vega+ Sandaski",
-      "subtitle": "00S, 80S",
-      "imageUrl": "https://radiovega.bg/wp-content/uploads/2022/05/cropped-favicon-180x180.png",
-      "streamUrl": "http://88.80.96.25:8040/",
-      "location": "Blagoevgad, Bulgaria",
-      "genre": "00S",
-      "countryCode": "BG",
-      "language": "bulgarian",
-      "clickCount": 2,
-      "bitrate": 320
     },
     {
       "id": "veronika_bg_9618e1",
@@ -11642,19 +10956,6 @@
       "bitrate": 36
     },
     {
-      "id": "rb2_station_fe4f9e41",
-      "title": "БНР – Радио Видин",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://stream.bnr.bg:8036/radio-vidin.aac",
-      "location": "Bulgaria",
-      "genre": "Radio",
-      "countryCode": "BG",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 36
-    },
-    {
       "id": "rb2_station_7272bff9",
       "title": "БНР – Радио Кърджали",
       "subtitle": "Public Radio",
@@ -11692,19 +10993,6 @@
       "language": "bulgarian",
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_station_8493fd40",
-      "title": "Мая",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://www.rnmediagroup.com:9000/",
-      "location": "Bulgaria",
-      "genre": "Radio",
-      "countryCode": "BG",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 320
     },
     {
       "id": "rb2_bulgaria_on_air_103_9_fm_649b43ec",
@@ -12075,19 +11363,6 @@
       "language": null,
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_skif_2166cd91",
-      "title": "Radio Skif",
-      "subtitle": "Pop Music",
-      "imageUrl": "",
-      "streamUrl": "http://178.172.150.248:2530/",
-      "location": "Belarus",
-      "genre": "Pop Music",
-      "countryCode": "BY",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 256
     },
     {
       "id": "rb2_radio_unistar_41363e63",
@@ -13560,15 +12835,6 @@
       "bitrate": 320
     },
     {
-      "id": "canal3_deutsch_ch",
-      "title": "Canal3 deutsch",
-      "subtitle": "Local News / News",
-      "location": "Kanton Bern, Switzerland",
-      "genre": "News",
-      "countryCode": "CH",
-      "streamUrl": "https://radio.upstream-cloud.ch/canal3allemand-192.aac"
-    },
-    {
       "id": "rb2_christmas_radio_96365abe",
       "title": "Christmas Radio",
       "subtitle": "Christian Contemporary, Christmas Music",
@@ -14887,19 +14153,6 @@
       "bitrate": 320
     },
     {
-      "id": "rb2_radio_bistoquette_94a7e5c5",
-      "title": "Radio Bistoquette",
-      "subtitle": "Radio",
-      "imageUrl": "https://listen.radio-bistoquette.ch/hero-bg.jpg",
-      "streamUrl": "https://listen.radio-bistoquette.ch/stream",
-      "location": "Switzerland",
-      "genre": "Radio",
-      "countryCode": "CH",
-      "language": "french",
-      "clickCount": 0,
-      "bitrate": 192
-    },
-    {
       "id": "rb2_radio_bollwerk_e1b48285",
       "title": "Radio Bollwerk",
       "subtitle": "Radio",
@@ -15304,19 +14557,6 @@
       "genre": "Radio",
       "countryCode": "CH",
       "language": "romansh",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_rasa_schaffhausen_64bf4040",
-      "title": "Radio Rasa Schaffhausen",
-      "subtitle": "Alternative, Independent",
-      "imageUrl": "https://www.rasa.ch/favicon.ico",
-      "streamUrl": "https://radio.upstream-cloud.ch/radiorasa-128.mp3",
-      "location": "Switzerland",
-      "genre": "Alternative",
-      "countryCode": "CH",
-      "language": "german",
       "clickCount": 0,
       "bitrate": 128
     },
@@ -17936,19 +17176,6 @@
       "countryCode": "CZ"
     },
     {
-      "id": "rb2_dancefloor_365_radio_cd595e69",
-      "title": "Dancefloor 365 Radio",
-      "subtitle": "00S, 90S",
-      "imageUrl": "https://dancefloor365.com/logo.jpg",
-      "streamUrl": "https://dancefloor365.com/radio/",
-      "location": "Czechia",
-      "genre": "00S",
-      "countryCode": "CZ",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 160
-    },
-    {
       "id": "rb2_deecibel_rock_radio_679e5c4f",
       "title": "Deecibel Rock Radio",
       "subtitle": "Classic Rock, Hard Rock",
@@ -18041,19 +17268,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_freerave_cz_613525ac",
-      "title": "FREERAVE.CZ",
-      "subtitle": "Hardtechno, Techno",
-      "imageUrl": "https://freerave.cz/imgz/favicon32.png",
-      "streamUrl": "http://164.68.122.137:8061/",
-      "location": "Czechia",
-      "genre": "Hardtechno",
-      "countryCode": "CZ",
-      "language": null,
-      "clickCount": 3,
-      "bitrate": 192
-    },
-    {
       "id": "frekvence_1_cz_927edb",
       "title": "FREKVENCE 1",
       "subtitle": "Radio",
@@ -18122,19 +17336,6 @@
       "language": "english",
       "clickCount": 4,
       "bitrate": 192
-    },
-    {
-      "id": "rb2_flash_radio_06c53709",
-      "title": "Flash radio",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://185.47.222.75:8750/",
-      "location": "Czechia",
-      "genre": "Radio",
-      "countryCode": "CZ",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 256
     },
     {
       "id": "free_r_dio_107_0_fm_brno_cz_961f6c",
@@ -18630,19 +17831,6 @@
       "bitrate": 3323
     },
     {
-      "id": "rb2_nonstopradio_cz_9815961b",
-      "title": "NONSTOPRADIO CZ",
-      "subtitle": "#80S, #90S",
-      "imageUrl": "",
-      "streamUrl": "http://stream.nonstopradio.cz:8080/",
-      "location": "Czechia",
-      "genre": "#80S",
-      "countryCode": "CZ",
-      "language": "czech",
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_netro_life_radio_100_8_fm_86ade1ec",
       "title": "Netro Life Radio 100,8 FM",
       "subtitle": "Dance, Dj Sets",
@@ -18902,19 +18090,6 @@
       "language": null,
       "clickCount": 2,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_bonton_1bbe1a17",
-      "title": "Radio Bonton",
-      "subtitle": "Radio",
-      "imageUrl": "https://www.radiobonton.cz/favicons/apple-touch-icon.png",
-      "streamUrl": "https://27753.live.streamtheworld.com/BONTONAAC.aac?tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=none&burst-time=15&sbmid=4ef04b1d-096f-4273-f8be-4c056d2bd182",
-      "location": "Czechia",
-      "genre": "Radio",
-      "countryCode": "CZ",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 64
     },
     {
       "id": "rb2_radio_city_fm_960c7093",
@@ -22804,19 +21979,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_14482_babelsberg_hitradio_960680f9",
-      "title": "14482 Babelsberg Hitradio",
-      "subtitle": "Radio",
-      "imageUrl": "http://www.radioszene.de/wp-content/uploads/2015/07/BHeins-Logo-800.png",
-      "streamUrl": "http://46.163.75.84:8000/",
-      "location": "Brandenburg, Germany",
-      "genre": "Radio",
-      "countryCode": "DE",
-      "language": "german",
-      "clickCount": 0,
-      "bitrate": 192
-    },
-    {
       "id": "rb2_1a_2000er_hits_9639726e",
       "title": "1A 2000er Hits",
       "subtitle": "00S",
@@ -26491,19 +25653,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_big_blue_swing_1850cfb3",
-      "title": "Big Blue Swing",
-      "subtitle": "Pop, Rock",
-      "imageUrl": "",
-      "streamUrl": "http://www.bigblueswing.com:8002/",
-      "location": "Germany",
-      "genre": "Pop",
-      "countryCode": "DE",
-      "language": "german",
-      "clickCount": 0,
-      "bitrate": 64
-    },
-    {
       "id": "rb2_big_fm_baden_w_rttemberg_d8e48d70",
       "title": "Big FM Baden-Württemberg",
       "subtitle": "Pop, Public",
@@ -27513,15 +26662,6 @@
       "bitrate": 128
     },
     {
-      "id": "dark_ambient_radio_96k_aac_de_964119",
-      "title": "Dark Ambient Radio (96k AAC+)",
-      "subtitle": "Ambient",
-      "location": "Germany",
-      "genre": "Ambient",
-      "countryCode": "DE",
-      "streamUrl": "http://s3.viastreaming.net:8835/"
-    },
-    {
       "id": "rb2_dark_bites_5aeda451",
       "title": "Dark Bites",
       "subtitle": "Alternative, Darkwave",
@@ -28486,32 +27626,6 @@
       "countryCode": "DE",
       "language": "german",
       "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_ebm_radio_96185d96",
-      "title": "EBM-Radio",
-      "subtitle": "Ebm, Electro",
-      "imageUrl": "",
-      "streamUrl": "http://www.ebm-radio.org:7000/",
-      "location": "Mecklenburg-Vorpommern, Germany",
-      "genre": "Ebm",
-      "countryCode": "DE",
-      "language": "german",
-      "clickCount": 0,
-      "bitrate": 192
-    },
-    {
-      "id": "rb2_edm_radio_1de7a5bb",
-      "title": "EDM Radio",
-      "subtitle": "#Edm",
-      "imageUrl": "https://laut.fm/assets/touch-icons/apple-touch-icon.png?9e172e15",
-      "streamUrl": "https://laut.fm/edm",
-      "location": "Germany",
-      "genre": "#Edm",
-      "countryCode": "DE",
-      "language": "english",
-      "clickCount": 1,
       "bitrate": 128
     },
     {
