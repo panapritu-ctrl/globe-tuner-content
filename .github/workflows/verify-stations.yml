@@ -1,0 +1,59 @@
+name: Verify stations
+
+# Re-checks every stream/feed URL in this repo and removes whatever is no
+# longer reachable, so the app's GitHub-hosted catalog stays a list of
+# stations confirmed live as of the last run instead of slowly rotting as
+# stations go offline over time. Runs on its own — no local machine needed.
+on:
+  schedule:
+    # Weekly (Sunday 03:00 UTC). 40k+ HTTP checks take real time and GitHub
+    # Actions minutes aren't free for private repos — daily is unnecessary
+    # for a catalog this size, since a station going offline for a few days
+    # just means it briefly disappears from the app rather than crashing it.
+    - cron: '0 3 * * 0'
+  workflow_dispatch: {} # lets you trigger a run manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install aiohttp
+
+      - name: Run verification
+        run: python3 verify_stations.py --concurrency 300 --timeout 8 --retries 2
+
+      - name: Commit + push if anything changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet; then
+            echo "No changes — every station still verified live."
+            exit 0
+          fi
+          git add -A
+          git commit -m "Auto-verify: remove stations that failed a live reachability check
+
+          Scheduled run of verify_stations.py — see workflow run logs for
+          the before/after count per category."
+          git push
+
+      - name: Purge jsDelivr CDN cache
+        # The app fetches content via cdn.jsdelivr.net (not raw.githubusercontent.com)
+        # for CDN-grade reliability at scale, but jsDelivr caches @main content
+        # for up to ~24h. Without this, a change just pushed above wouldn't
+        # reach users until that cache naturally expired.
+        run: |
+          for f in $(git diff --name-only HEAD~1 HEAD 2>/dev/null || echo ""); do
+            curl -s "https://purge.jsdelivr.net/gh/${{ github.repository }}@main/$f" -o /dev/null || true
+          done
