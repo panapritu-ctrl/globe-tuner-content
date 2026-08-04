@@ -33,15 +33,24 @@ jobs:
         run: pip install aiohttp
 
       - name: Run verification (remove dead stations)
+        # Exits 1 when its per-category safety valve aborts one category
+        # (e.g. archive.org itself being down mid-run, unrelated to the
+        # other categories) — that's a deliberate "don't trust THIS
+        # category's numbers" signal, not a reason to discard everything
+        # else this run already correctly computed and wrote to disk. The
+        # steps below all use `if: success() || failure()` so a partial
+        # abort here doesn't throw away good work in radio/podcasts/etc.
         run: python3 verify_stations.py --concurrency 300 --timeout 8 --retries 2
 
       - name: Run growth (add new verified stations)
         # Scoped to countries already covered — grows the catalog without
         # diluting existing curation with an unreviewed wider net. Capped at
         # 500/run to keep runtime bounded within the same job.
+        if: success() || failure()
         run: python3 grow_stations.py --max-new 500 --concurrency 150 --timeout 8
 
       - name: Commit + push if anything changed
+        if: success() || failure()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -61,6 +70,7 @@ jobs:
         # for CDN-grade reliability at scale, but jsDelivr caches @main content
         # for up to ~24h. Without this, a change just pushed above wouldn't
         # reach users until that cache naturally expired.
+        if: success() || failure()
         run: |
           for f in $(git diff --name-only HEAD~1 HEAD 2>/dev/null || echo ""); do
             curl -s "https://purge.jsdelivr.net/gh/${{ github.repository }}@main/$f" -o /dev/null || true
