@@ -1,9 +1,11 @@
 name: Verify stations
 
 # Re-checks every stream/feed URL in this repo and removes whatever is no
-# longer reachable, so the app's GitHub-hosted catalog stays a list of
-# stations confirmed live as of the last run instead of slowly rotting as
-# stations go offline over time. Runs on its own — no local machine needed.
+# longer reachable, then discovers new stations for countries already
+# covered here and adds verified-live ones — so the catalog stays a list of
+# stations confirmed live as of the last run instead of slowly rotting, and
+# grows over time instead of only shrinking. Runs on its own — no local
+# machine needed.
 on:
   schedule:
     # Weekly (Sunday 03:00 UTC). 40k+ HTTP checks take real time and GitHub
@@ -30,22 +32,28 @@ jobs:
       - name: Install dependencies
         run: pip install aiohttp
 
-      - name: Run verification
+      - name: Run verification (remove dead stations)
         run: python3 verify_stations.py --concurrency 300 --timeout 8 --retries 2
+
+      - name: Run growth (add new verified stations)
+        # Scoped to countries already covered — grows the catalog without
+        # diluting existing curation with an unreviewed wider net. Capped at
+        # 500/run to keep runtime bounded within the same job.
+        run: python3 grow_stations.py --max-new 500 --concurrency 150 --timeout 8
 
       - name: Commit + push if anything changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           if git diff --quiet; then
-            echo "No changes — every station still verified live."
+            echo "No changes — every station still verified live, nothing new to add."
             exit 0
           fi
           git add -A
-          git commit -m "Auto-verify: remove stations that failed a live reachability check
+          git commit -m "Auto-update: remove dead stations, add newly verified ones
 
-          Scheduled run of verify_stations.py — see workflow run logs for
-          the before/after count per category."
+          Scheduled run of verify_stations.py + grow_stations.py — see
+          workflow run logs for before/after counts."
           git push
 
       - name: Purge jsDelivr CDN cache
