@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-02T04:54:18Z",
+  "updated": "2026-08-04T16:10:38Z",
   "region": "europe",
   "part": 5,
   "of": 8,
@@ -28090,6 +28090,54 @@
       "language": null,
       "clickCount": 0,
       "bitrate": 128
+    },
+    {
+      "id": "r_di_1_budapest_hu_7b1419e3",
+      "title": "Rádió 1 - Budapest",
+      "subtitle": "Radio",
+      "location": "Hungary",
+      "genre": "Radio",
+      "countryCode": "HU",
+      "language": null,
+      "clickCount": 17,
+      "bitrate": 128,
+      "streamUrl": "http://icast.connectmedia.hu/5201/live.mp3"
+    },
+    {
+      "id": "hrt_hr_2_drugi_program_hr_3ce502cd",
+      "title": "HRT HR 2 - Drugi program",
+      "subtitle": "Radio",
+      "location": "Croatia",
+      "genre": "Radio",
+      "countryCode": "HR",
+      "language": "croatian",
+      "clickCount": 12,
+      "bitrate": 64,
+      "streamUrl": "http://28033.live.streamtheworld.com/PROGRAM2AAC_SC"
+    },
+    {
+      "id": "club_music_radio_italo_disco_hr_1fac6cdf",
+      "title": "Club Music Radio - ITALO DISCO",
+      "subtitle": "Radio",
+      "location": "Croatia",
+      "genre": "Radio",
+      "countryCode": "HR",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 320,
+      "streamUrl": "https://cmr-hosting.com:7005/;stream/1"
+    },
+    {
+      "id": "otvoreni_live_hr_12afa4a2",
+      "title": "Otvoreni - Live",
+      "subtitle": "Radio",
+      "location": "Croatia",
+      "genre": "Radio",
+      "countryCode": "HR",
+      "language": "croatian",
+      "clickCount": 5,
+      "bitrate": 48,
+      "streamUrl": "https://stream.otvoreni.hr/otvoreni"
     }
   ]
 }

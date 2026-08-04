@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-02T04:54:17Z",
+  "updated": "2026-08-04T16:10:38Z",
   "region": "oceania",
   "stations": [
     {
@@ -20136,6 +20136,42 @@
       "genre": "News",
       "countryCode": "WF",
       "streamUrl": "https://wallisetfutuna.ice.infomaniak.ch/wallisetfutuna-128.mp3"
+    },
+    {
+      "id": "3aw_693_melbourne_vic_australia_talk_am_693_au_fb31e7d9",
+      "title": "3AW 693  Melbourne, VIC, Australia Talk AM 693",
+      "subtitle": "News",
+      "location": "Australia",
+      "genre": "News",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 9,
+      "bitrate": 48,
+      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/3AW.mp3"
+    },
+    {
+      "id": "national_public_radio_as_815acefe",
+      "title": "National Public Radio",
+      "subtitle": "Classical",
+      "location": "American Samoa",
+      "genre": "Classical",
+      "countryCode": "AS",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 96,
+      "streamUrl": "https://npr-ice.streamguys1.com/live.mp3"
+    },
+    {
+      "id": "radio_pcm_99_total_schlager_australia_au_69c1b739",
+      "title": "radio PCM 99% Total Schlager(Australia)",
+      "subtitle": "Radio",
+      "location": "Australia",
+      "genre": "Radio",
+      "countryCode": "AU",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://totalschlager.stream.laut.fm/totalschlager"
     }
   ]
 }

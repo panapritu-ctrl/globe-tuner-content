@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-02T04:54:17Z",
+  "updated": "2026-08-04T16:10:38Z",
   "region": "europe",
   "part": 1,
   "of": 8,
@@ -27783,6 +27783,150 @@
       "language": "american english",
       "clickCount": 3,
       "bitrate": 128
+    },
+    {
+      "id": "ndr_2_niedersachsen_de_259e30b3",
+      "title": "NDR 2 - Niedersachsen",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 32,
+      "bitrate": 128,
+      "streamUrl": "http://icecast.ndr.de/ndr/ndr2/niedersachsen/mp3/128/stream.mp3"
+    },
+    {
+      "id": "njoy_de_949caf81",
+      "title": "Njoy",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 20,
+      "bitrate": 128,
+      "streamUrl": "http://icecast.ndr.de/ndr/njoy/live/mp3/128/stream.mp3"
+    },
+    {
+      "id": "jazz_radio_swiss_ch_d8a133c0",
+      "title": "Jazz | Radio Swiss",
+      "subtitle": "Jazz",
+      "location": "Switzerland",
+      "genre": "Jazz",
+      "countryCode": "CH",
+      "language": "english",
+      "clickCount": 16,
+      "bitrate": 128,
+      "streamUrl": "https://stream.srg-ssr.ch/m/rsj/mp3_128"
+    },
+    {
+      "id": "deutschlandfunk_dlf_opus_64k_de_6ad1c869",
+      "title": "Deutschlandfunk | DLF | OPUS 64k",
+      "subtitle": "Culture",
+      "location": "Germany",
+      "genre": "Culture",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 12,
+      "bitrate": 64,
+      "streamUrl": "https://st01.sslstream.dlf.de/dlf/01/high/opus/stream.opus?aggregator=web"
+    },
+    {
+      "id": "absolut_top_2000er_de_e37dcf0f",
+      "title": "Absolut Top 2000ER",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 11,
+      "bitrate": 0,
+      "streamUrl": "https://absolut-top.live-sm.absolutradio.de/absolut-top/stream/aacp"
+    },
+    {
+      "id": "rbb_inforadio_mp3_low_de_8b8fb2f2",
+      "title": "rbb INFOradio (mp3-low)",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 9,
+      "bitrate": 64,
+      "streamUrl": "http://dispatcher.rndfnk.com/rbb/inforadio/live/mp3/low"
+    },
+    {
+      "id": "breakz_fm_by_rm_fm_rautemusik_de_aa6a25f3",
+      "title": "__BREAKZ.FM__ by rm.fm (rautemusik)",
+      "subtitle": "Dance",
+      "location": "Germany",
+      "genre": "Dance",
+      "countryCode": "DE",
+      "language": "english",
+      "clickCount": 9,
+      "bitrate": 192,
+      "streamUrl": "https://breakz-high.rautemusik.fm/?ref=radiobrowserinfo"
+    },
+    {
+      "id": "technobase_fm_de_c93213d8",
+      "title": "TechnoBase.FM",
+      "subtitle": "Electronic",
+      "location": "Germany",
+      "genre": "Electronic",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 9,
+      "bitrate": 192,
+      "streamUrl": "https://listener3.mp3.tb-group.fm/tb.mp3"
+    },
+    {
+      "id": "swr_1_de_54d34248",
+      "title": "SWR 1",
+      "subtitle": "Pop",
+      "location": "Germany",
+      "genre": "Pop",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 9,
+      "bitrate": 128,
+      "streamUrl": "https://liveradio.swr.de/sw282p3/swr1bw/"
+    },
+    {
+      "id": "ndr_info_schleswig_holstein_de_2bf01842",
+      "title": "NDR Info (Schleswig-Holstein)",
+      "subtitle": "Culture",
+      "location": "Germany",
+      "genre": "Culture",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 9,
+      "bitrate": 128,
+      "streamUrl": "http://icecast.ndr.de/ndr/ndrinfo/schleswigholstein/mp3/128/stream.mp3"
+    },
+    {
+      "id": "pop_radio_swiss_ch_282d70bb",
+      "title": "Pop | Radio Swiss",
+      "subtitle": "Mp3",
+      "location": "Switzerland",
+      "genre": "Mp3",
+      "countryCode": "CH",
+      "language": "english",
+      "clickCount": 8,
+      "bitrate": 128,
+      "streamUrl": "https://stream.srg-ssr.ch/m/rsp/mp3_128"
+    },
+    {
+      "id": "classic_radio_swiss_ch_9ebc1ac9",
+      "title": "Classic | Radio Swiss",
+      "subtitle": "Classical",
+      "location": "Switzerland",
+      "genre": "Classical",
+      "countryCode": "CH",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream.srg-ssr.ch/m/rsc_de/mp3_128"
     }
   ]
 }
