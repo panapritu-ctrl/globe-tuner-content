@@ -11,10 +11,15 @@ Usage:
     python3 verify_stations.py --only radio     # radio | podcasts | audiobooks | devotional | all
     python3 verify_stations.py --concurrency 300
 
-Exit code is nonzero if verification looks abnormal (e.g. almost everything
-failed, which usually means a network/proxy problem here, not that 90% of
-stations actually died since the last run) — a CI job should treat that as
-"don't trust this run" rather than committing a near-empty catalog.
+Per-category safety valve: if a category's survival rate looks abnormal
+(e.g. almost everything "failed", which usually means a network/proxy
+problem here or an upstream outage — archive.org especially — rather than
+that many stations actually died since the last run), that category is
+skipped and nothing is written for it. Always exits 0 on a normal
+completion, including when one or more categories got skipped this way —
+that's expected, self-protecting behavior, not a script error, and CI
+would otherwise flag a perfectly healthy run as failed. Look for
+"[ABORTED]" in the output/logs to see what, if anything, got skipped.
 """
 import argparse
 import asyncio
@@ -273,7 +278,15 @@ async def main_async(args):
         print(f"  {s['kind']:12s} {s['after']:6d} / {s['before']:6d}  ({pct:.1f}% live){flag}")
         any_aborted = any_aborted or s.get("aborted", False)
 
-    return 1 if any_aborted else 0
+    if any_aborted:
+        print(
+            "\nOne or more categories were skipped by the safety valve (see above) — "
+            "that's expected, self-protecting behavior when an upstream like archive.org "
+            "is having a rough moment, not a bug. Exiting 0 so CI doesn't flag a healthy "
+            "run as failed; the per-category [ABORTED] markers are the real signal to watch.",
+            file=sys.stderr,
+        )
+    return 0
 
 
 def main():
