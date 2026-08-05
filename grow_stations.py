@@ -1,12 +1,14 @@
 #!/usr/bin/env python3
 """
-Discovers new radio stations for countries already represented in this
-catalog and appends verified-live ones — the growth counterpart to
-verify_stations.py, which only removes dead entries.
+Discovers new radio stations and appends verified-live ones — the growth
+counterpart to verify_stations.py, which only removes dead entries.
 
-Scope is deliberately limited to countries already covered here (not
-expanding into brand-new countries/regions) — matches curation already done
-rather than diluting it with an unreviewed wider net.
+Covers every country Radio Browser has at least one station for (currently
+241). For the ~219 already represented here, new stations land alongside
+their existing ones. For the handful not yet represented (small/low-traffic
+countries — Fiji, Bhutan, Seychelles, etc., usually single digits of
+stations each), FALLBACK_CONTINENT below routes them to the right regional
+file group the first time one of their stations passes verification.
 
 Usage:
     python3 grow_stations.py                  # discover + append (cap 500 new)
@@ -30,6 +32,21 @@ REPO_ROOT = Path(__file__).resolve().parent
 INDEX_PATH = REPO_ROOT / "radio_index.json"
 LEGACY_PATH = REPO_ROOT / "radio.json"
 RB_BASE = "https://all.api.radio-browser.info/json"
+
+# Only needed for countries with zero stations in the catalog today, so
+# pick_target_file has nowhere to look them up yet. Every country Radio
+# Browser has any station for (241 total) is otherwise handled generically
+# via country_files, built fresh from whatever's already on disk.
+FALLBACK_CONTINENT = {
+    "FJ": "oceania", "KI": "oceania", "CK": "oceania", "FM": "oceania",
+    "NR": "oceania", "SB": "oceania", "TV": "oceania",
+    "SC": "africa", "ST": "africa", "GN": "africa", "GQ": "africa",
+    "SZ": "africa", "DJ": "africa", "GM": "africa", "LR": "africa",
+    "MR": "africa",
+    "TJ": "asia", "BT": "asia", "TL": "asia",
+    "MF": "americas", "TC": "americas",
+    "SJ": "europe",
+}
 
 
 def slugify(text: str) -> str:
@@ -91,11 +108,18 @@ def build_catalog_state():
     return index, file_data_cache, existing_urls, existing_title_country, country_files, file_station_counts
 
 
-def pick_target_file(country_code, country_files, file_station_counts):
+def pick_target_file(country_code, country_files, file_station_counts, index):
     """Prefer a file that already carries this country's other stations
     (keeps the catalog tidy); among those, the least-full one, so files
-    stay roughly balanced as the catalog grows over time."""
-    candidates = country_files.get(country_code) or set(file_station_counts.keys())
+    stay roughly balanced as the catalog grows over time. For a country
+    with nothing in the catalog yet, fall back to the least-full file in
+    its continent's region group instead of picking any file globally."""
+    candidates = country_files.get(country_code)
+    if not candidates:
+        group = FALLBACK_CONTINENT.get(country_code, "other")
+        candidates = {r["file"] for r in index["regions"] if r["region"] == group}
+    if not candidates:
+        candidates = set(file_station_counts.keys())
     return min(candidates, key=lambda f: file_station_counts[f])
 
 
@@ -166,8 +190,8 @@ async def main_async(args) -> int:
         country_files,
         file_station_counts,
     ) = build_catalog_state()
-    covered_countries = sorted(country_files.keys())
-    print(f"Discovering new stations across {len(covered_countries)} already-covered countries...")
+    covered_countries = sorted(set(country_files.keys()) | set(FALLBACK_CONTINENT.keys()))
+    print(f"Discovering new stations across {len(covered_countries)} countries...")
 
     connector = aiohttp.TCPConnector(limit=args.concurrency)
     async with aiohttp.ClientSession(connector=connector) as session:
@@ -228,7 +252,7 @@ async def main_async(args) -> int:
         if sid in added_ids:
             continue
         added_ids.add(sid)
-        target = pick_target_file(it["countryCode"], country_files, file_station_counts)
+        target = pick_target_file(it["countryCode"], country_files, file_station_counts, index)
         station = {
             "id": sid,
             "title": it["title"],

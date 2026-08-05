@@ -211,8 +211,20 @@ async def process_kind(kind: str, cfg: dict, args) -> dict:
     # Per-category safety valve: this used to only check the OVERALL ratio
     # across all four categories, which let audiobooks/devotional silently
     # go to zero while radio's healthy 89% masked it in the aggregate.
+    #
+    # archive.org-backed categories (audiobooks/devotional) get a much
+    # stricter 85% floor than plain-HTTP ones (50%). Confirmed necessary:
+    # a real run took devotional from a clean 15/15-per-religion (75 total)
+    # to 38 in one pass — 50.7% survival, just above the old 50% floor, so
+    # it was trusted and written — purely because archive.org was failing
+    # some requests but not others (partial flakiness, not real deaths;
+    # the same 75 tracks had scored 100% and 74.7% on adjacent runs days
+    # apart). Radio/podcasts see genuine ~5-10% natural churn per run, so
+    # 50% stays appropriate there — a real mass die-off is what that
+    # threshold exists to catch.
+    threshold = 0.85 if archive_org else 0.5
     survival = (total_after / total_before) if total_before else 1.0
-    aborted = total_before > 0 and survival < 0.5
+    aborted = total_before > 0 and survival < threshold
     if aborted:
         print(
             f"[{kind}] ABORTED: only {survival*100:.1f}% verified live — treating this as a "
