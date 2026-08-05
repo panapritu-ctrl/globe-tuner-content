@@ -203,7 +203,15 @@ async def process_kind(kind: str, cfg: dict, args) -> dict:
 
         print(f"[{kind}] {rel_file}: verifying {len(items)} items...")
         results = await verify_batch(items, url_field, args.concurrency, args.timeout, args.retries, archive_org)
-        kept = [it for it, ok in zip(items, results) if ok]
+        # Curated items (manually vetted on user request, not bulk-imported
+        # from an API) are always kept regardless of this run's check result
+        # — a transient failure here shouldn't silently delete something a
+        # human specifically asked to add. Still checked and logged so a
+        # persistently-dead curated entry is visible, just never auto-removed.
+        kept = [it for it, ok in zip(items, results) if ok or it.get("curated")]
+        still_flagged = sum(1 for it, ok in zip(items, results) if not ok and it.get("curated"))
+        if still_flagged:
+            print(f"    (kept {still_flagged} curated item(s) despite a failed check this run)")
         dropped = len(items) - len(kept)
 
         total_before += len(items)
