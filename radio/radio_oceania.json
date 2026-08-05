@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-04T17:49:47Z",
+  "updated": "2026-08-05T02:24:45Z",
   "region": "oceania",
   "stations": [
     {
@@ -20081,6 +20081,30 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://totalschlager.stream.laut.fm/totalschlager"
+    },
+    {
+      "id": "coast_fm_nz_8d7a945b",
+      "title": "Coast FM",
+      "subtitle": "80'S",
+      "location": "New Zealand",
+      "genre": "80'S",
+      "countryCode": "NZ",
+      "language": "english",
+      "clickCount": 6,
+      "bitrate": 64,
+      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_07AAC.m3u8?aw_0_1st.playerid=iHeartRadioWebPlayer&aw_0_1st.skey=9774168307&clientType=web&companionAds=false&deviceName=web-desktop&dist=iheart&host=webapp.NZ&listenerId=&playedFrom=157&pname=live_profile&profileId=9774168307&stationid=6193&terminalId=162&territory=NZ"
+    },
+    {
+      "id": "station_as_ec4fcdf7",
+      "title": "希望之声",
+      "subtitle": "Radio",
+      "location": "American Samoa",
+      "genre": "Radio",
+      "countryCode": "AS",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://livecast1.soundofhope.org:2087/soh-live"
     }
   ]
 }

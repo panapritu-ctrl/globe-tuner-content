@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-04T17:54:30Z",
+  "updated": "2026-08-05T02:24:45Z",
   "region": "africa",
   "stations": [
     {
@@ -239,19 +239,6 @@
       "genre": "Radio",
       "countryCode": "CD",
       "streamUrl": "http://rs1.radiostreamer.com:8000/;"
-    },
-    {
-      "id": "rb2_radio_svein_d23f576b",
-      "title": "Radio Svein",
-      "subtitle": "Radio Comunitaria",
-      "imageUrl": "https://sveinmedia.info/wp-content/uploads/2023/02/sveinlogo-2.png",
-      "streamUrl": "https://radiosvein2.ice.infomaniak.ch/radiosvein2-64.mp3",
-      "location": "Bukavu, The Democratic Republic Of The Congo",
-      "genre": "Radio Comunitaria",
-      "countryCode": "CD",
-      "language": "french",
-      "clickCount": 3,
-      "bitrate": 128
     },
     {
       "id": "top_congo_fm_88_4_kinshasa_cd",
@@ -1674,24 +1661,6 @@
       "language": null,
       "clickCount": 3,
       "bitrate": 128
-    },
-    {
-      "id": "sheger_fm_et_b8d521",
-      "title": "Sheger FM",
-      "subtitle": "Radio",
-      "location": "Ethiopia",
-      "genre": "Radio",
-      "streamUrl": "https://stream.zeno.fm/y91n1vtbaw5tv",
-      "countryCode": "ET"
-    },
-    {
-      "id": "sheger_fm_102_1_et_566306",
-      "title": "Sheger FM 102.1",
-      "subtitle": "Radio",
-      "location": "Ethiopia",
-      "genre": "Radio",
-      "countryCode": "ET",
-      "streamUrl": "https://stream.zenolive.com/y91n1vtbaw5tv"
     },
     {
       "id": "tirita_97_6_fm_et_5c0d05",
@@ -4333,19 +4302,6 @@
       "streamUrl": "https://go.webgateready.com/bondfm"
     },
     {
-      "id": "rb2_cool_fm_92e7f1c4",
-      "title": "Cool FM",
-      "subtitle": "Radio",
-      "imageUrl": "https://cdn.onlineradiobox.com/img/l/3/6733.v14.png",
-      "streamUrl": "https://coolfmlagos969-atunwadigital.streamguys1.com/coolfmlagos969",
-      "location": "Nigeria",
-      "genre": "Radio",
-      "countryCode": "NG",
-      "language": null,
-      "clickCount": 5,
-      "bitrate": 132
-    },
-    {
       "id": "rb2_dream_center_internet_radio_f75104b7",
       "title": "Dream Center Internet Radio",
       "subtitle": "Radio",
@@ -4649,15 +4605,6 @@
       "genre": "Radio",
       "countryCode": "NG",
       "streamUrl": "https://stream.zeno.fm/m9x6zr5trp8uv"
-    },
-    {
-      "id": "sports_radio_brila_fm_ng_294005",
-      "title": "Sports Radio Brila FM",
-      "subtitle": "Radio",
-      "location": "Nigeria",
-      "genre": "Radio",
-      "streamUrl": "https://atunwadigital.streamguys1.com/brilafm",
-      "countryCode": "NG"
     },
     {
       "id": "rb2_trove_radio_station_6f8b706b",
@@ -8211,19 +8158,6 @@
       "bitrate": 96
     },
     {
-      "id": "rb2_merafong_360_online_radio_13942d11",
-      "title": "MERAFONG 360 ONLINE RADIO",
-      "subtitle": "Radio",
-      "imageUrl": "https://eu2.contabostorage.com/b94f201d35554c5283f96247e0e97a2c:famcast-storage/ThaboM/merafong-360-online-radio.webp",
-      "streamUrl": "https://sv2.famcast.co.za/stream/merafong?t=1769529345666",
-      "location": "South Africa",
-      "genre": "Radio",
-      "countryCode": "ZA",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_mfm_bf31e986",
       "title": "MFM",
       "subtitle": "Maties",
@@ -9273,18 +9207,6 @@
       "streamUrl": "https://27743.live.streamtheworld.com/MUNGANALONENEAAC_SC"
     },
     {
-      "id": "105_7_fm_ly_b9328d09",
-      "title": "إذاعة نور الإيمان المسموعة 105.7 FM",
-      "subtitle": "Islamic",
-      "location": "Libya",
-      "genre": "Islamic",
-      "countryCode": "LY",
-      "language": "arabic",
-      "clickCount": 5,
-      "bitrate": 0,
-      "streamUrl": "https://stream.zeno.fm/r6eprdta6nhvv"
-    },
-    {
       "id": "grootfm_za_eae68cd4",
       "title": "GrootFM",
       "subtitle": "Radio",
@@ -9321,18 +9243,6 @@
       "streamUrl": "https://linuxfreelancer.com:8443/test.mp3"
     },
     {
-      "id": "radio_fr_quence_3_93_8_bamako_ml_9b3ee76d",
-      "title": "Radio Fréquence 3 93.8 Bamako",
-      "subtitle": "Music",
-      "location": "Mali",
-      "genre": "Music",
-      "countryCode": "ML",
-      "language": "french",
-      "clickCount": 4,
-      "bitrate": 64,
-      "streamUrl": "http://ice.stream.frequence3.net/frequence3-64.aac"
-    },
-    {
       "id": "radio_kwizera_tz_61bf15e7",
       "title": "Radio Kwizera",
       "subtitle": "Radio",
@@ -9355,6 +9265,42 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "https://stream-159.zeno.fm/vyxwdk08apxtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2eXh3ZGswOGFweHR2IiwiaG9zdCI6InN0cmVhbS0xNTkuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Imt4VUtoZGRnU0dLRGdSc0NkOE1CRHciLCJpYXQiOjE"
+    },
+    {
+      "id": "radio_feon_ny_filazantsara_mg_1735525f",
+      "title": "Radio Feon'ny Filazantsara",
+      "subtitle": "Christian-Gospel",
+      "location": "Madagascar",
+      "genre": "Christian-Gospel",
+      "countryCode": "MG",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://fpsnew1.listen2myradio.com:2199/listen.php?ip=82.145.63.6&port=8622&type=s1"
+    },
+    {
+      "id": "radio_fr_quence_3_93_8_bamako_ml_9b3ee76d",
+      "title": "Radio Fréquence 3 93.8 Bamako",
+      "subtitle": "Music",
+      "location": "Mali",
+      "genre": "Music",
+      "countryCode": "ML",
+      "language": "french",
+      "clickCount": 5,
+      "bitrate": 64,
+      "streamUrl": "http://ice.stream.frequence3.net/frequence3-64.aac"
+    },
+    {
+      "id": "central_fm_107_1_thi_s_sn_6a93b3b5",
+      "title": "Central FM 107.1 Thiés",
+      "subtitle": "Music",
+      "location": "Senegal",
+      "genre": "Music",
+      "countryCode": "SN",
+      "language": "french",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://stream.zeno.fm/t2e45xqkunhvv"
     }
   ]
 }

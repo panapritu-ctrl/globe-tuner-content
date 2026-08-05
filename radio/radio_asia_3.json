@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-04T17:54:29Z",
+  "updated": "2026-08-05T02:24:45Z",
   "region": "asia",
   "part": 3,
   "of": 3,
@@ -3843,19 +3843,6 @@
       "language": "tagalog",
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_radyo_todo_88_5_fm_fb45d996",
-      "title": "Radyo Todo 88.5 FM",
-      "subtitle": "Radio",
-      "imageUrl": "https://radyoph.com/wp-content/uploads/2024/11/radyotodo.png",
-      "streamUrl": "http://rmstream.todostreamcast.com/radyotodoaklan",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 256
     },
     {
       "id": "rb2_rage_music_philippines_cbd407d2",
@@ -13677,32 +13664,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_1_227ebcf0",
-      "title": "民本電台-1",
-      "subtitle": "Talk",
-      "imageUrl": "",
-      "streamUrl": "https://streamak0134.akamaized.net/live0134lh-5gst/_definst_/am1296/chunklist.m3u8",
-      "location": "Taiwan, Republic Of China",
-      "genre": "Talk",
-      "countryCode": "TW",
-      "language": "chinese",
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_2_04b902cd",
-      "title": "民本電台-2",
-      "subtitle": "Talk",
-      "imageUrl": "",
-      "streamUrl": "https://streamak0134.akamaized.net/live0134lh-5gst/_definst_/am855/chunklist.m3u8",
-      "location": "Taiwan, Republic Of China",
-      "genre": "Talk",
-      "countryCode": "TW",
-      "language": "chinese",
-      "clickCount": 2,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_station_8609e7be",
       "title": "海峽之聲廣播電台",
       "subtitle": "Information, News",
@@ -15043,6 +15004,150 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://stream.pbs.gov.tw/live/PBS/playlist.m3u8"
+    },
+    {
+      "id": "fm_radio_manila_ph_a9df450e",
+      "title": "FM Radio Manila",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 9,
+      "bitrate": 64,
+      "streamUrl": "http://209.126.124.126:8872/stream"
+    },
+    {
+      "id": "best_radio_fm_89_0_mhz_th_900f4ef7",
+      "title": "Best Radio FM. 89.0 MHz.",
+      "subtitle": "คลื่นฮิตอันดับ 1 ของชาวขอนแก่น",
+      "location": "Thailand",
+      "genre": "คลื่นฮิตอันดับ 1 ของชาวขอนแก่น",
+      "countryCode": "TH",
+      "language": "thai",
+      "clickCount": 8,
+      "bitrate": 48,
+      "streamUrl": "https://80sv2.hostpleng.com/?url=http://112.121.150.133:8198/;"
+    },
+    {
+      "id": "bahawal_pur_mw_station_pk_6236dd76",
+      "title": "BAHAWAL PUR MW STATION",
+      "subtitle": "Radio",
+      "location": "Pakistan",
+      "genre": "Radio",
+      "countryCode": "PK",
+      "language": "urdu",
+      "clickCount": 7,
+      "bitrate": 128,
+      "streamUrl": "https://whmsonic.radio.gov.pk:8088/stream?type=http&nocache=4"
+    },
+    {
+      "id": "star_fm_95_5_cebu_ph_83e08388",
+      "title": "Star FM 95.5 Cebu",
+      "subtitle": "Music",
+      "location": "The Philippines",
+      "genre": "Music",
+      "countryCode": "PH",
+      "language": "cebuano",
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "https://stream-146.zeno.fm/60cb36c29heuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2MGNiMzZjMjloZXV2IiwiaG9zdCI6InN0cmVhbS0xNDYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImJMWEdONUVnUWFpUG1ETU1EeUhYX2ciLCJpYXQiOjE3NDE0MzA4NjIsImV4cCI6MTc0MTQzMDkyMn0.4qElo5I_0GF5A3aE5mUfF6T44wqKi0drur2zii2Q0KA"
+    },
+    {
+      "id": "home_radio_cebu_ph_0de58970",
+      "title": "Home Radio Cebu",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 96,
+      "streamUrl": "http://142.44.212.114:9353/stream"
+    },
+    {
+      "id": "home_radio_cagayan_de_oro_ph_2daefb6a",
+      "title": "Home Radio Cagayan de Oro",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 96,
+      "streamUrl": "http://142.44.212.114:9337/stream"
+    },
+    {
+      "id": "fm_100_pakistan_gujrat_pk_3debc056",
+      "title": "FM 100 Pakistan Gujrat",
+      "subtitle": "Radio",
+      "location": "Pakistan",
+      "genre": "Radio",
+      "countryCode": "PK",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 32,
+      "streamUrl": "http://162.244.80.118:4900/stream.mp3?ver=682776"
+    },
+    {
+      "id": "station_tw_4b1d7d04",
+      "title": "栗子的輕音樂",
+      "subtitle": "Radio",
+      "location": "Taiwan, Republic Of China",
+      "genre": "Radio",
+      "countryCode": "TW",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://lizeradio.com/radio/stream"
+    },
+    {
+      "id": "brigada_news_fm_zamboanga_ph_25e85c96",
+      "title": "Brigada News FM Zamboanga",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://18.141.67.248:8018/stream/1/"
+    },
+    {
+      "id": "dyrd_bohol_worldwide_ph_a3ad834b",
+      "title": "DYRD Bohol Worldwide",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 80,
+      "streamUrl": "http://live.kiss102fmbohol.com:8000/dyrdam"
+    },
+    {
+      "id": "insaf_radio_pk_03822bf2",
+      "title": "Insaf Radio",
+      "subtitle": "Radio",
+      "location": "Pakistan",
+      "genre": "Radio",
+      "countryCode": "PK",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://cdn.voscast.com/resources/?key=4e1e2d7ac97ea7ad9493c529df2ab16c&c=wmp"
+    },
+    {
+      "id": "radyo_45_lik_tr_44724cbe",
+      "title": "Radyo 45'lik",
+      "subtitle": "Pop",
+      "location": "Türkiye",
+      "genre": "Pop",
+      "countryCode": "TR",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://stream.radyo45lik.com:4545/"
     }
   ]
 }

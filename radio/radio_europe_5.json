@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-04T17:54:30Z",
+  "updated": "2026-08-05T02:24:45Z",
   "region": "europe",
   "part": 5,
   "of": 8,
@@ -3996,19 +3996,6 @@
       "genre": "Radio",
       "countryCode": "GR",
       "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_rebetikes_melodies_8f8c1ed7",
-      "title": "Radio Rebetikes Melodies",
-      "subtitle": "Greek Folk, Rebetico",
-      "imageUrl": "https://rebetis.duckdns.org/rebetis.png",
-      "streamUrl": "https://rebetis.duckdns.org:8545/live",
-      "location": "Agrinio, Greece",
-      "genre": "Greek Folk",
-      "countryCode": "GR",
-      "language": "english",
       "clickCount": 0,
       "bitrate": 128
     },
@@ -9143,19 +9130,6 @@
       "language": null,
       "clickCount": 0,
       "bitrate": 320
-    },
-    {
-      "id": "rb2_98_9_de8ca5a7",
-      "title": "Κρήτη 98.9",
-      "subtitle": "Greek Traditional",
-      "imageUrl": "https://resources.live24.gr/resources/images/stations/81b7d9c6-a4d4-44b4-a40f-545501ca6cc9.jpg",
-      "streamUrl": "https://i9.streams.ovh:2200/sc/kritifm989/stream",
-      "location": "Chania, Greece",
-      "genre": "Greek Traditional",
-      "countryCode": "GR",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
     },
     {
       "id": "rb2_station_a16cda22",
@@ -25085,19 +25059,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_radio_85_9632552f",
-      "title": "Radio 85",
-      "subtitle": "Francavilla Fontana, News",
-      "imageUrl": "https://www.radioantennasud.com/wp-content/uploads/2022/06/cropped-favicon-180x180.png",
-      "streamUrl": "http://onair15.xdevel.com:8342/;",
-      "location": "Puglia, Italy",
-      "genre": "Francavilla Fontana",
-      "countryCode": "IT",
-      "language": "italian",
-      "clickCount": 2,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_radio_90_s_4_you_f3db0318",
       "title": "Radio 90's 4 You",
       "subtitle": "Dance, Pop",
@@ -25543,19 +25504,6 @@
       "streamUrl": "http://sr7.inmystream.info:8079/stream",
       "location": "Lazio, Italy",
       "genre": "Pop",
-      "countryCode": "IT",
-      "language": "italian",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_antenna_sud_0ad15132",
-      "title": "Radio Antenna Sud",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://onair15.xdevel.com:8702/;",
-      "location": "Italy",
-      "genre": "Radio",
       "countryCode": "IT",
       "language": "italian",
       "clickCount": 0,
@@ -27927,6 +27875,30 @@
       "clickCount": 4,
       "bitrate": 256,
       "streamUrl": "http://rockerradio.online/live.mp3"
+    },
+    {
+      "id": "christmas_fm_ireland_ie_e77b17af",
+      "title": "Christmas FM Ireland",
+      "subtitle": "Radio",
+      "location": "Ireland",
+      "genre": "Radio",
+      "countryCode": "IE",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://christmasfm.cdnstream1.com/2547_128.mp3?listenerId=esTrackblock097016&aw_0_1st.playerid=esPlayer&aw_0_1st.skey=1692448019"
+    },
+    {
+      "id": "hrt_radio_rijeka_hr_b41dee59",
+      "title": "HRT Radio Rijeka",
+      "subtitle": "Hrt",
+      "location": "Croatia",
+      "genre": "Hrt",
+      "countryCode": "HR",
+      "language": "croatian",
+      "clickCount": 4,
+      "bitrate": 64,
+      "streamUrl": "http://22193.live.streamtheworld.com/RIJEKAAAC_SC"
     }
   ]
 }

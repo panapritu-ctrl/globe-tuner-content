@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-04T17:54:30Z",
+  "updated": "2026-08-05T02:24:45Z",
   "region": "europe",
   "part": 2,
   "of": 8,
@@ -21192,19 +21192,6 @@
       "bitrate": 192
     },
     {
-      "id": "rb2_m_jazz_radio_4b8833e9",
-      "title": "M-Jazz Radio",
-      "subtitle": "Radio",
-      "imageUrl": "https://www.mjazzradio.com/wp-content/uploads/2026/04/MJazzRadio-Cropped.png",
-      "streamUrl": "https://fra-pioneer01.dedicateware.com:1465/stream",
-      "location": "Aarhus, Jutland, Denmark",
-      "genre": "Radio",
-      "countryCode": "DK",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 320
-    },
-    {
       "id": "rb2_midtfjord_radio_radio_nibenitten_cd411cb2",
       "title": "Midtfjord Radio / Radio Nibenitten",
       "subtitle": "Radio",
@@ -23804,45 +23791,6 @@
       "bitrate": 192
     },
     {
-      "id": "rb2_aragon_tv_internacional_5d3e7918",
-      "title": "Aragon TV Internacional",
-      "subtitle": "Cine, Entretenimiento",
-      "imageUrl": "http://www.aragontelevision.es/logos/apple-touch-icon.png",
-      "streamUrl": "https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8",
-      "location": "Aragón, Spain",
-      "genre": "Cine",
-      "countryCode": "ES",
-      "language": "spanish",
-      "clickCount": 2,
-      "bitrate": 2560
-    },
-    {
-      "id": "rb2_arag_n_radio_a9f9ca2a",
-      "title": "Aragón Radio",
-      "subtitle": "Aragon",
-      "imageUrl": "",
-      "streamUrl": "https://cartv.streaming.aranova.es/hls/live/aragonradio_huesca.m3u8",
-      "location": "Aragón, Spain",
-      "genre": "Aragon",
-      "countryCode": "ES",
-      "language": "spanish",
-      "clickCount": 0,
-      "bitrate": 96
-    },
-    {
-      "id": "rb2_arag_n_radio_zaragoza_039a7636",
-      "title": "Aragón Radio Zaragoza",
-      "subtitle": "Talk & Speech",
-      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRnDa2r3T2XjZvPTipG073PjiUJP-CotWVVofqilM&s=0",
-      "streamUrl": "https://cartv.streaming.aranova.es/hls/live/aragonradio_aragonradio1.m3u8",
-      "location": "Spain",
-      "genre": "Talk & Speech",
-      "countryCode": "ES",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 96
-    },
-    {
       "id": "rb2_armonia_duero_7404e117",
       "title": "Armonia Duero",
       "subtitle": "Classic Hits, Hits",
@@ -25582,19 +25530,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_closta_blanca_radio_4487c11c",
-      "title": "Closta Blanca Radio",
-      "subtitle": "Adult Contemporary",
-      "imageUrl": "https://costablancaradio.nl/favicon.ico",
-      "streamUrl": "http://stream.costablancaradio.nl/costablancaradio",
-      "location": "Spain",
-      "genre": "Adult Contemporary",
-      "countryCode": "ES",
-      "language": "dutch",
-      "clickCount": 1,
-      "bitrate": 192
-    },
-    {
       "id": "rb2_coast_fm_tenerife_spain_104492ee",
       "title": "Coast FM Tenerife Spain",
       "subtitle": "Radio",
@@ -26211,19 +26146,6 @@
       "language": "spanish",
       "clickCount": 2,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_elite_radio_guadix_cc63cd75",
-      "title": "Elite Radio Guadix",
-      "subtitle": "Radio",
-      "imageUrl": "https://www.eliteradio.es/images/ELITE%20RADIO_2016.jpg",
-      "streamUrl": "http://streaming2.elitecomunicacion.es:8606/stream",
-      "location": "Spain",
-      "genre": "Radio",
-      "countryCode": "ES",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 32
     },
     {
       "id": "rb2_emision_moviles_50b9a89b",
@@ -27956,19 +27878,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_la_mega_radio_7cc630a3",
-      "title": "La Mega Radio",
-      "subtitle": "90S, Electronic",
-      "imageUrl": "https://www.lamegamalaga.es/favicon.ico",
-      "streamUrl": "http://streaming2.elitecomunicacion.es:8220//stream?type=.mp3",
-      "location": "Spain",
-      "genre": "90S",
-      "countryCode": "ES",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_la_movida_latina_8bca3a31",
       "title": "La Movida Latina",
       "subtitle": "Radio",
@@ -28860,6 +28769,18 @@
       "clickCount": 5,
       "bitrate": 320,
       "streamUrl": "https://pcrfm.radiocult.fm/stream"
+    },
+    {
+      "id": "radio4_dk_c0bdcca9",
+      "title": "Radio4",
+      "subtitle": "News",
+      "location": "Denmark",
+      "genre": "News",
+      "countryCode": "DK",
+      "language": "danish",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "http://netradio.radio4.dk/radio4"
     }
   ]
 }

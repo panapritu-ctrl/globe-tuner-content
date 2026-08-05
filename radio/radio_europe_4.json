@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-04T17:49:47Z",
+  "updated": "2026-08-05T02:24:45Z",
   "region": "europe",
   "part": 4,
   "of": 8,
@@ -3837,19 +3837,6 @@
       "bitrate": 2032
     },
     {
-      "id": "rb2_cdnx_radio_c67e3836",
-      "title": "CDNX Radio",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://streaming.cdnx.co.uk/proxy/cx128mp3?mp=/stream&=&&___cb=870564735813642",
-      "location": "The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "Radio",
-      "countryCode": "GB",
-      "language": "british english",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_cgm_ukscene_sister_station_84290385",
       "title": "CGM UKScene Sister Station",
       "subtitle": "Demoscene",
@@ -7592,19 +7579,6 @@
       "language": null,
       "clickCount": 0,
       "bitrate": 192
-    },
-    {
-      "id": "rb2_house_heads_uk_c6037d27",
-      "title": "HOUSE HEADS UK",
-      "subtitle": "Radio",
-      "imageUrl": "https://images.vexels.com/media/users/3/151183/isolated/lists/f8740a62cd25d5215b225f5fd6c881cc-portable-radio-icon.png",
-      "streamUrl": "http://s36.myradiostream.com:13028/;",
-      "location": "warwick, The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "Radio",
-      "countryCode": "GB",
-      "language": "british english",
-      "clickCount": 1,
-      "bitrate": 128
     },
     {
       "id": "rb2_hwd_hospital_radio_98c34a8e",
@@ -20887,19 +20861,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_athens_radio_trance_7e990e80",
-      "title": "Athens Radio Trance",
-      "subtitle": "Electronic Dance Music, Trance",
-      "imageUrl": "",
-      "streamUrl": "https://cast.streams.ovh:8008/;",
-      "location": "Greece",
-      "genre": "Electronic Dance Music",
-      "countryCode": "GR",
-      "language": "greek",
-      "clickCount": 2,
-      "bitrate": 320
-    },
-    {
       "id": "rb2_athens_rock_96_9_df716345",
       "title": "Athens Rock 96.9",
       "subtitle": "Radio",
@@ -23731,19 +23692,6 @@
       "language": null,
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_focus_99_6_9cf2e9aa",
-      "title": "Focus 99.6",
-      "subtitle": "Music, News",
-      "imageUrl": "http://resources.live24.gr/resources/images/stations/c373f223-2ca3-4a3a-ae54-985adeef29e3.png",
-      "streamUrl": "https://cast.magicstreams.gr:9056/stream",
-      "location": "Kalamata, Greece",
-      "genre": "Music",
-      "countryCode": "GR",
-      "language": "greek",
-      "clickCount": 0,
-      "bitrate": 320
     },
     {
       "id": "rb2_folegandros_radio_09c9e80c",
@@ -27878,6 +27826,18 @@
       "clickCount": 4,
       "bitrate": 256,
       "streamUrl": "https://radiostreaming.ert.gr/ert-kosmos"
+    },
+    {
+      "id": "old_skool_rave_tapes_gb_ffe1aa59",
+      "title": "Old Skool Rave Tapes",
+      "subtitle": "Old Skool",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Old Skool",
+      "countryCode": "GB",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 96,
+      "streamUrl": "https://azuracast.oldskoolravetapes.co.uk/listen/old_skool_rave_tapes/backup?refresh=1744812055358"
     }
   ]
 }

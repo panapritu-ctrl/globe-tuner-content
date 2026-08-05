@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-04T17:54:30Z",
+  "updated": "2026-08-05T02:24:45Z",
   "region": "asia",
   "part": 1,
   "of": 3,
@@ -12519,19 +12519,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_t_radio_104_180b6ec1",
-      "title": "T-Radio旅游广播104",
-      "subtitle": "Talk",
-      "imageUrl": "http://radio.666scly.com/img/logo/20160510142516401.png",
-      "streamUrl": "https://stream.zeno.fm/4x3gkv9zsy8uv",
-      "location": "China",
-      "genre": "Talk",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_taiyuan_economics_radio_cbfaf908",
       "title": "Taiyuan Economics Radio",
       "subtitle": "Radio",
@@ -16464,32 +16451,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_station_bde9816a",
-      "title": "呼和浩特交通广播",
-      "subtitle": "Traffic",
-      "imageUrl": "http://pic.qingting.fm/2022/1207/20221207064610.jpeg",
-      "streamUrl": "https://lhttp-hw.qtfm.cn/live/5021545/64k.mp3",
-      "location": "Inner Mongolia, China",
-      "genre": "Traffic",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_station_2a9d707e",
-      "title": "呼和浩特综合广播",
-      "subtitle": "News",
-      "imageUrl": "",
-      "streamUrl": "https://lhttp.qingting.fm/live/5021543/64k.mp3",
-      "location": "Inner Mongolia, China",
-      "genre": "News",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_5g_558cc76e",
       "title": "呼图壁县5G智慧电台",
       "subtitle": "5G智慧电台",
@@ -19175,19 +19136,6 @@
       "streamUrl": "https://lhttp-hw.qtfm.cn/live/20211704/64k.mp3",
       "location": "Yunnan, China",
       "genre": "Information",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_station_36779826",
-      "title": "巴南综合广播",
-      "subtitle": "Lifestyle",
-      "imageUrl": "https://banan.cbg.cn/favicon.ico",
-      "streamUrl": "https://lhttp.qtfm.cn/live/5022385/64k.mp3",
-      "location": "Chungking, China",
-      "genre": "Lifestyle",
       "countryCode": "CN",
       "language": "chinese",
       "clickCount": 0,
@@ -24078,19 +24026,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_station_b2ba5a08",
-      "title": "浙江新闻频道",
-      "subtitle": "News",
-      "imageUrl": "http://www.cztv.com/favicon.ico",
-      "streamUrl": "http://ali-vl.cztv.com/channels/lantian/channel007/360p.m3u8",
-      "location": "Chekiang, China",
-      "genre": "News",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_station_77fbcd0e",
       "title": "浙江旅游之声",
       "subtitle": "Music",
@@ -25515,19 +25450,6 @@
       "streamUrl": "https://lhttp.qingting.fm/live/20805/64k.mp3",
       "location": "Honan, China",
       "genre": "Entertainment",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_station_4f1ab9ca",
-      "title": "焦作新闻综合广播",
-      "subtitle": "News",
-      "imageUrl": "http://pic.qingting.fm/2018/0912/20180912062044.jpeg",
-      "streamUrl": "https://lhttp-hw.qtfm.cn/live/5022557/64k.mp3",
-      "location": "Honan, China",
-      "genre": "News",
       "countryCode": "CN",
       "language": "chinese",
       "clickCount": 0,
@@ -27966,6 +27888,18 @@
       "clickCount": 3,
       "bitrate": 1441,
       "streamUrl": "http://stream.radioparadise.com/mellow-flac"
+    },
+    {
+      "id": "station_bd_39673e0e",
+      "title": "বাংলাদেশ বেতার ঢাকা ক",
+      "subtitle": "Bangla Music",
+      "location": "Bangladesh",
+      "genre": "Bangla Music",
+      "countryCode": "BD",
+      "language": "bangla",
+      "clickCount": 8,
+      "bitrate": 64,
+      "streamUrl": "http://as1.digitalsynapsebd.com:8582/;"
     }
   ]
 }
