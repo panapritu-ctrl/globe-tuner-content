@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-05T02:24:45Z",
+  "updated": "2026-08-08T03:07:02Z",
   "region": "africa",
   "stations": [
     {
@@ -241,15 +241,6 @@
       "streamUrl": "http://rs1.radiostreamer.com:8000/;"
     },
     {
-      "id": "top_congo_fm_88_4_kinshasa_cd",
-      "title": "Top Congo FM 88.4 Kinshasa",
-      "subtitle": "African Music / Kinshasa",
-      "location": "Kinshasa, The Democratic Republic Of The Congo",
-      "genre": "News",
-      "countryCode": "CD",
-      "streamUrl": "http://topcongofm2.ice.infomaniak.ch/topcongofm2-64.mp3"
-    },
-    {
       "id": "rb_viunga_business_radio_18698fdf",
       "title": "Viunga Business Radio",
       "subtitle": "Développement, Environnement",
@@ -480,19 +471,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb_rcv_radio_cabo_verde_81e707dc",
-      "title": "RCV Radio Cabo Verde",
-      "subtitle": "Radio",
-      "imageUrl": "https://rtc.cv/rcv",
-      "streamUrl": "https://a3.asurahosting.com:6980/radio.mp3",
-      "location": "Cabo Verde",
-      "genre": "Radio",
-      "countryCode": "CV",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 320
-    },
-    {
       "id": "rb_rcv_radio_cabo_verde_jovem_d0cdbba0",
       "title": "RCV+ Radio Cabo Verde Jovem",
       "subtitle": "Radio",
@@ -595,15 +573,6 @@
       "language": null,
       "clickCount": 2,
       "bitrate": 128
-    },
-    {
-      "id": "station_dz",
-      "title": ". إذاعة ماهر المعيقلي",
-      "subtitle": "Classical",
-      "location": "Algeria",
-      "genre": "Classical",
-      "countryCode": "DZ",
-      "streamUrl": "https://backup.qurango.net/radio/maher"
     },
     {
       "id": "rb_station_23a9dbd1",
@@ -2493,19 +2462,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_sompa_101_1fm_tarkwa_0a06d197",
-      "title": "Sompa 101.1FM Tarkwa",
-      "subtitle": "Highife, Mrcrosby",
-      "imageUrl": "https://scontent-nrt1-1.xx.fbcdn.net/v/t39.30808-6/518301957_122247444740222441_1704835999890749923_n.jpg?stp=dst-jpg_tt6&cstp=mx940x788&ctp=s940x788&_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGyOMrONjEC1KTbq7FtN5y80pTD-Rd-r8rSlMP5F36vyvXzp-62hceHQHTZMIn26lyCLCJP-QMZU9dN3qZKJ3KF&_nc_ohc=oKhFBH2zocYQ7kNvwF1LgKp&_nc_oc=AdqPR6EjSWFkNDWtqVJiMxr7IVJVvzwLS8FVnQKxC7nZ5SHbSo9GO7NS-a1G2N1lxG8&_nc_zt=23&_nc_ht=scontent-nrt1-1.xx&_nc_gid=j-5VcA2JmR4Ye2FYY07Xxw&_nc_ss=7b2a8&oh=00_Af9HqHDzSS2ko4AMD9SLBJZ3CCeNySn0ocNdWLgsmzhc-g&oe=6A2AB91B",
-      "streamUrl": "https://stream.zeno.fm/ey5mddtbdfeuv",
-      "location": "Tarkwa, Ghana",
-      "genre": "Highife",
-      "countryCode": "GH",
-      "language": "akan",
-      "clickCount": 2,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_sompa_106_5fm_accra_04aee62f",
       "title": "Sompa 106.5FM Accra",
       "subtitle": "Highife, Mrcrosby",
@@ -2620,19 +2576,6 @@
       "countryCode": "GH",
       "language": "akan",
       "clickCount": 3,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_zaa_radio_00c5f7bd",
-      "title": "Zaa Radio",
-      "subtitle": "Music, News",
-      "imageUrl": "https://cdn.onlineradiobox.com/img/logo/8/7038.v3.png",
-      "streamUrl": "http://stream.zaaradio.com:60700/Zaa",
-      "location": "Ghana",
-      "genre": "Music",
-      "countryCode": "GH",
-      "language": "english",
-      "clickCount": 2,
       "bitrate": 128
     },
     {
@@ -3503,19 +3446,6 @@
       "genre": "Hip Hop",
       "streamUrl": "https://icecast.skyrock.net/s/casa_aac_64k",
       "countryCode": "MA"
-    },
-    {
-      "id": "rb2_u_radio_0bb1d938",
-      "title": "U RADIO",
-      "subtitle": "2000S, 80S",
-      "imageUrl": "https://radiolive.ma/logos/u-radio.png",
-      "streamUrl": "https://uradio-aac.ice.infomaniak.ch/uradio.aac",
-      "location": "Morocco",
-      "genre": "2000S",
-      "countryCode": "MA",
-      "language": "arabic",
-      "clickCount": 3,
-      "bitrate": 128
     },
     {
       "id": "yabiladi_azawan_amazigh_ma_0caeda",
@@ -4429,19 +4359,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_konga103_7fm_f835db87",
-      "title": "Konga103.7FM",
-      "subtitle": "Business, Commerce",
-      "imageUrl": "https://kongafm.com/logo.svg",
-      "streamUrl": "https://lunar.citrus3.com:8124/stream",
-      "location": "Lagos, Nigeria",
-      "genre": "Business",
-      "countryCode": "NG",
-      "language": "english",
-      "clickCount": 4,
-      "bitrate": 96
-    },
-    {
       "id": "lagosjump_radio_ng_3c8dd9",
       "title": "LagosJump Radio",
       "subtitle": "Afrobeats",
@@ -4627,32 +4544,6 @@
       "genre": "Radio",
       "streamUrl": "https://edge.mixlr.com/channel/cfldr",
       "countryCode": "NG"
-    },
-    {
-      "id": "rb2_usaku_fm_90_5_5ed4335b",
-      "title": "Usaku FM 90.5",
-      "subtitle": "Fm Yola, Radio Yola",
-      "imageUrl": "",
-      "streamUrl": "https://eu8.fastcast4u.com/proxy/usakufm?mp=/1",
-      "location": "Nigeria",
-      "genre": "Fm Yola",
-      "countryCode": "NG",
-      "language": "english",
-      "clickCount": 3,
-      "bitrate": 96
-    },
-    {
-      "id": "rb2_vybz_94_5_fm_d7f8c883",
-      "title": "Vybz 94.5 FM",
-      "subtitle": "Radio",
-      "imageUrl": "https://vybzfm.com/wp-content/uploads/2020/06/VYBZ-94.5-FM-YELLOW.png",
-      "streamUrl": "https://mpc.my-control-panel.eu/stream/8138",
-      "location": "Nigeria",
-      "genre": "Radio",
-      "countryCode": "NG",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 128
     },
     {
       "id": "wazobia_fm_lagos_ng_1dfcc3",
@@ -9111,18 +9002,6 @@
       "streamUrl": "http://9090streaming.mobtada.com/9090FMEGYPT"
     },
     {
-      "id": "top_congo_fm_cd_c09c1f2b",
-      "title": "Top Congo FM",
-      "subtitle": "Informations",
-      "location": "The Democratic Republic Of The Congo",
-      "genre": "Informations",
-      "countryCode": "CD",
-      "language": "french",
-      "clickCount": 22,
-      "bitrate": 96,
-      "streamUrl": "https://topcongofm2.ice.infomaniak.ch/topcongofm2-64.mp3"
-    },
-    {
       "id": "90s_fm_eg_4bd2fec7",
       "title": "90s FM",
       "subtitle": "Radio",
@@ -9279,28 +9158,100 @@
       "streamUrl": "https://fpsnew1.listen2myradio.com:2199/listen.php?ip=82.145.63.6&port=8622&type=s1"
     },
     {
-      "id": "radio_fr_quence_3_93_8_bamako_ml_9b3ee76d",
-      "title": "Radio Fréquence 3 93.8 Bamako",
-      "subtitle": "Music",
-      "location": "Mali",
-      "genre": "Music",
-      "countryCode": "ML",
-      "language": "french",
-      "clickCount": 5,
-      "bitrate": 64,
-      "streamUrl": "http://ice.stream.frequence3.net/frequence3-64.aac"
+      "id": "sheger_fm_102_1_et_04160353",
+      "title": "Sheger FM 102.1",
+      "subtitle": "Radio",
+      "location": "Ethiopia",
+      "genre": "Radio",
+      "countryCode": "ET",
+      "language": null,
+      "clickCount": 24,
+      "bitrate": 0,
+      "streamUrl": "https://stream.zenolive.com/y91n1vtbaw5tv"
     },
     {
-      "id": "central_fm_107_1_thi_s_sn_6a93b3b5",
-      "title": "Central FM 107.1 Thiés",
-      "subtitle": "Music",
-      "location": "Senegal",
-      "genre": "Music",
-      "countryCode": "SN",
+      "id": "kfm_kampala_93_3_fm_mp3_ug_9ed863d5",
+      "title": "KFM - Kampala - 93.3 FM (MP3)",
+      "subtitle": "Electronic",
+      "location": "Uganda",
+      "genre": "Electronic",
+      "countryCode": "UG",
+      "language": "english",
+      "clickCount": 9,
+      "bitrate": 128,
+      "streamUrl": "http://radio.kfm.co.ug:8000/stream"
+    },
+    {
+      "id": "cape_talk_za_2d0d9d4e",
+      "title": "Cape Talk",
+      "subtitle": "Current Affairs",
+      "location": "South Africa",
+      "genre": "Current Affairs",
+      "countryCode": "ZA",
+      "language": "english",
+      "clickCount": 7,
+      "bitrate": 64,
+      "streamUrl": "http://22733.live.streamtheworld.com/CAPE_TALK_SC"
+    },
+    {
+      "id": "cool_fm_lagos_ng_04ac669a",
+      "title": "Cool FM: Lagos",
+      "subtitle": "Radio",
+      "location": "Nigeria",
+      "genre": "Radio",
+      "countryCode": "NG",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 138,
+      "streamUrl": "https://coolfmlagos969-atunwadigital.streamguys1.com/coolfmlagos969"
+    },
+    {
+      "id": "radio_svein_cd_a293250e",
+      "title": "Radio Svein",
+      "subtitle": "Radio Comunitaria",
+      "location": "The Democratic Republic Of The Congo",
+      "genre": "Radio Comunitaria",
+      "countryCode": "CD",
       "language": "french",
       "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://radiosvein2.ice.infomaniak.ch/radiosvein2-64.mp3"
+    },
+    {
+      "id": "praia_fm_cv_db78b059",
+      "title": "Praia FM",
+      "subtitle": "Radio",
+      "location": "Cabo Verde",
+      "genre": "Radio",
+      "countryCode": "CV",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://mpc1.mediacp.eu:8030/stream"
+    },
+    {
+      "id": "sheger_fm_et_1fdb471c",
+      "title": "Sheger FM",
+      "subtitle": "Radio",
+      "location": "Ethiopia",
+      "genre": "Radio",
+      "countryCode": "ET",
+      "language": null,
+      "clickCount": 4,
       "bitrate": 0,
-      "streamUrl": "https://stream.zeno.fm/t2e45xqkunhvv"
+      "streamUrl": "https://stream.zeno.fm/y91n1vtbaw5tv"
+    },
+    {
+      "id": "radio_generation_kenya_88_8_ke_4d4f4910",
+      "title": "Radio Generation Kenya 88.8",
+      "subtitle": "Radio",
+      "location": "Kenya",
+      "genre": "Radio",
+      "countryCode": "KE",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://stream-158.zeno.fm/f3wvbbqmdg8uv"
     }
   ]
 }
