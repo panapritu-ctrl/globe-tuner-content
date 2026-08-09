@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-09T04:23:34Z",
+  "updated": "2026-08-09T16:47:33Z",
   "region": "europe",
   "part": 6,
   "of": 8,
@@ -491,19 +491,6 @@
       "language": "english",
       "clickCount": 1,
       "bitrate": 192
-    },
-    {
-      "id": "rb2_radio_jolly_097b3953",
-      "title": "Radio Jolly",
-      "subtitle": "Eurodance, House",
-      "imageUrl": "",
-      "streamUrl": "http://radio.garden/api/ara/content/listen/Zrs6jv66/channel.mp3",
-      "location": "Italy",
-      "genre": "Eurodance",
-      "countryCode": "IT",
-      "language": "english",
-      "clickCount": 2,
-      "bitrate": 128
     },
     {
       "id": "rb2_radio_jukebox_962cb05b",
@@ -26165,6 +26152,42 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://stream.deegay.fm/deegay3.mp3?id=Oa9irZz5Qm&FLID=1&aw_0_req.gdpr=true&listenerid=79ac2cc9cb7616aca4d7286d94dd9291&awparams=companionAds%3Atrue"
+    },
+    {
+      "id": "radio_prl_it_c2e9cf41",
+      "title": "Radio PRL",
+      "subtitle": "Hits",
+      "location": "Italy",
+      "genre": "Hits",
+      "countryCode": "IT",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 96,
+      "streamUrl": "http://distorzi.radioca.st:8144/stream"
+    },
+    {
+      "id": "radio_centrale_montorio_al_vomano_it_01d1adc6",
+      "title": "Radio Centrale - Montorio al Vomano",
+      "subtitle": "Classic Italian Pop",
+      "location": "Italy",
+      "genre": "Classic Italian Pop",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://s1.forstream.it:8070/radiocentrale.mp3"
+    },
+    {
+      "id": "ehr_lv_c87e8192",
+      "title": "EHR",
+      "subtitle": "Radio",
+      "location": "Latvia",
+      "genre": "Radio",
+      "countryCode": "LV",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 96,
+      "streamUrl": "https://stream.ehrhiti.lv:8000/ehr.aac"
     }
   ]
 }

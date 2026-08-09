@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-09T04:23:34Z",
+  "updated": "2026-08-09T16:47:33Z",
   "region": "asia",
   "part": 2,
   "of": 3,
@@ -2236,19 +2236,6 @@
       "streamUrl": "https://lhttp-hw.qtfm.cn/live/20211658/64k.mp3",
       "location": "China",
       "genre": "Hits",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_fm105_8_25bdaf02",
-      "title": "青岛FM105.8",
-      "subtitle": "Music",
-      "imageUrl": "",
-      "streamUrl": "http://video10.qtv.com.cn/zhibo875/manifest.m3u8",
-      "location": "Shantung, China",
-      "genre": "Music",
       "countryCode": "CN",
       "language": "chinese",
       "clickCount": 0,
@@ -4714,15 +4701,6 @@
       "language": null,
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "98_4_suara_giri_fm_gresik_id_5e9006",
-      "title": "98,4 Suara Giri FM Gresik",
-      "subtitle": "Misc",
-      "location": "Indonesia",
-      "genre": "Misc",
-      "countryCode": "ID",
-      "streamUrl": "http://streaming.girifm.com:8010/;stream.nsv"
     },
     {
       "id": "rb2_acdc_d22f22d7",
@@ -22103,19 +22081,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_era_sarawak_311696c4",
-      "title": "era sarawak",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://n10.rcs.revma.com/bkqfqkrbv4uvv/10_6dkcmkt5m85u02/playlist.m3u8",
-      "location": "sarawak, Malaysia",
-      "genre": "Radio",
-      "countryCode": "MY",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_goxuan_0e236b90",
       "title": "goXuan",
       "subtitle": "Radio",
@@ -23608,6 +23573,138 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://kathy.torontocast.com:3060/;?shoutcast"
+    },
+    {
+      "id": "smartradio_indonesia_id_ba143c2e",
+      "title": "SmartRadio Indonesia",
+      "subtitle": "Community Radio",
+      "location": "Indonesia",
+      "genre": "Community Radio",
+      "countryCode": "ID",
+      "language": "bahasa indonesia",
+      "clickCount": 11,
+      "bitrate": 64,
+      "streamUrl": "http://radio.forumcerdas.net:8000/;"
+    },
+    {
+      "id": "station_cn_48c1cbfd",
+      "title": "天籁之音 - 经典正流行",
+      "subtitle": "Music",
+      "location": "China",
+      "genre": "Music",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 10,
+      "bitrate": 0,
+      "streamUrl": "http://play-radio-stream3.hndt.com/now/WUBA5hW2/chunklist.m3u8"
+    },
+    {
+      "id": "98_4_suara_giri_fm_gresik_id_7f3c3d11",
+      "title": "98,4 Suara Giri FM Gresik",
+      "subtitle": "Misc",
+      "location": "Indonesia",
+      "genre": "Misc",
+      "countryCode": "ID",
+      "language": null,
+      "clickCount": 9,
+      "bitrate": 96,
+      "streamUrl": "http://streaming.girifm.com:8010/;stream.nsv"
+    },
+    {
+      "id": "humsafar_in_f887b2cc",
+      "title": "humsafar",
+      "subtitle": "Radio",
+      "location": "India",
+      "genre": "Radio",
+      "countryCode": "IN",
+      "language": "hindi",
+      "clickCount": 6,
+      "bitrate": 32,
+      "streamUrl": "https://ice2.securenetsystems.net/HUMSAFAR"
+    },
+    {
+      "id": "afn_go_daegu_kr_ff943e90",
+      "title": "AFN GO DAEGU",
+      "subtitle": "Top Hits",
+      "location": "The Republic Of Korea",
+      "genre": "Top Hits",
+      "countryCode": "KR",
+      "language": "english",
+      "clickCount": 6,
+      "bitrate": 32,
+      "streamUrl": "https://22963.live.streamtheworld.com/AFNP_DGUAAC.aac?country=KR&tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=none&burst-time=15&sbmid=11fdf19a-4184-4c11-f1ce-9c93ca088fa1"
+    },
+    {
+      "id": "station_mo_10673255",
+      "title": "澳門綠邨電台",
+      "subtitle": "Lifestyle",
+      "location": "Macao",
+      "genre": "Lifestyle",
+      "countryCode": "MO",
+      "language": "cantonese",
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "https://macaofm995.com/hls1/fm995.m3u8"
+    },
+    {
+      "id": "station_cn_bc7855d9",
+      "title": "呼和浩特综合广播",
+      "subtitle": "Radio",
+      "location": "China",
+      "genre": "Radio",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://lhttp-hw.qtfm.cn/live/5021543/64k.mp3"
+    },
+    {
+      "id": "station_cn_ad6ef3cc",
+      "title": "民谣·蓝调",
+      "subtitle": "Blues",
+      "location": "China",
+      "genre": "Blues",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 4,
+      "bitrate": 320,
+      "streamUrl": "http://stream3.hndt.com/now/XWfN89gh/playlist.m3u8"
+    },
+    {
+      "id": "bimasakti_fm_kebumen_id_ad80f2ac",
+      "title": "BIMASAKTI FM KEBUMEN",
+      "subtitle": "Pop",
+      "location": "Indonesia",
+      "genre": "Pop",
+      "countryCode": "ID",
+      "language": "indonesian",
+      "clickCount": 4,
+      "bitrate": 64,
+      "streamUrl": "https://i.klikhost.com:9622/stream"
+    },
+    {
+      "id": "asia_dream_radio_japan_hits_jp_08736f3f",
+      "title": "asia DREAM radio - Japan Hits",
+      "subtitle": "J-Pop",
+      "location": "Japan",
+      "genre": "J-Pop",
+      "countryCode": "JP",
+      "language": "japanese",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://quincy.torontocast.com:2020/stream.mp3"
+    },
+    {
+      "id": "classic_radio_lk_0e3d8b7f",
+      "title": "Classic Radio",
+      "subtitle": "Radio",
+      "location": "Sri Lanka",
+      "genre": "Radio",
+      "countryCode": "LK",
+      "language": "sinhala",
+      "clickCount": 4,
+      "bitrate": 64,
+      "streamUrl": "https://cp11.serverse.com/proxy/classic/stream"
     }
   ]
 }

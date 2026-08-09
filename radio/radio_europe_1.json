@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-09T04:23:34Z",
+  "updated": "2026-08-09T16:47:33Z",
   "region": "europe",
   "part": 1,
   "of": 8,
@@ -27585,6 +27585,30 @@
       "clickCount": 4,
       "bitrate": 160,
       "streamUrl": "https://icecast.lider-fm.by/liderfm"
+    },
+    {
+      "id": "roks_by_533713d9",
+      "title": "Радио ROKS",
+      "subtitle": "Rock",
+      "location": "Belarus",
+      "genre": "Rock",
+      "countryCode": "BY",
+      "language": "belarusian",
+      "clickCount": 4,
+      "bitrate": 160,
+      "streamUrl": "https://stream.roks.com:8443/live256"
+    },
+    {
+      "id": "wgfm_trance_by_82951dde",
+      "title": "WGFM-Trance",
+      "subtitle": "Radio",
+      "location": "Belarus",
+      "genre": "Radio",
+      "countryCode": "BY",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://sv.netradio.by/1/128"
     }
   ]
 }

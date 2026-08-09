@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-09T07:15:59Z",
+  "updated": "2026-08-09T16:47:33Z",
   "region": "other",
   "stations": [
     {
@@ -630,6 +630,102 @@
       "clickCount": 0,
       "language": null,
       "curated": true
+    },
+    {
+      "id": "cope_madrid_fm_es_e696c5a4",
+      "title": "Cope Madrid FM",
+      "subtitle": "Radio",
+      "location": "Spain",
+      "genre": "Radio",
+      "countryCode": "ES",
+      "language": "spanish",
+      "clickCount": 22,
+      "bitrate": 64,
+      "streamUrl": "https://net1-cope-rrcast.flumotion.com/cope/net1-low.mp3"
+    },
+    {
+      "id": "just_witter_radio_gb_dd8ff30a",
+      "title": "just.witter Radio",
+      "subtitle": "Radio",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Radio",
+      "countryCode": "GB",
+      "language": null,
+      "clickCount": 12,
+      "bitrate": 0,
+      "streamUrl": "https://radio.justwitter.com/k7idQ"
+    },
+    {
+      "id": "jazz24_aac_64_kbit_us_aee52971",
+      "title": "Jazz24 [AAC/64 kbit]",
+      "subtitle": "Jazz",
+      "location": "The United States Of America",
+      "genre": "Jazz",
+      "countryCode": "US",
+      "language": "english",
+      "clickCount": 8,
+      "bitrate": 64,
+      "streamUrl": "https://knkx-live-a.edge.audiocdn.com/6285_64k"
+    },
+    {
+      "id": "trustfm_au_5bf0127a",
+      "title": "TrustFM",
+      "subtitle": "Blues",
+      "location": "Australia",
+      "genre": "Blues",
+      "countryCode": "AU",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "https://trust-canberra-b3c69c68.radiocult.fm/stream"
+    },
+    {
+      "id": "abc_sport_au_c6b9dd2c",
+      "title": "ABC Sport",
+      "subtitle": "Talk & Speech",
+      "location": "Australia",
+      "genre": "Talk & Speech",
+      "countryCode": "AU",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 56,
+      "streamUrl": "http://live-radio01.mediahubaustralia.com/GSDW/mp3/;"
+    },
+    {
+      "id": "90s_throwback_tracks_mp3_au_0dc83ec6",
+      "title": "90s Throwback Tracks (MP3)",
+      "subtitle": "1990S",
+      "location": "Australia",
+      "genre": "1990S",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "http://stream.zeno.fm/xo4hqc5s9djuv"
+    },
+    {
+      "id": "mixx_fm_charleroi_be_8305b2a3",
+      "title": "Mixx FM Charleroi",
+      "subtitle": "Radio",
+      "location": "Belgium",
+      "genre": "Radio",
+      "countryCode": "BE",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://mixxfm.ice.infomaniak.ch/mixxfm-192.mp3"
+    },
+    {
+      "id": "radio_sierra_de_aracena_es_f37d5e38",
+      "title": "Radio Sierra de Aracena",
+      "subtitle": "Radio",
+      "location": "Spain",
+      "genre": "Radio",
+      "countryCode": "ES",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 64,
+      "streamUrl": "https://server10.emitironline.com:10044/radio.mp3"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-09T04:23:34Z",
+  "updated": "2026-08-09T16:47:33Z",
   "region": "europe",
   "part": 7,
   "of": 8,
@@ -3292,19 +3292,6 @@
       "bitrate": 192
     },
     {
-      "id": "rb2_radioradio_fm_bca181fd",
-      "title": "RadioRadio.FM",
-      "subtitle": "Talk & Speech",
-      "imageUrl": "",
-      "streamUrl": "https://c16.radioboss.fm/stream/14",
-      "location": "Poland",
-      "genre": "Talk & Speech",
-      "countryCode": "PL",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_radiosdm_6beaad42",
       "title": "RadioSDM",
       "subtitle": "Radio",
@@ -4888,19 +4875,6 @@
       "streamUrl": "http://centova.radio.com.pt:9430/;",
       "location": "Viseu, Portugal",
       "genre": "Electro",
-      "countryCode": "PT",
-      "language": "portuguese",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_esta_o_di_ria_r_dio_viseu_96_8_fm_d132682d",
-      "title": "Estação Diária Rádio, Viseu – 96.8 FM",
-      "subtitle": "Radio",
-      "imageUrl": "https://www.968.fm/images/logo_mobile.png",
-      "streamUrl": "https://centova.radio.com.pt/proxy/430?mp=/stream",
-      "location": "Viseu, Portugal",
-      "genre": "Radio",
       "countryCode": "PT",
       "language": "portuguese",
       "clickCount": 0,
@@ -11022,19 +10996,6 @@
       "language": "english",
       "clickCount": 1,
       "bitrate": 320
-    },
-    {
-      "id": "rb2_radio_bra_ov_96523f02",
-      "title": "Radio Brașov",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://live.radiobrasov.ro/stream.mp3?nocache=${Math.random()}",
-      "location": "Romania",
-      "genre": "Radio",
-      "countryCode": "RO",
-      "language": "romanian",
-      "clickCount": 1,
-      "bitrate": 192
     },
     {
       "id": "rb2_radio_bucuresti_fm_960e70d8",
@@ -19201,19 +19162,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_anima_amoris_dt_ee904482",
-      "title": "Anima Amoris DT",
-      "subtitle": "Dub Techno, Electronica",
-      "imageUrl": "https://styles.redditmedia.com/t5_2t0dz/styles/communityIcon_jgesywb7e2931.png",
-      "streamUrl": "https://amoris.sknt.ru/dubtechno.mp3",
-      "location": "The Russian Federation",
-      "genre": "Dub Techno",
-      "countryCode": "RU",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_anima_amoris_deep_tech_house_e910b141",
       "title": "Anima Amoris Deep Tech House",
       "subtitle": "Radio",
@@ -24934,6 +24882,54 @@
       "clickCount": 5,
       "bitrate": 0,
       "streamUrl": "http://streaming.hitfm.rs:8000/hit"
+    },
+    {
+      "id": "karolina_rs_b47e58a5",
+      "title": "Karolina",
+      "subtitle": "Lounge",
+      "location": "Serbia",
+      "genre": "Lounge",
+      "countryCode": "RS",
+      "language": "serbian",
+      "clickCount": 8,
+      "bitrate": 0,
+      "streamUrl": "http://streaming.karolina.rs:8000/karolina"
+    },
+    {
+      "id": "radio_disco_party_disco_impreza_pl_e1213cb5",
+      "title": "Radio Disco Party - Disco Impreza",
+      "subtitle": "90S",
+      "location": "Poland",
+      "genre": "90S",
+      "countryCode": "PL",
+      "language": "polish",
+      "clickCount": 5,
+      "bitrate": 320,
+      "streamUrl": "https://s3.slotex.pl/shoutcast/7046/stream"
+    },
+    {
+      "id": "radio_opole_pl_0d61d50e",
+      "title": "Radio Opole",
+      "subtitle": "Variety",
+      "location": "Poland",
+      "genre": "Variety",
+      "countryCode": "PL",
+      "language": "polish",
+      "clickCount": 4,
+      "bitrate": 96,
+      "streamUrl": "http://dab.radio.opole.pl:8070/1"
+    },
+    {
+      "id": "radio_renascen_a_pt_efe0cf39",
+      "title": "Radio Renascença",
+      "subtitle": "Generalist",
+      "location": "Portugal",
+      "genre": "Generalist",
+      "countryCode": "PT",
+      "language": "portuguese",
+      "clickCount": 4,
+      "bitrate": 64,
+      "streamUrl": "https://22593.live.streamtheworld.com/RADIO_RENASCENCAAAC.aac"
     }
   ]
 }
