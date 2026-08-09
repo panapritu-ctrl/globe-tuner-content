@@ -6,10 +6,17 @@ stations confirmed live at the moment this last ran, instead of a static list
 that silently rots as stations go offline over time.
 
 Usage:
-    python3 verify_stations.py                 # verify + rewrite everything
-    python3 verify_stations.py --dry-run        # report only, no writes
-    python3 verify_stations.py --only radio     # radio | podcasts | audiobooks | devotional | all
+    python3 verify_stations.py                              # verify + rewrite everything
+    python3 verify_stations.py --dry-run                     # report only, no writes
+    python3 verify_stations.py --only radio                  # radio | podcasts | audiobooks | devotional | all
+    python3 verify_stations.py --only podcasts,devotional     # comma-separated selection
     python3 verify_stations.py --concurrency 300
+
+    # Radio-only deep check: HTTP reachability AND real decodable audio
+    # (via ffprobe), one 1/15th slice of the catalog per day so the full
+    # ~33k-station radio catalog gets fully re-verified every 15 days
+    # without one huge burst. See check_audio_real()/shard_of() below.
+    python3 verify_stations.py --only radio --ffprobe --shard-cycle-days 15 --concurrency 25
 
 Per-category safety valve: if a category's survival rate looks abnormal
 (e.g. almost everything "failed", which usually means a network/proxy
@@ -23,6 +30,8 @@ would otherwise flag a perfectly healthy run as failed. Look for
 """
 import argparse
 import asyncio
+import datetime
+import hashlib
 import json
 import sys
 import time
@@ -110,6 +119,64 @@ async def check_one(session: aiohttp.ClientSession, url: str, timeout: float) ->
     return False
 
 
+def shard_of(station_id: str, cycle_days: int) -> int:
+    """Stable shard assignment from the station's own id — NOT list
+    position, which would shift every time grow_stations.py inserts or
+    verify_stations.py removes something, silently skipping stations or
+    double-checking others across the cycle. Hashing the id keeps a given
+    station in the same shard for its whole life regardless of catalog
+    churn elsewhere."""
+    return int(hashlib.md5(str(station_id).encode()).hexdigest(), 16) % cycle_days
+
+
+def today_shard(cycle_days: int) -> int:
+    """Deterministic from the calendar date alone — no cursor file to
+    read/write/corrupt. If a scheduled run is ever delayed or skipped by
+    GitHub, the next run just computes whatever shard today's date maps
+    to; nothing compounds or drifts, it self-heals."""
+    return datetime.date.today().toordinal() % cycle_days
+
+
+async def check_audio_real(url: str, timeout: float) -> bool:
+    """Actually asks ffprobe to open the stream and identify a real,
+    decodable audio codec — catches the case a plain HTTP check can't:
+    a station whose web server is perfectly healthy (200 OK, plausible
+    Content-Type) but whose underlying encoder feed has died, so there's
+    no real audio behind the response. Capped analyze window so this stays
+    fast (a few seconds/KB, not downloading the whole stream) — format-
+    agnostic, so one method covers MP3/AAC/AAC+/Opus/Vorbis/whatever a
+    given station happens to use, no per-codec library needed.
+    """
+    cmd = [
+        "ffprobe", "-v", "error",
+        "-analyzeduration", "3000000",  # 3s of stream data
+        "-probesize", "131072",         # or 128KB, whichever comes first
+        "-select_streams", "a",
+        "-show_entries", "stream=codec_type",
+        "-of", "csv=p=0",
+        url,
+    ]
+    try:
+        proc = await asyncio.create_subprocess_exec(
+            *cmd,
+            stdout=asyncio.subprocess.PIPE,
+            stderr=asyncio.subprocess.DEVNULL,
+        )
+    except FileNotFoundError:
+        # ffprobe isn't installed on this runner — fail loudly rather than
+        # silently treating every station as "audio check failed" without
+        # ever actually checking. main() verifies ffprobe exists up front
+        # specifically so this path should never be hit in practice.
+        raise
+    try:
+        stdout, _ = await asyncio.wait_for(proc.communicate(), timeout=timeout + 3)
+    except asyncio.TimeoutError:
+        proc.kill()
+        await proc.wait()
+        return False
+    return proc.returncode == 0 and b"audio" in stdout
+
+
 async def check_archive_item(session: aiohttp.ClientSession, identifier: str, timeout: float) -> bool:
     """An Internet Archive item is 'live' if its metadata resolves and it
     actually lists at least one playable audio file — matching what
@@ -130,7 +197,7 @@ async def check_archive_item(session: aiohttp.ClientSession, identifier: str, ti
     return any(str(f.get("name", "")).lower().endswith(audio_exts) for f in files)
 
 
-async def verify_batch(items, url_field, concurrency, timeout, retries, archive_org=False):
+async def verify_batch(items, url_field, concurrency, timeout, retries, archive_org=False, ffprobe_timeout=None):
     sem = asyncio.Semaphore(concurrency)
     connector = aiohttp.TCPConnector(limit=concurrency, ttl_dns_cache=300)
     results = [None] * len(items)
@@ -144,6 +211,11 @@ async def verify_batch(items, url_field, concurrency, timeout, retries, archive_
                             else check_one(session, value, timeout))
                 if ok:
                     break
+            # Deep layer: only spent on items that already passed the cheap
+            # HTTP check — no point spawning an ffprobe process for a URL
+            # that's already confirmed unreachable.
+            if ok and ffprobe_timeout is not None:
+                ok = await check_audio_real(value, ffprobe_timeout)
             results[i] = ok
 
     async with aiohttp.ClientSession(connector=connector) as session:
@@ -191,6 +263,15 @@ async def process_kind(kind: str, cfg: dict, args) -> dict:
     total_after = 0
     all_kept = []
 
+    # Radio-only, opt-in: check just today's 1/Nth slice of the catalog
+    # instead of everything, so a daily run completes the full catalog once
+    # per N days without one huge burst. shard_of() is id-based (stable
+    # under catalog growth/shrinkage), today_shard() is date-based (no
+    # cursor file needed — self-heals if a run is ever missed).
+    shard_days = args.shard_cycle_days if (kind == "radio" and args.shard_cycle_days) else None
+    todays_shard = today_shard(shard_days) if shard_days else None
+    ffprobe_timeout = args.timeout if (kind == "radio" and args.ffprobe) else None
+
     files = index.get("files", [])
     for rel_file in files:
         file_path = REPO_ROOT / rel_file
@@ -201,25 +282,57 @@ async def process_kind(kind: str, cfg: dict, args) -> dict:
         items = data.get("stations") if "stations" in data else data.get("items", [])
         key = "stations" if "stations" in data else "items"
 
-        print(f"[{kind}] {rel_file}: verifying {len(items)} items...")
-        results = await verify_batch(items, url_field, args.concurrency, args.timeout, args.retries, archive_org)
+        if shard_days:
+            to_check_idx = [i for i, it in enumerate(items) if shard_of(it.get("id", ""), shard_days) == todays_shard]
+        else:
+            to_check_idx = list(range(len(items)))
+        to_check = [items[i] for i in to_check_idx]
+
+        shard_note = f" (shard {todays_shard}/{shard_days}, rest untouched today)" if shard_days else ""
+        probe_note = " + ffprobe audio check" if ffprobe_timeout else ""
+        print(f"[{kind}] {rel_file}: verifying {len(to_check)}/{len(items)} items{shard_note}{probe_note}...")
+
+        results = await verify_batch(to_check, url_field, args.concurrency, args.timeout, args.retries,
+                                      archive_org, ffprobe_timeout=ffprobe_timeout)
+        result_by_idx = dict(zip(to_check_idx, results))
+
         # Curated items (manually vetted on user request, not bulk-imported
         # from an API) are always kept regardless of this run's check result
         # — a transient failure here shouldn't silently delete something a
         # human specifically asked to add. Still checked and logged so a
         # persistently-dead curated entry is visible, just never auto-removed.
-        kept = [it for it, ok in zip(items, results) if ok or it.get("curated")]
-        still_flagged = sum(1 for it, ok in zip(items, results) if not ok and it.get("curated"))
+        kept = []
+        still_flagged = 0
+        checked_count = 0
+        checked_passed = 0
+        for i, it in enumerate(items):
+            if i not in result_by_idx:
+                kept.append(it)  # not today's shard — left exactly as-is
+                continue
+            checked_count += 1
+            ok = result_by_idx[i]
+            if ok:
+                checked_passed += 1
+                kept.append(it)
+            elif it.get("curated"):
+                still_flagged += 1
+                kept.append(it)
+            # else: genuinely dropped
         if still_flagged:
             print(f"    (kept {still_flagged} curated item(s) despite a failed check this run)")
-        dropped = len(items) - len(kept)
+        dropped = checked_count - checked_passed - still_flagged
 
-        total_before += len(items)
-        total_after += len(kept)
+        # Safety-valve ratio is computed against the CHECKED subset, not the
+        # whole file — with sharding, the untouched majority would otherwise
+        # always trivially "survive" and mask a genuinely bad day for the
+        # slice actually checked today.
+        total_before += checked_count
+        total_after += checked_passed + still_flagged
         all_kept.extend(kept)
         per_file.append((file_path, data, key, kept))
 
-        print(f"  -> {len(kept)}/{len(items)} still live ({dropped} removed)")
+        print(f"  -> {checked_passed + still_flagged}/{checked_count} checked items still live ({dropped} removed); "
+              f"{len(kept)}/{len(items)} total remain in file")
 
     # Per-category safety valve: this used to only check the OVERALL ratio
     # across all four categories, which let audiobooks/devotional silently
@@ -273,7 +386,11 @@ async def process_kind(kind: str, cfg: dict, args) -> dict:
 
 
 async def main_async(args):
-    kinds = list(KINDS.keys()) if args.only in (None, "all") else [args.only]
+    kinds = list(KINDS.keys()) if args.only in (None, "all") else args.only.split(",")
+    unknown = [k for k in kinds if k not in KINDS]
+    if unknown:
+        print(f"Unknown --only value(s): {unknown} — choose from {list(KINDS.keys())} or 'all'", file=sys.stderr)
+        return 2
     summary = []
     for kind in kinds:
         summary.append(await process_kind(kind, KINDS[kind], args))
@@ -300,11 +417,25 @@ async def main_async(args):
 def main():
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     parser.add_argument("--dry-run", action="store_true", help="Report only, don't modify files")
-    parser.add_argument("--only", choices=["radio", "podcasts", "audiobooks", "devotional", "all"], default="all")
+    parser.add_argument("--only", default="all",
+                         help="Comma-separated: radio,podcasts,audiobooks,devotional — or 'all' (default)")
     parser.add_argument("--concurrency", type=int, default=200)
     parser.add_argument("--timeout", type=float, default=8.0, help="Per-request timeout in seconds")
     parser.add_argument("--retries", type=int, default=2)
+    parser.add_argument("--ffprobe", action="store_true",
+                         help="Radio only: also verify real decodable audio via ffprobe, not just HTTP reachability")
+    parser.add_argument("--shard-cycle-days", type=int, default=None,
+                         help="Radio only: check just 1/Nth of the catalog today (id-hash based), "
+                              "so a daily run fully re-verifies everything once every N days")
     args = parser.parse_args()
+
+    if args.ffprobe:
+        import shutil
+        if shutil.which("ffprobe") is None:
+            print("--ffprobe was requested but ffprobe is not on PATH — install ffmpeg first "
+                  "(apt-get install -y ffmpeg on the GitHub Actions runner). Refusing to silently "
+                  "run without the check it was asked to perform.", file=sys.stderr)
+            sys.exit(2)
 
     exit_code = asyncio.run(main_async(args))
     sys.exit(exit_code)
