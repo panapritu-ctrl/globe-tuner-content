@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-08T03:07:02Z",
+  "updated": "2026-08-09T04:23:34Z",
   "region": "europe",
   "part": 6,
   "of": 8,
@@ -8614,15 +8614,6 @@
       "bitrate": 192
     },
     {
-      "id": "aquarelle_fm_md",
-      "title": "Aquarelle FM",
-      "subtitle": "MP3 128kbps",
-      "location": "Chișinău, The Republic Of Moldova",
-      "genre": "Music",
-      "countryCode": "MD",
-      "streamUrl": "http://93.115.137.75:8000/aquarellefm.mp3"
-    },
-    {
       "id": "city_fm_md",
       "title": "CITY FM",
       "subtitle": "Pop",
@@ -9951,19 +9942,6 @@
       "bitrate": 192
     },
     {
-      "id": "rb2_makedonsko_radio_1_radio_skopje_de34f39b",
-      "title": "Makedonsko Radio 1 - Radio Skopje",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://vod-c57.interspace.com/channel_abr/47/playlist.m3u8",
-      "location": "Republic Of North Macedonia",
-      "genre": "Radio",
-      "countryCode": "MK",
-      "language": "macedonian",
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
       "id": "rb_metropolis_radio_network_434f2c63",
       "title": "Metropolis Radio Network",
       "subtitle": "Club, Electronic",
@@ -10366,19 +10344,6 @@
       "genre": "Talk",
       "countryCode": "MT",
       "streamUrl": "https://s4.radio.co/sf3aa4c25a/listen"
-    },
-    {
-      "id": "rb_campus_103_7_b93e26d9",
-      "title": "Campus 103.7",
-      "subtitle": "Radio",
-      "imageUrl": "https://cdn-profiles.tunein.com/s18846/images/logod.png?t=638303682800000000",
-      "streamUrl": "https://campusfm.radioca.st/campusfm_live",
-      "location": "Malta",
-      "genre": "Radio",
-      "countryCode": "MT",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 192
     },
     {
       "id": "rb_christmas_radio_malta_5acaf6b3",
@@ -11623,19 +11588,6 @@
       "bitrate": 256
     },
     {
-      "id": "rb2_concertzender_klassieke_muziek_bd025e00",
-      "title": "ConcertZender Klassieke Muziek",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://streams.greenhost.nl:8080/klassiek",
-      "location": "The Netherlands",
-      "genre": "Radio",
-      "countryCode": "NL",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_concertgebouworkest_webradio_f60944f6",
       "title": "Concertgebouworkest Webradio",
       "subtitle": "Radio",
@@ -12311,45 +12263,6 @@
       "language": null,
       "clickCount": 0,
       "bitrate": 192
-    },
-    {
-      "id": "rb2_flevoziekenomroep_fzo_aacplus_stream_6bbf773a",
-      "title": "FlevoZiekenOmroep (FZO) AACPLUS stream",
-      "subtitle": "Various Pop Hits Oldies Easylistening Nederlands Top40 Nederlandstalig Hollands Dutch Hospitalradio Ziekenomroep",
-      "imageUrl": "https://www.fzo.nu/logo-ss.png",
-      "streamUrl": "http://stream2.fzo.nu/studio.aac",
-      "location": "flevoland, The Netherlands",
-      "genre": "Various Pop Hits Oldies Easylistening Nederlands Top40 Nederlandstalig Hollands Dutch Hospitalradio Ziekenomroep",
-      "countryCode": "NL",
-      "language": "dutch",
-      "clickCount": 0,
-      "bitrate": 160
-    },
-    {
-      "id": "rb2_flevoziekenomroep_fzo_mp3_stream_5b064cd3",
-      "title": "FlevoZiekenOmroep (FZO) MP3 stream",
-      "subtitle": "Various Pop Hits Oldies Easylistening Nederlands Top40 Nederlandstalig Hollands Dutch Hospitalradio Ziekenomroep",
-      "imageUrl": "https://www.fzo.nu/logo-ss.png",
-      "streamUrl": "http://stream1.fzo.nu/studio.mp3",
-      "location": "flevoland, The Netherlands",
-      "genre": "Various Pop Hits Oldies Easylistening Nederlands Top40 Nederlandstalig Hollands Dutch Hospitalradio Ziekenomroep",
-      "countryCode": "NL",
-      "language": "dutch",
-      "clickCount": 0,
-      "bitrate": 160
-    },
-    {
-      "id": "rb2_flevoziekenomroep_hls_audio_091d98b4",
-      "title": "FlevoZiekenOmroep (HLS audio)",
-      "subtitle": "Music",
-      "imageUrl": "https://www.flevoziekenomroep.nl/images/stories/header_bg1.svg",
-      "streamUrl": "https://video.fzo.nu/live.m3u8",
-      "location": "Flevoland, Almere, The Netherlands",
-      "genre": "Music",
-      "countryCode": "NL",
-      "language": "dutch",
-      "clickCount": 0,
-      "bitrate": 52
     },
     {
       "id": "rb2_focus_103_a294ce18",
@@ -26144,6 +26057,114 @@
       "clickCount": 4,
       "bitrate": 96,
       "streamUrl": "https://28973.live.streamtheworld.com/WEB06_AAC.aac"
+    },
+    {
+      "id": "radio_grp_it_488c7468",
+      "title": "Radio GRP",
+      "subtitle": "Hits",
+      "location": "Italy",
+      "genre": "Hits",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 8,
+      "bitrate": 0,
+      "streamUrl": "http://onair15.xdevel.com:8092/;"
+    },
+    {
+      "id": "radio_megamix_80_it_32010043",
+      "title": "Radio Megamix 80",
+      "subtitle": "80'S Hits",
+      "location": "Italy",
+      "genre": "80'S Hits",
+      "countryCode": "IT",
+      "language": "english",
+      "clickCount": 7,
+      "bitrate": 192,
+      "streamUrl": "http://centova.ipstream.it/proxy/megamix80/stream"
+    },
+    {
+      "id": "adoro_classic_it_f4ebda37",
+      "title": "ADORO CLASSIC",
+      "subtitle": "Radio",
+      "location": "Italy",
+      "genre": "Radio",
+      "countryCode": "IT",
+      "language": null,
+      "clickCount": 7,
+      "bitrate": 128,
+      "streamUrl": "https://stream.deegay.fm/deegay2.mp3?id=KeCYrcTWRj&FLID=1&aw_0_req.gdpr=true&listenerid=79ac2cc9cb7616aca4d7286d94dd9291&awparams=companionAds%3Atrue"
+    },
+    {
+      "id": "radio_105_miami_it_6f22538a",
+      "title": "Radio 105 - Miami",
+      "subtitle": "Dance",
+      "location": "Italy",
+      "genre": "Dance",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "http://icy.unitedradio.it/105Miami.mp3"
+    },
+    {
+      "id": "sky_radio_smooth_hits_nl_0a15bd85",
+      "title": "Sky Radio Smooth Hits",
+      "subtitle": "Smooth",
+      "location": "The Netherlands",
+      "genre": "Smooth",
+      "countryCode": "NL",
+      "language": "dutch",
+      "clickCount": 5,
+      "bitrate": 64,
+      "streamUrl": "http://22713.live.streamtheworld.com/SRGSTR15AAC_SC"
+    },
+    {
+      "id": "kink_classics_nl_806b620e",
+      "title": "KINK CLASSICS",
+      "subtitle": "Alternative Classics",
+      "location": "The Netherlands",
+      "genre": "Alternative Classics",
+      "countryCode": "NL",
+      "language": "dutch",
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "http://22613.live.streamtheworld.com/KINK_DNA_SC"
+    },
+    {
+      "id": "npo_radio_4_concerten_nl_748fd744",
+      "title": "NPO Radio 4 - Concerten",
+      "subtitle": "Classic",
+      "location": "The Netherlands",
+      "genre": "Classic",
+      "countryCode": "NL",
+      "language": "dutch",
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "http://icecast.omroep.nl/radio4-eigentijds-mp3"
+    },
+    {
+      "id": "105_story_it_fb92f02e",
+      "title": "105 Story",
+      "subtitle": "Radio",
+      "location": "Italy",
+      "genre": "Radio",
+      "countryCode": "IT",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://icy.unitedradio.it/105Story.mp3?aw_0_req.userConsentV2=&listenerId=e01becbe77271731a6ab06043a29ef98"
+    },
+    {
+      "id": "adoro_chillin_it_6a642dc8",
+      "title": "ADORO CHILLIN'",
+      "subtitle": "Radio",
+      "location": "Italy",
+      "genre": "Radio",
+      "countryCode": "IT",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream.deegay.fm/deegay3.mp3?id=Oa9irZz5Qm&FLID=1&aw_0_req.gdpr=true&listenerid=79ac2cc9cb7616aca4d7286d94dd9291&awparams=companionAds%3Atrue"
     }
   ]
 }

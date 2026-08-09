@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-08T03:07:02Z",
+  "updated": "2026-08-09T04:23:34Z",
   "region": "europe",
   "part": 1,
   "of": 8,
@@ -7602,19 +7602,6 @@
       "language": "dutch",
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_slow_radio_06803d46",
-      "title": "Slow Radio",
-      "subtitle": "Pop",
-      "imageUrl": "https://nl.slowradio.be/img/favicons/favicon-32x32.png",
-      "streamUrl": "http://stream1.slowradio.com/",
-      "location": "Belgium",
-      "genre": "Pop",
-      "countryCode": "BE",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 192
     },
     {
       "id": "rb2_stadsradio_halle_7574a2ee",
@@ -27526,6 +27513,78 @@
       "clickCount": 4,
       "bitrate": 192,
       "streamUrl": "https://strm112.1.fm/moviesoundtracks_mobile_mp3?"
+    },
+    {
+      "id": "club_by_rautemusik_rm_fm_de_d98127ee",
+      "title": "__CLUB__ by rautemusik (rm.fm)",
+      "subtitle": "Dance",
+      "location": "Germany",
+      "genre": "Dance",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 17,
+      "bitrate": 192,
+      "streamUrl": "https://club-high.rautemusik.fm/?ref=radiobrowser"
+    },
+    {
+      "id": "retro_lofi_chiptune_radio_de_525e0554",
+      "title": "Retro Lofi Chiptune Radio",
+      "subtitle": "16-Bit",
+      "location": "Germany",
+      "genre": "16-Bit",
+      "countryCode": "DE",
+      "language": "english",
+      "clickCount": 10,
+      "bitrate": 0,
+      "streamUrl": "https://a5.asurahosting.com:8150/radio.mp3"
+    },
+    {
+      "id": "tomorrowland_one_world_radio_anthems_be_1a8db50e",
+      "title": "Tomorrowland One World Radio - Anthems",
+      "subtitle": "Dance",
+      "location": "Belgium",
+      "genre": "Dance",
+      "countryCode": "BE",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_ANTHEMS_ADP.aac"
+    },
+    {
+      "id": "radio_lagoshevtsi_bg_8a960f79",
+      "title": "Radio Lagoshevtsi",
+      "subtitle": "Radio",
+      "location": "Bulgaria",
+      "genre": "Radio",
+      "countryCode": "BG",
+      "language": "bulgarian",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://radio.vidinlan.com/mp3"
+    },
+    {
+      "id": "energy_90s_bg_509a67bd",
+      "title": "Energy 90s",
+      "subtitle": "Radio",
+      "location": "Bulgaria",
+      "genre": "Radio",
+      "countryCode": "BG",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://play.global.audio/energy-90s"
+    },
+    {
+      "id": "lider_fm_by_48d0ed8b",
+      "title": "Lider FM",
+      "subtitle": "Chr",
+      "location": "Belarus",
+      "genre": "Chr",
+      "countryCode": "BY",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 160,
+      "streamUrl": "https://icecast.lider-fm.by/liderfm"
     }
   ]
 }

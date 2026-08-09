@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-08T03:07:02Z",
+  "updated": "2026-08-09T04:23:34Z",
   "region": "europe",
   "part": 7,
   "of": 8,
@@ -3144,19 +3144,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_radio_zmys_owe_1e083ce5",
-      "title": "Radio Zmysłowe",
-      "subtitle": "Radio",
-      "imageUrl": "https://zmyslowe.com.pl/img/giphy3.gif",
-      "streamUrl": "https://s3.slotex.pl/shoutcast/7166/stream?sid=1",
-      "location": "Poland",
-      "genre": "Radio",
-      "countryCode": "PL",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "radio_z_ote_przeboje_bia_ystok_pl_465760",
       "title": "Radio Złote Przeboje Białystok",
       "subtitle": "Radio",
@@ -6263,19 +6250,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_r_dio_clube_de_gr_ndola_96198adc",
-      "title": "Rádio Clube de Grândola",
-      "subtitle": "Adult Contemporary, Jazz",
-      "imageUrl": "",
-      "streamUrl": "http://link.radios.pt/rcg",
-      "location": "Setúbal, Portugal",
-      "genre": "Adult Contemporary",
-      "countryCode": "PT",
-      "language": "portuguese",
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_r_dio_clube_de_lamego_99660eba",
       "title": "Rádio Clube de Lamego",
       "subtitle": "Religion",
@@ -7983,19 +7957,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_center_deejay_bra_ov_dj_radio_romania_eecbd85e",
-      "title": "Center Deejay Brașov -DJ Radio Romania",
-      "subtitle": "Dance, Petrecere",
-      "imageUrl": "https://www.centerdeejay.ro/wp-content/uploads/2020/12/logo-dj-radio-round-blk-bg-300x300.png",
-      "streamUrl": "https://djradio.ro/stream",
-      "location": "Romania",
-      "genre": "Dance",
-      "countryCode": "RO",
-      "language": "română",
-      "clickCount": 0,
-      "bitrate": 64
-    },
-    {
       "id": "rb2_chill_fm_6f96c929",
       "title": "Chill FM",
       "subtitle": "Radio",
@@ -9492,19 +9453,6 @@
       "countryCode": "RO",
       "language": "română",
       "clickCount": 3,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_gold_fm_96_9_cbb2ea6b",
-      "title": "Gold FM 96,9",
-      "subtitle": "Radio",
-      "imageUrl": "https://radiogoldfm.ro/wp-content/uploads/2021/04/logo2.png",
-      "streamUrl": "https://live.radiogoldfm.ro:8443/WP.mp3",
-      "location": "Romania",
-      "genre": "Radio",
-      "countryCode": "RO",
-      "language": null,
-      "clickCount": 0,
       "bitrate": 128
     },
     {
@@ -24938,6 +24886,54 @@
       "clickCount": 5,
       "bitrate": 192,
       "streamUrl": "https://s3.slotex.pl:7278/stream/"
+    },
+    {
+      "id": "radio_1_manele_ro_4499ab4a",
+      "title": "Radio 1 Manele",
+      "subtitle": "Manele",
+      "location": "Romania",
+      "genre": "Manele",
+      "countryCode": "RO",
+      "language": "romanian",
+      "clickCount": 10,
+      "bitrate": 128,
+      "streamUrl": "http://radio1manele.no-ip.org:8000/;"
+    },
+    {
+      "id": "tdi_radio_rs_951d94ca",
+      "title": "TDI Radio",
+      "subtitle": "Club",
+      "location": "Serbia",
+      "genre": "Club",
+      "countryCode": "RS",
+      "language": "serbian",
+      "clickCount": 7,
+      "bitrate": 0,
+      "streamUrl": "http://streaming.tdiradio.com:8000/tdiradio"
+    },
+    {
+      "id": "balamuc_fm_cluj_napoca_ro_f3dcb904",
+      "title": "Balamuc_Fm -Cluj Napoca",
+      "subtitle": "Manele",
+      "location": "Romania",
+      "genre": "Manele",
+      "countryCode": "RO",
+      "language": "română",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://asculta.muzicaok.de:8040/stream"
+    },
+    {
+      "id": "hit_fm_radio_beograd_rs_7dc8a286",
+      "title": "Hit FM Radio Beograd",
+      "subtitle": "Serbian Music",
+      "location": "Serbia",
+      "genre": "Serbian Music",
+      "countryCode": "RS",
+      "language": "serbian",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "http://streaming.hitfm.rs:8000/hit"
     }
   ]
 }

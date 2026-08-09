@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-08T03:02:15Z",
+  "updated": "2026-08-09T04:23:34Z",
   "region": "oceania",
   "stations": [
     {
@@ -12544,19 +12544,6 @@
       "bitrate": 64
     },
     {
-      "id": "rb2_lofty_community_media_beee2145",
-      "title": "Lofty Community Media",
-      "subtitle": "Adelaide Hills, Australian",
-      "imageUrl": "https://lofty.org.au/wp-content/uploads/2017/11/Loftyavatar-300x300.png",
-      "streamUrl": "https://stream01.sigile.net/lofty-48-aac",
-      "location": "South Australia, Australia",
-      "genre": "Adelaide Hills",
-      "countryCode": "AU",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 24
-    },
-    {
       "id": "rb2_loving_life_fm_grafton_103_1_fm_aac_a7a9eb42",
       "title": "Loving Life FM - Grafton - 103.1 FM (AAC)",
       "subtitle": "Christian, Community Radio",
@@ -20001,6 +19988,30 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://livecast1.soundofhope.org:2087/soh-live"
+    },
+    {
+      "id": "abc_grandstand_aac_au_8b3d23c1",
+      "title": "ABC Grandstand (AAC)",
+      "subtitle": "Abc",
+      "location": "Australia",
+      "genre": "Abc",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 56,
+      "streamUrl": "http://live-radio02.mediahubaustralia.com/GSDW/aac/;"
+    },
+    {
+      "id": "pure_hits_retro_au_3c671789",
+      "title": "Pure Hits RETRO",
+      "subtitle": "Classic Hits",
+      "location": "Australia",
+      "genre": "Classic Hits",
+      "countryCode": "AU",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://stream10.as.amplifystreaming.com/radio/8010/retro_128.aac"
     }
   ]
 }

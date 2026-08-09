@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-08T03:07:02Z",
+  "updated": "2026-08-09T04:23:34Z",
   "region": "europe",
   "part": 8,
   "of": 8,
@@ -7060,19 +7060,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_drumfunk_ru_0b98e78b",
-      "title": "drumfunk.ru",
-      "subtitle": "Breakcore",
-      "imageUrl": "",
-      "streamUrl": "https://ice.drumfunk.ru:8050/on.mp3",
-      "location": "The Russian Federation",
-      "genre": "Breakcore",
-      "countryCode": "RU",
-      "language": null,
-      "clickCount": 3,
-      "bitrate": 192
-    },
-    {
       "id": "lofi_ru_2dba6e",
       "title": "lofi",
       "subtitle": "Lofi",
@@ -8923,19 +8910,6 @@
       "streamUrl": "http://emgregion.hostingradio.ru:8064/kostroma.dorognoe.mp3",
       "location": "The Russian Federation",
       "genre": "Dorognoe Radio",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_100_8_fm_6c22c058",
-      "title": "Дорожное радио Котельнич 100.8 FM",
-      "subtitle": "Dorognoe, Koteľnich",
-      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250108_194425393.jpg?alt=media&token=cc879f0a-2245-4bbd-bac0-f5ac19258c62",
-      "streamUrl": "http://185.76.147.85:8000/dorozhnoe_kotelnich",
-      "location": "The Russian Federation",
-      "genre": "Dorognoe",
       "countryCode": "RU",
       "language": "russian",
       "clickCount": 0,
@@ -11779,19 +11753,6 @@
       "language": "russian",
       "clickCount": 0,
       "bitrate": 64
-    },
-    {
-      "id": "rb2_7_101_8_fm_674fe943",
-      "title": "Радио 7 Петрозаводск 101.8 FM",
-      "subtitle": "Kareliya, Music",
-      "imageUrl": "",
-      "streamUrl": "http://217.77.59.76:8000/radio7",
-      "location": "The Russian Federation",
-      "genre": "Kareliya",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 0,
-      "bitrate": 128
     },
     {
       "id": "7_ru_e4a7e1",
@@ -21766,19 +21727,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_best_fm_95_6_c95e5456",
-      "title": "Best fm 95,6",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://radio.bestfm.ua/bestfm",
-      "location": "Ukraine",
-      "genre": "Radio",
-      "countryCode": "UA",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 160
-    },
-    {
       "id": "blues_rock_radio_ua",
       "title": "Blues & Rock Radio",
       "subtitle": "Blues / Blues Rock",
@@ -21852,15 +21800,6 @@
       "genre": "Dance",
       "countryCode": "UA",
       "streamUrl": "https://s5.radioforge.com:7908/live?n=77357"
-    },
-    {
-      "id": "fm_1_ua",
-      "title": "FM 1 Перше Радіо",
-      "subtitle": "Information / Local News",
-      "location": "Ukraine",
-      "genre": "News",
-      "countryCode": "UA",
-      "streamUrl": "http://195.138.81.134:8000/radio1-256"
     },
     {
       "id": "rb2_fm_disco_melody_70f82553",
@@ -22264,19 +22203,6 @@
       "countryCode": "UA",
       "language": "english",
       "clickCount": 2,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_momingmy_radio_c3233dde",
-      "title": "Momingmy radio",
-      "subtitle": "Radio",
-      "imageUrl": "https://momingmy.tk/assets/images/elicicon-96x96.png",
-      "streamUrl": "http://momingmy.tk:8880/music.ogg",
-      "location": "Ukraine",
-      "genre": "Radio",
-      "countryCode": "UA",
-      "language": null,
-      "clickCount": 1,
       "bitrate": 128
     },
     {
@@ -25023,6 +24949,18 @@
       "clickCount": 5,
       "bitrate": 320,
       "streamUrl": "https://cst.res.ad/rw320"
+    },
+    {
+      "id": "radio_svoboda_ua_b9327247",
+      "title": "Radio Svoboda (Радіо Свобода)",
+      "subtitle": "News",
+      "location": "Ukraine",
+      "genre": "News",
+      "countryCode": "UA",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://n04.radiojar.com/hcrb063nn3quv?rj-ttl=5&rj-tok=AAABijO2KqMAvyNNc6ijVnKFQA"
     }
   ]
 }

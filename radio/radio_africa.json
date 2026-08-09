@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-08T03:07:02Z",
+  "updated": "2026-08-09T04:23:34Z",
   "region": "africa",
   "stations": [
     {
@@ -1813,19 +1813,6 @@
       "bitrate": 192
     },
     {
-      "id": "rb2_angel_fm_c23388c0",
-      "title": "Angel FM",
-      "subtitle": "Arts, Entertainment",
-      "imageUrl": "https://cdn-profiles.tunein.com/s110138/images/logoq.jpg?t=158204",
-      "streamUrl": "https://atunwadigital.streamguys1.com/angelfm",
-      "location": "Ghana",
-      "genre": "Arts",
-      "countryCode": "GH",
-      "language": "akan",
-      "clickCount": 3,
-      "bitrate": 64
-    },
-    {
       "id": "asaase_radio_99_5fm_accra_gh",
       "title": "Asaase Radio 99.5FM Accra",
       "subtitle": "Cape Coast / Entertainment",
@@ -2099,19 +2086,6 @@
       "genre": "News",
       "countryCode": "GH",
       "streamUrl": "https://mmg.streamguys1.com/JoyFM-mp3?key=8689cc761932e3151f94ddbdbfdf4aa0f4000234b5caeaaa179a2fc0d59a4be9b8b774c3653cb14d1fd76f5cbf80e482&awparams=playerid%3ASGplayer%3B&amsparams=playerid%3ASGplayer%3Bskey%3A1609840716923%3B&aw_0_req.gdpr=true&us_privacy=1YNN"
-    },
-    {
-      "id": "rb2_kasapa_fm_917e0b8d",
-      "title": "Kasapa Fm",
-      "subtitle": "Entertainment, Music",
-      "imageUrl": "https://cdn-radiotime-logos.tunein.com/s174903g.png",
-      "streamUrl": "https://node-14.zeno.fm/3eh6htuyk8quv?rj-ttl=5&rj-tok=AAABdtNl8EgAdZnDMY_58aoknA",
-      "location": "Ghana",
-      "genre": "Entertainment",
-      "countryCode": "GH",
-      "language": "akan",
-      "clickCount": 3,
-      "bitrate": 128
     },
     {
       "id": "rb2_kastle_fm_ec8a87cb",
@@ -4417,15 +4391,6 @@
       "countryCode": "NG"
     },
     {
-      "id": "nigeria_info_ng_36d4a7",
-      "title": "Nigeria Info",
-      "subtitle": "Radio",
-      "location": "Nigeria",
-      "genre": "Radio",
-      "countryCode": "NG",
-      "streamUrl": "https://nigeriainfofmlagos993-atunwadigital.streamguys1.com/nigeriainfofmlagos993"
-    },
-    {
       "id": "nigerian_gospel_music_radio_mp3_ng_f8d499",
       "title": "Nigerian Gospel Music Radio (MP3)",
       "subtitle": "Christian",
@@ -5451,15 +5416,6 @@
       "language": "english",
       "clickCount": 5,
       "bitrate": 128
-    },
-    {
-      "id": "radio_express_fm_tn",
-      "title": "Radio Express FM",
-      "subtitle": "Business News / Economic News",
-      "location": "Tunisia",
-      "genre": "News",
-      "countryCode": "TN",
-      "streamUrl": "https://expressfm.ice.infomaniak.ch/expressfm-64.mp3"
     },
     {
       "id": "rb2_radio_monastir_bd4c6426",
@@ -9252,6 +9208,66 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "https://stream-158.zeno.fm/f3wvbbqmdg8uv"
+    },
+    {
+      "id": "top_congo_fm_cd_c09c1f2b",
+      "title": "Top Congo FM",
+      "subtitle": "Informations",
+      "location": "The Democratic Republic Of The Congo",
+      "genre": "Informations",
+      "countryCode": "CD",
+      "language": "french",
+      "clickCount": 28,
+      "bitrate": 96,
+      "streamUrl": "https://topcongofm2.ice.infomaniak.ch/topcongofm2-64.mp3"
+    },
+    {
+      "id": "top_congo_fm_88_4_kinshasa_cd_690c2201",
+      "title": "Top Congo FM 88.4 Kinshasa",
+      "subtitle": "African Music",
+      "location": "The Democratic Republic Of The Congo",
+      "genre": "African Music",
+      "countryCode": "CD",
+      "language": "french",
+      "clickCount": 8,
+      "bitrate": 96,
+      "streamUrl": "http://topcongofm2.ice.infomaniak.ch/topcongofm2-64.mp3"
+    },
+    {
+      "id": "rts_kaolack_103_sn_9c6f9b0e",
+      "title": "RTS Kaolack 103",
+      "subtitle": "Regional",
+      "location": "Senegal",
+      "genre": "Regional",
+      "countryCode": "SN",
+      "language": "french",
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "https://stream.zeno.fm/2fkd4h0ts1duv.m4a"
+    },
+    {
+      "id": "radio_jam_ci_d52e2de8",
+      "title": "Radio Jam",
+      "subtitle": "African Music",
+      "location": "Coted Ivoire",
+      "genre": "African Music",
+      "countryCode": "CI",
+      "language": "french",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://listen.radioking.com/radio/61201/stream/98566"
+    },
+    {
+      "id": "central_fm_107_1_thi_s_sn_6a93b3b5",
+      "title": "Central FM 107.1 Thiés",
+      "subtitle": "Music",
+      "location": "Senegal",
+      "genre": "Music",
+      "countryCode": "SN",
+      "language": "french",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://stream.zeno.fm/t2e45xqkunhvv"
     }
   ]
 }

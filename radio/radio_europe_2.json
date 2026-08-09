@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-08T03:07:02Z",
+  "updated": "2026-08-09T04:23:34Z",
   "region": "europe",
   "part": 2,
   "of": 8,
@@ -10511,19 +10511,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_radio_dreyeckland_0a068ad9",
-      "title": "Radio Dreyeckland",
-      "subtitle": "Frei, Politisch",
-      "imageUrl": "",
-      "streamUrl": "http://www.rdl.de:8000/rdl",
-      "location": "Baden, Germany",
-      "genre": "Frei",
-      "countryCode": "DE",
-      "language": "german",
-      "clickCount": 6,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_radio_duisburg_7c5a80b4",
       "title": "Radio Duisburg",
       "subtitle": "Lokalradio",
@@ -18214,19 +18201,6 @@
       "bitrate": 160
     },
     {
-      "id": "rb2_coloradio_ce3326ed",
-      "title": "coloRadio",
-      "subtitle": "Community Radio, Dresden",
-      "imageUrl": "https://i0.wp.com/coloradio.org/wp-content/uploads/2020/03/cropped-colologo3_bearbeitet-1-1.jpg?fit=180%2c180&#038;ssl=1",
-      "streamUrl": "http://streaming.fueralle.org:8000/coloradio_160.mp3",
-      "location": "Saxony, Germany",
-      "genre": "Community Radio",
-      "countryCode": "DE",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_core_mix_9626d6b0",
       "title": "core-mix",
       "subtitle": "Deathcore, Emocore",
@@ -23474,19 +23448,6 @@
       "bitrate": 96
     },
     {
-      "id": "rb2_ai_global_news_7db9cb52",
-      "title": "AI Global News",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://aiglobalnewsradio.com/stream.mp3",
-      "location": "Spain",
-      "genre": "Radio",
-      "countryCode": "ES",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_antenita_0531c2e0",
       "title": "ANTENITA",
       "subtitle": "Radio",
@@ -26417,15 +26378,6 @@
       "bitrate": 128
     },
     {
-      "id": "funky_tracks_radio_barcelona_es_62bf52",
-      "title": "FUNKY TRACKS RADIO Barcelona",
-      "subtitle": "80S",
-      "location": "Catalunya, Spain",
-      "genre": "80S",
-      "streamUrl": "http://streaming2.elitecomunicacion.es:8134/stream",
-      "countryCode": "ES"
-    },
-    {
       "id": "rb2_felove_biblia_en_espa_ol_846abb9e",
       "title": "FeLove Biblia en Español",
       "subtitle": "Bible, Biblia",
@@ -28706,6 +28658,18 @@
       "clickCount": 6,
       "bitrate": 0,
       "streamUrl": "https://azura.hpsbassline.club/listen/haapsaly_bassline/radio.mp3"
+    },
+    {
+      "id": "plantland_radio_dk_e43b868c",
+      "title": "Plantland Radio",
+      "subtitle": "Ambient",
+      "location": "Denmark",
+      "genre": "Ambient",
+      "countryCode": "DK",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://radio.plantlandradio.com/listen/plantland_radio/radio.mp3"
     }
   ]
 }
