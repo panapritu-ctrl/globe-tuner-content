@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-09T16:47:33Z",
+  "updated": "2026-08-10T01:33:07Z",
   "region": "europe",
   "part": 1,
   "of": 8,
@@ -7476,19 +7476,6 @@
       "language": null,
       "clickCount": 0,
       "bitrate": 64
-    },
-    {
-      "id": "rb2_radio_sud_e132b003",
-      "title": "Radio Sud",
-      "subtitle": "Radio",
-      "imageUrl": "https://www.radiosud.be/favicon/android-icon-192x192.png",
-      "streamUrl": "https://streaming.domainepublic.net/radiosud.mp3",
-      "location": "Belgium",
-      "genre": "Radio",
-      "countryCode": "BE",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 128
     },
     {
       "id": "rb2_radio_sunshine_97_5_ostbelgien_4d27971f",
@@ -16019,19 +16006,6 @@
       "bitrate": 192
     },
     {
-      "id": "rb2_ai_musicworld_24187e3c",
-      "title": "ai-musicworld",
-      "subtitle": "Art Rock, Neoclassical",
-      "imageUrl": "",
-      "streamUrl": "http://s6.citrus3.com:8936/stream",
-      "location": "Kanton Bern, Switzerland",
-      "genre": "Art Rock",
-      "countryCode": "CH",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_electroradio_fm_dac67c12",
       "title": "electroradio.fm",
       "subtitle": "Electronic",
@@ -17833,19 +17807,6 @@
       "genre": "Hip Hop",
       "streamUrl": "http://icecast-u2.play.cz:8000/spin128.mp3",
       "countryCode": "CZ"
-    },
-    {
-      "id": "rb2_radio_slobodna_evropa_81deb949",
-      "title": "Radio Slobodna Evropa",
-      "subtitle": "Radio",
-      "imageUrl": "https://www.slobodnaevropa.org/Content/responsive/RFE/sh-SH/img/logo.svg",
-      "streamUrl": "https://n08.radiojar.com/bugesa4nn3quv?rj-ttl=5&rj-tok=AAABikFH4NsAib8tua7OjeefLg",
-      "location": "Czechia",
-      "genre": "Radio",
-      "countryCode": "CZ",
-      "language": "bosnian",
-      "clickCount": 0,
-      "bitrate": 128
     },
     {
       "id": "rb2_radio_svoboda_ru_official_stream_979f5cb0",
@@ -19894,19 +19855,6 @@
       "countryCode": "DE",
       "language": "german",
       "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_1_a_deutsch_rap_von_1a_radio_c839ca40",
-      "title": "- 1 A - Deutsch Rap von 1A Radio",
-      "subtitle": "Hip Hop, Rap",
-      "imageUrl": "https://www.1aradio.com/logos/1a-deutsch-rap_600x600.jpg",
-      "streamUrl": "https://1a-deutschrap.radionetz.de/1a-deutschrap.mp3",
-      "location": "Bayern, Germany",
-      "genre": "Hip Hop",
-      "countryCode": "DE",
-      "language": "german",
-      "clickCount": 1,
       "bitrate": 128
     },
     {
@@ -27609,6 +27557,78 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://sv.netradio.by/1/128"
+    },
+    {
+      "id": "radio_bob_rockt_schleswig_holstein_de_caaebddd",
+      "title": "RADIO BOB! rockt Schleswig-Holstein",
+      "subtitle": "Rock",
+      "location": "Germany",
+      "genre": "Rock",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 10,
+      "bitrate": 0,
+      "streamUrl": "http://streams.radiobob.de/bob-shlive/mp3-192/mediaplayer"
+    },
+    {
+      "id": "symphonische_blasmusik_de_fc7f09e5",
+      "title": "Symphonische Blasmusik",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 9,
+      "bitrate": 128,
+      "streamUrl": "https://symphonische-blasmusik.stream.laut.fm/symphonische-blasmusik?t302=2026-08-09_11-46-17&uuid=ef4dca3f-4706-4a0a-a459-321e4d898828"
+    },
+    {
+      "id": "metro_love_80s_bg_dab35262",
+      "title": "Metro Love 80s",
+      "subtitle": "Pop",
+      "location": "Bulgaria",
+      "genre": "Pop",
+      "countryCode": "BG",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://eu1.reliastream.com/proxy/love80?mp=/MLR80S"
+    },
+    {
+      "id": "fresh_by_0176d0ad",
+      "title": "Новое радио - Fresh",
+      "subtitle": "Dance",
+      "location": "Belarus",
+      "genre": "Dance",
+      "countryCode": "BY",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://live.novoeradio.by:444/live/novoeradio_fresh_aac128/icecast.audio"
+    },
+    {
+      "id": "transhits_at_9929813a",
+      "title": "transhits",
+      "subtitle": "Classical",
+      "location": "Austria",
+      "genre": "Classical",
+      "countryCode": "AT",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "http://radiorecord.hostingradio.ru/trancehits96.aacp"
+    },
+    {
+      "id": "big_radio_2_banja_luka_ba_65cd0b29",
+      "title": "BIG Radio 2 Banja Luka",
+      "subtitle": "Radio",
+      "location": "Bosnia And Herzegovina",
+      "genre": "Radio",
+      "countryCode": "BA",
+      "language": "serbian",
+      "clickCount": 3,
+      "bitrate": 36,
+      "streamUrl": "https://big2.bigportal.ba:8080/big2"
     }
   ]
 }

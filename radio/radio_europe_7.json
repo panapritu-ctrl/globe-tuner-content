@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-09T16:47:33Z",
+  "updated": "2026-08-10T01:33:07Z",
   "region": "europe",
   "part": 7,
   "of": 8,
@@ -12439,19 +12439,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_radio_party_bucure_ti_a84c4b0c",
-      "title": "Radio Party București",
-      "subtitle": "Manele, Manele Si Petrecere",
-      "imageUrl": "http://radiopartybucuresti.ro/wp-content/uploads/2019/04/logoborder.png",
-      "streamUrl": "http://asculta.radiopartybucuresti.ro:8050/;",
-      "location": "Romania",
-      "genre": "Manele",
-      "countryCode": "RO",
-      "language": "romanian",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_radio_petrec_retzu_ac8fd250",
       "title": "Radio Petrecăretzu",
       "subtitle": "Etno, Muzică De Petrecere",
@@ -14222,19 +14209,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_tranquila_manele_rom_nia_87dc3921",
-      "title": "Tranquila Manele România",
-      "subtitle": "Manele",
-      "imageUrl": "https://radiotranquila.net/wp-content/uploads/2022/11/RADIO-TRANQUILA-1.png",
-      "streamUrl": "https://live.radiotranquila.net:8032/stream",
-      "location": "Romania",
-      "genre": "Manele",
-      "countryCode": "RO",
-      "language": "romania",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_transilvania_statia_baia_mare_106_1_fm_ec37d05e",
       "title": "Transilvania -statia Baia Mare 106.1 FM",
       "subtitle": "Local News, Local Radio",
@@ -15707,19 +15681,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_naxi_fresh_radio_f80267c3",
-      "title": "Naxi Fresh Radio",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://naxidigital-fresh128ssl.streaming.rs:8212/;stream.nsv",
-      "location": "Serbia",
-      "genre": "Radio",
-      "countryCode": "RS",
-      "language": "serbian",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "naxi_gold_radio_rs_ca4f9d",
       "title": "Naxi Gold Radio",
       "subtitle": "Radio",
@@ -16672,19 +16633,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_radio_fantasy_vrbas_712477ab",
-      "title": "Radio Fantasy Vrbas",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://109.206.96.34:8575/;stream.nsv",
-      "location": "Serbia",
-      "genre": "Radio",
-      "countryCode": "RS",
-      "language": "serbian",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_radio_fruska_gora_16d4b49e",
       "title": "Radio Fruska Gora",
       "subtitle": "Radio",
@@ -17542,19 +17490,6 @@
       "language": "serbian",
       "clickCount": 0,
       "bitrate": 320
-    },
-    {
-      "id": "rb2_radio_stari_grad_2da7d113",
-      "title": "Radio Stari Grad",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://stream.rsg.rs:8043/;stream.nsv",
-      "location": "Serbia",
-      "genre": "Radio",
-      "countryCode": "RS",
-      "language": "serbian",
-      "clickCount": 0,
-      "bitrate": 128
     },
     {
       "id": "rb2_radio_sunset_249a2f45",
@@ -19233,19 +19168,6 @@
       "countryCode": "RU",
       "language": null,
       "clickCount": 1,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_anima_amoris_idm_ba3477ca",
-      "title": "Anima Amoris IDM",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://amoris.sknt.ru/idm.mp3",
-      "location": "Saint-Petersburg, The Russian Federation",
-      "genre": "Radio",
-      "countryCode": "RU",
-      "language": null,
-      "clickCount": 0,
       "bitrate": 128
     },
     {
@@ -24836,18 +24758,6 @@
       "streamUrl": "https://s3.slotex.pl:7278/stream/"
     },
     {
-      "id": "radio_1_manele_ro_4499ab4a",
-      "title": "Radio 1 Manele",
-      "subtitle": "Manele",
-      "location": "Romania",
-      "genre": "Manele",
-      "countryCode": "RO",
-      "language": "romanian",
-      "clickCount": 10,
-      "bitrate": 128,
-      "streamUrl": "http://radio1manele.no-ip.org:8000/;"
-    },
-    {
       "id": "tdi_radio_rs_951d94ca",
       "title": "TDI Radio",
       "subtitle": "Club",
@@ -24930,6 +24840,18 @@
       "clickCount": 4,
       "bitrate": 64,
       "streamUrl": "https://22593.live.streamtheworld.com/RADIO_RENASCENCAAAC.aac"
+    },
+    {
+      "id": "posto_emissor_do_funchal_pef_canal_2_fm_pt_9503bc56",
+      "title": "Posto Emissor do Funchal (PEF) - Canal 2 FM",
+      "subtitle": "Radio",
+      "location": "Portugal",
+      "genre": "Radio",
+      "countryCode": "PT",
+      "language": "portuguese",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://centova.radio.com.pt/proxy/426?mp=/stream;"
     }
   ]
 }

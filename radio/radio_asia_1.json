@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-09T16:47:03Z",
+  "updated": "2026-08-10T01:33:07Z",
   "region": "asia",
   "part": 1,
   "of": 3,
@@ -22604,19 +22604,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_station_abd5d9d1",
-      "title": "沅江综合广播",
-      "subtitle": "5G智慧电台",
-      "imageUrl": "",
-      "streamUrl": "https://liveplay-srs.voc.com.cn/hls/broadcast/163_a8d90e.m3u8",
-      "location": "Hunan, China",
-      "genre": "5G智慧电台",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_fm103_9_451e71dc",
       "title": "沈阳新民广播FM103.9",
       "subtitle": "News",
@@ -24525,19 +24512,6 @@
       "countryCode": "CN",
       "language": "chinese",
       "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_2_24648e9f",
-      "title": "湖北之声（调频版）（2）",
-      "subtitle": "News",
-      "imageUrl": "",
-      "streamUrl": "https://lhttp.qingting.fm/live/1303/64k.mp3",
-      "location": "Hupei, China",
-      "genre": "News",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 1,
       "bitrate": 128
     },
     {
@@ -27582,6 +27556,30 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "http://live-hls-audio-web-aja.getaj.net/VOICE-AJA/01.m3u8"
+    },
+    {
+      "id": "quran_af_a8ca66d5",
+      "title": ".Quran",
+      "subtitle": "Classical",
+      "location": "Afghanistan",
+      "genre": "Classical",
+      "countryCode": "AF",
+      "language": null,
+      "clickCount": 15,
+      "bitrate": 128,
+      "streamUrl": "https://backup.qurango.net/radio/ahmad_khader_altarabulsi"
+    },
+    {
+      "id": "c_r_arturo_toscanini_ae_7667a23e",
+      "title": "C.R. - Arturo Toscanini",
+      "subtitle": "Classical",
+      "location": "The United Arab Emirates",
+      "genre": "Classical",
+      "countryCode": "AE",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "http://drive.uber.radio/uber/crarturotoscanini/icecast.audio"
     }
   ]
 }
