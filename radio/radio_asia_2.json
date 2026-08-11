@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-10T01:33:07Z",
+  "updated": "2026-08-11T01:30:01Z",
   "region": "asia",
   "part": 2,
   "of": 3,
@@ -741,19 +741,6 @@
       "streamUrl": "http://ls.qingting.fm/live/4601.m3u8",
       "location": "China",
       "genre": "Radio",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_station_b1cf5c49",
-      "title": "邳州人民广播电台",
-      "subtitle": "Music, News",
-      "imageUrl": "",
-      "streamUrl": "http://lhttp.qingting.fm/live/2809/64k.mp3",
-      "location": "Kiangsu, China",
-      "genre": "Music",
       "countryCode": "CN",
       "language": "chinese",
       "clickCount": 0,
@@ -3256,19 +3243,6 @@
       "language": "greek",
       "clickCount": 2,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_love_fm_3ee0ecc7",
-      "title": "Love FM",
-      "subtitle": "Radio",
-      "imageUrl": "http://www.lovefm.com.cy/uploads/6/2/2/6/62260227/lovefm-logo-copy.png",
-      "streamUrl": "http://eradio.networksolutions.com.cy:1935/LoveRadio/Loveradio.stream/playlist.m3u8",
-      "location": "Cyprus",
-      "genre": "Radio",
-      "countryCode": "CY",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 250
     },
     {
       "id": "rb2_lugaradio_4ca94892",
@@ -23502,18 +23476,6 @@
       "streamUrl": "http://hot.out.airtime.pro:8000/hot_a?_ga=2.158331450.1016847427.1656651399-%20396439986.1656651399"
     },
     {
-      "id": "one_fm_lb_47e84461",
-      "title": "One FM",
-      "subtitle": "Music",
-      "location": "Lebanon",
-      "genre": "Music",
-      "countryCode": "LB",
-      "language": "arabic",
-      "clickCount": 6,
-      "bitrate": 170,
-      "streamUrl": "https://hms.pfs.gdn/v1/broadcast/onefmaudio/playlist.m3u8"
-    },
-    {
       "id": "sananta_fm_tegal_id_db7956dd",
       "title": "Sananta FM Tegal",
       "subtitle": "Radio",
@@ -23764,6 +23726,162 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "https://stream.zeno.fm/n86me57rzv8uv"
+    },
+    {
+      "id": "radio_bongonet_monophone_in_73cc11ad",
+      "title": "Radio BongOnet MonoPhone",
+      "subtitle": "Radio",
+      "location": "India",
+      "genre": "Radio",
+      "countryCode": "IN",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "http://radio.rudeep.ru:8000/stream"
+    },
+    {
+      "id": "hki_cn_210ebda2",
+      "title": "HKI",
+      "subtitle": "Tourism",
+      "location": "China",
+      "genre": "Tourism",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "http://player4.juyun.tv/camera/158562106.m3u8"
+    },
+    {
+      "id": "100_8_insania_fm_makassar_id_ea36eddd",
+      "title": "100,8 Insania FM Makassar",
+      "subtitle": "Radio",
+      "location": "Indonesia",
+      "genre": "Radio",
+      "countryCode": "ID",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 96,
+      "streamUrl": "https://stream-sg1.galuhmedia.co.id/listen/insaniamakassar/1008makassar"
+    },
+    {
+      "id": "glz_il_9a4f5570",
+      "title": "Glz",
+      "subtitle": "Radio",
+      "location": "Israel",
+      "genre": "Radio",
+      "countryCode": "IL",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "http://glzwizzlv.bynetcdn.com/glz_mp3?awCollectionId=misc&awEpisodeId=glz"
+    },
+    {
+      "id": "station_cn_d21514fc",
+      "title": "中国药科大学广播电台",
+      "subtitle": "Radio",
+      "location": "China",
+      "genre": "Radio",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://stream.zeno.fm/fk6yq08hx38uv"
+    },
+    {
+      "id": "fm100_3_cn_b6416350",
+      "title": "嵊州综合广播 FM100.3",
+      "subtitle": "Full Service",
+      "location": "China",
+      "genre": "Full Service",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://l.cztvcloud.com/channels/lantian/SXshengzhouaud/128k.m3u8"
+    },
+    {
+      "id": "fm90_6_cn_c6fafc72",
+      "title": "平湖广播 FM90.6（直播间视频流）",
+      "subtitle": "Full Service",
+      "location": "China",
+      "genre": "Full Service",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "http://l.cztvcloud.com/channels/lantian/SXpinghu4/720p.m3u8"
+    },
+    {
+      "id": "hong_kong_fantastic_tv_cn_2e3c0d4a",
+      "title": "Hong Kong Fantastic TV",
+      "subtitle": "Hls Video",
+      "location": "China",
+      "genre": "Hls Video",
+      "countryCode": "CN",
+      "language": "cantonese",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8"
+    },
+    {
+      "id": "universal_health_radio_cn_25151a36",
+      "title": "Universal Health Radio (中文)",
+      "subtitle": "Cdc",
+      "location": "China",
+      "genre": "Cdc",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 4,
+      "bitrate": 48,
+      "streamUrl": "https://radio.universalhealthradio.org/uhr-zh.mp3"
+    },
+    {
+      "id": "voks_radio_jogja_105_3_fm_id_26de5b6b",
+      "title": "Voks Radio Jogja 105.3 FM",
+      "subtitle": "Pop",
+      "location": "Indonesia",
+      "genre": "Pop",
+      "countryCode": "ID",
+      "language": "indonesian",
+      "clickCount": 4,
+      "bitrate": 256,
+      "streamUrl": "https://svara-stream.radioddns.net/yogyakarta_voksradio"
+    },
+    {
+      "id": "pop_fm_jogja_id_29debc78",
+      "title": "POP FM Jogja",
+      "subtitle": "Pop",
+      "location": "Indonesia",
+      "genre": "Pop",
+      "countryCode": "ID",
+      "language": "indonesian",
+      "clickCount": 4,
+      "bitrate": 64,
+      "streamUrl": "https://i.klikhost.com:9154/stream"
+    },
+    {
+      "id": "delta_99_2_fm_makassar_id_eddf2184",
+      "title": "Delta 99.2 FM Makassar",
+      "subtitle": "Hits",
+      "location": "Indonesia",
+      "genre": "Hits",
+      "countryCode": "ID",
+      "language": "indonesian",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream.radioalikhwan.com/listen/delta_fm_makassar/hd"
+    },
+    {
+      "id": "radio_ds_mumbai_in_a88c1175",
+      "title": "Radio DS mumbai",
+      "subtitle": "Music",
+      "location": "India",
+      "genre": "Music",
+      "countryCode": "IN",
+      "language": "hindi",
+      "clickCount": 4,
+      "bitrate": 64,
+      "streamUrl": "https://streamasiacdn.atc-labs.com/radiods.aac"
     }
   ]
 }

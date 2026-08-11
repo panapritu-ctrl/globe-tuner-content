@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-10T01:33:07Z",
+  "updated": "2026-08-11T01:30:00Z",
   "region": "europe",
   "part": 5,
   "of": 8,
@@ -8857,19 +8857,6 @@
       "language": "greek",
       "clickCount": 0,
       "bitrate": 32
-    },
-    {
-      "id": "rb2_102_c725047d",
-      "title": "Ι.Μ. Τρίκκης Γαρδικίου και Πύλης 102",
-      "subtitle": "Orthodox Christian, Religion",
-      "imageUrl": "http://resources.live24.gr/resources/images/stations/c452fdf8-141d-47f2-b240-ae49f3acf345.jpg",
-      "streamUrl": "http://s5.onweb.gr:8508/;",
-      "location": "Trikala, Greece",
-      "genre": "Orthodox Christian",
-      "countryCode": "GR",
-      "language": "greek",
-      "clickCount": 0,
-      "bitrate": 96
     },
     {
       "id": "rb2_station_5be1d358",
@@ -26221,19 +26208,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_radio_clandestina_bd26eed1",
-      "title": "Radio Clandestina",
-      "subtitle": "Classic Hits, Hits",
-      "imageUrl": "",
-      "streamUrl": "http://onair7.xdevel.com:7188/;",
-      "location": "Italy",
-      "genre": "Classic Hits",
-      "countryCode": "IT",
-      "language": "english",
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_radio_classica_10489554",
       "title": "Radio Classica",
       "subtitle": "Classical",
@@ -27780,6 +27754,42 @@
       "clickCount": 4,
       "bitrate": 160,
       "streamUrl": "https://derti.live24.gr/derty1000"
+    },
+    {
+      "id": "zucca_radio_gr_cc4efd10",
+      "title": "Zucca Radio",
+      "subtitle": "Radio",
+      "location": "Greece",
+      "genre": "Radio",
+      "countryCode": "GR",
+      "language": null,
+      "clickCount": 7,
+      "bitrate": 128,
+      "streamUrl": "https://stream.zuccaradio.com/stream"
+    },
+    {
+      "id": "rebetiko_sealabs_gr_ac367a28",
+      "title": "rebetiko sealabs",
+      "subtitle": "Radio",
+      "location": "Greece",
+      "genre": "Radio",
+      "countryCode": "GR",
+      "language": "greek",
+      "clickCount": 5,
+      "bitrate": 40,
+      "streamUrl": "https://rebetiko.sealabs.net/radio"
+    },
+    {
+      "id": "984_gr_4a668754",
+      "title": "Αθήνα 984",
+      "subtitle": "Municipal",
+      "location": "Greece",
+      "genre": "Municipal",
+      "countryCode": "GR",
+      "language": "greek",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://athina984.live24.gr/athina984"
     }
   ]
 }

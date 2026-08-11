@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-10T01:32:35Z",
+  "updated": "2026-08-11T01:30:01Z",
   "region": "europe",
   "part": 8,
   "of": 8,
@@ -8903,19 +8903,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_100_9_fm_ecc7285c",
-      "title": "Дорожное радио Липецк 100.9 FM",
-      "subtitle": "Music",
-      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240817_141027685.jpg?alt=media&token=e360fbcf-773f-4278-84a7-4f415071e633",
-      "streamUrl": "http://s0.radioheart.ru:8000/RH75656",
-      "location": "The Russian Federation",
-      "genre": "Music",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_106_5_fm_aee0f089",
       "title": "Дорожное радио Луга 106.5 FM",
       "subtitle": "Chanson, Luga",
@@ -15607,19 +15594,6 @@
       "bitrate": 64
     },
     {
-      "id": "rb2_104_8_fm_fe11e0ae",
-      "title": "Русское радио Кострома 104.8 FM",
-      "subtitle": "Kostroma, Music",
-      "imageUrl": "",
-      "streamUrl": "http://s0.radioheart.ru:8000/rr_44",
-      "location": "The Russian Federation",
-      "genre": "Kostroma",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_100_5_fm_f6b65b6b",
       "title": "Русское радио Липецк 100.5 FM",
       "subtitle": "Music",
@@ -16403,19 +16377,6 @@
       "streamUrl": "https://fpsnew2.listen2myradio.com:2199/listen.php?ip=212.84.160.3&port=8386&type=s1",
       "location": "пос. Нижняя Пойма, The Russian Federation",
       "genre": "Лëгкая Музыка",
-      "countryCode": "RU",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_station_733888b8",
-      "title": "У-ФМ",
-      "subtitle": "Поп-Музыка",
-      "imageUrl": "https://streams.fmplay.ru/600x600/stations/6078a40973f3bnbg.png",
-      "streamUrl": "https://s.fmplay.ru/06643ef7",
-      "location": "Усть-Лабинск, The Russian Federation",
-      "genre": "Поп-Музыка",
       "countryCode": "RU",
       "language": null,
       "clickCount": 0,
@@ -18621,19 +18582,6 @@
       "language": null,
       "clickCount": 1,
       "bitrate": 192
-    },
-    {
-      "id": "rb2_sr_p4_radio_malm_hus_d2cdc958",
-      "title": "SR P4 Radio Malmöhus",
-      "subtitle": "Malmö, Malmöhus",
-      "imageUrl": "https://sverigesradio.se/icon.png",
-      "streamUrl": "https://ljud1-cdn.sr.se/lc/p4malm.m3u8",
-      "location": "Scania, Sweden",
-      "genre": "Malmö",
-      "countryCode": "SE",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 37
     },
     {
       "id": "rb2_svt_p1_192kps_ec17a150",
@@ -23029,19 +22977,6 @@
       "bitrate": 320
     },
     {
-      "id": "rb2_fm_97825a4f",
-      "title": "Богуслав FM",
-      "subtitle": "Information, Local News",
-      "imageUrl": "",
-      "streamUrl": "https://complex.in.ua/b320",
-      "location": "Ukraine",
-      "genre": "Information",
-      "countryCode": "UA",
-      "language": "ukrainian",
-      "clickCount": 0,
-      "bitrate": 320
-    },
-    {
       "id": "rb2_station_5095ccc8",
       "title": "Буковинська Хвиля",
       "subtitle": "Information, Music",
@@ -24902,18 +24837,6 @@
       "streamUrl": "https://radiorecord.hostingradio.ru/neurofunk96.aacp"
     },
     {
-      "id": "musical_decadence_radio_ru_771ba021",
-      "title": "Musical Decadence Radio",
-      "subtitle": "#Electro",
-      "location": "The Russian Federation",
-      "genre": "#Electro",
-      "countryCode": "RU",
-      "language": "english",
-      "clickCount": 6,
-      "bitrate": 128,
-      "streamUrl": "https://stream.musicaldecadence.ru/live"
-    },
-    {
       "id": "jazz_classic_ru_3eb3f1dc",
       "title": "Радио Jazz Classic",
       "subtitle": "Classic Jazz",
@@ -24984,6 +24907,66 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "https://radiorecord.hostingradio.ru/ps96.aacp"
+    },
+    {
+      "id": "groove_tribal_ru_912dd418",
+      "title": "Радио Рекорд Groove/Tribal",
+      "subtitle": "Radio",
+      "location": "The Russian Federation",
+      "genre": "Radio",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "http://radiorecord.hostingradio.ru/groovetribal96.aacp"
+    },
+    {
+      "id": "avtoradio_moscow_ru_72057929",
+      "title": "Avtoradio - Moscow",
+      "subtitle": "Pop Rock",
+      "location": "The Russian Federation",
+      "genre": "Pop Rock",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 48,
+      "streamUrl": "http://185.40.31.28:8000/station_93"
+    },
+    {
+      "id": "radio_caprice_industrial_dark_ritual_ambient_ru_afb86d71",
+      "title": "Radio Caprice Industrial/Dark/Ritual Ambient",
+      "subtitle": "Ambient",
+      "location": "The Russian Federation",
+      "genre": "Ambient",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 48,
+      "streamUrl": "http://79.120.39.202:8002/darkambient"
+    },
+    {
+      "id": "russian_gold_ru_bdae8f29",
+      "title": "Радио Рекорд Russian Gold",
+      "subtitle": "Radio",
+      "location": "The Russian Federation",
+      "genre": "Radio",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "http://radiorecord.hostingradio.ru/russiangold96.aacp"
+    },
+    {
+      "id": "7_rays_radio_ua_09d85bf4",
+      "title": "7 Rays Radio",
+      "subtitle": "Ambient",
+      "location": "Ukraine",
+      "genre": "Ambient",
+      "countryCode": "UA",
+      "language": "ukrainian",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://7rays.stream.laut.fm/7rays"
     }
   ]
 }

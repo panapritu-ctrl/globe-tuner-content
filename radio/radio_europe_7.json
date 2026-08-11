@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-10T01:33:07Z",
+  "updated": "2026-08-11T01:30:00Z",
   "region": "europe",
   "part": 7,
   "of": 8,
@@ -3760,19 +3760,6 @@
       "language": "polish",
       "clickCount": 0,
       "bitrate": 96
-    },
-    {
-      "id": "rb2_twoja_polska_stacja_8c111711",
-      "title": "Twoja Polska Stacja",
-      "subtitle": "Radio",
-      "imageUrl": "https://twojapolskastacja.pl/tps-logo.png",
-      "streamUrl": "https://sluchaj2.radiopark.biz.pl:8443/tpsapp",
-      "location": "Poland",
-      "genre": "Radio",
-      "countryCode": "PL",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
     },
     {
       "id": "rb2_twoje_radio_szczecin_cceb76f6",
@@ -15542,19 +15529,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_naxi_adore_680c416e",
-      "title": "Naxi Adore",
-      "subtitle": "Chansons, Mediterranean",
-      "imageUrl": "",
-      "streamUrl": "https://naxidigital-adore128ssl.streaming.rs:8332/;stream.nsv",
-      "location": "Serbia",
-      "genre": "Chansons",
-      "countryCode": "RS",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_naxi_blues_908aae74",
       "title": "Naxi Blues",
       "subtitle": "Rock",
@@ -15657,15 +15631,6 @@
       "language": "serbian",
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "naxi_exyu_radio_rs_a8dabf",
-      "title": "Naxi ExYu Radio",
-      "subtitle": "Radio",
-      "location": "Serbia",
-      "genre": "Radio",
-      "countryCode": "RS",
-      "streamUrl": "https://naxidigital-exyu128ssl.streaming.rs:8242/;stream.nsv"
     },
     {
       "id": "rb2_naxi_fitness_540955c9",
@@ -15775,19 +15740,6 @@
       "language": "serbian",
       "clickCount": 2,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_naxi_max_00588c5a",
-      "title": "Naxi MAX",
-      "subtitle": "Radio",
-      "imageUrl": "https://radiomaxcoka.com/img/naxi.png",
-      "streamUrl": "http://max96-naxinacional.streaming.rs:8530/;stream.nsv",
-      "location": "Serbia",
-      "genre": "Radio",
-      "countryCode": "RS",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 96
     },
     {
       "id": "rb2_naxi_millennium_radio_f12a0e36",
@@ -16850,19 +16802,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_radio_magnum_bbbcf668",
-      "title": "Radio Magnum",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://magnum.web-srbija.net:8121/;stream.nsv",
-      "location": "Serbia",
-      "genre": "Radio",
-      "countryCode": "RS",
-      "language": "serbian",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_radio_ma_kica_8b0cc20b",
       "title": "Radio Mačkica",
       "subtitle": "Radio",
@@ -17525,19 +17464,6 @@
       "streamUrl": "http://radio.eparhijabacka.info:8000/RadioTavor",
       "location": "Serbia",
       "genre": "Orthodox Christian",
-      "countryCode": "RS",
-      "language": "serbian",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_zelengrad_milwaukee_usa_c2f40439",
-      "title": "Radio Zelengrad - Milwaukee - USA",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://usa5.fastcast4u.com:16276/;stream.nsv",
-      "location": "Serbia",
-      "genre": "Radio",
       "countryCode": "RS",
       "language": "serbian",
       "clickCount": 0,
@@ -24852,6 +24778,90 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://centova.radio.com.pt/proxy/426?mp=/stream;"
+    },
+    {
+      "id": "naxi_exyu_radio_rs_cd758bf6",
+      "title": "Naxi ExYu Radio",
+      "subtitle": "Radio",
+      "location": "Serbia",
+      "genre": "Radio",
+      "countryCode": "RS",
+      "language": "serbian",
+      "clickCount": 21,
+      "bitrate": 128,
+      "streamUrl": "https://naxidigital-exyu128ssl.streaming.rs:8242/;stream.nsv"
+    },
+    {
+      "id": "radio_1_manele_ro_4499ab4a",
+      "title": "Radio 1 Manele",
+      "subtitle": "Manele",
+      "location": "Romania",
+      "genre": "Manele",
+      "countryCode": "RO",
+      "language": "romanian",
+      "clickCount": 8,
+      "bitrate": 128,
+      "streamUrl": "http://radio1manele.no-ip.org:8000/;"
+    },
+    {
+      "id": "radio_tequila_dance_romania_ro_6af324bf",
+      "title": "Radio Tequila Dance Romania",
+      "subtitle": "Pop",
+      "location": "Romania",
+      "genre": "Pop",
+      "countryCode": "RO",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "http://dance.radiotequila.ro:7000/;stream.nsv"
+    },
+    {
+      "id": "radio_kamchatka_live_chillout_ru_3412d5f2",
+      "title": "Radio Kamchatka LIVE chillout",
+      "subtitle": "#Chillout",
+      "location": "The Russian Federation",
+      "genre": "#Chillout",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 144,
+      "streamUrl": "http://radio.kamchatkalive.ru:8103/chillout"
+    },
+    {
+      "id": "antyradio_covers_pl_eadb1ee2",
+      "title": "Antyradio Covers",
+      "subtitle": "Covers",
+      "location": "Poland",
+      "genre": "Covers",
+      "countryCode": "PL",
+      "language": "polish",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://an.cdn.eurozet.pl/ANTCOV.mp3"
+    },
+    {
+      "id": "discoparty_pl_disco_polo_pl_f1fa1d31",
+      "title": "DiscoParty.pl - Disco Polo",
+      "subtitle": "Radio",
+      "location": "Poland",
+      "genre": "Radio",
+      "countryCode": "PL",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://s1.slotex.pl/shoutcast/7432/stream?sid=1"
+    },
+    {
+      "id": "antena_3_pt_2eac81a3",
+      "title": "Antena 3",
+      "subtitle": "Radio",
+      "location": "Portugal",
+      "genre": "Radio",
+      "countryCode": "PT",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 170,
+      "streamUrl": "https://streaming-live.rtp.pt/liveradio/antena380a/playlist.m3u8"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-10T01:33:07Z",
+  "updated": "2026-08-11T01:30:00Z",
   "region": "europe",
   "part": 1,
   "of": 8,
@@ -17177,15 +17177,6 @@
       "bitrate": 128
     },
     {
-      "id": "impuls_r_dio_cz_c45e34",
-      "title": "Impuls Ráááádio",
-      "subtitle": "Radio",
-      "location": "Czechia",
-      "genre": "Radio",
-      "streamUrl": "http://icecast5.play.cz/impuls128.mp3",
-      "countryCode": "CZ"
-    },
-    {
       "id": "j_1_televize_ji_n_echy_cz",
       "title": "JČ1 - Televize jižní Čechy",
       "subtitle": "Local News / News Talk",
@@ -17945,19 +17936,6 @@
       "countryCode": "CZ",
       "language": "czech",
       "clickCount": 4,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_rockzone_c7571cbe",
-      "title": "Rockzone",
-      "subtitle": "Radio",
-      "imageUrl": "http://www.rockzone.cz/favicon.ico",
-      "streamUrl": "http://icecast5.play.cz/rockzone128.mp3",
-      "location": "Czech Republic, Czechia",
-      "genre": "Radio",
-      "countryCode": "CZ",
-      "language": "czech",
-      "clickCount": 1,
       "bitrate": 128
     },
     {
@@ -27629,6 +27607,30 @@
       "clickCount": 3,
       "bitrate": 36,
       "streamUrl": "https://big2.bigportal.ba:8080/big2"
+    },
+    {
+      "id": "sr1_europawelle_de_37058fd9",
+      "title": "SR1 Europawelle",
+      "subtitle": "Europawelle",
+      "location": "Germany",
+      "genre": "Europawelle",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 10,
+      "bitrate": 128,
+      "streamUrl": "http://liveradio.sr.de/sr/sr1/mp3/128/stream.mp3?aggregator=custom1"
+    },
+    {
+      "id": "92_4_by_ebecffd5",
+      "title": "радио Минск 92.4",
+      "subtitle": "Музыка",
+      "location": "Belarus",
+      "genre": "Музыка",
+      "countryCode": "BY",
+      "language": "russian",
+      "clickCount": 5,
+      "bitrate": 160,
+      "streamUrl": "https://radio.mk.by:8443/radiominsk"
     }
   ]
 }
