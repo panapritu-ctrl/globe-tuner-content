@@ -1,10 +1,14 @@
-name: Verify stations (podcasts, audiobooks, devotional)
+name: Verify + grow (podcasts, audiobooks, devotional)
 
 # Re-checks every feed/item URL in this repo (EXCLUDING radio — that has its
 # own daily, sharded, ffprobe-audio-verified workflow now, see
 # verify-radio-daily.yml) and removes whatever is no longer reachable — so
 # the catalog stays a list of items confirmed live as of the last run
-# instead of slowly rotting. Runs on its own — no local machine needed.
+# instead of slowly rotting. Then runs each category's growth script
+# (grow_podcasts.py / grow_audiobooks.py / grow_devotional.py) so the
+# catalog keeps growing too, not just shrinking — mirrors the same
+# verify-then-grow pattern verify-radio-daily.yml already uses for radio.
+# Runs on its own — no local machine needed.
 on:
   schedule:
     # Weekly (Sunday 03:00 UTC). 40k+ HTTP checks take real time and GitHub
@@ -42,19 +46,34 @@ jobs:
         # Radio is deliberately excluded — see verify-radio-daily.yml.
         run: python3 verify_stations.py --only podcasts,audiobooks,devotional --concurrency 300 --timeout 8 --retries 2
 
+      - name: Grow podcasts (add new verified podcasts)
+        if: success() || failure()
+        run: python3 grow_podcasts.py --max-new 300 --concurrency 15 --timeout 12
+
+      - name: Grow audiobooks (add new verified audiobooks)
+        # Low hit rate is expected/normal here (archive.org content quality,
+        # not a script problem) — see grow_audiobooks.py's own docstring.
+        if: success() || failure()
+        run: python3 grow_audiobooks.py --max-new 300 --fetch-rows 800 --concurrency 15 --timeout 12
+
+      - name: Grow devotional (add new verified devotional items)
+        if: success() || failure()
+        run: python3 grow_devotional.py --max-new 200 --fetch-rows 800 --concurrency 15 --timeout 12
+
       - name: Commit + push if anything changed
         if: success() || failure()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           if git diff --quiet; then
-            echo "No changes — everything still verified live."
+            echo "No changes — everything still verified live, nothing new to add."
             exit 0
           fi
           git add -A
-          git commit -m "Auto-update: remove dead podcasts/audiobooks/devotional items
+          git commit -m "Auto-update (weekly): remove dead items, add newly verified ones
 
-          Scheduled run of verify_stations.py — see workflow run logs for
+          Scheduled run of verify_stations.py + grow_podcasts.py/
+          grow_audiobooks.py/grow_devotional.py — see workflow run logs for
           before/after counts. Radio is handled separately (daily/sharded),
           see verify-radio-daily.yml."
           git push
