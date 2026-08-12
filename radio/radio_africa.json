@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-11T01:30:00Z",
+  "updated": "2026-08-12T01:48:32Z",
   "region": "africa",
   "stations": [
     {
@@ -407,15 +407,6 @@
       "genre": "Music",
       "countryCode": "CM",
       "streamUrl": "http://139.84.240.171:8000/globe360"
-    },
-    {
-      "id": "mmuock_community_radio_cm",
-      "title": "Mmuock Community Radio",
-      "subtitle": "MP3 128kbps",
-      "location": "Southwest, Cameroon",
-      "genre": "Music",
-      "countryCode": "CM",
-      "streamUrl": "https://a7.asurahosting.com/listen/mmuock_community_radio_/radio.mp3"
     },
     {
       "id": "caboradio_cv",
@@ -2762,15 +2753,6 @@
       "language": null,
       "clickCount": 1,
       "bitrate": 128
-    },
-    {
-      "id": "jesus_is_lord_radio_ke_5b47e7",
-      "title": "JESUS IS LORD Radio",
-      "subtitle": "Christian",
-      "location": "Kenya",
-      "genre": "Christian",
-      "countryCode": "KE",
-      "streamUrl": "https://s3.radio.co/s97f38db97/listen"
     },
     {
       "id": "juja_fm_ke_32a53f",
@@ -9472,6 +9454,30 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://audio.afrobeatsfm.com:8443/;"
+    },
+    {
+      "id": "jesus_is_lord_radio_ke_f026db9f",
+      "title": "JESUS IS LORD Radio",
+      "subtitle": "Christian",
+      "location": "Kenya",
+      "genre": "Christian",
+      "countryCode": "KE",
+      "language": "chinese",
+      "clickCount": 7,
+      "bitrate": 48,
+      "streamUrl": "https://s3.radio.co/s97f38db97/listen"
+    },
+    {
+      "id": "kolo_mboka_fm_cd_bf94e85f",
+      "title": "Kolo-mboka fm",
+      "subtitle": "Divertissement",
+      "location": "The Democratic Republic Of The Congo",
+      "genre": "Divertissement",
+      "countryCode": "CD",
+      "language": "french",
+      "clickCount": 4,
+      "bitrate": 96,
+      "streamUrl": "https://kolo-mbokafm.volticast.net/kolo-mbokafm.mp3"
     }
   ]
 }

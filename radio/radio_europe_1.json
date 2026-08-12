@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-11T01:30:00Z",
+  "updated": "2026-08-12T01:48:32Z",
   "region": "europe",
   "part": 1,
   "of": 8,
@@ -3824,19 +3824,6 @@
       "bitrate": 192
     },
     {
-      "id": "rb2_novi_radio_biha_57b2875b",
-      "title": "Novi Radio Bihać",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://webtvstream.bhtelecom.ba/novi_radio_bihac.m3u8",
-      "location": "Bosnia And Herzegovina",
-      "genre": "Radio",
-      "countryCode": "BA",
-      "language": "bosnian",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_pakao_radio_23a0d2d4",
       "title": "Pakao Radio",
       "subtitle": "Rock",
@@ -4207,19 +4194,6 @@
       "countryCode": "BA",
       "language": "bosnian",
       "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_da_c64a7302",
-      "title": "Radio DAŠ",
-      "subtitle": "Folk",
-      "imageUrl": "",
-      "streamUrl": "http://158.69.119.6:8095/;&type=mp3",
-      "location": "Republic of Srpska, Bosnia And Herzegovina",
-      "genre": "Folk",
-      "countryCode": "BA",
-      "language": "serbian",
-      "clickCount": 2,
       "bitrate": 128
     },
     {
@@ -10546,19 +10520,6 @@
       "language": null,
       "clickCount": 0,
       "bitrate": 160
-    },
-    {
-      "id": "rb2_z_rock_alt_b6263bc5",
-      "title": "Z-Rock Alt",
-      "subtitle": "Radio",
-      "imageUrl": "http://193.108.24.6:8000/zrock.m3u",
-      "streamUrl": "http://193.108.24.6:8000/zrock",
-      "location": "Bulgaria",
-      "genre": "Radio",
-      "countryCode": "BG",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 128
     },
     {
       "id": "btv_radio_bg_f7f486",
@@ -27631,6 +27592,30 @@
       "clickCount": 5,
       "bitrate": 160,
       "streamUrl": "https://radio.mk.by:8443/radiominsk"
+    },
+    {
+      "id": "punkrockers_radio_de_207547f5",
+      "title": "Punkrockers Radio",
+      "subtitle": "Post-Hardcore",
+      "location": "Germany",
+      "genre": "Post-Hardcore",
+      "countryCode": "DE",
+      "language": "english",
+      "clickCount": 9,
+      "bitrate": 192,
+      "streamUrl": "http://stream.punkrockers-radio.de:8000/mp3"
+    },
+    {
+      "id": "alternative_by_9f40c763",
+      "title": "Еўрарадыё Alternative",
+      "subtitle": "Alternative",
+      "location": "Belarus",
+      "genre": "Alternative",
+      "countryCode": "BY",
+      "language": "belarusian",
+      "clickCount": 4,
+      "bitrate": 160,
+      "streamUrl": "http://stream1.euroradio.fm:8000/euroradio1?seed=1493710910"
     }
   ]
 }

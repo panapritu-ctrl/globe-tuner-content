@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-11T01:30:00Z",
+  "updated": "2026-08-12T01:48:32Z",
   "region": "europe",
   "part": 7,
   "of": 8,
@@ -9643,15 +9643,6 @@
       "bitrate": 128
     },
     {
-      "id": "lautaru_populara_ro_eac072",
-      "title": "Lautaru Populara",
-      "subtitle": "Radio",
-      "location": "Romania",
-      "genre": "Radio",
-      "streamUrl": "http://live.radiolautaru.ro:9000/;stream.nsv",
-      "countryCode": "RO"
-    },
-    {
       "id": "rb2_lazy_hour_radio_ad903065",
       "title": "Lazy Hour Radio",
       "subtitle": "Hits, Jazz",
@@ -16546,19 +16537,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_radio_blue_sky_51bb8b14",
-      "title": "Radio Blue Sky",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://82.114.72.2:8098/;stream.nsv",
-      "location": "Serbia",
-      "genre": "Radio",
-      "countryCode": "RS",
-      "language": "serbian",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_radio_bubonja_af0d2a6c",
       "title": "Radio Bubonja",
       "subtitle": "Folk",
@@ -19033,19 +19011,6 @@
       "countryCode": "RU",
       "language": null,
       "clickCount": 3,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_anima_amoris_dub_step_bd435043",
-      "title": "Anima Amoris Dub Step",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://amoris.sknt.ru/dubstep.mp3",
-      "location": "Saint-Petersburg, The Russian Federation",
-      "genre": "Radio",
-      "countryCode": "RU",
-      "language": null,
-      "clickCount": 0,
       "bitrate": 128
     },
     {
@@ -24862,6 +24827,66 @@
       "clickCount": 4,
       "bitrate": 170,
       "streamUrl": "https://streaming-live.rtp.pt/liveradio/antena380a/playlist.m3u8"
+    },
+    {
+      "id": "lautaru_populara_ro_fb71e48e",
+      "title": "Lautaru Populara",
+      "subtitle": "Radio",
+      "location": "Romania",
+      "genre": "Radio",
+      "countryCode": "RO",
+      "language": "romanian",
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "http://live.radiolautaru.ro:9000/;stream.nsv"
+    },
+    {
+      "id": "radio_noise_retro_ro_2f93937c",
+      "title": "Radio Noise Retro",
+      "subtitle": "Radio",
+      "location": "Romania",
+      "genre": "Radio",
+      "countryCode": "RO",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://retrolive.radionoise.ro:9120/stream"
+    },
+    {
+      "id": "music_radio_ru_e900f505",
+      "title": "ТНТ MUSIC RADIO",
+      "subtitle": "Radio",
+      "location": "The Russian Federation",
+      "genre": "Radio",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 160,
+      "streamUrl": "https://tntradio.hostingradio.ru:8027/tntradio128.mp3?radiostatistica=tntmusic.ru"
+    },
+    {
+      "id": "radio_bra_ov_ro_68acb1a5",
+      "title": "Radio Brașov",
+      "subtitle": "Radio",
+      "location": "Romania",
+      "genre": "Radio",
+      "countryCode": "RO",
+      "language": "romanian",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://live.radiobrasov.ro/stream.mp3?nocache=${Math.random()}"
+    },
+    {
+      "id": "station_ru_fd60e687",
+      "title": "Радио Максимум",
+      "subtitle": "Maximum",
+      "location": "The Russian Federation",
+      "genre": "Maximum",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "http://maximum.hostingradio.ru/maximum128.mp3"
     }
   ]
 }

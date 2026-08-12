@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-11T01:29:29Z",
+  "updated": "2026-08-12T01:48:32Z",
   "region": "europe",
   "part": 3,
   "of": 8,
@@ -3025,19 +3025,6 @@
       "bitrate": 256
     },
     {
-      "id": "rb2_radio_piratona_106_1_fm_vigo_92edc02b",
-      "title": "Radio Piratona 106.1 FM Vigo",
-      "subtitle": "Radio Libre",
-      "imageUrl": "https://sindominio.net/piratona/images/piratona_small.png",
-      "streamUrl": "https://zeppelin.streampunk.cc/_stream/radiopiratona.ogg",
-      "location": "Spain",
-      "genre": "Radio Libre",
-      "countryCode": "ES",
-      "language": "galego",
-      "clickCount": 0,
-      "bitrate": 160
-    },
-    {
       "id": "radio_planeta_costa_del_sol_es_6ad5e9",
       "title": "Radio Planeta Costa del Sol",
       "subtitle": "Dance",
@@ -4891,19 +4878,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_tdp_tv_4b8b39c7",
-      "title": "TDP TV",
-      "subtitle": "Deportes, Sports",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Teledeporte.svg/1200px-Teledeporte.svg.png",
-      "streamUrl": "https://ztnr.rtve.es/ztnr/1712295.m3u8",
-      "location": "Madrid, Spain",
-      "genre": "Deportes",
-      "countryCode": "ES",
-      "language": "castellano. español",
-      "clickCount": 2,
-      "bitrate": 3012
-    },
-    {
       "id": "rb2_tko_radio_costa_blanca_f149835f",
       "title": "TKO Radio Costa Blanca",
       "subtitle": "Radio",
@@ -6062,19 +6036,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_mtv_uutiset_beea9118",
-      "title": "MTV Uutiset",
-      "subtitle": "News, News Talk",
-      "imageUrl": "https://www.mtvuutiset.fi/favicon.ico",
-      "streamUrl": "https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8",
-      "location": "Finland",
-      "genre": "News",
-      "countryCode": "FI",
-      "language": "finnish",
-      "clickCount": 0,
-      "bitrate": 500
-    },
-    {
       "id": "rb2_m_kkiradio_8f872b57",
       "title": "Mökkiradio",
       "subtitle": "Community, Local",
@@ -6859,19 +6820,6 @@
       "language": "finnish",
       "clickCount": 5,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_yle_radio_1_ac04007e",
-      "title": "Yle Radio 1",
-      "subtitle": "Culture, Music",
-      "imageUrl": "https://images.cdn.yle.fi/image/upload/f_auto,c_fill,ar_1:1,w_384,q_auto/v1718639453/yle-radio-1_square",
-      "streamUrl": "https://yleradiolive.akamaized.net/hls/live/2027672/in-YleRadio1/master.m3u8",
-      "location": "Finland",
-      "genre": "Culture",
-      "countryCode": "FI",
-      "language": "finnish",
-      "clickCount": 0,
-      "bitrate": 256
     },
     {
       "id": "rb2_yle_radio_suomi_pori_d1ca287d",
@@ -12835,19 +12783,6 @@
       "bitrate": 192
     },
     {
-      "id": "rb2_france24_arabic_7b765c30",
-      "title": "France24 arabic",
-      "subtitle": "News",
-      "imageUrl": "",
-      "streamUrl": "http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8",
-      "location": "France",
-      "genre": "News",
-      "countryCode": "FR",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 1095
-    },
-    {
       "id": "rb2_franceculture_3f4306b9",
       "title": "FranceCulture",
       "subtitle": "Radio",
@@ -18293,15 +18228,6 @@
       "language": "french",
       "clickCount": 1,
       "bitrate": 128
-    },
-    {
-      "id": "oceanefm_fr_3f6587",
-      "title": "OceaneFM",
-      "subtitle": "Breizh",
-      "location": "Bretagne, France",
-      "genre": "Jazz",
-      "streamUrl": "https://stream.rcs.revma.com/4q26yzaf0v3vv",
-      "countryCode": "FR"
     },
     {
       "id": "rb2_ola_radio_ecb854f2",
@@ -27766,6 +27692,18 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_MADRID.mp3"
+    },
+    {
+      "id": "yle_radio_1_fi_0b49cd62",
+      "title": "Yle Radio 1",
+      "subtitle": "Culture",
+      "location": "Finland",
+      "genre": "Culture",
+      "countryCode": "FI",
+      "language": "finnish",
+      "clickCount": 6,
+      "bitrate": 256,
+      "streamUrl": "https://yleradiolive.akamaized.net/hls/live/2027672/in-YleRadio1/master.m3u8"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-11T01:30:01Z",
+  "updated": "2026-08-12T01:48:32Z",
   "region": "asia",
   "part": 2,
   "of": 3,
@@ -12189,15 +12189,6 @@
       "streamUrl": "https://drive.uber.radio/uber/bollywoodlove/icecast.audio"
     },
     {
-      "id": "ilayaraja_lite_radio_in_f24a5e",
-      "title": "Ilayaraja Lite Radio",
-      "subtitle": "Tamil Cinema Music",
-      "location": "India",
-      "genre": "Tamil Cinema Music",
-      "streamUrl": "https://psrlive2.listenon.in/irlite?ah=0e81749e37789e5fb8c290926ce87e3f",
-      "countryCode": "IN"
-    },
-    {
       "id": "ilayaraja_radio_in_ad55f7",
       "title": "Ilayaraja Radio",
       "subtitle": "Tamil Cinema Music",
@@ -14031,19 +14022,6 @@
       "language": "tamil",
       "clickCount": 0,
       "bitrate": 96
-    },
-    {
-      "id": "rb2_radio_terna_90_4_fm_d0b84438",
-      "title": "Radio Terna 90.4 FM",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://radio.garden/api/ara/content/listen/MzpZd2nQ/channel.mp3",
-      "location": "India",
-      "genre": "Radio",
-      "countryCode": "IN",
-      "language": "hindi",
-      "clickCount": 0,
-      "bitrate": 64
     },
     {
       "id": "rb2_radio_tirur_91cbe70e",
@@ -16589,19 +16567,6 @@
       "language": "hindi",
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_radiotarana_2d9fd8d2",
-      "title": "radiotarana",
-      "subtitle": "Radio",
-      "imageUrl": "https://radiosindia.com/images/radiotarana.jpg",
-      "streamUrl": "https://peridot.streamguys1.com:7150/Tarana.aac",
-      "location": "India",
-      "genre": "Radio",
-      "countryCode": "IN",
-      "language": "hindi",
-      "clickCount": 0,
-      "bitrate": 56
     },
     {
       "id": "rb2_radiovaanam_a61be9bc",
@@ -20158,19 +20123,6 @@
       "bitrate": 192
     },
     {
-      "id": "rb2_nour_mariam_tv_e158c479",
-      "title": "Nour Mariam TV",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://svs.itworkscdn.net/nour9satlive/livestream/playlist.m3u8",
-      "location": "Beirut, Lebanon",
-      "genre": "Radio",
-      "countryCode": "LB",
-      "language": "arabic",
-      "clickCount": 3,
-      "bitrate": 564
-    },
-    {
       "id": "radio_liban_lb_eec68c",
       "title": "Radio Liban",
       "subtitle": "Arabic Music",
@@ -21654,19 +21606,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb_myfm_101_80_a519d4f1",
-      "title": "MYFM (101.80)",
-      "subtitle": "Radio",
-      "imageUrl": "https://cdn.webrad.io/images/logos/radioonline-my/myfm.png",
-      "streamUrl": "https://n38a-eu.rcs.revma.com/hc3unrtbv4uvv/56_1t996oveblvvv02/playlist.m3u8?rj-ttl=5&rj-tok=AAABjmQzlooA5VQ0LCn-yOlhmQ",
-      "location": "Kuala Lumpur, Malaysia",
-      "genre": "Radio",
-      "countryCode": "MY",
-      "language": null,
-      "clickCount": 3,
-      "bitrate": 128
-    },
-    {
       "id": "melody_fm_malaysia_my_ec5557",
       "title": "Melody FM Malaysia",
       "subtitle": "Classical",
@@ -21698,19 +21637,6 @@
       "genre": "Radio",
       "countryCode": "MY",
       "language": null,
-      "clickCount": 2,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_myfriends_station_b9862ca3",
-      "title": "MyFriends Station",
-      "subtitle": "Classic Rock, Local Music",
-      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFrUvNKvz5C-uACMOrwvTwbg9MXwZwMHCh5A&usqp=CAU",
-      "streamUrl": "https://cast3.asurahosting.com/proxy/myfriend/stream",
-      "location": "Malaysia",
-      "genre": "Classic Rock",
-      "countryCode": "MY",
-      "language": "malay",
       "clickCount": 2,
       "bitrate": 128
     },
@@ -22698,16 +22624,6 @@
       "language": null,
       "clickCount": 1,
       "bitrate": 24
-    },
-    {
-      "id": "mirchi_play_club",
-      "title": "Club Mirchi",
-      "subtitle": "Dance & Hits",
-      "imageUrl": "https://radiosindia.com/images/clubmirchi.jpg",
-      "location": "Mumbai, India",
-      "genre": "Bollywood",
-      "streamUrl": "https://mirchiplaylive.akamaized.net/hls/live/2036929-b/MUM/CLUBMI_Auto.m3u8",
-      "countryCode": "IN"
     },
     {
       "id": "vividh_bharati_national",
@@ -23882,6 +23798,126 @@
       "clickCount": 4,
       "bitrate": 64,
       "streamUrl": "https://streamasiacdn.atc-labs.com/radiods.aac"
+    },
+    {
+      "id": "radiotarana_in_a816061e",
+      "title": "radiotarana",
+      "subtitle": "Radio",
+      "location": "India",
+      "genre": "Radio",
+      "countryCode": "IN",
+      "language": "hindi",
+      "clickCount": 9,
+      "bitrate": 56,
+      "streamUrl": "https://peridot.streamguys1.com:7150/Tarana.aac"
+    },
+    {
+      "id": "myfm_101_80_my_d3f1520c",
+      "title": "MYFM (101.80)",
+      "subtitle": "Radio",
+      "location": "Malaysia",
+      "genre": "Radio",
+      "countryCode": "MY",
+      "language": null,
+      "clickCount": 8,
+      "bitrate": 0,
+      "streamUrl": "https://n38a-eu.rcs.revma.com/hc3unrtbv4uvv/56_1t996oveblvvv02/playlist.m3u8?rj-ttl=5&rj-tok=AAABjmQzlooA5VQ0LCn-yOlhmQ"
+    },
+    {
+      "id": "station_cn_fc9b933d",
+      "title": "成都故事广播",
+      "subtitle": "News",
+      "location": "China",
+      "genre": "News",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 7,
+      "bitrate": 0,
+      "streamUrl": "https://lhttp-hw.qtfm.cn/live/5022004/64k.mp3"
+    },
+    {
+      "id": "rasika_fm_usa_semarang_id_8b1af778",
+      "title": "RASIKA FM USA SEMARANG",
+      "subtitle": "Radio",
+      "location": "Indonesia",
+      "genre": "Radio",
+      "countryCode": "ID",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://svara-stream.radioddns.net/rasikafm_stereo"
+    },
+    {
+      "id": "air_bhuj_in_8eada531",
+      "title": "AIR Bhuj",
+      "subtitle": "Air",
+      "location": "India",
+      "genre": "Air",
+      "countryCode": "IN",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "http://117.254.199.9:8081/source"
+    },
+    {
+      "id": "voa_macau_mo_90687f3d",
+      "title": "VOA Macau",
+      "subtitle": "News",
+      "location": "Macao",
+      "genre": "News",
+      "countryCode": "MO",
+      "language": "cantonese",
+      "clickCount": 6,
+      "bitrate": 140,
+      "streamUrl": "http://voa-ingest.akamaized.net/hls/live/2035206/151_124L/playlist.m3u8"
+    },
+    {
+      "id": "i_love_music_i_top_100_charts_id_cb7b47a6",
+      "title": "I Love Music - I♥TOP 100 CHARTS",
+      "subtitle": "Pop",
+      "location": "Indonesia",
+      "genre": "Pop",
+      "countryCode": "ID",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "https://ilm.stream35.radiohost.de/ilm_ilovetop100charts_mp3-192?upd-meta&upd-scheme=https&_art=dD0xNzgwMTYzOTIyJmQ9NTg3NWVlNzczYmM1MTYyMDMyYzU"
+    },
+    {
+      "id": "9527_cn_82c45048",
+      "title": "9527",
+      "subtitle": "Classical",
+      "location": "China",
+      "genre": "Classical",
+      "countryCode": "CN",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://stream.zeno.fm/ijdx5orz8wqvv"
+    },
+    {
+      "id": "station_cn_176fca70",
+      "title": "成都新闻广播",
+      "subtitle": "News",
+      "location": "China",
+      "genre": "News",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://lhttp-hw.qtfm.cn/live/4897/64k.mp3"
+    },
+    {
+      "id": "station_cn_b2d5e9d5",
+      "title": "成都交通文艺广播",
+      "subtitle": "News",
+      "location": "China",
+      "genre": "News",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://lhttp-hw.qtfm.cn/live/4891/64k.mp3"
     }
   ]
 }

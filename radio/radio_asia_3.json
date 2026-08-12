@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-11T01:30:00Z",
+  "updated": "2026-08-12T01:48:32Z",
   "region": "asia",
   "part": 3,
   "of": 3,
@@ -56,19 +56,6 @@
       "language": null,
       "clickCount": 0,
       "bitrate": 192
-    },
-    {
-      "id": "rb2_axr_manila_21979f3f",
-      "title": "AXR Manila",
-      "subtitle": "Radio",
-      "imageUrl": "https://content.audiospace.co/stations/210/files/Shows%20NEW/06_AXR_programmes_300x300px_nighttime.jpg",
-      "streamUrl": "http://28163.live.streamtheworld.com:3690/AXR_MANILA_SC",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 96
     },
     {
       "id": "rb2_abante_radyo_5f8cb6c6",
@@ -3980,19 +3967,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_xfm_101_7_bukidnon_003531db",
-      "title": "XFM 101.7 BUKIDNON",
-      "subtitle": "Radio",
-      "imageUrl": "https://apk.radyoph.com/upload/1699245142_xfmbukidnon.png",
-      "streamUrl": "http://209.126.124.126:8736/stream",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 48
-    },
-    {
       "id": "rb2_xfm_96_7_bacolod_0399bc73",
       "title": "XFM 96.7 BACOLOD",
       "subtitle": "Radio",
@@ -7249,19 +7223,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_bestefm_mix_6afcdefd",
-      "title": "BesteFM Mix",
-      "subtitle": "Radio",
-      "imageUrl": "https://bestefm.com/assets/favicon.ico",
-      "streamUrl": "https://yayin.radyomadyo.com:8002/",
-      "location": "Istanbul, Türkiye",
-      "genre": "Radio",
-      "countryCode": "TR",
-      "language": "english",
-      "clickCount": 4,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_beyaz_tv_825de086",
       "title": "Beyaz TV",
       "subtitle": "Radio",
@@ -9300,19 +9261,6 @@
       "bitrate": 150
     },
     {
-      "id": "rb2_powert_rk_akustik_2dea3c87",
-      "title": "PowerTürk Akustik",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://listen.powerapp.com.tr/powerturkakustik/abr/playlist.m3u8",
-      "location": "Türkiye",
-      "genre": "Radio",
-      "countryCode": "TR",
-      "language": null,
-      "clickCount": 5,
-      "bitrate": 277
-    },
-    {
       "id": "rb2_powert_rk_dans_6f239590",
       "title": "PowerTürk Dans",
       "subtitle": "Radio",
@@ -10619,19 +10567,6 @@
       "language": null,
       "clickCount": 4,
       "bitrate": 224
-    },
-    {
-      "id": "rb2_radyo_yalova_2724a1ac",
-      "title": "Radyo Yalova",
-      "subtitle": "Folk",
-      "imageUrl": "",
-      "streamUrl": "https://studio25.radiolize.com/radio/8200/radio.mp3",
-      "location": "Türkiye",
-      "genre": "Folk",
-      "countryCode": "TR",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 48
     },
     {
       "id": "rb2_radyo_zile_fm_93_5_75f4faad",
@@ -14862,6 +14797,66 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "https://moondigitaledge.radyotvonline.net/radyoviva/playlist.m3u8"
+    },
+    {
+      "id": "station_th_11cedfae",
+      "title": "วัดปากบ่อ",
+      "subtitle": "Fm 91.75 Mhz",
+      "location": "Thailand",
+      "genre": "Fm 91.75 Mhz",
+      "countryCode": "TH",
+      "language": "thai",
+      "clickCount": 7,
+      "bitrate": 64,
+      "streamUrl": "http://radio1.siamlivehost.com:8001/;"
+    },
+    {
+      "id": "fm_94_5_tw_c107a4cb",
+      "title": "警察廣播電臺 - 臺中分臺 FM 94.5",
+      "subtitle": "Emergency & Public Safety",
+      "location": "Taiwan, Republic Of China",
+      "genre": "Emergency & Public Safety",
+      "countryCode": "TW",
+      "language": "chinese",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://stream.pbs.gov.tw/live/TCS/playlist.m3u8"
+    },
+    {
+      "id": "bombo_radyo_bacolod_ph_af3b5733",
+      "title": "Bombo Radyo Bacolod",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://stream.zenolive.com/g2ak4fu78heuv"
+    },
+    {
+      "id": "republika_ni_juan_87_5_ph_33b5bd50",
+      "title": "Republika ni Juan 87.5",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 64,
+      "streamUrl": "http://58.97.187.52:5001/fm1"
+    },
+    {
+      "id": "banmai_radio_th_2b252fae",
+      "title": "banmai radio",
+      "subtitle": "Radio",
+      "location": "Thailand",
+      "genre": "Radio",
+      "countryCode": "TH",
+      "language": "ภาษาไทย",
+      "clickCount": 4,
+      "bitrate": 160,
+      "streamUrl": "https://radio10.plathong.net/7590/;stream.mp3?type=http"
     }
   ]
 }
