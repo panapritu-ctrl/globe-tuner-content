@@ -44,19 +44,27 @@ jobs:
         # Radio is deliberately excluded — see verify-radio-daily.yml.
         run: python3 verify_stations.py --only podcasts,audiobooks,devotional --concurrency 300 --timeout 8 --retries 2
 
+      # max-new is deliberately much lower here than a one-off manual run —
+      # this now fires every day (see cron above), and radio's own 500/day
+      # is a small fraction of its ~40k-station catalog. 300/300/200 at
+      # this frequency would both bloat these much smaller catalogs with
+      # rapidly-diminishing-quality candidates and repeatedly hammer
+      # archive.org/iTunes with the exact kind of request burst that got
+      # this project's own IP temporarily rate-limited earlier today. These
+      # values keep daily growth meaningful without either problem.
       - name: Grow podcasts (add new verified podcasts)
         if: success() || failure()
-        run: python3 grow_podcasts.py --max-new 300 --concurrency 15 --timeout 12
+        run: python3 grow_podcasts.py --max-new 50 --concurrency 15 --timeout 12
 
       - name: Grow audiobooks (add new verified audiobooks)
         # Low hit rate is expected/normal here (archive.org content quality,
         # not a script problem) — see grow_audiobooks.py's own docstring.
         if: success() || failure()
-        run: python3 grow_audiobooks.py --max-new 300 --fetch-rows 800 --concurrency 15 --timeout 12
+        run: python3 grow_audiobooks.py --max-new 50 --fetch-rows 800 --concurrency 15 --timeout 12
 
       - name: Grow devotional (add new verified devotional items)
         if: success() || failure()
-        run: python3 grow_devotional.py --max-new 200 --fetch-rows 800 --concurrency 15 --timeout 12
+        run: python3 grow_devotional.py --max-new 30 --fetch-rows 800 --concurrency 15 --timeout 12
 
       - name: Commit + push if anything changed
         if: success() || failure()
