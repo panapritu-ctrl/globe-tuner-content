@@ -16,6 +16,15 @@ on:
     - cron: '0 3 * * *'
   workflow_dispatch: {} # lets you trigger a run manually from the Actions tab
 
+# Without this, a manual workflow_dispatch run overlapping the scheduled
+# run (this job takes 15-20 min) races both pushes to main — whichever
+# pushes second gets "rejected: fetch first" with no retry, silently
+# discarding that run's verify/grow work. Matches verify-radio-daily.yml's
+# same guard.
+concurrency:
+  group: verify-stations
+  cancel-in-progress: false
+
 permissions:
   contents: write
 
