@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-12T01:48:32Z",
+  "updated": "2026-08-13T01:49:38Z",
   "region": "europe",
   "part": 1,
   "of": 8,
@@ -27616,6 +27616,42 @@
       "clickCount": 4,
       "bitrate": 160,
       "streamUrl": "http://stream1.euroradio.fm:8000/euroradio1?seed=1493710910"
+    },
+    {
+      "id": "radio_helsinki_at_3fc1dcf0",
+      "title": "Radio Helsinki",
+      "subtitle": "Radio",
+      "location": "Austria",
+      "genre": "Radio",
+      "countryCode": "AT",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://live.helsinki.at:8088/live160.mp3"
+    },
+    {
+      "id": "radio_deep_disco_bg_68542285",
+      "title": "Radio Deep Disco",
+      "subtitle": "Misc",
+      "location": "Bulgaria",
+      "genre": "Misc",
+      "countryCode": "BG",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "http://79.98.108.170:8000/autodj"
+    },
+    {
+      "id": "radioparty_pl_cz_f17ddf65",
+      "title": "RadioParty.pl",
+      "subtitle": "Radio",
+      "location": "Czechia",
+      "genre": "Radio",
+      "countryCode": "CZ",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://s2.radioparty.pl:8015/stream"
     }
   ]
 }

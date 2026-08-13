@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-12T01:48:32Z",
+  "updated": "2026-08-13T01:49:38Z",
   "region": "americas",
   "part": 1,
   "of": 5,
@@ -16392,19 +16392,6 @@
       "bitrate": 64
     },
     {
-      "id": "rb2_radio_espinharas_f98b7623",
-      "title": "Radio Espinharas",
-      "subtitle": "Popular",
-      "imageUrl": "https://www.radioespinharas.com.br/imagens/logo.svg",
-      "streamUrl": "https://radio.saopaulo01.com.br:10843/stream",
-      "location": "Paraiba, Brazil",
-      "genre": "Popular",
-      "countryCode": "BR",
-      "language": "português (brasil)",
-      "clickCount": 0,
-      "bitrate": 64
-    },
-    {
       "id": "rb2_radio_espirita_luz_do_amanha_cd1b1bcc",
       "title": "Radio Espirita Luz do Amanha",
       "subtitle": "Radio",
@@ -18692,19 +18679,6 @@
       "subtitle": "Rock",
       "imageUrl": "https://radiocidade.fm/player/img/stereo-zero.svg",
       "streamUrl": "http://playerservices.streamtheworld.com/api/livestream-redirect/STEREOZERO_S01AAC.aac",
-      "location": "Rio de Janeiro, Brazil",
-      "genre": "Rock",
-      "countryCode": "BR",
-      "language": "portuguese",
-      "clickCount": 0,
-      "bitrate": 64
-    },
-    {
-      "id": "rb2_r_dio_cidade_drop80_c94e44c8",
-      "title": "Rádio Cidade - drop80",
-      "subtitle": "Rock",
-      "imageUrl": "https://radiocidade.fm/player/img/drop-80.svg",
-      "streamUrl": "http://playerservices.streamtheworld.com/api/livestream-redirect/DROP80_S01AAC.aac",
       "location": "Rio de Janeiro, Brazil",
       "genre": "Rock",
       "countryCode": "BR",
@@ -25249,6 +25223,90 @@
       "clickCount": 4,
       "bitrate": 131,
       "streamUrl": "https://jazzfm91.streamb.live/SB00009?args=web_01"
+    },
+    {
+      "id": "chameleon_radio_ca_91fc138f",
+      "title": "Chameleon Radio",
+      "subtitle": "Radio",
+      "location": "Canada",
+      "genre": "Radio",
+      "countryCode": "CA",
+      "language": null,
+      "clickCount": 7,
+      "bitrate": 0,
+      "streamUrl": "https://app.aloncast.com/api/stream/chameleon-radio-816700"
+    },
+    {
+      "id": "slowly_radio_ca_4a004d01",
+      "title": "SLOWLY RADIO",
+      "subtitle": "Ambient",
+      "location": "Canada",
+      "genre": "Ambient",
+      "countryCode": "CA",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 192,
+      "streamUrl": "http://stream.slowlyradio.com/"
+    },
+    {
+      "id": "radio_5_mitre_am790_ar_10fe7b02",
+      "title": "Radio 5: Mitre AM790",
+      "subtitle": "Radio",
+      "location": "Argentina",
+      "genre": "Radio",
+      "countryCode": "AR",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://radio.eduneu.eu:8040/radio.mp3"
+    },
+    {
+      "id": "fm_milenium_106_7_ar_edbc101e",
+      "title": "FM Milenium 106.7",
+      "subtitle": "Radio",
+      "location": "Argentina",
+      "genre": "Radio",
+      "countryCode": "AR",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 32,
+      "streamUrl": "https://sonicpanel.hostradios.com:7000/stream"
+    },
+    {
+      "id": "urbana_play_104_3_ar_d81c6eeb",
+      "title": "Urbana Play 104.3",
+      "subtitle": "Radio",
+      "location": "Argentina",
+      "genre": "Radio",
+      "countryCode": "AR",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 250,
+      "streamUrl": "https://vmf.edge-apps.net/playlist/urbana.m3u8/play.m3u8"
+    },
+    {
+      "id": "elektra_radio_br_e5f5c2c0",
+      "title": "ELEKTRA RADIO",
+      "subtitle": "'Synthpop'",
+      "location": "Brazil",
+      "genre": "'Synthpop'",
+      "countryCode": "BR",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://cast3.hoost.com.br:8952/stream"
+    },
+    {
+      "id": "zoomer_radio_cfzm_am_740_96_7_fm_ca_6f94864b",
+      "title": "Zoomer Radio (CFZM AM 740 / 96.7 FM)",
+      "subtitle": "Big Band Sunday",
+      "location": "Canada",
+      "genre": "Big Band Sunday",
+      "countryCode": "CA",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://prod-18-204-34-32.amperwave.net/mzmedia-cfzmammp3-ibc2?session-id=7f61a0b7aa7cfc6006b36a5a2f948303"
     }
   ]
 }

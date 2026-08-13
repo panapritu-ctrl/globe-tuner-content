@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-12T01:48:32Z",
+  "updated": "2026-08-13T01:49:38Z",
   "region": "europe",
   "part": 6,
   "of": 8,
@@ -2128,19 +2128,6 @@
       "bitrate": 64
     },
     {
-      "id": "rb2_radio_parsifal_962deb50",
-      "title": "Radio Parsifal",
-      "subtitle": "Italian Pop, Pescara",
-      "imageUrl": "",
-      "streamUrl": "http://onair11.xdevel.com:10044/;stream.mp3",
-      "location": "Abruzzo, Italy",
-      "genre": "Italian Pop",
-      "countryCode": "IT",
-      "language": "italian",
-      "clickCount": 4,
-      "bitrate": 128
-    },
-    {
       "id": "radio_party_groove_it_9623a3",
       "title": "Radio Party Groove",
       "subtitle": "Alpignano",
@@ -2640,19 +2627,6 @@
       "genre": "Rock",
       "streamUrl": "https://rrock.fluidstream.eu/radiorock.aac",
       "countryCode": "IT"
-    },
-    {
-      "id": "rb2_radio_rock_caf_b031b0d4",
-      "title": "Radio Rock Cafè",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://nr6.newradio.it:9363/stream",
-      "location": "Italy",
-      "genre": "Radio",
-      "countryCode": "IT",
-      "language": "italian",
-      "clickCount": 0,
-      "bitrate": 128
     },
     {
       "id": "rb2_radio_rock_italia_5ddb136a",
@@ -4368,19 +4342,6 @@
       "language": "italian",
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_volere_e_volare_959bda56",
-      "title": "Radio volere e volare",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://bay1.streamfm.it:8010/aacp",
-      "location": "Nettuno, Italy",
-      "genre": "Radio",
-      "countryCode": "IT",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 64
     },
     {
       "id": "rb2_radio_vomero_b9956ea2",
@@ -19087,19 +19048,6 @@
       "bitrate": 192
     },
     {
-      "id": "rb2_studio_040_tv_76599869",
-      "title": "Studio 040 TV",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://ms7.mx-cd.net/tv/117-475839/Studio040.smil/playlist.m3u8",
-      "location": "Brabant, The Netherlands",
-      "genre": "Radio",
-      "countryCode": "NL",
-      "language": "dutch",
-      "clickCount": 0,
-      "bitrate": 1894
-    },
-    {
       "id": "rb2_studio_dmn_cc8bf04e",
       "title": "Studio DMN",
       "subtitle": "Community Radio, Local News",
@@ -26418,6 +26366,78 @@
       "clickCount": 4,
       "bitrate": 256,
       "streamUrl": "https://classic.nl/streams/?s=soundtracks"
+    },
+    {
+      "id": "radio_mille_note_it_a77573db",
+      "title": "radio mille note",
+      "subtitle": "Radio",
+      "location": "Italy",
+      "genre": "Radio",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 7,
+      "bitrate": 256,
+      "streamUrl": "https://rn1.fluidstream.eu/millenote.mp3"
+    },
+    {
+      "id": "00s_alive_nl_89e55260",
+      "title": "00s Alive",
+      "subtitle": "00S",
+      "location": "The Netherlands",
+      "genre": "00S",
+      "countryCode": "NL",
+      "language": "english",
+      "clickCount": 6,
+      "bitrate": 96,
+      "streamUrl": "https://stream.00sa.live/00s-alive.aac"
+    },
+    {
+      "id": "qmusic_90s_00s_nl_d1aedd8e",
+      "title": "Qmusic 90s & 00s",
+      "subtitle": "Radio",
+      "location": "The Netherlands",
+      "genre": "Radio",
+      "countryCode": "NL",
+      "language": "dutch",
+      "clickCount": 5,
+      "bitrate": 95,
+      "streamUrl": "https://stream.qmusic.nl/90s-00s/aac"
+    },
+    {
+      "id": "radio_vintage_md_36daad62",
+      "title": "Radio Vintage",
+      "subtitle": "00S",
+      "location": "The Republic Of Moldova",
+      "genre": "00S",
+      "countryCode": "MD",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://live.radiovintage.md/vintage_main"
+    },
+    {
+      "id": "oudepiratenhits_nl_d46d4567",
+      "title": "Oudepiratenhits",
+      "subtitle": "Radio",
+      "location": "The Netherlands",
+      "genre": "Radio",
+      "countryCode": "NL",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://server-67.stream-server.nl:8910/stream"
+    },
+    {
+      "id": "kink_128k_aac_nl_9ee9012e",
+      "title": "KINK 128k aac",
+      "subtitle": "Alternative",
+      "location": "The Netherlands",
+      "genre": "Alternative",
+      "countryCode": "NL",
+      "language": "dutch",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://22553.live.streamtheworld.com/KINKAAC_SC"
     }
   ]
 }

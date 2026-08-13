@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-12T01:48:32Z",
+  "updated": "2026-08-13T01:49:38Z",
   "region": "asia",
   "part": 3,
   "of": 3,
@@ -3602,19 +3602,6 @@
       "bitrate": 64
     },
     {
-      "id": "rb2_retro_davao_95_5_8670692d",
-      "title": "Retro Davao 95.5",
-      "subtitle": "Radio",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Retrodavao.jpg/500px-Retrodavao.jpg",
-      "streamUrl": "http://62.138.18.102:8135/stream",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 64
-    },
-    {
       "id": "rb2_retro_house_radio_6bb0f723",
       "title": "Retro House Radio",
       "subtitle": "Radio",
@@ -3756,19 +3743,6 @@
       "language": "english",
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_taps_radio_roxas_73956153",
-      "title": "TAPS RADIO ROXAS",
-      "subtitle": "Radio",
-      "imageUrl": "http://www.taps2011.com/uploads/8/8/0/3/8803855/published/72188125-2193030230797650-2612684543810863104-n.jpg?1589294682",
-      "streamUrl": "http://209.126.124.126:8599/stream",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 64
     },
     {
       "id": "rb2_tee_radio_689677c8",
@@ -4534,15 +4508,6 @@
       "language": "urdu",
       "clickCount": 6,
       "bitrate": 128
-    },
-    {
-      "id": "radio_pak_filmi_pk_cc0593",
-      "title": "Radio Pak Filmi",
-      "subtitle": "Lollywood",
-      "location": "Pakistan",
-      "genre": "Lollywood",
-      "countryCode": "PK",
-      "streamUrl": "http://s17.ssl-stream.com:8214/stream"
     },
     {
       "id": "radio_pakistan_hyderabad_mw_1008_khz_pk_36be6e",
@@ -14643,18 +14608,6 @@
       "streamUrl": "https://stream.pbs.gov.tw/live/KSS/playlist.m3u8"
     },
     {
-      "id": "k5_news_fm_bacolod_ph_1811d0cc",
-      "title": "K5 News FM Bacolod",
-      "subtitle": "Radio",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "language": null,
-      "clickCount": 7,
-      "bitrate": 48,
-      "streamUrl": "http://209.126.124.126:8572/stream"
-    },
-    {
       "id": "89_1_love_fm_ph_a00128db",
       "title": "89.1 LOVE FM",
       "subtitle": "Radio",
@@ -14857,6 +14810,114 @@
       "clickCount": 4,
       "bitrate": 160,
       "streamUrl": "https://radio10.plathong.net/7590/;stream.mp3?type=http"
+    },
+    {
+      "id": "dijital_slow_tr_63364d04",
+      "title": "dijital slow",
+      "subtitle": "Radio",
+      "location": "Türkiye",
+      "genre": "Radio",
+      "countryCode": "TR",
+      "language": null,
+      "clickCount": 11,
+      "bitrate": 128,
+      "streamUrl": "http://anadolu.liderhost.com.tr:8076/radyo"
+    },
+    {
+      "id": "k5_news_fm_bacolod_ph_1811d0cc",
+      "title": "K5 News FM Bacolod",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 7,
+      "bitrate": 48,
+      "streamUrl": "http://209.126.124.126:8572/stream"
+    },
+    {
+      "id": "universal_health_radio_pk_08b4ffd3",
+      "title": "Universal Health Radio (اردو)",
+      "subtitle": "Cdc",
+      "location": "Pakistan",
+      "genre": "Cdc",
+      "countryCode": "PK",
+      "language": "urdu",
+      "clickCount": 6,
+      "bitrate": 48,
+      "streamUrl": "https://radio.universalhealthradio.org/uhr-ur.mp3"
+    },
+    {
+      "id": "radyo_durak_tr_212ff420",
+      "title": "RADYO DURAK",
+      "subtitle": "Radio",
+      "location": "Türkiye",
+      "genre": "Radio",
+      "countryCode": "TR",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 80,
+      "streamUrl": "https://radyo.yayindakiler.com:8018/;"
+    },
+    {
+      "id": "fm_94_3_tw_f223d324",
+      "title": "警察廣播電臺 - 臺北分臺 FM 94.3",
+      "subtitle": "Emergency & Public Safety",
+      "location": "Taiwan, Republic Of China",
+      "genre": "Emergency & Public Safety",
+      "countryCode": "TW",
+      "language": "chinese",
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://stream.pbs.gov.tw/live/TPS/playlist.m3u8"
+    },
+    {
+      "id": "kent_fm_tr_aace675c",
+      "title": "Kent FM",
+      "subtitle": "Radio",
+      "location": "Türkiye",
+      "genre": "Radio",
+      "countryCode": "TR",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://moondigitalmaster.radyotvonline.net/kentfm/playlist.m3u8"
+    },
+    {
+      "id": "bombo_radyo_tuguegarao_ph_1bdd3451",
+      "title": "Bombo Radyo Tuguegarao",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://stream.zenolive.com/w8pcsam29heuv"
+    },
+    {
+      "id": "love_radio_santiago_m3u_ph_30206076",
+      "title": "Love Radio Santiago (M3U)",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 64,
+      "streamUrl": "https://lovesantiago.radioca.st/stream.m3u"
+    },
+    {
+      "id": "taps_radio_alicia_ph_cc96bc86",
+      "title": "TAPS RADIO ALICIA",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 64,
+      "streamUrl": "http://209.126.124.126:8593/stream"
     }
   ]
 }
