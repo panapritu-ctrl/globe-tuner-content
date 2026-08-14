@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-13T01:49:38Z",
+  "updated": "2026-08-14T01:50:42Z",
   "region": "europe",
   "part": 5,
   "of": 8,
@@ -1193,19 +1193,6 @@
       "language": null,
       "clickCount": 0,
       "bitrate": 256
-    },
-    {
-      "id": "rb2_radio_apopsi_e6b6bd94",
-      "title": "Radio Apopsi",
-      "subtitle": "Radio",
-      "imageUrl": "https://radioapopsi.gr/wp-content/uploads/2020/06/cropped-4001-2-180x180.png",
-      "streamUrl": "http://link.radiojar.com/radio-apopsi",
-      "location": "Greece",
-      "genre": "Radio",
-      "countryCode": "GR",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
     },
     {
       "id": "rb2_radio_aptaliko_08d5916f",
@@ -9618,19 +9605,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_96_8f05d319",
-      "title": "Μοναδική Πολιτεία 96",
-      "subtitle": "Christian, Orthodox",
-      "imageUrl": "https://resources.live24.gr/resources/images/stations/2e3027b2-3665-4672-99a8-8b03db094090.jpg",
-      "streamUrl": "https://netradio.live24.gr/monadikipolitia96",
-      "location": "Nafpaktos, Greece",
-      "genre": "Christian",
-      "countryCode": "GR",
-      "language": "greek",
-      "clickCount": 0,
-      "bitrate": 192
-    },
-    {
       "id": "rb2_96_9a7979b5",
       "title": "Μοναδική Πολιτεία 96 - Αδελφότης Μεταμορφώσεως του Σωτήρος Ναυπάκτου",
       "subtitle": "Byzantine, Ecclesia",
@@ -17715,19 +17689,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_gem_radio_new_wave_2e2e3729",
-      "title": "Gem Radio New Wave",
-      "subtitle": "70'S, 80'S",
-      "imageUrl": "https://cdn.onlineradiobox.com/img/l/3/111903.v1.png",
-      "streamUrl": "https://gemradionw.radioca.st/;stream.nsv",
-      "location": "Dublin, Ireland",
-      "genre": "70'S",
-      "countryCode": "IE",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_gravity_hits_da8d25af",
       "title": "Gravity Hits",
       "subtitle": "Radio",
@@ -24251,19 +24212,6 @@
       "bitrate": 96
     },
     {
-      "id": "rb2_rtl_102_5_mobile_48kbps_538ce412",
-      "title": "RTL 102.5 [Mobile 48kbps]",
-      "subtitle": "Radio",
-      "imageUrl": "https://rtl.it/favicon-96x96.png",
-      "streamUrl": "https://streamingv2.shoutcast.com/rtl-1025_48.aac",
-      "location": "Italy",
-      "genre": "Radio",
-      "countryCode": "IT",
-      "language": "italian",
-      "clickCount": 2,
-      "bitrate": 96
-    },
-    {
       "id": "rb2_rtl_102_5_news_78f39bc1",
       "title": "RTL 102.5 news",
       "subtitle": "News",
@@ -27838,6 +27786,30 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "https://ice-11.spilarinn.is/xsudurlandfm"
+    },
+    {
+      "id": "17_3_102_fm_gr_03e99ec0",
+      "title": "17.ΕΡΤ3 102 FM",
+      "subtitle": "Radio",
+      "location": "Greece",
+      "genre": "Radio",
+      "countryCode": "GR",
+      "language": "greek",
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "https://radiostreaming.ert.gr/ert-102fm"
+    },
+    {
+      "id": "18_gr_7dcb5ed9",
+      "title": "18.ΕΡΑ-Η φωνή της Ελλάδας",
+      "subtitle": "Radio",
+      "location": "Greece",
+      "genre": "Radio",
+      "countryCode": "GR",
+      "language": "greek",
+      "clickCount": 4,
+      "bitrate": 256,
+      "streamUrl": "https://radiostreaming.ert.gr/ert-voiceofgreece"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-13T01:49:38Z",
+  "updated": "2026-08-14T01:50:42Z",
   "region": "asia",
   "part": 1,
   "of": 3,
@@ -10812,19 +10812,6 @@
       "language": "chinese",
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_cctv1_e8fb18a0",
-      "title": "CCTV1",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://8.138.7.223/%E3%80%90%E5%85%AC%E4%BC%97%E5%8F%B7%EF%BC%9A%E6%A6%B4%E8%8A%92%E7%94%B5%E8%A7%86%E3%80%91/cctv1.m3u8",
-      "location": "China",
-      "genre": "Radio",
-      "countryCode": "CN",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 8200
     },
     {
       "id": "rb2_cctv_915c7e16",
@@ -22188,19 +22175,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_station_b330c36c",
-      "title": "江苏金陵之声",
-      "subtitle": "Entertainment",
-      "imageUrl": "http://pic.qingting.fm/2019/0305/20190305093341.jpeg",
-      "streamUrl": "http://lzlive.vojs.cn/Hd2hIgM/92/live.m3u8?",
-      "location": "Kiangsu, China",
-      "genre": "Entertainment",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_station_2f380320",
       "title": "江苏音乐广播",
       "subtitle": "Music, Pop",
@@ -27358,6 +27332,42 @@
       "clickCount": 5,
       "bitrate": 48,
       "streamUrl": "https://radio.universalhealthradio.org/uhr-bn.mp3"
+    },
+    {
+      "id": "abu_dhabi_fm_ae_58ef74aa",
+      "title": "Abu Dhabi fm",
+      "subtitle": "Arabic",
+      "location": "The United Arab Emirates",
+      "genre": "Arabic",
+      "countryCode": "AE",
+      "language": null,
+      "clickCount": 11,
+      "bitrate": 268,
+      "streamUrl": "https://admn-radio-cdn-lb.starzplayarabia.com/out/v1/admn_radio_enc/abudhabi_fm/abudhabi_fm_hls_nd/index.m3u8"
+    },
+    {
+      "id": "melody_radio_telugu_af_04d5e4e0",
+      "title": "Melody Radio Telugu",
+      "subtitle": "Classical",
+      "location": "Afghanistan",
+      "genre": "Classical",
+      "countryCode": "AF",
+      "language": null,
+      "clickCount": 9,
+      "bitrate": 192,
+      "streamUrl": "https://a1.asurahosting.com:9580/radio.mp3"
+    },
+    {
+      "id": "c_r_chicago_symphony_orchestra_ae_b2d1625c",
+      "title": "C.R. - Chicago Symphony Orchestra",
+      "subtitle": "Classical",
+      "location": "The United Arab Emirates",
+      "genre": "Classical",
+      "countryCode": "AE",
+      "language": "engilsh",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "http://drive.uber.radio/uber/crchicagosymphonyorchestra/icecast.audio"
     }
   ]
 }

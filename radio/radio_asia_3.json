@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-13T01:49:38Z",
+  "updated": "2026-08-14T01:50:42Z",
   "region": "asia",
   "part": 3,
   "of": 3,
@@ -1360,19 +1360,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_joy_fm_davao_oriental_84ebe682",
-      "title": "Joy FM Davao Oriental",
-      "subtitle": "Radio",
-      "imageUrl": "https://joyfm-radio.com/wp-content/uploads/2017/12/joyfm-chat.png",
-      "streamUrl": "http://122.53.61.251:8000/webilecaraga.ogg",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 80
-    },
-    {
       "id": "rb2_joy_fm_north_cotabato_2b6a8a77",
       "title": "Joy FM North Cotabato",
       "subtitle": "Radio",
@@ -2407,19 +2394,6 @@
       "countryCode": "PH",
       "language": "filipino",
       "clickCount": 1,
-      "bitrate": 24
-    },
-    {
-      "id": "rb2_rmn_iloilo_847bbc51",
-      "title": "RMN Iloilo",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://209.126.124.126:8011/stream",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "language": null,
-      "clickCount": 0,
       "bitrate": 24
     },
     {
@@ -6581,19 +6555,6 @@
       "bitrate": 64
     },
     {
-      "id": "rb_90_5_b192034c",
-      "title": "มิติข่าว 90.5",
-      "subtitle": "News, News Talk",
-      "imageUrl": "",
-      "streamUrl": "http://live3.smartbomb.co.th:8624/;stream.mp3",
-      "location": "Bangkok, Thailand",
-      "genre": "News",
-      "countryCode": "TH",
-      "language": "thai",
-      "clickCount": 3,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_station_38b22bc7",
       "title": "ลูกทุ่งเน็ตเวิร์ค",
       "subtitle": "Fm 98.5 Mhz ลูกทุ่ง ทั้งวัน ทั้งคืน",
@@ -10355,19 +10316,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_radyo_nostaljinin_sesi_1acd6cf8",
-      "title": "Radyo Nostaljinin Sesi",
-      "subtitle": "70S, 80S",
-      "imageUrl": "",
-      "streamUrl": "http://eu8.fastcast4u.com/proxy/eskininadami/stream",
-      "location": "Türkiye",
-      "genre": "70S",
-      "countryCode": "TR",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 64
-    },
-    {
       "id": "rb2_radyo_odtu_7ccb7f82",
       "title": "Radyo ODTU",
       "subtitle": "Radio",
@@ -13728,19 +13676,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb_kien_giang_tv_1_76192bb9",
-      "title": "Kien Giang TV-1",
-      "subtitle": "Radio",
-      "imageUrl": "http://kgtv.vn/favicon.ico",
-      "streamUrl": "http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8",
-      "location": "Kien Giang, Vietnam",
-      "genre": "Radio",
-      "countryCode": "VN",
-      "language": "vietnamese",
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_l0ves0n9scafe_6f3f1531",
       "title": "L0ves0n9scafe",
       "subtitle": "Pop",
@@ -14918,6 +14853,126 @@
       "clickCount": 4,
       "bitrate": 64,
       "streamUrl": "http://209.126.124.126:8593/stream"
+    },
+    {
+      "id": "radio_pak_filmi_pk_1b125973",
+      "title": "Radio Pak Filmi",
+      "subtitle": "Lollywood",
+      "location": "Pakistan",
+      "genre": "Lollywood",
+      "countryCode": "PK",
+      "language": "punjabi",
+      "clickCount": 34,
+      "bitrate": 128,
+      "streamUrl": "http://s17.ssl-stream.com:8214/stream"
+    },
+    {
+      "id": "istanbul_fm_tr_3cf15fff",
+      "title": "istanbul fm",
+      "subtitle": "Pop",
+      "location": "Türkiye",
+      "genre": "Pop",
+      "countryCode": "TR",
+      "language": "turkish",
+      "clickCount": 12,
+      "bitrate": 148,
+      "streamUrl": "https://live.radyofenomen.com/istanbulfm/128/playlist.m3u8"
+    },
+    {
+      "id": "keira_fm_tr_e4140dfa",
+      "title": "Keira FM",
+      "subtitle": "Radio",
+      "location": "Türkiye",
+      "genre": "Radio",
+      "countryCode": "TR",
+      "language": "american english",
+      "clickCount": 11,
+      "bitrate": 128,
+      "streamUrl": "https://stream.casthost.net/listen/keira_fm/radio.mp3"
+    },
+    {
+      "id": "li_der_fm_87_5_alemi_n_li_deri_tr_3ef6f013",
+      "title": "LİDER FM - 87.5 ALEMİN LİDERİ",
+      "subtitle": "Radio",
+      "location": "Türkiye",
+      "genre": "Radio",
+      "countryCode": "TR",
+      "language": null,
+      "clickCount": 10,
+      "bitrate": 0,
+      "streamUrl": "https://wowza1.radyotvonline.com/shoutcast/liderfm.stream/chunklist_w1344400302.m3u8"
+    },
+    {
+      "id": "radyo_37_tr_652b89fb",
+      "title": "Radyo 37",
+      "subtitle": "Radio",
+      "location": "Türkiye",
+      "genre": "Radio",
+      "countryCode": "TR",
+      "language": "tr",
+      "clickCount": 9,
+      "bitrate": 48,
+      "streamUrl": "https://radyo.yayindakiler.com:3192/stream"
+    },
+    {
+      "id": "powert_rk_akustik_tr_3eb6f181",
+      "title": "PowerTürk Akustik",
+      "subtitle": "Radio",
+      "location": "Türkiye",
+      "genre": "Radio",
+      "countryCode": "TR",
+      "language": null,
+      "clickCount": 8,
+      "bitrate": 277,
+      "streamUrl": "https://listen.powerapp.com.tr/powerturkakustik/abr/playlist.m3u8"
+    },
+    {
+      "id": "sawt_el_ghad_tarab_ps_5d3eed9e",
+      "title": "Sawt El Ghad - Tarab",
+      "subtitle": "Oldies",
+      "location": "State Of Palestine",
+      "genre": "Oldies",
+      "countryCode": "PS",
+      "language": "arabic",
+      "clickCount": 7,
+      "bitrate": 128,
+      "streamUrl": "https://sawtelghad.org:7007/;"
+    },
+    {
+      "id": "fm_92_pk_f2740371",
+      "title": "fm.92",
+      "subtitle": "Classical",
+      "location": "Pakistan",
+      "genre": "Classical",
+      "countryCode": "PK",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 32,
+      "streamUrl": "http://s33.myradiostream.com:13872/listen.m4a"
+    },
+    {
+      "id": "mega_ask_fm_tr_7f45b014",
+      "title": "Mega Ask FM",
+      "subtitle": "Hits",
+      "location": "Türkiye",
+      "genre": "Hits",
+      "countryCode": "TR",
+      "language": "turkish",
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "https://embed.tawk.to/_s/v4/assets/audio/chat_sound.mp3"
+    },
+    {
+      "id": "retro_turk_tr_9dec62d9",
+      "title": "retro turk",
+      "subtitle": "Radio",
+      "location": "Türkiye",
+      "genre": "Radio",
+      "countryCode": "TR",
+      "language": "turkish",
+      "clickCount": 5,
+      "bitrate": 64,
+      "streamUrl": "http://27783.live.streamtheworld.com:3690/RETROTURKAAC_SC"
     }
   ]
 }

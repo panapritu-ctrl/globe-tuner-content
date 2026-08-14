@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-13T01:49:38Z",
+  "updated": "2026-08-14T01:50:42Z",
   "region": "europe",
   "part": 1,
   "of": 8,
@@ -3850,19 +3850,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_pop_fm_slusaj_glasno_5b0e8a05",
-      "title": "Pop FM - Slusaj glasno!!!",
-      "subtitle": "Radio",
-      "imageUrl": "http://www.popfm.ba/apple-icon-120x120.png",
-      "streamUrl": "http://188.40.62.20:8032/;stream.nsv",
-      "location": "Bosnia And Herzegovina",
-      "genre": "Radio",
-      "countryCode": "BA",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_radio_kiss_kiseljak_ed2fa1ad",
       "title": "RADIO KISS KISELJAK",
       "subtitle": "Classical",
@@ -4230,19 +4217,6 @@
       "streamUrl": "https://cast2.name.ba/proxy/glasdrine/stream",
       "location": "Bosnia And Herzegovina",
       "genre": "Folk",
-      "countryCode": "BA",
-      "language": "bosnian",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_gora_de_c0c055c6",
-      "title": "Radio Goražde",
-      "subtitle": "Radio",
-      "imageUrl": "https://rtvbpk.ba/wp-content/uploads/2017/12/radio-gz.jpg",
-      "streamUrl": "https://webtvstream.bhtelecom.ba/radio_gorazde.m3u8",
-      "location": "Bosnia And Herzegovina",
-      "genre": "Radio",
       "countryCode": "BA",
       "language": "bosnian",
       "clickCount": 0,
@@ -27652,6 +27626,54 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://s2.radioparty.pl:8015/stream"
+    },
+    {
+      "id": "pop_fm_slusaj_glasno_ba_fee41cde",
+      "title": "Pop FM - Slusaj glasno!!!",
+      "subtitle": "Radio",
+      "location": "Bosnia And Herzegovina",
+      "genre": "Radio",
+      "countryCode": "BA",
+      "language": null,
+      "clickCount": 7,
+      "bitrate": 128,
+      "streamUrl": "http://188.40.62.20:8032/;stream.nsv"
+    },
+    {
+      "id": "dj_zone_house_radio_24_7_bg_d9751c48",
+      "title": "DJ ZONE HOUSE RADIO 24/7",
+      "subtitle": "Radio",
+      "location": "Bulgaria",
+      "genre": "Radio",
+      "countryCode": "BG",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://stream.djzone.mobi/djzone"
+    },
+    {
+      "id": "radio_miljacka_ba_a0279d0d",
+      "title": "Radio Miljacka",
+      "subtitle": "Narodna",
+      "location": "Bosnia And Herzegovina",
+      "genre": "Narodna",
+      "countryCode": "BA",
+      "language": "bosnian",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream1.custom.ba/listen/radio_miljacka/radio.mp3"
+    },
+    {
+      "id": "njs_radio_new_jack_swing_bg_8a5399ac",
+      "title": "NJS Radio - New Jack Swing",
+      "subtitle": "Radio",
+      "location": "Bulgaria",
+      "genre": "Radio",
+      "countryCode": "BG",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream.njsradio.com/njs"
     }
   ]
 }

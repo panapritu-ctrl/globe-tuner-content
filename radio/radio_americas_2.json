@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-13T01:49:08Z",
+  "updated": "2026-08-14T01:50:42Z",
   "region": "americas",
   "part": 2,
   "of": 5,
@@ -1021,19 +1021,6 @@
       "language": "english",
       "clickCount": 0,
       "bitrate": 57
-    },
-    {
-      "id": "rb2_cffr_660_news_calgary_ab_8d9fb592",
-      "title": "CFFR \"660 News\" Calgary, AB",
-      "subtitle": "Calgary, News Radio",
-      "imageUrl": "https://www.660citynews.com/apple-touch-icon.png",
-      "streamUrl": "https://rogers-hls.leanstream.co/rogers/cal660.stream/playlist.m3u8",
-      "location": "Alberta, Canada",
-      "genre": "Calgary",
-      "countryCode": "CA",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 48
     },
     {
       "id": "rb2_cfgo_tsn_1200_ottawa_on_104ad650",
@@ -5006,19 +4993,6 @@
       "language": "english",
       "clickCount": 0,
       "bitrate": 96
-    },
-    {
-      "id": "rb2_cjni_news_95_7_halifax_ns_fec434eb",
-      "title": "CJNI \"News 95.7\" Halifax, NS",
-      "subtitle": "Halifax, News",
-      "imageUrl": "https://www.vmcdn.ca/files/ui/rogers/citynews/at.png",
-      "streamUrl": "https://rogers-hls.leanstream.co/rogers/hal957.stream/playlist.m3u8",
-      "location": "Nova Scotia, Canada",
-      "genre": "Halifax",
-      "countryCode": "CA",
-      "language": "english",
-      "clickCount": 1,
-      "bitrate": 48
     },
     {
       "id": "rb2_cjns_fm_102_3_meadow_lake_sk_25ce1257",
@@ -12763,19 +12737,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_beethovenfm_3bff3a9a",
-      "title": "BeethovenFM",
-      "subtitle": "Radio",
-      "imageUrl": "https://www.beethovenfm.cl/htdocs/content/themes/uc-radio-beethoven/dist/images/favicon.png",
-      "streamUrl": "https://unlimited3-cl.dps.live/beethovenfm/go/audio/now/livestream1.m3u8",
-      "location": "Chile",
-      "genre": "Radio",
-      "countryCode": "CL",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_bel_n_fm_dca30db7",
       "title": "Belén FM",
       "subtitle": "Variados",
@@ -16126,19 +16087,6 @@
       "genre": "Local News",
       "countryCode": "CL",
       "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_paula_b480269f",
-      "title": "Radio Paula",
-      "subtitle": "Pop",
-      "imageUrl": "",
-      "streamUrl": "http://unlimited3-cl.dps.live/radiopaula/gotardis/audio/now/livestream1.m3u8",
-      "location": "Chile",
-      "genre": "Pop",
-      "countryCode": "CL",
-      "language": "spanish",
       "clickCount": 0,
       "bitrate": 128
     },
@@ -26013,6 +25961,30 @@
       "clickCount": 4,
       "bitrate": 52,
       "streamUrl": "https://radios.wakenext.com/hls/radio_mas99/live.m3u8"
+    },
+    {
+      "id": "la_main_street_radios_ecuador_online_ec_d7c70b4d",
+      "title": "La Main Street (Radios Ecuador Online)",
+      "subtitle": "Chicha Ecuatoriana",
+      "location": "Ecuador",
+      "genre": "Chicha Ecuatoriana",
+      "countryCode": "EC",
+      "language": "spanish",
+      "clickCount": 6,
+      "bitrate": 192,
+      "streamUrl": "https://radiolatina.info/9930/stream"
+    },
+    {
+      "id": "tropicalida_ec_ec1ea5a9",
+      "title": "Tropicalida",
+      "subtitle": "Merengue",
+      "location": "Ecuador",
+      "genre": "Merengue",
+      "countryCode": "EC",
+      "language": "spanish",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://d2qzj7eqicisth.cloudfront.net/medialist_14854753276708185244_hls.m3u8"
     }
   ]
 }

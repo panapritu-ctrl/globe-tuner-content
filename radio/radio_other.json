@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-13T01:49:38Z",
+  "updated": "2026-08-14T01:50:42Z",
   "region": "other",
   "stations": [
     {
@@ -726,18 +726,6 @@
       "clickCount": 4,
       "bitrate": 64,
       "streamUrl": "https://server10.emitironline.com:10044/radio.mp3"
-    },
-    {
-      "id": "cope_m_laga_es_48e8336f",
-      "title": "COPE Málaga",
-      "subtitle": "Radio",
-      "location": "Spain",
-      "genre": "Radio",
-      "countryCode": "ES",
-      "language": null,
-      "clickCount": 47,
-      "bitrate": 96,
-      "streamUrl": "http://flucast28-h-cloud.flumotion.com/cope/net1.mp3"
     },
     {
       "id": "wign_1550_am_bluegrass_gospel_us_787c9f39",
@@ -1662,6 +1650,210 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "http://stream11.shoutcastsolutions.com:8327/stream"
+    },
+    {
+      "id": "cope_m_laga_es_48e8336f",
+      "title": "COPE Málaga",
+      "subtitle": "Radio",
+      "location": "Spain",
+      "genre": "Radio",
+      "countryCode": "ES",
+      "language": null,
+      "clickCount": 57,
+      "bitrate": 96,
+      "streamUrl": "http://flucast28-h-cloud.flumotion.com/cope/net1.mp3"
+    },
+    {
+      "id": "bbc_arabic_radio_gb_fdfbc1fe",
+      "title": "BBC Arabic Radio",
+      "subtitle": "Arabic",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Arabic",
+      "countryCode": "GB",
+      "language": "arabic",
+      "clickCount": 10,
+      "bitrate": 101,
+      "streamUrl": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_arabic_radio.m3u8"
+    },
+    {
+      "id": "99x_atlanta_us_dc1f4341",
+      "title": "99X Atlanta",
+      "subtitle": "Alternative",
+      "location": "The United States Of America",
+      "genre": "Alternative",
+      "countryCode": "US",
+      "language": "english",
+      "clickCount": 10,
+      "bitrate": 80,
+      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/WNNXFM.mp3"
+    },
+    {
+      "id": "la_grosse_tambouille_fr_c6b43619",
+      "title": "La Grosse Tambouille",
+      "subtitle": "Grosse Tambouille",
+      "location": "France",
+      "genre": "Grosse Tambouille",
+      "countryCode": "FR",
+      "language": "francaise",
+      "clickCount": 9,
+      "bitrate": 192,
+      "streamUrl": "https://flux.lagrossetambouille.fr/main"
+    },
+    {
+      "id": "classical_california_kdfc_aac_us_cb04ceea",
+      "title": "Classical California KDFC AAC",
+      "subtitle": "Classical",
+      "location": "The United States Of America",
+      "genre": "Classical",
+      "countryCode": "US",
+      "language": "english",
+      "clickCount": 8,
+      "bitrate": 96,
+      "streamUrl": "https://14923.live.streamtheworld.com/KDFCFMAAC96_SC"
+    },
+    {
+      "id": "kexp_us_93d11810",
+      "title": "KEXP",
+      "subtitle": "Afrobeats",
+      "location": "The United States Of America",
+      "genre": "Afrobeats",
+      "countryCode": "US",
+      "language": "english",
+      "clickCount": 8,
+      "bitrate": 162,
+      "streamUrl": "https://kexp.streamguys1.com/kexp160.aac?listenerid=f4bcb5c771d830fbdd4195088a946ea6&awparams=companionAds%3Atrue"
+    },
+    {
+      "id": "sphinkta_x_radio_au_2fd9f1b8",
+      "title": "Sphinkta-X Radio",
+      "subtitle": "Experimental Electronic Music",
+      "location": "Australia",
+      "genre": "Experimental Electronic Music",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 7,
+      "bitrate": 128,
+      "streamUrl": "https://radio.ozziepowercyclist.com.au/myradio"
+    },
+    {
+      "id": "abc_grandstand_mp3_au_9c89e155",
+      "title": "ABC Grandstand (MP3)",
+      "subtitle": "Abc",
+      "location": "Australia",
+      "genre": "Abc",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 7,
+      "bitrate": 56,
+      "streamUrl": "http://live-radio02.mediahubaustralia.com/GSDW/mp3/;"
+    },
+    {
+      "id": "nostalgie_cinema_be_1e13404b",
+      "title": "Nostalgie Cinema",
+      "subtitle": "Cinema",
+      "location": "Belgium",
+      "genre": "Cinema",
+      "countryCode": "BE",
+      "language": "french",
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "https://stream.rcs.revma.com/urds0v43ehuvv"
+    },
+    {
+      "id": "o_i_fm_garage_rock_fr_7ed31ed7",
+      "title": "OÜI FM Garage Rock",
+      "subtitle": "Rock Garage",
+      "location": "France",
+      "genre": "Rock Garage",
+      "countryCode": "FR",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 64,
+      "streamUrl": "http://ouifmgaragerock.ice.infomaniak.ch/ouifmgaragerock-64.aac"
+    },
+    {
+      "id": "franceinfo_aac_lofi_http_fr_676c75fe",
+      "title": "franceinfo aac lofi http",
+      "subtitle": "News",
+      "location": "France",
+      "genre": "News",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 6,
+      "bitrate": 32,
+      "streamUrl": "http://icecast.radiofrance.fr/franceinfo-lofi.aac"
+    },
+    {
+      "id": "radio_fribourg_ch_aee1c754",
+      "title": "Radio Fribourg",
+      "subtitle": "Local News",
+      "location": "Switzerland",
+      "genre": "Local News",
+      "countryCode": "CH",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://radiofribourg.ice.infomaniak.ch/radiofribourg-high.mp3"
+    },
+    {
+      "id": "flowstate_chill_radio_ch_01d28273",
+      "title": "Flowstate Chill Radio",
+      "subtitle": "24/7",
+      "location": "Switzerland",
+      "genre": "24/7",
+      "countryCode": "CH",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 320,
+      "streamUrl": "https://radio.flowstateradio.net/listen/chill/radio.mp3"
+    },
+    {
+      "id": "galaxiebelgium_com_be_ba5cf50f",
+      "title": "galaxiebelgium.com",
+      "subtitle": "Radio",
+      "location": "Belgium",
+      "genre": "Radio",
+      "countryCode": "BE",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://listen.radioking.com/radio/309647/stream/356660"
+    },
+    {
+      "id": "1_fm_classic_rock_ch_a2648f51",
+      "title": "1.fm classic rock",
+      "subtitle": "Classic Rock",
+      "location": "Switzerland",
+      "genre": "Classic Rock",
+      "countryCode": "CH",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://strm112.1.fm/crock_mobile_mp3"
+    },
+    {
+      "id": "arag_n_radio_es_bbf22c08",
+      "title": "Aragón Radio",
+      "subtitle": "Aragon",
+      "location": "Spain",
+      "genre": "Aragon",
+      "countryCode": "ES",
+      "language": "spanish",
+      "clickCount": 4,
+      "bitrate": 96,
+      "streamUrl": "https://cartv.streaming.aranova.es/hls/live/aragonradio_huesca.m3u8"
+    },
+    {
+      "id": "antena_2000_es_1d7b1a59",
+      "title": "Antena 2000",
+      "subtitle": "2000S",
+      "location": "Spain",
+      "genre": "2000S",
+      "countryCode": "ES",
+      "language": "catalan",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://eu1.fastcast4u.com/proxy/antena2000?mp=/1"
     }
   ]
 }
