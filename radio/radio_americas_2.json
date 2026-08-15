@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-14T01:50:42Z",
+  "updated": "2026-08-15T01:10:06Z",
   "region": "americas",
   "part": 2,
   "of": 5,
@@ -696,19 +696,6 @@
       "language": "english",
       "clickCount": 1,
       "bitrate": 192
-    },
-    {
-      "id": "rb2_cfac_sportsnet_960_calgary_ab_acbdc661",
-      "title": "CFAC \"Sportsnet 960\" Calgary, AB",
-      "subtitle": "Calgary, Sports News",
-      "imageUrl": "https://www.sportsnet.ca/wp-content/themes/sportsnet-nhl/images/sn_logo_120x120_bg_white.png",
-      "streamUrl": "https://rogers-hls.leanstream.co/rogers/cal960.stream/playlist.m3u8",
-      "location": "Alberta, Canada",
-      "genre": "Calgary",
-      "countryCode": "CA",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 48
     },
     {
       "id": "rb2_cfai_fm_101_1_edmundston_105_1_grand_sau_2205f15d",
@@ -4540,19 +4527,6 @@
       "bitrate": 32
     },
     {
-      "id": "rb2_cjdl_country_107_3_tillsonburg_on_32560268",
-      "title": "CJDL \"Country 107.3\" Tillsonburg, ON",
-      "subtitle": "Country, Rogers Media",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/d/db/CJDL-FM.png",
-      "streamUrl": "https://rogers-hls.leanstream.co/rogers/til1073.stream/playlist.m3u8",
-      "location": "Ontario, Canada",
-      "genre": "Country",
-      "countryCode": "CA",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_cjed_fm_105_1_the_river_niagara_falls_on_6e0f7a31",
       "title": "CJED-FM \"105.1 The River\" Niagara Falls, ON",
       "subtitle": "Hot Adult Contemporary",
@@ -5823,19 +5797,6 @@
       "genre": "Classic Hits",
       "countryCode": "CA",
       "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_ckby_92_3_country_smith_falls_on_51d5b4c1",
-      "title": "CKBY \"92.3 Country\" Smith Falls, ON",
-      "subtitle": "Country",
-      "imageUrl": "",
-      "streamUrl": "https://rogers-hls.leanstream.co/rogers/ott923.stream/playlist.m3u8",
-      "location": "Ontario, Canada",
-      "genre": "Country",
-      "countryCode": "CA",
-      "language": "english",
       "clickCount": 0,
       "bitrate": 128
     },
@@ -22458,19 +22419,6 @@
       "bitrate": 320
     },
     {
-      "id": "rb2_colvalencia_radio_97_7_c56bd44a",
-      "title": "colvalencia radio 97.7",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://radiohd.streaminghd.co:7763/stream",
-      "location": "aguachica, Colombia",
-      "genre": "Radio",
-      "countryCode": "CO",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_elbaulsalsero_450aef13",
       "title": "elbaulsalsero",
       "subtitle": "Latino, Music",
@@ -25985,6 +25933,18 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "https://d2qzj7eqicisth.cloudfront.net/medialist_14854753276708185244_hls.m3u8"
+    },
+    {
+      "id": "candela_cali_102_5_fm_co_8f7a1f61",
+      "title": "Candela Cali 102.5 FM",
+      "subtitle": "Entretenimiento",
+      "location": "Colombia",
+      "genre": "Entretenimiento",
+      "countryCode": "CO",
+      "language": "spanish",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/CANDELA_CALIAAC"
     }
   ]
 }

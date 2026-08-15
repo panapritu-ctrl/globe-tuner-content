@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-14T01:50:42Z",
+  "updated": "2026-08-15T01:10:06Z",
   "region": "asia",
   "part": 3,
   "of": 3,
@@ -846,15 +846,6 @@
       "streamUrl": "http://209.126.124.126:8852/stream"
     },
     {
-      "id": "dzrh_ph_2940f5",
-      "title": "DZRH",
-      "subtitle": "Radio",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "streamUrl": "https://azura.dzrh.com.ph/listen/dzrh_manila/radio.mp3"
-    },
-    {
       "id": "dzrh_news_television_ph_1b5163",
       "title": "DZRH News Television",
       "subtitle": "Radio",
@@ -1486,19 +1477,6 @@
       "genre": "Radio",
       "countryCode": "PH",
       "language": null,
-      "clickCount": 1,
-      "bitrate": 64
-    },
-    {
-      "id": "rb2_kings_radio_davao_0c8b082c",
-      "title": "Kings Radio Davao",
-      "subtitle": "Commercial",
-      "imageUrl": "https://play-lh.googleusercontent.com/NRdZhS26PUEXfVgnR6ww1AdYJa2AQLL4KF8jSOjFsR2R4oii9Gi1s28sXRP2i9CacKlu=w480-h960-rw",
-      "streamUrl": "http://us1.amfmph.com:8708/live",
-      "location": "The Philippines",
-      "genre": "Commercial",
-      "countryCode": "PH",
-      "language": "cebuano",
       "clickCount": 1,
       "bitrate": 64
     },
@@ -3865,19 +3843,6 @@
       "genre": "Radio",
       "streamUrl": "http://148.72.153.65:9244/stream",
       "countryCode": "PH"
-    },
-    {
-      "id": "rb2_wild_fm_iloilo_07e06768",
-      "title": "Wild FM Iloilo",
-      "subtitle": "Radio",
-      "imageUrl": "https://4.bp.blogspot.com/-rSXBbOwI5bY/V-oEMyBQyeI/AAAAAAAACn0/5AOvPSxpbPcj4JwXn2PV6yI4G9kVit5vQCLcB/s200/wild-fm-iloilo-92-7-amfmph.png",
-      "streamUrl": "http://148.72.153.65:9253/stream",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 24
     },
     {
       "id": "rb2_win_radio_davao_d3d4cb0a",
@@ -11117,19 +11082,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_therockradio_ad387a99",
-      "title": "TheRockRadio",
-      "subtitle": "Radio",
-      "imageUrl": "https://therock.com.tr/images/favicon.png",
-      "streamUrl": "https://ssl4.radyotvonline.com/radyohome/therockradio.stream/playlist.m3u8",
-      "location": "Türkiye",
-      "genre": "Radio",
-      "countryCode": "TR",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 250
-    },
-    {
       "id": "rb2_trt_spor_b9d6e583",
       "title": "Trt Spor",
       "subtitle": "Radio",
@@ -14363,18 +14315,6 @@
       "streamUrl": "http://18.141.67.248:8018/stream/1/"
     },
     {
-      "id": "insaf_radio_pk_03822bf2",
-      "title": "Insaf Radio",
-      "subtitle": "Radio",
-      "location": "Pakistan",
-      "genre": "Radio",
-      "countryCode": "PK",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 0,
-      "streamUrl": "https://cdn.voscast.com/resources/?key=4e1e2d7ac97ea7ad9493c529df2ab16c&c=wmp"
-    },
-    {
       "id": "radyo_45_lik_tr_44724cbe",
       "title": "Radyo 45'lik",
       "subtitle": "Pop",
@@ -14973,6 +14913,102 @@
       "clickCount": 5,
       "bitrate": 64,
       "streamUrl": "http://27783.live.streamtheworld.com:3690/RETROTURKAAC_SC"
+    },
+    {
+      "id": "dzrh_ph_603db2a5",
+      "title": "DZRH",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 22,
+      "bitrate": 128,
+      "streamUrl": "https://azura.dzrh.com.ph/listen/dzrh_manila/radio.mp3"
+    },
+    {
+      "id": "90_5_th_b3b7c4fe",
+      "title": "มิติข่าว 90.5",
+      "subtitle": "News",
+      "location": "Thailand",
+      "genre": "News",
+      "countryCode": "TH",
+      "language": "thai",
+      "clickCount": 13,
+      "bitrate": 128,
+      "streamUrl": "http://live3.smartbomb.co.th:8624/;stream.mp3"
+    },
+    {
+      "id": "radio_olive_106_3_jiyo_bindass_qa_24b55f0e",
+      "title": "Radio Olive 106.3 - Jiyo Bindass",
+      "subtitle": "Radio",
+      "location": "Qatar",
+      "genre": "Radio",
+      "countryCode": "QA",
+      "language": null,
+      "clickCount": 12,
+      "bitrate": 128,
+      "streamUrl": "https://22733.live.streamtheworld.com/OLIVE1063.mp3"
+    },
+    {
+      "id": "radio_mydonose_tr_f8e73cce",
+      "title": "Radio Mydonose",
+      "subtitle": "Radio",
+      "location": "Türkiye",
+      "genre": "Radio",
+      "countryCode": "TR",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://29083.live.streamtheworld.com/RADIO_MYDONOSE128AAC.aac?/;stream.mp3"
+    },
+    {
+      "id": "bell_fm_106_3_ph_b6019e5d",
+      "title": "BELL FM 106.3",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 64,
+      "streamUrl": "http://209.126.124.126:8904/stream"
+    },
+    {
+      "id": "big_sound_fm_tuguegarao_ph_1a8f5115",
+      "title": "Big Sound FM Tuguegarao",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 64,
+      "streamUrl": "http://162.220.162.10:8008/stream"
+    },
+    {
+      "id": "i_mbat_fm_tr_8f7ed56d",
+      "title": "İmbat FM",
+      "subtitle": "Radio",
+      "location": "Türkiye",
+      "genre": "Radio",
+      "countryCode": "TR",
+      "language": "tr",
+      "clickCount": 5,
+      "bitrate": 64,
+      "streamUrl": "https://radyo.medyahost.com.tr/8034/stream"
+    },
+    {
+      "id": "radyo_odtu_easy_tr_ed6db1a2",
+      "title": "Radyo Odtu Easy",
+      "subtitle": "Easy Listening",
+      "location": "Türkiye",
+      "genre": "Easy Listening",
+      "countryCode": "TR",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://stream3.radyoodtu.com.tr:8000/easy"
     }
   ]
 }

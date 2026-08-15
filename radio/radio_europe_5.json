@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-14T01:50:42Z",
+  "updated": "2026-08-15T01:10:06Z",
   "region": "europe",
   "part": 5,
   "of": 8,
@@ -15933,19 +15933,6 @@
       "streamUrl": "https://oxygenmusic.hu:8443/oxygenthe90shits"
     },
     {
-      "id": "rb2_oxygen_xmas_320_8e57a8e7",
-      "title": "Oxygen Xmas (320)",
-      "subtitle": "Christmas",
-      "imageUrl": "https://oxygenmusic.hu/logo192.png",
-      "streamUrl": "https://oxygenmusic.hu:8000/xmas_320",
-      "location": "Hungary",
-      "genre": "Christmas",
-      "countryCode": "HU",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 160
-    },
-    {
       "id": "rb2_ozonefm_93b5fe54",
       "title": "Ozonefm",
       "subtitle": "Classical",
@@ -17546,19 +17533,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_east_coast_fm_wicklow_89058f91",
-      "title": "East Coast FM Wicklow",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://sirius.shoutca.st:8461/",
-      "location": "Ireland",
-      "genre": "Radio",
-      "countryCode": "IE",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_easy_radio_ireland_easy_mix_aae9455c",
       "title": "Easy Radio Ireland, Easy Mix",
       "subtitle": "Classic Pop, Classic Rock",
@@ -17660,19 +17634,6 @@
       "countryCode": "IE",
       "language": null,
       "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_galway_bay_fm_567c9759",
-      "title": "Galway Bay FM",
-      "subtitle": "Galway, Ireland",
-      "imageUrl": "https://www.galwaybayfm.ie/images/ico/apple-touch-icon.png",
-      "streamUrl": "https://wg.cdn.tibus.net/galwaybay.mp3",
-      "location": "Galway, Ireland",
-      "genre": "Galway",
-      "countryCode": "IE",
-      "language": "english",
-      "clickCount": 1,
       "bitrate": 128
     },
     {
@@ -17799,19 +17760,6 @@
       "countryCode": "IE",
       "language": null,
       "clickCount": 1,
-      "bitrate": 127
-    },
-    {
-      "id": "rb2_lmfm_country_3d52191b",
-      "title": "LMFM Country",
-      "subtitle": "Radio",
-      "imageUrl": "https://mm.aiircdn.com/616/5d77b00deee6a.png",
-      "streamUrl": "http://gbradio.cdn.tibus.net/LMFMCountry?aw_0_1st.platform=website&aw_0_1st.playerid=wireless-website&aw_0_req.gdpr=true&aw_0_awz.listenerid=#ADVERTISINGID&_=223438",
-      "location": "Ireland",
-      "genre": "Radio",
-      "countryCode": "IE",
-      "language": null,
-      "clickCount": 3,
       "bitrate": 127
     },
     {
@@ -20557,19 +20505,6 @@
       "streamUrl": "https://stream1.xdevel.com/audio0s975817-359/stream/icecast.audio",
       "location": "Italy",
       "genre": "Oldies",
-      "countryCode": "IT",
-      "language": "italian",
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_fm_italia_962b805d",
-      "title": "FM Italia",
-      "subtitle": "Adult Contemporary, Pop",
-      "imageUrl": "https://cdn-radiotime-logos.tunein.com/s73498q.png",
-      "streamUrl": "http://onair7.xdevel.com:8700/;stream.nsv",
-      "location": "Sicilia, Italy",
-      "genre": "Adult Contemporary",
       "countryCode": "IT",
       "language": "italian",
       "clickCount": 1,
@@ -24708,19 +24643,6 @@
       "bitrate": 192
     },
     {
-      "id": "rb2_radio_80_energia_d3a04715",
-      "title": "Radio 80 Energia",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://nr6.newradio.it:9393/stream",
-      "location": "Italy",
-      "genre": "Radio",
-      "countryCode": "IT",
-      "language": "italian",
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_radio_90_s_4_you_f3db0318",
       "title": "Radio 90's 4 You",
       "subtitle": "Dance, Pop",
@@ -26015,15 +25937,6 @@
       "language": "italian",
       "clickCount": 3,
       "bitrate": 128
-    },
-    {
-      "id": "radio_ciccio_riccio_it_8be2bc",
-      "title": "Radio Ciccio Riccio",
-      "subtitle": "Varied",
-      "location": "Italy",
-      "genre": "Varied",
-      "streamUrl": "https://stream5.xdevel.com/audio0s975942-758/stream/icecast.audio",
-      "countryCode": "IT"
     },
     {
       "id": "rb2_radio_circuito_solare_e97a32a9",
@@ -27810,6 +27723,30 @@
       "clickCount": 4,
       "bitrate": 256,
       "streamUrl": "https://radiostreaming.ert.gr/ert-voiceofgreece"
+    },
+    {
+      "id": "radio_rebetikes_melodies_gr_e28b8664",
+      "title": "Radio Rebetikes Melodies",
+      "subtitle": "Greek Folk",
+      "location": "Greece",
+      "genre": "Greek Folk",
+      "countryCode": "GR",
+      "language": "greek",
+      "clickCount": 8,
+      "bitrate": 128,
+      "streamUrl": "https://rebetis.duckdns.org:8545/live"
+    },
+    {
+      "id": "station_gr_70432f3b",
+      "title": "Ορθοδοξία Ύμνοι",
+      "subtitle": "Ύμνοι",
+      "location": "Greece",
+      "genre": "Ύμνοι",
+      "countryCode": "GR",
+      "language": "greek",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://rasp35.ddnsfree.com:3535/ymnoi"
     }
   ]
 }

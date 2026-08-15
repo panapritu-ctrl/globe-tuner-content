@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-14T01:50:42Z",
+  "updated": "2026-08-15T01:10:06Z",
   "region": "americas",
   "part": 1,
   "of": 5,
@@ -8736,19 +8736,6 @@
       "bitrate": 32
     },
     {
-      "id": "rb2_radio_universidad_unlp_am_1390_be496ecd",
-      "title": "Radio Universidad - UNLP - AM 1390",
-      "subtitle": "Argentina, La Plata",
-      "imageUrl": "https://static-media.streema.com/media/cache/06/89/0689b2bcd6a6817744bc4fa7c3c36f37.jpg",
-      "streamUrl": "https://statics-v2.streema.com/static/audios/sample.ea78c3d52389.mp3",
-      "location": "Provincia de Buenos Aires, Argentina",
-      "genre": "Argentina",
-      "countryCode": "AR",
-      "language": "spanish",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_radio_universidad_am580_fa79df9d",
       "title": "Radio Universidad AM580",
       "subtitle": "Radio Hablada, University Radio",
@@ -17090,19 +17077,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_radio_tabira_0e5e076d",
-      "title": "Radio Tabira",
-      "subtitle": "World As Musicas Do Mundo Inteiro Você Ouve Aqui",
-      "imageUrl": "https://i.ibb.co/fYPkym6J/Radido-Tabira-faveicon.jpg",
-      "streamUrl": "https://server27.srvsh.com.br:8590/stream",
-      "location": "Rio de Janeiro, Brazil",
-      "genre": "World As Musicas Do Mundo Inteiro Você Ouve Aqui",
-      "countryCode": "BR",
-      "language": "portuguese",
-      "clickCount": 2,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_radio_taquara_d3cc8048",
       "title": "Radio Taquara",
       "subtitle": "Hits",
@@ -25382,6 +25356,42 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://cheetah.streemlion.com:3120/stream"
+    },
+    {
+      "id": "pioneira_online_br_3335a19a",
+      "title": "PIONEIRA ONLINE",
+      "subtitle": "Radio",
+      "location": "Brazil",
+      "genre": "Radio",
+      "countryCode": "BR",
+      "language": "português (brasil)",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://hts02.brascast.com:10040/live"
+    },
+    {
+      "id": "cjbq_800_belleville_on_ca_84fcee74",
+      "title": "CJBQ 800 Belleville, ON",
+      "subtitle": "Commercial",
+      "location": "Canada",
+      "genre": "Commercial",
+      "countryCode": "CA",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 96,
+      "streamUrl": "http://live.leanstream.co/CJBQAM-MP3"
+    },
+    {
+      "id": "107_9_el_observador_version_4_ar_cb9b482b",
+      "title": "107.9 El Observador version 4",
+      "subtitle": "Radio",
+      "location": "Argentina",
+      "genre": "Radio",
+      "countryCode": "AR",
+      "language": "spanish",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://redirector.dps.live/observador/aac/icecast.audio"
     }
   ]
 }
