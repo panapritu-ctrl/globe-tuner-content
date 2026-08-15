@@ -1,4 +1,4 @@
-name: Verify + grow (podcasts, audiobooks, devotional)
+name: Verify + grow (podcasts, audiobooks, devotional, zeno)
 
 # Re-checks every feed/item URL in this repo (EXCLUDING radio — that has its
 # own daily, sharded, ffprobe-audio-verified workflow now, see
@@ -42,7 +42,7 @@ jobs:
       - name: Install dependencies
         run: pip install aiohttp
 
-      - name: Run verification (remove dead items — podcasts, audiobooks, devotional)
+      - name: Run verification (remove dead items — podcasts, audiobooks, devotional, zeno)
         # Exits 1 when its per-category safety valve aborts one category
         # (e.g. archive.org itself being down mid-run, unrelated to the
         # other categories) — that's a deliberate "don't trust THIS
@@ -50,8 +50,10 @@ jobs:
         # else this run already correctly computed and wrote to disk. The
         # steps below all use `if: success() || failure()` so a partial
         # abort here doesn't throw away good work in podcasts/audiobooks/etc.
-        # Radio is deliberately excluded — see verify-radio-daily.yml.
-        run: python3 verify_stations.py --only podcasts,audiobooks,devotional --concurrency 300 --timeout 8 --retries 2
+        # Radio is deliberately excluded — see verify-radio-daily.yml. Zeno
+        # is its own standalone collection (not part of radio/) — see
+        # grow_zeno.py's docstring for why it's kept separate.
+        run: python3 verify_stations.py --only podcasts,audiobooks,devotional,zeno --concurrency 300 --timeout 8 --retries 2
 
       # max-new is deliberately much lower here than a one-off manual run —
       # this now fires every day (see cron above), and radio's own 500/day
@@ -75,6 +77,10 @@ jobs:
         if: success() || failure()
         run: python3 grow_devotional.py --max-new 30 --fetch-rows 800 --concurrency 15 --timeout 12
 
+      - name: Grow zeno (add new verified Zeno.fm stations)
+        if: success() || failure()
+        run: python3 grow_zeno.py --max-new 50 --fetch 8000 --concurrency 20 --timeout 10
+
       - name: Commit + push if anything changed
         if: success() || failure()
         run: |
@@ -88,9 +94,9 @@ jobs:
           git commit -m "Auto-update (daily): remove dead items, add newly verified ones
 
           Scheduled run of verify_stations.py + grow_podcasts.py/
-          grow_audiobooks.py/grow_devotional.py — see workflow run logs for
-          before/after counts. Radio is handled separately (daily/sharded),
-          see verify-radio-daily.yml."
+          grow_audiobooks.py/grow_devotional.py/grow_zeno.py — see workflow
+          run logs for before/after counts. Radio is handled separately
+          (daily/sharded), see verify-radio-daily.yml."
           git push
 
       - name: Purge jsDelivr CDN cache
