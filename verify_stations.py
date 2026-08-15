@@ -51,6 +51,12 @@ KINDS = {
     "podcasts": {"index": "podcasts_index.json", "legacy": "podcasts.json", "url_field": "feedUrl"},
     "audiobooks": {"index": "audiobooks_index.json", "legacy": "audiobooks.json", "url_field": "identifier", "archive_org": True},
     "devotional": {"index": "devotional_index.json", "legacy": "devotional.json", "url_field": "identifier", "archive_org": True},
+    # Standalone curated collection (see grow_zeno.py / the migration commit
+    # for why it's kept separate from radio/) — no legacy mirror exists
+    # since this collection postdates the split-file format; "legacy" here
+    # just never resolves to an existing file, which the legacy-resync step
+    # below already handles gracefully via legacy_path.exists().
+    "zeno": {"index": "zeno_index.json", "legacy": "zeno.json", "url_field": "streamUrl"},
 }
 
 # A handful of stream hosts are known to reject HEAD (405) or reject the
