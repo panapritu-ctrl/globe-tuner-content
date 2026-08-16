@@ -1,6 +1,6 @@
 {
-  "version": 2,
-  "updated": "2026-08-15T11:46:31Z",
+  "version": 3,
+  "updated": "2026-08-16T02:38:16Z",
   "stations": [
     {
       "id": "radio_cotonou_94_3_bj",
@@ -2241,6 +2241,14 @@
       "genre": "Radio",
       "streamUrl": "http://stream.zeno.fm/n3sgwrm2mg8uv",
       "countryCode": "CD"
+    },
+    {
+      "id": "radio_dil_in",
+      "title": "Radio Dil",
+      "location": "India",
+      "genre": "Bollywood",
+      "countryCode": "IN",
+      "streamUrl": "https://us3.streamingpulse.com/ssl/radiodil2"
     }
   ]
 }
