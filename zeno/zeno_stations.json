@@ -1,6 +1,6 @@
 {
-  "version": 6,
-  "updated": "2026-08-16T03:01:19Z",
+  "version": 7,
+  "updated": "2026-08-16T03:09:25Z",
   "stations": [
     {
       "id": "radio_cotonou_94_3_bj",
@@ -2866,6 +2866,13 @@
       "genre": "Pop/Retro 70s",
       "streamUrl": "http://retro70.hostingradio.ru:8025/retro70-128.mp3",
       "countryCode": "RU"
+    },
+    {
+      "title": "Test Probe (delete me)",
+      "location": "Nowhere",
+      "genre": "Test",
+      "streamUrl": "http://example.com/test",
+      "id": "__test_probe_station"
     }
   ]
 }
