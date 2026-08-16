@@ -1,6 +1,6 @@
 {
-  "version": 4,
-  "updated": "2026-08-16T02:42:38Z",
+  "version": 5,
+  "updated": "2026-08-16T02:47:17Z",
   "stations": [
     {
       "id": "radio_cotonou_94_3_bj",
@@ -2295,6 +2295,14 @@
       "genre": "Dance",
       "countryCode": "IN",
       "streamUrl": "https://mirchiplaylive.akamaized.net/hls/live/2036929-b/MUM/CLUBMI_Auto.m3u8"
+    },
+    {
+      "id": "suno_melody_qa",
+      "title": "Suno Melody",
+      "location": "Qatar",
+      "genre": "Tamil",
+      "countryCode": "QA",
+      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_SUNO_MELODY_S06.mp3"
     }
   ]
 }
