@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-15T11:42:59Z",
+  "updated": "2026-08-16T01:14:59Z",
   "region": "europe",
   "part": 5,
   "of": 8,
@@ -8833,19 +8833,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_92_3_4cd6d35b",
-      "title": "Ι.Μ. Παροναξίας 92.3",
-      "subtitle": "Christian, Orthodox",
-      "imageUrl": "http://resources.live24.gr/resources/images/stations/5c67e84c-290e-416a-8061-870c00859229.png",
-      "streamUrl": "http://live.onweb.gr:8212/;",
-      "location": "Naxos, Greece",
-      "genre": "Christian",
-      "countryCode": "GR",
-      "language": "greek",
-      "clickCount": 0,
-      "bitrate": 32
-    },
-    {
       "id": "rb2_station_5be1d358",
       "title": "Ιερά Αρχιεπισκοπή Κρήτης",
       "subtitle": "Christian, Orthodox",
@@ -11038,19 +11025,6 @@
       "language": "greek",
       "clickCount": 3,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_99_8_4c8b2c5d",
-      "title": "Σκάι Αιγαίου 99.8",
-      "subtitle": "Greek Music",
-      "imageUrl": "http://resources.live24.gr/resources/images/stations/8a01d301-ea5c-4b64-bc6c-a56027f0f8be.jpg",
-      "streamUrl": "http://live.isol.biz:8500/;stream.nsv",
-      "location": "Lesvos, Greece",
-      "genre": "Greek Music",
-      "countryCode": "GR",
-      "language": "greek",
-      "clickCount": 0,
-      "bitrate": 96
     },
     {
       "id": "90_gr_854d04",
@@ -17211,19 +17185,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_c103_west_599c433e",
-      "title": "C103 West",
-      "subtitle": "Radio",
-      "imageUrl": "https://mm.aiircdn.com/619/5d5199be0aa8e.png",
-      "streamUrl": "https://wg.cdn.tibus.net/C103West",
-      "location": "Ireland",
-      "genre": "Radio",
-      "countryCode": "IE",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_cfc_fm_973aedb0",
       "title": "CFC FM",
       "subtitle": "Radio",
@@ -19526,19 +19487,6 @@
       "language": null,
       "clickCount": 0,
       "bitrate": 192
-    },
-    {
-      "id": "rb2_aldobaraldo_webradio_deb6d8b4",
-      "title": "Aldobaraldo - WebRadio",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://sr10.inmystream.it/proxy/asdaldob/stream",
-      "location": "Torino, Italy",
-      "genre": "Radio",
-      "countryCode": "IT",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
     },
     {
       "id": "rb2_all_gospel_radio_9f2fc237",
@@ -23366,19 +23314,6 @@
       "language": null,
       "clickCount": 0,
       "bitrate": 256
-    },
-    {
-      "id": "rb2_rai_tg3_f84d2c60",
-      "title": "RAI TG3",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=668461",
-      "location": "Italy",
-      "genre": "Radio",
-      "countryCode": "IT",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 1985
     },
     {
       "id": "rb2_raitg_2a4ece26",
@@ -27738,6 +27673,18 @@
       "clickCount": 5,
       "bitrate": 128,
       "streamUrl": "https://rasp35.ddnsfree.com:3535/ymnoi"
+    },
+    {
+      "id": "hrt_radio_split_hr_7484133e",
+      "title": "HRT Radio Split",
+      "subtitle": "Hrt",
+      "location": "Croatia",
+      "genre": "Hrt",
+      "countryCode": "HR",
+      "language": "croatian",
+      "clickCount": 8,
+      "bitrate": 64,
+      "streamUrl": "http://28513.live.streamtheworld.com:3690/SPLITAAC_SC"
     }
   ]
 }

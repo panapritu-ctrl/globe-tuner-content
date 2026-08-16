@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-15T01:10:06Z",
+  "updated": "2026-08-16T01:14:59Z",
   "region": "europe",
   "part": 6,
   "of": 8,
@@ -8730,19 +8730,6 @@
       "countryCode": "MD",
       "language": null,
       "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_inter_fm_107_7_59b75a24",
-      "title": "Inter FM 107.7",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://inter-fm.com/hlsstream/stream.m3u8",
-      "location": "Pridnestrovie, The Republic Of Moldova",
-      "genre": "Radio",
-      "countryCode": "MD",
-      "language": null,
-      "clickCount": 1,
       "bitrate": 128
     },
     {
@@ -26497,18 +26484,6 @@
       "streamUrl": "https://dc.digi.live.kissfm.ro/kissfm.chisinau"
     },
     {
-      "id": "fm_italia_it_52ece4e9",
-      "title": "FM Italia",
-      "subtitle": "Adult Contemporary",
-      "location": "Italy",
-      "genre": "Adult Contemporary",
-      "countryCode": "IT",
-      "language": "italian",
-      "clickCount": 5,
-      "bitrate": 0,
-      "streamUrl": "http://onair7.xdevel.com:8700/;stream.nsv"
-    },
-    {
       "id": "drechtstad_fm_nl_2cfc3c9b",
       "title": "Drechtstad FM",
       "subtitle": "Radio",
@@ -26531,6 +26506,42 @@
       "clickCount": 5,
       "bitrate": 128,
       "streamUrl": "http://streams.greenhost.nl:8080/folkit"
+    },
+    {
+      "id": "fm_italia_it_52ece4e9",
+      "title": "FM Italia",
+      "subtitle": "Adult Contemporary",
+      "location": "Italy",
+      "genre": "Adult Contemporary",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 7,
+      "bitrate": 0,
+      "streamUrl": "http://onair7.xdevel.com:8700/;stream.nsv"
+    },
+    {
+      "id": "radio_italia_anni_60_sicilia_messina_it_9f1aef5d",
+      "title": "Radio Italia Anni 60 (Sicilia-Messina)",
+      "subtitle": "Oldies",
+      "location": "Italy",
+      "genre": "Oldies",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://ice04.fluidstream.net/ria60_me.mp3"
+    },
+    {
+      "id": "nrk_p1_hordaland_no_f8d2a3c3",
+      "title": "Nrk p1 Hordaland",
+      "subtitle": "Radio",
+      "location": "Norway",
+      "genre": "Radio",
+      "countryCode": "NO",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 192,
+      "streamUrl": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk8_mp3_h"
     }
   ]
 }

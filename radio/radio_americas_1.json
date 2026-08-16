@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-15T11:42:59Z",
+  "updated": "2026-08-16T01:14:59Z",
   "region": "americas",
   "part": 1,
   "of": 5,
@@ -2879,19 +2879,6 @@
       "language": null,
       "clickCount": 0,
       "bitrate": 32
-    },
-    {
-      "id": "rb2_fm_sensaciones_95_1_5a992ec3",
-      "title": "FM Sensaciones 95.1",
-      "subtitle": "General",
-      "imageUrl": "",
-      "streamUrl": "https://chino.republicahosting.com:2318/live",
-      "location": "Tucumán, Argentina",
-      "genre": "General",
-      "countryCode": "AR",
-      "language": "spanish",
-      "clickCount": 0,
-      "bitrate": 16
     },
     {
       "id": "fm_soldados_87_5_ar_ee8db6",
@@ -8875,19 +8862,6 @@
       "genre": "Radio",
       "countryCode": "AR",
       "language": null,
-      "clickCount": 0,
-      "bitrate": 32
-    },
-    {
-      "id": "rb2_radio_verdad_villa_dolores_37c3b553",
-      "title": "Radio Verdad (Villa Dolores)",
-      "subtitle": "Music, News",
-      "imageUrl": "",
-      "streamUrl": "https://streaming1.locucionar.com/proxy/radioverdad?mp=/stream",
-      "location": "Córdoba, Argentina",
-      "genre": "Music",
-      "countryCode": "AR",
-      "language": "spanish",
       "clickCount": 0,
       "bitrate": 32
     },
@@ -24450,19 +24424,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_a_dick_ted_radio_aa6ae9ec",
-      "title": "A Dick Ted Radio",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://adickted.ca:8000/stream",
-      "location": "Canada",
-      "genre": "Radio",
-      "countryCode": "CA",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "a_mississippi_blues_ca_a2b92b",
       "title": "A MISSISSIPPI BLUES",
       "subtitle": "Blues",
@@ -24771,18 +24732,6 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "http://radios.istbolivia.com:9976/;"
-    },
-    {
-      "id": "cfpl_fm_95_9_fm96_london_on_ca_e4982eb8",
-      "title": "CFPL-FM 95.9 \"FM96\" London, ON",
-      "subtitle": "Active Rock",
-      "location": "Canada",
-      "genre": "Active Rock",
-      "countryCode": "CA",
-      "language": "english",
-      "clickCount": 4,
-      "bitrate": 128,
-      "streamUrl": "http://live.leanstream.co/CFPLFM-MP3"
     },
     {
       "id": "r_dio_itatiaia_95_7_fm_br_69a596bb",
@@ -25121,18 +25070,6 @@
       "streamUrl": "https://stm1.colossocastpro.com.br:7116/index"
     },
     {
-      "id": "cjkr_97_5_power_97_winnipeg_mb_ca_674fb869",
-      "title": "CJKR 97.5 \"Power 97\" Winnipeg, MB",
-      "subtitle": "Active Rock",
-      "location": "Canada",
-      "genre": "Active Rock",
-      "countryCode": "CA",
-      "language": "english",
-      "clickCount": 6,
-      "bitrate": 128,
-      "streamUrl": "http://live.leanstream.co/CJKRFM-MP3"
-    },
-    {
       "id": "antena_1_100_1_fm_salvador_bahia_br_ba5ed00c",
       "title": "Antena 1 100.1 FM Salvador Bahia",
       "subtitle": "Adulto Contemporáneo",
@@ -25383,6 +25320,102 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "https://redirector.dps.live/observador/aac/icecast.audio"
+    },
+    {
+      "id": "r_dio_atl_ntida_100_9_fm_florian_polis_sc_br_a09ec820",
+      "title": "Rádio Atlântida 100.9 FM - Florianópolis - SC",
+      "subtitle": "Radio",
+      "location": "Brazil",
+      "genre": "Radio",
+      "countryCode": "BR",
+      "language": "portuguese",
+      "clickCount": 8,
+      "bitrate": 96,
+      "streamUrl": "https://26493.live.streamtheworld.com:443/ATL_FLO.mp3"
+    },
+    {
+      "id": "fm_horizonte_revival_101_9_ar_2c3bac83",
+      "title": "FM Horizonte (revival 101.9)",
+      "subtitle": "Adult Contemporary",
+      "location": "Argentina",
+      "genre": "Adult Contemporary",
+      "countryCode": "AR",
+      "language": null,
+      "clickCount": 7,
+      "bitrate": 128,
+      "streamUrl": "https://redirector.dps.live/hls-audio/4e252a65837b69e349d5d8c1033152b4/hztear/playlist/manifest/gotardisz/audio/now/livestream1.m3u8"
+    },
+    {
+      "id": "animax_radio_bo_8b1d9526",
+      "title": "Animax Radio",
+      "subtitle": "Dance",
+      "location": "Bolivia",
+      "genre": "Dance",
+      "countryCode": "BO",
+      "language": "spanish",
+      "clickCount": 6,
+      "bitrate": 192,
+      "streamUrl": "https://sc.host-live.com:8150/stream"
+    },
+    {
+      "id": "7080rocks_ca_2c4b0b0f",
+      "title": "7080rocks",
+      "subtitle": "70S",
+      "location": "Canada",
+      "genre": "70S",
+      "countryCode": "CA",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 192,
+      "streamUrl": "https://stream.7080rocks.com/"
+    },
+    {
+      "id": "vocm_560_am_ca_b1b563c0",
+      "title": "VOCM (560 AM)",
+      "subtitle": "Local News",
+      "location": "Canada",
+      "genre": "Local News",
+      "countryCode": "CA",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 56,
+      "streamUrl": "https://stingray.leanstream.co/VOCMAM?args=web_01&uid=e340272b-119a-4c4d-9b0e-1a0f51543721&user_hash=FqvcOjIUkH7a0gXXGKVaWEUnJl0UEMsi&aw_0_req.gdpr=true&gdpr=true"
+    },
+    {
+      "id": "ched_630_edmonton_ab_ca_88e3b9bb",
+      "title": "CHED 630 (Edmonton, AB)",
+      "subtitle": "Edmonton",
+      "location": "Canada",
+      "genre": "Edmonton",
+      "countryCode": "CA",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 57,
+      "streamUrl": "http://live.leanstream.co/CHEDAM"
+    },
+    {
+      "id": "cfpl_fm_95_9_fm96_london_on_ca_e4982eb8",
+      "title": "CFPL-FM 95.9 \"FM96\" London, ON",
+      "subtitle": "Active Rock",
+      "location": "Canada",
+      "genre": "Active Rock",
+      "countryCode": "CA",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "http://live.leanstream.co/CFPLFM-MP3"
+    },
+    {
+      "id": "cbc_music_pacific_ca_1590fcab",
+      "title": "CBC Music Pacific",
+      "subtitle": "Classical",
+      "location": "Canada",
+      "genre": "Classical",
+      "countryCode": "CA",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 48,
+      "streamUrl": "https://cbcradiolive.akamaized.net/hls/live/2041059/ES_R2PVC/master.m3u8"
     }
   ]
 }

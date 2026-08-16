@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-15T01:09:37Z",
+  "updated": "2026-08-16T01:14:59Z",
   "region": "oceania",
   "stations": [
     {
@@ -11031,19 +11031,6 @@
       "bitrate": 64
     },
     {
-      "id": "rb2_listnr_aussie_dance_320e5dfa",
-      "title": "LiSTNR - Aussie Dance",
-      "subtitle": "Australian Music, Dance",
-      "imageUrl": "https://play.listnr.com/favicon/apple-touch-icon.png",
-      "streamUrl": "https://wz0liw.scahw.com.au/live/aussiedance_128.stream/playlist.m3u8",
-      "location": "Australia",
-      "genre": "Australian Music",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_listnr_aussie_dance_hls_91559b79",
       "title": "LiSTNR - Aussie Dance (HLS)",
       "subtitle": "Australian Music, Dance",
@@ -19700,6 +19687,18 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "http://stream10.as.amplifystreaming.com/radio/8010/retro_128.aac"
+    },
+    {
+      "id": "echoes_radio_nz_ec051895",
+      "title": "Echoes Radio",
+      "subtitle": "Radio",
+      "location": "New Zealand",
+      "genre": "Radio",
+      "countryCode": "NZ",
+      "language": null,
+      "clickCount": 7,
+      "bitrate": 0,
+      "streamUrl": "https://radio.flexmedia.stream/listen/echoes_radio/radio.mp3"
     }
   ]
 }
