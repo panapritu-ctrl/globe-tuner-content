@@ -1,6 +1,6 @@
 {
-  "version": 5,
-  "updated": "2026-08-16T02:47:17Z",
+  "version": 6,
+  "updated": "2026-08-16T03:01:19Z",
   "stations": [
     {
       "id": "radio_cotonou_94_3_bj",
@@ -2303,6 +2303,569 @@
       "genre": "Tamil",
       "countryCode": "QA",
       "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_SUNO_MELODY_S06.mp3"
+    },
+    {
+      "id": "mangoradio_de",
+      "title": "MANGORADIO",
+      "location": "Germany",
+      "genre": "Charts",
+      "streamUrl": "https://mangoradio.stream.laut.fm/mangoradio",
+      "countryCode": "DE"
+    },
+    {
+      "id": "dance_wave_online",
+      "title": "Dance Wave!",
+      "location": "Germany",
+      "genre": "Dance",
+      "streamUrl": "https://dancewave.online/dance.mp3",
+      "countryCode": "DE"
+    },
+    {
+      "id": "reyfm_original_de",
+      "title": "REYFM",
+      "location": "Germany",
+      "genre": "Dance",
+      "streamUrl": "https://listen.reyfm.de/original_192kbps.mp3",
+      "countryCode": "DE"
+    },
+    {
+      "id": "radio_paradise_main_eu",
+      "title": "Radio Paradise (Main Mix)",
+      "location": "Global",
+      "genre": "Eclectic",
+      "streamUrl": "http://stream-uk1.radioparadise.com/aac-320"
+    },
+    {
+      "id": "classic_vinyl_hd_us",
+      "title": "Classic Vinyl HD",
+      "location": "USA",
+      "genre": "Lounge/Easy Listening",
+      "streamUrl": "https://icecast.walmradio.com:8443/classic",
+      "countryCode": "US"
+    },
+    {
+      "id": "adroit_jazz_underground_us",
+      "title": "Adroit Jazz Underground",
+      "location": "USA",
+      "genre": "Contemporary Jazz",
+      "streamUrl": "https://icecast.walmradio.com:8443/jazz",
+      "countryCode": "US"
+    },
+    {
+      "id": "christmas_vinyl_hd_us",
+      "title": "Christmas Vinyl HD",
+      "location": "USA",
+      "genre": "Christmas",
+      "streamUrl": "https://icecast.walmradio.com:8443/christmas",
+      "countryCode": "US"
+    },
+    {
+      "id": "walm_hd_us",
+      "title": "WALM HD",
+      "location": "USA",
+      "genre": "Christian/Faith",
+      "streamUrl": "https://icecast.walmradio.com:8443/walm",
+      "countryCode": "US"
+    },
+    {
+      "id": "bbc_world_service",
+      "title": "BBC World Service",
+      "location": "United Kingdom",
+      "genre": "News",
+      "streamUrl": "http://stream.live.vc.bbcmedia.co.uk/bbc_world_service",
+      "countryCode": "GB"
+    },
+    {
+      "id": "walm_old_time_radio_us",
+      "title": "WALM - Old Time Radio",
+      "location": "USA",
+      "genre": "Old Time Radio",
+      "streamUrl": "https://icecast.walmradio.com:8443/otr",
+      "countryCode": "US"
+    },
+    {
+      "id": "iran_international_uk",
+      "title": "Iran International",
+      "location": "United Kingdom",
+      "genre": "News",
+      "streamUrl": "https://radio.iraninternational.app/iintl_c",
+      "countryCode": "GB"
+    },
+    {
+      "id": "walm_2_hd_us",
+      "title": "WALM 2 HD",
+      "location": "USA",
+      "genre": "Christian/Faith",
+      "streamUrl": "https://icecast.walmradio.com:8443/walm2",
+      "countryCode": "US"
+    },
+    {
+      "id": "radio_liberty_farda_iran",
+      "title": "Radio Farda (Radio Liberty)",
+      "location": "Iran",
+      "genre": "News",
+      "streamUrl": "https://stream.radiojar.com/cp13r2cpn3quv",
+      "countryCode": "IR"
+    },
+    {
+      "id": "radio_parsa",
+      "title": "Radio Parsa",
+      "location": "Iran",
+      "genre": "Persian",
+      "streamUrl": "http://parsa.icdndhcp.com:18000/stream",
+      "countryCode": "IR"
+    },
+    {
+      "id": "france_info_fr",
+      "title": "France Info",
+      "location": "France",
+      "genre": "News",
+      "streamUrl": "http://direct.franceinfo.fr/live/franceinfo-midfi.mp3",
+      "countryCode": "FR"
+    },
+    {
+      "id": "smooth_jazz_101_us",
+      "title": "101 Smooth Jazz",
+      "location": "USA",
+      "genre": "Jazz",
+      "streamUrl": "http://jking.cdnstream1.com/b22139_128mp3",
+      "countryCode": "US"
+    },
+    {
+      "id": "rfi_afrique_fr",
+      "title": "RFI Afrique",
+      "location": "France",
+      "genre": "News",
+      "streamUrl": "http://live02.rfi.fr/rfiafrique-64.mp3",
+      "countryCode": "FR"
+    },
+    {
+      "id": "mosaique_fm_tn",
+      "title": "Mosaique FM",
+      "location": "Tunisia",
+      "genre": "General",
+      "streamUrl": "http://radio.mosaiquefm.net:8000/mosalive",
+      "countryCode": "TN"
+    },
+    {
+      "id": "rmc_fr",
+      "title": "RMC",
+      "location": "France",
+      "genre": "Talk/News",
+      "streamUrl": "https://audio.bfmtv.com/rmcradio_128.mp3",
+      "countryCode": "FR"
+    },
+    {
+      "id": "jazz_radio_blues_ch",
+      "title": "Jazz Radio Blues",
+      "location": "Switzerland",
+      "genre": "Jazz/Blues",
+      "streamUrl": "http://jazzblues.ice.infomaniak.ch/jazzblues-high.mp3",
+      "countryCode": "CH"
+    },
+    {
+      "id": "rmf_fm_pl",
+      "title": "RMF FM",
+      "location": "Poland",
+      "genre": "Pop",
+      "streamUrl": "http://195.150.20.242:8000/rmf_fm",
+      "countryCode": "PL"
+    },
+    {
+      "id": "france_inter_fr",
+      "title": "France Inter",
+      "location": "France",
+      "genre": "News/Talk",
+      "streamUrl": "http://direct.franceinter.fr/live/franceinter-hifi.aac",
+      "countryCode": "FR"
+    },
+    {
+      "id": "hit_fm_ua",
+      "title": "Hit FM",
+      "location": "Ukraine",
+      "genre": "Pop",
+      "streamUrl": "http://195.95.206.17/HitFM",
+      "countryCode": "UA"
+    },
+    {
+      "id": "europa_plus_ru",
+      "title": "Europa Plus",
+      "location": "Russia",
+      "genre": "Pop",
+      "streamUrl": "http://ep256.hostingradio.ru:8052/europaplus256.mp3",
+      "countryCode": "RU"
+    },
+    {
+      "id": "rock_fm_ru",
+      "title": "Rock FM",
+      "location": "Russia",
+      "genre": "Rock",
+      "streamUrl": "http://nashe1.hostingradio.ru/rock-128.mp3",
+      "countryCode": "RU"
+    },
+    {
+      "id": "classic_hits_70_80_disco",
+      "title": "Classic Hits Radio 70 80",
+      "location": "Global",
+      "genre": "Disco/Funk",
+      "streamUrl": "https://radiopanther.radiolebowski.com/play"
+    },
+    {
+      "id": "radio_vanya_ru",
+      "title": "Radio Vanya",
+      "location": "Russia",
+      "genre": "Pop",
+      "streamUrl": "https://icecast-radiovanya.cdnvideo.ru/radiovanya",
+      "countryCode": "RU"
+    },
+    {
+      "id": "rfi_monde_fr",
+      "title": "RFI Monde",
+      "location": "France",
+      "genre": "News",
+      "streamUrl": "http://live02.rfi.fr/rfimonde-64.mp3",
+      "countryCode": "FR"
+    },
+    {
+      "id": "classic_fm_uk",
+      "title": "Classic FM",
+      "location": "United Kingdom",
+      "genre": "Classical",
+      "streamUrl": "http://ice-the.musicradio.com/ClassicFMMP3",
+      "countryCode": "GB"
+    },
+    {
+      "id": "radio_faaz",
+      "title": "Radio Faaz",
+      "location": "Iran",
+      "genre": "Persian",
+      "streamUrl": "http://www.radiofaaz.com:8000/radiofaaz",
+      "countryCode": "IR"
+    },
+    {
+      "id": "dfm_diskach_90s_ru",
+      "title": "DFM Diskach 90s",
+      "location": "Russia",
+      "genre": "90s",
+      "streamUrl": "https://dfm-disc90.hostingradio.ru/disc9096.aacp",
+      "countryCode": "RU"
+    },
+    {
+      "id": "your_classical_relax_us",
+      "title": "Your Classical - Relax",
+      "location": "USA",
+      "genre": "Classical/Relax",
+      "streamUrl": "http://relax.stream.publicradio.org/relax.mp3",
+      "countryCode": "US"
+    },
+    {
+      "id": "181fm_old_school_hiphop_us",
+      "title": "181.FM - Old School HipHop/RnB",
+      "location": "USA",
+      "genre": "HipHop/RnB",
+      "streamUrl": "http://listen.181fm.com/181-oldschool_128k.mp3",
+      "countryCode": "US"
+    },
+    {
+      "id": "retro_fm_ru",
+      "title": "Retro FM",
+      "location": "Russia",
+      "genre": "Pop/Retro",
+      "streamUrl": "http://retroserver.streamr.ru:8043/retro256.mp3",
+      "countryCode": "RU"
+    },
+    {
+      "id": "radio_russkie_pesni_ru",
+      "title": "Radio Russkie Pesni",
+      "location": "Russia",
+      "genre": "Pop",
+      "streamUrl": "http://listen.rusongs.ru/ru-mp3-128",
+      "countryCode": "RU"
+    },
+    {
+      "id": "977_country_us",
+      "title": ".977 Country",
+      "location": "USA",
+      "genre": "Country",
+      "streamUrl": "http://15113.live.streamtheworld.com:80/977_COUNTRY_SC",
+      "countryCode": "US"
+    },
+    {
+      "id": "dorognoe_radio_ru",
+      "title": "Dorognoe Radio",
+      "location": "Russia",
+      "genre": "Pop",
+      "streamUrl": "http://dorognoe.hostingradio.ru:8000/radio",
+      "countryCode": "RU"
+    },
+    {
+      "id": "france_culture_fr",
+      "title": "France Culture",
+      "location": "France",
+      "genre": "Culture/Talk",
+      "streamUrl": "http://icecast.radiofrance.fr/franceculture-hifi.aac",
+      "countryCode": "FR"
+    },
+    {
+      "id": "977_80s_us",
+      "title": ".977 80s",
+      "location": "USA",
+      "genre": "80s",
+      "streamUrl": "http://17633.live.streamtheworld.com:80/977_80_SC",
+      "countryCode": "US"
+    },
+    {
+      "id": "977_hitz_us",
+      "title": ".977 Hitz",
+      "location": "USA",
+      "genre": "Hits",
+      "streamUrl": "http://18493.live.streamtheworld.com:80/977_HITS_SC",
+      "countryCode": "US"
+    },
+    {
+      "id": "dfm_russian_dance_ru",
+      "title": "DFM Russian Dance",
+      "location": "Russia",
+      "genre": "Dance",
+      "streamUrl": "https://dfm-dfmrusdance.hostingradio.ru/dfmrusdance96.aacp",
+      "countryCode": "RU"
+    },
+    {
+      "id": "vesti_fm_ru",
+      "title": "Vesti FM",
+      "location": "Russia",
+      "genre": "News",
+      "streamUrl": "http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_192kbps",
+      "countryCode": "RU"
+    },
+    {
+      "id": "dance_wave_retro_de",
+      "title": "Dance Wave Retro!",
+      "location": "Germany",
+      "genre": "90s Dance",
+      "streamUrl": "https://retro.dancewave.online/retrodance.mp3",
+      "countryCode": "DE"
+    },
+    {
+      "id": "chanson_radio_ru",
+      "title": "Chanson Radio",
+      "location": "Russia",
+      "genre": "Chanson",
+      "streamUrl": "http://chanson.hostingradio.ru:8041/chanson128.mp3",
+      "countryCode": "RU"
+    },
+    {
+      "id": "ambient_sleeping_pill",
+      "title": "Ambient Sleeping Pill",
+      "location": "Global",
+      "genre": "Ambient",
+      "streamUrl": "http://radio.stereoscenic.com/asp-h"
+    },
+    {
+      "id": "skyrock_fr",
+      "title": "Skyrock",
+      "location": "France",
+      "genre": "Urban",
+      "streamUrl": "http://icecast.skyrock.net/s/natio_mp3_128k",
+      "countryCode": "FR"
+    },
+    {
+      "id": "frisky_radio",
+      "title": "Frisky",
+      "location": "Global",
+      "genre": "Ambient/Electronic",
+      "streamUrl": "http://stream2.friskyradio.com/frisky_mp3_hi"
+    },
+    {
+      "id": "lbc_radio_uk",
+      "title": "LBC",
+      "location": "United Kingdom",
+      "genre": "Talk",
+      "streamUrl": "http://media-sov.musicradio.com/LBC973MP3Low",
+      "countryCode": "GB"
+    },
+    {
+      "id": "radio_zet_pl",
+      "title": "Radio Zet",
+      "location": "Poland",
+      "genre": "Pop",
+      "streamUrl": "http://zet-net-01.cdn.eurozet.pl:8400/",
+      "countryCode": "PL"
+    },
+    {
+      "id": "iran_on_air_kirn_us",
+      "title": "Iran On Air (KIRN)",
+      "location": "USA",
+      "genre": "Persian/Talk",
+      "streamUrl": "http://ice41.securenetsystems.net/KIRN",
+      "countryCode": "US"
+    },
+    {
+      "id": "intense_radio_dance_nl",
+      "title": "Intense Radio - We Love Dance",
+      "location": "Netherlands",
+      "genre": "Dance/Trance",
+      "streamUrl": "https://intenseradio.live-streams.nl:18000/main",
+      "countryCode": "NL"
+    },
+    {
+      "id": "rockabilly_radio_net",
+      "title": "Rockabilly-radio.net",
+      "location": "USA",
+      "genre": "Rockabilly",
+      "streamUrl": "http://lin3.ash.fast-serv.com:6026/stream_96",
+      "countryCode": "US"
+    },
+    {
+      "id": "jazz_radio_ch",
+      "title": "Jazz Radio",
+      "location": "Switzerland",
+      "genre": "Jazz",
+      "streamUrl": "http://jazzradio.ice.infomaniak.ch/jazzradio-high.mp3",
+      "countryCode": "CH"
+    },
+    {
+      "id": "somafm_groove_salad_us",
+      "title": "SomaFM: Groove Salad",
+      "location": "USA",
+      "genre": "Ambient/Downtempo",
+      "streamUrl": "https://ice2.somafm.com/groovesalad-128-mp3",
+      "countryCode": "US"
+    },
+    {
+      "id": "radio_sarcheshmeh",
+      "title": "Radio Sarcheshmeh",
+      "location": "Iran",
+      "genre": "Persian",
+      "streamUrl": "http://sarcheshmeh.icdndhcp.com:18452/stream",
+      "countryCode": "IR"
+    },
+    {
+      "id": "radio_navahang",
+      "title": "Radio Navahang",
+      "location": "Global",
+      "genre": "Persian",
+      "streamUrl": "https://navairan.com/;stream.nsv"
+    },
+    {
+      "id": "radio_record_russian_mix_ru",
+      "title": "Radio Record - Russian Mix",
+      "location": "Russia",
+      "genre": "Dance",
+      "streamUrl": "https://radiorecord.hostingradio.ru/rus96.aacp",
+      "countryCode": "RU"
+    },
+    {
+      "id": "lux_fm_ua",
+      "title": "Lux FM",
+      "location": "Ukraine",
+      "genre": "Pop",
+      "streamUrl": "http://icecastdc.luxnet.ua/lux_mp3_128",
+      "countryCode": "UA"
+    },
+    {
+      "id": "kiss_fm_ua",
+      "title": "Kiss FM",
+      "location": "Ukraine",
+      "genre": "Dance",
+      "streamUrl": "http://online.kissfm.ua/KissFM",
+      "countryCode": "UA"
+    },
+    {
+      "id": "radio_caroline_uk",
+      "title": "Radio Caroline",
+      "location": "United Kingdom",
+      "genre": "Classic Rock",
+      "streamUrl": "http://78.129.202.200:8040/",
+      "countryCode": "GB"
+    },
+    {
+      "id": "komsomolskaya_pravda_ru",
+      "title": "Radio Komsomolskaya Pravda",
+      "location": "Russia",
+      "genre": "Talk/News",
+      "streamUrl": "http://kpradio.hostingradio.ru:8000/russia.radiokp128.mp3",
+      "countryCode": "RU"
+    },
+    {
+      "id": "nashe_radio_ru",
+      "title": "Nashe Radio",
+      "location": "Russia",
+      "genre": "Rock",
+      "streamUrl": "http://nashe1.hostingradio.ru/nashe-128.mp3",
+      "countryCode": "RU"
+    },
+    {
+      "id": "977_the_mix_us",
+      "title": ".977 The Mix",
+      "location": "USA",
+      "genre": "Mix",
+      "streamUrl": "http://26343.live.streamtheworld.com:80/977_MIX_SC",
+      "countryCode": "US"
+    },
+    {
+      "id": "fip_fr",
+      "title": "FIP",
+      "location": "France",
+      "genre": "Eclectic",
+      "streamUrl": "http://icecast.radiofrance.fr/fip-hifi.aac",
+      "countryCode": "FR"
+    },
+    {
+      "id": "cadena_100_es",
+      "title": "Cadena 100",
+      "location": "Spain",
+      "genre": "Pop",
+      "streamUrl": "http://cadena100-streamers-mp3.flumotion.com/cope/cadena100.mp3",
+      "countryCode": "ES"
+    },
+    {
+      "id": "eurodance_90_fr",
+      "title": "EuroDance 90",
+      "location": "France",
+      "genre": "Eurodance",
+      "streamUrl": "https://stream-eurodance90.fr/radio/8000/128.mp3",
+      "countryCode": "FR"
+    },
+    {
+      "id": "talksport_uk",
+      "title": "talkSPORT",
+      "location": "United Kingdom",
+      "genre": "Sports Talk",
+      "streamUrl": "http://radio.talksport.com/stream?aisGetOriginalStream=true",
+      "countryCode": "GB"
+    },
+    {
+      "id": "fnf_fm_hindi_ca",
+      "title": "FnF.FM Bollywood",
+      "location": "Canada",
+      "genre": "Bollywood",
+      "streamUrl": "http://192.99.8.192:5032/;stream",
+      "countryCode": "CA"
+    },
+    {
+      "id": "big_r_80s_metal_us",
+      "title": "Big R Radio - 80s Metal",
+      "location": "USA",
+      "genre": "80s Metal",
+      "streamUrl": "http://bigrradio.cdnstream1.com/5186_128",
+      "countryCode": "US"
+    },
+    {
+      "id": "capital_fm_london_uk",
+      "title": "Capital FM London",
+      "location": "United Kingdom",
+      "genre": "Hit Music",
+      "streamUrl": "http://media-ice.musicradio.com/CapitalMP3",
+      "countryCode": "GB"
+    },
+    {
+      "id": "retro_fm_70s_ru",
+      "title": "Retro FM 70s",
+      "location": "Russia",
+      "genre": "Pop/Retro 70s",
+      "streamUrl": "http://retro70.hostingradio.ru:8025/retro70-128.mp3",
+      "countryCode": "RU"
     }
   ]
 }
