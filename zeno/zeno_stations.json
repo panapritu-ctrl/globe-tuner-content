@@ -1,6 +1,6 @@
 {
-  "version": 3,
-  "updated": "2026-08-16T02:38:16Z",
+  "version": 4,
+  "updated": "2026-08-16T02:42:38Z",
   "stations": [
     {
       "id": "radio_cotonou_94_3_bj",
@@ -401,17 +401,6 @@
       "genre": "Folk",
       "countryCode": "AL",
       "streamUrl": "https://stream-156.zeno.fm/vzp9uf0u3ehvv?zs=Jubk5XJHTEC2zFWm3mOTfA"
-    },
-    {
-      "id": "myfm_jiyo_dil_se_94_3",
-      "title": "MY FM - Jiyo Dil Se",
-      "subtitle": "94.3 MY FM",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/MY_FM_Logo.svg/1200px-MY_FM_Logo.svg.png",
-      "location": "India",
-      "genre": "Bollywood",
-      "streamUrl": "https://stream.zeno.fm/0oybltmaqtbuv",
-      "countryCode": "IN",
-      "curated": true
     },
     {
       "id": "e928bf7b-7de2-4447-87ec-369d1be1b9f5",
@@ -2249,6 +2238,63 @@
       "genre": "Bollywood",
       "countryCode": "IN",
       "streamUrl": "https://us3.streamingpulse.com/ssl/radiodil2"
+    },
+    {
+      "id": "mirchi_fm_102_4_hindi_in",
+      "title": "Radio Mirchi Hindi (102.4 FM)",
+      "location": "India",
+      "genre": "Bollywood",
+      "countryCode": "IN",
+      "streamUrl": "https://eu8.fastcast4u.com/proxy/clyedupq/stream"
+    },
+    {
+      "id": "radio_mirchi_usa",
+      "title": "Radio Mirchi USA",
+      "location": "USA",
+      "genre": "Bollywood",
+      "countryCode": "US",
+      "streamUrl": "https://streams.radio.co/s8d06d0298/listen"
+    },
+    {
+      "id": "radio_mirchi_new_jersey_us",
+      "title": "Radio Mirchi New Jersey",
+      "location": "New Jersey, USA",
+      "genre": "Bollywood",
+      "countryCode": "US",
+      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/NJS_HIN_ESTAAC.m3u8"
+    },
+    {
+      "id": "radio_mirchi_bay_area_us",
+      "title": "Radio Mirchi Bay Area",
+      "location": "Bay Area, USA",
+      "genre": "Bollywood",
+      "countryCode": "US",
+      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/SFO_HIN_PSTAAC.aac"
+    },
+    {
+      "id": "meethi_mirchi_top_20_in",
+      "title": "Meethi Mirchi (Top 20)",
+      "location": "India",
+      "genre": "Bollywood",
+      "countryCode": "IN",
+      "streamUrl": "https://drive.uber.radio/uber/bollywoodnow/icecast.audio"
+    },
+    {
+      "id": "mirchi_love_in",
+      "title": "Mirchi Love",
+      "location": "India",
+      "genre": "Bollywood",
+      "countryCode": "IN",
+      "streamUrl": "https://drive.uber.radio/uber/bollywoodlove/icecast.audio"
+    },
+    {
+      "id": "club_mirchi_in",
+      "title": "Club Mirchi",
+      "subtitle": "Dance/Remix",
+      "location": "India",
+      "genre": "Dance",
+      "countryCode": "IN",
+      "streamUrl": "https://mirchiplaylive.akamaized.net/hls/live/2036929-b/MUM/CLUBMI_Auto.m3u8"
     }
   ]
 }
