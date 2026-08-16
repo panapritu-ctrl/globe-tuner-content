@@ -1,6 +1,6 @@
 {
-  "version": 9,
-  "updated": "2026-08-16T03:52:23Z",
+  "version": 10,
+  "updated": "2026-08-16T03:59:12Z",
   "stations": [
     {
       "id": "radio_cotonou_94_3_bj",
@@ -331,19 +331,6 @@
       "genre": "African",
       "countryCode": "UG",
       "streamUrl": "https://stream.zeno.fm/ahtmyttw5mftv"
-    },
-    {
-      "id": "rb2_namaste_radio_71191ad2",
-      "title": "Namaste Radio",
-      "subtitle": "Bollywood",
-      "imageUrl": "",
-      "streamUrl": "https://node-25.zeno.fm/cqak4ap7by8uv",
-      "location": "Uganda",
-      "genre": "Bollywood",
-      "countryCode": "UG",
-      "language": "indian",
-      "clickCount": 1,
-      "bitrate": 128
     },
     {
       "id": "uganda_djs_ug_b455fc",
@@ -945,15 +932,6 @@
       "bitrate": 128
     },
     {
-      "id": "radio_rumbos_670_am_ve_5ee33f",
-      "title": "RADIO RUMBOS 670 AM",
-      "subtitle": "Ardió Rumbos 670",
-      "location": "Bolivarian Republic Of Venezuela",
-      "genre": "Ardió Rumbos 670",
-      "streamUrl": "https://stream.zeno.fm/c3q3w8zfe18uv?triton-uid-cookie%3A0fae79a4-e789-4b9b-9ca7-d30ae705f0a6",
-      "countryCode": "VE"
-    },
-    {
       "id": "rb2_rumbera_98_7_fm_9b65b9dd",
       "title": "Rumbera  98.7 FM",
       "subtitle": "Hits, Latino",
@@ -983,19 +961,6 @@
       "genre": "Bangla",
       "countryCode": "BD",
       "streamUrl": "https://stream-156.zeno.fm/be5bqmk1k18uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJiZTVicW1rMWsxOHV2IiwiaG9zdCI6InN0cmVhbS0xNTYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjB1c0x1ZURGVEhTR0EwSDE1N2VBVmciLCJpYXQiOjE3MzU0NTM5MjQsImV4cCI6MTczNTQ1Mzk4NH0.vjlgqsHzQRt-_2T0LIHscJkAVHXd8hYV8Z6NDvvEWYk"
-    },
-    {
-      "id": "rb_radio_shadhin_ec0e9fac",
-      "title": "Radio Shadhin",
-      "subtitle": "Bangla, Bangladesh",
-      "imageUrl": "",
-      "streamUrl": "https://stream-157.zeno.fm/eabgu655puquv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJlYWJndTY1NXB1cXV2IiwiaG9zdCI6InN0cmVhbS0xNTcuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ijh6NzR2TE5jUmJLV1pzMExqQWpYcmciLCJpYXQiOjE3Mjc1NDQwMjYsImV4cCI6MTcyNzU0NDA4Nn0.nm5A8Sbpg2aM811icSh5Au4Wigql4rOzRb0eKDW8Hz4",
-      "location": "Bangladesh",
-      "genre": "Bangla",
-      "countryCode": "BD",
-      "language": "bangla",
-      "clickCount": 4,
-      "bitrate": 128
     },
     {
       "id": "rb_rajshahi_fm_4ef03374",
@@ -2946,6 +2911,285 @@
       "streamUrl": "http://retro70.hostingradio.ru:8025/retro70-128.mp3",
       "countryCode": "RU",
       "curated": true
+    },
+    {
+      "id": "radio_madhoshi_in_e68e7527",
+      "title": "Radio Madhoshi",
+      "subtitle": "Bollywood",
+      "location": "India",
+      "genre": "Bollywood",
+      "streamUrl": "https://stream.zeno.fm/7rsl8fsccf8uv",
+      "countryCode": "IN"
+    },
+    {
+      "id": "station_us_975492e2",
+      "title": "自由亚洲",
+      "subtitle": "Information",
+      "location": "The United States Of America",
+      "genre": "Information",
+      "streamUrl": "https://stream-160.zeno.fm/ub3pfplpqbktv",
+      "countryCode": "US"
+    },
+    {
+      "id": "horizon_fm_104_4_ouagadougou_bf_c319e79b",
+      "title": "Horizon FM 104.4 Ouagadougou",
+      "subtitle": "African Music",
+      "location": "Burkina Faso",
+      "genre": "African Music",
+      "streamUrl": "https://stream.zeno.fm/0945crn4bf9uv",
+      "countryCode": "BF"
+    },
+    {
+      "id": "exa_fm_101_7_guatemala_gt_774563ba",
+      "title": "Exa FM 101.7 Guatemala",
+      "subtitle": "101.7 Fm",
+      "location": "Guatemala",
+      "genre": "101.7 Fm",
+      "streamUrl": "https://stream.zeno.fm/czdkk32qduhvv",
+      "countryCode": "GT"
+    },
+    {
+      "id": "heaven_fm_radio_rwanda_rw_cec7ccf1",
+      "title": "Heaven FM Radio Rwanda",
+      "subtitle": "Radio",
+      "location": "Rwanda",
+      "genre": "Radio",
+      "streamUrl": "http://stream.zeno.fm/eequgfw72hhvv",
+      "countryCode": "RW"
+    },
+    {
+      "id": "r_dio_buteco_sertanejo_br_7c0dfea6",
+      "title": "Rádio Buteco Sertanejo",
+      "subtitle": "Country Music",
+      "location": "Brazil",
+      "genre": "Country Music",
+      "streamUrl": "https://stream.zeno.fm/6kumndewqbruv",
+      "countryCode": "BR"
+    },
+    {
+      "id": "radioactivo_98_1_2_fuck_everyone_else_mx_4dbf18d6",
+      "title": "RADIOACTIVO 98 1/2: Fuck Everyone Else!",
+      "subtitle": "2000S",
+      "location": "Mexico",
+      "genre": "2000S",
+      "streamUrl": "http://stream.zeno.fm/0dede0adz4zuv",
+      "countryCode": "MX"
+    },
+    {
+      "id": "dangdut2_id_98d670a3",
+      "title": "Dangdut2",
+      "subtitle": "Dangdut",
+      "location": "Indonesia",
+      "genre": "Dangdut",
+      "streamUrl": "https://stream.zeno.fm/vwhplynnpfjtv",
+      "countryCode": "ID"
+    },
+    {
+      "id": "radio_azrou_live_ma_bd813044",
+      "title": "Radio Azrou Live",
+      "subtitle": "Culture",
+      "location": "Morocco",
+      "genre": "Culture",
+      "streamUrl": "https://stream.zeno.fm/nzdw7gqc0s8uv",
+      "countryCode": "MA"
+    },
+    {
+      "id": "station_jp_873ae475",
+      "title": "大富ラジオ",
+      "subtitle": "Radio",
+      "location": "Japan",
+      "genre": "Radio",
+      "streamUrl": "https://stream.zeno.fm/oaxp6mswcqltv",
+      "countryCode": "JP"
+    },
+    {
+      "id": "splash_fm_abeokuta_ng_3aa38196",
+      "title": "Splash FM Abeokuta",
+      "subtitle": "Radio",
+      "location": "Nigeria",
+      "genre": "Radio",
+      "streamUrl": "https://stream.zeno.fm/m9x6zr5trp8uv",
+      "countryCode": "NG"
+    },
+    {
+      "id": "station_us_0c123085",
+      "title": "美国之音",
+      "subtitle": "Information",
+      "location": "The United States Of America",
+      "genre": "Information",
+      "streamUrl": "https://stream.zeno.fm/u87dfeeyk2zuv",
+      "countryCode": "US"
+    },
+    {
+      "id": "free_fm_chill_es_c3f52d16",
+      "title": "Free FM Chill",
+      "subtitle": "#Chill #80S #90S",
+      "location": "Spain",
+      "genre": "#Chill #80S #90S",
+      "streamUrl": "https://stream.zeno.fm/fr76gzq1kv8uv",
+      "countryCode": "ES"
+    },
+    {
+      "id": "mirt_internet_radio_et_c68b63fb",
+      "title": "Mirt Internet Radio",
+      "subtitle": "Radio",
+      "location": "Ethiopia",
+      "genre": "Radio",
+      "streamUrl": "http://stream.zeno.fm/akmuznguawzuv",
+      "countryCode": "ET"
+    },
+    {
+      "id": "radio_audio_np_6ccfbd78",
+      "title": "Radio Audio",
+      "subtitle": "Entertainment",
+      "location": "Nepal",
+      "genre": "Entertainment",
+      "streamUrl": "https://stream.zeno.fm/fvrx47wpg0quv",
+      "countryCode": "NP"
+    },
+    {
+      "id": "station_cn_523416c7",
+      "title": "韩国音乐台",
+      "subtitle": "Music",
+      "location": "China",
+      "genre": "Music",
+      "streamUrl": "https://stream.zeno.fm/r0tbse9jnbptv",
+      "countryCode": "CN"
+    },
+    {
+      "id": "mrc_radio_adwaa_music_3_ma_7db00fae",
+      "title": "MRC:-Radio Adwaa Music 3",
+      "subtitle": "Country",
+      "location": "Morocco",
+      "genre": "Country",
+      "streamUrl": "https://stream.zeno.fm/x4451xh0x1zuv",
+      "countryCode": "MA"
+    },
+    {
+      "id": "addis_music_et_6c540cbe",
+      "title": "Addis Music",
+      "subtitle": "Ethiopia",
+      "location": "Ethiopia",
+      "genre": "Ethiopia",
+      "streamUrl": "https://stream.zeno.fm/umguj2baxdctv",
+      "countryCode": "ET"
+    },
+    {
+      "id": "workouttime_usa_us_a74dabd1",
+      "title": "WorkoutTime USA",
+      "subtitle": "Gym",
+      "location": "The United States Of America",
+      "genre": "Gym",
+      "streamUrl": "https://stream.zeno.fm/60pg6mi67hytv",
+      "countryCode": "US"
+    },
+    {
+      "id": "radio_jkkniu_bd_535529cc",
+      "title": "Radio JKKNIU",
+      "subtitle": "Bollywood",
+      "location": "Bangladesh",
+      "genre": "Bollywood",
+      "streamUrl": "https://stream.zeno.fm/risgdzpf1cxtv",
+      "countryCode": "BD"
+    },
+    {
+      "id": "radio_music_indonesia_id_ade5e6e6",
+      "title": "Radio Music Indonesia",
+      "subtitle": "Radio",
+      "location": "Indonesia",
+      "genre": "Radio",
+      "streamUrl": "https://stream.zeno.fm/wvq442iwm6ztv",
+      "countryCode": "ID"
+    },
+    {
+      "id": "ghettoo_kenya_ke_ef92046c",
+      "title": "GHETTOO KENYA",
+      "subtitle": "Classical",
+      "location": "Kenya",
+      "genre": "Classical",
+      "streamUrl": "http://stream.zeno.fm/cs4q33arb2zuv",
+      "countryCode": "KE"
+    },
+    {
+      "id": "big_radio_bolivia_bo_1bccbeb3",
+      "title": "Big Radio Bolivia",
+      "subtitle": "Caporal",
+      "location": "Bolivia",
+      "genre": "Caporal",
+      "streamUrl": "http://stream.zeno.fm/cb4zhgss538uv",
+      "countryCode": "BO"
+    },
+    {
+      "id": "radio_bbc_news_haiti_ht_006b357f",
+      "title": "RADIO BBC NEWS HAITI",
+      "subtitle": "Musuc",
+      "location": "Haiti",
+      "genre": "Musuc",
+      "streamUrl": "http://stream.zeno.fm/hpdayz31vd0uv",
+      "countryCode": "HT"
+    },
+    {
+      "id": "adum_radio_gh_9053f18e",
+      "title": "ADUM RADIO",
+      "subtitle": "Adom",
+      "location": "Ghana",
+      "genre": "Adom",
+      "streamUrl": "http://stream.zeno.fm/dmn9atfb7ehvv",
+      "countryCode": "GH"
+    },
+    {
+      "id": "sun_tamil_radio_in_4c712546",
+      "title": "sun-tamil-radio",
+      "subtitle": "Radio",
+      "location": "India",
+      "genre": "Radio",
+      "streamUrl": "https://stream.zeno.fm/yavek61461zuv.aac",
+      "countryCode": "IN"
+    },
+    {
+      "id": "gangan_radio_ng_297e1554",
+      "title": "GanGan Radio",
+      "subtitle": "African Music",
+      "location": "Nigeria",
+      "genre": "African Music",
+      "streamUrl": "https://stream.zeno.fm/9reuhyz8up8uv",
+      "countryCode": "NG"
+    },
+    {
+      "id": "groove100_fm_mw_e96d66a7",
+      "title": "Groove100 FM",
+      "subtitle": "Hip-Hop",
+      "location": "Malawi",
+      "genre": "Hip-Hop",
+      "streamUrl": "https://stream.zeno.fm/0r0xa792kwzuv",
+      "countryCode": "MW"
+    },
+    {
+      "id": "jovem_pan_news_br_49f7e85a",
+      "title": "Jovem Pan News",
+      "subtitle": "News",
+      "location": "Brazil",
+      "genre": "News",
+      "streamUrl": "https://stream.zeno.fm/vlcraijc6yiuv",
+      "countryCode": "BR"
+    },
+    {
+      "id": "anbu_fm_kannada_in_9d9b3bae",
+      "title": "Anbu FM Kannada",
+      "subtitle": "Radio",
+      "location": "India",
+      "genre": "Radio",
+      "streamUrl": "http://stream.zeno.fm/45f9c2byfy8uv",
+      "countryCode": "IN"
+    },
+    {
+      "id": "station_cn_3e89bf28",
+      "title": "中文课程朗读",
+      "subtitle": "Educational",
+      "location": "China",
+      "genre": "Educational",
+      "streamUrl": "https://stream.zeno.fm/rnxvrexlnajvv",
+      "countryCode": "CN"
     }
   ]
 }
