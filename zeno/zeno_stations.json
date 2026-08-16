@@ -1,6 +1,6 @@
 {
-  "version": 8,
-  "updated": "2026-08-16T03:10:31Z",
+  "version": 9,
+  "updated": "2026-08-16T03:52:23Z",
   "stations": [
     {
       "id": "radio_cotonou_94_3_bj",
@@ -2237,7 +2237,8 @@
       "location": "India",
       "genre": "Bollywood",
       "countryCode": "IN",
-      "streamUrl": "https://us3.streamingpulse.com/ssl/radiodil2"
+      "streamUrl": "https://us3.streamingpulse.com/ssl/radiodil2",
+      "curated": true
     },
     {
       "id": "mirchi_fm_102_4_hindi_in",
@@ -2245,7 +2246,8 @@
       "location": "India",
       "genre": "Bollywood",
       "countryCode": "IN",
-      "streamUrl": "https://eu8.fastcast4u.com/proxy/clyedupq/stream"
+      "streamUrl": "https://eu8.fastcast4u.com/proxy/clyedupq/stream",
+      "curated": true
     },
     {
       "id": "radio_mirchi_usa",
@@ -2253,7 +2255,8 @@
       "location": "USA",
       "genre": "Bollywood",
       "countryCode": "US",
-      "streamUrl": "https://streams.radio.co/s8d06d0298/listen"
+      "streamUrl": "https://streams.radio.co/s8d06d0298/listen",
+      "curated": true
     },
     {
       "id": "radio_mirchi_new_jersey_us",
@@ -2261,7 +2264,8 @@
       "location": "New Jersey, USA",
       "genre": "Bollywood",
       "countryCode": "US",
-      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/NJS_HIN_ESTAAC.m3u8"
+      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/NJS_HIN_ESTAAC.m3u8",
+      "curated": true
     },
     {
       "id": "radio_mirchi_bay_area_us",
@@ -2269,7 +2273,8 @@
       "location": "Bay Area, USA",
       "genre": "Bollywood",
       "countryCode": "US",
-      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/SFO_HIN_PSTAAC.aac"
+      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/SFO_HIN_PSTAAC.aac",
+      "curated": true
     },
     {
       "id": "meethi_mirchi_top_20_in",
@@ -2277,7 +2282,8 @@
       "location": "India",
       "genre": "Bollywood",
       "countryCode": "IN",
-      "streamUrl": "https://drive.uber.radio/uber/bollywoodnow/icecast.audio"
+      "streamUrl": "https://drive.uber.radio/uber/bollywoodnow/icecast.audio",
+      "curated": true
     },
     {
       "id": "mirchi_love_in",
@@ -2285,7 +2291,8 @@
       "location": "India",
       "genre": "Bollywood",
       "countryCode": "IN",
-      "streamUrl": "https://drive.uber.radio/uber/bollywoodlove/icecast.audio"
+      "streamUrl": "https://drive.uber.radio/uber/bollywoodlove/icecast.audio",
+      "curated": true
     },
     {
       "id": "club_mirchi_in",
@@ -2294,7 +2301,8 @@
       "location": "India",
       "genre": "Dance",
       "countryCode": "IN",
-      "streamUrl": "https://mirchiplaylive.akamaized.net/hls/live/2036929-b/MUM/CLUBMI_Auto.m3u8"
+      "streamUrl": "https://mirchiplaylive.akamaized.net/hls/live/2036929-b/MUM/CLUBMI_Auto.m3u8",
+      "curated": true
     },
     {
       "id": "suno_melody_qa",
@@ -2302,7 +2310,8 @@
       "location": "Qatar",
       "genre": "Tamil",
       "countryCode": "QA",
-      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_SUNO_MELODY_S06.mp3"
+      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_SUNO_MELODY_S06.mp3",
+      "curated": true
     },
     {
       "id": "mangoradio_de",
@@ -2310,7 +2319,8 @@
       "location": "Germany",
       "genre": "Charts",
       "streamUrl": "https://mangoradio.stream.laut.fm/mangoradio",
-      "countryCode": "DE"
+      "countryCode": "DE",
+      "curated": true
     },
     {
       "id": "dance_wave_online",
@@ -2318,7 +2328,8 @@
       "location": "Germany",
       "genre": "Dance",
       "streamUrl": "https://dancewave.online/dance.mp3",
-      "countryCode": "DE"
+      "countryCode": "DE",
+      "curated": true
     },
     {
       "id": "reyfm_original_de",
@@ -2326,14 +2337,16 @@
       "location": "Germany",
       "genre": "Dance",
       "streamUrl": "https://listen.reyfm.de/original_192kbps.mp3",
-      "countryCode": "DE"
+      "countryCode": "DE",
+      "curated": true
     },
     {
       "id": "radio_paradise_main_eu",
       "title": "Radio Paradise (Main Mix)",
       "location": "Global",
       "genre": "Eclectic",
-      "streamUrl": "http://stream-uk1.radioparadise.com/aac-320"
+      "streamUrl": "http://stream-uk1.radioparadise.com/aac-320",
+      "curated": true
     },
     {
       "id": "classic_vinyl_hd_us",
@@ -2341,7 +2354,8 @@
       "location": "USA",
       "genre": "Lounge/Easy Listening",
       "streamUrl": "https://icecast.walmradio.com:8443/classic",
-      "countryCode": "US"
+      "countryCode": "US",
+      "curated": true
     },
     {
       "id": "adroit_jazz_underground_us",
@@ -2349,7 +2363,8 @@
       "location": "USA",
       "genre": "Contemporary Jazz",
       "streamUrl": "https://icecast.walmradio.com:8443/jazz",
-      "countryCode": "US"
+      "countryCode": "US",
+      "curated": true
     },
     {
       "id": "christmas_vinyl_hd_us",
@@ -2357,7 +2372,8 @@
       "location": "USA",
       "genre": "Christmas",
       "streamUrl": "https://icecast.walmradio.com:8443/christmas",
-      "countryCode": "US"
+      "countryCode": "US",
+      "curated": true
     },
     {
       "id": "walm_hd_us",
@@ -2365,7 +2381,8 @@
       "location": "USA",
       "genre": "Christian/Faith",
       "streamUrl": "https://icecast.walmradio.com:8443/walm",
-      "countryCode": "US"
+      "countryCode": "US",
+      "curated": true
     },
     {
       "id": "bbc_world_service",
@@ -2373,7 +2390,8 @@
       "location": "United Kingdom",
       "genre": "News",
       "streamUrl": "http://stream.live.vc.bbcmedia.co.uk/bbc_world_service",
-      "countryCode": "GB"
+      "countryCode": "GB",
+      "curated": true
     },
     {
       "id": "walm_old_time_radio_us",
@@ -2381,7 +2399,8 @@
       "location": "USA",
       "genre": "Old Time Radio",
       "streamUrl": "https://icecast.walmradio.com:8443/otr",
-      "countryCode": "US"
+      "countryCode": "US",
+      "curated": true
     },
     {
       "id": "iran_international_uk",
@@ -2389,7 +2408,8 @@
       "location": "United Kingdom",
       "genre": "News",
       "streamUrl": "https://radio.iraninternational.app/iintl_c",
-      "countryCode": "GB"
+      "countryCode": "GB",
+      "curated": true
     },
     {
       "id": "walm_2_hd_us",
@@ -2397,7 +2417,8 @@
       "location": "USA",
       "genre": "Christian/Faith",
       "streamUrl": "https://icecast.walmradio.com:8443/walm2",
-      "countryCode": "US"
+      "countryCode": "US",
+      "curated": true
     },
     {
       "id": "radio_liberty_farda_iran",
@@ -2405,7 +2426,8 @@
       "location": "Iran",
       "genre": "News",
       "streamUrl": "https://stream.radiojar.com/cp13r2cpn3quv",
-      "countryCode": "IR"
+      "countryCode": "IR",
+      "curated": true
     },
     {
       "id": "radio_parsa",
@@ -2413,7 +2435,8 @@
       "location": "Iran",
       "genre": "Persian",
       "streamUrl": "http://parsa.icdndhcp.com:18000/stream",
-      "countryCode": "IR"
+      "countryCode": "IR",
+      "curated": true
     },
     {
       "id": "france_info_fr",
@@ -2421,7 +2444,8 @@
       "location": "France",
       "genre": "News",
       "streamUrl": "http://direct.franceinfo.fr/live/franceinfo-midfi.mp3",
-      "countryCode": "FR"
+      "countryCode": "FR",
+      "curated": true
     },
     {
       "id": "smooth_jazz_101_us",
@@ -2429,7 +2453,8 @@
       "location": "USA",
       "genre": "Jazz",
       "streamUrl": "http://jking.cdnstream1.com/b22139_128mp3",
-      "countryCode": "US"
+      "countryCode": "US",
+      "curated": true
     },
     {
       "id": "rfi_afrique_fr",
@@ -2437,7 +2462,8 @@
       "location": "France",
       "genre": "News",
       "streamUrl": "http://live02.rfi.fr/rfiafrique-64.mp3",
-      "countryCode": "FR"
+      "countryCode": "FR",
+      "curated": true
     },
     {
       "id": "mosaique_fm_tn",
@@ -2445,7 +2471,8 @@
       "location": "Tunisia",
       "genre": "General",
       "streamUrl": "http://radio.mosaiquefm.net:8000/mosalive",
-      "countryCode": "TN"
+      "countryCode": "TN",
+      "curated": true
     },
     {
       "id": "rmc_fr",
@@ -2453,7 +2480,8 @@
       "location": "France",
       "genre": "Talk/News",
       "streamUrl": "https://audio.bfmtv.com/rmcradio_128.mp3",
-      "countryCode": "FR"
+      "countryCode": "FR",
+      "curated": true
     },
     {
       "id": "jazz_radio_blues_ch",
@@ -2461,7 +2489,8 @@
       "location": "Switzerland",
       "genre": "Jazz/Blues",
       "streamUrl": "http://jazzblues.ice.infomaniak.ch/jazzblues-high.mp3",
-      "countryCode": "CH"
+      "countryCode": "CH",
+      "curated": true
     },
     {
       "id": "rmf_fm_pl",
@@ -2469,7 +2498,8 @@
       "location": "Poland",
       "genre": "Pop",
       "streamUrl": "http://195.150.20.242:8000/rmf_fm",
-      "countryCode": "PL"
+      "countryCode": "PL",
+      "curated": true
     },
     {
       "id": "france_inter_fr",
@@ -2477,7 +2507,8 @@
       "location": "France",
       "genre": "News/Talk",
       "streamUrl": "http://direct.franceinter.fr/live/franceinter-hifi.aac",
-      "countryCode": "FR"
+      "countryCode": "FR",
+      "curated": true
     },
     {
       "id": "hit_fm_ua",
@@ -2485,7 +2516,8 @@
       "location": "Ukraine",
       "genre": "Pop",
       "streamUrl": "http://195.95.206.17/HitFM",
-      "countryCode": "UA"
+      "countryCode": "UA",
+      "curated": true
     },
     {
       "id": "europa_plus_ru",
@@ -2493,7 +2525,8 @@
       "location": "Russia",
       "genre": "Pop",
       "streamUrl": "http://ep256.hostingradio.ru:8052/europaplus256.mp3",
-      "countryCode": "RU"
+      "countryCode": "RU",
+      "curated": true
     },
     {
       "id": "rock_fm_ru",
@@ -2501,14 +2534,16 @@
       "location": "Russia",
       "genre": "Rock",
       "streamUrl": "http://nashe1.hostingradio.ru/rock-128.mp3",
-      "countryCode": "RU"
+      "countryCode": "RU",
+      "curated": true
     },
     {
       "id": "classic_hits_70_80_disco",
       "title": "Classic Hits Radio 70 80",
       "location": "Global",
       "genre": "Disco/Funk",
-      "streamUrl": "https://radiopanther.radiolebowski.com/play"
+      "streamUrl": "https://radiopanther.radiolebowski.com/play",
+      "curated": true
     },
     {
       "id": "radio_vanya_ru",
@@ -2516,7 +2551,8 @@
       "location": "Russia",
       "genre": "Pop",
       "streamUrl": "https://icecast-radiovanya.cdnvideo.ru/radiovanya",
-      "countryCode": "RU"
+      "countryCode": "RU",
+      "curated": true
     },
     {
       "id": "rfi_monde_fr",
@@ -2524,7 +2560,8 @@
       "location": "France",
       "genre": "News",
       "streamUrl": "http://live02.rfi.fr/rfimonde-64.mp3",
-      "countryCode": "FR"
+      "countryCode": "FR",
+      "curated": true
     },
     {
       "id": "classic_fm_uk",
@@ -2532,7 +2569,8 @@
       "location": "United Kingdom",
       "genre": "Classical",
       "streamUrl": "http://ice-the.musicradio.com/ClassicFMMP3",
-      "countryCode": "GB"
+      "countryCode": "GB",
+      "curated": true
     },
     {
       "id": "radio_faaz",
@@ -2540,7 +2578,8 @@
       "location": "Iran",
       "genre": "Persian",
       "streamUrl": "http://www.radiofaaz.com:8000/radiofaaz",
-      "countryCode": "IR"
+      "countryCode": "IR",
+      "curated": true
     },
     {
       "id": "dfm_diskach_90s_ru",
@@ -2548,7 +2587,8 @@
       "location": "Russia",
       "genre": "90s",
       "streamUrl": "https://dfm-disc90.hostingradio.ru/disc9096.aacp",
-      "countryCode": "RU"
+      "countryCode": "RU",
+      "curated": true
     },
     {
       "id": "your_classical_relax_us",
@@ -2556,7 +2596,8 @@
       "location": "USA",
       "genre": "Classical/Relax",
       "streamUrl": "http://relax.stream.publicradio.org/relax.mp3",
-      "countryCode": "US"
+      "countryCode": "US",
+      "curated": true
     },
     {
       "id": "181fm_old_school_hiphop_us",
@@ -2564,7 +2605,8 @@
       "location": "USA",
       "genre": "HipHop/RnB",
       "streamUrl": "http://listen.181fm.com/181-oldschool_128k.mp3",
-      "countryCode": "US"
+      "countryCode": "US",
+      "curated": true
     },
     {
       "id": "retro_fm_ru",
@@ -2572,7 +2614,8 @@
       "location": "Russia",
       "genre": "Pop/Retro",
       "streamUrl": "http://retroserver.streamr.ru:8043/retro256.mp3",
-      "countryCode": "RU"
+      "countryCode": "RU",
+      "curated": true
     },
     {
       "id": "radio_russkie_pesni_ru",
@@ -2580,7 +2623,8 @@
       "location": "Russia",
       "genre": "Pop",
       "streamUrl": "http://listen.rusongs.ru/ru-mp3-128",
-      "countryCode": "RU"
+      "countryCode": "RU",
+      "curated": true
     },
     {
       "id": "977_country_us",
@@ -2588,7 +2632,8 @@
       "location": "USA",
       "genre": "Country",
       "streamUrl": "http://15113.live.streamtheworld.com:80/977_COUNTRY_SC",
-      "countryCode": "US"
+      "countryCode": "US",
+      "curated": true
     },
     {
       "id": "dorognoe_radio_ru",
@@ -2596,7 +2641,8 @@
       "location": "Russia",
       "genre": "Pop",
       "streamUrl": "http://dorognoe.hostingradio.ru:8000/radio",
-      "countryCode": "RU"
+      "countryCode": "RU",
+      "curated": true
     },
     {
       "id": "france_culture_fr",
@@ -2604,7 +2650,8 @@
       "location": "France",
       "genre": "Culture/Talk",
       "streamUrl": "http://icecast.radiofrance.fr/franceculture-hifi.aac",
-      "countryCode": "FR"
+      "countryCode": "FR",
+      "curated": true
     },
     {
       "id": "977_80s_us",
@@ -2612,7 +2659,8 @@
       "location": "USA",
       "genre": "80s",
       "streamUrl": "http://17633.live.streamtheworld.com:80/977_80_SC",
-      "countryCode": "US"
+      "countryCode": "US",
+      "curated": true
     },
     {
       "id": "977_hitz_us",
@@ -2620,7 +2668,8 @@
       "location": "USA",
       "genre": "Hits",
       "streamUrl": "http://18493.live.streamtheworld.com:80/977_HITS_SC",
-      "countryCode": "US"
+      "countryCode": "US",
+      "curated": true
     },
     {
       "id": "dfm_russian_dance_ru",
@@ -2628,7 +2677,8 @@
       "location": "Russia",
       "genre": "Dance",
       "streamUrl": "https://dfm-dfmrusdance.hostingradio.ru/dfmrusdance96.aacp",
-      "countryCode": "RU"
+      "countryCode": "RU",
+      "curated": true
     },
     {
       "id": "vesti_fm_ru",
@@ -2636,7 +2686,8 @@
       "location": "Russia",
       "genre": "News",
       "streamUrl": "http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_192kbps",
-      "countryCode": "RU"
+      "countryCode": "RU",
+      "curated": true
     },
     {
       "id": "dance_wave_retro_de",
@@ -2644,7 +2695,8 @@
       "location": "Germany",
       "genre": "90s Dance",
       "streamUrl": "https://retro.dancewave.online/retrodance.mp3",
-      "countryCode": "DE"
+      "countryCode": "DE",
+      "curated": true
     },
     {
       "id": "chanson_radio_ru",
@@ -2652,14 +2704,16 @@
       "location": "Russia",
       "genre": "Chanson",
       "streamUrl": "http://chanson.hostingradio.ru:8041/chanson128.mp3",
-      "countryCode": "RU"
+      "countryCode": "RU",
+      "curated": true
     },
     {
       "id": "ambient_sleeping_pill",
       "title": "Ambient Sleeping Pill",
       "location": "Global",
       "genre": "Ambient",
-      "streamUrl": "http://radio.stereoscenic.com/asp-h"
+      "streamUrl": "http://radio.stereoscenic.com/asp-h",
+      "curated": true
     },
     {
       "id": "skyrock_fr",
@@ -2667,14 +2721,16 @@
       "location": "France",
       "genre": "Urban",
       "streamUrl": "http://icecast.skyrock.net/s/natio_mp3_128k",
-      "countryCode": "FR"
+      "countryCode": "FR",
+      "curated": true
     },
     {
       "id": "frisky_radio",
       "title": "Frisky",
       "location": "Global",
       "genre": "Ambient/Electronic",
-      "streamUrl": "http://stream2.friskyradio.com/frisky_mp3_hi"
+      "streamUrl": "http://stream2.friskyradio.com/frisky_mp3_hi",
+      "curated": true
     },
     {
       "id": "lbc_radio_uk",
@@ -2682,7 +2738,8 @@
       "location": "United Kingdom",
       "genre": "Talk",
       "streamUrl": "http://media-sov.musicradio.com/LBC973MP3Low",
-      "countryCode": "GB"
+      "countryCode": "GB",
+      "curated": true
     },
     {
       "id": "radio_zet_pl",
@@ -2690,7 +2747,8 @@
       "location": "Poland",
       "genre": "Pop",
       "streamUrl": "http://zet-net-01.cdn.eurozet.pl:8400/",
-      "countryCode": "PL"
+      "countryCode": "PL",
+      "curated": true
     },
     {
       "id": "iran_on_air_kirn_us",
@@ -2698,7 +2756,8 @@
       "location": "USA",
       "genre": "Persian/Talk",
       "streamUrl": "http://ice41.securenetsystems.net/KIRN",
-      "countryCode": "US"
+      "countryCode": "US",
+      "curated": true
     },
     {
       "id": "intense_radio_dance_nl",
@@ -2706,7 +2765,8 @@
       "location": "Netherlands",
       "genre": "Dance/Trance",
       "streamUrl": "https://intenseradio.live-streams.nl:18000/main",
-      "countryCode": "NL"
+      "countryCode": "NL",
+      "curated": true
     },
     {
       "id": "rockabilly_radio_net",
@@ -2714,7 +2774,8 @@
       "location": "USA",
       "genre": "Rockabilly",
       "streamUrl": "http://lin3.ash.fast-serv.com:6026/stream_96",
-      "countryCode": "US"
+      "countryCode": "US",
+      "curated": true
     },
     {
       "id": "jazz_radio_ch",
@@ -2722,7 +2783,8 @@
       "location": "Switzerland",
       "genre": "Jazz",
       "streamUrl": "http://jazzradio.ice.infomaniak.ch/jazzradio-high.mp3",
-      "countryCode": "CH"
+      "countryCode": "CH",
+      "curated": true
     },
     {
       "id": "somafm_groove_salad_us",
@@ -2730,7 +2792,8 @@
       "location": "USA",
       "genre": "Ambient/Downtempo",
       "streamUrl": "https://ice2.somafm.com/groovesalad-128-mp3",
-      "countryCode": "US"
+      "countryCode": "US",
+      "curated": true
     },
     {
       "id": "radio_sarcheshmeh",
@@ -2738,14 +2801,16 @@
       "location": "Iran",
       "genre": "Persian",
       "streamUrl": "http://sarcheshmeh.icdndhcp.com:18452/stream",
-      "countryCode": "IR"
+      "countryCode": "IR",
+      "curated": true
     },
     {
       "id": "radio_navahang",
       "title": "Radio Navahang",
       "location": "Global",
       "genre": "Persian",
-      "streamUrl": "https://navairan.com/;stream.nsv"
+      "streamUrl": "https://navairan.com/;stream.nsv",
+      "curated": true
     },
     {
       "id": "radio_record_russian_mix_ru",
@@ -2753,7 +2818,8 @@
       "location": "Russia",
       "genre": "Dance",
       "streamUrl": "https://radiorecord.hostingradio.ru/rus96.aacp",
-      "countryCode": "RU"
+      "countryCode": "RU",
+      "curated": true
     },
     {
       "id": "lux_fm_ua",
@@ -2761,7 +2827,8 @@
       "location": "Ukraine",
       "genre": "Pop",
       "streamUrl": "http://icecastdc.luxnet.ua/lux_mp3_128",
-      "countryCode": "UA"
+      "countryCode": "UA",
+      "curated": true
     },
     {
       "id": "kiss_fm_ua",
@@ -2769,7 +2836,8 @@
       "location": "Ukraine",
       "genre": "Dance",
       "streamUrl": "http://online.kissfm.ua/KissFM",
-      "countryCode": "UA"
+      "countryCode": "UA",
+      "curated": true
     },
     {
       "id": "radio_caroline_uk",
@@ -2777,7 +2845,8 @@
       "location": "United Kingdom",
       "genre": "Classic Rock",
       "streamUrl": "http://78.129.202.200:8040/",
-      "countryCode": "GB"
+      "countryCode": "GB",
+      "curated": true
     },
     {
       "id": "komsomolskaya_pravda_ru",
@@ -2785,7 +2854,8 @@
       "location": "Russia",
       "genre": "Talk/News",
       "streamUrl": "http://kpradio.hostingradio.ru:8000/russia.radiokp128.mp3",
-      "countryCode": "RU"
+      "countryCode": "RU",
+      "curated": true
     },
     {
       "id": "nashe_radio_ru",
@@ -2793,7 +2863,8 @@
       "location": "Russia",
       "genre": "Rock",
       "streamUrl": "http://nashe1.hostingradio.ru/nashe-128.mp3",
-      "countryCode": "RU"
+      "countryCode": "RU",
+      "curated": true
     },
     {
       "id": "977_the_mix_us",
@@ -2801,7 +2872,8 @@
       "location": "USA",
       "genre": "Mix",
       "streamUrl": "http://26343.live.streamtheworld.com:80/977_MIX_SC",
-      "countryCode": "US"
+      "countryCode": "US",
+      "curated": true
     },
     {
       "id": "fip_fr",
@@ -2809,7 +2881,8 @@
       "location": "France",
       "genre": "Eclectic",
       "streamUrl": "http://icecast.radiofrance.fr/fip-hifi.aac",
-      "countryCode": "FR"
+      "countryCode": "FR",
+      "curated": true
     },
     {
       "id": "cadena_100_es",
@@ -2817,7 +2890,8 @@
       "location": "Spain",
       "genre": "Pop",
       "streamUrl": "http://cadena100-streamers-mp3.flumotion.com/cope/cadena100.mp3",
-      "countryCode": "ES"
+      "countryCode": "ES",
+      "curated": true
     },
     {
       "id": "eurodance_90_fr",
@@ -2825,7 +2899,8 @@
       "location": "France",
       "genre": "Eurodance",
       "streamUrl": "https://stream-eurodance90.fr/radio/8000/128.mp3",
-      "countryCode": "FR"
+      "countryCode": "FR",
+      "curated": true
     },
     {
       "id": "talksport_uk",
@@ -2833,7 +2908,8 @@
       "location": "United Kingdom",
       "genre": "Sports Talk",
       "streamUrl": "http://radio.talksport.com/stream?aisGetOriginalStream=true",
-      "countryCode": "GB"
+      "countryCode": "GB",
+      "curated": true
     },
     {
       "id": "fnf_fm_hindi_ca",
@@ -2841,7 +2917,8 @@
       "location": "Canada",
       "genre": "Bollywood",
       "streamUrl": "http://192.99.8.192:5032/;stream",
-      "countryCode": "CA"
+      "countryCode": "CA",
+      "curated": true
     },
     {
       "id": "big_r_80s_metal_us",
@@ -2849,7 +2926,8 @@
       "location": "USA",
       "genre": "80s Metal",
       "streamUrl": "http://bigrradio.cdnstream1.com/5186_128",
-      "countryCode": "US"
+      "countryCode": "US",
+      "curated": true
     },
     {
       "id": "capital_fm_london_uk",
@@ -2857,7 +2935,8 @@
       "location": "United Kingdom",
       "genre": "Hit Music",
       "streamUrl": "http://media-ice.musicradio.com/CapitalMP3",
-      "countryCode": "GB"
+      "countryCode": "GB",
+      "curated": true
     },
     {
       "id": "retro_fm_70s_ru",
@@ -2865,7 +2944,8 @@
       "location": "Russia",
       "genre": "Pop/Retro 70s",
       "streamUrl": "http://retro70.hostingradio.ru:8025/retro70-128.mp3",
-      "countryCode": "RU"
+      "countryCode": "RU",
+      "curated": true
     }
   ]
 }
