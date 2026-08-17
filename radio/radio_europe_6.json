@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-16T01:14:59Z",
+  "updated": "2026-08-17T01:13:29Z",
   "region": "europe",
   "part": 6,
   "of": 8,
@@ -7939,19 +7939,6 @@
       "bitrate": 192
     },
     {
-      "id": "rb2_nordic_chillout_radio_fd57ae03",
-      "title": "Nordic Chillout Radio",
-      "subtitle": "Chillout, Downtempo",
-      "imageUrl": "https://nordichilloutradio.com/wp-content/themes/nordichillout/media/apple-touch-icon.png",
-      "streamUrl": "https://play.radioking.io/nordic-chillout-radio/736489",
-      "location": "Riga, Latvia",
-      "genre": "Chillout",
-      "countryCode": "LV",
-      "language": "english",
-      "clickCount": 5,
-      "bitrate": 64
-    },
-    {
       "id": "rb2_radio_maria_latvia_628f09dd",
       "title": "RADIO MARIA LATVIA",
       "subtitle": "Catholic, Religion",
@@ -10380,15 +10367,6 @@
       "genre": "Pop",
       "countryCode": "NL",
       "streamUrl": "http://icecast.omroep.nl/3fm-bb-mp3"
-    },
-    {
-      "id": "4_the_music_dance_house_and_techno_live__nl_58f863",
-      "title": "4 The Music - Dance, House and Techno. Live DJs.",
-      "subtitle": "Dance",
-      "location": "Noord Brabant, The Netherlands",
-      "genre": "Dance",
-      "streamUrl": "http://master.shoutcast.com:8000/4-the-music",
-      "countryCode": "NL"
     },
     {
       "id": "rb2_40rock_radio_97be71ff",
@@ -17156,19 +17134,6 @@
       "language": null,
       "clickCount": 0,
       "bitrate": 192
-    },
-    {
-      "id": "rb2_radio_hanzestad_club038_4988754a",
-      "title": "Radio Hanzestad Club038",
-      "subtitle": "Radio",
-      "imageUrl": "https://club038.radiohanzestad.nl/gallery_gen/84cbf30b6265d7f0d2a3837207f758c6.png",
-      "streamUrl": "https://radiohanzestad.ddns.net:4430/club038",
-      "location": "The Netherlands",
-      "genre": "Radio",
-      "countryCode": "NL",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 96
     },
     {
       "id": "rb2_radio_hermax_e4296118",
@@ -26542,6 +26507,78 @@
       "clickCount": 6,
       "bitrate": 192,
       "streamUrl": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk8_mp3_h"
+    },
+    {
+      "id": "nordic_chillout_radio_lv_54641621",
+      "title": "Nordic Chillout Radio",
+      "subtitle": "Chillout",
+      "location": "Latvia",
+      "genre": "Chillout",
+      "countryCode": "LV",
+      "language": "english",
+      "clickCount": 8,
+      "bitrate": 64,
+      "streamUrl": "https://play.radioking.io/nordic-chillout-radio/736489"
+    },
+    {
+      "id": "radio_ciccio_riccio_it_d00ba74b",
+      "title": "Radio Ciccio Riccio",
+      "subtitle": "Varied",
+      "location": "Italy",
+      "genre": "Varied",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 7,
+      "bitrate": 0,
+      "streamUrl": "https://stream5.xdevel.com/audio0s975942-758/stream/icecast.audio"
+    },
+    {
+      "id": "station_lt_615a9a20",
+      "title": "Радио Сигнал",
+      "subtitle": "Radio",
+      "location": "Lithuania",
+      "genre": "Radio",
+      "countryCode": "LT",
+      "language": "russian",
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "https://media-edge2.hostin.live/radio-singnal.mp3"
+    },
+    {
+      "id": "1fm_rock_no_f17bac0b",
+      "title": "1FM Rock",
+      "subtitle": "Radio",
+      "location": "Norway",
+      "genre": "Radio",
+      "countryCode": "NO",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 192,
+      "streamUrl": "https://lyd.1fm.no/1fmrock_hq"
+    },
+    {
+      "id": "google_balls_music_it_1bd3f0da",
+      "title": "Google Balls Music",
+      "subtitle": "Radio",
+      "location": "Italy",
+      "genre": "Radio",
+      "countryCode": "IT",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "https://radio.googleballs.com/listen/music/radio.mp3"
+    },
+    {
+      "id": "concertzender_ori_nt_express_nl_c0829885",
+      "title": "Concertzender Oriënt Express",
+      "subtitle": "World Music",
+      "location": "The Netherlands",
+      "genre": "World Music",
+      "countryCode": "NL",
+      "language": "dutch",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "http://streams.greenhost.nl:8080/orientexpress"
     }
   ]
 }

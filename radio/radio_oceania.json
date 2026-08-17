@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-16T01:14:59Z",
+  "updated": "2026-08-17T01:13:30Z",
   "region": "oceania",
   "stations": [
     {
@@ -11759,19 +11759,6 @@
       "bitrate": 130
     },
     {
-      "id": "rb2_listnr_k_pop_6dc82b72",
-      "title": "LiSTNR - K-Pop",
-      "subtitle": "Global, K-Pop",
-      "imageUrl": "https://i.ibb.co/BHNT0d5s/Li-STNR-Square-Tile-1200x1200-K-POP.jpg",
-      "streamUrl": "http://wz0liw.scahw.com.au/live/k-pop.stream/playlist.m3u8",
-      "location": "Australia",
-      "genre": "Global",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_listnr_k_pop_hls_815f8406",
       "title": "LiSTNR - K-Pop (HLS)",
       "subtitle": "K-Pop",
@@ -15610,19 +15597,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_tlc_fm_the_lower_clarence_valley_yamba_n_4c2e615a",
-      "title": "TLC FM The Lower Clarence Valley Yamba NSW Australia",
-      "subtitle": "Community Radio, Nsw",
-      "imageUrl": "",
-      "streamUrl": "http://s7.viastreaming.net:8880/;?_=0.0037967189374782384",
-      "location": "New South Wales, Australia",
-      "genre": "Community Radio",
-      "countryCode": "AU",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 96
-    },
-    {
       "id": "rb2_tamar_fm_95_3_george_town_83c451de",
       "title": "Tamar FM 95.3 George Town",
       "subtitle": "Community",
@@ -15901,19 +15875,6 @@
       "genre": "Progressive Rock",
       "countryCode": "AU",
       "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_thelight_albury_wodonga_98_3_fm_mp3_21eae0d2",
-      "title": "TheLight - Albury-Wodonga - 98.3 FM (MP3)",
-      "subtitle": "Christian, Community Radio",
-      "imageUrl": "https://i.ibb.co/qn2nFXc/431769180-780104754152026-4852502774420997218-n.jpg",
-      "streamUrl": "http://198.74.51.37:9980/;",
-      "location": "Victoria, Australia",
-      "genre": "Christian",
-      "countryCode": "AU",
-      "language": "english",
       "clickCount": 0,
       "bitrate": 128
     },
@@ -19699,6 +19660,18 @@
       "clickCount": 7,
       "bitrate": 0,
       "streamUrl": "https://radio.flexmedia.stream/listen/echoes_radio/radio.mp3"
+    },
+    {
+      "id": "brian_fm_91_4_wanaka_nz_4cb45b67",
+      "title": "Brian FM 91.4 Wanaka",
+      "subtitle": "Radio",
+      "location": "New Zealand",
+      "genre": "Radio",
+      "countryCode": "NZ",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://ais-sa1.streamon.fm/7657_128k.aac?playerid=esPlayer&cb=481952.m4ahttps://brianfm.com"
     }
   ]
 }

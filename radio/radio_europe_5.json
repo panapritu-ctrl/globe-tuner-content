@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-16T01:14:59Z",
+  "updated": "2026-08-17T01:13:30Z",
   "region": "europe",
   "part": 5,
   "of": 8,
@@ -5168,19 +5168,6 @@
       "bitrate": 192
     },
     {
-      "id": "rb2_sirios_95_8_48a2d2ff",
-      "title": "Sirios 95.8",
-      "subtitle": "Greek Music, News Talk",
-      "imageUrl": "https://resources.live24.gr/resources/images/stations/6ffa94b5-417a-4a9e-a4d3-efdd75db93c8.png",
-      "streamUrl": "https://sp1.19cloudsnetwork.gr/8006/stream",
-      "location": "Livadia, Greece",
-      "genre": "Greek Music",
-      "countryCode": "GR",
-      "language": "greek",
-      "clickCount": 1,
-      "bitrate": 256
-    },
-    {
       "id": "rb2_skai_kritis_86bad49e",
       "title": "Skai Kritis",
       "subtitle": "Folk, News",
@@ -5942,19 +5929,6 @@
       "language": null,
       "clickCount": 0,
       "bitrate": 192
-    },
-    {
-      "id": "rb2_symi_radio_bc296605",
-      "title": "Symi Radio",
-      "subtitle": "Radio",
-      "imageUrl": "https://files.secure.website/wscfus/10414622/28177344/image-1-w380-o.png",
-      "streamUrl": "https://stream-47.zeno.fm/2me3a1e6ag0uv?zs=3WKmTDgjSoW6sclZWjyckg",
-      "location": "Symi, Greece",
-      "genre": "Radio",
-      "countryCode": "GR",
-      "language": "greek",
-      "clickCount": 0,
-      "bitrate": 128
     },
     {
       "id": "rb2_synora_98_7_6a2c33a0",
@@ -17728,19 +17702,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_limerick_s_live_95fm_d45a9c6f",
-      "title": "Limerick's Live 95FM",
-      "subtitle": "Adult Contemporary, Local News",
-      "imageUrl": "https://mm.aiircdn.com/617/5d77b07fec8c4.png",
-      "streamUrl": "https://wg.cdn.tibus.net/Live95fm",
-      "location": "Limerick, Ireland",
-      "genre": "Adult Contemporary",
-      "countryCode": "IE",
-      "language": "english",
-      "clickCount": 3,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_live95_limerick_88a59146",
       "title": "Live95 Limerick",
       "subtitle": "Radio",
@@ -18777,19 +18738,6 @@
       "language": null,
       "clickCount": 1,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_university_college_cork_65f29258",
-      "title": "University College Cork",
-      "subtitle": "College, Cork",
-      "imageUrl": "",
-      "streamUrl": "https://stream.btsstream.com:8060/ucc.mp3",
-      "location": "Ireland",
-      "genre": "College",
-      "countryCode": "IE",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 320
     },
     {
       "id": "rb2_west_cork_fm_7a4a6299",
@@ -20421,32 +20369,6 @@
       "countryCode": "IT",
       "language": null,
       "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_fm_classic_9644c4c7",
-      "title": "FM Classic",
-      "subtitle": "70S, 80S",
-      "imageUrl": "",
-      "streamUrl": "http://onair7.xdevel.com:8724/;stream.nsv",
-      "location": "Sicilia, Italy",
-      "genre": "70S",
-      "countryCode": "IT",
-      "language": "italian",
-      "clickCount": 2,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_fm_classic_siracusa_aebf9992",
-      "title": "FM Classic Siracusa",
-      "subtitle": "Oldies, Pop",
-      "imageUrl": "",
-      "streamUrl": "https://stream1.xdevel.com/audio0s975817-359/stream/icecast.audio",
-      "location": "Italy",
-      "genre": "Oldies",
-      "countryCode": "IT",
-      "language": "italian",
-      "clickCount": 1,
       "bitrate": 128
     },
     {
@@ -27685,6 +27607,30 @@
       "clickCount": 8,
       "bitrate": 64,
       "streamUrl": "http://28513.live.streamtheworld.com:3690/SPLITAAC_SC"
+    },
+    {
+      "id": "folk_radio_kneginec_hr_76ecc902",
+      "title": "Folk Radio Kneginec",
+      "subtitle": "Radio",
+      "location": "Croatia",
+      "genre": "Radio",
+      "countryCode": "HR",
+      "language": "croatian",
+      "clickCount": 7,
+      "bitrate": 0,
+      "streamUrl": "https://stream.zeno.fm/yetzdv442k8uv"
+    },
+    {
+      "id": "gem_radio_new_wave_ie_61592c3c",
+      "title": "Gem Radio New Wave",
+      "subtitle": "70'S",
+      "location": "Ireland",
+      "genre": "70'S",
+      "countryCode": "IE",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://gemradionw.radioca.st/;stream.nsv"
     }
   ]
 }

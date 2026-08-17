@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-16T01:14:59Z",
+  "updated": "2026-08-17T01:13:30Z",
   "region": "europe",
   "part": 8,
   "of": 8,
@@ -11343,19 +11343,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_station_8c0d3695",
-      "title": "Прикосновение",
-      "subtitle": "Поп-Музыка, Романтическая",
-      "imageUrl": "https://onlineradiobox.me/img/apple-touch-icon-120x120.png",
-      "streamUrl": "https://pub0202.101.ru:8443/stream/trust/mp3/128/196?",
-      "location": "The Russian Federation",
-      "genre": "Поп-Музыка",
-      "countryCode": "RU",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_90_0_fm_bf59092f",
       "title": "Приморская Волна 90.0 FM",
       "subtitle": "Pop",
@@ -11545,19 +11532,6 @@
       "language": null,
       "clickCount": 2,
       "bitrate": 256
-    },
-    {
-      "id": "rb2_1000_4ee5ad2b",
-      "title": "Радио 1000 ХИТОВ!",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://stream.1000hit.ru:8000/stream320",
-      "location": "The Russian Federation",
-      "genre": "Radio",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 0,
-      "bitrate": 320
     },
     {
       "id": "rb2_107_724cbb73",
@@ -12001,19 +11975,6 @@
       "language": "russian",
       "clickCount": 1,
       "bitrate": 96
-    },
-    {
-      "id": "rb2_98_7_fm_0651cd22",
-      "title": "Радио Гордость Ярославль 98.7 FM",
-      "subtitle": "Music, Pop",
-      "imageUrl": "",
-      "streamUrl": "http://s0.radioheart.ru:8000/rgfm",
-      "location": "The Russian Federation",
-      "genre": "Music",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 0,
-      "bitrate": 128
     },
     {
       "id": "rb2_station_5531b766",
@@ -15323,19 +15284,6 @@
       "language": "russian",
       "clickCount": 7,
       "bitrate": 256
-    },
-    {
-      "id": "rb2_90_fa4b3886",
-      "title": "Россия 90-х",
-      "subtitle": "90'S, Ретро",
-      "imageUrl": "https://top-radio.ru/assets/image/radio/180/ru-90-101.png",
-      "streamUrl": "https://pub0202.101.ru:8443/stream/pro/aac/64/33",
-      "location": "The Russian Federation",
-      "genre": "90'S",
-      "countryCode": "RU",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 64
     },
     {
       "id": "rb2_station_af8b7f22",
@@ -23217,19 +23165,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_station_eb07735c",
-      "title": "П'ятниця Кременчук",
-      "subtitle": "Shanson",
-      "imageUrl": "",
-      "streamUrl": "http://radio.moa.org.ua/Friday",
-      "location": "Ukraine",
-      "genre": "Shanson",
-      "countryCode": "UA",
-      "language": "russian",
-      "clickCount": 2,
-      "bitrate": 256
-    },
-    {
       "id": "rb2_fm_17c57a5f",
       "title": "Перець FM",
       "subtitle": "128 Kbit/S, Https",
@@ -23456,37 +23391,11 @@
       "bitrate": 320
     },
     {
-      "id": "rb2_electro_9c539fdc",
-      "title": "Радіо Київстар Electro",
-      "subtitle": "256 Kbit/S, Aac",
-      "imageUrl": "https://radio.kyivstar.ua/favicon.ico",
-      "streamUrl": "https://radio.kyivstar.ua/stream/elektro/master.m3u8",
-      "location": "Ukraine",
-      "genre": "256 Kbit/S",
-      "countryCode": "UA",
-      "language": "ukranian",
-      "clickCount": 0,
-      "bitrate": 281
-    },
-    {
       "id": "rb2_golden_hits_72bce21a",
       "title": "Радіо Київстар Golden Hits",
       "subtitle": "256 Kbit/S, Aac",
       "imageUrl": "https://radio.kyivstar.ua/favicon.ico",
       "streamUrl": "https://radio.kyivstar.ua/stream/gold/master.m3u8",
-      "location": "Ukraine",
-      "genre": "256 Kbit/S",
-      "countryCode": "UA",
-      "language": "ukranian",
-      "clickCount": 0,
-      "bitrate": 281
-    },
-    {
-      "id": "rb2_happy_hits_fecd4518",
-      "title": "Радіо Київстар Happy Hits",
-      "subtitle": "256 Kbit/S, Aac",
-      "imageUrl": "https://radio.kyivstar.ua/favicon.ico",
-      "streamUrl": "https://radio.kyivstar.ua/stream/sport/master.m3u8",
       "location": "Ukraine",
       "genre": "256 Kbit/S",
       "countryCode": "UA",
@@ -24812,6 +24721,54 @@
       "clickCount": 5,
       "bitrate": 0,
       "streamUrl": "https://stream.rcs.revma.com/25knctp5vepwv"
+    },
+    {
+      "id": "goa_psy_ru_38e0a776",
+      "title": "Радио Рекорд GOA/PSY",
+      "subtitle": "Radio",
+      "location": "The Russian Federation",
+      "genre": "Radio",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "http://radiorecord.hostingradio.ru/goa96.aacp"
+    },
+    {
+      "id": "station_ru_62a3bed6",
+      "title": "Старое радио - Музыка",
+      "subtitle": "Retro",
+      "location": "The Russian Federation",
+      "genre": "Retro",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "http://195.91.237.50:8000/music128"
+    },
+    {
+      "id": "station_ru_203392b0",
+      "title": "ГУСЬ-Релакс",
+      "subtitle": "Chillout",
+      "location": "The Russian Federation",
+      "genre": "Chillout",
+      "countryCode": "RU",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "https://stream4.radiogoose.ru/listen/relax/play"
+    },
+    {
+      "id": "radio_zabava_sk_c96ec5c0",
+      "title": "Radio Zabava",
+      "subtitle": "Folk",
+      "location": "Slovakia",
+      "genre": "Folk",
+      "countryCode": "SK",
+      "language": "slovak",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://stream.zeno.fm/eyac00cx1nhvv"
     }
   ]
 }

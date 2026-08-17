@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-16T01:14:59Z",
+  "updated": "2026-08-17T01:13:30Z",
   "region": "europe",
   "part": 1,
   "of": 8,
@@ -5353,19 +5353,6 @@
       "bitrate": 64
     },
     {
-      "id": "rb2_inside_radio_885b1a3c",
-      "title": "Inside Radio",
-      "subtitle": "Must Fm, Namur",
-      "imageUrl": "https://static.radioplayer.be/v1/image/station/1011/logo_600x600.png",
-      "streamUrl": "https://n19a-eu.rcs.revma.com/cm96zpmrmm0uv",
-      "location": "Belgium",
-      "genre": "Must Fm",
-      "countryCode": "BE",
-      "language": "french",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "instrumental_radio_be_be_c12a04",
       "title": "Instrumental Radio, Be",
       "subtitle": "Entertainment",
@@ -8739,19 +8726,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_dj_zone_house_radio_80561ce4",
-      "title": "DJ ZONE House Radio",
-      "subtitle": "Radio",
-      "imageUrl": "https://djzone.mobi/wp-content/themes/fortunato-child/icons/icon-192.png",
-      "streamUrl": "https://stream.djzone.mobi/?nocache=1772715340631",
-      "location": "Bulgaria",
-      "genre": "Radio",
-      "countryCode": "BG",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_danpen_radio_88f7e954",
       "title": "DanPen Radio",
       "subtitle": "Radio",
@@ -10667,19 +10641,6 @@
       "language": "bulgarian",
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_bulgaria_on_air_103_9_fm_649b43ec",
-      "title": "Радио Bulgaria ON AIR Русе 103.9 FM",
-      "subtitle": "Pop",
-      "imageUrl": "https://top-radio.ru/assets/image/radio/180/bgonair-new3.png",
-      "streamUrl": "https://live.radio.bgonair.bg/RadioBOA",
-      "location": "Bulgaria",
-      "genre": "Pop",
-      "countryCode": "BG",
-      "language": "bulgarian",
-      "clickCount": 0,
-      "bitrate": 320
     },
     {
       "id": "rb2_n_joy_101_6_fm_cc8fb7fa",
@@ -27634,6 +27595,42 @@
       "clickCount": 8,
       "bitrate": 0,
       "streamUrl": "https://stream.zeno.fm/d6v0xkba04zuv"
+    },
+    {
+      "id": "radio_bobar_ba_d524e953",
+      "title": "Radio Bobar",
+      "subtitle": "Folk",
+      "location": "Bosnia And Herzegovina",
+      "genre": "Folk",
+      "countryCode": "BA",
+      "language": "serbian",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://stream.radios.rs:9082/stream"
+    },
+    {
+      "id": "radio_burimi_al_d765930e",
+      "title": "Radio burimi",
+      "subtitle": "Albanian Music",
+      "location": "Albania",
+      "genre": "Albanian Music",
+      "countryCode": "AL",
+      "language": "albanian",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://stream-156.zeno.fm/vzp9uf0u3ehvv?zs=Jubk5XJHTEC2zFWm3mOTfA"
+    },
+    {
+      "id": "eilo_trance_radio_bg_1e8c55c9",
+      "title": "EILO Trance Radio",
+      "subtitle": "Trance",
+      "location": "Bulgaria",
+      "genre": "Trance",
+      "countryCode": "BG",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://eilo.org/streamer.php?ch=trance"
     }
   ]
 }

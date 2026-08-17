@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-16T01:14:59Z",
+  "updated": "2026-08-17T01:13:29Z",
   "region": "americas",
   "part": 2,
   "of": 5,
@@ -3629,19 +3629,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_cing_fm_energy_95_3_hamilton_on_aac_stre_78d56c99",
-      "title": "CING-FM \"Energy 95.3\" Hamilton, ON (AAC Stream)",
-      "subtitle": "Corus Media, Hot Adult Contemporary",
-      "imageUrl": "https://energy953radio.ca/wp-content/uploads/sites/4/2019/03/cropped-energy_512x512_v1.png?w=180",
-      "streamUrl": "http://live.leanstream.co/CINGFM",
-      "location": "Ontario, Canada",
-      "genre": "Corus Media",
-      "countryCode": "CA",
-      "language": "english",
-      "clickCount": 1,
-      "bitrate": 57
-    },
-    {
       "id": "rb2_cini_fm_95_3_mistissini_qc_36575f6d",
       "title": "CINI-FM 95.3 Mistissini, QC",
       "subtitle": "Community Radio, Indigenous",
@@ -3835,19 +3822,6 @@
       "language": "english",
       "clickCount": 0,
       "bitrate": 96
-    },
-    {
-      "id": "rb2_cisl_sportsnet_650_richmond_bc_962191e3",
-      "title": "CISL \"Sportsnet 650\" Richmond, BC",
-      "subtitle": "Commercial, Live Sports",
-      "imageUrl": "https://www.sportsnet.ca/wp-content/themes/sportsnet-nhl/images/sn_logo_120x120_bg_white.png",
-      "streamUrl": "http://radioamd-i.akamaihd.net/hls/live/562166/cisl/master.m3u8",
-      "location": "British Columbia, Canada",
-      "genre": "Commercial",
-      "countryCode": "CA",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 46
     },
     {
       "id": "rb2_cism_89_3_mhz_fm_universit_de_montr_al_q_961b9db8",
@@ -8486,19 +8460,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_faith_99_9_chjx_fa350693",
-      "title": "FAITH 99.9 CHJX",
-      "subtitle": "Christian",
-      "imageUrl": "https://faith999.ca/wp-content/uploads/2020/06/cropped-faith999-icon-192x192.png",
-      "streamUrl": "https://ice7.securenetsystems.net/CHJXFM",
-      "location": "Canada",
-      "genre": "Christian",
-      "countryCode": "CA",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 32
-    },
-    {
       "id": "rb2_fm_93_qu_bec_9e99f583",
       "title": "FM 93 Québec",
       "subtitle": "Radio",
@@ -9536,19 +9497,6 @@
       "language": null,
       "clickCount": 1,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_maxradio_ca_215e0166",
-      "title": "Maxradio.ca",
-      "subtitle": "Radio",
-      "imageUrl": "https://www.maxradio.ca/images/MaxRadio_800.png",
-      "streamUrl": "https://www.maxradio.ca/UHD/xMaxRadio/128k/Max.m3u8",
-      "location": "Canada",
-      "genre": "Radio",
-      "countryCode": "CA",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 128000
     },
     {
       "id": "rb2_maxradio_ca_surround_cb55296e",
@@ -23494,15 +23442,6 @@
       "streamUrl": "https://stream.dbcradio.net:8005/live"
     },
     {
-      "id": "dominica_catholic_radio_dm",
-      "title": "Dominica Catholic Radio",
-      "subtitle": "MP3 128kbps",
-      "location": "Dominica",
-      "genre": "Music",
-      "countryCode": "DM",
-      "streamUrl": "https://cdn.comeseetv.com:8010/dominicacatholicradio?1740579480509"
-    },
-    {
       "id": "en_ba_mango_dm",
       "title": "En Ba Mango",
       "subtitle": "MP3 128kbps",
@@ -25852,6 +25791,42 @@
       "clickCount": 5,
       "bitrate": 0,
       "streamUrl": "https://stream.zeno.fm/42w3pfn7pzzuv"
+    },
+    {
+      "id": "radio_progreso_90_3_fm_cu_6cc544ba",
+      "title": "Radio Progreso 90.3 FM",
+      "subtitle": "90.3 Fm",
+      "location": "Cuba",
+      "genre": "90.3 Fm",
+      "countryCode": "CU",
+      "language": "spanish",
+      "clickCount": 7,
+      "bitrate": 64,
+      "streamUrl": "https://securestreams7.autopo.st/?uri=https://icecast.teveo.cu/XjfW7qWN"
+    },
+    {
+      "id": "alerta_bogot_104_4_fm_co_a26fc397",
+      "title": "Alerta Bogotá 104.4 fm",
+      "subtitle": "Baladas Música Popular Colombiana Nacional Varios",
+      "location": "Colombia",
+      "genre": "Baladas Música Popular Colombiana Nacional Varios",
+      "countryCode": "CO",
+      "language": "español colombia",
+      "clickCount": 5,
+      "bitrate": 133,
+      "streamUrl": "http://179.1.139.84:8000/play/a041/index.m3u8"
+    },
+    {
+      "id": "baladas_rs_co_5b7aecde",
+      "title": "Baladas Rs",
+      "subtitle": "Amor",
+      "location": "Colombia",
+      "genre": "Amor",
+      "countryCode": "CO",
+      "language": "spanish",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://stream.zeno.fm/fxzt1r5rp2zuv"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-16T01:14:59Z",
+  "updated": "2026-08-17T01:13:29Z",
   "region": "europe",
   "part": 7,
   "of": 8,
@@ -16324,19 +16324,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_radio_belami_c0a344c7",
-      "title": "Radio Belami",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://92.60.239.23:8000/stream",
-      "location": "Niš, Serbia",
-      "genre": "Radio",
-      "countryCode": "RS",
-      "language": "serbian",
-      "clickCount": 4,
-      "bitrate": 128
-    },
-    {
       "id": "radio_beograd_1_rs_dd6ef3",
       "title": "Radio Beograd 1",
       "subtitle": "Radio",
@@ -18071,19 +18058,6 @@
       "countryCode": "RU"
     },
     {
-      "id": "rb2_101_ru_victory_day_cbebd137",
-      "title": "101.ru Victory Day - День Победы",
-      "subtitle": "9. May, Ww Ii",
-      "imageUrl": "",
-      "streamUrl": "https://pub0302.101.ru:8443/stream/pro/aac/64/178",
-      "location": "The Russian Federation",
-      "genre": "9. May",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 1,
-      "bitrate": 64
-    },
-    {
       "id": "rb2_101_ru_op_ra_209338d0",
       "title": "101.ru opéra",
       "subtitle": "Opera",
@@ -18717,19 +18691,6 @@
       "genre": "Radio",
       "streamUrl": "https://amoris.sknt.ru/goa",
       "countryCode": "RU"
-    },
-    {
-      "id": "rb2_anima_amoris_bible_cf5a266a",
-      "title": "Anima Amoris Bible",
-      "subtitle": "Bible, Religion",
-      "imageUrl": "",
-      "streamUrl": "https://amoris.sknt.ru/bible.mp3",
-      "location": "Saint-Petersburg, The Russian Federation",
-      "genre": "Bible",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 1,
-      "bitrate": 128
     },
     {
       "id": "anima_amoris_dub_techno_ru_8cfc12",
@@ -24715,6 +24676,18 @@
       "clickCount": 5,
       "bitrate": 0,
       "streamUrl": "https://amoris.sknt.ru/minimal.mp3"
+    },
+    {
+      "id": "radio_nowy_wiat_64k_pl_903e2db5",
+      "title": "Radio Nowy Świat 64k",
+      "subtitle": "Music",
+      "location": "Poland",
+      "genre": "Music",
+      "countryCode": "PL",
+      "language": null,
+      "clickCount": 8,
+      "bitrate": 0,
+      "streamUrl": "https://stream.nowyswiat.online/aac"
     }
   ]
 }

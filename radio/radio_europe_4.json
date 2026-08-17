@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-16T01:14:59Z",
+  "updated": "2026-08-17T01:13:30Z",
   "region": "europe",
   "part": 4,
   "of": 8,
@@ -19035,19 +19035,6 @@
       "bitrate": 256
     },
     {
-      "id": "rb2_thezone_6645eb1c",
-      "title": "thezone",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://uk1.internet-radio.com:8355/stream",
-      "location": "The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "Radio",
-      "countryCode": "GB",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_zappa_streams_743f5c11",
       "title": "zappa streams",
       "subtitle": "Music, Rock...",
@@ -24296,19 +24283,6 @@
       "bitrate": 192
     },
     {
-      "id": "rb2_island_fm_zakynthos_9016b1c6",
-      "title": "Island FM Zakynthos",
-      "subtitle": "Radio",
-      "imageUrl": "https://sp3.streams.ovh/cp/widgets/player/single/images/mp3_cover2.jpg",
-      "streamUrl": "https://sp3.streams.ovh/cp/links.php?p=8014&m=pls",
-      "location": "Greece",
-      "genre": "Radio",
-      "countryCode": "GR",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_istiaia_100_4_f55a1327",
       "title": "Istiaia 100.4",
       "subtitle": "Greek Pop, Mainstream",
@@ -27555,6 +27529,30 @@
       "clickCount": 5,
       "bitrate": 128,
       "streamUrl": "https://imagine2.radioca.st/;"
+    },
+    {
+      "id": "zucca_gr_77201783",
+      "title": "Zucca",
+      "subtitle": "Radio",
+      "location": "Greece",
+      "genre": "Radio",
+      "countryCode": "GR",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "http://stream.zuccaradio.com/stream?"
+    },
+    {
+      "id": "groove_radio_hits_gr_65adbf73",
+      "title": "Groove Radio Hits",
+      "subtitle": "Hits",
+      "location": "Greece",
+      "genre": "Hits",
+      "countryCode": "GR",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 64,
+      "streamUrl": "https://cast.magicstreams.gr/ic/grooveradio/hits"
     }
   ]
 }
