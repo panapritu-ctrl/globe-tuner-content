@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-17T01:13:00Z",
+  "updated": "2026-08-19T01:16:07Z",
   "region": "europe",
   "part": 2,
   "of": 8,
@@ -20292,19 +20292,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_dr_p2_aac_4b7fdc14",
-      "title": "DR P2 (AAC)",
-      "subtitle": "Radio",
-      "imageUrl": "https://www.dr.dk/lyd/_next/static/media/p2.041e766f.svg",
-      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p2/masterab.m3u8",
-      "location": "Denmark",
-      "genre": "Radio",
-      "countryCode": "DK",
-      "language": "danish",
-      "clickCount": 0,
-      "bitrate": 324
-    },
-    {
       "id": "dr_p3_dk_960f5b",
       "title": "DR P3",
       "subtitle": "Pop",
@@ -28327,6 +28314,18 @@
       "clickCount": 4,
       "bitrate": 192,
       "streamUrl": "https://radio.plantlandradio.com/listen/plantland_radio/radio.mp3"
+    },
+    {
+      "id": "dr_p4_stjylland_aac_dk_86d978b1",
+      "title": "DR P4 Østjylland (AAC)",
+      "subtitle": "Regional Radio",
+      "location": "Denmark",
+      "genre": "Regional Radio",
+      "countryCode": "DK",
+      "language": "danish",
+      "clickCount": 6,
+      "bitrate": 324,
+      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4ostjylland/masterab.m3u8"
     }
   ]
 }

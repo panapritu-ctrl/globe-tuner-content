@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-17T01:13:29Z",
+  "updated": "2026-08-19T01:16:06Z",
   "region": "americas",
   "part": 2,
   "of": 5,
@@ -2595,19 +2595,6 @@
       "language": "english",
       "clickCount": 0,
       "bitrate": 47
-    },
-    {
-      "id": "rb2_chom_97_7_montr_al_337a2676",
-      "title": "CHOM 97.7 Montréal",
-      "subtitle": "Radio",
-      "imageUrl": "https://www.chom.com/favoricon.ico",
-      "streamUrl": "https://rogers-hls.leanstream.co/rogers/chomfm.stream/playlist.m3u8",
-      "location": "Quebec, Canada",
-      "genre": "Radio",
-      "countryCode": "CA",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 128
     },
     {
       "id": "rb2_choo_fm_boom_99_5_drumheller_ab_c9c4cf3b",
@@ -25697,18 +25684,6 @@
       "streamUrl": "https://radios.wakenext.com/hls/radio_mas99/live.m3u8"
     },
     {
-      "id": "la_main_street_radios_ecuador_online_ec_d7c70b4d",
-      "title": "La Main Street (Radios Ecuador Online)",
-      "subtitle": "Chicha Ecuatoriana",
-      "location": "Ecuador",
-      "genre": "Chicha Ecuatoriana",
-      "countryCode": "EC",
-      "language": "spanish",
-      "clickCount": 6,
-      "bitrate": 192,
-      "streamUrl": "https://radiolatina.info/9930/stream"
-    },
-    {
       "id": "tropicalida_ec_ec1ea5a9",
       "title": "Tropicalida",
       "subtitle": "Merengue",
@@ -25827,6 +25802,66 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "https://stream.zeno.fm/fxzt1r5rp2zuv"
+    },
+    {
+      "id": "radio_camelia_93_5_cpr_presencia_cl_68c19a1b",
+      "title": "Radio Camelia 93.5 - CPR Presencia",
+      "subtitle": "Radio",
+      "location": "Chile",
+      "genre": "Radio",
+      "countryCode": "CL",
+      "language": "spanish",
+      "clickCount": 9,
+      "bitrate": 128,
+      "streamUrl": "https://streaming.comunicacioneschile.net/8010/stream"
+    },
+    {
+      "id": "motiva2_cl_e5fca132",
+      "title": "Motiva2",
+      "subtitle": "Radio",
+      "location": "Chile",
+      "genre": "Radio",
+      "countryCode": "CL",
+      "language": "spanish",
+      "clickCount": 8,
+      "bitrate": 32,
+      "streamUrl": "https://radiomotiva.edz.cl/motiva2"
+    },
+    {
+      "id": "motiva_cl_e1f4309f",
+      "title": "Motiva",
+      "subtitle": "Radio",
+      "location": "Chile",
+      "genre": "Radio",
+      "countryCode": "CL",
+      "language": "spanish",
+      "clickCount": 5,
+      "bitrate": 40,
+      "streamUrl": "https://radiomotiva.edz.cl/motiva"
+    },
+    {
+      "id": "radio_universidad_nacional_co_710e5d45",
+      "title": "Radio Universidad Nacional",
+      "subtitle": "Music",
+      "location": "Colombia",
+      "genre": "Music",
+      "countryCode": "CO",
+      "language": "spanish",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://radio.unal.edu.co/streaming/bogota/stream.mp3"
+    },
+    {
+      "id": "radio_unal_bogota_co_9b9dfd54",
+      "title": "Radio UNAL Bogota",
+      "subtitle": "University",
+      "location": "Colombia",
+      "genre": "University",
+      "countryCode": "CO",
+      "language": "spanish",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://radio.unal.edu.co/streaming/bogota/;stream.mp3"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-17T01:13:29Z",
+  "updated": "2026-08-19T01:16:07Z",
   "region": "asia",
   "part": 3,
   "of": 3,
@@ -1187,19 +1187,6 @@
       "language": null,
       "clickCount": 0,
       "bitrate": 48
-    },
-    {
-      "id": "rb2_heart_fm_92_7mhz_cdo_city_240ec503",
-      "title": "Heart FM 92.7Mhz CDO City",
-      "subtitle": "Radio",
-      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTPgX_d8rpnBnNtLhS501py9XNDGlVHHSvqemOqT4lFuf33lL2jcJiAIbjFJ7qQBttnJ-FAnyR8vf5fqkANyZCwc7xjlIg5ZxEsRh7esPMmqk6Wj6qQjWKg7BnbFWN6hlCuifewvKrDBSt2pyozFtbkQibzi1dvL5sB2L4EN-caYgw2u3QCRvhb28h/s512/cagayan.png",
-      "streamUrl": "https://us1.amfmph.com/ssl/heartfmcdo?mp=/stream&1679730513324",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 64
     },
     {
       "id": "rb2_highway_94_radio_7a73f0c0",
@@ -10028,19 +10015,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_radyo_ilef_ankara_962886df",
-      "title": "Radyo ILEF Ankara",
-      "subtitle": "Ankara, Ankara Üniversitesi",
-      "imageUrl": "",
-      "streamUrl": "http://radyo.cc.ankara.edu.tr:8089/;",
-      "location": "Türkiye",
-      "genre": "Ankara",
-      "countryCode": "TR",
-      "language": "turkish",
-      "clickCount": 2,
-      "bitrate": 52
-    },
-    {
       "id": "rb2_radyo_karadeniz_238b318c",
       "title": "Radyo Karadeniz",
       "subtitle": "Radio",
@@ -14774,18 +14748,6 @@
       "streamUrl": "https://29083.live.streamtheworld.com/RADIO_MYDONOSE128AAC.aac?/;stream.mp3"
     },
     {
-      "id": "bell_fm_106_3_ph_b6019e5d",
-      "title": "BELL FM 106.3",
-      "subtitle": "Radio",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "language": null,
-      "clickCount": 5,
-      "bitrate": 64,
-      "streamUrl": "http://209.126.124.126:8904/stream"
-    },
-    {
       "id": "big_sound_fm_tuguegarao_ph_1a8f5115",
       "title": "Big Sound FM Tuguegarao",
       "subtitle": "Radio",
@@ -15036,6 +14998,54 @@
       "clickCount": 5,
       "bitrate": 320,
       "streamUrl": "https://islamicbulletin.site:8030/stream"
+    },
+    {
+      "id": "sawt_al_farah_sy_12bb811f",
+      "title": "Sawt Al Farah",
+      "subtitle": "Radio",
+      "location": "Syrian Arab Republic",
+      "genre": "Radio",
+      "countryCode": "SY",
+      "language": "arabic",
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://radio.garden/api/ara/content/listen/TBbZ87vu/channel.mp3"
+    },
+    {
+      "id": "dyrd_bohol_worldwide_ph_a3ad834b",
+      "title": "DYRD Bohol Worldwide",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 80,
+      "streamUrl": "http://live.kiss102fmbohol.com:8000/dyrdam"
+    },
+    {
+      "id": "kent_fm_tr_aace675c",
+      "title": "Kent FM",
+      "subtitle": "Radio",
+      "location": "Türkiye",
+      "genre": "Radio",
+      "countryCode": "TR",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://moondigitalmaster.radyotvonline.net/kentfm/playlist.m3u8"
+    },
+    {
+      "id": "radyo_13_fm_96_tr_25643e08",
+      "title": "Radyo 13 FM 96",
+      "subtitle": "Radio",
+      "location": "Türkiye",
+      "genre": "Radio",
+      "countryCode": "TR",
+      "language": "kurdi",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://radyo.yayindakiler.com:3050/stream"
     }
   ]
 }

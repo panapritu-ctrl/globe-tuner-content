@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-17T01:13:30Z",
+  "updated": "2026-08-19T01:16:06Z",
   "region": "europe",
   "part": 1,
   "of": 8,
@@ -15332,19 +15332,6 @@
       "bitrate": 96
     },
     {
-      "id": "rb2_thaalam_fm_312cab02",
-      "title": "Thaalam FM",
-      "subtitle": "Radio",
-      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6JBVVbZWL_axDfJukuYpkvsRk9l0_jaZ_EliBhQDCIQ",
-      "streamUrl": "http://thaalam.out.airtime.pro/thaalam_b",
-      "location": "Zug, Switzerland",
-      "genre": "Radio",
-      "countryCode": "CH",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 192
-    },
-    {
       "id": "rb2_trasformatorio_5f46b851",
       "title": "Trasformatorio",
       "subtitle": "Radio",
@@ -19332,19 +19319,6 @@
       "countryCode": "DE",
       "language": "german",
       "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_0_n_pop_on_radio_28444f06",
-      "title": "- 0 N - Pop on Radio",
-      "subtitle": "Black, Dance",
-      "imageUrl": "https://www.0nradio.com/logos/0n-pop_600x600.jpg",
-      "streamUrl": "https://0n-pop.radionetz.de/0n-pop.mp3",
-      "location": "Bayern, Germany",
-      "genre": "Black",
-      "countryCode": "DE",
-      "language": "german",
-      "clickCount": 3,
       "bitrate": 128
     },
     {
@@ -27631,6 +27605,54 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "https://eilo.org/streamer.php?ch=trance"
+    },
+    {
+      "id": "89_0_rtl_most_wanted_de_f7e5034b",
+      "title": "89.0 RTL Most Wanted",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 32,
+      "bitrate": 0,
+      "streamUrl": "https://stream.89.0rtl.de/mostwanted/mp3-256"
+    },
+    {
+      "id": "radio_dreyeckland_de_3793a701",
+      "title": "Radio Dreyeckland",
+      "subtitle": "Frei",
+      "location": "Germany",
+      "genre": "Frei",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 11,
+      "bitrate": 128,
+      "streamUrl": "http://www.rdl.de:8000/rdl"
+    },
+    {
+      "id": "pilot_fm_by_103a5b85",
+      "title": "Pilot FM",
+      "subtitle": "Pop",
+      "location": "Belarus",
+      "genre": "Pop",
+      "countryCode": "BY",
+      "language": "belarusian",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://live.pilotfm.com/stream/pilotfm/aac128"
+    },
+    {
+      "id": "z_rock_radio_bg_43b99c4c",
+      "title": "Z-Rock radio",
+      "subtitle": "Rock",
+      "location": "Bulgaria",
+      "genre": "Rock",
+      "countryCode": "BG",
+      "language": "bulgarian",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://193.108.24.6:8000/zrock"
     }
   ]
 }

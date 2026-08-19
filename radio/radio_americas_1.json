@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-17T01:13:29Z",
+  "updated": "2026-08-19T01:16:07Z",
   "region": "americas",
   "part": 1,
   "of": 5,
@@ -3512,19 +3512,6 @@
       "language": null,
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_golden_wings_762c67f7",
-      "title": "Golden Wings",
-      "subtitle": "Radio",
-      "imageUrl": "https://www.be-goldenwings.com/Images/logob.png",
-      "streamUrl": "https://centova.servidoraweb.net:9079/stream",
-      "location": "Argentina",
-      "genre": "Radio",
-      "countryCode": "AR",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 320
     },
     {
       "id": "rb2_good_radio_83115e02",
@@ -12471,19 +12458,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_correio_do_s_o_francisco_web_r_dio_pened_7121356f",
-      "title": "Correio do São Francisco web rádio Penedo",
-      "subtitle": "Eclética, Webradio",
-      "imageUrl": "http://play.radios.com.br/276315",
-      "streamUrl": "http://stm1.srvif.com:7898/stream",
-      "location": "Alagoas, Brazil",
-      "genre": "Eclética",
-      "countryCode": "BR",
-      "language": "pt-br",
-      "clickCount": 0,
-      "bitrate": 256
-    },
-    {
       "id": "rb2_cultura_am_1260_64be3a17",
       "title": "Cultura AM 1260",
       "subtitle": "Radio",
@@ -14118,19 +14092,6 @@
       "genre": "Radio",
       "countryCode": "BR",
       "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KISSFMAAC.aac?1655609055880"
-    },
-    {
-      "id": "rb2_lemixx_best_funk_groove_classics_rare_di_338e0d0b",
-      "title": "LEMIXX - BEST FUNK & GROOVE CLASSICS & RARE DISCO, R&B, 80s OLD SCHOOL DANCE",
-      "subtitle": "Funk, Groove",
-      "imageUrl": "https://www.facebook.com/photo/?fbid=212694897771018&set=a.212694874437687",
-      "streamUrl": "http://centova6.ciclanohost.com.br:9428/stream2",
-      "location": "Brazil",
-      "genre": "Funk",
-      "countryCode": "BR",
-      "language": "brazilian portuguese",
-      "clickCount": 2,
-      "bitrate": 128
     },
     {
       "id": "rb2_liga_samba_web_r_dio_296adbae",
@@ -24127,19 +24088,6 @@
       "bitrate": 48
     },
     {
-      "id": "rb2_107_5_dave_fm_cdf0a0b3",
-      "title": "107.5 Dave FM",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://live.leanstream.co/CJDVFM",
-      "location": "Ontario, Canada",
-      "genre": "Radio",
-      "countryCode": "CA",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 57
-    },
-    {
       "id": "rb2_107_5_kool_fm_db3aaa9d",
       "title": "107.5 Kool FM",
       "subtitle": "Radio",
@@ -25526,6 +25474,30 @@
       "clickCount": 4,
       "bitrate": 48,
       "streamUrl": "https://cbcradiolive.akamaized.net/hls/live/2041039/ES_R1MCG/master.m3u8"
+    },
+    {
+      "id": "pool_fm_br_0438ab53",
+      "title": "Pool FM",
+      "subtitle": "1970S",
+      "location": "Brazil",
+      "genre": "1970S",
+      "countryCode": "BR",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "https://radios.poolwebwork.com.br/8010/stream"
+    },
+    {
+      "id": "abc_50_s_ca_dcb636c2",
+      "title": "ABC 50's",
+      "subtitle": "Radio",
+      "location": "Canada",
+      "genre": "Radio",
+      "countryCode": "CA",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 64,
+      "streamUrl": "http://canada1.reliastream.com:8011/stream"
     }
   ]
 }
