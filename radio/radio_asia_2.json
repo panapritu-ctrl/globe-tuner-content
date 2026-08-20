@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-19T01:16:06Z",
+  "updated": "2026-08-20T01:09:09Z",
   "region": "asia",
   "part": 2,
   "of": 3,
@@ -263,19 +263,6 @@
       "countryCode": "CN",
       "language": "chinese",
       "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_station_27a76a54",
-      "title": "辽宁高速广播网",
-      "subtitle": "Test",
-      "imageUrl": "https://wx3.sinaimg.cn/mw2000/bf5fd4fdly8gxfr6vgecfj20j60j6t96.jpg",
-      "streamUrl": "http://living.muzhifm.com/muzhifm/liaoning_switch_bj.m3u8?auth_key=1853376769-0-0-7a0c30952f06f850e64bd8ebe1eec9ce",
-      "location": "Liaoning, China",
-      "genre": "Test",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 1,
       "bitrate": 128
     },
     {
@@ -6478,19 +6465,6 @@
       "countryCode": "ID"
     },
     {
-      "id": "rb2_most_105_8_fm_jakarta_16cc7691",
-      "title": "Most 105.8 FM Jakarta",
-      "subtitle": "90S, Culture",
-      "imageUrl": "https://images.noiceid.cc/catalog/content-1614529804201.jpg",
-      "streamUrl": "https://wz.mari.co.id:1936/web_mostfm/mostfm/chunklist_w405836415.m3u8",
-      "location": "Jakarta, Indonesia",
-      "genre": "90S",
-      "countryCode": "ID",
-      "language": "bahasa indonesia",
-      "clickCount": 2,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_most_radio_105_8_fm_3d310e6f",
       "title": "Most Radio 105.8 FM",
       "subtitle": "Music, News",
@@ -6502,19 +6476,6 @@
       "language": "indonesian",
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_most_radio_fm_105_8_jakarta_8ce70c49",
-      "title": "Most Radio FM 105.8 Jakarta",
-      "subtitle": "Pop",
-      "imageUrl": "https://images-v2.noiceid.cc/catalog/300x300/content-1725008389287.webp",
-      "streamUrl": "https://wz.mari.co.id:1936/noice_mostfm/mostfm/playlist.m3u8",
-      "location": "Indonesia",
-      "genre": "Pop",
-      "countryCode": "ID",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 43
     },
     {
       "id": "rb2_most_radio_jakarta_9b9da305",
@@ -7661,19 +7622,6 @@
       "language": null,
       "clickCount": 1,
       "bitrate": 160
-    },
-    {
-      "id": "rb2_radio_indah_siar_cirebon_0ec5f129",
-      "title": "Radio Indah Siar Cirebon",
-      "subtitle": "Dakwah, Islam",
-      "imageUrl": "https://i0.wp.com/www.salafycirebon.com/wp-content/uploads/2017/10/cropped-logo-sccom8.png?fit=180%2c180&#038;ssl=1",
-      "streamUrl": "https://az2.radioislam.my.id:8150/;stream.nsv",
-      "location": "Indonesia",
-      "genre": "Dakwah",
-      "countryCode": "ID",
-      "language": "arabic",
-      "clickCount": 3,
-      "bitrate": 32
     },
     {
       "id": "rb2_radio_islam_belitung_844458a6",
@@ -12452,15 +12400,6 @@
       "language": "odia",
       "clickCount": 2,
       "bitrate": 128
-    },
-    {
-      "id": "old_monk_radio_in_12c90f",
-      "title": "Old Monk Radio",
-      "subtitle": "Radio",
-      "location": "India",
-      "genre": "Radio",
-      "countryCode": "IN",
-      "streamUrl": "https://stream.zeno.fm/pr0zc64zdy8uv"
     },
     {
       "id": "rb2_om_radio_singapore_27cb8fd9",
@@ -20948,19 +20887,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_pahang_fm_bd0f071c",
-      "title": "Pahang FM",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://28163.live.streamtheworld.com/PAHANG_FMAAC.aac",
-      "location": "Pahang, Malaysia",
-      "genre": "Radio",
-      "countryCode": "MY",
-      "language": "malay",
-      "clickCount": 1,
-      "bitrate": 64
-    },
-    {
       "id": "rb2_redfm_578d9dae",
       "title": "REDfm",
       "subtitle": "Adult Contemporary, Classic Hits",
@@ -24131,6 +24057,138 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "https://tv.cdn.xsg.ge/cld9-0386/avtoradio/tracks-a1/mono.m3u8"
+    },
+    {
+      "id": "radiomattoli_in_3b436af7",
+      "title": "radiomattoli",
+      "subtitle": "Radio",
+      "location": "India",
+      "genre": "Radio",
+      "countryCode": "IN",
+      "language": "malayalam",
+      "clickCount": 9,
+      "bitrate": 128,
+      "streamUrl": "https://cast1.my-control-panel.com/proxy/radiomattoli/stream"
+    },
+    {
+      "id": "radio_jagriti_90_4_fm_in_fac863fa",
+      "title": "Radio Jagriti 90.4 FM",
+      "subtitle": "Radio",
+      "location": "India",
+      "genre": "Radio",
+      "countryCode": "IN",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "https://stream.zeno.fm/kgdue4hmffhvv"
+    },
+    {
+      "id": "jn_fm_tamil_in_11aefd88",
+      "title": "JN FM TAMIL",
+      "subtitle": "Music",
+      "location": "India",
+      "genre": "Music",
+      "countryCode": "IN",
+      "language": "tamil",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "http://stream.zeno.fm/0wck59rarchvv"
+    },
+    {
+      "id": "hari_rama_s_happy_eternal_miv_in_94210bfa",
+      "title": "Hari Rama's Happy Eternal Miv",
+      "subtitle": "Full-On",
+      "location": "India",
+      "genre": "Full-On",
+      "countryCode": "IN",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "https://eternalmix.org/listen/hari_ramas_eternal_mix/radio.mp3"
+    },
+    {
+      "id": "suvidharadio_in_0dfed5d6",
+      "title": "suvidharadio",
+      "subtitle": "Radio",
+      "location": "India",
+      "genre": "Radio",
+      "countryCode": "IN",
+      "language": "hindi",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://my.ssl-stream.com/Suvidha_Radio"
+    },
+    {
+      "id": "gunjanradio_in_1300e605",
+      "title": "GunjanRadio",
+      "subtitle": "Music",
+      "location": "India",
+      "genre": "Music",
+      "countryCode": "IN",
+      "language": "hindi",
+      "clickCount": 5,
+      "bitrate": 64,
+      "streamUrl": "https://streamasiacdn.atc-labs.com/gunjanradio.aac"
+    },
+    {
+      "id": "station_cn_f54516d7",
+      "title": "甘南综合广播",
+      "subtitle": "Full Service",
+      "location": "China",
+      "genre": "Full Service",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 4,
+      "bitrate": 2560,
+      "streamUrl": "https://play.kankanlive.com/live/1715588420818938.m3u8"
+    },
+    {
+      "id": "station_cn_9b814812",
+      "title": "南阳综合广播",
+      "subtitle": "News",
+      "location": "China",
+      "genre": "News",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://lhttp.qingting.fm/live/1213/64k.mp3"
+    },
+    {
+      "id": "fm101_cn_05b7afdc",
+      "title": "FM101仙居融媒体广播",
+      "subtitle": "Radio",
+      "location": "China",
+      "genre": "Radio",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://lhttp-hw.qtfm.cn/live/5021908/64k.mp3"
+    },
+    {
+      "id": "live_24_cn_c960ad0c",
+      "title": "爱上海 LIVE 24",
+      "subtitle": "Radio",
+      "location": "China",
+      "genre": "Radio",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://bp-resource-dfl.bestv.cn/148/3/video.m3u8"
+    },
+    {
+      "id": "station_cn_a5a89cec",
+      "title": "呼和浩特交通广播",
+      "subtitle": "Traffic",
+      "location": "China",
+      "genre": "Traffic",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://lhttp-hw.qtfm.cn/live/5021545/64k.mp3"
     }
   ]
 }

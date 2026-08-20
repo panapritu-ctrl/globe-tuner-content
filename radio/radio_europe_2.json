@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-19T01:16:07Z",
+  "updated": "2026-08-20T01:09:10Z",
   "region": "europe",
   "part": 2,
   "of": 8,
@@ -10559,19 +10559,6 @@
       "streamUrl": "http://f121.rndfnk.com/ard/rbb/radioeins/live/mp3/128/stream.mp3?cid=01FC1WH12KJ93TCQPDSE2E5PZ9&sid=38HoeEhwMU9ZjQaArYLcNuLu9LN&token=VXH8C52tOJ6o_G5uLXexxjt84DXyHGfH0RABfQljedk&tvf=8PpblQ7uihhmMTIxLnJuZGZuay5jb20"
     },
     {
-      "id": "rb2_radio_emergency_21f58c07",
-      "title": "Radio Emergency",
-      "subtitle": "Rock",
-      "imageUrl": "",
-      "streamUrl": "https://www.radioemergency.de/radioemergency.mp3",
-      "location": "Germany",
-      "genre": "Rock",
-      "countryCode": "DE",
-      "language": "german",
-      "clickCount": 2,
-      "bitrate": 320
-    },
-    {
       "id": "rb2_radio_emscher_lippe_dein_80er_radio_9630c66b",
       "title": "Radio Emscher Lippe - Dein 80er Radio",
       "subtitle": "80S",
@@ -20475,19 +20462,6 @@
       "bitrate": 324
     },
     {
-      "id": "rb2_dr_p4_trekanten_aac_1acd0e04",
-      "title": "DR P4 Trekanten (AAC)",
-      "subtitle": "Regional Radio",
-      "imageUrl": "https://www.dr.dk/lyd/_next/static/media/p4.a9a465ed.svg",
-      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4trekanten/masterab.m3u8",
-      "location": "Denmark",
-      "genre": "Regional Radio",
-      "countryCode": "DK",
-      "language": "danish",
-      "clickCount": 0,
-      "bitrate": 324
-    },
-    {
       "id": "dr_p4_stjyllands_radio_dk_9610bb",
       "title": "DR P4 Østjyllands Radio",
       "subtitle": "Regional Radio",
@@ -20617,19 +20591,6 @@
       "genre": "Jazz",
       "streamUrl": "http://live-icy.gslb01.dr.dk/A/A22H.mp3",
       "countryCode": "DK"
-    },
-    {
-      "id": "rb2_dr_p8_jazz_aac_9298e58e",
-      "title": "DR P8 JAZZ (AAC)",
-      "subtitle": "Jazz",
-      "imageUrl": "https://www.dr.dk/lyd/_next/static/media/p8jazz.3748d702.svg",
-      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p8jazz/masterab.m3u8",
-      "location": "Denmark",
-      "genre": "Jazz",
-      "countryCode": "DK",
-      "language": "danish",
-      "clickCount": 2,
-      "bitrate": 324
     },
     {
       "id": "rb2_dr_ramasjang_ultra_radio_9610c0f1",
@@ -23262,19 +23223,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_all_stars_radio_2c0f442e",
-      "title": "All Stars Radio",
-      "subtitle": "Radio",
-      "imageUrl": "https://allstarsradio.net/wp-content/uploads/2024/03/allstarsradio-logo.png",
-      "streamUrl": "https://stream.allstarsradio.net:8000/radio.mp3",
-      "location": "Spain",
-      "genre": "Radio",
-      "countryCode": "ES",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_almod_var_en_la_onda_107_2_fm_88d6a6fe",
       "title": "Almodóvar en La Onda 107.2 FM",
       "subtitle": "Cumbia, Dance",
@@ -25671,19 +25619,6 @@
       "countryCode": "ES",
       "language": "catalan",
       "clickCount": 1,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_el_salto_radio_0ed2f980",
-      "title": "El Salto Radio",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://radio.radiobot.org/listen/salto/elsaltoradio.mp3",
-      "location": "Spain",
-      "genre": "Radio",
-      "countryCode": "ES",
-      "language": "espanish",
-      "clickCount": 0,
       "bitrate": 128
     },
     {
@@ -28326,6 +28261,42 @@
       "clickCount": 6,
       "bitrate": 324,
       "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4ostjylland/masterab.m3u8"
+    },
+    {
+      "id": "dr_p4_k_benhavn_aac_dk_b9ea5518",
+      "title": "DR P4 København (AAC)",
+      "subtitle": "Regional Radio",
+      "location": "Denmark",
+      "genre": "Regional Radio",
+      "countryCode": "DK",
+      "language": "danish",
+      "clickCount": 6,
+      "bitrate": 324,
+      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4kobenhavn/masterab.m3u8"
+    },
+    {
+      "id": "dr_p8_jazz_aac_dk_5a5bf838",
+      "title": "DR P8 JAZZ (AAC)",
+      "subtitle": "Jazz",
+      "location": "Denmark",
+      "genre": "Jazz",
+      "countryCode": "DK",
+      "language": "danish",
+      "clickCount": 5,
+      "bitrate": 324,
+      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p8jazz/masterab.m3u8"
+    },
+    {
+      "id": "dr_p2_aac_dk_0aeeaf1d",
+      "title": "DR P2 (AAC)",
+      "subtitle": "Radio",
+      "location": "Denmark",
+      "genre": "Radio",
+      "countryCode": "DK",
+      "language": "danish",
+      "clickCount": 4,
+      "bitrate": 324,
+      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p2/masterab.m3u8"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-19T01:16:07Z",
+  "updated": "2026-08-20T01:09:10Z",
   "region": "asia",
   "part": 3,
   "of": 3,
@@ -2272,19 +2272,6 @@
       "language": "cebuano",
       "clickCount": 1,
       "bitrate": 192
-    },
-    {
-      "id": "rb2_rj_fm_100_3_a8ecafb3",
-      "title": "RJ FM 100.3",
-      "subtitle": "Radio",
-      "imageUrl": "https://static.wixstatic.com/media/5d7c87_76ab6ed6c6d7410692e9191386e03211~mv2.png/v1/fill/w_282,h_282,al_c,q_80,usm_0.66_1.00_0.01/5d7c87_76ab6ed6c6d7410692e9191386e03211~mv2.png",
-      "streamUrl": "http://111.125.87.226:8000/rjfm",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "language": null,
-      "clickCount": 3,
-      "bitrate": 128
     },
     {
       "id": "rb2_rmn_dxdc_davao_54ecf469",
@@ -6223,19 +6210,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_mcot_100_5_c02dba45",
-      "title": "MCOT 100.5",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://lcdn.mcot.net/RadioLive/smil:fm1005_live.smil/playlist.m3u8",
-      "location": "Thailand",
-      "genre": "Radio",
-      "countryCode": "TH",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 2000
-    },
-    {
       "id": "rb2_mcot_chumphon_amphoe_lang_suan_fm_104_75_afcd0235",
       "title": "MCOT Chumphon (Amphoe Lang Suan) FM 104.75",
       "subtitle": "Local Radio, Regional Radio",
@@ -6723,19 +6697,6 @@
       "language": null,
       "clickCount": 10,
       "bitrate": 64
-    },
-    {
-      "id": "rb2_abuzer_fm_96fd352a",
-      "title": "Abuzer FM",
-      "subtitle": "Comedy, Pop",
-      "imageUrl": "https://oetpai.fra1.digitaloceanspaces.com/new_images/onestop_51424770_294131.png",
-      "streamUrl": "http://live.radyotvonline.com:9030/;stream.nsv",
-      "location": "Istanbul, Türkiye",
-      "genre": "Comedy",
-      "countryCode": "TR",
-      "language": "turkish",
-      "clickCount": 3,
-      "bitrate": 128
     },
     {
       "id": "rb2_ahaber_68d94f0b",
@@ -14568,18 +14529,6 @@
       "streamUrl": "https://lovesantiago.radioca.st/stream.m3u"
     },
     {
-      "id": "taps_radio_alicia_ph_cc96bc86",
-      "title": "TAPS RADIO ALICIA",
-      "subtitle": "Radio",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 64,
-      "streamUrl": "http://209.126.124.126:8593/stream"
-    },
-    {
       "id": "radio_pak_filmi_pk_1b125973",
       "title": "Radio Pak Filmi",
       "subtitle": "Lollywood",
@@ -15046,6 +14995,54 @@
       "clickCount": 5,
       "bitrate": 128,
       "streamUrl": "https://radyo.yayindakiler.com:3050/stream"
+    },
+    {
+      "id": "aksyon_radyo_tacloban_ph_94254545",
+      "title": "Aksyon Radyo Tacloban",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 7,
+      "bitrate": 96,
+      "streamUrl": "http://142.4.216.144:8279/stream"
+    },
+    {
+      "id": "klick_fm_106_3_bacolod_ph_c15ab096",
+      "title": "Klick FM 106.3 Bacolod",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 48,
+      "streamUrl": "http://209.126.124.126:8721/stream"
+    },
+    {
+      "id": "lig_radyo_tr_f987a078",
+      "title": "Lig Radyo",
+      "subtitle": "Classical",
+      "location": "Türkiye",
+      "genre": "Classical",
+      "countryCode": "TR",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 125,
+      "streamUrl": "https://ligradyo.radyotvonline.net/ligradyo"
+    },
+    {
+      "id": "ho_mix_tr_c35b6a14",
+      "title": "HOŞ MiX",
+      "subtitle": "Radio",
+      "location": "Türkiye",
+      "genre": "Radio",
+      "countryCode": "TR",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://178.32.4.127:8046/stream"
     }
   ]
 }

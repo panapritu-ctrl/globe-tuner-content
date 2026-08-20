@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-19T01:16:06Z",
+  "updated": "2026-08-20T01:09:09Z",
   "region": "other",
   "stations": [
     {
@@ -1826,18 +1826,6 @@
       "streamUrl": "https://eu1.fastcast4u.com/proxy/antena2000?mp=/1"
     },
     {
-      "id": "cope_granada_es_43972aab",
-      "title": "Cope Granada",
-      "subtitle": "Entretenimiento",
-      "location": "Spain",
-      "genre": "Entretenimiento",
-      "countryCode": "ES",
-      "language": "espaňol",
-      "clickCount": 26,
-      "bitrate": 96,
-      "streamUrl": "http://flucast13-h-cloud.flumotion.com/cope/net1.mp3"
-    },
-    {
       "id": "punk_irratia_es_d6a0d676",
       "title": "punk irratia",
       "subtitle": "Hardcore",
@@ -1992,18 +1980,6 @@
       "clickCount": 14,
       "bitrate": 56,
       "streamUrl": "https://dreamsiteradiocp4.com/proxy/rmspain1?mp=/stream/1/"
-    },
-    {
-      "id": "radio_mar_a_espa_a_es_5ec65178",
-      "title": "RADIO MARÍA ESPAÑA",
-      "subtitle": "Catholic",
-      "location": "Spain",
-      "genre": "Catholic",
-      "countryCode": "ES",
-      "language": "spanish",
-      "clickCount": 10,
-      "bitrate": 32,
-      "streamUrl": "http://dreamsiteradiocp2.com:8006/stream"
     },
     {
       "id": "sensimedia_dancehall_radio_us_ce8a0144",
@@ -2460,6 +2436,90 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "https://stream.rcs.revma.com/sa3ccwa9yy8uv"
+    },
+    {
+      "id": "cope_granada_es_43972aab",
+      "title": "Cope Granada",
+      "subtitle": "Entretenimiento",
+      "location": "Spain",
+      "genre": "Entretenimiento",
+      "countryCode": "ES",
+      "language": "espaňol",
+      "clickCount": 33,
+      "bitrate": 96,
+      "streamUrl": "http://flucast13-h-cloud.flumotion.com/cope/net1.mp3"
+    },
+    {
+      "id": "frequence3_fr_383307b1",
+      "title": "Frequence3",
+      "subtitle": "Radio",
+      "location": "France",
+      "genre": "Radio",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "http://frequence3.net-radio.fr/frequence3-128.mp3"
+    },
+    {
+      "id": "caroline_flashback_gb_efd1e42d",
+      "title": "Caroline Flashback",
+      "subtitle": "Goldies",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Goldies",
+      "countryCode": "GB",
+      "language": "english",
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "http://sc2.radiocaroline.net:10558/;?type=http&nocache=69242"
+    },
+    {
+      "id": "manx_radio_am_gb_a86ebf5d",
+      "title": "Manx Radio AM",
+      "subtitle": "Top 40",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Top 40",
+      "countryCode": "GB",
+      "language": "british english",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "http://tx.sharp-stream.com/icecast.php?i=manxradioam.mp3"
+    },
+    {
+      "id": "radio_swiss_classic_fr_ch_9dd4d85a",
+      "title": "Radio Swiss Classic FR",
+      "subtitle": "Classical",
+      "location": "Switzerland",
+      "genre": "Classical",
+      "countryCode": "CH",
+      "language": "french",
+      "clickCount": 4,
+      "bitrate": 176,
+      "streamUrl": "https://stream.srg-ssr.ch/srgssr/rsc_fr/aac/192"
+    },
+    {
+      "id": "cope_zaragoza_es_fe5912c2",
+      "title": "Cope Zaragoza",
+      "subtitle": "Radio",
+      "location": "Spain",
+      "genre": "Radio",
+      "countryCode": "ES",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 56,
+      "streamUrl": "https://zaragoza-copesedes-rrcast.flumotion.com/copesedes/zaragoza-low.mp3"
+    },
+    {
+      "id": "radio_le_mans_rs2_gb_c948fffd",
+      "title": "Radio Le Mans RS2",
+      "subtitle": "Motorsport",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Motorsport",
+      "countryCode": "GB",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 64,
+      "streamUrl": "http://tx.sharp-stream.com/icecast.php?i=radioshow2.mp3"
     }
   ]
 }

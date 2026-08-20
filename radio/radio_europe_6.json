@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-19T01:16:06Z",
+  "updated": "2026-08-20T01:09:10Z",
   "region": "europe",
   "part": 6,
   "of": 8,
@@ -8824,19 +8824,6 @@
       "bitrate": 256
     },
     {
-      "id": "rb2_radio_moldova_muzical_6f674387",
-      "title": "Radio Moldova Muzical",
-      "subtitle": "Folk, Jazz",
-      "imageUrl": "https://radiomoldova.md/images/RM_muzical_logo.svg",
-      "streamUrl": "http://radiolive.trm.md:8000/RM-muzical-256",
-      "location": "The Republic Of Moldova",
-      "genre": "Folk",
-      "countryCode": "MD",
-      "language": "english",
-      "clickCount": 1,
-      "bitrate": 256
-    },
-    {
       "id": "rb2_radio_moldova_tineret_d7014431",
       "title": "Radio Moldova Tineret",
       "subtitle": "News, Pop",
@@ -12748,19 +12735,6 @@
       "language": "dutch",
       "clickCount": 0,
       "bitrate": 256
-    },
-    {
-      "id": "rb2_henk_s_streaming_audio_6d7f674e",
-      "title": "Henk's Streaming Audio.",
-      "subtitle": "Dutch, Dutch Folk",
-      "imageUrl": "https://www.henksplace.nl/hsa/skin/HSALogo512x512.jpg",
-      "streamUrl": "https://home.henksplace.nl:8443/HSA",
-      "location": "Noord Brabant, The Netherlands",
-      "genre": "Dutch",
-      "countryCode": "NL",
-      "language": "dutch",
-      "clickCount": 4,
-      "bitrate": 128
     },
     {
       "id": "rb2_hete_hits_8be2529b",
@@ -26500,6 +26474,54 @@
       "clickCount": 10,
       "bitrate": 0,
       "streamUrl": "http://onair7.xdevel.com:8724/;stream.nsv"
+    },
+    {
+      "id": "rai_friuli_venezia_giulia_it_51324485",
+      "title": "RAI Friuli Venezia Giulia",
+      "subtitle": "Radio",
+      "location": "Italy",
+      "genre": "Radio",
+      "countryCode": "IT",
+      "language": "furlan",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://streamcdng73-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/veneziaaudio1/hls/veneziaaudio_320/chunklist.m3u8"
+    },
+    {
+      "id": "radio_jolly_it_87ee61d4",
+      "title": "Radio Jolly",
+      "subtitle": "Eurodance",
+      "location": "Italy",
+      "genre": "Eurodance",
+      "countryCode": "IT",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "http://radio.garden/api/ara/content/listen/Zrs6jv66/channel.mp3"
+    },
+    {
+      "id": "riviera_lounge_radio_it_f9e1ec96",
+      "title": "Riviera Lounge Radio",
+      "subtitle": "Ambient",
+      "location": "Italy",
+      "genre": "Ambient",
+      "countryCode": "IT",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream.laut.fm/riviera-lounge-radio"
+    },
+    {
+      "id": "radio_r_lt_d2f62055",
+      "title": "Radio R",
+      "subtitle": "Pop Music",
+      "location": "Lithuania",
+      "genre": "Pop Music",
+      "countryCode": "LT",
+      "language": "lithuanian",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream1.relaxfm.lt/rrb128.mp3"
     }
   ]
 }

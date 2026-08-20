@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-19T01:16:06Z",
+  "updated": "2026-08-20T01:09:10Z",
   "region": "africa",
   "stations": [
     {
@@ -2012,19 +2012,6 @@
       "countryCode": "GH",
       "language": "akan",
       "clickCount": 2,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_livextra_fm_021e6f1d",
-      "title": "LiveXtra Fm",
-      "subtitle": "Music",
-      "imageUrl": "http://livextragh.com/wp-content/uploads/2020/09/livextra_logo.jpeg",
-      "streamUrl": "https://node-29.zeno.fm/7586sp6mua0uv?rj-ttl=5&rj-tok=AAABdtK_vI8AwopbZYmWFHLrNw",
-      "location": "Ghana",
-      "genre": "Music",
-      "countryCode": "GH",
-      "language": "english",
-      "clickCount": 0,
       "bitrate": 128
     },
     {
@@ -8770,18 +8757,6 @@
       "streamUrl": "https://coolfmlagos969-atunwadigital.streamguys1.com/coolfmlagos969"
     },
     {
-      "id": "radio_svein_cd_a293250e",
-      "title": "Radio Svein",
-      "subtitle": "Radio Comunitaria",
-      "location": "The Democratic Republic Of The Congo",
-      "genre": "Radio Comunitaria",
-      "countryCode": "CD",
-      "language": "french",
-      "clickCount": 5,
-      "bitrate": 128,
-      "streamUrl": "https://radiosvein2.ice.infomaniak.ch/radiosvein2-64.mp3"
-    },
-    {
       "id": "praia_fm_cv_db78b059",
       "title": "Praia FM",
       "subtitle": "Radio",
@@ -9800,6 +9775,66 @@
       "clickCount": 5,
       "bitrate": 96,
       "streamUrl": "https://eu8.fastcast4u.com/proxy/usakufm?mp=/1"
+    },
+    {
+      "id": "atl_fm_100_5mhz_gh_a2b4759b",
+      "title": "ATL FM 100.5MHz",
+      "subtitle": "Afrobeats",
+      "location": "Ghana",
+      "genre": "Afrobeats",
+      "countryCode": "GH",
+      "language": "akan",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://atlfm1005.radioca.st/stream?type=http&nocache=231"
+    },
+    {
+      "id": "rasss_kenya_ke_3e7223df",
+      "title": "RASSS KENYA",
+      "subtitle": "Classical",
+      "location": "Kenya",
+      "genre": "Classical",
+      "countryCode": "KE",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "http://stream-57.zeno.fm/gf58b0pt5x8uv?zs=_88r_Fp8TmC34vmgpzzmzQ"
+    },
+    {
+      "id": "medina_fm_andalou_128_kbps_ma_034712f8",
+      "title": "Medina FM Andalou (128 kbps)",
+      "subtitle": "Al-Ala",
+      "location": "Morocco",
+      "genre": "Al-Ala",
+      "countryCode": "MA",
+      "language": "arabic",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://medinaandalou.ice.infomaniak.ch/medinaandalou-128.mp3"
+    },
+    {
+      "id": "noura_fm_94_5_bamako_ml_1df2e578",
+      "title": "Noura FM 94.5 Bamako",
+      "subtitle": "African Music",
+      "location": "Mali",
+      "genre": "African Music",
+      "countryCode": "ML",
+      "language": "bambara",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://stream-151.zeno.fm/60x209af8e9uv"
+    },
+    {
+      "id": "cidade_fm_cabo_verde_cv_6fbeea82",
+      "title": "Cidade FM Cabo Verde",
+      "subtitle": "Radio",
+      "location": "Cabo Verde",
+      "genre": "Radio",
+      "countryCode": "CV",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://hts02.brascast.com:9288/stream"
     }
   ]
 }

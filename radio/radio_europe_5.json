@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-19T01:16:07Z",
+  "updated": "2026-08-20T01:09:10Z",
   "region": "europe",
   "part": 5,
   "of": 8,
@@ -16564,19 +16564,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_sunshine_fm_pop_90758f23",
-      "title": "Sunshine FM POP",
-      "subtitle": "Pop Music",
-      "imageUrl": "https://sunshine.hu/images/channels/17002219246970.svg",
-      "streamUrl": "https://sunshine2.stream.composeit.hu/sunshine",
-      "location": "Hungary",
-      "genre": "Pop Music",
-      "countryCode": "HU",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_sunshinefm_dance_0a4f1f1d",
       "title": "SunshineFM DANCE",
       "subtitle": "Dance, Party",
@@ -21062,19 +21049,6 @@
       "genre": "Classic Italian Pop",
       "countryCode": "IT",
       "streamUrl": "https://italianradio.streamingmedia.it/play"
-    },
-    {
-      "id": "rb2_icon_radio_599d3a78",
-      "title": "Icon Radio",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://nr9.newradio.it:9368/stream",
-      "location": "Italy",
-      "genre": "Radio",
-      "countryCode": "IT",
-      "language": "italian",
-      "clickCount": 0,
-      "bitrate": 128
     },
     {
       "id": "rb2_idea_radio_38d0bbdc",
@@ -27537,18 +27511,6 @@
       "streamUrl": "https://netradio.live24.gr/athensdeejay"
     },
     {
-      "id": "su_urland_fm_is_0c98c038",
-      "title": "Suðurland FM",
-      "subtitle": "Country",
-      "location": "Iceland",
-      "genre": "Country",
-      "countryCode": "IS",
-      "language": "icelandic",
-      "clickCount": 4,
-      "bitrate": 0,
-      "streamUrl": "https://ice-11.spilarinn.is/xsudurlandfm"
-    },
-    {
       "id": "17_3_102_fm_gr_03e99ec0",
       "title": "17.ΕΡΤ3 102 FM",
       "subtitle": "Radio",
@@ -27667,6 +27629,18 @@
       "clickCount": 4,
       "bitrate": 64,
       "streamUrl": "http://22733.live.streamtheworld.com:3690/OSIJEKAAC_SC"
+    },
+    {
+      "id": "rewind_ie_9350ce7a",
+      "title": "Rewind",
+      "subtitle": "1960S",
+      "location": "Ireland",
+      "genre": "1960S",
+      "countryCode": "IE",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://christmasfm.cdnstream1.com/2551_128.mp3"
     }
   ]
 }

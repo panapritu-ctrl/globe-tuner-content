@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-19T01:16:07Z",
+  "updated": "2026-08-20T01:09:09Z",
   "region": "europe",
   "part": 8,
   "of": 8,
@@ -5566,19 +5566,6 @@
       "countryCode": "RU"
     },
     {
-      "id": "rb2_relax_fm_7151c043",
-      "title": "Relax FM",
-      "subtitle": "Life",
-      "imageUrl": "https://relax-fm.ru/design/images/img_for_design/icons/touch-icon-ipad.png",
-      "streamUrl": "https://pub0302.101.ru:8443/stream/air/aac/64/200",
-      "location": "The Russian Federation",
-      "genre": "Life",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 4,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_relax_fm_90_8_moscow_5558805d",
       "title": "Relax FM 90,8 Moscow",
       "subtitle": "Easy Listening, Smooth Jazz",
@@ -7284,19 +7271,6 @@
       "language": "russian",
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_107_7_fm_5f182e63",
-      "title": "Авторадио 107.7 FM",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://online2.gkvr.ru:8001/avtoradio_mzd_64.aac",
-      "location": "The Russian Federation",
-      "genre": "Radio",
-      "countryCode": "RU",
-      "language": "язык: русский",
-      "clickCount": 0,
-      "bitrate": 64
     },
     {
       "id": "rb2_106_1_fm_d11aef77",
@@ -9291,19 +9265,6 @@
       "language": "russian",
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_89_7_fm_c666a00c",
-      "title": "Европа Плюс Симферополь 89.7 FM",
-      "subtitle": "89_7, Evropa Plus",
-      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250125_115012456.jpg?alt=media&token=37fba570-7c19-47c2-a827-d93f33c09edd",
-      "streamUrl": "https://radio.promedia.ru/europa-simf",
-      "location": "The Russian Federation",
-      "genre": "89_7",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 0,
-      "bitrate": 256
     },
     {
       "id": "rb2_99_9_fm_a14ef0f3",
@@ -22202,15 +22163,6 @@
       "bitrate": 160
     },
     {
-      "id": "radio_rocks_kyiv_103_6fm_hd_ua_4748a2",
-      "title": "Radio ROCKS Kyiv 103.6FM HD",
-      "subtitle": "Classic Rock",
-      "location": "Kyiv, Ukraine",
-      "genre": "Rock",
-      "countryCode": "UA",
-      "streamUrl": "https://online.radioroks.ua/RadioROKS_HD"
-    },
-    {
       "id": "radio_rocks_103_6fm_hd_ua_9c418a",
       "title": "Radio ROCKS Новий Рок 103.6FM HD",
       "subtitle": "Alternative Rock",
@@ -23376,19 +23328,6 @@
       "language": "ukrainian",
       "clickCount": 1,
       "bitrate": 320
-    },
-    {
-      "id": "rb2_golden_hits_72bce21a",
-      "title": "Радіо Київстар Golden Hits",
-      "subtitle": "256 Kbit/S, Aac",
-      "imageUrl": "https://radio.kyivstar.ua/favicon.ico",
-      "streamUrl": "https://radio.kyivstar.ua/stream/gold/master.m3u8",
-      "location": "Ukraine",
-      "genre": "256 Kbit/S",
-      "countryCode": "UA",
-      "language": "ukranian",
-      "clickCount": 0,
-      "bitrate": 281
     },
     {
       "id": "rb2_made_in_ukraine_ca771d20",
@@ -24768,6 +24707,42 @@
       "clickCount": 5,
       "bitrate": 128,
       "streamUrl": "https://myradio24.org/oldclub"
+    },
+    {
+      "id": "radio_rocks_kyiv_103_6fm_hd_ua_76f4c2ab",
+      "title": "Radio ROCKS Kyiv 103.6FM HD",
+      "subtitle": "Classic Rock",
+      "location": "Ukraine",
+      "genre": "Classic Rock",
+      "countryCode": "UA",
+      "language": "english",
+      "clickCount": 9,
+      "bitrate": 320,
+      "streamUrl": "https://online.radioroks.ua/RadioROKS_HD"
+    },
+    {
+      "id": "kalina_krasnaya_ru_f709ee4e",
+      "title": "Kalina Krasnaya",
+      "subtitle": "Pop",
+      "location": "The Russian Federation",
+      "genre": "Pop",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 4,
+      "bitrate": 160,
+      "streamUrl": "https://icecast-studio21.cdnvideo.ru/KalynaK_1a"
+    },
+    {
+      "id": "r_dio_regina_z_pad_sk_dc9a4f93",
+      "title": "Rádio Regina Západ",
+      "subtitle": "Culture",
+      "location": "Slovakia",
+      "genre": "Culture",
+      "countryCode": "SK",
+      "language": "slovak",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://icecast.stv.livebox.sk/regina-ba_128.mp3"
     }
   ]
 }

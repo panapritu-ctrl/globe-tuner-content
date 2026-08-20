@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-19T01:16:06Z",
+  "updated": "2026-08-20T01:09:10Z",
   "region": "europe",
   "part": 7,
   "of": 8,
@@ -2536,19 +2536,6 @@
       "genre": "Radio",
       "countryCode": "PL",
       "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_safira_kanoe_5fae147d",
-      "title": "Radio Safira Kanoe",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://stream.zeno.fm/fxvq8uqcvuhvv",
-      "location": "Mazowieckie, Poland",
-      "genre": "Radio",
-      "countryCode": "PL",
-      "language": "british english",
       "clickCount": 0,
       "bitrate": 128
     },
@@ -10304,19 +10291,6 @@
       "bitrate": 192
     },
     {
-      "id": "rb2_pro_balkan_rom_nia_br_ila_651e880f",
-      "title": "Pro Balkan România -Brăila",
-      "subtitle": "Dance, Manele",
-      "imageUrl": "https://www.radioexpert.net/radio-logo/romania/radio-balkan-romania-785-doar-internet-romania-320.jpg",
-      "streamUrl": "https://radio.sonicpanel.ro/8102/stream",
-      "location": "Romania",
-      "genre": "Dance",
-      "countryCode": "RO",
-      "language": "romania",
-      "clickCount": 1,
-      "bitrate": 96
-    },
-    {
       "id": "pro_fm_ro_960ee7",
       "title": "Pro FM",
       "subtitle": "Pop",
@@ -15381,19 +15355,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_naxi_hype_acf240e4",
-      "title": "Naxi - hype",
-      "subtitle": "Folk",
-      "imageUrl": "",
-      "streamUrl": "https://naxidigital-hype128ssl.streaming.rs:8272/;stream.nsv",
-      "location": "Serbia",
-      "genre": "Folk",
-      "countryCode": "RS",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_naxi_70_e_3_d474ec07",
       "title": "Naxi 70-e 3",
       "subtitle": "Radio",
@@ -17578,19 +17539,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_belle_amie_0d55ded5",
-      "title": "belle amie",
-      "subtitle": "Radio",
-      "imageUrl": "https://belami.rs/radio-uzivo/",
-      "streamUrl": "http://92.60.239.23:8000/;?type=http&nocache=323",
-      "location": "Serbia",
-      "genre": "Radio",
-      "countryCode": "RS",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_ifm_narodni_radio_44623d34",
       "title": "iFM Narodni Radio",
       "subtitle": "Radio",
@@ -17914,19 +17862,6 @@
       "bitrate": 64
     },
     {
-      "id": "rb2_101_ru_bard_songs_4dcc8231",
-      "title": "101.ru Bard songs - Авторская Песня",
-      "subtitle": "Bard, Liedermacher",
-      "imageUrl": "",
-      "streamUrl": "http://ic6.101.ru:8000/stream/pro/aac/64/35",
-      "location": "The Russian Federation",
-      "genre": "Bard",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 1,
-      "bitrate": 64
-    },
-    {
       "id": "101_ru_italo_disco_ru_ff3f94",
       "title": "101.ru Italo Disco",
       "subtitle": "Dance 80S",
@@ -18107,19 +18042,6 @@
       "countryCode": "RU",
       "language": "russian",
       "clickCount": 1,
-      "bitrate": 64
-    },
-    {
-      "id": "rb2_101_ru_channel_119_laskoviy_may_7e2374d6",
-      "title": "101.ru/channel/119-Laskoviy/May",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://pub0202.101.ru:8000/stream/pro/aac/64/119",
-      "location": "The Russian Federation",
-      "genre": "Radio",
-      "countryCode": "RU",
-      "language": null,
-      "clickCount": 0,
       "bitrate": 64
     },
     {
@@ -24677,6 +24599,54 @@
       "clickCount": 5,
       "bitrate": 128,
       "streamUrl": "https://naxidigital-blues128ssl.streaming.rs:8312/;stream.nsv"
+    },
+    {
+      "id": "radio_of_russia_moscow_ru_6ae80441",
+      "title": "Radio of Russia - Moscow",
+      "subtitle": "News Talk",
+      "location": "The Russian Federation",
+      "genre": "News Talk",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "https://icecast-vgtrk.cdnvideo.ru/rrzonam_mp3_192kbps"
+    },
+    {
+      "id": "ntr_network_radio_pt_1df56029",
+      "title": "NTR - Network Radio",
+      "subtitle": "70 80 Hits",
+      "location": "Portugal",
+      "genre": "70 80 Hits",
+      "countryCode": "PT",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://is.ntradio.pt/ntr"
+    },
+    {
+      "id": "esr_east_side_radio_pt_28efa30f",
+      "title": "ESR - East Side Radio",
+      "subtitle": "Radio",
+      "location": "Portugal",
+      "genre": "Radio",
+      "countryCode": "PT",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://ice.ether.esr.li/esr-ch1.aac"
+    },
+    {
+      "id": "esta_o_di_ria_r_dio_viseu_96_8_fm_pt_07d2b5e3",
+      "title": "Estação Diária Rádio, Viseu – 96.8 FM",
+      "subtitle": "Radio",
+      "location": "Portugal",
+      "genre": "Radio",
+      "countryCode": "PT",
+      "language": "portuguese",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://centova.radio.com.pt/proxy/430?mp=/stream"
     }
   ]
 }
