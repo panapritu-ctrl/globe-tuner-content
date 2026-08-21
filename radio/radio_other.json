@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-20T01:09:09Z",
+  "updated": "2026-08-21T01:14:42Z",
   "region": "other",
   "stations": [
     {
@@ -612,18 +612,6 @@
       "clickCount": 0,
       "language": null,
       "curated": true
-    },
-    {
-      "id": "cope_madrid_fm_es_e696c5a4",
-      "title": "Cope Madrid FM",
-      "subtitle": "Radio",
-      "location": "Spain",
-      "genre": "Radio",
-      "countryCode": "ES",
-      "language": "spanish",
-      "clickCount": 22,
-      "bitrate": 64,
-      "streamUrl": "https://net1-cope-rrcast.flumotion.com/cope/net1-low.mp3"
     },
     {
       "id": "just_witter_radio_gb_dd8ff30a",
@@ -2066,18 +2054,6 @@
       "streamUrl": "http://das-edge27-sa23-lax02.cdnstream.com/1070_64"
     },
     {
-      "id": "sevilla_fc_radio_es_d1f7ea91",
-      "title": "Sevilla FC Radio",
-      "subtitle": "Deportes",
-      "location": "Spain",
-      "genre": "Deportes",
-      "countryCode": "ES",
-      "language": null,
-      "clickCount": 6,
-      "bitrate": 128,
-      "streamUrl": "https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_ye0b8tc0/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8"
-    },
-    {
       "id": "allzic_radio_enfoir_s_fr_5f98e166",
       "title": "Allzic Radio Enfoirés",
       "subtitle": "Chansons Françaises",
@@ -2520,6 +2496,174 @@
       "clickCount": 4,
       "bitrate": 64,
       "streamUrl": "http://tx.sharp-stream.com/icecast.php?i=radioshow2.mp3"
+    },
+    {
+      "id": "elise_radio_fr_4aa8ead5",
+      "title": "Elise radio",
+      "subtitle": "90'S",
+      "location": "France",
+      "genre": "90'S",
+      "countryCode": "FR",
+      "language": null,
+      "clickCount": 13,
+      "bitrate": 128,
+      "streamUrl": "https://elise.wanastream.com:25000/;stream.nsv"
+    },
+    {
+      "id": "hot_995_wiht_99_5_fm_washington_us_392c5b83",
+      "title": "Hot 995 WIHT 99.5 FM Washington",
+      "subtitle": "Hits",
+      "location": "The United States Of America",
+      "genre": "Hits",
+      "countryCode": "US",
+      "language": "english",
+      "clickCount": 10,
+      "bitrate": 0,
+      "streamUrl": "http://stream.revma.ihrhls.com/zc2509"
+    },
+    {
+      "id": "ici_occitanie_fr_3e838a24",
+      "title": "ICI Occitanie",
+      "subtitle": "80S",
+      "location": "France",
+      "genre": "80S",
+      "countryCode": "FR",
+      "language": "francaise",
+      "clickCount": 9,
+      "bitrate": 128,
+      "streamUrl": "https://icecast.radiofrance.fr/fbtoulouse-midfi.mp3"
+    },
+    {
+      "id": "forbidden_coconut_radio_us_34aeb458",
+      "title": "Forbidden Coconut Radio",
+      "subtitle": "Beach",
+      "location": "The United States Of America",
+      "genre": "Beach",
+      "countryCode": "US",
+      "language": "english",
+      "clickCount": 9,
+      "bitrate": 0,
+      "streamUrl": "https://radio.theforbiddencoconut.com/stream.ogg"
+    },
+    {
+      "id": "yesterday_usa_red_network_us_1b0ac75b",
+      "title": "Yesterday USA Red Network",
+      "subtitle": "Nostalgia",
+      "location": "The United States Of America",
+      "genre": "Nostalgia",
+      "countryCode": "US",
+      "language": "english",
+      "clickCount": 9,
+      "bitrate": 192,
+      "streamUrl": "https://broadcast.classicairwaves.com/listen/classic_radio_network/live.mp3"
+    },
+    {
+      "id": "voltage_addictive_radio_fr_544ba43a",
+      "title": "Voltage Addictive Radio",
+      "subtitle": "Radio",
+      "location": "France",
+      "genre": "Radio",
+      "countryCode": "FR",
+      "language": null,
+      "clickCount": 7,
+      "bitrate": 128,
+      "streamUrl": "https://start-voltage.ice.infomaniak.ch/start-voltage-high.mp3"
+    },
+    {
+      "id": "urban_hit_maroc_fr_78b63a20",
+      "title": "Urban Hit Maroc",
+      "subtitle": "Radio",
+      "location": "France",
+      "genre": "Radio",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 7,
+      "bitrate": 128,
+      "streamUrl": "https://urbanhitrai.ice.infomaniak.ch/urbanhitrai.mp3"
+    },
+    {
+      "id": "la_grosse_radio_metal_192_kbit_s_fr_2a86f3ce",
+      "title": "La Grosse Radio METAL - 192 kbit/s",
+      "subtitle": "Metal",
+      "location": "France",
+      "genre": "Metal",
+      "countryCode": "FR",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 192,
+      "streamUrl": "https://hd.lagrosseradio.info/lagrosseradio-metal-192.mp3"
+    },
+    {
+      "id": "gozadera_fm_es_77a4d8cf",
+      "title": "Gozadera Fm",
+      "subtitle": "Radio",
+      "location": "Spain",
+      "genre": "Radio",
+      "countryCode": "ES",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://streaming.shoutcast.com/gozadera"
+    },
+    {
+      "id": "bbc_radio_northampton_uk_only_gb_3b8e7de2",
+      "title": "BBC Radio Northampton (UK Only)",
+      "subtitle": "Information",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Information",
+      "countryCode": "GB",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 339,
+      "streamUrl": "http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/cfs/bbc_radio_northampton.m3u8"
+    },
+    {
+      "id": "underground_bass_gb_1da76d9a",
+      "title": "Underground Bass",
+      "subtitle": "Breakbeat",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Breakbeat",
+      "countryCode": "GB",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 256,
+      "streamUrl": "https://listen.undergroundbass.com:8804/stream"
+    },
+    {
+      "id": "1_fm_reggaeton_heat_ch_af27de05",
+      "title": "1.FM - Reggaeton Heat",
+      "subtitle": "Caribbean",
+      "location": "Switzerland",
+      "genre": "Caribbean",
+      "countryCode": "CH",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 256,
+      "streamUrl": "http://strm112.1.fm/reggaeton_mobile_mp3"
+    },
+    {
+      "id": "remember4u_es_f844e65a",
+      "title": "Remember4U",
+      "subtitle": "2000S",
+      "location": "Spain",
+      "genre": "2000S",
+      "countryCode": "ES",
+      "language": "espanish",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://radio.remember4u.es/live"
+    },
+    {
+      "id": "onda_tenerife_es_8e1197ac",
+      "title": "Onda Tenerife",
+      "subtitle": "Smooth",
+      "location": "Spain",
+      "genre": "Smooth",
+      "countryCode": "ES",
+      "language": "spanish",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://radioserver11.profesionalhosting.com/proxy/pkg90177?mp=/stream"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-20T01:09:10Z",
+  "updated": "2026-08-21T01:14:42Z",
   "region": "africa",
   "stations": [
     {
@@ -3987,19 +3987,6 @@
       "countryCode": "NG"
     },
     {
-      "id": "rb2_godfrey_okoye_university_radio_106_9fm_4494646d",
-      "title": "Godfrey Okoye University Radio 106.9fm",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://us5new.listen2myradio.com:2199/stream.php?port=8178",
-      "location": "Enugu, Nigeria",
-      "genre": "Radio",
-      "countryCode": "NG",
-      "language": null,
-      "clickCount": 3,
-      "bitrate": 128
-    },
-    {
       "id": "gospotainment_radio_ng_aed5c7",
       "title": "Gospotainment Radio",
       "subtitle": "Afrobeats",
@@ -6374,19 +6361,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_radio_one_fm_90_90_0_fm_mp3_e4229939",
-      "title": "Radio One FM 90 - 90.0 FM (MP3)",
-      "subtitle": "Adult Contemporary",
-      "imageUrl": "https://img.sedoparking.com/templates/logos/sedo_logo.png",
-      "streamUrl": "http://radioone.loftuganda.tech/stream",
-      "location": "Kampala, Uganda",
-      "genre": "Adult Contemporary",
-      "countryCode": "UG",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 64
-    },
-    {
       "id": "radio_pacis_ug_503f25",
       "title": "Radio Pacis",
       "subtitle": "Radio",
@@ -7194,19 +7168,6 @@
       "genre": "Radio",
       "countryCode": "ZA",
       "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_express_fm_digital_c29a8ef0",
-      "title": "Express-FM Digital",
-      "subtitle": "Christian, Christian Blues",
-      "imageUrl": "https://www.express-fm.co.za/image/catalog/express_fm_logo_in_colour.png",
-      "streamUrl": "http://198.7.59.28:34235/stream",
-      "location": "Gauteng, South Africa",
-      "genre": "Christian",
-      "countryCode": "ZA",
-      "language": "afrikaans",
       "clickCount": 0,
       "bitrate": 128
     },
@@ -9835,6 +9796,54 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://hts02.brascast.com:9288/stream"
+    },
+    {
+      "id": "om_kalthom_eg_3664f8b4",
+      "title": "OM Kalthom أم كلثوم",
+      "subtitle": "Arabic",
+      "location": "Egypt",
+      "genre": "Arabic",
+      "countryCode": "EG",
+      "language": "arabic",
+      "clickCount": 54,
+      "bitrate": 0,
+      "streamUrl": "https://stream.zeno.fm/zsgrfxg71s8uv"
+    },
+    {
+      "id": "abdel_halim_hafez_eg_65d11704",
+      "title": "Abdel Halim Hafez عبدالحليم حافظ",
+      "subtitle": "Arabic",
+      "location": "Egypt",
+      "genre": "Arabic",
+      "countryCode": "EG",
+      "language": "arabic",
+      "clickCount": 38,
+      "bitrate": 0,
+      "streamUrl": "https://stream.zeno.fm/8a4eqkd0pnhvv"
+    },
+    {
+      "id": "wavemaster_radio_ci_410602d7",
+      "title": "WaveMaster Radio",
+      "subtitle": "Afrobeat",
+      "location": "Coted Ivoire",
+      "genre": "Afrobeat",
+      "countryCode": "CI",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "https://wavemaster.diskstation.me/listen/wavemaster_radio/radio.mp3"
+    },
+    {
+      "id": "vicinity_95_3_fm_ng_ab6c6987",
+      "title": "Vicinity 95.3 FM",
+      "subtitle": "Community Radio",
+      "location": "Nigeria",
+      "genre": "Community Radio",
+      "countryCode": "NG",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://radio.fmmaria.com:8020/radio.mp3"
     }
   ]
 }

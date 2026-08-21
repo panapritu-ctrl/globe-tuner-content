@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-20T01:09:10Z",
+  "updated": "2026-08-21T01:14:42Z",
   "region": "europe",
   "part": 5,
   "of": 8,
@@ -23060,19 +23060,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_radio_studio_sound_fb31335e",
-      "title": "RADIO STUDIO SOUND",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://sr9.inmystream.it:8510/stream",
-      "location": "Italy",
-      "genre": "Radio",
-      "countryCode": "IT",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "radio_subasio_it_2a9213",
       "title": "RADIO SUBASIO",
       "subtitle": "Radio",
@@ -27641,6 +27628,18 @@
       "clickCount": 5,
       "bitrate": 128,
       "streamUrl": "https://christmasfm.cdnstream1.com/2551_128.mp3"
+    },
+    {
+      "id": "jazzradio_hu_hu_65a80b43",
+      "title": "Jazzradio.hu",
+      "subtitle": "Jazz",
+      "location": "Hungary",
+      "genre": "Jazz",
+      "countryCode": "HU",
+      "language": "hungarian",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://www.jazzradio.hu:8000/jazzradio_192.ogg"
     }
   ]
 }

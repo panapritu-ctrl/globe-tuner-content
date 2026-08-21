@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-20T01:09:10Z",
+  "updated": "2026-08-21T01:14:42Z",
   "region": "asia",
   "part": 3,
   "of": 3,
@@ -9003,19 +9003,6 @@
       "bitrate": 150
     },
     {
-      "id": "rb2_powert_rk_dans_6f239590",
-      "title": "PowerTürk Dans",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://listen.powerapp.com.tr/powerturkdans/abr/playlist.m3u8",
-      "location": "Türkiye",
-      "genre": "Radio",
-      "countryCode": "TR",
-      "language": null,
-      "clickCount": 3,
-      "bitrate": 277
-    },
-    {
       "id": "rb2_powert_rk_rap_41f64723",
       "title": "PowerTürk Rap",
       "subtitle": "Hip Hop, Rap",
@@ -12413,19 +12400,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_station_ddf57d7f",
-      "title": "好事聯播網 蓮花電台",
-      "subtitle": "Music",
-      "imageUrl": "https://cooltv.top/logo/best935.webp",
-      "streamUrl": "http://202.39.43.67:1935/live/RA000011/chunklist.m3u8",
-      "location": "Taiwan, Republic Of China",
-      "genre": "Music",
-      "countryCode": "TW",
-      "language": "chinese",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_station_a945e7f7",
       "title": "好事聯播網 高雄港都",
       "subtitle": "Music",
@@ -13561,19 +13535,6 @@
       "genre": "News",
       "streamUrl": "http://c13.radioboss.fm:8127/stream",
       "countryCode": "VN"
-    },
-    {
-      "id": "rb2_xone_fm_8fe6f199",
-      "title": "XONE FM",
-      "subtitle": "Pop",
-      "imageUrl": "",
-      "streamUrl": "https://vnno-ne-2-tf-multi-playlist-zmp3.zmdcdn.me/Wbo0diyYozY/zhls/playback-realtime/audio/e75e51f26db784e9dda6/audio.m3u8",
-      "location": "Vietnam",
-      "genre": "Pop",
-      "countryCode": "VN",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 128
     },
     {
       "id": "zing_bolero_vn_afff58",
@@ -15043,6 +15004,18 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "http://178.32.4.127:8046/stream"
+    },
+    {
+      "id": "mayday_records_radio_tr_bca97866",
+      "title": "Mayday Records Radio",
+      "subtitle": "Eclectic",
+      "location": "Türkiye",
+      "genre": "Eclectic",
+      "countryCode": "TR",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 256,
+      "streamUrl": "https://stream.maydayrecords.net/radio/8000/maydayrecords.mp3?1781007629"
     }
   ]
 }

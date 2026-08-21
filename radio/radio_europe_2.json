@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-20T01:09:10Z",
+  "updated": "2026-08-21T01:14:42Z",
   "region": "europe",
   "part": 2,
   "of": 8,
@@ -3324,19 +3324,6 @@
       "language": null,
       "clickCount": 1,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_kika_hd_kinderkanal_von_ard_und_zdf_a6d8ac49",
-      "title": "KiKA HD - Kinderkanal von ARD und ZDF",
-      "subtitle": "Ard, Cartoon Network",
-      "imageUrl": "",
-      "streamUrl": "https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8",
-      "location": "Deutschland (Germany), Germany",
-      "genre": "Ard",
-      "countryCode": "DE",
-      "language": "german",
-      "clickCount": 1,
-      "bitrate": 1672
     },
     {
       "id": "rb2_kinder_rockradio_66affdcb",
@@ -13592,15 +13579,6 @@
       "bitrate": 128
     },
     {
-      "id": "rock_antenne_bayern_de_f8b20b",
-      "title": "Rock Antenne Bayern",
-      "subtitle": "Heavy Metal",
-      "location": "Bavaria, Germany",
-      "genre": "Rock",
-      "countryCode": "DE",
-      "streamUrl": "https://stream.rockantenne.bayern/rockantenne-bayern/stream/mp3"
-    },
-    {
       "id": "rb2_rock_antenne_biker_rock_76814b66",
       "title": "Rock Antenne Biker Rock",
       "subtitle": "Rock",
@@ -20388,19 +20366,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_dr_p4_midt_vest_aac_49b20332",
-      "title": "DR P4 Midt-Vest (AAC)",
-      "subtitle": "Regional Radio",
-      "imageUrl": "https://www.dr.dk/lyd/_next/static/media/p4.a9a465ed.svg",
-      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4midtvest/masterab.m3u8",
-      "location": "Denmark",
-      "genre": "Regional Radio",
-      "countryCode": "DK",
-      "language": "danish",
-      "clickCount": 0,
-      "bitrate": 324
-    },
-    {
       "id": "rb2_dr_p4_midt_vest_e8dd0971",
       "title": "DR P4 Midt/Vest",
       "subtitle": "Radio",
@@ -20447,19 +20412,6 @@
       "language": "danish",
       "clickCount": 3,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_dr_p4_syd_aac_93f651cc",
-      "title": "DR P4 Syd (AAC)",
-      "subtitle": "Regional Radio",
-      "imageUrl": "https://www.dr.dk/lyd/_next/static/media/p4.a9a465ed.svg",
-      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4syd/masterab.m3u8",
-      "location": "Denmark",
-      "genre": "Regional Radio",
-      "countryCode": "DK",
-      "language": "danish",
-      "clickCount": 0,
-      "bitrate": 324
     },
     {
       "id": "dr_p4_stjyllands_radio_dk_9610bb",
@@ -28287,16 +28239,16 @@
       "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p8jazz/masterab.m3u8"
     },
     {
-      "id": "dr_p2_aac_dk_0aeeaf1d",
-      "title": "DR P2 (AAC)",
-      "subtitle": "Radio",
+      "id": "dr_p4_trekanten_aac_dk_a030938a",
+      "title": "DR P4 Trekanten (AAC)",
+      "subtitle": "Regional Radio",
       "location": "Denmark",
-      "genre": "Radio",
+      "genre": "Regional Radio",
       "countryCode": "DK",
       "language": "danish",
       "clickCount": 4,
       "bitrate": 324,
-      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p2/masterab.m3u8"
+      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4trekanten/masterab.m3u8"
     }
   ]
 }

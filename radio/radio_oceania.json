@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-20T01:08:41Z",
+  "updated": "2026-08-21T01:14:42Z",
   "region": "oceania",
   "stations": [
     {
@@ -10953,19 +10953,6 @@
       "bitrate": 130
     },
     {
-      "id": "rb2_listnr_afrobeats_hls_dc02e866",
-      "title": "LiSTNR - Afrobeats (HLS)",
-      "subtitle": "Afrobeats",
-      "imageUrl": "https://i.ibb.co/v64CTvgj/Li-STNR-Square-Tile-3000x3000-AFROBEATS.jpg",
-      "streamUrl": "http://wz0liw.scahw.com.au/live/afrobeats.stream/playlist.m3u8",
-      "location": "Australia",
-      "genre": "Afrobeats",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 2,
-      "bitrate": 63
-    },
-    {
       "id": "rb2_listnr_almost_acoustic_hls_522a39d7",
       "title": "LiSTNR - Almost Acoustic (HLS)",
       "subtitle": "Acoustic",
@@ -11107,19 +11094,6 @@
       "language": "english",
       "clickCount": 1,
       "bitrate": 130
-    },
-    {
-      "id": "rb2_listnr_chill_electronic_9fafb3aa",
-      "title": "LiSTNR - Chill Electronic",
-      "subtitle": "Chill, Dance",
-      "imageUrl": "https://i.ibb.co/xtMdR8zy/Li-STNR-Square-Tile-3000x3000-CHILL-ELECTRONIC.jpg",
-      "streamUrl": "http://wz0liw.scahw.com.au/live/chill-electronic.stream/playlist.m3u8",
-      "location": "Australia",
-      "genre": "Chill",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 1,
-      "bitrate": 128
     },
     {
       "id": "rb2_listnr_chill_electronic_hls_25ca30bb",
@@ -11367,19 +11341,6 @@
       "language": "english",
       "clickCount": 1,
       "bitrate": 63
-    },
-    {
-      "id": "rb2_listnr_fans_of_lady_gaga_hls_a81bc5bf",
-      "title": "LiSTNR - Fans of Lady Gaga (HLS)",
-      "subtitle": "Music",
-      "imageUrl": "https://i.ibb.co/NgYDHnzW/Li-STNR-Square-Tile-3000x3000-FANS-OF-LADY-GAGA.jpg",
-      "streamUrl": "http://wz0liw.scahw.com.au/live/gaga.stream/playlist.m3u8",
-      "location": "Australia",
-      "genre": "Music",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 2,
-      "bitrate": 64
     },
     {
       "id": "rb2_listnr_festival_bangers_hls_90495c6e",
@@ -15272,19 +15233,6 @@
       "bitrate": 96
     },
     {
-      "id": "rb2_sunshine_coast_924edb47",
-      "title": "Sunshine Coast",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://cast4.my-control-panel.com/proxy/liquidsunnycoast/stream",
-      "location": "Australia",
-      "genre": "Radio",
-      "countryCode": "AU",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 320
-    },
-    {
       "id": "rb2_sunshine_fm_buderim_104_9_fm_aac_1bc8bdfa",
       "title": "Sunshine FM - Buderim - 104.9 FM (AAC+)",
       "subtitle": "Adult Contemporary, Community Radio",
@@ -17106,15 +17054,6 @@
       "genre": "News",
       "countryCode": "GU",
       "streamUrl": "https://ice10.securenetsystems.net/KUSG"
-    },
-    {
-      "id": "tfc_guam_gu",
-      "title": "TFC Guam",
-      "subtitle": "Filipino",
-      "location": "Guam",
-      "genre": "Music",
-      "countryCode": "GU",
-      "streamUrl": "https://tfcguam-abscbn-ono.amagi.tv/index.m3u8"
     },
     {
       "id": "offshore_radio_mh",
@@ -19089,19 +19028,6 @@
       "bitrate": 134
     },
     {
-      "id": "rb2_west_coast_radio_d1af0dac",
-      "title": "West Coast Radio",
-      "subtitle": "Radio",
-      "imageUrl": "https://www.wcrfm.co.nz/index_files/image3251.jpg",
-      "streamUrl": "http://stream2.nrgkits.co.nz:5000/wcrfm",
-      "location": "Northland, New Zealand",
-      "genre": "Radio",
-      "countryCode": "NZ",
-      "language": "english",
-      "clickCount": 1,
-      "bitrate": 170
-    },
-    {
       "id": "rb2_west_fm_swing_radio_0d61ab6a",
       "title": "West FM Swing Radio",
       "subtitle": "1920S, 1930'S",
@@ -19501,6 +19427,18 @@
       "clickCount": 5,
       "bitrate": 311,
       "streamUrl": "https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8"
+    },
+    {
+      "id": "radio_panjabi_nz_d06f826f",
+      "title": "RADIO PANJABI",
+      "subtitle": "Folk",
+      "location": "New Zealand",
+      "genre": "Folk",
+      "countryCode": "NZ",
+      "language": "english",
+      "clickCount": 7,
+      "bitrate": 64,
+      "streamUrl": "https://s20.reliastream.com/stream/8134"
     }
   ]
 }
