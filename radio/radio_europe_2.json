@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-21T01:14:42Z",
+  "updated": "2026-08-22T01:10:12Z",
   "region": "europe",
   "part": 2,
   "of": 8,
@@ -9615,19 +9615,6 @@
       "language": "german",
       "clickCount": 3,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_101_madonna_98c35027",
-      "title": "Radio 101 Madonna",
-      "subtitle": "Pop Music",
-      "imageUrl": "",
-      "streamUrl": "https://pub0202.101.ru:8443/stream/pro/aac/64/128",
-      "location": "Germany",
-      "genre": "Pop Music",
-      "countryCode": "DE",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 64
     },
     {
       "id": "rb2_radio_21_bremen_8a3200ef",
@@ -20305,19 +20292,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_dr_p4_bornholm_aac_45f65836",
-      "title": "DR P4 Bornholm (AAC)",
-      "subtitle": "Regional Radio",
-      "imageUrl": "https://www.dr.dk/lyd/_next/static/media/p4.a9a465ed.svg",
-      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4bornholm/masterab.m3u8",
-      "location": "Denmark",
-      "genre": "Regional Radio",
-      "countryCode": "DK",
-      "language": "danish",
-      "clickCount": 1,
-      "bitrate": 324
-    },
-    {
       "id": "rb2_dr_p4_esbjerg_960f5706",
       "title": "DR P4 Esbjerg",
       "subtitle": "Regional Radio",
@@ -20486,19 +20460,6 @@
       "language": null,
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_dr_p5_syd_aac_176bd1f9",
-      "title": "DR P5 Syd (AAC)",
-      "subtitle": "Regional Radio",
-      "imageUrl": "https://www.dr.dk/lyd/_next/static/media/p5.1704bd78.svg",
-      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p5syd/masterab.m3u8",
-      "location": "Denmark",
-      "genre": "Regional Radio",
-      "countryCode": "DK",
-      "language": "danish",
-      "clickCount": 0,
-      "bitrate": 324
     },
     {
       "id": "rb2_dr_p5_trekanten_0143de39",
@@ -28249,6 +28210,30 @@
       "clickCount": 4,
       "bitrate": 324,
       "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4trekanten/masterab.m3u8"
+    },
+    {
+      "id": "dr_p4_fyn_aac_dk_50d1da47",
+      "title": "DR P4 Fyn (AAC)",
+      "subtitle": "Regional Radio",
+      "location": "Denmark",
+      "genre": "Regional Radio",
+      "countryCode": "DK",
+      "language": "danish",
+      "clickCount": 3,
+      "bitrate": 324,
+      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4fyn/masterab.m3u8"
+    },
+    {
+      "id": "radio_folk_dk_a2051f4e",
+      "title": "Radio Folk",
+      "subtitle": "Cultural News",
+      "location": "Denmark",
+      "genre": "Cultural News",
+      "countryCode": "DK",
+      "language": "danish",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "http://stream.radiojar.com/fqt2y0ds97zuv"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-21T01:14:11Z",
+  "updated": "2026-08-22T01:10:12Z",
   "region": "europe",
   "part": 8,
   "of": 8,
@@ -5553,19 +5553,6 @@
       "countryCode": "RU"
     },
     {
-      "id": "rb2_relax_fm_90_8_moscow_5558805d",
-      "title": "Relax FM 90,8 Moscow",
-      "subtitle": "Easy Listening, Smooth Jazz",
-      "imageUrl": "https://www.relax-fm.ru/design/images/img_for_design/icons/touch-icon-ipad.png",
-      "streamUrl": "http://pub0302.101.ru:8000/stream/trust/mp3/128/264",
-      "location": "The Russian Federation,Moscow (Russia), The Russian Federation",
-      "genre": "Easy Listening",
-      "countryCode": "RU",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 128
-    },
-    {
       "id": "relax_fm_chillout_ru_95eff2",
       "title": "Relax FM Chillout",
       "subtitle": "Chill",
@@ -10888,19 +10875,6 @@
       "bitrate": 192
     },
     {
-      "id": "rb2_93_1_fm_5a21fcfe",
-      "title": "Новое радио Выборг 93.1 FM",
-      "subtitle": "Leningrad Region, Music",
-      "imageUrl": "",
-      "streamUrl": "http://79.173.124.23:1121/Novoevib",
-      "location": "The Russian Federation",
-      "genre": "Leningrad Region",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_90_8_fm_3990545a",
       "title": "Новое радио Кингисепп 90.8 FM",
       "subtitle": "Kingisepp, Leningrad Region",
@@ -13664,19 +13638,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_station_3739b4ef",
-      "title": "Радио Романтика",
-      "subtitle": "Chillout, Covers",
-      "imageUrl": "https://www.radioromantika.ru/design/images/new_romantika_images/img_for_design/icons/touch-icon-ipad.png",
-      "streamUrl": "https://pub0202.101.ru:8443/stream/air/aac/64/101",
-      "location": "Moscow (Russia), The Russian Federation",
-      "genre": "Chillout",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 4,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_station_55b43658",
       "title": "Радио России",
       "subtitle": "Radio",
@@ -14896,19 +14857,6 @@
       "bitrate": 192
     },
     {
-      "id": "rb2_91_2_fm_099f8c3b",
-      "title": "Ретро ФМ Выборг 91.2 FM",
-      "subtitle": "70-Е, 80-Е",
-      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241107_222645119.jpg?alt=media&token=55e8c33f-1691-42d5-963c-10be561b1ed7",
-      "streamUrl": "http://79.173.124.23:1121/Retrovib",
-      "location": "The Russian Federation",
-      "genre": "70-Е",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_102_4_fm_2cdce220",
       "title": "Ретро ФМ Казань 102.4 FM",
       "subtitle": "70/80/90, Kazan'",
@@ -14953,19 +14901,6 @@
       "subtitle": "Music, Nizhniy Novgorod",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250111_212622852.jpg?alt=media&token=509b1448-26a5-4094-9a0a-7a39c88a95ec",
       "streamUrl": "https://emgregion.hostingradio.ru:8064/nnovgorod.retrofm.mp3",
-      "location": "The Russian Federation",
-      "genre": "Music",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_103_4_fm_fb866856",
-      "title": "Ретро ФМ Обнинск 103.4 FM",
-      "subtitle": "Music, Obninsk",
-      "imageUrl": "",
-      "streamUrl": "http://77.244.74.133:1956/rfm",
       "location": "The Russian Federation",
       "genre": "Music",
       "countryCode": "RU",
@@ -24389,18 +24324,6 @@
       "streamUrl": "http://jfm1.hostingradio.ru:14536/ijstream.mp3"
     },
     {
-      "id": "res_rewind_ru_22a99683",
-      "title": "RES: Rewind",
-      "subtitle": "Atmospheric",
-      "location": "The Russian Federation",
-      "genre": "Atmospheric",
-      "countryCode": "RU",
-      "language": "english",
-      "clickCount": 5,
-      "bitrate": 320,
-      "streamUrl": "https://cst.res.ad/rw320"
-    },
-    {
       "id": "radio_svoboda_ua_b9327247",
       "title": "Radio Svoboda (Радіо Свобода)",
       "subtitle": "News",
@@ -24627,6 +24550,42 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://icecast.stv.livebox.sk/regina-ba_128.mp3"
+    },
+    {
+      "id": "fm_ua_177bb86a",
+      "title": "Радіо Калуш FM",
+      "subtitle": "Information",
+      "location": "Ukraine",
+      "genre": "Information",
+      "countryCode": "UA",
+      "language": "ukrainian",
+      "clickCount": 5,
+      "bitrate": 320,
+      "streamUrl": "http://195.182.22.130:8000/Streamogg"
+    },
+    {
+      "id": "station_ua_e678fbc7",
+      "title": "П'ятниця Кременчук",
+      "subtitle": "Shanson",
+      "location": "Ukraine",
+      "genre": "Shanson",
+      "countryCode": "UA",
+      "language": "russian",
+      "clickCount": 5,
+      "bitrate": 256,
+      "streamUrl": "http://radio.moa.org.ua/Friday"
+    },
+    {
+      "id": "west_pole_64k_aac_ua_83598e4c",
+      "title": "Західний полюс West Pole 64k AAC+",
+      "subtitle": "Radio",
+      "location": "Ukraine",
+      "genre": "Radio",
+      "countryCode": "UA",
+      "language": "ukrainian",
+      "clickCount": 4,
+      "bitrate": 64,
+      "streamUrl": "https://online.z-polus.info/mobilehq"
     }
   ]
 }

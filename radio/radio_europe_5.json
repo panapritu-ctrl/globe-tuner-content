@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-21T01:14:42Z",
+  "updated": "2026-08-22T01:10:12Z",
   "region": "europe",
   "part": 5,
   "of": 8,
@@ -7257,19 +7257,6 @@
       "language": null,
       "clickCount": 4,
       "bitrate": 192
-    },
-    {
-      "id": "rb2_tiamo_gr_374c5a52",
-      "title": "tiamo.gr",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://i5.streams.ovh:14126/stream",
-      "location": "Greece",
-      "genre": "Radio",
-      "countryCode": "GR",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 320
     },
     {
       "id": "rb2_zeno_fm_pame_rebetiko_kai_laiko_851b010a",
@@ -25111,19 +25098,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_radio_barocco_366a5ee5",
-      "title": "Radio Barocco",
-      "subtitle": "News Talk Music",
-      "imageUrl": "",
-      "streamUrl": "https://radio.uiclecce.it/listen/radiobarocco/radio.mp3",
-      "location": "Puglia, Italy",
-      "genre": "News Talk Music",
-      "countryCode": "IT",
-      "language": "italian",
-      "clickCount": 1,
-      "bitrate": 192
-    },
-    {
       "id": "rb2_radio_base_catania_863ad24e",
       "title": "Radio Base Catania",
       "subtitle": "News, Pop",
@@ -27640,6 +27614,42 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "https://www.jazzradio.hu:8000/jazzradio_192.ogg"
+    },
+    {
+      "id": "limerick_s_live_95fm_ie_1e33934f",
+      "title": "Limerick's Live 95FM",
+      "subtitle": "Adult Contemporary",
+      "location": "Ireland",
+      "genre": "Adult Contemporary",
+      "countryCode": "IE",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 127,
+      "streamUrl": "https://wg.cdn.tibus.net/Live95fm"
+    },
+    {
+      "id": "hrvatski_radio_klasik_hr_e4daf895",
+      "title": "Hrvatski radio - Klasik",
+      "subtitle": "Classic",
+      "location": "Croatia",
+      "genre": "Classic",
+      "countryCode": "HR",
+      "language": "croatian",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "http://22653.live.streamtheworld.com/HR_CLASSICS_SC"
+    },
+    {
+      "id": "r_di_b_zs_hu_9967170f",
+      "title": "Rádió Bézs",
+      "subtitle": "Radio",
+      "location": "Hungary",
+      "genre": "Radio",
+      "countryCode": "HU",
+      "language": "hungarian",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "http://195.210.29.82:8001/bezs"
     }
   ]
 }

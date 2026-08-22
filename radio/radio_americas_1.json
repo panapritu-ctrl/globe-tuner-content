@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-21T01:14:42Z",
+  "updated": "2026-08-22T01:10:12Z",
   "region": "americas",
   "part": 1,
   "of": 5,
@@ -2151,19 +2151,6 @@
       "language": "spanish",
       "clickCount": 0,
       "bitrate": 48
-    },
-    {
-      "id": "rb2_fm_cristal_97_7_9a59a3f3",
-      "title": "FM CRISTAL 97.7",
-      "subtitle": "Cumbia, Music",
-      "imageUrl": "https://fmcristal.net/img/fmcristal.png",
-      "streamUrl": "https://streaming.radiosenlinea.com.ar/8520/stream",
-      "location": "Buenos Aires, Argentina",
-      "genre": "Cumbia",
-      "countryCode": "AR",
-      "language": "spanish",
-      "clickCount": 0,
-      "bitrate": 128
     },
     {
       "id": "rb2_fm_cald_n_99_9_32e8f194",
@@ -14354,19 +14341,6 @@
       "bitrate": 256
     },
     {
-      "id": "rb2_mpx_web_r_dio_2_05dee416",
-      "title": "MPX Web Rádio 2",
-      "subtitle": "Club Dance Electronic House Trance, Drum 'N' Bass",
-      "imageUrl": "https://mpxwebradio.com/wp-content/uploads/2021/02/DANCEMIX.png",
-      "streamUrl": "https://streaming.mpxwebradio.com/listen/mpxdancemix/256k",
-      "location": "Sergipe, Brazil",
-      "genre": "Club Dance Electronic House Trance",
-      "countryCode": "BR",
-      "language": "brazilian portuguese",
-      "clickCount": 3,
-      "bitrate": 256
-    },
-    {
       "id": "rb2_ms_web_r_dio_c5c6c991",
       "title": "MS Web Rádio",
       "subtitle": "Esportes, Hits",
@@ -14962,19 +14936,6 @@
       "countryCode": "BR",
       "language": "brazilian portuguese",
       "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb_m_quina_do_tempo_internacional_2a92a4fd",
-      "title": "Máquina do Tempo (Internacional)",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://servidor28.brlogic.com:8212/live",
-      "location": "Brazil",
-      "genre": "Radio",
-      "countryCode": "BR",
-      "language": "portuguese",
-      "clickCount": 5,
       "bitrate": 128
     },
     {
@@ -20272,19 +20233,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_r_dio_montense_flash_minas_102_9_fm_65efbc1a",
-      "title": "Rádio Montense Flash Minas 102.9 FM",
-      "subtitle": "Eclética",
-      "imageUrl": "https://img.radios.com.br/radio/lg/radio13976_1727984361.jpg",
-      "streamUrl": "https://str02.kfmidia.com.br:6704/stream?1771879911826",
-      "location": "MG, Brazil",
-      "genre": "Eclética",
-      "countryCode": "BR",
-      "language": "portuguese",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_r_dio_mundi_99_3_fm_6d9cd4c0",
       "title": "Rádio Mundi 99,3 FM",
       "subtitle": "Jazz, Pop Music",
@@ -24010,19 +23958,6 @@
       "bitrate": 96
     },
     {
-      "id": "rb2_570_news_kitchener_251ed06f",
-      "title": "570 News Kitchener",
-      "subtitle": "Local News",
-      "imageUrl": "https://kitchener.citynews.ca/apple-touch-icon.png?v=2",
-      "streamUrl": "https://rogers-hls.leanstream.co/rogers/kit570.stream/playlist.m3u8",
-      "location": "Canada",
-      "genre": "Local News",
-      "countryCode": "CA",
-      "language": "english",
-      "clickCount": 1,
-      "bitrate": 47
-    },
-    {
       "id": "rb2_620_ckrm_the_source_bc61a7f0",
       "title": "620 CKRM The Source",
       "subtitle": "Country, Sport",
@@ -25467,6 +25402,186 @@
       "clickCount": 4,
       "bitrate": 64,
       "streamUrl": "http://01.solumedia.com.ar:7345/;"
+    },
+    {
+      "id": "melodia_ia_br_16d03d07",
+      "title": "Melodia IA",
+      "subtitle": "Eclectic Music",
+      "location": "Brazil",
+      "genre": "Eclectic Music",
+      "countryCode": "BR",
+      "language": "english",
+      "clickCount": 10,
+      "bitrate": 0,
+      "streamUrl": "https://region-eu1.tunio.ai/stream/radio-ecf8596ed3c54294b044782b9c06cd81.aac"
+    },
+    {
+      "id": "r_dio_globo_98_1_fm_br_da542638",
+      "title": "Rádio Globo 98.1 FM",
+      "subtitle": "Discussions",
+      "location": "Brazil",
+      "genre": "Discussions",
+      "countryCode": "BR",
+      "language": "portuguese",
+      "clickCount": 7,
+      "bitrate": 128,
+      "streamUrl": "https://29326.live.streamtheworld.com:443/RADIO_GLOBO_RJAAC.aac?dist=radioscombr"
+    },
+    {
+      "id": "jb_radio_2_ca_90ee6abd",
+      "title": "jb radio 2",
+      "subtitle": "Music",
+      "location": "Canada",
+      "genre": "Music",
+      "countryCode": "CA",
+      "language": "english",
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "https://mediacp.jb-radio.net:8001/flac"
+    },
+    {
+      "id": "jovem_pan_florian_polis_br_abf3df8c",
+      "title": "Jovem Pan Florianópolis",
+      "subtitle": "Hits",
+      "location": "Brazil",
+      "genre": "Hits",
+      "countryCode": "BR",
+      "language": "brazilian portuguese",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "http://wz5.dnip.com.br/jfloripa/jfloripa.stream/chunklist_w2047482307.m3u8"
+    },
+    {
+      "id": "cp24_audio_channel_toronto_on_ca_0d33aecc",
+      "title": "CP24 Audio Channel - Toronto, ON",
+      "subtitle": "Local News",
+      "location": "Canada",
+      "genre": "Local News",
+      "countryCode": "CA",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 40,
+      "streamUrl": "http://18183.live.streamtheworld.com:3690/TV_CP24AAC_SC"
+    },
+    {
+      "id": "ecos_de_mis_cerros_ar_9903d184",
+      "title": "Ecos de mis Cerros",
+      "subtitle": "40S",
+      "location": "Argentina",
+      "genre": "40S",
+      "countryCode": "AR",
+      "language": "spanish",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://masservidor.net:7163/;"
+    },
+    {
+      "id": "la_estaci_n_fm_107_9_salta_ar_44e7e409",
+      "title": "La Estación Fm 107.9 Salta",
+      "subtitle": "Pop",
+      "location": "Argentina",
+      "genre": "Pop",
+      "countryCode": "AR",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 48,
+      "streamUrl": "http://radio.solumedia.com.ar:8462/stream"
+    },
+    {
+      "id": "lv16_ar_e30d79b6",
+      "title": "LV16",
+      "subtitle": "Noticias Locales",
+      "location": "Argentina",
+      "genre": "Noticias Locales",
+      "countryCode": "AR",
+      "language": "español argentina",
+      "clickCount": 3,
+      "bitrate": 32,
+      "streamUrl": "https://server6.hostradios.com/8552/stream/;"
+    },
+    {
+      "id": "m90_89_9_fm_ar_c383f989",
+      "title": "M90 89.9 FM",
+      "subtitle": "Rock",
+      "location": "Argentina",
+      "genre": "Rock",
+      "countryCode": "AR",
+      "language": "spanish",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "http://23.111.184.195:8030/m90.mp3"
+    },
+    {
+      "id": "rkc_radio_bo_9f08d83d",
+      "title": "RKC RADIO",
+      "subtitle": "Radio",
+      "location": "Bolivia",
+      "genre": "Radio",
+      "countryCode": "BO",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 32,
+      "streamUrl": "https://sonic.dattassd.com/8198/stream"
+    },
+    {
+      "id": "rock_na_granja_br_d3186022",
+      "title": "Rock na Granja",
+      "subtitle": "Classic Rock",
+      "location": "Brazil",
+      "genre": "Classic Rock",
+      "countryCode": "BR",
+      "language": "português (brasil)",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://c40.radioboss.fm:8275/stream"
+    },
+    {
+      "id": "jb_radio_2_aac_ca_79382c2d",
+      "title": "JB Radio-2 (AAC)",
+      "subtitle": "Blues",
+      "location": "Canada",
+      "genre": "Blues",
+      "countryCode": "CA",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 320,
+      "streamUrl": "https://mediacp.jb-radio.net:8001/aac"
+    },
+    {
+      "id": "boulevard_blvd_102_1_quebec_ca_9cf82dda",
+      "title": "Boulevard BLVD 102.1 Quebec",
+      "subtitle": "Radio",
+      "location": "Canada",
+      "genre": "Radio",
+      "countryCode": "CA",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 96,
+      "streamUrl": "https://www.blvd.fm/radio/stream"
+    },
+    {
+      "id": "pinop_ca_868ea85f",
+      "title": "pinop",
+      "subtitle": "Radio",
+      "location": "Canada",
+      "genre": "Radio",
+      "countryCode": "CA",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 96,
+      "streamUrl": "http://193.70.34.27:20330/xenon"
+    },
+    {
+      "id": "red_fm_ca_704ff6c4",
+      "title": "RED FM",
+      "subtitle": "Media Discussion",
+      "location": "Canada",
+      "genre": "Media Discussion",
+      "countryCode": "CA",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 32,
+      "streamUrl": "https://ice24.securenetsystems.net/CKYE?playSessionID=FEC6C3A5-AAAF-839F-F4F9CC684849AEA6"
     }
   ]
 }

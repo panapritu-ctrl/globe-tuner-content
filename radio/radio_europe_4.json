@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-21T01:14:42Z",
+  "updated": "2026-08-22T01:10:12Z",
   "region": "europe",
   "part": 4,
   "of": 8,
@@ -2514,19 +2514,6 @@
       "language": "english",
       "clickCount": 3,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_bbc_somali_radio_9b70e005",
-      "title": "BBC Somali Radio",
-      "subtitle": "News, Somali",
-      "imageUrl": "https://static.files.bbci.co.uk/ws/simorgh-assets/public/somali/images/icons/icon-128x128.png",
-      "streamUrl": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_somali_radio.m3u8",
-      "location": "The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "News",
-      "countryCode": "GB",
-      "language": "english",
-      "clickCount": 1,
-      "bitrate": 101
     },
     {
       "id": "rb2_bbc_sounds_news_96k_fbcb74d0",
@@ -6805,19 +6792,6 @@
       "language": "british english",
       "clickCount": 3,
       "bitrate": 96
-    },
-    {
-      "id": "rb2_fuse_fm_243bae90",
-      "title": "Fuse FM",
-      "subtitle": "Radio",
-      "imageUrl": "https://fusefm.co.uk/wp-content/themes/yootheme/cache/1f/Logo-Transparent-1fa9e60d.webp",
-      "streamUrl": "https://streaming.radio.co/s53051f118/low",
-      "location": "The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "Radio",
-      "countryCode": "GB",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 64
     },
     {
       "id": "rb2_fuse_fm_107_5_fm_ballymoney_4c07c06a",
@@ -20925,19 +20899,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_candia_93_6_85561c95",
-      "title": "Candia 93.6",
-      "subtitle": "Greek Music",
-      "imageUrl": "https://resources.live24.gr/resources/images/stations/805e4bb2-f5a6-445e-91be-46579a65da70.jpg",
-      "streamUrl": "https://www.fmlive.gr/8004/stream",
-      "location": "Heraclion, Greece",
-      "genre": "Greek Music",
-      "countryCode": "GR",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 64
-    },
-    {
       "id": "rb2_capital_104_8_d4ff61c3",
       "title": "Capital 104.8",
       "subtitle": "Mainstream, Pop",
@@ -27434,6 +27395,30 @@
       "clickCount": 5,
       "bitrate": 128,
       "streamUrl": "https://orange.live24.gr/orange9320"
+    },
+    {
+      "id": "bhasa_fm_gr_6290694e",
+      "title": "Bhasa FM",
+      "subtitle": "Radio",
+      "location": "Greece",
+      "genre": "Radio",
+      "countryCode": "GR",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 192,
+      "streamUrl": "https://audio.cloudrad.io/32760028/live"
+    },
+    {
+      "id": "station_gr_51ba7845",
+      "title": "ΕΡΤ Τρίτο Πρόγραμμα",
+      "subtitle": "Classical",
+      "location": "Greece",
+      "genre": "Classical",
+      "countryCode": "GR",
+      "language": "greek",
+      "clickCount": 3,
+      "bitrate": 256,
+      "streamUrl": "https://radiostreaming.ert.gr/ert-trito"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-21T01:14:42Z",
+  "updated": "2026-08-22T01:10:12Z",
   "region": "asia",
   "part": 1,
   "of": 3,
@@ -9871,15 +9871,6 @@
       "genre": "Folk Music",
       "countryCode": "AZ",
       "streamUrl": "https://icecast.livetv.az/yurdfm"
-    },
-    {
-      "id": "i_ctimai_radio_90_fm_az_79c59f",
-      "title": "İctimai Radio – 90 FM",
-      "subtitle": "Radio",
-      "location": "Azerbaijan",
-      "genre": "Radio",
-      "streamUrl": "https://stream.itv.az/rtmp:/radio/playlist.m3u8",
-      "countryCode": "AZ"
     },
     {
       "id": "a2z_radio_bd",
@@ -21659,19 +21650,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_station_2f380320",
-      "title": "江苏音乐广播",
-      "subtitle": "Music, Pop",
-      "imageUrl": "",
-      "streamUrl": "http://lzlive.vojs.cn/jAmO6Ng/92/live.m3u8?",
-      "location": "Kiangsu, China",
-      "genre": "Music",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_station_73a84da0",
       "title": "江西信息交通广播",
       "subtitle": "Automobile, Information",
@@ -22660,32 +22638,6 @@
       "bitrate": 32
     },
     {
-      "id": "rb2_26_3f29e23e",
-      "title": "测试26",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://d.liveatc.net/rjsf",
-      "location": "China",
-      "genre": "Radio",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 0,
-      "bitrate": 16
-    },
-    {
-      "id": "rb2_27_4c06237f",
-      "title": "测试27",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://gctxyc.liveplay.myqcloud.com/gc/ztd_1/index.m3u8",
-      "location": "China",
-      "genre": "Radio",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 0,
-      "bitrate": 500
-    },
-    {
       "id": "rb2_3_e3d3e9ed",
       "title": "测试3",
       "subtitle": "Radio",
@@ -22710,19 +22662,6 @@
       "language": "chinese",
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_8_84139b19",
-      "title": "测试8",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://s1-fmt2.liveatc.net/vhhh5?nocache=2022041008372197157",
-      "location": "China",
-      "genre": "Radio",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 0,
-      "bitrate": 32
     },
     {
       "id": "rb2_station_80f1e70f",
@@ -26261,19 +26200,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_station_de90199d",
-      "title": "象山综合广播",
-      "subtitle": "Music, News",
-      "imageUrl": "",
-      "streamUrl": "http://l.cztvcloud.com/channels/lantian/SXxiangshanaud/128k.m3u8",
-      "location": "Chekiang, China",
-      "genre": "Music",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_station_baf289b5",
       "title": "贵州交通广播",
       "subtitle": "News",
@@ -26780,6 +26706,30 @@
       "clickCount": 6,
       "bitrate": 637,
       "streamUrl": "https://admn-radio-cdn-lb.starzplayarabia.com/out/v1/admn_radio_enc/emarat_fm/emarat_fm_hls_nd/index.m3u8"
+    },
+    {
+      "id": "dubai_eye_103_8_ae_e87a4129",
+      "title": "Dubai Eye 103.8",
+      "subtitle": "Variety",
+      "location": "The United Arab Emirates",
+      "genre": "Variety",
+      "countryCode": "AE",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://gbradio.cdn.tibus.net/U105?aw_0_1st.playerId=wireless-website&_=477645"
+    },
+    {
+      "id": "panorama_fm_bh_0d60585d",
+      "title": "Panorama FM",
+      "subtitle": "Radio",
+      "location": "Bahrain",
+      "genre": "Radio",
+      "countryCode": "BH",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 348,
+      "streamUrl": "https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8"
     }
   ]
 }
