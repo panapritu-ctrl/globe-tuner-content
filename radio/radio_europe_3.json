@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-22T01:09:45Z",
+  "updated": "2026-08-23T01:14:13Z",
   "region": "europe",
   "part": 3,
   "of": 8,
@@ -2507,19 +2507,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_radio_la_botica_a7cb8989",
-      "title": "Radio La Botica",
-      "subtitle": "Adult Contemporary, Chillout",
-      "imageUrl": "",
-      "streamUrl": "https://azura9.emisiononline.es/listen/radiolabotica/radio.mp3",
-      "location": "Extremadura, Spain",
-      "genre": "Adult Contemporary",
-      "countryCode": "ES",
-      "language": "english",
-      "clickCount": 1,
-      "bitrate": 192
-    },
-    {
       "id": "rb2_radio_la_granja_87befcbc",
       "title": "Radio La Granja",
       "subtitle": "Music, Spoken Word",
@@ -4986,19 +4973,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_vaughan_960cefa7",
-      "title": "Vaughan",
-      "subtitle": "Learn, Learn English",
-      "imageUrl": "https://grupovaughan.com/apple-icon-120x120.png",
-      "streamUrl": "http://vaughanradioweb.streaming-pro.com:8057/;streamdemo_mp3.nsv",
-      "location": "Spain",
-      "genre": "Learn",
-      "countryCode": "ES",
-      "language": "spanish",
-      "clickCount": 6,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_vaughan_radio_44e788e7",
       "title": "Vaughan Radio",
       "subtitle": "Radio",
@@ -6833,19 +6807,6 @@
       "language": null,
       "clickCount": 2,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_yle_suomi_kemi_b0cef042",
-      "title": "Yle Suomi Kemi",
-      "subtitle": "Yle Radio Suomi",
-      "imageUrl": "https://images.cdn.yle.fi/image/upload/f_auto,c_fill,ar_1:1,w_384,q_auto/v1730971077/yle-radio-suomi-kemi_square",
-      "streamUrl": "https://yleradiolive.akamaized.net/hls/live/2027706/in-YleKemi/master.m3u8",
-      "location": "Lappi, Finland",
-      "genre": "Yle Radio Suomi",
-      "countryCode": "FI",
-      "language": "suomi",
-      "clickCount": 1,
-      "bitrate": 256
     },
     {
       "id": "rb2_yle_vega_v_stnyland_892e5cbd",
@@ -12822,19 +12783,6 @@
       "bitrate": 192
     },
     {
-      "id": "rb2_g_one_radio_8acd85d4",
-      "title": "G One Radio",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://radio.garden/api/ara/content/listen/pahlMAe0/channel.mp3?1726401108732",
-      "location": "France",
-      "genre": "Radio",
-      "countryCode": "FR",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_g_tracks_radio_a85dd830",
       "title": "G-tracks Radio",
       "subtitle": "Radio",
@@ -17217,19 +17165,6 @@
       "language": "french",
       "clickCount": 1,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_montagne_fm_961748d5",
-      "title": "Montagne FM",
-      "subtitle": "Radio",
-      "imageUrl": "https://www.montagnefm.com/wp2/wp-content/uploads/2022/07/cropped-montagne_fm-1-180x180.png",
-      "streamUrl": "http://montagnefm.ice.infomaniak.ch/montagnefm-96.mp3",
-      "location": "Auvergne-Rhône-Alpes, France",
-      "genre": "Radio",
-      "countryCode": "FR",
-      "language": "french",
-      "clickCount": 2,
-      "bitrate": 96
     },
     {
       "id": "rb2_morow_c61719f7",
@@ -21784,19 +21719,6 @@
       "language": "french",
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_grand_lieu_0e66891d",
-      "title": "Radio Grand Lieu",
-      "subtitle": "Eclectic, Regional Radio",
-      "imageUrl": "https://radiograndlieu.fr/wp-content/uploads/2021/05/cropped-cropped-radio-grand-lieu_logo_t1-81.png",
-      "streamUrl": "https://listen.radioking.com/radio/377152/stream/427591",
-      "location": "France",
-      "genre": "Eclectic",
-      "countryCode": "FR",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 320
     },
     {
       "id": "rb2_radio_gresivaudan_aac5facd",
@@ -27310,6 +27232,18 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_MADRID.mp3"
+    },
+    {
+      "id": "mtv_uutiset_fi_0f3c712f",
+      "title": "MTV Uutiset",
+      "subtitle": "News",
+      "location": "Finland",
+      "genre": "News",
+      "countryCode": "FI",
+      "language": "finnish",
+      "clickCount": 4,
+      "bitrate": 500,
+      "streamUrl": "https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-22T01:10:12Z",
+  "updated": "2026-08-23T01:14:13Z",
   "region": "europe",
   "part": 8,
   "of": 8,
@@ -9228,19 +9228,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_99_9_fm_a14ef0f3",
-      "title": "Европа Плюс Сосновый Бор 99.9 FM",
-      "subtitle": "Europa Plus, Music",
-      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241207_145658152.jpg?alt=media&token=bbea6dfd-4bb1-4037-9304-73c6bb9a7d84",
-      "streamUrl": "http://79.173.124.23:1121/Europasosna",
-      "location": "The Russian Federation",
-      "genre": "Europa Plus",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_105_6_fm_e8800318",
       "title": "Европа Плюс Хабаровск 105.6 FM",
       "subtitle": "Music, Pop",
@@ -14529,19 +14516,6 @@
       "language": "russian",
       "clickCount": 1,
       "bitrate": 64
-    },
-    {
-      "id": "rb2_station_ba4b04b9",
-      "title": "Радио Штаны",
-      "subtitle": "Поп-Музыка",
-      "imageUrl": "",
-      "streamUrl": "https://stream.elarin.ru/rsh_federal",
-      "location": "Пенза, The Russian Federation",
-      "genre": "Поп-Музыка",
-      "countryCode": "RU",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 320
     },
     {
       "id": "rb2_station_72cee345",
@@ -20027,15 +20001,6 @@
       "bitrate": 192
     },
     {
-      "id": "897_sk",
-      "title": "897",
-      "subtitle": "Club / Club Dance",
-      "location": "Slovakia",
-      "genre": "Electronic",
-      "countryCode": "SK",
-      "streamUrl": "https://c34.radioboss.fm:8106/stream"
-    },
-    {
       "id": "rb2_bb_fm_r_dio_961b450e",
       "title": "BB FM rádio",
       "subtitle": "00S, 10S",
@@ -24586,6 +24551,18 @@
       "clickCount": 4,
       "bitrate": 64,
       "streamUrl": "https://online.z-polus.info/mobilehq"
+    },
+    {
+      "id": "sr_p2_se_cd35a7a7",
+      "title": "SR P2",
+      "subtitle": "Classical",
+      "location": "Sweden",
+      "genre": "Classical",
+      "countryCode": "SE",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://live1.sr.se/p2-flac"
     }
   ]
 }

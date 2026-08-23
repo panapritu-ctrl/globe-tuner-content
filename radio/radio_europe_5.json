@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-22T01:10:12Z",
+  "updated": "2026-08-23T01:14:13Z",
   "region": "europe",
   "part": 5,
   "of": 8,
@@ -5996,19 +5996,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_technolocos_deep_web_radio_a963d83e",
-      "title": "Technolocos deep web radio",
-      "subtitle": "Radio",
-      "imageUrl": "https://technolocos.net/static/uploads/album_art.1730362857.jpg",
-      "streamUrl": "https://technolocos.net/listen/technolocos/radio.mp3",
-      "location": "Greece",
-      "genre": "Radio",
-      "countryCode": "GR",
-      "language": null,
-      "clickCount": 3,
-      "bitrate": 320
-    },
-    {
       "id": "rb2_the_greek_radio_e5de7eb9",
       "title": "The Greek Radio",
       "subtitle": "Greek Music",
@@ -6572,19 +6559,6 @@
       "language": "english",
       "clickCount": 0,
       "bitrate": 192
-    },
-    {
-      "id": "rb2_velvet_rock_96_8_871a1e1c",
-      "title": "Velvet Rock 96.8",
-      "subtitle": "Rock",
-      "imageUrl": "https://radiodune.com/api/logos/96_8_velvet_fm___rock_web.jpg",
-      "streamUrl": "https://metromedia.live24.gr/velvetrockthess",
-      "location": "Thessaloniki, Greece",
-      "genre": "Rock",
-      "countryCode": "GR",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
     },
     {
       "id": "rb2_venus_91_2270e382",
@@ -10576,19 +10550,6 @@
       "bitrate": 64
     },
     {
-      "id": "rb2_102_6_c3179cbe",
-      "title": "Ραδιοκύματα 102.6",
-      "subtitle": "Folk, Pop",
-      "imageUrl": "http://resources.live24.gr/resources/images/stations/fd5777bd-f5dd-4087-a8be-450e57cac0a6.png",
-      "streamUrl": "http://s8.onweb.gr:8702/;",
-      "location": "Rethimno, Greece",
-      "genre": "Folk",
-      "countryCode": "GR",
-      "language": "greek",
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_station_65416f93",
       "title": "Ραδιοτσάμπουνο",
       "subtitle": "Radio",
@@ -12336,19 +12297,6 @@
       "language": "croatian",
       "clickCount": 1,
       "bitrate": 192
-    },
-    {
-      "id": "rb2_karlovac_grill_mix_radio_46400731",
-      "title": "Karlovac Grill Mix radio",
-      "subtitle": "Ballads, Dance",
-      "imageUrl": "",
-      "streamUrl": "http://s8.iqstreaming.com:8006/stream",
-      "location": "Karlovac, Croatia",
-      "genre": "Ballads",
-      "countryCode": "HR",
-      "language": "croatian",
-      "clickCount": 1,
-      "bitrate": 128
     },
     {
       "id": "rb2_karlovac_now_dance_90_s_radio_10810cb5",
@@ -21286,15 +21234,6 @@
       "bitrate": 128
     },
     {
-      "id": "kiss_kiss_italia_it_283c06",
-      "title": "Kiss kiss italia",
-      "subtitle": "Radio",
-      "location": "Siracusa, Italy",
-      "genre": "Radio",
-      "streamUrl": "http://wma07.fluidstream.net:3616/;stream.nsv",
-      "countryCode": "IT"
-    },
-    {
       "id": "rb2_l_altra_radio_9644f90b",
       "title": "L'Altra Radio",
       "subtitle": "Adult Contemporary, Bari",
@@ -27650,6 +27589,18 @@
       "clickCount": 3,
       "bitrate": 128,
       "streamUrl": "http://195.210.29.82:8001/bezs"
+    },
+    {
+      "id": "streamx_radio_hu_37021234",
+      "title": "StreamX Radio",
+      "subtitle": "Edm",
+      "location": "Hungary",
+      "genre": "Edm",
+      "countryCode": "HU",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 192,
+      "streamUrl": "https://radio.streamxradio.live/listen/streamx_radio/radio.mp3"
     }
   ]
 }
