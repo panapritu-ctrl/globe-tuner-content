@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-23T01:14:13Z",
+  "updated": "2026-08-24T01:12:40Z",
   "region": "asia",
   "part": 3,
   "of": 3,
@@ -14769,18 +14769,6 @@
       "streamUrl": "https://islamicbulletin.site:8030/stream"
     },
     {
-      "id": "sawt_al_farah_sy_12bb811f",
-      "title": "Sawt Al Farah",
-      "subtitle": "Radio",
-      "location": "Syrian Arab Republic",
-      "genre": "Radio",
-      "countryCode": "SY",
-      "language": "arabic",
-      "clickCount": 6,
-      "bitrate": 128,
-      "streamUrl": "https://radio.garden/api/ara/content/listen/TBbZ87vu/channel.mp3"
-    },
-    {
       "id": "dyrd_bohol_worldwide_ph_a3ad834b",
       "title": "DYRD Bohol Worldwide",
       "subtitle": "Radio",
@@ -14827,18 +14815,6 @@
       "clickCount": 7,
       "bitrate": 96,
       "streamUrl": "http://142.4.216.144:8279/stream"
-    },
-    {
-      "id": "klick_fm_106_3_bacolod_ph_c15ab096",
-      "title": "Klick FM 106.3 Bacolod",
-      "subtitle": "Radio",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 48,
-      "streamUrl": "http://209.126.124.126:8721/stream"
     },
     {
       "id": "lig_radyo_tr_f987a078",
@@ -15067,6 +15043,78 @@
       "clickCount": 3,
       "bitrate": 0,
       "streamUrl": "https://cdn.voscast.com/resources/?key=4e1e2d7ac97ea7ad9493c529df2ab16c&c=wmp"
+    },
+    {
+      "id": "sawt_al_farah_sy_12bb811f",
+      "title": "Sawt Al Farah",
+      "subtitle": "Radio",
+      "location": "Syrian Arab Republic",
+      "genre": "Radio",
+      "countryCode": "SY",
+      "language": "arabic",
+      "clickCount": 9,
+      "bitrate": 128,
+      "streamUrl": "https://radio.garden/api/ara/content/listen/TBbZ87vu/channel.mp3"
+    },
+    {
+      "id": "joyt_rk_fm_tr_04bbf839",
+      "title": "joytürk fm",
+      "subtitle": "Radio",
+      "location": "Türkiye",
+      "genre": "Radio",
+      "countryCode": "TR",
+      "language": null,
+      "clickCount": 8,
+      "bitrate": 64,
+      "streamUrl": "https://27913.live.streamtheworld.com/JOY_TURK_SC"
+    },
+    {
+      "id": "radyo_yalova_tr_fe6aa5a3",
+      "title": "Radyo Yalova",
+      "subtitle": "Folk",
+      "location": "Türkiye",
+      "genre": "Folk",
+      "countryCode": "TR",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 48,
+      "streamUrl": "https://studio25.radiolize.com/radio/8200/radio.mp3"
+    },
+    {
+      "id": "amfmph_streams_demo_32k_aac_ph_504f5dc5",
+      "title": "AMFMPH Streams Demo (32K AAC)",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 32,
+      "streamUrl": "https://us1.amfmph.com/proxy/iceshout?mp=/ac32&1689431062684"
+    },
+    {
+      "id": "js_100_th_4061df8f",
+      "title": "JS 100",
+      "subtitle": "Radio",
+      "location": "Thailand",
+      "genre": "Radio",
+      "countryCode": "TH",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "http://103.246.19.203:8004/stream"
+    },
+    {
+      "id": "phate_tw_68f6b95d",
+      "title": "Phate",
+      "subtitle": "Radio",
+      "location": "Taiwan, Republic Of China",
+      "genre": "Radio",
+      "countryCode": "TW",
+      "language": "japanese",
+      "clickCount": 3,
+      "bitrate": 192,
+      "streamUrl": "http://phate.io/listen"
     }
   ]
 }

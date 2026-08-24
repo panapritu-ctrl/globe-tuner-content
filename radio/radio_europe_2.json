@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-23T01:14:13Z",
+  "updated": "2026-08-24T01:12:40Z",
   "region": "europe",
   "part": 2,
   "of": 8,
@@ -21679,32 +21679,6 @@
       "bitrate": 192
     },
     {
-      "id": "rb2_vinyl_hits_a3e3aed5",
-      "title": "Vinyl Hits",
-      "subtitle": "2000S",
-      "imageUrl": "https://www.radio.de/images/broadcasts/4b/fb/128106/1/c300.png",
-      "streamUrl": "http://stream.vinylhits.dk/vinylaac",
-      "location": "Denmark",
-      "genre": "2000S",
-      "countryCode": "DK",
-      "language": "danish",
-      "clickCount": 0,
-      "bitrate": 64
-    },
-    {
-      "id": "rb_vinylhits_dk_067fd720",
-      "title": "Vinylhits.dk",
-      "subtitle": "1980S, 1990S",
-      "imageUrl": "",
-      "streamUrl": "http://stream.vinylhits.dk/vinylmp3",
-      "location": "Denmark",
-      "genre": "1980S",
-      "countryCode": "DK",
-      "language": "danish",
-      "clickCount": 2,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_vox_pop_4a2c9e36",
       "title": "Vox Pop",
       "subtitle": "Radio",
@@ -28176,18 +28150,6 @@
       "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4ostjylland/masterab.m3u8"
     },
     {
-      "id": "dr_p4_k_benhavn_aac_dk_b9ea5518",
-      "title": "DR P4 København (AAC)",
-      "subtitle": "Regional Radio",
-      "location": "Denmark",
-      "genre": "Regional Radio",
-      "countryCode": "DK",
-      "language": "danish",
-      "clickCount": 6,
-      "bitrate": 324,
-      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4kobenhavn/masterab.m3u8"
-    },
-    {
       "id": "dr_p8_jazz_aac_dk_5a5bf838",
       "title": "DR P8 JAZZ (AAC)",
       "subtitle": "Jazz",
@@ -28258,6 +28220,30 @@
       "clickCount": 3,
       "bitrate": 128,
       "streamUrl": "https://ec2.yesstreaming.net:2840/;?type=mp3"
+    },
+    {
+      "id": "vinylhits_dk_dk_d0ee1da2",
+      "title": "Vinylhits.dk",
+      "subtitle": "1980S",
+      "location": "Denmark",
+      "genre": "1980S",
+      "countryCode": "DK",
+      "language": "danish",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "http://stream.vinylhits.dk/vinylmp3"
+    },
+    {
+      "id": "nmradio_dk_9302db22",
+      "title": "NMRadio",
+      "subtitle": "Arabic",
+      "location": "Denmark",
+      "genre": "Arabic",
+      "countryCode": "DK",
+      "language": "arabic",
+      "clickCount": 3,
+      "bitrate": 320,
+      "streamUrl": "http://5.56.158.246:8000/stream"
     }
   ]
 }

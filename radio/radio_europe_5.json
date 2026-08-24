@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-23T01:14:13Z",
+  "updated": "2026-08-24T01:12:40Z",
   "region": "europe",
   "part": 5,
   "of": 8,
@@ -10249,19 +10249,6 @@
       "language": null,
       "clickCount": 2,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_99_4_1947ae46",
-      "title": "Πόλις 99.4",
-      "subtitle": "Greek, Mainstream",
-      "imageUrl": "https://www.radiopolis.gr/wp-content/uploads/2020/06/logo-polis-png-100.png",
-      "streamUrl": "http://s2.e-resellers.gr:8020/stream?type=http&nocache=103230",
-      "location": "Larisa, Greece",
-      "genre": "Greek",
-      "countryCode": "GR",
-      "language": "greek",
-      "clickCount": 0,
-      "bitrate": 192
     },
     {
       "id": "rb2_1_30067f22",
@@ -27601,6 +27588,66 @@
       "clickCount": 3,
       "bitrate": 192,
       "streamUrl": "https://radio.streamxradio.live/listen/streamx_radio/radio.mp3"
+    },
+    {
+      "id": "otvoreni_radio_fitness_hr_bb54fb05",
+      "title": "Otvoreni Radio Fitness",
+      "subtitle": "Radio",
+      "location": "Croatia",
+      "genre": "Radio",
+      "countryCode": "HR",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 48,
+      "streamUrl": "http://stream.otvoreni.hr/fitness"
+    },
+    {
+      "id": "best_fm_sz_kesfeh_rv_r_hu_da98a742",
+      "title": "Best FM Székesfehérvár",
+      "subtitle": "Radio",
+      "location": "Hungary",
+      "genre": "Radio",
+      "countryCode": "HU",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://icast.connectmedia.hu/5113/live.mp3"
+    },
+    {
+      "id": "mpb_radio_2_90s_00s_ie_815a1566",
+      "title": "MPB Radio 2 90s & 00s",
+      "subtitle": "Pop Music",
+      "location": "Ireland",
+      "genre": "Pop Music",
+      "countryCode": "IE",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 384,
+      "streamUrl": "https://sc.mpbnl.nl/radio2-90s00s.mp3"
+    },
+    {
+      "id": "pomorski_radio_bakar_hr_756e0317",
+      "title": "Pomorski Radio Bakar",
+      "subtitle": "Mix",
+      "location": "Croatia",
+      "genre": "Mix",
+      "countryCode": "HR",
+      "language": "croatian",
+      "clickCount": 3,
+      "bitrate": 256,
+      "streamUrl": "http://matrix-server.hr:8010/live.mp3"
+    },
+    {
+      "id": "ozone_fm_hu_693c5f18",
+      "title": "OZONE FM",
+      "subtitle": "Top Hits",
+      "location": "Hungary",
+      "genre": "Top Hits",
+      "countryCode": "HU",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://oxygenmusic.hu:8000/ozonefm_128"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-23T01:14:13Z",
+  "updated": "2026-08-24T01:12:40Z",
   "region": "africa",
   "stations": [
     {
@@ -5177,19 +5177,6 @@
       "streamUrl": "http://rtstream.tanitweb.com/sfax"
     },
     {
-      "id": "rb2_sodais_5364572f",
-      "title": "Sodais",
-      "subtitle": "Classical",
-      "imageUrl": "https://www.atheer-radio.com/assets/images/atheer-logo.svg",
-      "streamUrl": "https://backup.qurango.net/radio/abdulrahman_alsudaes",
-      "location": "Tunisia",
-      "genre": "Classical",
-      "countryCode": "TN",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
       "id": "zitouna_zitouna_fm_tn_a6c8c7",
       "title": "Zitouna Zitouna FM",
       "subtitle": "Coran",
@@ -8658,18 +8645,6 @@
       "streamUrl": "https://stream-159.zeno.fm/vyxwdk08apxtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2eXh3ZGswOGFweHR2IiwiaG9zdCI6InN0cmVhbS0xNTkuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Imt4VUtoZGRnU0dLRGdSc0NkOE1CRHciLCJpYXQiOjE"
     },
     {
-      "id": "radio_feon_ny_filazantsara_mg_1735525f",
-      "title": "Radio Feon'ny Filazantsara",
-      "subtitle": "Christian-Gospel",
-      "location": "Madagascar",
-      "genre": "Christian-Gospel",
-      "countryCode": "MG",
-      "language": null,
-      "clickCount": 5,
-      "bitrate": 0,
-      "streamUrl": "https://fpsnew1.listen2myradio.com:2199/listen.php?ip=82.145.63.6&port=8622&type=s1"
-    },
-    {
       "id": "sheger_fm_102_1_et_04160353",
       "title": "Sheger FM 102.1",
       "subtitle": "Radio",
@@ -9988,6 +9963,66 @@
       "clickCount": 3,
       "bitrate": 0,
       "streamUrl": "https://mega-public-relay.deathsmack-a51.workers.dev/hifi.aac"
+    },
+    {
+      "id": "radio_feon_ny_filazantsara_mg_1735525f",
+      "title": "Radio Feon'ny Filazantsara",
+      "subtitle": "Christian-Gospel",
+      "location": "Madagascar",
+      "genre": "Christian-Gospel",
+      "countryCode": "MG",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "https://fpsnew1.listen2myradio.com:2199/listen.php?ip=82.145.63.6&port=8622&type=s1"
+    },
+    {
+      "id": "merafong_360_online_radio_za_af3540cf",
+      "title": "MERAFONG 360 ONLINE RADIO",
+      "subtitle": "Radio",
+      "location": "South Africa",
+      "genre": "Radio",
+      "countryCode": "ZA",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://sv2.famcast.co.za/stream/merafong?t=1769529345666"
+    },
+    {
+      "id": "vybz_94_5_fm_ng_b01742c5",
+      "title": "Vybz 94.5 FM",
+      "subtitle": "Radio",
+      "location": "Nigeria",
+      "genre": "Radio",
+      "countryCode": "NG",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 96,
+      "streamUrl": "https://mpc.my-control-panel.eu/stream/8138"
+    },
+    {
+      "id": "express_106_6fm_za_f5527aaf",
+      "title": "Express 106.6FM",
+      "subtitle": "Christian",
+      "location": "South Africa",
+      "genre": "Christian",
+      "countryCode": "ZA",
+      "language": "afrikaans",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "http://198.7.59.28:34235/stream"
+    },
+    {
+      "id": "ramkat_radio_kaapstad_za_381c9140",
+      "title": "Ramkat Radio Kaapstad",
+      "subtitle": "Radio",
+      "location": "South Africa",
+      "genre": "Radio",
+      "countryCode": "ZA",
+      "language": "afrikaans",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://uslradio.net:8008/stream"
     }
   ]
 }

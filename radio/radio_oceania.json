@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-23T01:14:13Z",
+  "updated": "2026-08-24T01:12:40Z",
   "region": "oceania",
   "stations": [
     {
@@ -11842,19 +11842,6 @@
       "bitrate": 65
     },
     {
-      "id": "rb2_listnr_sleep_hls_ea937a4b",
-      "title": "LiSTNR - Sleep (HLS)",
-      "subtitle": "Sleep",
-      "imageUrl": "https://i.ibb.co/8g1jPDdp/Li-STNR-Square-Tile-3000x3000-SLEEP.jpg",
-      "streamUrl": "http://wz0lic.scahw.com.au/live/sleep.stream/playlist.m3u8",
-      "location": "Australia",
-      "genre": "Sleep",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 2,
-      "bitrate": 63
-    },
-    {
       "id": "rb2_listnr_stress_free_hls_8e96e9b0",
       "title": "LiSTNR - Stress Free (HLS)",
       "subtitle": "Music",
@@ -15563,19 +15550,6 @@
       "genre": "Radio",
       "countryCode": "AU",
       "language": null,
-      "clickCount": 0,
-      "bitrate": 64
-    },
-    {
-      "id": "rb2_thelight_mix_0985f2b6",
-      "title": "TheLight Mix",
-      "subtitle": "Christian, Church",
-      "imageUrl": "https://thelight.com.au/assets/uploads/2021/09/PM-SQR-300x300-1.jpg",
-      "streamUrl": "https://stream.thelight.com.au:8140/stream/",
-      "location": "victoria, Australia",
-      "genre": "Christian",
-      "countryCode": "AU",
-      "language": "english",
       "clickCount": 0,
       "bitrate": 64
     },
@@ -19338,6 +19312,30 @@
       "clickCount": 3,
       "bitrate": 128,
       "streamUrl": "http://stream9.broadcast.co.nz:8000/radiospicewebsiteaudio.mp3"
+    },
+    {
+      "id": "the_cheese_nz_3921e1b5",
+      "title": "The Cheese",
+      "subtitle": "Radio",
+      "location": "New Zealand",
+      "genre": "Radio",
+      "countryCode": "NZ",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 52,
+      "streamUrl": "https://station.thecheese.co.nz/hls/the_cheese/live.m3u8"
+    },
+    {
+      "id": "kalofiama_o_e_amanaki_to_96c1c327",
+      "title": "Kalofiama 'O E 'Amanaki",
+      "subtitle": "Christian",
+      "location": "Tonga",
+      "genre": "Christian",
+      "countryCode": "TO",
+      "language": "tonga",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://stream.zeno.fm/v4kaet5ab1ntv"
     }
   ]
 }

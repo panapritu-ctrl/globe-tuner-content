@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-23T01:14:13Z",
+  "updated": "2026-08-24T01:12:40Z",
   "region": "americas",
   "part": 3,
   "of": 5,
@@ -148,15 +148,6 @@
       "genre": "Radio",
       "countryCode": "EC",
       "streamUrl": "https://laotrafm.makrodigital.com/stream/laotrafmquito"
-    },
-    {
-      "id": "radio_la_red_102_1_fm_ec_af8adc",
-      "title": "Radio La Red 102.1 FM",
-      "subtitle": "Radio",
-      "location": "Pichincha, Ecuador",
-      "genre": "Radio",
-      "streamUrl": "https://icecast.radiolared.com.ec/radiolared",
-      "countryCode": "EC"
     },
     {
       "id": "rb2_radio_makro_digital_8e2df32d",
@@ -9712,15 +9703,6 @@
       "bitrate": 128
     },
     {
-      "id": "la_grupera_puebla_89_3_fm_xhnp_fm_cinco__mx_6cc8d3",
-      "title": "La Grupera (Puebla) - 89.3 FM - XHNP-FM - Cinco Radio - Puebla, PU",
-      "subtitle": "89.3",
-      "location": "Puebla, Mexico",
-      "genre": "89.3",
-      "streamUrl": "https://stream.zeno.fm/zpd5he3sz7zuv",
-      "countryCode": "MX"
-    },
-    {
       "id": "rb2_la_guapachosa_96_7_fm_san_antonio_la_isl_2c055ee3",
       "title": "La Guapachosa 96.7 FM San Antonio la isla",
       "subtitle": "Concesión Comunitaria, Estado De México",
@@ -11555,19 +11537,6 @@
       "language": "español mexico",
       "clickCount": 0,
       "bitrate": 64
-    },
-    {
-      "id": "rb2_laredos_classic_hits_nuevo_laredo_107_3__b091a32c",
-      "title": "Laredos Classic Hits (Nuevo Laredo) 107.3 XHGTS-FM",
-      "subtitle": "Tamaulipas",
-      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241120_202708941.jpg?alt=media&token=ee2b764e-a422-4e26-bcca-95097156f3d9",
-      "streamUrl": "http://216.251.65.78:8000/stream",
-      "location": "Mexico",
-      "genre": "Tamaulipas",
-      "countryCode": "MX",
-      "language": "rock",
-      "clickCount": 0,
-      "bitrate": 96
     },
     {
       "id": "rb2_latidos_fm_online_www_lunamedios_com_lun_1c2869e4",
@@ -22419,15 +22388,6 @@
       "streamUrl": "http://15113.live.streamtheworld.com/977_JAMZ_SC"
     },
     {
-      "id": "977_oldies_us_961e6f",
-      "title": ".977 Oldies",
-      "subtitle": "Oldies",
-      "location": "Florida, The United States Of America",
-      "genre": "Oldies",
-      "countryCode": "US",
-      "streamUrl": "http://27273.live.streamtheworld.com/977_OLDIES_SC"
-    },
-    {
       "id": "977_the_mix_us_961dbb",
       "title": ".977 The Mix",
       "subtitle": "80S",
@@ -26158,6 +26118,66 @@
       "clickCount": 3,
       "bitrate": 33,
       "streamUrl": "http://rds3.desdeparaguay.net/transestacion40/transestacion40/playlist.m3u8"
+    },
+    {
+      "id": "radio_fiesta_mix_pe_2fae1ead",
+      "title": "Radio fiesta Mix",
+      "subtitle": "Música",
+      "location": "Peru",
+      "genre": "Música",
+      "countryCode": "PE",
+      "language": "español - latinoamerica",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://dattavolt.com:7128/stream"
+    },
+    {
+      "id": "workout_time_um_9ec567b7",
+      "title": "Workout Time",
+      "subtitle": "Electronic Dance Music",
+      "location": "The United States Minor Outlying Islands",
+      "genre": "Electronic Dance Music",
+      "countryCode": "UM",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://stream-175.surfernetwork.com/60pg6mi67hytv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2MHBnNm1pNjdoeXR2IiwiaG9zdCI6InN0cmVhbS0xNzUuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJrX0dzOEU3Q1JKU0piU2NoZFYwY0NBIiwiaWF0IjoxNzg2OTIwNTgzLCJleHAiOjE3ODY5MjA2NDN9.EVpOGXMTOtGNydRMlQzIUO8rfhG5KYRyBSNaF6kU46s"
+    },
+    {
+      "id": "xhglx_exa_fm_91_7_fm_tijuana_bn_mx_493c3a91",
+      "title": "XHGLX \"Exa FM\" 91.7 FM Tijuana, BN",
+      "subtitle": "Electronica",
+      "location": "Mexico",
+      "genre": "Electronica",
+      "countryCode": "MX",
+      "language": "spanish",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "http://18303.live.streamtheworld.com:3690/XHGLX_SC"
+    },
+    {
+      "id": "se_al_pirata_radio_pe_7ae9bfcc",
+      "title": "Señal Pirata Radio",
+      "subtitle": "2000'S",
+      "location": "Peru",
+      "genre": "2000'S",
+      "countryCode": "PE",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://conectperu.com:8082/stream"
+    },
+    {
+      "id": "92_kqrs_um_622ceda2",
+      "title": "92 KQRS",
+      "subtitle": "Classic Rock",
+      "location": "The United States Minor Outlying Islands",
+      "genre": "Classic Rock",
+      "countryCode": "UM",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 80,
+      "streamUrl": "https://29317.live.streamtheworld.com/KQRSFM.mp3"
     }
   ]
 }

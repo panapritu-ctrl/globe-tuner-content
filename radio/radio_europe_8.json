@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-23T01:14:13Z",
+  "updated": "2026-08-24T01:12:40Z",
   "region": "europe",
   "part": 8,
   "of": 8,
@@ -4405,19 +4405,6 @@
       "bitrate": 96
     },
     {
-      "id": "rb2_radio_maximum_grunge_9f8c8e17",
-      "title": "Radio Maximum - Grunge",
-      "subtitle": "Radio",
-      "imageUrl": "https://www.maximum.ru/favicon.ico",
-      "streamUrl": "https://maximum-grunge.hostingradio.ru/grunge96.aacp",
-      "location": "The Russian Federation",
-      "genre": "Radio",
-      "countryCode": "RU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 96
-    },
-    {
       "id": "rb2_radio_maximum_heavy_80s_2e5ada4b",
       "title": "Radio Maximum - Heavy 80s",
       "subtitle": "80S, Heavy Metal",
@@ -8589,19 +8576,6 @@
       "language": null,
       "clickCount": 1,
       "bitrate": 128
-    },
-    {
-      "id": "rb_station_f796d445",
-      "title": "Дискотека СССР",
-      "subtitle": "80S, 90S",
-      "imageUrl": "",
-      "streamUrl": "http://pub0302.101.ru:8000/stream/pro/aac/64/144?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6IjUuMTguMjQ4Ljk4IiwidXNlcmFnZW50IjoiTW96aWxsYVwvNS4wIChYMTE7IExpbnV4IHg4Nl82NDsgcnY6ODIuMCkgR2Vja29cLzIwMTAwMTAxIEZpcmVmb3hcLzgyLjAiLCJ1aWRfY2hhbm5lbCI6IjE0NCIsInR5cGVfY2hhbm5lbCI6ImNoYW5uZWwiLCJleHAiOjE2MDU5NjQ1MTZ9.Ln1wEJ8cHHzK_Ea6Zr8J8acdny0R9ShZ_KUKVf6TmQA",
-      "location": "The Russian Federation",
-      "genre": "80S",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 48,
-      "bitrate": 64
     },
     {
       "id": "rb2_station_2b1539d8",
@@ -24563,6 +24537,102 @@
       "clickCount": 5,
       "bitrate": 128,
       "streamUrl": "https://live1.sr.se/p2-flac"
+    },
+    {
+      "id": "897_sk_4e6d891b",
+      "title": "897",
+      "subtitle": "Club",
+      "location": "Slovakia",
+      "genre": "Club",
+      "countryCode": "SK",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://c34.radioboss.fm:8106/stream"
+    },
+    {
+      "id": "anime_ru_f8376e25",
+      "title": "ЯН-ФМ Anime",
+      "subtitle": "Anime",
+      "location": "The Russian Federation",
+      "genre": "Anime",
+      "countryCode": "RU",
+      "language": "japanese",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "http://animklatu.stream.laut.fm/animklatu?t302=2026-08-21_16-10-11&uuid=59e949d6-be8e-4ca9-86e2-c23789c24664"
+    },
+    {
+      "id": "m_deep_radio_ru_d6ef22c5",
+      "title": "M.Deep Radio",
+      "subtitle": "Chillout",
+      "location": "The Russian Federation",
+      "genre": "Chillout",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://deephousex.ru/live"
+    },
+    {
+      "id": "anima_amoris_idm_ru_d5d3d725",
+      "title": "Anima Amoris IDM",
+      "subtitle": "Radio",
+      "location": "The Russian Federation",
+      "genre": "Radio",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://amoris.sknt.ru/idm.mp3"
+    },
+    {
+      "id": "happy_hits_ua_641ccbe0",
+      "title": "Радіо Київстар Happy Hits",
+      "subtitle": "256 Kbit/S",
+      "location": "Ukraine",
+      "genre": "256 Kbit/S",
+      "countryCode": "UA",
+      "language": "ukranian",
+      "clickCount": 3,
+      "bitrate": 281,
+      "streamUrl": "https://radio.kyivstar.ua/stream/sport/master.m3u8"
+    },
+    {
+      "id": "radio_skovoroda_ua_9769c427",
+      "title": "Radio Skovoroda",
+      "subtitle": "Skovoroda",
+      "location": "Ukraine",
+      "genre": "Skovoroda",
+      "countryCode": "UA",
+      "language": "ukrainian",
+      "clickCount": 3,
+      "bitrate": 320,
+      "streamUrl": "http://stream.radioskovoroda.com:8000/radioskovoroda"
+    },
+    {
+      "id": "fm_1_ua_ed2c7dcc",
+      "title": "FM 1 Перше Радіо",
+      "subtitle": "Information",
+      "location": "Ukraine",
+      "genre": "Information",
+      "countryCode": "UA",
+      "language": "ukrainian",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "http://195.138.81.134:8000/radio1-256"
+    },
+    {
+      "id": "chill_lounge_ua_3b5ca3c0",
+      "title": "Радіо Київстар Chill & Lounge",
+      "subtitle": "256 Kbit/S",
+      "location": "Ukraine",
+      "genre": "256 Kbit/S",
+      "countryCode": "UA",
+      "language": "ukranian",
+      "clickCount": 3,
+      "bitrate": 281,
+      "streamUrl": "https://radio.kyivstar.ua/stream/chill/master.m3u8"
     }
   ]
 }
