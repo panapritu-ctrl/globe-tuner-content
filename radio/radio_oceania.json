@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-24T01:12:40Z",
+  "updated": "2026-08-25T01:11:48Z",
   "region": "oceania",
   "stations": [
     {
@@ -15541,19 +15541,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_thelight_christmas_a9acb6a5",
-      "title": "TheLight Christmas",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://stream.thelight.com.au:8150/;stream/1",
-      "location": "Melbourne, Australia",
-      "genre": "Radio",
-      "countryCode": "AU",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 64
-    },
-    {
       "id": "rb2_three_d_radio_960b9025",
       "title": "Three D Radio",
       "subtitle": "Community Radio",
@@ -19336,6 +19323,18 @@
       "clickCount": 3,
       "bitrate": 0,
       "streamUrl": "https://stream.zeno.fm/v4kaet5ab1ntv"
+    },
+    {
+      "id": "buzz_fm_96_3_vu_b875e303",
+      "title": "BUZZ FM 96.3",
+      "subtitle": "News",
+      "location": "Vanuatu",
+      "genre": "News",
+      "countryCode": "VU",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://streamer.dailypost.vu/live"
     }
   ]
 }

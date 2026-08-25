@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-24T01:12:40Z",
+  "updated": "2026-08-25T01:11:48Z",
   "region": "asia",
   "part": 1,
   "of": 3,
@@ -17000,19 +17000,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_fm104_3_7a57a099",
-      "title": "太和广播电视台 FM104.3",
-      "subtitle": "Full Service",
-      "imageUrl": "http://pic.qtfm.cn/sso/48/1641450220778_bpzCFuHSL.jpeg",
-      "streamUrl": "https://lhttp-hw.qtfm.cn/live/15318579/64k.mp3",
-      "location": "Anhwei, China",
-      "genre": "Full Service",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_station_aaa8df4e",
       "title": "太谷综合广播",
       "subtitle": "Information, Music",
@@ -19013,19 +19000,6 @@
       "language": "chinese",
       "clickCount": 0,
       "bitrate": 2560
-    },
-    {
-      "id": "rb2_station_7192df7a",
-      "title": "应城综合广播",
-      "subtitle": "Public Radio",
-      "imageUrl": "https://imagev2.xmcdn.com/storages/f262-audiofreehighqps/BE/EC/GKwRIJEGEu_qAANI8AEvCuY3.jpg!strip=1&quality=7&magick=webp&op_type=5&upload_type=cover&name=web_large&device_type=ios",
-      "streamUrl": "http://live.xmcdn.com/live/2798/64.m3u8",
-      "location": "Hupei, China",
-      "genre": "Public Radio",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 0,
-      "bitrate": 128
     },
     {
       "id": "rb2_105_4df3d030",
@@ -24120,19 +24094,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_station_f53fa9e0",
-      "title": "烟台音乐广播",
-      "subtitle": "Music",
-      "imageUrl": "",
-      "streamUrl": "http://live.xmcdn.com/live/2716/64.m3u8",
-      "location": "Shantung, China",
-      "genre": "Music",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_station_e495139b",
       "title": "焦作交通旅游广播",
       "subtitle": "Entertainment, Lounge",
@@ -25953,19 +25914,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_station_a57ef618",
-      "title": "襄阳综合广播",
-      "subtitle": "News, Public Radio",
-      "imageUrl": "",
-      "streamUrl": "http://ls.qingting.fm/live/1307.m3u8",
-      "location": "Hupei, China",
-      "genre": "News",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_station_992e18bf",
       "title": "西宁交通文艺广播",
       "subtitle": "Literature",
@@ -26736,6 +26684,42 @@
       "clickCount": 2,
       "bitrate": 874,
       "streamUrl": "http://web.archive.org/web/20201128202306if_/https://live-cdn.pbskids.org/out/u/est.m3u8"
+    },
+    {
+      "id": "radio_foorti_bd_59b2035c",
+      "title": "Radio Foorti",
+      "subtitle": "Pop",
+      "location": "Bangladesh",
+      "genre": "Pop",
+      "countryCode": "BD",
+      "language": "bengali",
+      "clickCount": 8,
+      "bitrate": 0,
+      "streamUrl": "https://radiofoorti.fm/api/stream"
+    },
+    {
+      "id": "spice_fm_bd_be5b5e58",
+      "title": "Spice FM",
+      "subtitle": "Radio",
+      "location": "Bangladesh",
+      "genre": "Radio",
+      "countryCode": "BD",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "https://stream.spicefmbd.com/stream.m3u8"
+    },
+    {
+      "id": "nick_jr_102_9_fm_wayback_machine_af_8e0c2c70",
+      "title": "Nick Jr. 102.9 FM Wayback Machine",
+      "subtitle": "Classical",
+      "location": "Afghanistan",
+      "genre": "Classical",
+      "countryCode": "AF",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 0,
+      "streamUrl": "http://web.archive.org/web/20200815210240if_/https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream_7.m3u8"
     }
   ]
 }

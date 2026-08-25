@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-24T01:12:40Z",
+  "updated": "2026-08-25T01:11:48Z",
   "region": "europe",
   "part": 1,
   "of": 8,
@@ -8662,19 +8662,6 @@
       "countryCode": "BG",
       "language": null,
       "clickCount": 3,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_danpen_radio_88f7e954",
-      "title": "DanPen Radio",
-      "subtitle": "Radio",
-      "imageUrl": "https://danpenradio.net/wp-content/uploads/2024/07/cropped-7-192x192.png",
-      "streamUrl": "https://server.danpenradio.net/listen/danpen_radio/radio.mp3",
-      "location": "Bulgaria",
-      "genre": "Radio",
-      "countryCode": "BG",
-      "language": null,
-      "clickCount": 0,
       "bitrate": 128
     },
     {
@@ -19183,19 +19170,6 @@
       "countryCode": "DE"
     },
     {
-      "id": "rb2_0_n_oldies_on_radio_dad8c8b3",
-      "title": "- 0 N - Oldies on Radio",
-      "subtitle": "60Er, 60S",
-      "imageUrl": "https://www.0nradio.com/logos/0n-oldies_600x600.jpg",
-      "streamUrl": "https://0n-oldies.radionetz.de/0n-oldies.mp3",
-      "location": "Bayern, Germany",
-      "genre": "60Er",
-      "countryCode": "DE",
-      "language": "german",
-      "clickCount": 3,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_0_n_party_on_radio_a2dacd48",
       "title": "- 0 N - Party on Radio",
       "subtitle": "Dance, Discofox",
@@ -27854,6 +27828,18 @@
       "clickCount": 2,
       "bitrate": 128,
       "streamUrl": "http://de1.internet-radio.com:8173/stream"
+    },
+    {
+      "id": "station_bg_0e7ba644",
+      "title": "БНР – Радио Видин",
+      "subtitle": "Radio",
+      "location": "Bulgaria",
+      "genre": "Radio",
+      "countryCode": "BG",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 36,
+      "streamUrl": "http://stream.bnr.bg:8036/radio-vidin.aac"
     }
   ]
 }

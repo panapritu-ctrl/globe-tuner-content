@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-24T01:12:40Z",
+  "updated": "2026-08-25T01:11:48Z",
   "region": "asia",
   "part": 3,
   "of": 3,
@@ -7005,19 +7005,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_dada_fm_erzurum_bdaa3768",
-      "title": "Dadaş Fm Erzurum",
-      "subtitle": "Radio",
-      "imageUrl": "https://sslyayin.netyayin.net:8084/stream/;stream.mp3",
-      "streamUrl": "https://sslyayin.netyayin.net:8084/stream/;stream.mp3",
-      "location": "Erzurum, Türkiye",
-      "genre": "Radio",
-      "countryCode": "TR",
-      "language": "turkish",
-      "clickCount": 2,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_damarturk_fm_1ca0c477",
       "title": "DamarTurk FM",
       "subtitle": "Radio",
@@ -12981,19 +12968,6 @@
       "bitrate": 80
     },
     {
-      "id": "rb2_station_cf5fcc50",
-      "title": "陽光電台",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://202.39.43.67:1935/live/RA000079/chunklist.m3u8",
-      "location": "Taiwan, Republic Of China",
-      "genre": "Radio",
-      "countryCode": "TW",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_station_f8fd2b64",
       "title": "雲端新廣播",
       "subtitle": "Full Service",
@@ -14949,18 +14923,6 @@
       "streamUrl": "https://live.topnews.co.th/hls/topnews.m3u8"
     },
     {
-      "id": "abuzer_fm_tr_82b2cf03",
-      "title": "Abuzer FM",
-      "subtitle": "Comedy",
-      "location": "Türkiye",
-      "genre": "Comedy",
-      "countryCode": "TR",
-      "language": "turkish",
-      "clickCount": 4,
-      "bitrate": 128,
-      "streamUrl": "http://live.radyotvonline.com:9030/;stream.nsv"
-    },
-    {
       "id": "radyo_f_trat_tr_92cd1d0a",
       "title": "Radyo Fıtrat",
       "subtitle": "Islamic",
@@ -15115,6 +15077,114 @@
       "clickCount": 3,
       "bitrate": 192,
       "streamUrl": "http://phate.io/listen"
+    },
+    {
+      "id": "heart_fm_92_7mhz_cdo_city_ph_403fa093",
+      "title": "Heart FM 92.7Mhz CDO City",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 64,
+      "streamUrl": "https://us1.amfmph.com/ssl/heartfmcdo?mp=/stream&1679730513324"
+    },
+    {
+      "id": "94_5_bigfm_davao_region_ph_99cf62bb",
+      "title": "94.5 BIGFM - DAVAO REGION",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://s2.myradiostream.com/9590/listen.mp3"
+    },
+    {
+      "id": "thai_tv_5_hd_th_58af2d62",
+      "title": "Thai TV 5 HD",
+      "subtitle": "Radio",
+      "location": "Thailand",
+      "genre": "Radio",
+      "countryCode": "TH",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 2760,
+      "streamUrl": "https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8"
+    },
+    {
+      "id": "nbt2hd_th_9a9146a2",
+      "title": "NBT2HD",
+      "subtitle": "Government",
+      "location": "Thailand",
+      "genre": "Government",
+      "countryCode": "TH",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 3128,
+      "streamUrl": "https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/playlist.m3u8"
+    },
+    {
+      "id": "haber_t_rk_radyo_tr_6ed09e3c",
+      "title": "Haber Türk Radyo",
+      "subtitle": "News",
+      "location": "Türkiye",
+      "genre": "News",
+      "countryCode": "TR",
+      "language": "tr",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://haberturkradyo.radyotvonline.net/haberturkradyo"
+    },
+    {
+      "id": "abuzer_fm_tr_82b2cf03",
+      "title": "Abuzer FM",
+      "subtitle": "Comedy",
+      "location": "Türkiye",
+      "genre": "Comedy",
+      "countryCode": "TR",
+      "language": "turkish",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://live.radyotvonline.com:9030/;stream.nsv"
+    },
+    {
+      "id": "station_tw_34b8aa6b",
+      "title": "連花廣播電台",
+      "subtitle": "Music",
+      "location": "Taiwan, Republic Of China",
+      "genre": "Music",
+      "countryCode": "TW",
+      "language": "chinese",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://n05.rcs.revma.com/vh0xgcc59duvv"
+    },
+    {
+      "id": "y101fm_cebu_ph_72f638f1",
+      "title": "Y101fm Cebu",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 64,
+      "streamUrl": "http://209.126.124.126:8849/stream"
+    },
+    {
+      "id": "bolsa_radio_vn_vn_a22373b7",
+      "title": "Bolsa Radio VN",
+      "subtitle": "News",
+      "location": "Vietnam",
+      "genre": "News",
+      "countryCode": "VN",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "http://stream.zenolive.com/ueychbrzv9duv"
     }
   ]
 }

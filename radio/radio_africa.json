@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-24T01:12:40Z",
+  "updated": "2026-08-25T01:11:48Z",
   "region": "africa",
   "stations": [
     {
@@ -3300,15 +3300,6 @@
       "genre": "Radio",
       "countryCode": "MG",
       "streamUrl": "http://drs-live-rna.gasy-internet.info:9001/;"
-    },
-    {
-      "id": "rnm_mg_abd5b4",
-      "title": "RNM",
-      "subtitle": "Radio",
-      "location": "Antananarivo, Madagascar",
-      "genre": "Radio",
-      "countryCode": "MG",
-      "streamUrl": "https://direct.radiomadagasikara.com/listen/rnm/radio.mp3"
     },
     {
       "id": "radio_don_bosco_mg_94f00d",
@@ -8813,18 +8804,6 @@
       "streamUrl": "https://a10.asurahosting.com:7270/radio.mp3"
     },
     {
-      "id": "pikine_diaspora_radio_sn_368c735a",
-      "title": "Pikine Diaspora Radio",
-      "subtitle": "Radio",
-      "location": "Senegal",
-      "genre": "Radio",
-      "countryCode": "SN",
-      "language": null,
-      "clickCount": 5,
-      "bitrate": 0,
-      "streamUrl": "http://cdn.voscast.com/resources/?key=563fcd75f43e77334d6fb664b7358f9e&c=winamp"
-    },
-    {
       "id": "kasapa_fm_gh_5d1132c7",
       "title": "Kasapa Fm",
       "subtitle": "Entertainment",
@@ -9737,18 +9716,6 @@
       "streamUrl": "https://stream-151.zeno.fm/60x209af8e9uv"
     },
     {
-      "id": "cidade_fm_cabo_verde_cv_6fbeea82",
-      "title": "Cidade FM Cabo Verde",
-      "subtitle": "Radio",
-      "location": "Cabo Verde",
-      "genre": "Radio",
-      "countryCode": "CV",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 128,
-      "streamUrl": "https://hts02.brascast.com:9288/stream"
-    },
-    {
       "id": "om_kalthom_eg_3664f8b4",
       "title": "OM Kalthom أم كلثوم",
       "subtitle": "Arabic",
@@ -10023,6 +9990,126 @@
       "clickCount": 3,
       "bitrate": 128,
       "streamUrl": "https://uslradio.net:8008/stream"
+    },
+    {
+      "id": "lgf_talk_guinee_gn_6ee2c838",
+      "title": "LGF TALK GUINEE",
+      "subtitle": "Radio",
+      "location": "Guinea",
+      "genre": "Radio",
+      "countryCode": "GN",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "https://stream.zeno.fm/xirmzwnnpintv"
+    },
+    {
+      "id": "lgf_fun_guinee_gn_6fe26d99",
+      "title": "LGF FUN GUINEE",
+      "subtitle": "Radio",
+      "location": "Guinea",
+      "genre": "Radio",
+      "countryCode": "GN",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "https://stream.zeno.fm/6y3sswt61pcuv"
+    },
+    {
+      "id": "littoral_fm_guinee_live_gn_8dc7df5d",
+      "title": "Littoral FM Guinee live",
+      "subtitle": "Radio",
+      "location": "Guinea",
+      "genre": "Radio",
+      "countryCode": "GN",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://stream.zeno.fm/q94z1t5hsm5tv"
+    },
+    {
+      "id": "105_7_fm_ly_b9328d09",
+      "title": "إذاعة نور الإيمان المسموعة 105.7 FM",
+      "subtitle": "Radio",
+      "location": "Libya",
+      "genre": "Radio",
+      "countryCode": "LY",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://stream.zeno.fm/r6eprdta6nhvv"
+    },
+    {
+      "id": "radio_fr_quence_3_93_8_bamako_ml_9b3ee76d",
+      "title": "Radio Fréquence 3 93.8 Bamako",
+      "subtitle": "Music",
+      "location": "Mali",
+      "genre": "Music",
+      "countryCode": "ML",
+      "language": "french",
+      "clickCount": 5,
+      "bitrate": 64,
+      "streamUrl": "http://ice.stream.frequence3.net/frequence3-64.aac"
+    },
+    {
+      "id": "pidgin_radio_ng_b9ef5cfd",
+      "title": "Pidgin Radio",
+      "subtitle": "Radio",
+      "location": "Nigeria",
+      "genre": "Radio",
+      "countryCode": "NG",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://stream.rcast.net/66702"
+    },
+    {
+      "id": "radio_buddu_ug_d79a26cd",
+      "title": "Radio Buddu",
+      "subtitle": "Radio",
+      "location": "Uganda",
+      "genre": "Radio",
+      "countryCode": "UG",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 64,
+      "streamUrl": "https://dc4.serverse.com/proxy/ccmxrgub/stream?"
+    },
+    {
+      "id": "radio_pacis_94_5_ug_7f3af49d",
+      "title": "Radio Pacis 94.5",
+      "subtitle": "Radio",
+      "location": "Uganda",
+      "genre": "Radio",
+      "countryCode": "UG",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 64,
+      "streamUrl": "http://136.243.44.41:8182/stream"
+    },
+    {
+      "id": "universal_health_radio_kiswahili_ke_f6a1de10",
+      "title": "Universal Health Radio (Kiswahili)",
+      "subtitle": "Cdc",
+      "location": "Kenya",
+      "genre": "Cdc",
+      "countryCode": "KE",
+      "language": "swahili",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://radio.universalhealthradio.org/uhr-sw.mp3"
+    },
+    {
+      "id": "pikine_diaspora_radio_sn_368c735a",
+      "title": "Pikine Diaspora Radio",
+      "subtitle": "Radio",
+      "location": "Senegal",
+      "genre": "Radio",
+      "countryCode": "SN",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "http://cdn.voscast.com/resources/?key=563fcd75f43e77334d6fb664b7358f9e&c=winamp"
     }
   ]
 }

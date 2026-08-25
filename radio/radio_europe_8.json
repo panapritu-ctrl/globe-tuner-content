@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-24T01:12:40Z",
+  "updated": "2026-08-25T01:11:48Z",
   "region": "europe",
   "part": 8,
   "of": 8,
@@ -11769,19 +11769,6 @@
       "bitrate": 96
     },
     {
-      "id": "rb2_100_5_fm_923bf057",
-      "title": "Радио Ваня Туапсе 100.5 FM",
-      "subtitle": "Music, Pop",
-      "imageUrl": "",
-      "streamUrl": "http://185.185.69.62:8000/vanya",
-      "location": "The Russian Federation",
-      "genre": "Music",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 0,
-      "bitrate": 256
-    },
-    {
       "id": "rb2_station_5af59dd2",
       "title": "Радио Гамаюн",
       "subtitle": "Radio",
@@ -16537,19 +16524,6 @@
       "language": null,
       "clickCount": 1,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_station_291ef563",
-      "title": "Юное",
-      "subtitle": "Детское, Смешанный",
-      "imageUrl": "http://xn--80aibovgem6j.xn--p1ai/favicon.png",
-      "streamUrl": "http://xn--80aibovgem6j.xn--p1ai:8000/live256",
-      "location": "Новороссийск, The Russian Federation",
-      "genre": "Детское",
-      "countryCode": "RU",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 256
     },
     {
       "id": "rb2_station_22cba05a",
@@ -24633,6 +24607,54 @@
       "clickCount": 3,
       "bitrate": 281,
       "streamUrl": "https://radio.kyivstar.ua/stream/chill/master.m3u8"
+    },
+    {
+      "id": "radio_hooligan_ua_e6e67968",
+      "title": "RADIO-HOOLIGAN",
+      "subtitle": "Radio",
+      "location": "Ukraine",
+      "genre": "Radio",
+      "countryCode": "UA",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://radio-hooligan.com/stream"
+    },
+    {
+      "id": "west_pole_32k_aac_ua_ebe347ae",
+      "title": "Західний полюс West Pole 32k AAC",
+      "subtitle": "Radio",
+      "location": "Ukraine",
+      "genre": "Radio",
+      "countryCode": "UA",
+      "language": "ukrainian",
+      "clickCount": 3,
+      "bitrate": 32,
+      "streamUrl": "https://online.z-polus.info/mobile"
+    },
+    {
+      "id": "best_fm_95_6_ua_3db36710",
+      "title": "Best fm 95,6",
+      "subtitle": "Radio",
+      "location": "Ukraine",
+      "genre": "Radio",
+      "countryCode": "UA",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 160,
+      "streamUrl": "http://radio.bestfm.ua/bestfm"
+    },
+    {
+      "id": "kolektiv_radio_xk_ee6a8f5a",
+      "title": "Kolektiv Radio",
+      "subtitle": "Radio",
+      "location": "Kosovo",
+      "genre": "Radio",
+      "countryCode": "XK",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 64,
+      "streamUrl": "https://studio28.radiolize.com/radio/8100/radio.mp3"
     }
   ]
 }
