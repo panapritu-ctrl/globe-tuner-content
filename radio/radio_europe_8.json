@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-25T01:11:48Z",
+  "updated": "2026-08-26T01:12:34Z",
   "region": "europe",
   "part": 8,
   "of": 8,
@@ -6980,15 +6980,6 @@
       "language": null,
       "clickCount": 1,
       "bitrate": 128
-    },
-    {
-      "id": "lofi_ru_2dba6e",
-      "title": "lofi",
-      "subtitle": "Lofi",
-      "location": "The Russian Federation",
-      "genre": "Lofi",
-      "streamUrl": "https://pub0202.101.ru:8443/stream/pro/aac/64/358?",
-      "countryCode": "RU"
     },
     {
       "id": "rb2_love_radio_42d6ce8b",
@@ -23009,19 +23000,6 @@
       "bitrate": 192
     },
     {
-      "id": "rb2_x_on_200b6db5",
-      "title": "Радіо X.ON",
-      "subtitle": "64 Kbit/S, Aac",
-      "imageUrl": "https://x-on.com.ua/wp-content/uploads/2021/01/xon_favicon_512x512-150x150.png",
-      "streamUrl": "https://audio.x-on.com.ua:8443/x-on-aacp-64.aac",
-      "location": "Ukraine",
-      "genre": "64 Kbit/S",
-      "countryCode": "UA",
-      "language": "ukranian",
-      "clickCount": 0,
-      "bitrate": 64
-    },
-    {
       "id": "rb2_ua_efe499e7",
       "title": "Радіо Інді.UA",
       "subtitle": "Pop, Rnb",
@@ -24429,18 +24407,6 @@
       "streamUrl": "https://myradio24.org/oldclub"
     },
     {
-      "id": "radio_rocks_kyiv_103_6fm_hd_ua_76f4c2ab",
-      "title": "Radio ROCKS Kyiv 103.6FM HD",
-      "subtitle": "Classic Rock",
-      "location": "Ukraine",
-      "genre": "Classic Rock",
-      "countryCode": "UA",
-      "language": "english",
-      "clickCount": 9,
-      "bitrate": 320,
-      "streamUrl": "https://online.radioroks.ua/RadioROKS_HD"
-    },
-    {
       "id": "kalina_krasnaya_ru_f709ee4e",
       "title": "Kalina Krasnaya",
       "subtitle": "Pop",
@@ -24655,6 +24621,90 @@
       "clickCount": 3,
       "bitrate": 64,
       "streamUrl": "https://studio28.radiolize.com/radio/8100/radio.mp3"
+    },
+    {
+      "id": "radio_rocks_kyiv_103_6fm_hd_ua_76f4c2ab",
+      "title": "Radio ROCKS Kyiv 103.6FM HD",
+      "subtitle": "Classic Rock",
+      "location": "Ukraine",
+      "genre": "Classic Rock",
+      "countryCode": "UA",
+      "language": "english",
+      "clickCount": 9,
+      "bitrate": 320,
+      "streamUrl": "https://online.radioroks.ua/RadioROKS_HD"
+    },
+    {
+      "id": "classic_radio_ua_4a333f40",
+      "title": "Classic Radio",
+      "subtitle": "Classical",
+      "location": "Ukraine",
+      "genre": "Classical",
+      "countryCode": "UA",
+      "language": "ukrainian",
+      "clickCount": 5,
+      "bitrate": 320,
+      "streamUrl": "http://online.classicradio.ua/ClassicRadio_HD"
+    },
+    {
+      "id": "metaradio_ru_278d7dee",
+      "title": "Metaradio",
+      "subtitle": "Russian Dance Electronic Pop Hits Radio",
+      "location": "The Russian Federation",
+      "genre": "Russian Dance Electronic Pop Hits Radio",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 4,
+      "bitrate": 96,
+      "streamUrl": "https://s2.metaradio.ru/mradio.aacp"
+    },
+    {
+      "id": "r_dio_litera_sk_8d33e1a8",
+      "title": "Rádio Litera",
+      "subtitle": "Culture",
+      "location": "Slovakia",
+      "genre": "Culture",
+      "countryCode": "SK",
+      "language": "slovak",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://icecast.stv.livebox.sk/litera_128.mp3"
+    },
+    {
+      "id": "radio_1_80_a_si_1bdd93ca",
+      "title": "Radio 1 80-a",
+      "subtitle": "Radio",
+      "location": "Slovenia",
+      "genre": "Radio",
+      "countryCode": "SI",
+      "language": "slovenian",
+      "clickCount": 3,
+      "bitrate": 320,
+      "streamUrl": "http://live.radio1.si/Radio80"
+    },
+    {
+      "id": "champion_radio_ua_edf68cc9",
+      "title": "Champion Radio",
+      "subtitle": "Blues",
+      "location": "Ukraine",
+      "genre": "Blues",
+      "countryCode": "UA",
+      "language": "ukrainian",
+      "clickCount": 3,
+      "bitrate": 256,
+      "streamUrl": "http://sportradio.com.ua:8000/championradio"
+    },
+    {
+      "id": "station_ua_fe973da6",
+      "title": "Радіо Смак",
+      "subtitle": "160 Kbit/S",
+      "location": "Ukraine",
+      "genre": "160 Kbit/S",
+      "countryCode": "UA",
+      "language": "ukrainian",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://ipradio.net:8443/radiosmak"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-25T01:11:48Z",
+  "updated": "2026-08-26T01:12:34Z",
   "region": "europe",
   "part": 4,
   "of": 8,
@@ -19979,19 +19979,6 @@
       "bitrate": 160
     },
     {
-      "id": "rb2_aquarius_6fcf5562",
-      "title": "Aquarius",
-      "subtitle": "Greek, Mainstream",
-      "imageUrl": "https://aquariusfm.gr/wp-content/uploads/2020/05/cropped-logo1-180x180.png",
-      "streamUrl": "http://s1.onweb.gr:8008/stream?type=http&nocache=45171",
-      "location": "Pyrgos, Greece",
-      "genre": "Greek",
-      "countryCode": "GR",
-      "language": "greek",
-      "clickCount": 1,
-      "bitrate": 160
-    },
-    {
       "id": "rb2_arcadia_b16cbfd0",
       "title": "Arcadia Τρίπολη",
       "subtitle": "Greek, News",
@@ -27266,6 +27253,18 @@
       "clickCount": 2,
       "bitrate": 192,
       "streamUrl": "https://netradio.live24.gr/rebel1052"
+    },
+    {
+      "id": "cretaone_fm_102_3_gr_ed78189a",
+      "title": "CretaOne FM 102.3",
+      "subtitle": "Radio",
+      "location": "Greece",
+      "genre": "Radio",
+      "countryCode": "GR",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "https://netradio.live24.gr/radio1023crete?1600.mp3"
     }
   ]
 }

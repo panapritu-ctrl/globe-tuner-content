@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-25T01:11:48Z",
+  "updated": "2026-08-26T01:12:34Z",
   "region": "europe",
   "part": 2,
   "of": 8,
@@ -26544,19 +26544,6 @@
       "countryCode": "ES"
     },
     {
-      "id": "rb2_ibiza_organica_484d0b55",
-      "title": "Ibiza Organica",
-      "subtitle": "Organic House",
-      "imageUrl": "https://nexradio-stream.duckdns.org/storage/v1/object/public/station-logos/d26bc3ba-c12b-40d4-b00e-7ea793653c2b/logo-1778664372321.jpeg",
-      "streamUrl": "https://nexradio-stream.duckdns.org/organica/stream",
-      "location": "Spain",
-      "genre": "Organic House",
-      "countryCode": "ES",
-      "language": "dutch",
-      "clickCount": 0,
-      "bitrate": 320
-    },
-    {
       "id": "rb2_ibiza_org_nica_c51cb471",
       "title": "Ibiza Orgánica",
       "subtitle": "Radio",
@@ -27705,19 +27692,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_manantial_fm_64c5fd3d",
-      "title": "Manantial fm",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://cast4.prosandoval.com/listen/bcn_gospel_channel/radio.mp3",
-      "location": "Cataluña, Spain",
-      "genre": "Radio",
-      "countryCode": "ES",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_marbescop_aab3b0dd",
       "title": "Marbescop",
       "subtitle": "Francophone",
@@ -28282,6 +28256,18 @@
       "clickCount": 2,
       "bitrate": 324,
       "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p6beat/masterab.m3u8"
+    },
+    {
+      "id": "dr_p1_aac_dk_5bbf616a",
+      "title": "DR P1 (AAC)",
+      "subtitle": "Radio",
+      "location": "Denmark",
+      "genre": "Radio",
+      "countryCode": "DK",
+      "language": "danish",
+      "clickCount": 3,
+      "bitrate": 324,
+      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p1/masterab.m3u8"
     }
   ]
 }

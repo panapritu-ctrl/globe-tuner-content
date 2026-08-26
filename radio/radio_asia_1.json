@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-25T01:11:48Z",
+  "updated": "2026-08-26T01:12:34Z",
   "region": "asia",
   "part": 1,
   "of": 3,
@@ -17377,19 +17377,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_station_052a66ef",
-      "title": "安徽交通广播",
-      "subtitle": "Traffic",
-      "imageUrl": "https://pic.qtfm.cn/2020/0311/20200311053004.png",
-      "streamUrl": "https://lhttp.qtfm.cn/live/1949/64k.mp3",
-      "location": "Anhwei, China",
-      "genre": "Traffic",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 2,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_station_c71afa91",
       "title": "安徽农村广播",
       "subtitle": "Agriculture, Culture",
@@ -17582,19 +17569,6 @@
       "countryCode": "CN",
       "language": "chinese",
       "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_station_e62533b7",
-      "title": "安徽音乐广播",
-      "subtitle": "Music",
-      "imageUrl": "",
-      "streamUrl": "https://lhttp.qtfm.cn/live/1947/64k.mp3",
-      "location": "Anhwei, China",
-      "genre": "Music",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 1,
       "bitrate": 128
     },
     {
@@ -24393,32 +24367,6 @@
       "bitrate": 2560
     },
     {
-      "id": "rb2_fm105_2_61115302",
-      "title": "百色综合广播 FM105.2",
-      "subtitle": "Full Service",
-      "imageUrl": "https://so1.360tres.com/t01a26d62f4a7b5e827.jpg",
-      "streamUrl": "https://vod.bsyjrb.cn/live/9cb859019bb6.m3u8",
-      "location": "Kwangsi, China",
-      "genre": "Full Service",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_fm87_6_3acffc12",
-      "title": "百色音乐广播 FM87.6",
-      "subtitle": "Music",
-      "imageUrl": "https://so1.360tres.com/t01a26d62f4a7b5e827.jpg",
-      "streamUrl": "https://vod.bsyjrb.cn/live/82c95bdd98f2.m3u8",
-      "location": "Kwangsi, China",
-      "genre": "Music",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_station_2cbc3cfd",
       "title": "益阳交通广播",
       "subtitle": "Entertainment, Traffic News",
@@ -26410,18 +26358,6 @@
       "streamUrl": "http://live-hls-audio-web-aja.getaj.net/VOICE-AJA/01.m3u8"
     },
     {
-      "id": "quran_af_a8ca66d5",
-      "title": ".Quran",
-      "subtitle": "Classical",
-      "location": "Afghanistan",
-      "genre": "Classical",
-      "countryCode": "AF",
-      "language": null,
-      "clickCount": 15,
-      "bitrate": 128,
-      "streamUrl": "https://backup.qurango.net/radio/ahmad_khader_altarabulsi"
-    },
-    {
       "id": "c_r_arturo_toscanini_ae_7667a23e",
       "title": "C.R. - Arturo Toscanini",
       "subtitle": "Classical",
@@ -26720,6 +26656,90 @@
       "clickCount": 2,
       "bitrate": 0,
       "streamUrl": "http://web.archive.org/web/20200815210240if_/https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream_7.m3u8"
+    },
+    {
+      "id": "i_ctimai_radio_90_fm_az_862faf08",
+      "title": "İctimai Radio – 90 FM",
+      "subtitle": "Radio",
+      "location": "Azerbaijan",
+      "genre": "Radio",
+      "countryCode": "AZ",
+      "language": "azerbaijani",
+      "clickCount": 15,
+      "bitrate": 322,
+      "streamUrl": "https://stream.itv.az/rtmp:/radio/playlist.m3u8"
+    },
+    {
+      "id": "quran_af_a8ca66d5",
+      "title": ".Quran",
+      "subtitle": "Classical",
+      "location": "Afghanistan",
+      "genre": "Classical",
+      "countryCode": "AF",
+      "language": null,
+      "clickCount": 14,
+      "bitrate": 128,
+      "streamUrl": "https://backup.qurango.net/radio/ahmad_khader_altarabulsi"
+    },
+    {
+      "id": "c_r_debussy_ae_52735c8e",
+      "title": "C.R. - Debussy",
+      "subtitle": "Classical",
+      "location": "The United Arab Emirates",
+      "genre": "Classical",
+      "countryCode": "AE",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://drive.uber.radio/uber/crdebussy/icecast.audio"
+    },
+    {
+      "id": "c_r_sibelius_ae_b27d2ffd",
+      "title": "C.R. - Sibelius",
+      "subtitle": "Classical",
+      "location": "The United Arab Emirates",
+      "genre": "Classical",
+      "countryCode": "AE",
+      "language": "english",
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "http://drive.uber.radio/uber/crsibelius/icecast.audio"
+    },
+    {
+      "id": "c_r_stravinsky_ae_40d985d9",
+      "title": "C.R. - Stravinsky",
+      "subtitle": "Classical",
+      "location": "The United Arab Emirates",
+      "genre": "Classical",
+      "countryCode": "AE",
+      "language": "english",
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "http://drive.uber.radio/uber/crstravinsky/icecast.audio"
+    },
+    {
+      "id": "c_r_tchaikovsky_ae_495457d8",
+      "title": "C.R. - Tchaikovsky",
+      "subtitle": "Classical",
+      "location": "The United Arab Emirates",
+      "genre": "Classical",
+      "countryCode": "AE",
+      "language": "engilsh",
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "http://drive.uber.radio/uber/crtchaikovsky/icecast.audio"
+    },
+    {
+      "id": "r_dio_nevasca_104_1_fm_af_f8af6dd0",
+      "title": "Rádio Nevasca 104.1 FM",
+      "subtitle": "Classical",
+      "location": "Afghanistan",
+      "genre": "Classical",
+      "countryCode": "AF",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 64,
+      "streamUrl": "https://cast2.youngtech.radio.br/radio/8110/radio"
     }
   ]
 }

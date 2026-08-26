@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-25T01:11:48Z",
+  "updated": "2026-08-26T01:12:34Z",
   "region": "europe",
   "part": 6,
   "of": 8,
@@ -21165,15 +21165,6 @@
       "bitrate": 128
     },
     {
-      "id": "13_eska_2_pl",
-      "title": "13 ESKA 2",
-      "subtitle": "Muzic",
-      "location": "Poland",
-      "genre": "Music",
-      "countryCode": "PL",
-      "streamUrl": "https://radio.stream.smcdn.pl/icradio-p/6230-1.aac/playlist.m3u8"
-    },
-    {
       "id": "24dubstep_pl_calmflow_pl",
       "title": "24Dubstep.pl || CalmFlow",
       "subtitle": "Ambient / Chillout",
@@ -25954,18 +25945,6 @@
       "streamUrl": "http://media.rtvnoord.nl/icecast/rtvnoord/radio"
     },
     {
-      "id": "rai_isoradio_it_7dc1e834",
-      "title": "Rai Isoradio",
-      "subtitle": "News",
-      "location": "Italy",
-      "genre": "News",
-      "countryCode": "IT",
-      "language": "italian",
-      "clickCount": 9,
-      "bitrate": 256,
-      "streamUrl": "http://icestreaming.rai.it/6.mp3"
-    },
-    {
       "id": "nrk_mp3_no_658e6ef8",
       "title": "NRK MP3",
       "subtitle": "Radio",
@@ -26314,18 +26293,6 @@
       "streamUrl": "https://play.radioking.io/nordic-chillout-radio/736489"
     },
     {
-      "id": "radio_ciccio_riccio_it_d00ba74b",
-      "title": "Radio Ciccio Riccio",
-      "subtitle": "Varied",
-      "location": "Italy",
-      "genre": "Varied",
-      "countryCode": "IT",
-      "language": "italian",
-      "clickCount": 7,
-      "bitrate": 0,
-      "streamUrl": "https://stream5.xdevel.com/audio0s975942-758/stream/icecast.audio"
-    },
-    {
       "id": "station_lt_615a9a20",
       "title": "Радио Сигнал",
       "subtitle": "Radio",
@@ -26590,18 +26557,6 @@
       "streamUrl": "http://playerservices.streamtheworld.com/api/livestream-redirect/KINK.mp3"
     },
     {
-      "id": "kiss_kiss_italia_it_d829d624",
-      "title": "Kiss kiss italia",
-      "subtitle": "Radio",
-      "location": "Italy",
-      "genre": "Radio",
-      "countryCode": "IT",
-      "language": null,
-      "clickCount": 7,
-      "bitrate": 128,
-      "streamUrl": "http://wma07.fluidstream.net:3616/;stream.nsv"
-    },
-    {
       "id": "adoro_pop_it_611030de",
       "title": "ADORO POP",
       "subtitle": "Radio",
@@ -26768,18 +26723,6 @@
       "clickCount": 3,
       "bitrate": 0,
       "streamUrl": "https://media.hostin.live/audio/efteling.mp3?source=eftelingcom"
-    },
-    {
-      "id": "radio_gamma_magic_it_8bf95d64",
-      "title": "Radio Gamma Magic",
-      "subtitle": "80S",
-      "location": "Italy",
-      "genre": "80S",
-      "countryCode": "IT",
-      "language": "english",
-      "clickCount": 9,
-      "bitrate": 128,
-      "streamUrl": "http://95.110.186.253:8020/magic.mp3"
     },
     {
       "id": "radio_idea_italia_it_132c2eaf",
@@ -27020,6 +26963,114 @@
       "clickCount": 3,
       "bitrate": 320,
       "streamUrl": "http://radio.cliamp.stream/edm/stream"
+    },
+    {
+      "id": "rai_isoradio_it_7dc1e834",
+      "title": "Rai Isoradio",
+      "subtitle": "News",
+      "location": "Italy",
+      "genre": "News",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 9,
+      "bitrate": 256,
+      "streamUrl": "http://icestreaming.rai.it/6.mp3"
+    },
+    {
+      "id": "kiss_kiss_italia_it_d829d624",
+      "title": "Kiss kiss italia",
+      "subtitle": "Radio",
+      "location": "Italy",
+      "genre": "Radio",
+      "countryCode": "IT",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "http://wma07.fluidstream.net:3616/;stream.nsv"
+    },
+    {
+      "id": "radio_jolly_it_87ee61d4",
+      "title": "Radio Jolly",
+      "subtitle": "Eurodance",
+      "location": "Italy",
+      "genre": "Eurodance",
+      "countryCode": "IT",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "http://radio.garden/api/ara/content/listen/Zrs6jv66/channel.mp3"
+    },
+    {
+      "id": "estakada99_lt_c79d098c",
+      "title": "estakada99",
+      "subtitle": "24/7",
+      "location": "Lithuania",
+      "genre": "24/7",
+      "countryCode": "LT",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://live.e99.live/main"
+    },
+    {
+      "id": "radio_stotis_laluna_lt_08d0fc78",
+      "title": "Radio stotis Laluna",
+      "subtitle": "Radio",
+      "location": "Lithuania",
+      "genre": "Radio",
+      "countryCode": "LT",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 160,
+      "streamUrl": "https://radio.m-1.fm/laluna/mp3"
+    },
+    {
+      "id": "pyro_tec_retro_nl_aa287028",
+      "title": "Pyro-Tec Retro",
+      "subtitle": "Club Dance",
+      "location": "The Netherlands",
+      "genre": "Club Dance",
+      "countryCode": "NL",
+      "language": "dutch",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "http://stream.zeno.fm/nqtl8hjdqzxvv"
+    },
+    {
+      "id": "radio_1224_nl_32c1c36e",
+      "title": "Radio 1224",
+      "subtitle": "1224 Am",
+      "location": "The Netherlands",
+      "genre": "1224 Am",
+      "countryCode": "NL",
+      "language": "dutch",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://stream.radio1224.nl/1224"
+    },
+    {
+      "id": "play_radio_lt_ac9391bf",
+      "title": "Play Radio",
+      "subtitle": "Radio",
+      "location": "Lithuania",
+      "genre": "Radio",
+      "countryCode": "LT",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://n08.radiojar.com/d9cm273ystzuv"
+    },
+    {
+      "id": "538_tomorrowland_nl_cacb7259",
+      "title": "538 Tomorrowland",
+      "subtitle": "Radio",
+      "location": "The Netherlands",
+      "genre": "Radio",
+      "countryCode": "NL",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 192,
+      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_WORLD_RADIO_NL.mp3"
     }
   ]
 }
