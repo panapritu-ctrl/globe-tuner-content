@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-26T01:12:34Z",
+  "updated": "2026-08-27T07:16:18Z",
   "region": "asia",
   "part": 1,
   "of": 3,
@@ -10319,19 +10319,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_asiafm_1328e18b",
-      "title": "AsiaFM亚洲音乐台(新)",
-      "subtitle": "Music, Pop",
-      "imageUrl": "https://www.radiotaiwan.tw/favicon.ico",
-      "streamUrl": "https://live.xmcdn.com/live/764/64.m3u8",
-      "location": "China",
-      "genre": "Music",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 12,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_asiafm_b0529003",
       "title": "AsiaFM安岳综合广播",
       "subtitle": "Information, Music",
@@ -18437,19 +18424,6 @@
       "streamUrl": "https://play.kankanlive.com/live/1694762955080949.m3u8",
       "location": "Kansu, China",
       "genre": "Traffic Radio Broadcast",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 0,
-      "bitrate": 2560
-    },
-    {
-      "id": "rb2_station_be0ab327",
-      "title": "平凉综合广播",
-      "subtitle": "Full Service",
-      "imageUrl": "https://nginx-pls.xgsyun.com/pls/site1/resource/tv/pls/202309/15/2e0c1b37-12ed-438d-9ce0-b0fe287c5a32.jpg",
-      "streamUrl": "https://play.kankanlive.com/live/1750649719216047.m3u8",
-      "location": "Kansu, China",
-      "genre": "Full Service",
       "countryCode": "CN",
       "language": "chinese",
       "clickCount": 0,
@@ -26740,6 +26714,42 @@
       "clickCount": 2,
       "bitrate": 64,
       "streamUrl": "https://cast2.youngtech.radio.br/radio/8110/radio"
+    },
+    {
+      "id": "c_r_brahms_ae_f4645d14",
+      "title": "C.R. - Brahms",
+      "subtitle": "Classical",
+      "location": "The United Arab Emirates",
+      "genre": "Classical",
+      "countryCode": "AE",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "http://drive.uber.radio/uber/crbrahms/icecast.audio"
+    },
+    {
+      "id": "c_r_lang_lang_ae_5ce6c24b",
+      "title": "C.R. - Lang Lang",
+      "subtitle": "Classical",
+      "location": "The United Arab Emirates",
+      "genre": "Classical",
+      "countryCode": "AE",
+      "language": "engilsh",
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "http://drive.uber.radio/uber/crlanglang/icecast.audio"
+    },
+    {
+      "id": "o_af_c8dabd4e",
+      "title": "o",
+      "subtitle": "Classical",
+      "location": "Afghanistan",
+      "genre": "Classical",
+      "countryCode": "AF",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 0,
+      "streamUrl": "https://regiocast.streamabc.net/regc-80s80smweb2517500-mp3-192-1672667?sABC=653op5q6%230%235p58nn084q38sp434n9907261qno32q0%23gharva&aw_0_1st.playerid=tunein&amsparams=playerid:tunein;skey:1698416086"
     }
   ]
 }

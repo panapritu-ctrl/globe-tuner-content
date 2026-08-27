@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-26T01:12:34Z",
+  "updated": "2026-08-27T07:16:18Z",
   "region": "europe",
   "part": 7,
   "of": 8,
@@ -8014,19 +8014,6 @@
       "bitrate": 192
     },
     {
-      "id": "rb2_clasic_radio_mozart_bucure_ti_237f28d3",
-      "title": "Clasic Radio_Mozart -București",
-      "subtitle": "Classical Music",
-      "imageUrl": "https://www.clasicradio.ro/logo/mozart.jpg",
-      "streamUrl": "https://live.radioclasic.com/listen/radio_clasic_mozart/live.mp3",
-      "location": "Romania",
-      "genre": "Classical Music",
-      "countryCode": "RO",
-      "language": "română",
-      "clickCount": 5,
-      "bitrate": 192
-    },
-    {
       "id": "rb2_clasic_radio_popular_bucure_ti_1a758ed7",
       "title": "Clasic Radio_Popular -București",
       "subtitle": "Petrecere, Populară",
@@ -8076,19 +8063,6 @@
       "countryCode": "RO",
       "language": "română",
       "clickCount": 3,
-      "bitrate": 192
-    },
-    {
-      "id": "rb2_clasic_radio_summerhits_bucure_ti_9e8d5a9f",
-      "title": "Clasic Radio_SummerHits -București",
-      "subtitle": "Pop, Summer Hits",
-      "imageUrl": "https://www.clasicradio.ro/logo/summer.jpg",
-      "streamUrl": "https://live.radioclasic.com/listen/radio_clasic_summerhits/live.mp3",
-      "location": "Romania",
-      "genre": "Pop",
-      "countryCode": "RO",
-      "language": "română",
-      "clickCount": 2,
       "bitrate": 192
     },
     {
@@ -10155,19 +10129,6 @@
       "language": "romanian",
       "clickCount": 0,
       "bitrate": 64
-    },
-    {
-      "id": "rb2_radio_maria_romania_hung_ae06af89",
-      "title": "RADIO MARIA ROMANIA HUNG.",
-      "subtitle": "Catholic, Religion",
-      "imageUrl": "",
-      "streamUrl": "http://dreamsiteradiocp4.com:8026/stream",
-      "location": "Romania",
-      "genre": "Catholic",
-      "countryCode": "RO",
-      "language": "hungarian",
-      "clickCount": 0,
-      "bitrate": 32
     },
     {
       "id": "rb2_radio_mirajul_muzicii_e118e67d",
@@ -21151,19 +21112,6 @@
       "bitrate": 320
     },
     {
-      "id": "rb2_keygen_fm_a61c0040",
-      "title": "Keygen fm",
-      "subtitle": "Game;8Bit;Retro",
-      "imageUrl": "",
-      "streamUrl": "http://stream.keygen-fm.ru:8082/listen.mp3",
-      "location": "The Russian Federation",
-      "genre": "Game;8Bit;Retro",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_keygen_fm_374257fd",
       "title": "Keygen-FM",
       "subtitle": "Chiptune, Demoscene",
@@ -24173,18 +24121,6 @@
       "streamUrl": "https://radio.mugadavanje.rs/listen/dharmar_goa/dharmar"
     },
     {
-      "id": "antena_krusevac_rs_793f27dd",
-      "title": "Antena Krusevac",
-      "subtitle": "Radio",
-      "location": "Serbia",
-      "genre": "Radio",
-      "countryCode": "RS",
-      "language": "serbian",
-      "clickCount": 5,
-      "bitrate": 320,
-      "streamUrl": "http://antenaradio.org:4560/;stream.nsv"
-    },
-    {
       "id": "naxi_radio_cafe_radio_rs_a73dcd72",
       "title": "naxi radio - cafe radio",
       "subtitle": "Cafe",
@@ -24615,6 +24551,138 @@
       "clickCount": 3,
       "bitrate": 256,
       "streamUrl": "http://213.239.205.210:8046/index.html/"
+    },
+    {
+      "id": "r_dio_comercial_dance_pt_e0414943",
+      "title": "Rádio Comercial Dance",
+      "subtitle": "Dance",
+      "location": "Portugal",
+      "genre": "Dance",
+      "countryCode": "PT",
+      "language": "portuguese",
+      "clickCount": 5,
+      "bitrate": 127,
+      "streamUrl": "https://stream-icy.bauermedia.pt/rcdance.aac"
+    },
+    {
+      "id": "drumfunk_ru_ru_e4062e69",
+      "title": "drumfunk.ru",
+      "subtitle": "Breakcore",
+      "location": "The Russian Federation",
+      "genre": "Breakcore",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "https://ice.drumfunk.ru:8050/on.mp3"
+    },
+    {
+      "id": "radio_tequila_dance_romania_ro_6af324bf",
+      "title": "Radio Tequila Dance Romania",
+      "subtitle": "Pop",
+      "location": "Romania",
+      "genre": "Pop",
+      "countryCode": "RO",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://dance.radiotequila.ro:7000/;stream.nsv"
+    },
+    {
+      "id": "radio_s_cafe_rs_b70770b2",
+      "title": "Radio S Cafe",
+      "subtitle": "Cafe",
+      "location": "Serbia",
+      "genre": "Cafe",
+      "countryCode": "RS",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 32,
+      "streamUrl": "https://stream.radios.rs:9012/stream"
+    },
+    {
+      "id": "station_ru_9e9f91dd",
+      "title": "ГУСЬ.Транс",
+      "subtitle": "Euro-Trance",
+      "location": "The Russian Federation",
+      "genre": "Euro-Trance",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 320,
+      "streamUrl": "https://stream5.radiogoose.ru/listen/trance/play"
+    },
+    {
+      "id": "101_ru_neoclassical_ru_d2c27f3c",
+      "title": "101.ru Neoclassical",
+      "subtitle": "Neoclassical",
+      "location": "The Russian Federation",
+      "genre": "Neoclassical",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 4,
+      "bitrate": 64,
+      "streamUrl": "http://pub0101.101.ru:8000/stream/pro/aac/64/275?"
+    },
+    {
+      "id": "radio_sar_studencka_agencja_radiowa_pl_f0b0c01d",
+      "title": "Radio SAR - Studencka Agencja Radiowa",
+      "subtitle": "Blues",
+      "location": "Poland",
+      "genre": "Blues",
+      "countryCode": "PL",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://stream.radiosar.pl/hdmain.mp3"
+    },
+    {
+      "id": "radio_centrum_lublin_pl_efe89b8f",
+      "title": "Radio Centrum Lublin",
+      "subtitle": "Poland",
+      "location": "Poland",
+      "genre": "Poland",
+      "countryCode": "PL",
+      "language": "polish",
+      "clickCount": 3,
+      "bitrate": 192,
+      "streamUrl": "https://stream12.hosterion.pl/stream/akademickieradiocentrum"
+    },
+    {
+      "id": "r_dio_universit_ria_uminho_pt_963fcf8e",
+      "title": "Rádio Universitária UMinho",
+      "subtitle": "Indie",
+      "location": "Portugal",
+      "genre": "Indie",
+      "countryCode": "PT",
+      "language": "portuguese",
+      "clickCount": 3,
+      "bitrate": 192,
+      "streamUrl": "http://centova.radio.com.pt:9558/stream"
+    },
+    {
+      "id": "rfm_novas_pt_a8b49894",
+      "title": "RFM NOVAS",
+      "subtitle": "Music",
+      "location": "Portugal",
+      "genre": "Music",
+      "countryCode": "PT",
+      "language": "portuguese",
+      "clickCount": 3,
+      "bitrate": 64,
+      "streamUrl": "https://22733.live.streamtheworld.com/RFM_FRESCASAAC.aac"
+    },
+    {
+      "id": "nicecream_fm_green_ro_cd29bbd1",
+      "title": "Nicecream.fm Green",
+      "subtitle": "Laidback Grooves With A Slice Of Panda Funk",
+      "location": "Romania",
+      "genre": "Laidback Grooves With A Slice Of Panda Funk",
+      "countryCode": "RO",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 192,
+      "streamUrl": "https://play.nicecream.fm/green.aac"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-26T01:12:34Z",
+  "updated": "2026-08-27T07:16:18Z",
   "region": "americas",
   "part": 2,
   "of": 5,
@@ -4234,19 +4234,6 @@
       "language": "english",
       "clickCount": 0,
       "bitrate": 32
-    },
-    {
-      "id": "rb2_cjbp_fm_cj_97_1_neepawa_mb_9fdc4123",
-      "title": "CJBP-FM \"CJ 97.1\"  Neepawa, MB",
-      "subtitle": "Country",
-      "imageUrl": "",
-      "streamUrl": "http://dns4.83north.ca:8000/cjbp.mp3",
-      "location": "Manitoba, Canada",
-      "genre": "Country",
-      "countryCode": "CA",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
     },
     {
       "id": "rb2_cjbz_fm_93_3_b_93_lethbridge_ab_881ca55f",
@@ -23722,19 +23709,6 @@
       "bitrate": 320
     },
     {
-      "id": "rb2_naranjo_dulce_radio_ca9130ca",
-      "title": "Naranjo Dulce Radio",
-      "subtitle": "Radio",
-      "imageUrl": "https://public-rf-upload.minhawebradio.net/97916/logo/176c2eafd9ce1606f1394360515906f6.png",
-      "streamUrl": "https://servidor37-2.brlogic.com:8518/live?source=website",
-      "location": "The Dominican Republic",
-      "genre": "Radio",
-      "countryCode": "DO",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 96
-    },
-    {
       "id": "rb2_nex_hits_5871af84",
       "title": "Nex Hits",
       "subtitle": "Hits, Pop",
@@ -24385,19 +24359,6 @@
       "language": "spanish",
       "clickCount": 0,
       "bitrate": 64
-    },
-    {
-      "id": "rb2_fb_radio_105_7_fm_337e7203",
-      "title": "FB Radio 105.7 FM",
-      "subtitle": "Amor, Baladas En Español",
-      "imageUrl": "https://fbradio.ec/wp-content/uploads/thegem-logos/logo_0335860a0b7f69ccdc4ff35cd20eb201_1x.png",
-      "streamUrl": "https://streamingecuador.com:7032/stream",
-      "location": "Ecuador",
-      "genre": "Amor",
-      "countryCode": "EC",
-      "language": "spanish",
-      "clickCount": 1,
-      "bitrate": 128
     },
     {
       "id": "rb2_fm_mundo_98_1_fm_17f86c6f",
@@ -26154,18 +26115,6 @@
       "streamUrl": "https://26373.live.streamtheworld.com/CBLFM_CBC_SC"
     },
     {
-      "id": "ckwx_news_1130_vancouver_bc_ca_430331a2",
-      "title": "CKWX \"News 1130\" Vancouver, BC",
-      "subtitle": "News Radio",
-      "location": "Canada",
-      "genre": "News Radio",
-      "countryCode": "CA",
-      "language": "english",
-      "clickCount": 2,
-      "bitrate": 48,
-      "streamUrl": "https://rogers-hls.leanstream.co/rogers/van1130.stream/playlist.m3u8"
-    },
-    {
       "id": "chom_97_7_montr_al_ca_3de6b46c",
       "title": "CHOM 97.7 Montréal",
       "subtitle": "Radio",
@@ -26476,6 +26425,270 @@
       "clickCount": 2,
       "bitrate": 96,
       "streamUrl": "https://icecast.centaury.cl:7610/SSDEMO"
+    },
+    {
+      "id": "be_99_7_do_cf0560b3",
+      "title": "BE 99.7",
+      "subtitle": "English",
+      "location": "The Dominican Republic",
+      "genre": "English",
+      "countryCode": "DO",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://stream1.rcast.net/61186"
+    },
+    {
+      "id": "ciht_hot_89_9_ottawa_on_ca_11b9d341",
+      "title": "CIHT \"Hot 89.9\" Ottawa, ON",
+      "subtitle": "Contemporary Hits",
+      "location": "Canada",
+      "genre": "Contemporary Hits",
+      "countryCode": "CA",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 130,
+      "streamUrl": "http://newcap.leanstream.co/CIHTFM"
+    },
+    {
+      "id": "maric_n_radio_cl_e7872060",
+      "title": "Maricón radio",
+      "subtitle": "Vocaloid",
+      "location": "Chile",
+      "genre": "Vocaloid",
+      "countryCode": "CL",
+      "language": "spanish",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://radio.maricon.org/vocaloid"
+    },
+    {
+      "id": "radio_beethoven_fm_cl_a6b41859",
+      "title": "Radio Beethoven FM",
+      "subtitle": "Classical Music",
+      "location": "Chile",
+      "genre": "Classical Music",
+      "countryCode": "CL",
+      "language": "spanish",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "http://unlimited4-us.dps.live/beethovenfm/aac/icecast.audio"
+    },
+    {
+      "id": "radio_austral_cl_5c9ae43c",
+      "title": "Radio Austral",
+      "subtitle": "80'S",
+      "location": "Chile",
+      "genre": "80'S",
+      "countryCode": "CL",
+      "language": "español chile",
+      "clickCount": 3,
+      "bitrate": 112,
+      "streamUrl": "https://archi-us.digitalproserver.com/austral.aac"
+    },
+    {
+      "id": "extasis_89_5_do_4f24ac88",
+      "title": "EXTASIS 89.5",
+      "subtitle": "Radio",
+      "location": "The Dominican Republic",
+      "genre": "Radio",
+      "countryCode": "DO",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://stream.zeno.fm/f7wt0ptjpn3vv"
+    },
+    {
+      "id": "fascinante_fm_do_f7fba3b2",
+      "title": "Fascinante FM",
+      "subtitle": "Radio",
+      "location": "The Dominican Republic",
+      "genre": "Radio",
+      "countryCode": "DO",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 112,
+      "streamUrl": "https://nexostream.net:8180/live"
+    },
+    {
+      "id": "radio_eres_ec_758783bf",
+      "title": "Radio Eres",
+      "subtitle": "Radio",
+      "location": "Ecuador",
+      "genre": "Radio",
+      "countryCode": "EC",
+      "language": "spanish",
+      "clickCount": 3,
+      "bitrate": 32,
+      "streamUrl": "https://sv70.ecuaradiotv.net:8000/eres933"
+    },
+    {
+      "id": "radio_canela_manab_102_5_fm_ec_c360e218",
+      "title": "Radio Canela Manabí 102.5 FM",
+      "subtitle": "Chicha",
+      "location": "Ecuador",
+      "genre": "Chicha",
+      "countryCode": "EC",
+      "language": "spanish",
+      "clickCount": 3,
+      "bitrate": 64,
+      "streamUrl": "https://canelaradio.makrodigital.com/stream/canelaradiomanabi"
+    },
+    {
+      "id": "cjdv_107_5_dave_rocks_kitchener_on_ca_4f9c57ce",
+      "title": "CJDV 107.5 \"Dave Rocks\" Kitchener, ON",
+      "subtitle": "Commercial",
+      "location": "Canada",
+      "genre": "Commercial",
+      "countryCode": "CA",
+      "language": "english",
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "http://live.leanstream.co/CJDVFM-MP3"
+    },
+    {
+      "id": "cjni_news_95_7_halifax_ns_ca_f0a4e4aa",
+      "title": "CJNI \"News 95.7\" Halifax, NS",
+      "subtitle": "Halifax",
+      "location": "Canada",
+      "genre": "Halifax",
+      "countryCode": "CA",
+      "language": "english",
+      "clickCount": 2,
+      "bitrate": 48,
+      "streamUrl": "https://rogers-hls.leanstream.co/rogers/hal957.stream/playlist.m3u8"
+    },
+    {
+      "id": "medios_unidos_cl_223b3d73",
+      "title": "Medios Unidos",
+      "subtitle": "Radio",
+      "location": "Chile",
+      "genre": "Radio",
+      "countryCode": "CL",
+      "language": "spanish",
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "https://stream.polarhost.cl/MediosUnidos"
+    },
+    {
+      "id": "radio_utalca_cl_sica_cl_0d486341",
+      "title": "Radio UTalca Clásica",
+      "subtitle": "Classical",
+      "location": "Chile",
+      "genre": "Classical",
+      "countryCode": "CL",
+      "language": "español chile",
+      "clickCount": 2,
+      "bitrate": 96,
+      "streamUrl": "http://iradio.utalca.cl:8000/fm"
+    },
+    {
+      "id": "radio_universal_villarrica_cl_58248e3c",
+      "title": "Radio Universal Villarrica",
+      "subtitle": "Radio",
+      "location": "Chile",
+      "genre": "Radio",
+      "countryCode": "CL",
+      "language": "spanish",
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "https://s02.azuracast.cl/radio/8120/villarrica"
+    },
+    {
+      "id": "beethovenfm_cl_9d9200b4",
+      "title": "BeethovenFM",
+      "subtitle": "Radio",
+      "location": "Chile",
+      "genre": "Radio",
+      "countryCode": "CL",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "https://unlimited3-cl.dps.live/beethovenfm/go/audio/now/livestream1.m3u8"
+    },
+    {
+      "id": "positiva_cl_0329835c",
+      "title": "Positiva",
+      "subtitle": "Radio",
+      "location": "Chile",
+      "genre": "Radio",
+      "countryCode": "CL",
+      "language": "spanish",
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "https://unlimited4-us.dps.live/positiva/aac/icecast.audio"
+    },
+    {
+      "id": "radio_paula_fm_103_7_mhz_laja_hd_cl_5c69f3b9",
+      "title": "Radio Paula FM - 103.7 MHz - Laja (HD)",
+      "subtitle": "Radio",
+      "location": "Chile",
+      "genre": "Radio",
+      "countryCode": "CL",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 192,
+      "streamUrl": "http://escucha.radiopaulafm.com/"
+    },
+    {
+      "id": "vibra_fm_co_9314b314",
+      "title": "Vibra FM",
+      "subtitle": "Baladas",
+      "location": "Colombia",
+      "genre": "Baladas",
+      "countryCode": "CO",
+      "language": "spanish",
+      "clickCount": 2,
+      "bitrate": 96,
+      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/VIBRA_SC"
+    },
+    {
+      "id": "radio_el_sol_barranquilla_co_b5c45746",
+      "title": "Radio El Sol (Barranquilla)",
+      "subtitle": "Salsa",
+      "location": "Colombia",
+      "genre": "Salsa",
+      "countryCode": "CO",
+      "language": "spanish",
+      "clickCount": 2,
+      "bitrate": 98,
+      "streamUrl": "https://mdstrm.com/audio/632cbdb5202d6801a31785b0/live.m3u8"
+    },
+    {
+      "id": "radio_planeta_cali_co_d5da600d",
+      "title": "Radio Planeta Cali",
+      "subtitle": "Electronica",
+      "location": "Colombia",
+      "genre": "Electronica",
+      "countryCode": "CO",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 320,
+      "streamUrl": "https://sp4.colombiatelecom.com.co/8098/stream"
+    },
+    {
+      "id": "tiquicia_rock_cr_c6389fdc",
+      "title": "Tiquicia Rock",
+      "subtitle": "Alternative",
+      "location": "Costa Rica",
+      "genre": "Alternative",
+      "countryCode": "CR",
+      "language": "english",
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "https://usa19.fastcast4u.com:5860/;?type=http&nocache=1690470873"
+    },
+    {
+      "id": "radio_costa_cr_def69ed8",
+      "title": "Radio Costa",
+      "subtitle": "Radio",
+      "location": "Costa Rica",
+      "genre": "Radio",
+      "countryCode": "CR",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 96,
+      "streamUrl": "https://sonicpanel.globalstream.pro:10979/;"
     }
   ]
 }

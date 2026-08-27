@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-26T01:12:34Z",
+  "updated": "2026-08-27T07:16:18Z",
   "region": "europe",
   "part": 6,
   "of": 8,
@@ -22016,19 +22016,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_eska_2_krakow_c8785af1",
-      "title": "Eska 2 Krakow",
-      "subtitle": "Radio",
-      "imageUrl": "https://player2.eska.pl/media/dwa.eska/desktop/images/ESKA2-stroke.svg",
-      "streamUrl": "https://radio.stream.smcdn.pl/timeradio-p/1070-1.aac/playlist.m3u8",
-      "location": "Poland",
-      "genre": "Radio",
-      "countryCode": "PL",
-      "language": "polish",
-      "clickCount": 4,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_eska_2_stalowa_wola_f5d9a099",
       "title": "Eska 2 Stalowa Wola",
       "subtitle": "Radio",
@@ -22074,19 +22061,6 @@
       "imageUrl": "",
       "streamUrl": "https://radio.stream.smcdn.pl/timeradio-p/2050-2.aac/playlist.m3u8",
       "location": "Poland",
-      "genre": "Radio",
-      "countryCode": "PL",
-      "language": "polish",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_eska_leszno_b0e6ff02",
-      "title": "Eska Leszno",
-      "subtitle": "Radio",
-      "imageUrl": "https://www.eska.pl/favicon.ico",
-      "streamUrl": "https://radio.stream.smcdn.pl/icradio-p/2080-1.aac/playlist.m3u8",
-      "location": "Leszno, Poland",
       "genre": "Radio",
       "countryCode": "PL",
       "language": "polish",
@@ -27071,6 +27045,102 @@
       "clickCount": 3,
       "bitrate": 192,
       "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_WORLD_RADIO_NL.mp3"
+    },
+    {
+      "id": "radio_ciccio_riccio_it_d00ba74b",
+      "title": "Radio Ciccio Riccio",
+      "subtitle": "Varied",
+      "location": "Italy",
+      "genre": "Varied",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 8,
+      "bitrate": 0,
+      "streamUrl": "https://stream5.xdevel.com/audio0s975942-758/stream/icecast.audio"
+    },
+    {
+      "id": "radio_romantica_it_6c81375c",
+      "title": "Radio Romantica",
+      "subtitle": "Radio",
+      "location": "Italy",
+      "genre": "Radio",
+      "countryCode": "IT",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 96,
+      "streamUrl": "https://stream.radioromantica.net/"
+    },
+    {
+      "id": "radio_laziale_it_805f35fd",
+      "title": "Radio Laziale",
+      "subtitle": "Calcio",
+      "location": "Italy",
+      "genre": "Calcio",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 6,
+      "bitrate": 4813,
+      "streamUrl": "https://router.xdevel.com/video5s975363-2398/stream/playlist.m3u8"
+    },
+    {
+      "id": "star_radio_boemi_skopje_macedonia_mk_f72f20ec",
+      "title": "Star Radio (Boemi) Skopje, Macedonia",
+      "subtitle": "Exyu",
+      "location": "Republic Of North Macedonia",
+      "genre": "Exyu",
+      "countryCode": "MK",
+      "language": "macedonian",
+      "clickCount": 4,
+      "bitrate": 320,
+      "streamUrl": "https://radiostar.pro/stream/boemi.php"
+    },
+    {
+      "id": "radio_ciroma_it_0961eedb",
+      "title": "Radio Ciroma",
+      "subtitle": "Radio",
+      "location": "Italy",
+      "genre": "Radio",
+      "countryCode": "IT",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 192,
+      "streamUrl": "https://s.streampunk.cc/ciroma.mp3"
+    },
+    {
+      "id": "campus_103_7_mt_7146a6c4",
+      "title": "Campus 103.7",
+      "subtitle": "Radio",
+      "location": "Malta",
+      "genre": "Radio",
+      "countryCode": "MT",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 192,
+      "streamUrl": "https://campusfm.radioca.st/campusfm_live"
+    },
+    {
+      "id": "creatorplaza_radio_nl_517d0d87",
+      "title": "CreatorPlaza Radio",
+      "subtitle": "Country Music",
+      "location": "The Netherlands",
+      "genre": "Country Music",
+      "countryCode": "NL",
+      "language": "dutch",
+      "clickCount": 3,
+      "bitrate": 192,
+      "streamUrl": "https://stream.creatorplaza.nl/main/"
+    },
+    {
+      "id": "concertzender_jazz_nl_d244c41d",
+      "title": "Concertzender Jazz",
+      "subtitle": "Jazz",
+      "location": "The Netherlands",
+      "genre": "Jazz",
+      "countryCode": "NL",
+      "language": "dutch",
+      "clickCount": 3,
+      "bitrate": 256,
+      "streamUrl": "http://streams.greenhost.nl:8080/jazz"
     }
   ]
 }

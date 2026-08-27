@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-26T01:12:34Z",
+  "updated": "2026-08-27T07:16:18Z",
   "region": "europe",
   "part": 1,
   "of": 8,
@@ -5793,19 +5793,6 @@
       "genre": "Ambient",
       "streamUrl": "http://spaceodyssey-mynoise.radioca.st/stream",
       "countryCode": "BE"
-    },
-    {
-      "id": "rb2_mynoise_zen_garden_685b47ed",
-      "title": "MyNoise Zen Garden",
-      "subtitle": "Ambient, Ambient And Relaxation Music",
-      "imageUrl": "https://mynoise.net/apple-touch-icon.png",
-      "streamUrl": "http://zengarden.radio.mynoise.net/",
-      "location": "Belgium",
-      "genre": "Ambient",
-      "countryCode": "BE",
-      "language": "english",
-      "clickCount": 2,
-      "bitrate": 160
     },
     {
       "id": "rb2_m_lodie_fm_96348f50",
@@ -27984,6 +27971,42 @@
       "clickCount": 2,
       "bitrate": 128,
       "streamUrl": "https://webtvstream.bhtelecom.ba/radio_ba.m3u8"
+    },
+    {
+      "id": "94_3_rs2_de_9579f3fc",
+      "title": "94.3 rs2",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": "deutsch fränkisch",
+      "clickCount": 13,
+      "bitrate": 128,
+      "streamUrl": "https://stream.rs2.de/rs2/mp3-128/playlist"
+    },
+    {
+      "id": "callshop_radio_wien_at_474789e2",
+      "title": "Callshop Radio Wien",
+      "subtitle": "Ambient",
+      "location": "Austria",
+      "genre": "Ambient",
+      "countryCode": "AT",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://icecast.callshopradio.com/callshopradio-wien"
+    },
+    {
+      "id": "radio_slobodna_evropa_cz_86dac762",
+      "title": "Radio Slobodna Evropa",
+      "subtitle": "Radio",
+      "location": "Czechia",
+      "genre": "Radio",
+      "countryCode": "CZ",
+      "language": "bosnian",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://n08.radiojar.com/bugesa4nn3quv?rj-ttl=5&rj-tok=AAABikFH4NsAib8tua7OjeefLg"
     }
   ]
 }

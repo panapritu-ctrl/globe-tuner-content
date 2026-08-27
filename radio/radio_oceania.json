@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-26T01:12:03Z",
+  "updated": "2026-08-27T07:16:18Z",
   "region": "oceania",
   "stations": [
     {
@@ -2425,19 +2425,6 @@
       "countryCode": "AU",
       "language": "english",
       "clickCount": 4,
-      "bitrate": 94
-    },
-    {
-      "id": "rb2_abc_801khz_am_cairns_qld_far_north_queen_9eb607d7",
-      "title": "ABC 801kHz AM Cairns QLD Far North Queensland Local Radio 20220701",
-      "subtitle": "Community, Contemporary",
-      "imageUrl": "https://www.abc.net.au/favicon.ico",
-      "streamUrl": "https://mediaserviceslive.akamaized.net/hls/live/2038337/localcairns/masterhq.m3u8",
-      "location": "Cairns Queensland, Australia",
-      "genre": "Community",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
       "bitrate": 94
     },
     {
@@ -11226,19 +11213,6 @@
       "bitrate": 65
     },
     {
-      "id": "rb2_listnr_easy_office_vibes_hls_240b8ced",
-      "title": "LiSTNR - Easy Office Vibes (HLS)",
-      "subtitle": "Chill, Upbeat",
-      "imageUrl": "https://i.ibb.co/b5RsN23d/Li-STNR-Square-Tile-3000x3000-EASY-OFFICE-VIBES.jpg",
-      "streamUrl": "http://wz0liw.scahw.com.au/live/easy-office-vibes.stream/playlist.m3u8",
-      "location": "Australia",
-      "genre": "Chill",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 2,
-      "bitrate": 63
-    },
-    {
       "id": "rb2_listnr_essential_emo_hls_676ab1ac",
       "title": "LiSTNR - Essential Emo (HLS)",
       "subtitle": "Anthems",
@@ -11302,19 +11276,6 @@
       "language": "english",
       "clickCount": 1,
       "bitrate": 130
-    },
-    {
-      "id": "rb2_listnr_focus_hls_d19c8a99",
-      "title": "LiSTNR - Focus (HLS)",
-      "subtitle": "Ambient, Focus",
-      "imageUrl": "https://i.ibb.co/0jsKSkbh/Li-STNR-Square-Tile-3000x3000-FOCUS.jpg",
-      "streamUrl": "http://wz0liw.scahw.com.au/live/focus.stream/playlist.m3u8",
-      "location": "Australia",
-      "genre": "Ambient",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 2,
-      "bitrate": 64
     },
     {
       "id": "rb2_listnr_fresh_folk_hits_fb17dbf4",
@@ -11636,19 +11597,6 @@
       "language": "english",
       "clickCount": 2,
       "bitrate": 64
-    },
-    {
-      "id": "rb2_listnr_party_f922c783",
-      "title": "LiSTNR - Party",
-      "subtitle": "Dance, Electronic",
-      "imageUrl": "https://i.ibb.co/MBTkJ1P/Party-square.jpg",
-      "streamUrl": "https://wz0liw.scahw.com.au/live/party_128.stream/playlist.m3u8",
-      "location": "Australia",
-      "genre": "Dance",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 2,
-      "bitrate": 65
     },
     {
       "id": "rb2_listnr_party_hls_64ff492e",
@@ -19322,6 +19270,54 @@
       "clickCount": 3,
       "bitrate": 128,
       "streamUrl": "https://streamer.dailypost.vu/live"
+    },
+    {
+      "id": "tfc_guam_gu_566aedae",
+      "title": "TFC Guam",
+      "subtitle": "Filipino",
+      "location": "Guam",
+      "genre": "Filipino",
+      "countryCode": "GU",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 1872,
+      "streamUrl": "https://tfcguam-abscbn-ono.amagi.tv/index.m3u8"
+    },
+    {
+      "id": "raglan_communtiy_radio_nz_3bfbc6ca",
+      "title": "Raglan Communtiy Radio",
+      "subtitle": "Radio",
+      "location": "New Zealand",
+      "genre": "Radio",
+      "countryCode": "NZ",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://s36.myradiostream.com/20712/;?type=http&nocache=1738237956"
+    },
+    {
+      "id": "gaia_fm_new_zealand_nz_9ca88409",
+      "title": "Gaia FM (New Zealand)",
+      "subtitle": "Celtic",
+      "location": "New Zealand",
+      "genre": "Celtic",
+      "countryCode": "NZ",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://s2.stationplaylist.com:9000/gaiafm.aac"
+    },
+    {
+      "id": "radio_samoa_1593am_nz_e2853b0b",
+      "title": "Radio Samoa 1593am",
+      "subtitle": "Community",
+      "location": "New Zealand",
+      "genre": "Community",
+      "countryCode": "NZ",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "http://radiosamoa.stream.broadcast.co.nz:8000/rsamoa48k"
     }
   ]
 }
