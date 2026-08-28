@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-27T07:15:50Z",
+  "updated": "2026-08-28T09:05:27Z",
   "region": "europe",
   "part": 3,
   "of": 8,
@@ -27173,6 +27173,30 @@
       "clickCount": 5,
       "bitrate": 0,
       "streamUrl": "https://icecast.live.yle.fi/radio/YleJoensuu/icecast.audio"
+    },
+    {
+      "id": "radiose_fi_fi_563a56a1",
+      "title": "RadioSE.fi",
+      "subtitle": "Radio",
+      "location": "Finland",
+      "genre": "Radio",
+      "countryCode": "FI",
+      "language": "finnish",
+      "clickCount": 3,
+      "bitrate": 96,
+      "streamUrl": "https://wr2.downtime.fi/kaakko.aac"
+    },
+    {
+      "id": "radio_tuottaja1_fi_24c3ad3a",
+      "title": "Radio Tuottaja1",
+      "subtitle": "Music",
+      "location": "Finland",
+      "genre": "Music",
+      "countryCode": "FI",
+      "language": "finnish",
+      "clickCount": 2,
+      "bitrate": 192,
+      "streamUrl": "https://kaupunkiradio.radiotaajuus.fi:9013/radio"
     }
   ]
 }

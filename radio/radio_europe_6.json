@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-27T07:16:18Z",
+  "updated": "2026-08-28T09:05:27Z",
   "region": "europe",
   "part": 6,
   "of": 8,
@@ -6809,19 +6809,6 @@
       "countryCode": "LT",
       "language": "english",
       "clickCount": 2,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_patejago_50f5be05",
-      "title": "Patejago",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://stream-46.zeno.fm/f6m1zbud5p8uv",
-      "location": "Lithuania",
-      "genre": "Radio",
-      "countryCode": "LT",
-      "language": null,
-      "clickCount": 0,
       "bitrate": 128
     },
     {
@@ -27141,6 +27128,126 @@
       "clickCount": 3,
       "bitrate": 256,
       "streamUrl": "http://streams.greenhost.nl:8080/jazz"
+    },
+    {
+      "id": "virgin_radio_rock_80_it_1eb37848",
+      "title": "Virgin Radio Rock ’80",
+      "subtitle": "80S Rock",
+      "location": "Italy",
+      "genre": "80S Rock",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://icy.unitedradio.it/VirginRock80.mp3"
+    },
+    {
+      "id": "virgin_radio_rock_70_it_b9867ff6",
+      "title": "Virgin Radio Rock ’70",
+      "subtitle": "70S",
+      "location": "Italy",
+      "genre": "70S",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://icy.unitedradio.it/VirginRock70.mp3"
+    },
+    {
+      "id": "virgin_radio_rock_90_it_c76250a7",
+      "title": "Virgin Radio Rock ’90",
+      "subtitle": "1990S",
+      "location": "Italy",
+      "genre": "1990S",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://icy.unitedradio.it/Virgin_03.mp3"
+    },
+    {
+      "id": "radio_moldova_muzical_md_c223663b",
+      "title": "Radio Moldova Muzical",
+      "subtitle": "Folk",
+      "location": "The Republic Of Moldova",
+      "genre": "Folk",
+      "countryCode": "MD",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 256,
+      "streamUrl": "http://radiolive.trm.md:8000/RM-muzical-256"
+    },
+    {
+      "id": "fantasy_radio_italo_disco_nl_b0d8befc",
+      "title": "Fantasy Radio - Italo Disco",
+      "subtitle": "80S",
+      "location": "The Netherlands",
+      "genre": "80S",
+      "countryCode": "NL",
+      "language": "dutch",
+      "clickCount": 4,
+      "bitrate": 256,
+      "streamUrl": "https://italo.live-streams.nl/fantasy"
+    },
+    {
+      "id": "1zwolle_radio_nl_64491055",
+      "title": "1Zwolle Radio",
+      "subtitle": "Radio",
+      "location": "The Netherlands",
+      "genre": "Radio",
+      "countryCode": "NL",
+      "language": "dutch",
+      "clickCount": 4,
+      "bitrate": 320,
+      "streamUrl": "https://radio.1zwolle.nl/1zwolle"
+    },
+    {
+      "id": "pinguin_groove_nl_1476d1a2",
+      "title": "Pinguin Groove",
+      "subtitle": "Radio",
+      "location": "The Netherlands",
+      "genre": "Radio",
+      "countryCode": "NL",
+      "language": "dutch",
+      "clickCount": 3,
+      "bitrate": 192,
+      "streamUrl": "https://samcloud.spacial.com/api/listen?sid=98587&m=sc&rid=174412"
+    },
+    {
+      "id": "sh_radio_nl_8305666f",
+      "title": "SH Radio",
+      "subtitle": "Radio",
+      "location": "The Netherlands",
+      "genre": "Radio",
+      "countryCode": "NL",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 96,
+      "streamUrl": "https://cc6.beheerstream.com/proxy/shradio?mp=/stream;listen.pls"
+    },
+    {
+      "id": "kink_dna_nl_33eef4cf",
+      "title": "KINK DNA",
+      "subtitle": "Alternative Classics",
+      "location": "The Netherlands",
+      "genre": "Alternative Classics",
+      "countryCode": "NL",
+      "language": "dutch",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "http://25223.live.streamtheworld.com:3690/KINK_DNAAAC_SC"
+    },
+    {
+      "id": "studiomusicstation_nl_da27be54",
+      "title": "StudioMusicStation",
+      "subtitle": "Radio",
+      "location": "The Netherlands",
+      "genre": "Radio",
+      "countryCode": "NL",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 320,
+      "streamUrl": "https://stream.studiomusicstation.nl/radio/8010/radio.mp3?hash=1778049395270"
     }
   ]
 }

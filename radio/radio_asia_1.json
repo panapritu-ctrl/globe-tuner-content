@@ -1,19 +1,10 @@
 {
   "version": 3,
-  "updated": "2026-08-27T07:16:18Z",
+  "updated": "2026-08-28T09:05:27Z",
   "region": "asia",
   "part": 1,
   "of": 3,
   "stations": [
-    {
-      "id": "1580_empress_radio_ae",
-      "title": "1580 Empress Radio",
-      "subtitle": "MP3 128kbps",
-      "location": "Halva, The United Arab Emirates",
-      "genre": "Music",
-      "countryCode": "AE",
-      "streamUrl": "https://my2.radiolize.com/radio/8060/radio.mp3"
-    },
     {
       "id": "rb2_adrian_boult_classical_radio_c7097c93",
       "title": "Adrian Boult - Classical Radio",
@@ -15648,19 +15639,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_fm_246f65be",
-      "title": "听梦想FM",
-      "subtitle": "Internet Radio, Music",
-      "imageUrl": "https://pic.qtfm.cn/2022/0824/20220824093601.png",
-      "streamUrl": "https://lhttp-hw.qtfm.cn/live/4917/64k.mp3",
-      "location": "Yunnan, China",
-      "genre": "Internet Radio",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_station_e9cdb8b4",
       "title": "吴江综合广播",
       "subtitle": "Music, News",
@@ -26584,18 +26562,6 @@
       "streamUrl": "http://drive.uber.radio/uber/crvladamirhorowitz/icecast.audio"
     },
     {
-      "id": "jeff_af_0d931bc4",
-      "title": "jeff",
-      "subtitle": "Classical",
-      "location": "Afghanistan",
-      "genre": "Classical",
-      "countryCode": "AF",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 874,
-      "streamUrl": "http://web.archive.org/web/20201128202306if_/https://live-cdn.pbskids.org/out/u/est.m3u8"
-    },
-    {
       "id": "radio_foorti_bd_59b2035c",
       "title": "Radio Foorti",
       "subtitle": "Pop",
@@ -26750,6 +26716,90 @@
       "clickCount": 2,
       "bitrate": 0,
       "streamUrl": "https://regiocast.streamabc.net/regc-80s80smweb2517500-mp3-192-1672667?sABC=653op5q6%230%235p58nn084q38sp434n9907261qno32q0%23gharva&aw_0_1st.playerid=tunein&amsparams=playerid:tunein;skey:1698416086"
+    },
+    {
+      "id": "station_cn_2b74eecf",
+      "title": "潮州戏曲广播",
+      "subtitle": "Opera",
+      "location": "China",
+      "genre": "Opera",
+      "countryCode": "CN",
+      "language": "chaoshan dialect",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "http://ls.qingting.fm/live/4595.m3u8"
+    },
+    {
+      "id": "big_big_mix_cn_143baf65",
+      "title": "BIG BIG MIX – 乐享音乐 标清",
+      "subtitle": "Music",
+      "location": "China",
+      "genre": "Music",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://lhttp-hw.qtfm.cn/live/4913/64k.mp3"
+    },
+    {
+      "id": "tinder_radio_hollywood_broadway_musicals_ae_71a95e0c",
+      "title": "Tinder Radio - Hollywood & Broadway Musicals",
+      "subtitle": "Broadway",
+      "location": "The United Arab Emirates",
+      "genre": "Broadway",
+      "countryCode": "AE",
+      "language": "english",
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "https://streaming.exclusive.radio/er/hollywoodandbroadway/icecast.audio"
+    },
+    {
+      "id": "c_r_placido_domingo_ae_5dbcdad5",
+      "title": "C.R. - Placido Domingo",
+      "subtitle": "Classical",
+      "location": "The United Arab Emirates",
+      "genre": "Classical",
+      "countryCode": "AE",
+      "language": "english",
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "http://drive.uber.radio/uber/crplacidodomingo/icecast.audio"
+    },
+    {
+      "id": "station_cn_945b760e",
+      "title": "遂溪台",
+      "subtitle": "Music",
+      "location": "China",
+      "genre": "Music",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 2,
+      "bitrate": 0,
+      "streamUrl": "https://lhttp-hw.qtfm.cn/live/1284/64k.mp3"
+    },
+    {
+      "id": "fm101_5_cn_d104b653",
+      "title": "东源电台 FM101.5",
+      "subtitle": "5G智慧电台",
+      "location": "China",
+      "genre": "5G智慧电台",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 2,
+      "bitrate": 0,
+      "streamUrl": "https://lhttp-hw.qtfm.cn/live/20500124/64k.mp3"
+    },
+    {
+      "id": "station_cn_48ba3eae",
+      "title": "汕头综合广播",
+      "subtitle": "Radio",
+      "location": "China",
+      "genre": "Radio",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 2,
+      "bitrate": 0,
+      "streamUrl": "https://stream.zeno.fm/fjsl1teq6vjuv"
     }
   ]
 }

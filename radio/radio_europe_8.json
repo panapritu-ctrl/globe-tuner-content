@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-27T07:16:18Z",
+  "updated": "2026-08-28T09:05:27Z",
   "region": "europe",
   "part": 8,
   "of": 8,
@@ -13720,19 +13720,6 @@
       "bitrate": 392
     },
     {
-      "id": "rb2_102_2_fm_f86cdc37",
-      "title": "Радио России ГТРК Карелия 102.2 FM",
-      "subtitle": "News",
-      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240624_084130129.jpg?alt=media&token=10b07ed7-5466-4aaf-a03f-d11e208cdfcd",
-      "streamUrl": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/petrozavodsk/radio_russia/index.m3u8",
-      "location": "The Russian Federation",
-      "genre": "News",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 0,
-      "bitrate": 392
-    },
-    {
       "id": "rb2_91_6_fm_31758931",
       "title": "Радио России ГТРК Коми 91.6 FM",
       "subtitle": "News, Talk",
@@ -13926,19 +13913,6 @@
       "language": "rus",
       "clickCount": 0,
       "bitrate": 64
-    },
-    {
-      "id": "rb2_88_3_fm_789a4a6a",
-      "title": "Радио России Сочи 88.3 FM",
-      "subtitle": "News, Talk",
-      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240730_184018013.jpg?alt=media&token=8d90d606-9052-4529-b5bd-dece6928d107",
-      "streamUrl": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/sochi/radio_russia/index.m3u8",
-      "location": "The Russian Federation",
-      "genre": "News",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 0,
-      "bitrate": 392
     },
     {
       "id": "rb2_station_31cc2100",
@@ -20729,19 +20703,6 @@
       "bitrate": 64
     },
     {
-      "id": "rb2_r_dio_topo_any_70680e8d",
-      "title": "Rádio TOPOĽČANY",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://80.242.44.249:8000/;",
-      "location": "Slovakia, Slovakia",
-      "genre": "Radio",
-      "countryCode": "SK",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 320
-    },
-    {
       "id": "r_dio_vlna_sk_96121a",
       "title": "Rádio Vlna",
       "subtitle": "Oldies",
@@ -24515,18 +24476,6 @@
       "streamUrl": "https://deephousex.ru/live"
     },
     {
-      "id": "anima_amoris_idm_ru_d5d3d725",
-      "title": "Anima Amoris IDM",
-      "subtitle": "Radio",
-      "location": "The Russian Federation",
-      "genre": "Radio",
-      "countryCode": "RU",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 0,
-      "streamUrl": "https://amoris.sknt.ru/idm.mp3"
-    },
-    {
       "id": "happy_hits_ua_641ccbe0",
       "title": "Радіо Київстар Happy Hits",
       "subtitle": "256 Kbit/S",
@@ -24753,6 +24702,114 @@
       "clickCount": 3,
       "bitrate": 128,
       "streamUrl": "https://lux.radio.tvstitch.com/kyiv/max_adv_sd"
+    },
+    {
+      "id": "trancemission_ru_7cc0cbec",
+      "title": "Радио Рекорд Trancemission",
+      "subtitle": "Radio",
+      "location": "The Russian Federation",
+      "genre": "Radio",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "http://radiorecord.hostingradio.ru/tm96.aacp"
+    },
+    {
+      "id": "discothec_80_90_ru_2690d9f5",
+      "title": "Discothec 80-90",
+      "subtitle": "Eurodance",
+      "location": "The Russian Federation",
+      "genre": "Eurodance",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://listen4.myradio24.com/dance80"
+    },
+    {
+      "id": "radio_record_remix_ru_104593b9",
+      "title": "Radio Record - Remix",
+      "subtitle": "Dj Remix",
+      "location": "The Russian Federation",
+      "genre": "Dj Remix",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://radiorecord.hostingradio.ru/rmx96.aacp"
+    },
+    {
+      "id": "radiolista_escape_se_1d4c15ab",
+      "title": "Radiolista - Escape",
+      "subtitle": "Ambient",
+      "location": "Sweden",
+      "genre": "Ambient",
+      "countryCode": "SE",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://icy.aweradio.app/radiolista/escape"
+    },
+    {
+      "id": "radio_94_3_se_007e3132",
+      "title": "Radio 94,3",
+      "subtitle": "Country",
+      "location": "Sweden",
+      "genre": "Country",
+      "countryCode": "SE",
+      "language": "swedish",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://stream.radio943.se/stream"
+    },
+    {
+      "id": "regina_v_chod_sk_439e2fb1",
+      "title": "Regina Východ",
+      "subtitle": "Radio",
+      "location": "Slovakia",
+      "genre": "Radio",
+      "countryCode": "SK",
+      "language": "slovak",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://icecast.stv.livebox.sk/regina-ke_128.mp3"
+    },
+    {
+      "id": "tv_lux_audio_sk_858190df",
+      "title": "TV Lux (audio)",
+      "subtitle": "Radio",
+      "location": "Slovakia",
+      "genre": "Radio",
+      "countryCode": "SK",
+      "language": "slovak",
+      "clickCount": 4,
+      "bitrate": 96,
+      "streamUrl": "https://stream.tvlux.sk/lux/lux.stream_aac/playlist.m3u8"
+    },
+    {
+      "id": "all_watching_eye_focus_se_b4fef4a8",
+      "title": "All Watching Eye - Focus",
+      "subtitle": "Ambient",
+      "location": "Sweden",
+      "genre": "Ambient",
+      "countryCode": "SE",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "http://icy.aweradio.app/listen/focus"
+    },
+    {
+      "id": "radiolista_noir_se_253d1437",
+      "title": "Radiolista - Noir",
+      "subtitle": "Cinematic",
+      "location": "Sweden",
+      "genre": "Cinematic",
+      "countryCode": "SE",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "http://icy.aweradio.app/radiolista/noir"
     }
   ]
 }

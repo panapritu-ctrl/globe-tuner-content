@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-27T07:16:18Z",
+  "updated": "2026-08-28T09:05:27Z",
   "region": "oceania",
   "stations": [
     {
@@ -11343,19 +11343,6 @@
       "bitrate": 130
     },
     {
-      "id": "rb2_listnr_grace_glory_hls_5b780c88",
-      "title": "LiSTNR - Grace & Glory (HLS)",
-      "subtitle": "Christian, Worship",
-      "imageUrl": "https://i.ibb.co/DPc6YxX3/Li-STNR-Square-Tile-3000x3000-GRACE-AND-GLORY.jpg",
-      "streamUrl": "http://wz0liw.scahw.com.au/live/grace-n-glory.stream/playlist.m3u8",
-      "location": "Australia",
-      "genre": "Christian",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 1,
-      "bitrate": 64
-    },
-    {
       "id": "rb2_listnr_guilty_pleasures_hls_f97b7ec0",
       "title": "LiSTNR - Guilty Pleasures (HLS)",
       "subtitle": "Music",
@@ -11645,19 +11632,6 @@
       "streamUrl": "http://sa47.scastream.com.au/live/pride.stream/playlist.m3u8",
       "location": "Australia",
       "genre": "Lgbt",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 1,
-      "bitrate": 63
-    },
-    {
-      "id": "rb2_listnr_pump_up_hls_f0f0a9e0",
-      "title": "LiSTNR - Pump Up (HLS)",
-      "subtitle": "Energy, Pump Up",
-      "imageUrl": "https://i.ibb.co/QRfCthX/Li-STNR-Square-Tile-3000x3000-PUMP-UP.jpg",
-      "streamUrl": "http://wz0liw.scahw.com.au/live/pump-up.stream/playlist.m3u8",
-      "location": "Australia",
-      "genre": "Energy",
       "countryCode": "AU",
       "language": "english",
       "clickCount": 1,
@@ -19200,18 +19174,6 @@
       "streamUrl": "https://streamer5.rightclickitservices.com:19790/stream"
     },
     {
-      "id": "fox_news_as_b1da3236",
-      "title": "Fox news",
-      "subtitle": "Radio",
-      "location": "American Samoa",
-      "genre": "Radio",
-      "countryCode": "AS",
-      "language": null,
-      "clickCount": 5,
-      "bitrate": 311,
-      "streamUrl": "https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8"
-    },
-    {
       "id": "radio_panjabi_nz_d06f826f",
       "title": "RADIO PANJABI",
       "subtitle": "Folk",
@@ -19318,6 +19280,18 @@
       "clickCount": 3,
       "bitrate": 128,
       "streamUrl": "http://radiosamoa.stream.broadcast.co.nz:8000/rsamoa48k"
+    },
+    {
+      "id": "offshore_radio_mh_60df7a5d",
+      "title": "Offshore Radio",
+      "subtitle": "Alternative Rock",
+      "location": "The Marshall Islands",
+      "genre": "Alternative Rock",
+      "countryCode": "MH",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://live.offshoreradio.net/listen/offshore_radio/radio.mp3"
     }
   ]
 }

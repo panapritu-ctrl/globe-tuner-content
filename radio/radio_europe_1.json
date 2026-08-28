@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-27T07:16:18Z",
+  "updated": "2026-08-28T09:05:27Z",
   "region": "europe",
   "part": 1,
   "of": 8,
@@ -17960,19 +17960,6 @@
       "bitrate": 192
     },
     {
-      "id": "rb2_r_dio_xaver_f5b421b3",
-      "title": "Rádio Xaver",
-      "subtitle": "Talk Show",
-      "imageUrl": "https://radioxaver.cz/assets/img/Xradio-logo-x.svg",
-      "streamUrl": "https://icecast6.play.cz/radio-xaver.aac",
-      "location": "Prague, Czechia",
-      "genre": "Talk Show",
-      "countryCode": "CZ",
-      "language": "czech",
-      "clickCount": 3,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_r_dio_folk_czech_00a169e2",
       "title": "Rádio folk Czech",
       "subtitle": "Folk",
@@ -23894,19 +23881,6 @@
       "bitrate": 192
     },
     {
-      "id": "rb2_arabella_80s_d80822b0",
-      "title": "Arabella 80s",
-      "subtitle": "Radio",
-      "imageUrl": "https://www.radioarabella.de/storage/thumbs/192x192/r:1658501906/788381.png",
-      "streamUrl": "http://80er.radioarabella.de/arabella-80er.mp3?ref=radioarabella.de",
-      "location": "Bavaria, Germany",
-      "genre": "Radio",
-      "countryCode": "DE",
-      "language": "german",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_arabella_classic_rock_276af9c4",
       "title": "Arabella Classic Rock",
       "subtitle": "Pop, Rock",
@@ -26893,18 +26867,6 @@
       "streamUrl": "https://absolut-bella.live-sm.absolutradio.de/absolut-bella/stream/mp3"
     },
     {
-      "id": "radio_lora_97_5_ch_07d3476e",
-      "title": "Radio LoRa 97.5",
-      "subtitle": "Community Radio",
-      "location": "Switzerland",
-      "genre": "Community Radio",
-      "countryCode": "CH",
-      "language": "german",
-      "clickCount": 7,
-      "bitrate": 0,
-      "streamUrl": "https://livestream.lora.ch/lora.mp3"
-    },
-    {
       "id": "soundportal_at_85dba296",
       "title": "Soundportal",
       "subtitle": "Radio",
@@ -28007,6 +27969,66 @@
       "clickCount": 3,
       "bitrate": 0,
       "streamUrl": "https://n08.radiojar.com/bugesa4nn3quv?rj-ttl=5&rj-tok=AAABikFH4NsAib8tua7OjeefLg"
+    },
+    {
+      "id": "rpr1_kaiserslautern_de_7347096e",
+      "title": "RPR1. Kaiserslautern",
+      "subtitle": "80Er",
+      "location": "Germany",
+      "genre": "80Er",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 16,
+      "bitrate": 0,
+      "streamUrl": "https://stream.rpr1.de/kaiserslautern/mp3-128/radiobrowser"
+    },
+    {
+      "id": "hardcoreradio_cz_cz_5ec2d045",
+      "title": "HARDCORERADIO.CZ",
+      "subtitle": "Frenchcore",
+      "location": "Czechia",
+      "genre": "Frenchcore",
+      "countryCode": "CZ",
+      "language": "czech",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://radio.hardcoreradio.cz/listen/hardcore_radio/radio.mp3"
+    },
+    {
+      "id": "dbfm_radio_at_4fa365b2",
+      "title": "dbFM Radio",
+      "subtitle": "Radio",
+      "location": "Austria",
+      "genre": "Radio",
+      "countryCode": "AT",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 64,
+      "streamUrl": "https://stream.dbfmradio.org:8030/stream"
+    },
+    {
+      "id": "radio_ruse_bg_95735303",
+      "title": "Radio Ruse",
+      "subtitle": "Local Radio",
+      "location": "Bulgaria",
+      "genre": "Local Radio",
+      "countryCode": "BG",
+      "language": "bulgarian",
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "https://radio.ruse.bg:8010/radioruse"
+    },
+    {
+      "id": "energy_100_5_fm_bg_f7da4a7f",
+      "title": "Радио Energy Болгария Русе 100.5 FM",
+      "subtitle": "Pop",
+      "location": "Bulgaria",
+      "genre": "Pop",
+      "countryCode": "BG",
+      "language": "bulgarian",
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "https://29103.live.streamtheworld.com/RADIO_ENERGYAAC_H.aac"
     }
   ]
 }

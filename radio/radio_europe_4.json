@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-27T07:16:18Z",
+  "updated": "2026-08-28T09:05:27Z",
   "region": "europe",
   "part": 4,
   "of": 8,
@@ -13416,19 +13416,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_radio_europulse_791aa80b",
-      "title": "Radio Europulse",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://app.aloncast.com/api/stream/radio-europulse-fb29b6",
-      "location": "The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "Radio",
-      "countryCode": "GB",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_radio_faza_3101bfd5",
       "title": "Radio Faza",
       "subtitle": "Radio",
@@ -15050,19 +15037,6 @@
       "genre": "Dnb",
       "countryCode": "GB",
       "streamUrl": "https://admin.stream.rinse.fm/proxy/swu/stream"
-    },
-    {
-      "id": "rb2_synk_radio_a6fef067",
-      "title": "SYNK Radio",
-      "subtitle": "Radio",
-      "imageUrl": "https://synkradio.co.uk/images/synk-logo.png",
-      "streamUrl": "https://relay.synkradio.co.uk/synk.mp3?t=1782388357811",
-      "location": "The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "Radio",
-      "countryCode": "GB",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 192
     },
     {
       "id": "rb2_sabotage_fa951073",
@@ -22760,19 +22734,6 @@
       "bitrate": 320
     },
     {
-      "id": "rb2_fireage_web_radio_00a6e6da",
-      "title": "Fireage Web Radio",
-      "subtitle": "Radio",
-      "imageUrl": "https://fireage.servegame.com/webradio5/index.php?art=0",
-      "streamUrl": "https://fireage.servegame.com/webradio5/",
-      "location": "Greece",
-      "genre": "Radio",
-      "countryCode": "GR",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 320
-    },
-    {
       "id": "rb2_fishbone_ca71d20c",
       "title": "Fishbone",
       "subtitle": "Hiphop, R & B",
@@ -27312,6 +27273,66 @@
       "clickCount": 3,
       "bitrate": 0,
       "streamUrl": "https://n12.radiojar.com/0zs50dbr274tv?rj-ttl=5&rj-tok=AAABhP2aZowAREeJDqq73dSjNA"
+    },
+    {
+      "id": "greca_gr_2a5a9ef1",
+      "title": "Greca Έντεχνο",
+      "subtitle": "Greek Music",
+      "location": "Greece",
+      "genre": "Greek Music",
+      "countryCode": "GR",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 320,
+      "streamUrl": "https://one.cloudstreaming.eu/proxy/entexno/stream"
+    },
+    {
+      "id": "greca_gr_63a011e6",
+      "title": "Greca Γλέντι",
+      "subtitle": "Greek Traditional",
+      "location": "Greece",
+      "genre": "Greek Traditional",
+      "countryCode": "GR",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 320,
+      "streamUrl": "https://one.cloudstreaming.eu/proxy/glenti/stream"
+    },
+    {
+      "id": "radio_apopsi_gr_776d9362",
+      "title": "Radio Apopsi",
+      "subtitle": "Radio",
+      "location": "Greece",
+      "genre": "Radio",
+      "countryCode": "GR",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "http://link.radiojar.com/radio-apopsi"
+    },
+    {
+      "id": "station_gr_9f0ca2df",
+      "title": "Ορθοδοξία Μυτηλιναίος",
+      "subtitle": "Ομιλίες",
+      "location": "Greece",
+      "genre": "Ομιλίες",
+      "countryCode": "GR",
+      "language": "greek",
+      "clickCount": 2,
+      "bitrate": 32,
+      "streamUrl": "https://rasp35.ddnsfree.com:3535/mtlns"
+    },
+    {
+      "id": "derti_web_radio_gr_b5d2a4b7",
+      "title": "derti web radio",
+      "subtitle": "Radio",
+      "location": "Greece",
+      "genre": "Radio",
+      "countryCode": "GR",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "https://sh.onweb.gr:9050/;"
     }
   ]
 }

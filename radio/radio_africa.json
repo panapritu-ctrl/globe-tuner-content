@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-27T07:16:18Z",
+  "updated": "2026-08-28T09:05:27Z",
   "region": "africa",
   "stations": [
     {
@@ -10170,6 +10170,30 @@
       "clickCount": 2,
       "bitrate": 64,
       "streamUrl": "http://stream1.dimusic.club:11534/rw?type=.aac"
+    },
+    {
+      "id": "radio_svein_cd_a293250e",
+      "title": "Radio Svein",
+      "subtitle": "Radio Comunitaria",
+      "location": "The Democratic Republic Of The Congo",
+      "genre": "Radio Comunitaria",
+      "countryCode": "CD",
+      "language": "french",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://radiosvein2.ice.infomaniak.ch/radiosvein2-64.mp3"
+    },
+    {
+      "id": "joy_hits_channel_ug_090aa0be",
+      "title": "Joy hits channel",
+      "subtitle": "Music",
+      "location": "Uganda",
+      "genre": "Music",
+      "countryCode": "UG",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 320,
+      "streamUrl": "http://joyhits.online/joyhitshq.mp3"
     }
   ]
 }

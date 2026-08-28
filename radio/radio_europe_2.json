@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-27T07:16:18Z",
+  "updated": "2026-08-28T09:05:27Z",
   "region": "europe",
   "part": 2,
   "of": 8,
@@ -23483,19 +23483,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_ccmixes_bcf44680",
-      "title": "CCmixes",
-      "subtitle": "Creative Commons, Dj Mixes",
-      "imageUrl": "",
-      "streamUrl": "https://audio.apps.dj/ccmixes",
-      "location": "Spain",
-      "genre": "Creative Commons",
-      "countryCode": "ES",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_con_letra_may_scula_radio_03efbb78",
       "title": "CON LETRA MAYÚSCULA RADIO",
       "subtitle": "Oldies",
@@ -23507,15 +23494,6 @@
       "language": "español españa",
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "cope_sevilla_es_09f4d4",
-      "title": "COPE + Sevilla",
-      "subtitle": "Local News",
-      "location": "Andalucía, Spain",
-      "genre": "Local News",
-      "countryCode": "ES",
-      "streamUrl": "http://wecast09-h-cloud.flumotion.com/copesedes/sevilla-mas.mp3"
     },
     {
       "id": "cope_cartagena_es_18fa9c",
@@ -28267,6 +28245,102 @@
       "clickCount": 3,
       "bitrate": 324,
       "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4kobenhavn/masterab.m3u8"
+    },
+    {
+      "id": "rpr1_ludwigshafen_de_47d12e58",
+      "title": "RPR1. Ludwigshafen",
+      "subtitle": "80Er",
+      "location": "Germany",
+      "genre": "80Er",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 11,
+      "bitrate": 0,
+      "streamUrl": "https://stream.rpr1.de/ludwigshafen/mp3-128/radiobrowser"
+    },
+    {
+      "id": "dr_p2_aac_dk_0aeeaf1d",
+      "title": "DR P2 (AAC)",
+      "subtitle": "Radio",
+      "location": "Denmark",
+      "genre": "Radio",
+      "countryCode": "DK",
+      "language": "danish",
+      "clickCount": 3,
+      "bitrate": 324,
+      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p2/masterab.m3u8"
+    },
+    {
+      "id": "dr_p4_nordjylland_aac_dk_412ae0ef",
+      "title": "DR P4 Nordjylland (AAC)",
+      "subtitle": "Regional Radio",
+      "location": "Denmark",
+      "genre": "Regional Radio",
+      "countryCode": "DK",
+      "language": "danish",
+      "clickCount": 3,
+      "bitrate": 324,
+      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4nordjylland/masterab.m3u8"
+    },
+    {
+      "id": "ring_fm_ee_f0ad3f5c",
+      "title": "Ring FM",
+      "subtitle": "Pop",
+      "location": "Estonia",
+      "genre": "Pop",
+      "countryCode": "EE",
+      "language": "estonian",
+      "clickCount": 3,
+      "bitrate": 320,
+      "streamUrl": "http://cdn.treraadio.ee/tartustuudio"
+    },
+    {
+      "id": "dr_p4_sj_lland_aac_dk_760081a0",
+      "title": "DR P4 Sjælland (AAC)",
+      "subtitle": "Regional Radio",
+      "location": "Denmark",
+      "genre": "Regional Radio",
+      "countryCode": "DK",
+      "language": "danish",
+      "clickCount": 2,
+      "bitrate": 324,
+      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4sjaelland/masterab.m3u8"
+    },
+    {
+      "id": "dr_p5_syd_dk_706dd702",
+      "title": "DR P5 Syd",
+      "subtitle": "Radio",
+      "location": "Denmark",
+      "genre": "Radio",
+      "countryCode": "DK",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 324,
+      "streamUrl": "https://drliveradio.akamaized.net/hls/live/2022411/p5syd/masterab.m3u8"
+    },
+    {
+      "id": "dr_p5_fyn_dk_e91d23a3",
+      "title": "DR P5 Fyn",
+      "subtitle": "Radio",
+      "location": "Denmark",
+      "genre": "Radio",
+      "countryCode": "DK",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "https://live-icy.dr.dk/A/A02H.mp3"
+    },
+    {
+      "id": "tre_raadio_ring_fm_ee_420a3da3",
+      "title": "Tre Raadio Ring FM",
+      "subtitle": "Community Radio",
+      "location": "Estonia",
+      "genre": "Community Radio",
+      "countryCode": "EE",
+      "language": "estonian",
+      "clickCount": 2,
+      "bitrate": 192,
+      "streamUrl": "https://cdn.treraadio.ee/ringfm"
     }
   ]
 }
