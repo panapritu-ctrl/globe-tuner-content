@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-28T09:05:27Z",
+  "updated": "2026-08-29T05:39:33Z",
   "region": "europe",
   "part": 6,
   "of": 8,
@@ -13859,19 +13859,6 @@
       "bitrate": 192
     },
     {
-      "id": "rb2_livesets_radio_bb5026cc",
-      "title": "Livesets Radio",
-      "subtitle": "Radio",
-      "imageUrl": "https://livesets.com/cache/images/resize/300/691e58e250651fead500b113380a30dd.png",
-      "streamUrl": "http://djuplink.com/livesets-radio.mp3",
-      "location": "The Netherlands",
-      "genre": "Radio",
-      "countryCode": "NL",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_loeradio_19234c41",
       "title": "Loeradio",
       "subtitle": "Local Radio",
@@ -17733,19 +17720,6 @@
       "language": null,
       "clickCount": 0,
       "bitrate": 64
-    },
-    {
-      "id": "rb2_radio_weststellingwerf_centraal_09792fa3",
-      "title": "Radio Weststellingwerf Centraal",
-      "subtitle": "Radio",
-      "imageUrl": "https://i0.wp.com/www.radiocentraal.com/cms/wp-content/uploads/2022/06/cropped-mstile-310x310-1.png?fit=32%2C32&ssl=1",
-      "streamUrl": "https://mcp-2.mm-stream.nl:8017/stream",
-      "location": "The Netherlands",
-      "genre": "Radio",
-      "countryCode": "NL",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 192
     },
     {
       "id": "rb2_radio_zo_nws_d8128f36",
@@ -26146,18 +26120,6 @@
       "streamUrl": "https://21633.live.streamtheworld.com/DAB01_AAC.aac"
     },
     {
-      "id": "radio_parsifal_it_cc974803",
-      "title": "Radio Parsifal",
-      "subtitle": "Italian Pop",
-      "location": "Italy",
-      "genre": "Italian Pop",
-      "countryCode": "IT",
-      "language": "italian",
-      "clickCount": 4,
-      "bitrate": 0,
-      "streamUrl": "http://onair11.xdevel.com:10044/;stream.mp3"
-    },
-    {
       "id": "kink_90_s_nl_f0872178",
       "title": "Kink 90's",
       "subtitle": "90S",
@@ -27248,6 +27210,90 @@
       "clickCount": 3,
       "bitrate": 320,
       "streamUrl": "https://stream.studiomusicstation.nl/radio/8010/radio.mp3?hash=1778049395270"
+    },
+    {
+      "id": "milano_lounge_it_05dcbe89",
+      "title": "Milano Lounge",
+      "subtitle": "Chillout",
+      "location": "Italy",
+      "genre": "Chillout",
+      "countryCode": "IT",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream.laut.fm/milanolounge"
+    },
+    {
+      "id": "radio_citt_pescara_it_1852a777",
+      "title": "Radio Città Pescara",
+      "subtitle": "Radio",
+      "location": "Italy",
+      "genre": "Radio",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "http://streamingradiocittapescara.it:8002/"
+    },
+    {
+      "id": "radio_esercito_it_8c76c8e8",
+      "title": "Radio Esercito",
+      "subtitle": "Pop Music",
+      "location": "Italy",
+      "genre": "Pop Music",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://radio.esercito.difesa.it:8000/stream"
+    },
+    {
+      "id": "radio_amica_fm_it_901bd89b",
+      "title": "RADIO AMICA FM",
+      "subtitle": "Music",
+      "location": "Italy",
+      "genre": "Music",
+      "countryCode": "IT",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://aldoamicafm.radioca.st/stream"
+    },
+    {
+      "id": "radio_energy_lv_russian_lv_0d132b92",
+      "title": "Radio ENERGY.LV - Russian",
+      "subtitle": "Pop",
+      "location": "Latvia",
+      "genre": "Pop",
+      "countryCode": "LV",
+      "language": "russian",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "http://www.radioenergy.lv:9000/"
+    },
+    {
+      "id": "radio_spannenburg_nl_cfed9058",
+      "title": "Radio Spannenburg",
+      "subtitle": "Radio",
+      "location": "The Netherlands",
+      "genre": "Radio",
+      "countryCode": "NL",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 192,
+      "streamUrl": "https://stream.radiospannenburg.nl/radiospannenburg"
+    },
+    {
+      "id": "classicnl_mind_radio_nl_200156ce",
+      "title": "Classicnl Mind Radio",
+      "subtitle": "Calm",
+      "location": "The Netherlands",
+      "genre": "Calm",
+      "countryCode": "NL",
+      "language": "dutch",
+      "clickCount": 3,
+      "bitrate": 256,
+      "streamUrl": "https://classic.nl/streams/?s=mindradio"
     }
   ]
 }

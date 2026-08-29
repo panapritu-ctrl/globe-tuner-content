@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-28T09:05:27Z",
+  "updated": "2026-08-29T05:39:33Z",
   "region": "oceania",
   "stations": [
     {
@@ -11070,19 +11070,6 @@
       "bitrate": 63
     },
     {
-      "id": "rb2_listnr_chill_jazz_hls_cd84339a",
-      "title": "LiSTNR - Chill Jazz (HLS)",
-      "subtitle": "Chill Jazz",
-      "imageUrl": "https://i.ibb.co/60V9mZVn/Li-STNR-Square-Tile-3000x3000-CHILL-JAZZ.jpg",
-      "streamUrl": "http://wz0liw.scahw.com.au/live/chill-jazz.stream/playlist.m3u8",
-      "location": "Australia",
-      "genre": "Chill Jazz",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 1,
-      "bitrate": 63
-    },
-    {
       "id": "rb2_listnr_chill_pop_hits_hls_5a2fcb1d",
       "title": "LiSTNR - Chill Pop Hits (HLS)",
       "subtitle": "Chill, Hits",
@@ -11816,19 +11803,6 @@
       "bitrate": 130
     },
     {
-      "id": "rb2_listnr_wind_down_hls_1b37afae",
-      "title": "LiSTNR - Wind Down (HLS)",
-      "subtitle": "Calm, Wind Down",
-      "imageUrl": "https://i.ibb.co/QFXV9Kz0/Li-STNR-Square-Tile-3000x3000-WIND-DOWN.jpg",
-      "streamUrl": "http://wz0liw.scahw.com.au/live/wind-down.stream/playlist.m3u8",
-      "location": "Australia",
-      "genre": "Calm",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 1,
-      "bitrate": 64
-    },
-    {
       "id": "rb2_listnr_work_from_home_3pm_pick_me_up_hls_45472b6b",
       "title": "LiSTNR - Work From Home: 3pm Pick Me Up (HLS)",
       "subtitle": "Music",
@@ -12256,19 +12230,6 @@
       "language": "english",
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_myfm_perth_b85f1a0a",
-      "title": "MyFM Perth",
-      "subtitle": "Punk, Ska",
-      "imageUrl": "https://i.imgur.com/wRTcyQh.png",
-      "streamUrl": "https://halo.streamerr.co/listen/myfmperth/radio.mp3",
-      "location": "Western Australia, Australia",
-      "genre": "Punk",
-      "countryCode": "AU",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 320
     },
     {
       "id": "rb2_new_fm_105_3_616bb631",
@@ -15383,19 +15344,6 @@
       "language": null,
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_the_buzzz_melbourne_mp3_7541dfd6",
-      "title": "The Buzzz - Melbourne (MP3)",
-      "subtitle": "1970S, 1980S",
-      "imageUrl": "",
-      "streamUrl": "http://c22.radioboss.fm:18205/stream",
-      "location": "Melbourne VIC, Australia",
-      "genre": "1970S",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 192
     },
     {
       "id": "rb2_the_hellenic_radio_station_of_australia_c0da2a25",
@@ -19292,6 +19240,54 @@
       "clickCount": 4,
       "bitrate": 192,
       "streamUrl": "https://live.offshoreradio.net/listen/offshore_radio/radio.mp3"
+    },
+    {
+      "id": "brian_fm_105_2_taranaki_nz_9c2fc68b",
+      "title": "Brian FM 105.2 Taranaki",
+      "subtitle": "Alternative",
+      "location": "New Zealand",
+      "genre": "Alternative",
+      "countryCode": "NZ",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "http://ais-sa1.streamon.fm/7759_128k.aac"
+    },
+    {
+      "id": "cruize_fm_nz_eb26bfb9",
+      "title": "Cruize.fm",
+      "subtitle": "Radio",
+      "location": "New Zealand",
+      "genre": "Radio",
+      "countryCode": "NZ",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "http://cruizefm.out.airtime.pro:8000/cruizefm_b"
+    },
+    {
+      "id": "wcr_87_6_fm_nz_54da5497",
+      "title": "WCR 87.6 FM",
+      "subtitle": "Variety",
+      "location": "New Zealand",
+      "genre": "Variety",
+      "countryCode": "NZ",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 170,
+      "streamUrl": "http://stream2.nrgkits.co.nz:5000/wcrfm"
+    },
+    {
+      "id": "fox_news_as_b1da3236",
+      "title": "Fox news",
+      "subtitle": "Radio",
+      "location": "American Samoa",
+      "genre": "Radio",
+      "countryCode": "AS",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 311,
+      "streamUrl": "https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8"
     }
   ]
 }

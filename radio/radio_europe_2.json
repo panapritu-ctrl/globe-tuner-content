@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-28T09:05:27Z",
+  "updated": "2026-08-29T05:39:33Z",
   "region": "europe",
   "part": 2,
   "of": 8,
@@ -23283,19 +23283,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_bside_adf0dda0",
-      "title": "BSide",
-      "subtitle": "Alternative, Indie",
-      "imageUrl": "https://bside.es/media_web/bsideweb.png",
-      "streamUrl": "https://flow.emisiononline.es/radio/8010/bside.aac",
-      "location": "Spain",
-      "genre": "Alternative",
-      "countryCode": "ES",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_bakanos_fm_97_0_97_1_76d41ce5",
       "title": "Bakanos FM 97.0 - 97.1",
       "subtitle": "Bachata, Entretenimiento",
@@ -26715,19 +26702,6 @@
       "countryCode": "ES"
     },
     {
-      "id": "rb2_inthemix_fm_96_2_48bca02a",
-      "title": "Inthemix FM 96.2",
-      "subtitle": "Dance, Electronic",
-      "imageUrl": "",
-      "streamUrl": "http://streaming.enantena.com:8000/radiosentmenat96.mp3",
-      "location": "Catalonia, Spain",
-      "genre": "Dance",
-      "countryCode": "ES",
-      "language": "spanish",
-      "clickCount": 1,
-      "bitrate": 96
-    },
-    {
       "id": "rb2_intimidad_radio_f699dc00",
       "title": "Intimidad Radio",
       "subtitle": "Cultura, Cultural",
@@ -28055,18 +28029,6 @@
       "streamUrl": "https://radio.plantlandradio.com/listen/plantland_radio/radio.mp3"
     },
     {
-      "id": "dr_p4_stjylland_aac_dk_86d978b1",
-      "title": "DR P4 Østjylland (AAC)",
-      "subtitle": "Regional Radio",
-      "location": "Denmark",
-      "genre": "Regional Radio",
-      "countryCode": "DK",
-      "language": "danish",
-      "clickCount": 6,
-      "bitrate": 324,
-      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4ostjylland/masterab.m3u8"
-    },
-    {
       "id": "dr_p8_jazz_aac_dk_5a5bf838",
       "title": "DR P8 JAZZ (AAC)",
       "subtitle": "Jazz",
@@ -28341,6 +28303,54 @@
       "clickCount": 2,
       "bitrate": 192,
       "streamUrl": "https://cdn.treraadio.ee/ringfm"
+    },
+    {
+      "id": "vinyl_hits_dk_314efb3a",
+      "title": "Vinyl Hits",
+      "subtitle": "2000S",
+      "location": "Denmark",
+      "genre": "2000S",
+      "countryCode": "DK",
+      "language": "danish",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "http://stream.vinylhits.dk/vinylaac"
+    },
+    {
+      "id": "radio_7_ravensburg_dk_6f17e23c",
+      "title": "Radio 7 Ravensburg",
+      "subtitle": "Alles",
+      "location": "Denmark",
+      "genre": "Alles",
+      "countryCode": "DK",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://streams.radio7.de/rv/mp3-192/web/"
+    },
+    {
+      "id": "dr_p4_stjylland_aac_dk_86d978b1",
+      "title": "DR P4 Østjylland (AAC)",
+      "subtitle": "Regional Radio",
+      "location": "Denmark",
+      "genre": "Regional Radio",
+      "countryCode": "DK",
+      "language": "danish",
+      "clickCount": 2,
+      "bitrate": 324,
+      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4ostjylland/masterab.m3u8"
+    },
+    {
+      "id": "radio_diablo_aac_dk_a92f8725",
+      "title": "Radio Diablo (AAC)",
+      "subtitle": "News",
+      "location": "Denmark",
+      "genre": "News",
+      "countryCode": "DK",
+      "language": "danish",
+      "clickCount": 2,
+      "bitrate": 64,
+      "streamUrl": "https://radio1.jfmtech.dk/diablo.aac"
     }
   ]
 }

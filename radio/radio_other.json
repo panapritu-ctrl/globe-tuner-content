@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-28T09:05:27Z",
+  "updated": "2026-08-29T05:39:32Z",
   "region": "other",
   "stations": [
     {
@@ -1554,18 +1554,6 @@
       "streamUrl": "http://stream11.shoutcastsolutions.com:8327/stream"
     },
     {
-      "id": "cope_m_laga_es_48e8336f",
-      "title": "COPE Málaga",
-      "subtitle": "Radio",
-      "location": "Spain",
-      "genre": "Radio",
-      "countryCode": "ES",
-      "language": null,
-      "clickCount": 57,
-      "bitrate": 96,
-      "streamUrl": "http://flucast28-h-cloud.flumotion.com/cope/net1.mp3"
-    },
-    {
       "id": "99x_atlanta_us_dc1f4341",
       "title": "99X Atlanta",
       "subtitle": "Alternative",
@@ -2848,30 +2836,6 @@
       "clickCount": 11,
       "bitrate": 192,
       "streamUrl": "https://diff.micros-rebelles.fr/web192.mp3"
-    },
-    {
-      "id": "vaughan_es_8550cd70",
-      "title": "Vaughan",
-      "subtitle": "Learn",
-      "location": "Spain",
-      "genre": "Learn",
-      "countryCode": "ES",
-      "language": "spanish",
-      "clickCount": 9,
-      "bitrate": 128,
-      "streamUrl": "http://vaughanradioweb.streaming-pro.com:8057/;streamdemo_mp3.nsv"
-    },
-    {
-      "id": "kbs_aq_2cdb0ad7",
-      "title": "kbs",
-      "subtitle": "Kbs",
-      "location": "Antarctica",
-      "genre": "Kbs",
-      "countryCode": "AQ",
-      "language": "korean",
-      "clickCount": 8,
-      "bitrate": 0,
-      "streamUrl": "https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODc1NTU5NjN9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=laDHoptckz6T4PdpL4yqy5eijDr6RZ26pOMPYnV0oI2o5LkV~DcpDyK~caKhEWvCRS4Onjuemdz-w39OIpZJNrbMaIgnprgJ5IjzmnhoznIkZekQo6ZnrRs-sUhBzmZaT-dx7JAGDh3hfdHUyzk7Xc7GSjQsyfdjZDMWVDOKqFbJnxhIeHEO4X93MQUwjAhGz9cI8XDWAyUWjesQZ2w2WJc4qpayqYujS7dT36bo3YSIE0IlAuEXbThEmynnh93iG8-9Pj1cJdjCy4bc0t6HUiexOakaVRgImCzSQu3OKIrIg9FTpHZWlqY2kyLrrx44DwXgDvWk-yqheL78SNzkwQ__"
     },
     {
       "id": "copesal_es_49c41aae",
@@ -4912,6 +4876,234 @@
       "clickCount": 2,
       "bitrate": 0,
       "streamUrl": "https://stream.radiodemerstad.be/radiodemerstad.mp3"
+    },
+    {
+      "id": "cope_m_laga_es_ea72c477",
+      "title": "COPE Málaga",
+      "subtitle": "Radio",
+      "location": "Spain",
+      "genre": "Radio",
+      "countryCode": "ES",
+      "language": null,
+      "clickCount": 50,
+      "bitrate": 96,
+      "streamUrl": "http://flucast36-h-cloud.flumotion.com/cope/net1.mp3"
+    },
+    {
+      "id": "hits_and_fun_fr_94f19faf",
+      "title": "Hits and Fun",
+      "subtitle": "Electro",
+      "location": "France",
+      "genre": "Electro",
+      "countryCode": "FR",
+      "language": null,
+      "clickCount": 14,
+      "bitrate": 192,
+      "streamUrl": "http://ns2.hitsandfun.net/hitsandfun-hd"
+    },
+    {
+      "id": "93_1_kmkt_katy_country_us_e26416a7",
+      "title": "93.1 KMKT - KATY COUNTRY",
+      "subtitle": "Contemporary Country",
+      "location": "The United States Of America",
+      "genre": "Contemporary Country",
+      "countryCode": "US",
+      "language": "american english",
+      "clickCount": 12,
+      "bitrate": 64,
+      "streamUrl": "https://live.amperwave.net/direct/alphacorporate-kmktfmmp3-ibc4"
+    },
+    {
+      "id": "wrti_classical_us_70ff125a",
+      "title": "WRTI Classical",
+      "subtitle": "Choral",
+      "location": "The United States Of America",
+      "genre": "Choral",
+      "countryCode": "US",
+      "language": null,
+      "clickCount": 12,
+      "bitrate": 128,
+      "streamUrl": "https://wrti-live.streamguys1.com/classical-mp3"
+    },
+    {
+      "id": "news_talk_1150_kqqq_us_4841dbf2",
+      "title": "News talk 1150 KQQQ",
+      "subtitle": "News Talk",
+      "location": "The United States Of America",
+      "genre": "News Talk",
+      "countryCode": "US",
+      "language": "american english",
+      "clickCount": 9,
+      "bitrate": 0,
+      "streamUrl": "https://us9.streamingpulse.com/ssl/KQQQ"
+    },
+    {
+      "id": "radio_platine_fr_1eaf08b8",
+      "title": "Radio Platine",
+      "subtitle": "Dance",
+      "location": "France",
+      "genre": "Dance",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 8,
+      "bitrate": 192,
+      "streamUrl": "https://azura.radioplatine.fr:5001/listen/radio_platine/radio.mp3"
+    },
+    {
+      "id": "seeburg_1000_us_b25de477",
+      "title": "Seeburg 1000",
+      "subtitle": "Radio",
+      "location": "The United States Of America",
+      "genre": "Radio",
+      "countryCode": "US",
+      "language": null,
+      "clickCount": 8,
+      "bitrate": 128,
+      "streamUrl": "https://psn3.prostreaming.net/proxy/seeburg/stream/"
+    },
+    {
+      "id": "africa_radio_naija_webradio_fr_ad8b35cb",
+      "title": "Africa Radio Naija Webradio",
+      "subtitle": "African Music",
+      "location": "France",
+      "genre": "African Music",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://webradio1.ice.infomaniak.ch/webradio3-128.mp3"
+    },
+    {
+      "id": "kbs_aq_36c5e93d",
+      "title": "kbs",
+      "subtitle": "Kbs",
+      "location": "Antarctica",
+      "genre": "Kbs",
+      "countryCode": "AQ",
+      "language": "korean",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODc5ODc5Mzd9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=JxWSVFU-07-s0qOF6p0KMHKIg55oelQ10~51h39J74iOhqJULm3GNLkFa8Kv7mhzSigE1hiiZQpRcXOOkEJNns3ia-L6yUd86Om2jPOqVVHNWkb-xGxKE2nKS67swOVsnxggP6460JsCHUTTFenPcK6Oa8Na4O57ZlnztcuiLCnuf0WQuxYg2Wwysa1Z5rELSNnNXdB7hS8xpb~VDuoGOH5vLkNMoARGZZWjUHQgkHrtmtoX1lVFh3Y6wD-DcA29kIROGNyBl0GQujwhBysgL6IdJIey3nhIP6kOqweTGAnYjuE-gDD-HlsOacNqJMXiuUT4k8dEGwbLADAbwkGODA__"
+    },
+    {
+      "id": "studio_jessa_be_cd756e2f",
+      "title": "Studio Jessa",
+      "subtitle": "Radio",
+      "location": "Belgium",
+      "genre": "Radio",
+      "countryCode": "BE",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://caster05.streampakket.com/proxy/8692/stream"
+    },
+    {
+      "id": "radio_rasa_schaffhausen_ch_487a95d7",
+      "title": "Radio Rasa Schaffhausen",
+      "subtitle": "Alternative",
+      "location": "Switzerland",
+      "genre": "Alternative",
+      "countryCode": "CH",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://radio.upstream-cloud.ch/radiorasa-128.mp3"
+    },
+    {
+      "id": "ibiza_deep_house_es_b93d839a",
+      "title": "Ibiza - Deep House",
+      "subtitle": "Electronic Dance Music",
+      "location": "Spain",
+      "genre": "Electronic Dance Music",
+      "countryCode": "ES",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://radio2.vip-radios.fm:18027/stream-128kmp3-IbizaDeep"
+    },
+    {
+      "id": "vaughan_es_8550cd70",
+      "title": "Vaughan",
+      "subtitle": "Learn",
+      "location": "Spain",
+      "genre": "Learn",
+      "countryCode": "ES",
+      "language": "spanish",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://vaughanradioweb.streaming-pro.com:8057/;streamdemo_mp3.nsv"
+    },
+    {
+      "id": "aithropology_lab_fm_es_25bbd61b",
+      "title": "AIthropology Lab FM",
+      "subtitle": "Anthropology",
+      "location": "Spain",
+      "genre": "Anthropology",
+      "countryCode": "ES",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://it.tail7acb88.ts.net/aithropology.mp3"
+    },
+    {
+      "id": "good_vibes_au_ff6e6f1a",
+      "title": "Good Vibes",
+      "subtitle": "Radio",
+      "location": "Australia",
+      "genre": "Radio",
+      "countryCode": "AU",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 130,
+      "streamUrl": "https://sa46.scastream.com.au/live/7goodvibes_128.stream/playlist.m3u8?"
+    },
+    {
+      "id": "2bbb_bellingen_au_75148569",
+      "title": "2BBB Bellingen",
+      "subtitle": "Radio",
+      "location": "Australia",
+      "genre": "Radio",
+      "countryCode": "AU",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/2BBBAAC.aac"
+    },
+    {
+      "id": "brf1_radio_be_5be16107",
+      "title": "BRF1 Radio",
+      "subtitle": "Radio",
+      "location": "Belgium",
+      "genre": "Radio",
+      "countryCode": "BE",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "https://streaming.brf.be/brf1-high.mp3"
+    },
+    {
+      "id": "rockstation_ch_4779e243",
+      "title": "ROCKSTATION",
+      "subtitle": "Radio",
+      "location": "Switzerland",
+      "genre": "Radio",
+      "countryCode": "CH",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "https://radio2.stream24.net:8130/live.mp3"
+    },
+    {
+      "id": "world_radio_switzerland_ch_62d6ea19",
+      "title": "World Radio Switzerland",
+      "subtitle": "Radio",
+      "location": "Switzerland",
+      "genre": "Radio",
+      "countryCode": "CH",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 0,
+      "streamUrl": "https://uksouth.streaming.broadcast.radio:10290/wrs"
     }
   ]
 }

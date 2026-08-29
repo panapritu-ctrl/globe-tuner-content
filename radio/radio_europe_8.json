@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-28T09:05:27Z",
+  "updated": "2026-08-29T05:39:33Z",
   "region": "europe",
   "part": 8,
   "of": 8,
@@ -24810,6 +24810,66 @@
       "clickCount": 3,
       "bitrate": 0,
       "streamUrl": "http://icy.aweradio.app/radiolista/noir"
+    },
+    {
+      "id": "avtoradio_105_5_fm_serpukhov_ru_44b525d5",
+      "title": "Avtoradio 105.5 FM Serpukhov",
+      "subtitle": "Local News",
+      "location": "The Russian Federation",
+      "genre": "Local News",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://77.73.90.46:1055/avtoradio"
+    },
+    {
+      "id": "105_3_fm_ru_60dab53e",
+      "title": "Радио Москвы 105.3 FM",
+      "subtitle": "105_3 Fm",
+      "location": "The Russian Federation",
+      "genre": "105_3 Fm",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://icecast-vgtrk.cdnvideo.ru/moscowtalk128"
+    },
+    {
+      "id": "eqve_radio_ua_1f68bf31",
+      "title": "EQVE Radio",
+      "subtitle": "Dazzling Music",
+      "location": "Ukraine",
+      "genre": "Dazzling Music",
+      "countryCode": "UA",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://myradio24.org/nazarik"
+    },
+    {
+      "id": "radio_sk_vde_se_1f0b933c",
+      "title": "Radio Skövde",
+      "subtitle": "Radio",
+      "location": "Sweden",
+      "genre": "Radio",
+      "countryCode": "SE",
+      "language": "swedish",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "http://video.webbplay.se:1935/liveradio/narradio/playlist.m3u8"
+    },
+    {
+      "id": "station_ua_b61bf8b5",
+      "title": "Перше міське радіо (Одеса)",
+      "subtitle": "Information",
+      "location": "Ukraine",
+      "genre": "Information",
+      "countryCode": "UA",
+      "language": "ukrainian",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://live.1tv.od.ua/radio/stream/icecast.audio"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-28T09:05:27Z",
+  "updated": "2026-08-29T05:39:33Z",
   "region": "asia",
   "part": 1,
   "of": 3,
@@ -16406,19 +16406,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_station_bdcc38fa",
-      "title": "复兴电台（测试）",
-      "subtitle": "Radio",
-      "imageUrl": "https://fhbs.com.tw/wp-content/uploads/2021/11/new4.png",
-      "streamUrl": "http://202.39.43.67:1935/live/RA000024/chunklist.m3u8",
-      "location": "China",
-      "genre": "Radio",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 5,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_station_19e53e6b",
       "title": "夏河电视台汉藏双语综合频道",
       "subtitle": "Full Service",
@@ -26800,6 +26787,42 @@
       "clickCount": 2,
       "bitrate": 0,
       "streamUrl": "https://stream.zeno.fm/fjsl1teq6vjuv"
+    },
+    {
+      "id": "991_cn_3a1c2f43",
+      "title": "深圳龙岗星光991",
+      "subtitle": "Radio",
+      "location": "China",
+      "genre": "Radio",
+      "countryCode": "CN",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 0,
+      "streamUrl": "https://lhttp.qingting.fm/live/20160/64k.mp3"
+    },
+    {
+      "id": "2_cn_c7b49eda",
+      "title": "湖北之声（调频版）（2）",
+      "subtitle": "News",
+      "location": "China",
+      "genre": "News",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 2,
+      "bitrate": 0,
+      "streamUrl": "https://lhttp.qingting.fm/live/1303/64k.mp3"
+    },
+    {
+      "id": "station_cn_3614ad3e",
+      "title": "蒙古之声",
+      "subtitle": "International",
+      "location": "China",
+      "genre": "International",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 2,
+      "bitrate": 0,
+      "streamUrl": "https://api.xmgspace.me/api/vom-latest/"
     }
   ]
 }

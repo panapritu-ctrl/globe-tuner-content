@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-28T09:05:27Z",
+  "updated": "2026-08-29T05:39:33Z",
   "region": "europe",
   "part": 1,
   "of": 8,
@@ -4891,19 +4891,6 @@
       "bitrate": 96
     },
     {
-      "id": "rb2_ck_deejay_ca55c130",
-      "title": "CK Deejay",
-      "subtitle": "Club House Trance Dance, Deejay Remix",
-      "imageUrl": "https://radio-pub.be/CKDJ/CK%20DJ'smix.png",
-      "streamUrl": "https://radio-pub.be/CKDJ/ckdjmix.mp3",
-      "location": "Belgium",
-      "genre": "Club House Trance Dance",
-      "countryCode": "BE",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_ck_radio_b521fd98",
       "title": "CK Radio",
       "subtitle": "Charleking, Charleroi",
@@ -8938,15 +8925,6 @@
       "genre": "Radio",
       "streamUrl": "http://31.13.223.148:8000/fresh.mp3",
       "countryCode": "BG"
-    },
-    {
-      "id": "fresh_bg_961658",
-      "title": "Fresh!",
-      "subtitle": "Hits",
-      "location": "Sofia, Bulgaria",
-      "genre": "Hits",
-      "countryCode": "BG",
-      "streamUrl": "http://193.108.24.21:8000/fresh"
     },
     {
       "id": "rb2_glarus_retro_fm_19314d29",
@@ -23894,19 +23872,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_arabella_herzflimmern_f0462edd",
-      "title": "Arabella Herzflimmern",
-      "subtitle": "Pop, Rock",
-      "imageUrl": "",
-      "streamUrl": "http://rs32.stream24.net/arabella-herzflimmern.mp3",
-      "location": "Germany",
-      "genre": "Pop",
-      "countryCode": "DE",
-      "language": "german",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "atomicwave_fm_de_255e61",
       "title": "Atomicwave FM",
       "subtitle": "New Wave",
@@ -28029,6 +27994,102 @@
       "clickCount": 2,
       "bitrate": 128,
       "streamUrl": "https://29103.live.streamtheworld.com/RADIO_ENERGYAAC_H.aac"
+    },
+    {
+      "id": "fresh_bg_68f042a8",
+      "title": "Fresh!",
+      "subtitle": "Hits",
+      "location": "Bulgaria",
+      "genre": "Hits",
+      "countryCode": "BG",
+      "language": "bulgarian",
+      "clickCount": 11,
+      "bitrate": 128,
+      "streamUrl": "http://193.108.24.21:8000/fresh"
+    },
+    {
+      "id": "radio_alesia_by_b8987a7e",
+      "title": "Radio Alesia",
+      "subtitle": "Radio",
+      "location": "Belarus",
+      "genre": "Radio",
+      "countryCode": "BY",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "http://hls.alesia.live/alesia/aac_hifi.m3u8"
+    },
+    {
+      "id": "rockantenne_vorarlberg_at_fbf2829a",
+      "title": "Rockantenne Vorarlberg",
+      "subtitle": "Radio",
+      "location": "Austria",
+      "genre": "Radio",
+      "countryCode": "AT",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://web.radio.antennevorarlberg.at/av-rock/stream/mp3"
+    },
+    {
+      "id": "radio_postaja_odzak_ba_483bf16f",
+      "title": "Radio Postaja Odzak",
+      "subtitle": "Classic Rock",
+      "location": "Bosnia And Herzegovina",
+      "genre": "Classic Rock",
+      "countryCode": "BA",
+      "language": "bosnian",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream.rcast.net/70602"
+    },
+    {
+      "id": "radio_alesia_by_8c5d3834",
+      "title": "Radio Alesia",
+      "subtitle": "Folk Music",
+      "location": "Belarus",
+      "genre": "Folk Music",
+      "countryCode": "BY",
+      "language": "belarusian",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://hls.alesia.live/alesia/aac_hifi.m3u8"
+    },
+    {
+      "id": "radio_alesia_by_e783de0b",
+      "title": "Radio ALESIA",
+      "subtitle": "Folk",
+      "location": "Belarus",
+      "genre": "Folk",
+      "countryCode": "BY",
+      "language": "belarusian",
+      "clickCount": 4,
+      "bitrate": 160,
+      "streamUrl": "https://air.alesia.live/alesia"
+    },
+    {
+      "id": "radio_wave_cz_db85670d",
+      "title": "Radio Wave",
+      "subtitle": "Alternative",
+      "location": "Czechia",
+      "genre": "Alternative",
+      "countryCode": "CZ",
+      "language": "czech",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "http://rozhlas.stream/wave_mp3_256.mp3"
+    },
+    {
+      "id": "radio_mb_cz_ba8b6017",
+      "title": "Radio MB",
+      "subtitle": "2000'S",
+      "location": "Czechia",
+      "genre": "2000'S",
+      "countryCode": "CZ",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "https://ice3.abradio.cz/radiomb128.mp3"
     }
   ]
 }
