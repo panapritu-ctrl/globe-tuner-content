@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-29T05:39:33Z",
+  "updated": "2026-08-30T03:35:32Z",
   "region": "europe",
   "part": 4,
   "of": 8,
@@ -13234,19 +13234,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_radio_cardiff_6706d898",
-      "title": "Radio Cardiff",
-      "subtitle": "Radio",
-      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240909_115752423.jpg?alt=media&token=b344b077-73bc-46dd-9b59-eb196ff15d0f",
-      "streamUrl": "https://radiocardiff.radioca.st/stream",
-      "location": "The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "Radio",
-      "countryCode": "GB",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_radio_caroline_aac_96_kbps_b157c703",
       "title": "Radio Caroline AAC 96 kbps",
       "subtitle": "Rock",
@@ -17699,19 +17686,6 @@
       "streamUrl": "https://radio.virginradio.co.uk/stream"
     },
     {
-      "id": "rb2_visitor_radio_bath_42bfe51f",
-      "title": "Visitor Radio (Bath)",
-      "subtitle": "Information, Tourist Info",
-      "imageUrl": "https://mmo.aiircdn.com/2696/69985131b0c3c.jpg",
-      "streamUrl": "http://uksoutha.streaming.broadcast.radio:21321/bath",
-      "location": "Bath And North-East Somerset, The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "Information",
-      "countryCode": "GB",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_visitor_radio_hastings_6fe387c6",
       "title": "Visitor Radio (Hastings)",
       "subtitle": "Information, Tourist Info",
@@ -19606,15 +19580,6 @@
       "bitrate": 64
     },
     {
-      "id": "akous_palko_gr_01b65f",
-      "title": "Akous Palko",
-      "subtitle": "Radio",
-      "location": "Athens, Greece",
-      "genre": "Radio",
-      "streamUrl": "https://live.akous.gr/akouspalko",
-      "countryCode": "GR"
-    },
-    {
       "id": "rb2_aktina_386aa866",
       "title": "Aktina",
       "subtitle": "Dance, Electronic",
@@ -19690,19 +19655,6 @@
       "countryCode": "GR",
       "language": "greek",
       "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_alpha_104_7_f5168f7a",
-      "title": "Alpha 104.7",
-      "subtitle": "Greek Pop",
-      "imageUrl": "https://resources.live24.gr/resources/images/stations/22fd7c95-5972-40de-a9e0-5ae9a8f3a98c.png",
-      "streamUrl": "https://stream.myip.gr/proxy/alpha1047?mp=/stream",
-      "location": "Rethimno, Greece",
-      "genre": "Greek Pop",
-      "countryCode": "GR",
-      "language": null,
-      "clickCount": 1,
       "bitrate": 128
     },
     {
@@ -24730,19 +24682,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_lemon_88_8_cf96e35e",
-      "title": "Lemon 88.8",
-      "subtitle": "Pop Music",
-      "imageUrl": "http://resources.live24.gr/resources/images/stations/0f10bc08-2fcc-48a2-a752-4a3c45145e96.jpg",
-      "streamUrl": "https://cast.streams.ovh/sc/radio888/stream/",
-      "location": "Serres, Greece",
-      "genre": "Pop Music",
-      "countryCode": "GR",
-      "language": "greek",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_lemon_web_radio_ac967725",
       "title": "Lemon Web Radio",
       "subtitle": "World Music",
@@ -27391,6 +27330,30 @@
       "clickCount": 2,
       "bitrate": 192,
       "streamUrl": "https://sh.onweb.gr:8905/stream?type=http&nocache=13"
+    },
+    {
+      "id": "star_88_8_fm_gr_64a2a555",
+      "title": "Star 88.8 fm",
+      "subtitle": "Radio",
+      "location": "Greece",
+      "genre": "Radio",
+      "countryCode": "GR",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 160,
+      "streamUrl": "https://onairmediagroup.live24.gr/star888xanthi"
+    },
+    {
+      "id": "akous_palko_gr_d9b6628c",
+      "title": "Akous Palko",
+      "subtitle": "Radio",
+      "location": "Greece",
+      "genre": "Radio",
+      "countryCode": "GR",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://live.akous.gr/akouspalko"
     }
   ]
 }

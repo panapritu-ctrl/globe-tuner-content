@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-29T05:39:33Z",
+  "updated": "2026-08-30T03:35:32Z",
   "region": "europe",
   "part": 2,
   "of": 8,
@@ -21318,19 +21318,6 @@
       "bitrate": 256
     },
     {
-      "id": "rb2_radio_stinesen_c86d26e1",
-      "title": "Radio Stinesen",
-      "subtitle": "00'S, 80'S",
-      "imageUrl": "",
-      "streamUrl": "https://st1.stinesen.dk/StineM320",
-      "location": "Denmark",
-      "genre": "00'S",
-      "countryCode": "DK",
-      "language": "danish",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_radio_vlr_d4667343",
       "title": "Radio VLR",
       "subtitle": "Radio",
@@ -28351,6 +28338,18 @@
       "clickCount": 2,
       "bitrate": 64,
       "streamUrl": "https://radio1.jfmtech.dk/diablo.aac"
+    },
+    {
+      "id": "wdr_sportschau_1_fussball_bundesliga_konferenz_live_de_b38c5701",
+      "title": "WDR Sportschau - 1. Fussball Bundesliga-Konferenz LIVE",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 11,
+      "bitrate": 128,
+      "streamUrl": "http://wdr-sportschau-liga1konferenz.icecastssl.wdr.de/wdr/sportschau/liga1konferenz/mp3/high"
     }
   ]
 }

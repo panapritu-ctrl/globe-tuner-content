@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-29T05:39:33Z",
+  "updated": "2026-08-30T03:35:32Z",
   "region": "europe",
   "part": 8,
   "of": 8,
@@ -13863,19 +13863,6 @@
       "bitrate": 392
     },
     {
-      "id": "rb2_106_3_fm_f55b725d",
-      "title": "Радио России Киров 106.3 FM",
-      "subtitle": "Army, Kirov",
-      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241212_181617752.jpg?alt=media&token=c5b957c1-cfab-4ef3-ba20-4ac4dc16f72c",
-      "streamUrl": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kirov/radio_russia/index.m3u8",
-      "location": "The Russian Federation",
-      "genre": "Army",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 0,
-      "bitrate": 392
-    },
-    {
       "id": "rb2_89_1_fm_c4ab17c2",
       "title": "Радио России Липецк 89.1 FM",
       "subtitle": "News, Talk",
@@ -24476,18 +24463,6 @@
       "streamUrl": "https://deephousex.ru/live"
     },
     {
-      "id": "happy_hits_ua_641ccbe0",
-      "title": "Радіо Київстар Happy Hits",
-      "subtitle": "256 Kbit/S",
-      "location": "Ukraine",
-      "genre": "256 Kbit/S",
-      "countryCode": "UA",
-      "language": "ukranian",
-      "clickCount": 3,
-      "bitrate": 281,
-      "streamUrl": "https://radio.kyivstar.ua/stream/sport/master.m3u8"
-    },
-    {
       "id": "radio_skovoroda_ua_9769c427",
       "title": "Radio Skovoroda",
       "subtitle": "Skovoroda",
@@ -24800,18 +24775,6 @@
       "streamUrl": "http://icy.aweradio.app/listen/focus"
     },
     {
-      "id": "radiolista_noir_se_253d1437",
-      "title": "Radiolista - Noir",
-      "subtitle": "Cinematic",
-      "location": "Sweden",
-      "genre": "Cinematic",
-      "countryCode": "SE",
-      "language": "english",
-      "clickCount": 3,
-      "bitrate": 0,
-      "streamUrl": "http://icy.aweradio.app/radiolista/noir"
-    },
-    {
       "id": "avtoradio_105_5_fm_serpukhov_ru_44b525d5",
       "title": "Avtoradio 105.5 FM Serpukhov",
       "subtitle": "Local News",
@@ -24870,6 +24833,90 @@
       "clickCount": 3,
       "bitrate": 0,
       "streamUrl": "https://live.1tv.od.ua/radio/stream/icecast.audio"
+    },
+    {
+      "id": "radio_pled_ru_e39e9e01",
+      "title": "Radio Pled",
+      "subtitle": "Chr",
+      "location": "The Russian Federation",
+      "genre": "Chr",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 6,
+      "bitrate": 320,
+      "streamUrl": "http://radiopled.org:9000/radio_pled"
+    },
+    {
+      "id": "station_ru_89f92780",
+      "title": "Голос Бирмы",
+      "subtitle": "Music",
+      "location": "The Russian Federation",
+      "genre": "Music",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://listen4.myradio24.com/39982"
+    },
+    {
+      "id": "moskva_fm_ru_99d1b449",
+      "title": "Moskva FM",
+      "subtitle": "Radio",
+      "location": "The Russian Federation",
+      "genre": "Radio",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "http://icecast.vgtrk.cdnvideo.ru/moscowfm128?v=1550419566950"
+    },
+    {
+      "id": "anima_amoris_minimal_deep_techno_ru_dbc08017",
+      "title": "Anima Amoris Minimal Deep Techno",
+      "subtitle": "Minimal",
+      "location": "The Russian Federation",
+      "genre": "Minimal",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://amoris.sknt.ru/minimal.mp3"
+    },
+    {
+      "id": "stockholm_fm_101_1_sweden_se_6aedbef1",
+      "title": "Stockholm FM 101,1 Sweden",
+      "subtitle": "International",
+      "location": "Sweden",
+      "genre": "International",
+      "countryCode": "SE",
+      "language": "swedish",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://radiostreamtwo.mine.nu/18020"
+    },
+    {
+      "id": "radio_ppeople_fm_house_music_ua_4c5b0119",
+      "title": "Radio Ppeople FM – House Music",
+      "subtitle": "Dance",
+      "location": "Ukraine",
+      "genre": "Dance",
+      "countryCode": "UA",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "http://ppeople.fm:8000/main"
+    },
+    {
+      "id": "top_hits_ua_a0a82b3c",
+      "title": "Радіо Київстар Top Hits",
+      "subtitle": "256 Kbit/S",
+      "location": "Ukraine",
+      "genre": "256 Kbit/S",
+      "countryCode": "UA",
+      "language": "ukranian",
+      "clickCount": 3,
+      "bitrate": 281,
+      "streamUrl": "https://radio.kyivstar.ua/stream/tophits/master.m3u8"
     }
   ]
 }

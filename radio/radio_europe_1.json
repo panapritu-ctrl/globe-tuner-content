@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-29T05:39:33Z",
+  "updated": "2026-08-30T03:35:32Z",
   "region": "europe",
   "part": 1,
   "of": 8,
@@ -23859,19 +23859,6 @@
       "bitrate": 192
     },
     {
-      "id": "rb2_arabella_classic_rock_276af9c4",
-      "title": "Arabella Classic Rock",
-      "subtitle": "Pop, Rock",
-      "imageUrl": "",
-      "streamUrl": "http://rs32.stream24.net/arabella-rock.mp3",
-      "location": "Germany",
-      "genre": "Pop",
-      "countryCode": "DE",
-      "language": "german",
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
       "id": "atomicwave_fm_de_255e61",
       "title": "Atomicwave FM",
       "subtitle": "New Wave",
@@ -27384,18 +27371,6 @@
       "streamUrl": "https://live.pilotfm.com/stream/pilotfm/aac128"
     },
     {
-      "id": "z_rock_radio_bg_43b99c4c",
-      "title": "Z-Rock radio",
-      "subtitle": "Rock",
-      "location": "Bulgaria",
-      "genre": "Rock",
-      "countryCode": "BG",
-      "language": "bulgarian",
-      "clickCount": 4,
-      "bitrate": 128,
-      "streamUrl": "http://193.108.24.6:8000/zrock"
-    },
-    {
       "id": "hitradio_antenne_1_de_dd10d0c8",
       "title": "Hitradio antenne 1",
       "subtitle": "Hits",
@@ -28090,6 +28065,90 @@
       "clickCount": 2,
       "bitrate": 128,
       "streamUrl": "https://ice3.abradio.cz/radiomb128.mp3"
+    },
+    {
+      "id": "beats_radio_klassik_de_9f5d0e6a",
+      "title": "Beats Radio Klassik",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 13,
+      "bitrate": 0,
+      "streamUrl": "https://klassikr.streamabc.net/klr-beatsnational-aac-128-2492555?sABC=6819330q%230%23os964qr66nr9oq4s9q8q4o393245q4or%23enqvbqr&aw_0_1st.playerid=radiode&amsparams=playerid:radiode;skey:1746481933"
+    },
+    {
+      "id": "antenne_sachsen_de_8cc6f082",
+      "title": "Antenne Sachsen",
+      "subtitle": "70S",
+      "location": "Germany",
+      "genre": "70S",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 12,
+      "bitrate": 0,
+      "streamUrl": "https://hermes.bcs-systems.de/antenne-sachsen_192k_mp3"
+    },
+    {
+      "id": "z_rock_radio_bg_43b99c4c",
+      "title": "Z-Rock radio",
+      "subtitle": "Rock",
+      "location": "Bulgaria",
+      "genre": "Rock",
+      "countryCode": "BG",
+      "language": "bulgarian",
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "http://193.108.24.6:8000/zrock"
+    },
+    {
+      "id": "radio_uno_k_rnten_at_a48586df",
+      "title": "Radio Uno Kärnten",
+      "subtitle": "Radio",
+      "location": "Austria",
+      "genre": "Radio",
+      "countryCode": "AT",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://radiouno.stream24.net/live.mp3"
+    },
+    {
+      "id": "radio_x_mas_at_6a5939b7",
+      "title": "Radio X-MAS",
+      "subtitle": "Radio",
+      "location": "Austria",
+      "genre": "Radio",
+      "countryCode": "AT",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "http://www.radio-xmas.at:443/xmas?type=http"
+    },
+    {
+      "id": "crazyradio_cz_cz_f051459d",
+      "title": "CrazyRadio.cz",
+      "subtitle": "Radio",
+      "location": "Czechia",
+      "genre": "Radio",
+      "countryCode": "CZ",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 192,
+      "streamUrl": "https://stream.rcast.net/72851"
+    },
+    {
+      "id": "radio_bonton_cz_a4f2a56d",
+      "title": "Radio Bonton",
+      "subtitle": "Radio",
+      "location": "Czechia",
+      "genre": "Radio",
+      "countryCode": "CZ",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 64,
+      "streamUrl": "https://27753.live.streamtheworld.com/BONTONAAC.aac?tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=none&burst-time=15&sbmid=4ef04b1d-096f-4273-f8be-4c056d2bd182"
     }
   ]
 }

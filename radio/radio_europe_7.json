@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-29T05:39:33Z",
+  "updated": "2026-08-30T03:35:32Z",
   "region": "europe",
   "part": 7,
   "of": 8,
@@ -771,19 +771,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_radio_eska_ostrow_kalisz_e715b5bf",
-      "title": "Radio Eska Ostrow Kalisz",
-      "subtitle": "Dance, Pop",
-      "imageUrl": "",
-      "streamUrl": "https://radio.stream.smcdn.pl/timeradio-p/2200-1.aac/playlist.m3u8",
-      "location": "Ostrow Kalisz, Poland",
-      "genre": "Dance",
-      "countryCode": "PL",
-      "language": "polish",
-      "clickCount": 2,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_radio_eska_przemy_l_57c99c42",
       "title": "Radio Eska Przemyśl",
       "subtitle": "Radio",
@@ -869,19 +856,6 @@
       "streamUrl": "https://radio.stream.smcdn.pl/timeradio-p/6030-1.aac/playlist.m3u8",
       "location": "Warszawa, Poland",
       "genre": "Radio",
-      "countryCode": "PL",
-      "language": "polish",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_eska_d_b10625fb",
-      "title": "Radio Eska łódź",
-      "subtitle": "Dance, Pop",
-      "imageUrl": "",
-      "streamUrl": "https://radio.stream.smcdn.pl/timeradio-p/2100-1.aac/playlist.m3u8",
-      "location": "Łódź, Poland",
-      "genre": "Dance",
       "countryCode": "PL",
       "language": "polish",
       "clickCount": 0,
@@ -24381,18 +24355,6 @@
       "streamUrl": "https://live.radiogoldfm.ro:8443/WP.mp3"
     },
     {
-      "id": "radio_bra_ov_ro_68acb1a5",
-      "title": "Radio Brașov",
-      "subtitle": "Radio",
-      "location": "Romania",
-      "genre": "Radio",
-      "countryCode": "RO",
-      "language": "romanian",
-      "clickCount": 3,
-      "bitrate": 192,
-      "streamUrl": "https://live.radiobrasov.ro/stream.mp3?nocache=${Math.random()}"
-    },
-    {
       "id": "r_di_gaga_marossz_k_ro_24de0a85",
       "title": "Rádió GaGa Marosszék",
       "subtitle": "Local News",
@@ -24859,6 +24821,54 @@
       "clickCount": 3,
       "bitrate": 128,
       "streamUrl": "http://icecast.astratelekom.com:8000/vladimirci"
+    },
+    {
+      "id": "rmfmaxx_pl_4648264b",
+      "title": "RMFmaxx",
+      "subtitle": "Radio",
+      "location": "Poland",
+      "genre": "Radio",
+      "countryCode": "PL",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://195.150.20.4/rmf_maxxx"
+    },
+    {
+      "id": "naxi_blues_rs_1cabca89",
+      "title": "Naxi Blues",
+      "subtitle": "Rock",
+      "location": "Serbia",
+      "genre": "Rock",
+      "countryCode": "RS",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://naxidigital-blues128ssl.streaming.rs:8312/;stream.nsv"
+    },
+    {
+      "id": "radio_oldies_romannia_ro_f170b212",
+      "title": "Radio Oldies Romannia",
+      "subtitle": "Radio",
+      "location": "Romania",
+      "genre": "Radio",
+      "countryCode": "RO",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://live.radiooldies.ro:9200/stream"
+    },
+    {
+      "id": "super_fm_manele_prahova_ro_1e69d4bf",
+      "title": "Super Fm Manele Prahova",
+      "subtitle": "Manele",
+      "location": "Romania",
+      "genre": "Manele",
+      "countryCode": "RO",
+      "language": "romania",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://asculta.superfmradio.ro/9720/stream"
     }
   ]
 }

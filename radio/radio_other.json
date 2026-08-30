@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-29T05:39:32Z",
+  "updated": "2026-08-30T03:35:32Z",
   "region": "other",
   "stations": [
     {
@@ -2368,18 +2368,6 @@
       "clickCount": 4,
       "bitrate": 64,
       "streamUrl": "http://tx.sharp-stream.com/icecast.php?i=radioshow2.mp3"
-    },
-    {
-      "id": "elise_radio_fr_4aa8ead5",
-      "title": "Elise radio",
-      "subtitle": "90'S",
-      "location": "France",
-      "genre": "90'S",
-      "countryCode": "FR",
-      "language": null,
-      "clickCount": 13,
-      "bitrate": 128,
-      "streamUrl": "https://elise.wanastream.com:25000/;stream.nsv"
     },
     {
       "id": "hot_995_wiht_99_5_fm_washington_us_392c5b83",
@@ -5104,6 +5092,210 @@
       "clickCount": 2,
       "bitrate": 0,
       "streamUrl": "https://uksouth.streaming.broadcast.radio:10290/wrs"
+    },
+    {
+      "id": "megarock_radio_320k_us_5f662373",
+      "title": "Megarock Radio 320k",
+      "subtitle": "Classic Rock",
+      "location": "The United States Of America",
+      "genre": "Classic Rock",
+      "countryCode": "US",
+      "language": "english",
+      "clickCount": 9,
+      "bitrate": 320,
+      "streamUrl": "https://stream3.megarockradio.net:80/"
+    },
+    {
+      "id": "only_radio_fr_de1f1b7e",
+      "title": "Only Radio",
+      "subtitle": "Hits",
+      "location": "France",
+      "genre": "Hits",
+      "countryCode": "FR",
+      "language": null,
+      "clickCount": 8,
+      "bitrate": 128,
+      "streamUrl": "https://flux.onlyradio.fr/live"
+    },
+    {
+      "id": "kpophits_us_49f5a1e7",
+      "title": "Kpophits",
+      "subtitle": "K-Pop",
+      "location": "The United States Of America",
+      "genre": "K-Pop",
+      "countryCode": "US",
+      "language": null,
+      "clickCount": 8,
+      "bitrate": 128,
+      "streamUrl": "https://kpophits.stream.laut.fm/kpophits"
+    },
+    {
+      "id": "nostalgie_disco_funk_fr_6fd21e4a",
+      "title": "Nostalgie Disco Funk",
+      "subtitle": "Radio",
+      "location": "France",
+      "genre": "Radio",
+      "countryCode": "FR",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://streaming.nrjaudio.fm/ougf4brb92oc?origine=fluxradios&aw_0_1st.station=NOSTALGIE-Disco-Funk"
+    },
+    {
+      "id": "lomond_radio_gb_147a0c74",
+      "title": "Lomond Radio",
+      "subtitle": "Classic Hits",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Classic Hits",
+      "countryCode": "GB",
+      "language": "english",
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "http://ukwesta.streaming.broadcast.radio:17210/lomondradio"
+    },
+    {
+      "id": "mynoise_zen_garden_be_4ef0b42f",
+      "title": "MyNoise Zen Garden",
+      "subtitle": "Ambient",
+      "location": "Belgium",
+      "genre": "Ambient",
+      "countryCode": "BE",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 160,
+      "streamUrl": "http://zengarden.radio.mynoise.net/"
+    },
+    {
+      "id": "radio_fg_antwerpen_be_0fafd1a9",
+      "title": "Radio FG Antwerpen",
+      "subtitle": "House",
+      "location": "Belgium",
+      "genre": "House",
+      "countryCode": "BE",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://stream.rcs.revma.com/5wesqhfap98uv"
+    },
+    {
+      "id": "la_antiradio_es_cf9e5451",
+      "title": "La Antiradio",
+      "subtitle": "Radio",
+      "location": "Spain",
+      "genre": "Radio",
+      "countryCode": "ES",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://radio.laantiradio.com/listen/la_antiradio/laantiradio.mp3"
+    },
+    {
+      "id": "listnr_focus_hls_au_a8178988",
+      "title": "LiSTNR - Focus (HLS)",
+      "subtitle": "Ambient",
+      "location": "Australia",
+      "genre": "Ambient",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "http://wz0liw.scahw.com.au/live/focus.stream/playlist.m3u8"
+    },
+    {
+      "id": "bside_es_07013c3f",
+      "title": "BSide",
+      "subtitle": "Alternative",
+      "location": "Spain",
+      "genre": "Alternative",
+      "countryCode": "ES",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://flow.emisiononline.es/radio/8010/bside.aac"
+    },
+    {
+      "id": "astra_fm_es_2d904200",
+      "title": "Astra FM",
+      "subtitle": "Radio",
+      "location": "Spain",
+      "genre": "Radio",
+      "countryCode": "ES",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 320,
+      "streamUrl": "https://listen.astra.fm/listen/riot/radio.mp3"
+    },
+    {
+      "id": "k_rock_95_5_geelong_95_5_fm_aac_au_24012006",
+      "title": "K ROCK 95.5 - Geelong - 95.5 FM (AAC)",
+      "subtitle": "Comedy",
+      "location": "Australia",
+      "genre": "Comedy",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 2,
+      "bitrate": 64,
+      "streamUrl": "http://playerservices.streamtheworld.com/api/livestream-redirect/GEE_KROCKAAC.aac"
+    },
+    {
+      "id": "891_abc_adelaide_au_00818434",
+      "title": "891 ABC Adelaide",
+      "subtitle": "Local",
+      "location": "Australia",
+      "genre": "Local",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 2,
+      "bitrate": 0,
+      "streamUrl": "https://streaming.abc-cdn.net.au/audio/hls/localadelaide.m3u8?source=web"
+    },
+    {
+      "id": "rcf_li_ge_be_55282eac",
+      "title": "RCF Liège",
+      "subtitle": "Christian",
+      "location": "Belgium",
+      "genre": "Christian",
+      "countryCode": "BE",
+      "language": "french",
+      "clickCount": 2,
+      "bitrate": 192,
+      "streamUrl": "http://rcf.streamakaci.com/rcfliege.mp3"
+    },
+    {
+      "id": "vibration_chanson_fran_aise_ch_d4451032",
+      "title": "Vibration Chanson Française",
+      "subtitle": "Radio",
+      "location": "Switzerland",
+      "genre": "Radio",
+      "countryCode": "CH",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "http://vibration.stream2net.eu:8510/;stream/1"
+    },
+    {
+      "id": "volnadavida_radio_ch_87d3d310",
+      "title": "Volnadavida Radio",
+      "subtitle": "Radio",
+      "location": "Switzerland",
+      "genre": "Radio",
+      "countryCode": "CH",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 192,
+      "streamUrl": "http://transmiss.ion.ovh/listen/volnadavida/radio.mp3"
+    },
+    {
+      "id": "alti_radio_ch_7e3a09d2",
+      "title": "Alti Radio",
+      "subtitle": "Gospel",
+      "location": "Switzerland",
+      "genre": "Gospel",
+      "countryCode": "CH",
+      "language": "esperanto",
+      "clickCount": 2,
+      "bitrate": 192,
+      "streamUrl": "https://transmiss.ion.ovh/listen/altiradio/radio.mp3"
     }
   ]
 }
