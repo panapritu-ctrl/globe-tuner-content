@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-30T03:35:32Z",
+  "updated": "2026-08-31T03:34:25Z",
   "region": "europe",
   "part": 8,
   "of": 8,
@@ -8738,19 +8738,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_106_5_fm_aee0f089",
-      "title": "Дорожное радио Луга 106.5 FM",
-      "subtitle": "Chanson, Luga",
-      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241031_131258249.jpg?alt=media&token=93bf0293-c4ee-416d-b585-de3f45f8ef1c",
-      "streamUrl": "http://78.140.197.238:9877/DR-Luga",
-      "location": "The Russian Federation",
-      "genre": "Chanson",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_96_0_fm_92228719",
       "title": "Дорожное радио Москва 96.0 FM",
       "subtitle": "Dorognoe Radio, Moscow",
@@ -9412,19 +9399,6 @@
       "language": "russian",
       "clickCount": 2,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_106_7_fm_5eb63086",
-      "title": "Иваново ФМ 106.7 FM",
-      "subtitle": "Ivanovo, Music",
-      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250429_124847488.jpg?alt=media&token=0b62a2d0-746c-404f-a058-07117e6092f8",
-      "streamUrl": "http://stream.ivpromedia.ru:8000/IvanovoFM.mp3",
-      "location": "The Russian Federation",
-      "genre": "Ivanovo",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 0,
-      "bitrate": 192
     },
     {
       "id": "rb2_station_1d13fc30",
@@ -13642,19 +13616,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_91_6_fm_8ddfd0ef",
-      "title": "Радио России Брянск 91.6 FM",
-      "subtitle": "Bryansk, Local News",
-      "imageUrl": "",
-      "streamUrl": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/bryansk/radio_russia/index.m3u8",
-      "location": "The Russian Federation",
-      "genre": "Bryansk",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 0,
-      "bitrate": 392
-    },
-    {
       "id": "rb2_96_0_fm_a428c992",
       "title": "Радио России Великий Новгород 96.0 FM",
       "subtitle": "News",
@@ -13662,19 +13623,6 @@
       "streamUrl": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/velikiy-novgorod/radio_russia/index.m3u8",
       "location": "The Russian Federation",
       "genre": "News",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 0,
-      "bitrate": 392
-    },
-    {
-      "id": "rb2_90_0_fm_0a38221c",
-      "title": "Радио России Владикавказ 90.0 FM",
-      "subtitle": "Alanya, News",
-      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241120_200108440.jpg?alt=media&token=64ccb759-4db7-4f9b-b1b1-91fc4c2a4ecb",
-      "streamUrl": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladikavkaz/radio_russia/index.m3u8",
-      "location": "The Russian Federation",
-      "genre": "Alanya",
       "countryCode": "RU",
       "language": "russian",
       "clickCount": 0,
@@ -24917,6 +24865,102 @@
       "clickCount": 3,
       "bitrate": 281,
       "streamUrl": "https://radio.kyivstar.ua/stream/tophits/master.m3u8"
+    },
+    {
+      "id": "rock_irk_ru_main_mix_ru_1dac1b1a",
+      "title": "rock.irk.ru :: main-mix",
+      "subtitle": "Acoustic",
+      "location": "The Russian Federation",
+      "genre": "Acoustic",
+      "countryCode": "RU",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 35,
+      "streamUrl": "https://live.rock.irk.ru/hls/main-mix/live.m3u8"
+    },
+    {
+      "id": "101_ru_ru_f6280ef1",
+      "title": "101.ru Любэ",
+      "subtitle": "101.Ru",
+      "location": "The Russian Federation",
+      "genre": "101.Ru",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 4,
+      "bitrate": 64,
+      "streamUrl": "https://pub0101.101.ru/stream/pro/aac/64/158"
+    },
+    {
+      "id": "soundpark_deep_ru_f6d0b36f",
+      "title": "soundpark deep",
+      "subtitle": "Radio",
+      "location": "The Russian Federation",
+      "genre": "Radio",
+      "countryCode": "RU",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 96,
+      "streamUrl": "https://h.getradio.me/spdeep/hls.m3u8"
+    },
+    {
+      "id": "station_ua_d95c4117",
+      "title": "Радіо Нікополя",
+      "subtitle": "Radio",
+      "location": "Ukraine",
+      "genre": "Radio",
+      "countryCode": "UA",
+      "language": "ukrainian",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream.nikopolnews.net/listen/radio_nikopol/high"
+    },
+    {
+      "id": "jazz_radio_ua_7660506a",
+      "title": "Jazz Radio",
+      "subtitle": "Jazz",
+      "location": "Ukraine",
+      "genre": "Jazz",
+      "countryCode": "UA",
+      "language": "ukrainian",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://online.radiojazz.ua/RadioJazz"
+    },
+    {
+      "id": "sun_fm_ua_8f4c8ac5",
+      "title": "Sun FM",
+      "subtitle": "Radio",
+      "location": "Ukraine",
+      "genre": "Radio",
+      "countryCode": "UA",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 64,
+      "streamUrl": "https://stream.sunfmua.com/live"
+    },
+    {
+      "id": "sr_p4_radio_malm_hus_se_dcedade3",
+      "title": "SR P4 Radio Malmöhus",
+      "subtitle": "Malmö",
+      "location": "Sweden",
+      "genre": "Malmö",
+      "countryCode": "SE",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 37,
+      "streamUrl": "https://ljud1-cdn.sr.se/lc/p4malm.m3u8"
+    },
+    {
+      "id": "radio_ars_si_5d126e07",
+      "title": "Radio ARS",
+      "subtitle": "Radio",
+      "location": "Slovenia",
+      "genre": "Radio",
+      "countryCode": "SI",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 192,
+      "streamUrl": "https://mp3.rtvslo.si/ars"
     }
   ]
 }

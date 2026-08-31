@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-30T03:35:06Z",
+  "updated": "2026-08-31T03:34:25Z",
   "region": "europe",
   "part": 3,
   "of": 8,
@@ -6535,19 +6535,6 @@
       "streamUrl": "https://streaming.ticktock.radio/tt/1950/icecast.audio"
     },
     {
-      "id": "rb2_v_mba_fm_77a2ea2c",
-      "title": "Vömba FM",
-      "subtitle": "80S, 90S",
-      "imageUrl": "",
-      "streamUrl": "https://c4.radioboss.fm:18123/live",
-      "location": "Suomi, Finland",
-      "genre": "80S",
-      "countryCode": "FI",
-      "language": "estonian",
-      "clickCount": 1,
-      "bitrate": 320
-    },
-    {
       "id": "rb2_yle_radio_suomi_h_meenlinna_9d79fe27",
       "title": "YLE Radio Suomi Hämeenlinna",
       "subtitle": "Radio",
@@ -7354,19 +7341,6 @@
       "genre": "Talk",
       "countryCode": "FR",
       "streamUrl": "https://radio.5sens.fr/radio/stream.php"
-    },
-    {
-      "id": "rb2_8beats_dbc3fc04",
-      "title": "8Beats",
-      "subtitle": "Radio",
-      "imageUrl": "https://8beats.co/favicon.png",
-      "streamUrl": "https://n10.radiojar.com/2fa4wbch308uv",
-      "location": "Lyon, France",
-      "genre": "Radio",
-      "countryCode": "FR",
-      "language": "english",
-      "clickCount": 1,
-      "bitrate": 128
     },
     {
       "id": "magic_radio_fr_7a0c29",
@@ -8634,19 +8608,6 @@
       "subtitle": "Radio",
       "imageUrl": "",
       "streamUrl": "http://178.32.222.164:8002/;",
-      "location": "France",
-      "genre": "Radio",
-      "countryCode": "FR",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 192
-    },
-    {
-      "id": "rb2_aubymix_d028d6e4",
-      "title": "AubyMix",
-      "subtitle": "Radio",
-      "imageUrl": "https://aubymix.fr/wp-content/uploads/2025/03/logo_aubymix_avec_texte_transparent.png",
-      "streamUrl": "https://stream.aubymix.fr:8443/mp3?1771423833872",
       "location": "France",
       "genre": "Radio",
       "countryCode": "FR",
@@ -27145,6 +27106,18 @@
       "clickCount": 2,
       "bitrate": 192,
       "streamUrl": "https://kaupunkiradio.radiotaajuus.fi:9013/radio"
+    },
+    {
+      "id": "yle_klassinen_hls_fi_f2e4fe38",
+      "title": "Yle Klassinen (HLS)",
+      "subtitle": "Classical",
+      "location": "Finland",
+      "genre": "Classical",
+      "countryCode": "FI",
+      "language": "finnish",
+      "clickCount": 6,
+      "bitrate": 256,
+      "streamUrl": "https://yleradiolive5.akamaized.net/hls/live/20000872/yleklassinen/master.m3u8"
     }
   ]
 }

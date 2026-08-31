@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-30T03:35:32Z",
+  "updated": "2026-08-31T03:34:25Z",
   "region": "oceania",
   "stations": [
     {
@@ -19060,18 +19060,6 @@
       "streamUrl": "http://stream10.as.amplifystreaming.com/radio/8010/retro_128.aac"
     },
     {
-      "id": "echoes_radio_nz_ec051895",
-      "title": "Echoes Radio",
-      "subtitle": "Radio",
-      "location": "New Zealand",
-      "genre": "Radio",
-      "countryCode": "NZ",
-      "language": null,
-      "clickCount": 7,
-      "bitrate": 0,
-      "streamUrl": "https://radio.flexmedia.stream/listen/echoes_radio/radio.mp3"
-    },
-    {
       "id": "brian_fm_91_4_wanaka_nz_4cb45b67",
       "title": "Brian FM 91.4 Wanaka",
       "subtitle": "Radio",
@@ -19274,6 +19262,18 @@
       "clickCount": 3,
       "bitrate": 0,
       "streamUrl": "https://mediaworks.streamguys1.com/more-chc-high_icy"
+    },
+    {
+      "id": "bollybop_nz_233decb8",
+      "title": "Bollybop",
+      "subtitle": "Music",
+      "location": "New Zealand",
+      "genre": "Music",
+      "countryCode": "NZ",
+      "language": "hindi",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://s3.radio.co/s2f19d44d0/listen"
     }
   ]
 }

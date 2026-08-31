@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-30T03:35:32Z",
+  "updated": "2026-08-31T03:34:25Z",
   "region": "europe",
   "part": 2,
   "of": 8,
@@ -26104,19 +26104,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_free_techno_aa632b1b",
-      "title": "Free Techno",
-      "subtitle": "Creative Commons, Dub Techno",
-      "imageUrl": "",
-      "streamUrl": "http://audio.apps.dj/freetechno",
-      "location": "Spain",
-      "genre": "Creative Commons",
-      "countryCode": "ES",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_fresh_radio_c3d1d0f4",
       "title": "Fresh Radio",
       "subtitle": "Dance, Electro House",
@@ -28016,30 +28003,6 @@
       "streamUrl": "https://radio.plantlandradio.com/listen/plantland_radio/radio.mp3"
     },
     {
-      "id": "dr_p8_jazz_aac_dk_5a5bf838",
-      "title": "DR P8 JAZZ (AAC)",
-      "subtitle": "Jazz",
-      "location": "Denmark",
-      "genre": "Jazz",
-      "countryCode": "DK",
-      "language": "danish",
-      "clickCount": 5,
-      "bitrate": 324,
-      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p8jazz/masterab.m3u8"
-    },
-    {
-      "id": "dr_p4_fyn_aac_dk_50d1da47",
-      "title": "DR P4 Fyn (AAC)",
-      "subtitle": "Regional Radio",
-      "location": "Denmark",
-      "genre": "Regional Radio",
-      "countryCode": "DK",
-      "language": "danish",
-      "clickCount": 3,
-      "bitrate": 324,
-      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4fyn/masterab.m3u8"
-    },
-    {
       "id": "radio_folk_dk_a2051f4e",
       "title": "Radio Folk",
       "subtitle": "Cultural News",
@@ -28350,6 +28313,30 @@
       "clickCount": 11,
       "bitrate": 128,
       "streamUrl": "http://wdr-sportschau-liga1konferenz.icecastssl.wdr.de/wdr/sportschau/liga1konferenz/mp3/high"
+    },
+    {
+      "id": "rpr1_mainz_de_734559d3",
+      "title": "RPR1. Mainz",
+      "subtitle": "80Er",
+      "location": "Germany",
+      "genre": "80Er",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 11,
+      "bitrate": 0,
+      "streamUrl": "https://stream.rpr1.de/mainz/mp3-128/radiobrowser"
+    },
+    {
+      "id": "dr_p5_trekanten_aac_dk_d161d8f5",
+      "title": "DR P5 Trekanten (AAC)",
+      "subtitle": "Regional Radio",
+      "location": "Denmark",
+      "genre": "Regional Radio",
+      "countryCode": "DK",
+      "language": "danish",
+      "clickCount": 2,
+      "bitrate": 324,
+      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p5trekanten/masterab.m3u8"
     }
   ]
 }

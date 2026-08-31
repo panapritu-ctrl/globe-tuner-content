@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-30T03:35:32Z",
+  "updated": "2026-08-31T03:34:25Z",
   "region": "europe",
   "part": 5,
   "of": 8,
@@ -27674,6 +27674,54 @@
       "clickCount": 2,
       "bitrate": 128,
       "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/SOUTH_EAST_RADIO.mp3"
+    },
+    {
+      "id": "takk_r_hu_5119cf26",
+      "title": "Takk-r",
+      "subtitle": "Electronic",
+      "location": "Hungary",
+      "genre": "Electronic",
+      "countryCode": "HU",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "https://radio.takk-r.com/radio/8000/radio.mp3"
+    },
+    {
+      "id": "civil_r_di_hu_18e26271",
+      "title": "Civil Rádió",
+      "subtitle": "Community Radio",
+      "location": "Hungary",
+      "genre": "Community Radio",
+      "countryCode": "HU",
+      "language": "hungarian",
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "http://civilradio.hu:8000/;stream"
+    },
+    {
+      "id": "superdj_r_di_magyar_hu_8e7bd604",
+      "title": "SuperDJ Rádió - Magyar",
+      "subtitle": "Radio",
+      "location": "Hungary",
+      "genre": "Radio",
+      "countryCode": "HU",
+      "language": "hungarian",
+      "clickCount": 2,
+      "bitrate": 256,
+      "streamUrl": "https://s03.diazol.hu:35152/stream3"
+    },
+    {
+      "id": "nearfm_ie_913e0845",
+      "title": "NearFM",
+      "subtitle": "Radio",
+      "location": "Ireland",
+      "genre": "Radio",
+      "countryCode": "IE",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 192,
+      "streamUrl": "http://stream11.shoutcastsolutions.com:8114/stream"
     }
   ]
 }

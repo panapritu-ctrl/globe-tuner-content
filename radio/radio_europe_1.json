@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-30T03:35:32Z",
+  "updated": "2026-08-31T03:34:25Z",
   "region": "europe",
   "part": 1,
   "of": 8,
@@ -4837,19 +4837,6 @@
       "genre": "Généraliste",
       "countryCode": "BE",
       "streamUrl": "http://broadcast.infomaniak.ch/belrtl-mp3-192.mp3"
-    },
-    {
-      "id": "rb2_belgian_dance_radio_182fd9ff",
-      "title": "Belgian Dance Radio",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://s4.radio.co/sf5a880a25/listen",
-      "location": "Belgium",
-      "genre": "Radio",
-      "countryCode": "BE",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 192
     },
     {
       "id": "rb2_boo_ccf8ac31",
@@ -28149,6 +28136,30 @@
       "clickCount": 2,
       "bitrate": 64,
       "streamUrl": "https://27753.live.streamtheworld.com/BONTONAAC.aac?tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=none&burst-time=15&sbmid=4ef04b1d-096f-4273-f8be-4c056d2bd182"
+    },
+    {
+      "id": "gamesboro_radio_at_43c50f8b",
+      "title": "Gamesboro Radio",
+      "subtitle": "Radio",
+      "location": "Austria",
+      "genre": "Radio",
+      "countryCode": "AT",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 192,
+      "streamUrl": "https://radio.gamesboro.org/listen/gamesboro_shoutcast/radio192.mp3/radio.aac"
+    },
+    {
+      "id": "radio_trebinje_ba_cfd9cea2",
+      "title": "Radio Trebinje",
+      "subtitle": "Radio",
+      "location": "Bosnia And Herzegovina",
+      "genre": "Radio",
+      "countryCode": "BA",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 48,
+      "streamUrl": "https://radio.dukahosting.com:7002/;"
     }
   ]
 }

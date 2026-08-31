@@ -1,23 +1,10 @@
 {
   "version": 3,
-  "updated": "2026-08-30T03:35:32Z",
+  "updated": "2026-08-31T03:34:25Z",
   "region": "europe",
   "part": 6,
   "of": 8,
   "stations": [
-    {
-      "id": "rb2_radio_ghemme_1e00df46",
-      "title": "Radio Ghemme",
-      "subtitle": "Pop",
-      "imageUrl": "",
-      "streamUrl": "https://sr8.inmystream.it/proxy/radioghemme?mp=/stream",
-      "location": "Italy",
-      "genre": "Pop",
-      "countryCode": "IT",
-      "language": "italian",
-      "clickCount": 0,
-      "bitrate": 320
-    },
     {
       "id": "rb2_radio_gherd_ina_dolomites_961ce10a",
       "title": "Radio Gherdëina Dolomites",
@@ -2391,19 +2378,6 @@
       "countryCode": "IT",
       "language": "italian",
       "clickCount": 2,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_punto_6fcbdc21",
-      "title": "Radio Punto",
-      "subtitle": "Radio",
-      "imageUrl": "https://www.radiopunto.it/wp/wp-content/uploads/2020/04/cropped-RADIOPUNTOSquare300-1-170x170.png.webp",
-      "streamUrl": "https://antares.dribbcast.com/proxy/puntolive/stream",
-      "location": "Italy",
-      "genre": "Radio",
-      "countryCode": "IT",
-      "language": null,
-      "clickCount": 0,
       "bitrate": 128
     },
     {
@@ -13937,19 +13911,6 @@
       "bitrate": 192
     },
     {
-      "id": "rb2_melodeath_ai_radio_station_439d23ea",
-      "title": "MELODEATH.AI Radio Station",
-      "subtitle": "Radio",
-      "imageUrl": "https://www.ai-metal-radio-station.nl/img/ai-radio.png",
-      "streamUrl": "https://a7.asurahosting.com/listen/melodeath.ai_radio_station/radio.mp3",
-      "location": "The Netherlands",
-      "genre": "Radio",
-      "countryCode": "NL",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_mfm_brabant_93abc417",
       "title": "MFM Brabant",
       "subtitle": "Local News, Local Radio",
@@ -21127,19 +21088,6 @@
       "streamUrl": "https://s1.slotex.pl/shoutcast/7102/stream"
     },
     {
-      "id": "rb2_4fun_tv_890e70d8",
-      "title": "4fun tv",
-      "subtitle": "Tv",
-      "imageUrl": "https://brandingmonitor.pl/wp-content/uploads/2014/02/nowe-logo-4fun-tv-telewizji.jpg",
-      "streamUrl": "https://stream.4fun.tv:8888/hls/4f.m3u8",
-      "location": "Małopolska, Poland",
-      "genre": "Tv",
-      "countryCode": "PL",
-      "language": "polish",
-      "clickCount": 2,
-      "bitrate": 256
-    },
-    {
       "id": "rb2_ah_fm_1_for_electronic_dance_music_1f996e4f",
       "title": "AH.FM: #1 for Electronic Dance Music",
       "subtitle": "Radio",
@@ -26129,18 +26077,6 @@
       "streamUrl": "http://streams.greenhost.nl:8080/folkit"
     },
     {
-      "id": "fm_italia_it_52ece4e9",
-      "title": "FM Italia",
-      "subtitle": "Adult Contemporary",
-      "location": "Italy",
-      "genre": "Adult Contemporary",
-      "countryCode": "IT",
-      "language": "italian",
-      "clickCount": 7,
-      "bitrate": 0,
-      "streamUrl": "http://onair7.xdevel.com:8700/;stream.nsv"
-    },
-    {
       "id": "radio_italia_anni_60_sicilia_messina_it_9f1aef5d",
       "title": "Radio Italia Anni 60 (Sicilia-Messina)",
       "subtitle": "Oldies",
@@ -27363,6 +27299,78 @@
       "clickCount": 2,
       "bitrate": 128,
       "streamUrl": "https://ssl.omegahost.ro/9998/stream"
+    },
+    {
+      "id": "fm_italia_it_52ece4e9",
+      "title": "FM Italia",
+      "subtitle": "Adult Contemporary",
+      "location": "Italy",
+      "genre": "Adult Contemporary",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "http://onair7.xdevel.com:8700/;stream.nsv"
+    },
+    {
+      "id": "radio_parsifal_it_cc974803",
+      "title": "Radio Parsifal",
+      "subtitle": "Italian Pop",
+      "location": "Italy",
+      "genre": "Italian Pop",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "http://onair11.xdevel.com:10044/;stream.mp3"
+    },
+    {
+      "id": "speedy_radio_nl_dff2649e",
+      "title": "Speedy Radio",
+      "subtitle": "Radio",
+      "location": "The Netherlands",
+      "genre": "Radio",
+      "countryCode": "NL",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "https://server-27.stream-server.nl:18312/;listen.mp3"
+    },
+    {
+      "id": "norsk_pop_no_d268d210",
+      "title": "Norsk Pop",
+      "subtitle": "Norges Beste Musikk",
+      "location": "Norway",
+      "genre": "Norges Beste Musikk",
+      "countryCode": "NO",
+      "language": "norwegian",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://live-bauerno.sharp-stream.com/norskpop_no_mp3"
+    },
+    {
+      "id": "radio_orte_it_657a3e31",
+      "title": "Radio Orte",
+      "subtitle": "Pop",
+      "location": "Italy",
+      "genre": "Pop",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "http://onair18.xdevel.com:8122/"
+    },
+    {
+      "id": "lust_gs_radio_lv_6f6cbc45",
+      "title": "Lustīgs Radio",
+      "subtitle": "Country",
+      "location": "Latvia",
+      "genre": "Country",
+      "countryCode": "LV",
+      "language": "english",
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "http://stream.lustigsradio.lv/live"
     }
   ]
 }

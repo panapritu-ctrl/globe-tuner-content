@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-30T03:35:32Z",
+  "updated": "2026-08-31T03:34:25Z",
   "region": "europe",
   "part": 4,
   "of": 8,
@@ -1199,19 +1199,6 @@
       "countryCode": "GB",
       "language": "english",
       "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_all_80s_radio_f794173d",
-      "title": "All 80s Radio",
-      "subtitle": "1980S, 80S",
-      "imageUrl": "https://m.media-amazon.com/images/I/71cFot49oFL.png",
-      "streamUrl": "http://stream.witneyfm.co.uk:8000/80",
-      "location": "Oxfordshire, The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "1980S",
-      "countryCode": "GB",
-      "language": "english",
-      "clickCount": 2,
       "bitrate": 128
     },
     {
@@ -20651,19 +20638,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_central_103_3_8b8502d1",
-      "title": "Central 103.3",
-      "subtitle": "Greek Music",
-      "imageUrl": "",
-      "streamUrl": "https://i6.streams.ovh/sc/central/stream",
-      "location": "Rethimno, Greece",
-      "genre": "Greek Music",
-      "countryCode": "GR",
-      "language": "greek",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_chania_99_6_81e845c3",
       "title": "Chania 99.6",
       "subtitle": "Mainstream, Pop",
@@ -27354,6 +27328,78 @@
       "clickCount": 3,
       "bitrate": 128,
       "streamUrl": "https://live.akous.gr/akouspalko"
+    },
+    {
+      "id": "mega_news_104_6_gr_81169b7a",
+      "title": "Mega News 104.6",
+      "subtitle": "News",
+      "location": "Greece",
+      "genre": "News",
+      "countryCode": "GR",
+      "language": "greek",
+      "clickCount": 11,
+      "bitrate": 320,
+      "streamUrl": "https://nmcdn-ea00263bf2fa4959b1207c5b169d1517.msvdn.net/icecastRelay/S92303783/lih0S0uubyJi/icecast"
+    },
+    {
+      "id": "station_gr_a5c8dd23",
+      "title": "Έντεχνα",
+      "subtitle": "Radio",
+      "location": "Greece",
+      "genre": "Radio",
+      "countryCode": "GR",
+      "language": null,
+      "clickCount": 11,
+      "bitrate": 128,
+      "streamUrl": "https://rasp35.ddnsfree.com:3535/stream"
+    },
+    {
+      "id": "radio_art_meditation_gr_90b0c868",
+      "title": "Radio Art - Meditation",
+      "subtitle": "Ambient",
+      "location": "Greece",
+      "genre": "Ambient",
+      "countryCode": "GR",
+      "language": "english",
+      "clickCount": 7,
+      "bitrate": 96,
+      "streamUrl": "http://air-tunein.radioart.com/fMeditation.mp3"
+    },
+    {
+      "id": "my_radio_gr_gr_5e70bd74",
+      "title": "My Radio GR",
+      "subtitle": "Greek Pop",
+      "location": "Greece",
+      "genre": "Greek Pop",
+      "countryCode": "GR",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://visual.shoutca.st:8616/stream"
+    },
+    {
+      "id": "laterna_gr_68a8ea2e",
+      "title": "Laterna",
+      "subtitle": "Rock",
+      "location": "Greece",
+      "genre": "Rock",
+      "countryCode": "GR",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://laterna.kafeneio.social:8000/radio.mp3"
+    },
+    {
+      "id": "radio_grey_gr_b1c6300c",
+      "title": "Radio Grey",
+      "subtitle": "Radio",
+      "location": "Greece",
+      "genre": "Radio",
+      "countryCode": "GR",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://eu10.fastcast4u.com:15360/;?type=http&nocache=1737135527"
     }
   ]
 }

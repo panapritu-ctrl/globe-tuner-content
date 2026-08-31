@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-30T03:35:32Z",
+  "updated": "2026-08-31T03:34:25Z",
   "region": "asia",
   "part": 3,
   "of": 3,
@@ -14507,18 +14507,6 @@
       "streamUrl": "https://stream.turkiyeradyolari.com/9300/stream?_t=1786859250066"
     },
     {
-      "id": "dzrh_news_television_ph_f017c235",
-      "title": "DZRH News Television",
-      "subtitle": "Radio",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "language": null,
-      "clickCount": 9,
-      "bitrate": 290,
-      "streamUrl": "https://ythls.armelin.one/channel/UCcTiBX8js_djhSSlmJRI99A.m3u8"
-    },
-    {
       "id": "bombo_radyo_laoag_ph_19da36bf",
       "title": "Bombo Radyo Laoag",
       "subtitle": "Radio",
@@ -14601,18 +14589,6 @@
       "clickCount": 5,
       "bitrate": 80,
       "streamUrl": "http://live.kiss102fmbohol.com:8000/dyrdam"
-    },
-    {
-      "id": "kent_fm_tr_aace675c",
-      "title": "Kent FM",
-      "subtitle": "Radio",
-      "location": "Türkiye",
-      "genre": "Radio",
-      "countryCode": "TR",
-      "language": null,
-      "clickCount": 5,
-      "bitrate": 0,
-      "streamUrl": "https://moondigitalmaster.radyotvonline.net/kentfm/playlist.m3u8"
     },
     {
       "id": "radyo_13_fm_96_tr_25643e08",
@@ -15059,18 +15035,6 @@
       "streamUrl": "https://stream.radiojar.com/cg24hdbwa0hvv"
     },
     {
-      "id": "92_3_radyo5_true_fm_ph_5565e674",
-      "title": "92.3 Radyo5 True FM",
-      "subtitle": "Radio",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "language": null,
-      "clickCount": 5,
-      "bitrate": 463,
-      "streamUrl": "https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/radyo5_qp.m3u8"
-    },
-    {
       "id": "92_7_hot_fm_dwcl_ph_25897c02",
       "title": "92.7 Hot FM - DWCL",
       "subtitle": "Adult",
@@ -15201,18 +15165,6 @@
       "clickCount": 3,
       "bitrate": 3128,
       "streamUrl": "https://cdn-edge.iiptvcdn.com/live_event/smil:a834-75a7-a662-db55-5fa3.smil/playlist.m3u8?null"
-    },
-    {
-      "id": "nbt_north_digital_tv_channel_11_th_276013b8",
-      "title": "NBT North: digital TV channel 11",
-      "subtitle": "Radio",
-      "location": "Thailand",
-      "genre": "Radio",
-      "countryCode": "TH",
-      "language": "thai",
-      "clickCount": 3,
-      "bitrate": 3128,
-      "streamUrl": "https://cdn-edge.iiptvcdn.com/live_event/smil:4f6e-aa34-2034-5492-c82d.smil/playlist.m3u8?null"
     },
     {
       "id": "amarin_tv_hd_digital_tv_channel_34_th_aec34847",
@@ -15609,6 +15561,78 @@
       "clickCount": 3,
       "bitrate": 300,
       "streamUrl": "https://live.topnews.co.th/hls/topnews.m3u8"
+    },
+    {
+      "id": "radyo5_105_9_true_fm_ph_5565e674",
+      "title": "Radyo5 105.9 True FM",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 7,
+      "bitrate": 463,
+      "streamUrl": "https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/radyo5_qp.m3u8"
+    },
+    {
+      "id": "am_1512_tw_36fddf6b",
+      "title": "警察廣播電臺 - 新竹分臺 AM 1512",
+      "subtitle": "Emergency & Public Safety",
+      "location": "Taiwan, Republic Of China",
+      "genre": "Emergency & Public Safety",
+      "countryCode": "TW",
+      "language": "chinese",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream.pbs.gov.tw/live/SCS/playlist.m3u8"
+    },
+    {
+      "id": "xradio_the_worldwide_superstation_sg_3c5b82e5",
+      "title": "XRadio: The Worldwide Superstation",
+      "subtitle": "Bass",
+      "location": "Singapore",
+      "genre": "Bass",
+      "countryCode": "SG",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "http://xradio.zone:9420/stream.mp3"
+    },
+    {
+      "id": "fm_100_5_mhz_mcot_news_network_th_40713c16",
+      "title": "FM 100.5 MHz MCOT news network",
+      "subtitle": "Radio",
+      "location": "Thailand",
+      "genre": "Radio",
+      "countryCode": "TH",
+      "language": "thai",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://ymqaf8yp.mcot.net/FM1005/fm1005.stream_aac/playlist.m3u8"
+    },
+    {
+      "id": "fm_94_3_tw_9c7b64bc",
+      "title": "警察廣播電臺 - 花蓮分臺 FM 94.3",
+      "subtitle": "Emergency & Public Safety",
+      "location": "Taiwan, Republic Of China",
+      "genre": "Emergency & Public Safety",
+      "countryCode": "TW",
+      "language": "chinese",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://stream.pbs.gov.tw/live/HLS/playlist.m3u8"
+    },
+    {
+      "id": "fm_101_3_tw_1e1ab922",
+      "title": "警察廣播電臺 - 宜蘭分臺 FM 101.3",
+      "subtitle": "Emergency & Public Safety",
+      "location": "Taiwan, Republic Of China",
+      "genre": "Emergency & Public Safety",
+      "countryCode": "TW",
+      "language": "chinese",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://stream.pbs.gov.tw/live/ELS/playlist.m3u8"
     }
   ]
 }
