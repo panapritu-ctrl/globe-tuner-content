@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-31T03:34:25Z",
+  "updated": "2026-09-01T03:35:52Z",
   "region": "asia",
   "part": 3,
   "of": 3,
@@ -970,15 +970,6 @@
       "language": "english",
       "clickCount": 4,
       "bitrate": 128
-    },
-    {
-      "id": "energy_fm_manila_ph_b3cddc",
-      "title": "Energy FM Manila",
-      "subtitle": "Radio",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "streamUrl": "http://ph-icecast.eradioportal.com:8000/energyfm_manila"
     },
     {
       "id": "rb2_energy_fm_naga_5b822425",
@@ -1990,19 +1981,6 @@
       "language": null,
       "clickCount": 1,
       "bitrate": 112
-    },
-    {
-      "id": "rb2_opm_rise_up_radio_c6528aff",
-      "title": "OPM Rise Up Radio",
-      "subtitle": "Radio",
-      "imageUrl": "https://opmriseupradio.com/opm%20rise%20up%20logo.png",
-      "streamUrl": "https://listen.streamaudio.co/proxy/opmriseupradio/opmriseup",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 64
     },
     {
       "id": "rb2_pagudpud_beach_radio_cbade815",
@@ -4452,19 +4430,6 @@
       "genre": "Music",
       "countryCode": "QA",
       "streamUrl": "https://live-hls-web-aja-gcp.thehlive.com/VOICE-AJA/index.m3u8"
-    },
-    {
-      "id": "rb2_al_jazeera_video_6ec50764",
-      "title": "Al Jazeera Video",
-      "subtitle": "English, World News",
-      "imageUrl": "https://www.aljazeera.com/",
-      "streamUrl": "https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8",
-      "location": "Doha QATAR, Qatar",
-      "genre": "English",
-      "countryCode": "QA",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 6324
     },
     {
       "id": "al_jazzera_news_audio_hub_live_english_2_qa_331714",
@@ -11650,15 +11615,6 @@
       "bitrate": 128
     },
     {
-      "id": "fm98_9_tw_3c38aa",
-      "title": "人人電台 好事聯播網FM98.9",
-      "subtitle": "Music",
-      "location": "Taipei, Taiwan, Republic Of China",
-      "genre": "Music",
-      "countryCode": "TW",
-      "streamUrl": "http://202.39.43.67:1935/live/RA000013/chunklist.m3u8"
-    },
-    {
       "id": "rb2_station_7a27042e",
       "title": "佳音經典音樂網",
       "subtitle": "Chirstian, Classical",
@@ -13061,15 +13017,6 @@
       "countryCode": "UZ"
     },
     {
-      "id": "yoshlar_ovozi_uz_13d416",
-      "title": "Yoshlar Ovozi",
-      "subtitle": "Music",
-      "location": "Uzbekistan",
-      "genre": "Music",
-      "countryCode": "UZ",
-      "streamUrl": "http://ns10.jethost.uz:8000/yoshlarovoziaac"
-    },
-    {
       "id": "99_8_radio_vn",
       "title": "99.8 Radio",
       "subtitle": "News / Oldies",
@@ -13605,18 +13552,6 @@
       "clickCount": 5,
       "bitrate": 0,
       "streamUrl": "https://radyo.duhnet.tv/dreamturk"
-    },
-    {
-      "id": "fm104_tw_4b5a6196",
-      "title": "正聲廣播電台FM104",
-      "subtitle": "Music",
-      "location": "Taiwan, Republic Of China",
-      "genre": "Music",
-      "countryCode": "TW",
-      "language": "chinese",
-      "clickCount": 7,
-      "bitrate": 0,
-      "streamUrl": "https://flv.ccdntech.com/live/_definst_/mp4:vod117_Live/live1/chunklist_w872521607.m3u8"
     },
     {
       "id": "needs_radio_tw_5cc663c9",
@@ -14543,18 +14478,6 @@
       "streamUrl": "https://80sv2.hostpleng.com/?url=http://112.121.151.133:8109/stream"
     },
     {
-      "id": "radyo_viva_tr_bc5490f9",
-      "title": "Radyo Viva",
-      "subtitle": "Radio",
-      "location": "Türkiye",
-      "genre": "Radio",
-      "countryCode": "TR",
-      "language": null,
-      "clickCount": 7,
-      "bitrate": 0,
-      "streamUrl": "https://moondigitaledge.radyotvonline.net/radyoviva/playlist.m3u8"
-    },
-    {
       "id": "y_n_radyo_tr_b3615378",
       "title": "Yön Radyo",
       "subtitle": "Radio",
@@ -15143,18 +15066,6 @@
       "streamUrl": "https://cdn-th2.login.in.th/shoutcast/8425"
     },
     {
-      "id": "9_mcot_hd_digital_tv_channel_30_th_1fbac3f1",
-      "title": "ช่อง 9 MCOT HD: digital TV channel 30",
-      "subtitle": "Radio",
-      "location": "Thailand",
-      "genre": "Radio",
-      "countryCode": "TH",
-      "language": "thai",
-      "clickCount": 3,
-      "bitrate": 3000,
-      "streamUrl": "https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/playlist.m3u8"
-    },
-    {
       "id": "nbt_south_digital_tv_channel_11_th_db634d92",
       "title": "NBT South: digital tv channel 11",
       "subtitle": "Radio",
@@ -15633,6 +15544,270 @@
       "clickCount": 3,
       "bitrate": 128,
       "streamUrl": "https://stream.pbs.gov.tw/live/ELS/playlist.m3u8"
+    },
+    {
+      "id": "stars_radio_tw_5cb4acd6",
+      "title": "Stars RADIO星蹤之愛廣播網",
+      "subtitle": "Radio",
+      "location": "Taiwan, Republic Of China",
+      "genre": "Radio",
+      "countryCode": "TW",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 131,
+      "streamUrl": "https://cdn280.ccdntech.com/live-http/_definst_/vod280_Live/stars/playlist.m3u8"
+    },
+    {
+      "id": "103_1_lite_fm_dwva_ph_ac7a4b97",
+      "title": "103.1 LITE FM - DWVA",
+      "subtitle": "Easy Listening",
+      "location": "The Philippines",
+      "genre": "Easy Listening",
+      "countryCode": "PH",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://stream-178.zeno.fm/r8pmp16khf9uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJyOHBtcDE2a2hmOXV2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiWnNlblZkQTNUaXE3UkFhXy1OaHJmZyIsImlhdCI6MTc3NTk5MTc0NCwiZXhwIjoxNzc1OTkxODA0fQ.ds0pf7JWT67FfqMWuimjGOjQWirdes3-Wvaxmk4rp8Q"
+    },
+    {
+      "id": "al_jazeera_video_qa_dc56315c",
+      "title": "Al Jazeera Video",
+      "subtitle": "English",
+      "location": "Qatar",
+      "genre": "English",
+      "countryCode": "QA",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 6128,
+      "streamUrl": "https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8"
+    },
+    {
+      "id": "am_792khz_th_cdd1c1ab",
+      "title": "วพท. am 792KHZ กรุงเทพฯ",
+      "subtitle": "Radio",
+      "location": "Thailand",
+      "genre": "Radio",
+      "countryCode": "TH",
+      "language": "ภาษาไทย",
+      "clickCount": 4,
+      "bitrate": 96,
+      "streamUrl": "https://radio9.plathong.net/7162/;"
+    },
+    {
+      "id": "am_1314_tw_6df6e2a9",
+      "title": "警察廣播電臺 - 臺南分臺 AM 1314",
+      "subtitle": "Emergency & Public Safety",
+      "location": "Taiwan, Republic Of China",
+      "genre": "Emergency & Public Safety",
+      "countryCode": "TW",
+      "language": "chinese",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream.pbs.gov.tw/live/TNS/playlist.m3u8"
+    },
+    {
+      "id": "x_fm_naga_city_philippines_new_ph_656d2e3d",
+      "title": "X FM Naga City, Philippines (NEW)",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 32,
+      "streamUrl": "https://listen.imjinteractive.net:8028/stream"
+    },
+    {
+      "id": "win_radio_cebu_ph_c1eec89b",
+      "title": "Win Radio Cebu",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://stream.zeno.fm/dx1k9na7nznvv"
+    },
+    {
+      "id": "home_radio_dagupan_ph_2f235b5e",
+      "title": "Home Radio Dagupan",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 48,
+      "streamUrl": "http://142.44.212.114:9377/stream"
+    },
+    {
+      "id": "9_mcot_hd_digital_tv_channel_30_th_1fbac3f1",
+      "title": "ช่อง 9 MCOT HD: digital TV channel 30",
+      "subtitle": "Radio",
+      "location": "Thailand",
+      "genre": "Radio",
+      "countryCode": "TH",
+      "language": "thai",
+      "clickCount": 3,
+      "bitrate": 3000,
+      "streamUrl": "https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/playlist.m3u8"
+    },
+    {
+      "id": "fm_94_3_tw_2fca4f50",
+      "title": "警察廣播電臺 - 臺東分臺 FM 94.3",
+      "subtitle": "Emergency & Public Safety",
+      "location": "Taiwan, Republic Of China",
+      "genre": "Emergency & Public Safety",
+      "countryCode": "TW",
+      "language": "chinese",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://stream.pbs.gov.tw/live/TTS/playlist.m3u8"
+    },
+    {
+      "id": "dwje_88_1_fm_radyo_pangasinan_ph_3bd3240e",
+      "title": "DWJE 88.1 FM Radyo Pangasinan",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 0,
+      "streamUrl": "https://tiny-sun-4316.radyopangasinan88-1fm.workers.dev/stream"
+    },
+    {
+      "id": "xfm_96_7_bacolod_ph_7af86518",
+      "title": "XFM 96.7 BACOLOD",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 64,
+      "streamUrl": "https://us1.amfmph.com/ssl/xfmbacolod?mp=/live"
+    },
+    {
+      "id": "xfm_davao_city_ph_9f370729",
+      "title": "XFM Davao City",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 64,
+      "streamUrl": "http://us1.amfmph.com:8724/live"
+    },
+    {
+      "id": "106_3_kfive_fm_bacolod_ph_c15ab096",
+      "title": "106.3 KFive FM Bacolod",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 48,
+      "streamUrl": "http://209.126.124.126:8721/stream"
+    },
+    {
+      "id": "radyo_bandera_sweet_fm_bacolod_ph_444c1e2e",
+      "title": "Radyo Bandera Sweet FM Bacolod",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 48,
+      "streamUrl": "https://us1.amfmph.com/ssl/sweetfmbacolod?mp=%2Fstream"
+    },
+    {
+      "id": "radyo_sincero_valencia_ph_60c60e2a",
+      "title": "Radyo Sincero Valencia",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 0,
+      "streamUrl": "http://stream.zeno.fm/vzrt2visttbvv"
+    },
+    {
+      "id": "star_fm_dagupan_ph_901f96ee",
+      "title": "Star FM Dagupan",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 0,
+      "streamUrl": "https://stream.zeno.fm/kw40qqc29heuv"
+    },
+    {
+      "id": "spirit_fm_legazpi_ph_a97b468a",
+      "title": "Spirit FM Legazpi",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 0,
+      "streamUrl": "https://stream.zeno.fm/dkeieomtv0ruv"
+    },
+    {
+      "id": "home_radio_palawan_ph_e6db6413",
+      "title": "Home Radio Palawan",
+      "subtitle": "Opm",
+      "location": "The Philippines",
+      "genre": "Opm",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 48,
+      "streamUrl": "http://142.44.212.114:9381/stream"
+    },
+    {
+      "id": "brigada_news_fm_cauayan_ph_718d943d",
+      "title": "Brigada News FM Cauayan",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "http://18.141.67.248:8044/stream/1/"
+    },
+    {
+      "id": "star_fm_iloilo_ph_f50c645d",
+      "title": "Star FM Iloilo",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 0,
+      "streamUrl": "https://stream.zeno.fm/t9tm8gm29heuv"
+    },
+    {
+      "id": "star_fm_94_5_la_union_ph_eaa2e2c7",
+      "title": "Star FM 94.5 La Union",
+      "subtitle": "Music",
+      "location": "The Philippines",
+      "genre": "Music",
+      "countryCode": "PH",
+      "language": "english",
+      "clickCount": 2,
+      "bitrate": 0,
+      "streamUrl": "https://stream-144.zeno.fm/sa27v4d29heuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzYTI3djRkMjloZXV2IiwiaG9zdCI6InN0cmVhbS0xNDQuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjAzWkd2TktFVFk2ZDBYMjlQQk9WVUEiLCJpYXQiOjE3MzkxNDI4MjEsImV4cCI6MTczOTE0Mjg4MX0.k1L24899hTkQMsVjbACkzzfi8EpFurlfG1OJlkXpJiA"
     }
   ]
 }

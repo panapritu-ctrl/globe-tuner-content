@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-31T03:34:25Z",
+  "updated": "2026-09-01T03:35:52Z",
   "region": "europe",
   "part": 7,
   "of": 8,
@@ -843,19 +843,6 @@
       "streamUrl": "https://radio.stream.smcdn.pl/timeradio-p/2230-1.aac/playlist.m3u8",
       "location": "Zamość, Poland",
       "genre": "Dance",
-      "countryCode": "PL",
-      "language": "polish",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_eska_lmpreska_warszawa_371fd88e",
-      "title": "Radio Eska lmpreska Warszawa",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://radio.stream.smcdn.pl/timeradio-p/6030-1.aac/playlist.m3u8",
-      "location": "Warszawa, Poland",
-      "genre": "Radio",
       "countryCode": "PL",
       "language": "polish",
       "clickCount": 0,
@@ -10430,19 +10417,6 @@
       "bitrate": 320
     },
     {
-      "id": "rb2_radio_boom_gold_buz_u_rm_sarat_96_7_fm_7f6ea09c",
-      "title": "Radio BOOM Gold -Buzău, Rm. Sarat 96,7 FM",
-      "subtitle": "Hits",
-      "imageUrl": "https://live.radioboom.ro/generic_song-gold.png",
-      "streamUrl": "https://stream.radioboom.ro:8500/radio.mp3",
-      "location": "Romania",
-      "genre": "Hits",
-      "countryCode": "RO",
-      "language": "română",
-      "clickCount": 0,
-      "bitrate": 320
-    },
-    {
       "id": "rb2_radio_boom_house_music_buz_u_rm_sarat_10_969b823d",
       "title": "Radio BOOM House Music -Buzău, Rm. Sarat 102,3 FM",
       "subtitle": "House",
@@ -17178,19 +17152,6 @@
       "genre": "Music",
       "countryCode": "RU",
       "streamUrl": "http://ic4.101.ru:8000/stream/air/aac/64/200"
-    },
-    {
-      "id": "rb2_hype_fm_fm_62f8915a",
-      "title": "..:: HYPE FM - ХАЙП FM - РЕЗЕРВ ::..",
-      "subtitle": "Radio",
-      "imageUrl": "https://hypefm.ru/wp-content/uploads/2020/08/cropped-nobg-2.png",
-      "streamUrl": "http://54.154.49.88:8000/HipHop/HypeFM",
-      "location": "The Russian Federation",
-      "genre": "Radio",
-      "countryCode": "RU",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 128
     },
     {
       "id": "rb2_kids_hit_4dfaa95a",
@@ -24775,18 +24736,6 @@
       "streamUrl": "https://s1.slotex.pl/shoutcast/7238/stream"
     },
     {
-      "id": "super_fm_bra_ov_93_8_fm_ro_7c0ecbca",
-      "title": "Super FM -Brașov 93.8 FM",
-      "subtitle": "Manele",
-      "location": "Romania",
-      "genre": "Manele",
-      "countryCode": "RO",
-      "language": "romania",
-      "clickCount": 3,
-      "bitrate": 192,
-      "streamUrl": "https://live.superfm.ro/stream.mp3"
-    },
-    {
       "id": "nicecream_fm_blue_ro_986a5308",
       "title": "Nicecream.fm BLUE",
       "subtitle": "Ambient",
@@ -24989,6 +24938,126 @@
       "clickCount": 3,
       "bitrate": 128,
       "streamUrl": "http://213.239.205.210:8082/stream"
+    },
+    {
+      "id": "radio_sremac_102_7_rs_f5da2814",
+      "title": "Radio Sremac 102.7",
+      "subtitle": "Folk Music",
+      "location": "Serbia",
+      "genre": "Folk Music",
+      "countryCode": "RS",
+      "language": "serbian",
+      "clickCount": 5,
+      "bitrate": 256,
+      "streamUrl": "https://mpc2.mediacp.eu:8282/sremac"
+    },
+    {
+      "id": "yu_eco_subotica_100_6_rs_9e31524c",
+      "title": "Yu Eco Subotica 100.6",
+      "subtitle": "Pop",
+      "location": "Serbia",
+      "genre": "Pop",
+      "countryCode": "RS",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://s1.skeletor.rs/yueco"
+    },
+    {
+      "id": "4fun_tv_pl_66dc4665",
+      "title": "4fun tv",
+      "subtitle": "Tv",
+      "location": "Poland",
+      "genre": "Tv",
+      "countryCode": "PL",
+      "language": "polish",
+      "clickCount": 4,
+      "bitrate": 256,
+      "streamUrl": "https://stream.4fun.tv:8888/hls/4f.m3u8"
+    },
+    {
+      "id": "lautaru_populara_ro_fb71e48e",
+      "title": "Lautaru Populara",
+      "subtitle": "Radio",
+      "location": "Romania",
+      "genre": "Radio",
+      "countryCode": "RO",
+      "language": "romanian",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://live.radiolautaru.ro:9000/;stream.nsv"
+    },
+    {
+      "id": "radio_radom_pl_ae0b0b1a",
+      "title": "Radio Radom",
+      "subtitle": "Adult Contemporary / Mix Hits",
+      "location": "Poland",
+      "genre": "Adult Contemporary / Mix Hits",
+      "countryCode": "PL",
+      "language": "polish",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "http://stream6.nadaje.com:15292/radioradompl"
+    },
+    {
+      "id": "clasic_radio_vivaldi_bucure_ti_ro_fa8496b0",
+      "title": "Clasic Radio_Vivaldi -București",
+      "subtitle": "Classical Music",
+      "location": "Romania",
+      "genre": "Classical Music",
+      "countryCode": "RO",
+      "language": "română",
+      "clickCount": 3,
+      "bitrate": 192,
+      "streamUrl": "https://live.radioclasic.com/listen/radio_clasic_vivaldi/live.mp3"
+    },
+    {
+      "id": "superfm_brasov_93_8_fm_ro_bdd5f01e",
+      "title": "SuperFM Brasov 93.8 FM",
+      "subtitle": "Radio",
+      "location": "Romania",
+      "genre": "Radio",
+      "countryCode": "RO",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 192,
+      "streamUrl": "https://live.superfm.ro/stream.mp3?nocache=0.19023860954617056"
+    },
+    {
+      "id": "radio_vrnja_ka_banja_rs_2ee7a566",
+      "title": "Radio Vrnjačka Banja",
+      "subtitle": "Pop",
+      "location": "Serbia",
+      "genre": "Pop",
+      "countryCode": "RS",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://live.rtvvrnjackabanja.com/rvb.mp3"
+    },
+    {
+      "id": "kiss_online_radio_pl_7758e4c7",
+      "title": "Kiss Online Radio",
+      "subtitle": "Radio",
+      "location": "Poland",
+      "genre": "Radio",
+      "countryCode": "PL",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "http://streaming.g-news.pl:8090/kissfm"
+    },
+    {
+      "id": "radio_noise_gold_ro_19038ea6",
+      "title": "Radio Noise Gold",
+      "subtitle": "Radio",
+      "location": "Romania",
+      "genre": "Radio",
+      "countryCode": "RO",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "https://goldlive.radionoise.ro:9170/stream"
     }
   ]
 }

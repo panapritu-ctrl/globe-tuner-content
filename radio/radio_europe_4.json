@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-31T03:34:25Z",
+  "updated": "2026-09-01T03:35:52Z",
   "region": "europe",
   "part": 4,
   "of": 8,
@@ -8797,19 +8797,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_indie_soul_radio_ccf3396a",
-      "title": "Indie Soul Radio",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://s2.citrus3.com:8404/stream",
-      "location": "The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "Radio",
-      "countryCode": "GB",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_infinity_radio_uk_28251a78",
       "title": "Infinity Radio UK",
       "subtitle": "Radio",
@@ -9326,19 +9313,6 @@
       "genre": "Pop",
       "countryCode": "GB",
       "streamUrl": "https://live-kiss.sharp-stream.com/kiss100.mp3"
-    },
-    {
-      "id": "rb2_kiss_xtra_black_music_culture_abb48ea5",
-      "title": "KISS XTRA: Black Music & Culture",
-      "subtitle": "Bauer Radio, Contemporary R&B",
-      "imageUrl": "https://cdn-profiles.tunein.com/s198663/images/logod.png",
-      "streamUrl": "https://live-bauerkiss.sharp-stream.com/kissfresh.aac?direct=true&aw_0_1st.skey=1602676850&rp_source=1&=&&___cb=60456375243858",
-      "location": "London, The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "Bauer Radio",
-      "countryCode": "GB",
-      "language": "english",
-      "clickCount": 3,
-      "bitrate": 47
     },
     {
       "id": "kisstory_gb_6498b9",
@@ -18631,15 +18605,6 @@
       "bitrate": 128
     },
     {
-      "id": "sky_news_uk_gb_512e87",
-      "title": "sky news UK",
-      "subtitle": "Radio",
-      "location": "The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "Radio",
-      "countryCode": "GB",
-      "streamUrl": "https://tunein.cdnstream1.com/3688_96.mp3?aw_0_1st.skey=1718490659&aw_0_1st.abtest=&aw_0_1st.stationId=s2583&aw_0_1st.premium=false&source=TuneIn&aw_0_1st.platform=tunein&aw_0_1st.genre_id=g255&aw_0_1st.class=talk&aw_0_1st.ads_partner_alias=ce.Other&aw_0_azn.planguage=en"
-    },
-    {
       "id": "talksport_gb_9f5d06",
       "title": "talkSPORT",
       "subtitle": "News",
@@ -19370,19 +19335,6 @@
       "language": "greek",
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_aquarius_fm_105_5_056690af",
-      "title": "AQUARIUS FM 105,5",
-      "subtitle": "Radio",
-      "imageUrl": "https://aquariusfm.gr/wp-content/uploads/2022/02/aquarius_logo_footer.png",
-      "streamUrl": "https://sh.onweb.gr:7011/stream",
-      "location": "Greece",
-      "genre": "Radio",
-      "countryCode": "GR",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 160
     },
     {
       "id": "rb2_acropol_1242_9542acbe",
@@ -27400,6 +27352,54 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://eu10.fastcast4u.com:15360/;?type=http&nocache=1737135527"
+    },
+    {
+      "id": "athina_984_gr_dc29eb5a",
+      "title": "Athina 984",
+      "subtitle": "News",
+      "location": "Greece",
+      "genre": "News",
+      "countryCode": "GR",
+      "language": "greek",
+      "clickCount": 7,
+      "bitrate": 128,
+      "streamUrl": "http://athina984.live24.gr/athina984"
+    },
+    {
+      "id": "1055_rock_thessaloniki_radio2_gr_2dde04af",
+      "title": "1055 ROCK - THESSALONIKI - RADIO2",
+      "subtitle": "Radio",
+      "location": "Greece",
+      "genre": "Radio",
+      "countryCode": "GR",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "http://radio.1055rock.gr:30000/1055?ver=324406"
+    },
+    {
+      "id": "republic_100_3_gr_eff39068",
+      "title": "Republic 100.3",
+      "subtitle": "Ambient",
+      "location": "Greece",
+      "genre": "Ambient",
+      "countryCode": "GR",
+      "language": "greek",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://netradio.live24.gr/republicthess"
+    },
+    {
+      "id": "iraklis_radio_gr_50caa94c",
+      "title": "Iraklis Radio",
+      "subtitle": "Diy",
+      "location": "Greece",
+      "genre": "Diy",
+      "countryCode": "GR",
+      "language": "english",
+      "clickCount": 2,
+      "bitrate": 112,
+      "streamUrl": "https://centova.gr-net.gr/proxy/iraklisradio/stream"
     }
   ]
 }

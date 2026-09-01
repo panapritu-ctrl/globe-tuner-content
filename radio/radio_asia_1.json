@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-31T03:34:25Z",
+  "updated": "2026-09-01T03:35:52Z",
   "region": "asia",
   "part": 1,
   "of": 3,
@@ -11668,19 +11668,6 @@
       "countryCode": "CN",
       "language": "chinese",
       "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_nekofm_hit_songs_517f2494",
-      "title": "NekoFM_Hit_songs",
-      "subtitle": "Edm, Pop Music",
-      "imageUrl": "",
-      "streamUrl": "http://38.76.209.235/listen/nekofm_hit_songs/radio.mp3",
-      "location": "China",
-      "genre": "Edm",
-      "countryCode": "CN",
-      "language": "china",
-      "clickCount": 3,
       "bitrate": 128
     },
     {
@@ -24787,19 +24774,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_station_e65b9f4c",
-      "title": "第一财经（一财官网线路）",
-      "subtitle": "Economics",
-      "imageUrl": "https://www.yicai.com/img/logo.66870cb6.png",
-      "streamUrl": "https://a1live.livecdn.yicai.com/live/yicai_radio.m3u8",
-      "location": "Shanghai, China",
-      "genre": "Economics",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_station_15e854b6",
       "title": "綦江综合广播",
       "subtitle": "Information, News",
@@ -26401,18 +26375,6 @@
       "streamUrl": "https://gbradio.cdn.tibus.net/U105?aw_0_1st.playerId=wireless-website&_=477645"
     },
     {
-      "id": "panorama_fm_bh_0d60585d",
-      "title": "Panorama FM",
-      "subtitle": "Radio",
-      "location": "Bahrain",
-      "genre": "Radio",
-      "countryCode": "BH",
-      "language": null,
-      "clickCount": 3,
-      "bitrate": 348,
-      "streamUrl": "https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8"
-    },
-    {
       "id": "station_af_488270ce",
       "title": ".إذاعة ماهر المعيقلي",
       "subtitle": "Classical",
@@ -26951,6 +26913,54 @@
       "clickCount": 2,
       "bitrate": 0,
       "streamUrl": "http://l.cztvcloud.com/channels/lantian/SXyongjiaaud/128k.m3u8"
+    },
+    {
+      "id": "station_cn_78e24efa",
+      "title": "湾区音乐台_鹤山音乐广播",
+      "subtitle": "Music",
+      "location": "China",
+      "genre": "Music",
+      "countryCode": "CN",
+      "language": "cantonese",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://lhttp-hw.qtfm.cn/live/20500163/64k.mp3"
+    },
+    {
+      "id": "exclusively_barbra_streisand_ae_3eb39619",
+      "title": "Exclusively Barbra Streisand",
+      "subtitle": "Adult Contemporary",
+      "location": "The United Arab Emirates",
+      "genre": "Adult Contemporary",
+      "countryCode": "AE",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://streaming.exclusive.radio/er/streisand/icecast.audio"
+    },
+    {
+      "id": "panorama_fm_bh_0d60585d",
+      "title": "Panorama FM",
+      "subtitle": "Radio",
+      "location": "Bahrain",
+      "genre": "Radio",
+      "countryCode": "BH",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 348,
+      "streamUrl": "https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8"
+    },
+    {
+      "id": "station_cn_b1f79f74",
+      "title": "长沙市望城区人民广播电台",
+      "subtitle": "Music",
+      "location": "China",
+      "genre": "Music",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 2,
+      "bitrate": 0,
+      "streamUrl": "http://lhttp.qingting.fm/live/5022076/64k.mp3"
     }
   ]
 }

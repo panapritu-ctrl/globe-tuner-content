@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-31T03:34:25Z",
+  "updated": "2026-09-01T03:35:53Z",
   "region": "oceania",
   "stations": [
     {
@@ -11460,19 +11460,6 @@
       "bitrate": 130
     },
     {
-      "id": "rb2_listnr_indie_pop_hls_7294c40b",
-      "title": "LiSTNR - Indie Pop (HLS)",
-      "subtitle": "Indie Pop",
-      "imageUrl": "https://i.ibb.co/Wpc1y22S/Li-STNR-Square-Tile-3000x3000-INDIE-POP.jpg",
-      "streamUrl": "http://wz0liw.scahw.com.au/live/indie-pop.stream/playlist.m3u8",
-      "location": "Australia",
-      "genre": "Indie Pop",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 1,
-      "bitrate": 64
-    },
-    {
       "id": "rb2_listnr_indigenous_australians_hls_0a9bd180",
       "title": "LiSTNR - Indigenous Australians (HLS)",
       "subtitle": "Australian Music, Indigenous",
@@ -11645,19 +11632,6 @@
       "language": "english",
       "clickCount": 1,
       "bitrate": 64
-    },
-    {
-      "id": "rb2_listnr_rnb_chill_0fc0218c",
-      "title": "LiSTNR - RnB Chill",
-      "subtitle": "Chill, Hiphop",
-      "imageUrl": "https://i.ibb.co/PvhyyQ84/Li-STNR-Square-Tile-1200x1200-RNB-CHILL.jpg",
-      "streamUrl": "http://worldradio.online/proxy/?q=http://wz0liw.scahw.com.au/live/rnb-chill.stream/playlist.m3u8",
-      "location": "Australia",
-      "genre": "Chill",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 1,
-      "bitrate": 65
     },
     {
       "id": "rb2_listnr_rnb_chill_hls_9b89e40f",
@@ -19274,6 +19248,18 @@
       "clickCount": 5,
       "bitrate": 128,
       "streamUrl": "https://s3.radio.co/s2f19d44d0/listen"
+    },
+    {
+      "id": "tfc_guam_gu_566aedae",
+      "title": "TFC Guam",
+      "subtitle": "Filipino",
+      "location": "Guam",
+      "genre": "Filipino",
+      "countryCode": "GU",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 1872,
+      "streamUrl": "https://tfcguam-abscbn-ono.amagi.tv/index.m3u8"
     }
   ]
 }

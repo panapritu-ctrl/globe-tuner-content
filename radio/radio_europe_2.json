@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-08-31T03:34:25Z",
+  "updated": "2026-09-01T03:35:52Z",
   "region": "europe",
   "part": 2,
   "of": 8,
@@ -2779,19 +2779,6 @@
       "countryCode": "DE",
       "language": "german",
       "clickCount": 2,
-      "bitrate": 192
-    },
-    {
-      "id": "rb2_i_love_music_mainstage_madness_54200f03",
-      "title": "I Love Music - Mainstage Madness",
-      "subtitle": "Bigroom, Electro",
-      "imageUrl": "https://www.ilovemusic.de/favicon.ico",
-      "streamUrl": "https://ilm.stream18.radiohost.de/ilm_ilovemainstagemadness_mp3-192?upd-meta&upd-scheme=https&_art=dD0xNzY4NDM5NjA5JmQ9OTFlNjYyYTM4Zjk3MjY1ZDg2NmM",
-      "location": "North Rhine-Westphalia, Germany",
-      "genre": "Bigroom",
-      "countryCode": "DE",
-      "language": "german",
-      "clickCount": 1,
       "bitrate": 192
     },
     {
@@ -28337,6 +28324,18 @@
       "clickCount": 2,
       "bitrate": 324,
       "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p5trekanten/masterab.m3u8"
+    },
+    {
+      "id": "swr1_rp_de_8b114104",
+      "title": "SWR1 RP",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 11,
+      "bitrate": 128,
+      "streamUrl": "https://liveradio.swr.de/sw282p3/swr1rp/"
     }
   ]
 }
