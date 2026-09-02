@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-01T03:35:25Z",
+  "updated": "2026-09-02T02:54:21Z",
   "region": "americas",
   "part": 5,
   "of": 5,
@@ -711,19 +711,6 @@
       "bitrate": 64
     },
     {
-      "id": "rb2_favorita_106_1_fm_43e23aef",
-      "title": "Favorita 106.1 FM",
-      "subtitle": "Entretenimiento, Latino",
-      "imageUrl": "https://favorita1061fm.com/reproductor/js/logo5.png",
-      "streamUrl": "https://sp.wnetserver.com/8046/stream",
-      "location": "Bolivarian Republic Of Venezuela",
-      "genre": "Entretenimiento",
-      "countryCode": "VE",
-      "language": "spanish",
-      "clickCount": 0,
-      "bitrate": 32
-    },
-    {
       "id": "rb2_fiesta_latina_106_1_fm_4ba2a99d",
       "title": "Fiesta Latina 106.1 FM",
       "subtitle": "Latino, Merengue",
@@ -956,19 +943,6 @@
       "language": "spanish",
       "clickCount": 1,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_mpb_radio_venezuela_5c3cd582",
-      "title": "MPB Radio Venezuela",
-      "subtitle": "Radio",
-      "imageUrl": "https://cdn.onlineradiobox.com/img/l/8/128648.v2.png",
-      "streamUrl": "https://radiozender.mpbnetwerken.nl/radiovenezuela.mp3",
-      "location": "Bolivarian Republic Of Venezuela",
-      "genre": "Radio",
-      "countryCode": "VE",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 384
     },
     {
       "id": "rb2_magic_radio_92_5_maracay_5ffb9f0b",
@@ -2005,6 +1979,18 @@
       "clickCount": 5,
       "bitrate": 0,
       "streamUrl": "https://stream.zeno.fm/8vugdnevn18uv"
+    },
+    {
+      "id": "xitos_90_5_fm_puerto_ordaz_ve_c1772826",
+      "title": "Éxitos 90.5 FM - Puerto Ordaz",
+      "subtitle": "Music",
+      "location": "Bolivarian Republic Of Venezuela",
+      "genre": "Music",
+      "countryCode": "VE",
+      "language": "spanish",
+      "clickCount": 3,
+      "bitrate": 96,
+      "streamUrl": "https://acp4.lorini.net:10109/stream"
     }
   ]
 }

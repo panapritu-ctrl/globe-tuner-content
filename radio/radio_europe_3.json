@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-01T03:35:24Z",
+  "updated": "2026-09-02T02:54:21Z",
   "region": "europe",
   "part": 3,
   "of": 8,
@@ -1770,19 +1770,6 @@
       "language": "catalan",
       "clickCount": 1,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_bar_a_e85f1e55",
-      "title": "Radio Barça",
-      "subtitle": "Barça, Blaugrana",
-      "imageUrl": "https://www.fcbarcelona.es/resources/v2.50.0-5206/i/favicon/favicon-128x128.png",
-      "streamUrl": "https://open.http.mp.streamamg.com/p/3000707/sp/300070700/playManifest/entryId/0_dej0sx5j/format/applehttp/protocol/https/uiConfId/30024000/a.m3u8",
-      "location": "Cataluña, Spain",
-      "genre": "Barça",
-      "countryCode": "ES",
-      "language": "spanish",
-      "clickCount": 0,
-      "bitrate": 167
     },
     {
       "id": "rb2_radio_begur_e50bbdb7",
@@ -5248,19 +5235,6 @@
       "bitrate": 56
     },
     {
-      "id": "rb2_imusica_rock_2c080e44",
-      "title": "iMusica Rock",
-      "subtitle": "Rock",
-      "imageUrl": "",
-      "streamUrl": "https://stream-175.zeno.fm/4wu2dwa6krruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0d3UyZHdhNmtycnV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiRUR3UWx2Q0JRSTZKOTl1LXlWNC0tZyIsImlhdCI6MTc2ODQ1MzQ0MCwiZXhwIjoxNzY4NDUzNTAwfQ.AWZiv00ObHSmLMW4rhGW55i6pcBsoIQZLRSRfny-7Yw",
-      "location": "Spain",
-      "genre": "Rock",
-      "countryCode": "ES",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_limite_fm_2c68d74d",
       "title": "limite fm",
       "subtitle": "Radio",
@@ -8538,19 +8512,6 @@
       "bitrate": 16
     },
     {
-      "id": "rb2_antxeta_irratia_fe29fd5a",
-      "title": "Antxeta irratia",
-      "subtitle": "Local News, News",
-      "imageUrl": "",
-      "streamUrl": "https://streaming.antxetamedia.eus:8443/antxeta1",
-      "location": "Basque Country, France",
-      "genre": "Local News",
-      "countryCode": "FR",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 192
-    },
-    {
       "id": "rb2_atlantic_2000_international_27e01a74",
       "title": "Atlantic 2000 international",
       "subtitle": "Radio",
@@ -9239,19 +9200,6 @@
       "countryCode": "FR",
       "language": "english",
       "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_cp2077_samizdat_radio_95_2_7b3ece0e",
-      "title": "CP2077 - Samizdat Radio 95.2",
-      "subtitle": "Radio",
-      "imageUrl": "https://www.nexusxiv.fr/media/radio/logos/95.2_Samizdat_Radio.webp",
-      "streamUrl": "http://82.65.103.36:8000/samizdat",
-      "location": "France",
-      "genre": "Radio",
-      "countryCode": "FR",
-      "language": "english",
-      "clickCount": 1,
       "bitrate": 128
     },
     {
@@ -19460,19 +19408,6 @@
       "streamUrl": "http://stream.rfm.fr/rfm.mp3"
     },
     {
-      "id": "rb2_rfm_100_new_wave_aab0149f",
-      "title": "RFM - 100% New Wave",
-      "subtitle": "80S, New Wave",
-      "imageUrl": "https://cdn-profiles.tunein.com/s309248/images/logod.jpg",
-      "streamUrl": "http://stream.rfm.fr/rfm-wr12.aac/playlist.m3u8",
-      "location": "France",
-      "genre": "80S",
-      "countryCode": "FR",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
       "id": "rfm_la_radio_couleur_fr_78f153",
       "title": "RFM - La Radio Couleur",
       "subtitle": "70 80 Hits",
@@ -26923,18 +26858,6 @@
       "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3"
     },
     {
-      "id": "cope_granada_sta_fe_es_4bb1f043",
-      "title": "COPE Granada-Sta.Fe",
-      "subtitle": "Actualidad",
-      "location": "Spain",
-      "genre": "Actualidad",
-      "countryCode": "ES",
-      "language": null,
-      "clickCount": 12,
-      "bitrate": 56,
-      "streamUrl": "https://granada-copesedes-rrcast.flumotion.com/copesedes/granada-low.mp3"
-    },
-    {
       "id": "frequence_3_fr_275137e0",
       "title": "Frequence 3",
       "subtitle": "Radio",
@@ -27053,6 +26976,18 @@
       "clickCount": 6,
       "bitrate": 256,
       "streamUrl": "https://yleradiolive5.akamaized.net/hls/live/20000872/yleklassinen/master.m3u8"
+    },
+    {
+      "id": "v_mba_fm_fi_d70117b3",
+      "title": "Vömba FM",
+      "subtitle": "80S",
+      "location": "Finland",
+      "genre": "80S",
+      "countryCode": "FI",
+      "language": "estonian",
+      "clickCount": 2,
+      "bitrate": 320,
+      "streamUrl": "https://c4.radioboss.fm:18123/live"
     }
   ]
 }

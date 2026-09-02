@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-01T03:35:52Z",
+  "updated": "2026-09-02T02:54:20Z",
   "region": "europe",
   "part": 2,
   "of": 8,
@@ -20218,19 +20218,6 @@
       "streamUrl": "http://live-icy.gslb01.dr.dk/A/A05H.mp3"
     },
     {
-      "id": "rb2_dr_p3_aac_b0f1b100",
-      "title": "DR P3 (AAC)",
-      "subtitle": "Pop, Rock",
-      "imageUrl": "https://www.dr.dk/lyd/_next/static/media/p3.28743ad0.svg",
-      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p3/masterab.m3u8",
-      "location": "Denmark",
-      "genre": "Pop",
-      "countryCode": "DK",
-      "language": "danish",
-      "clickCount": 7,
-      "bitrate": 324
-    },
-    {
       "id": "rb2_dr_p4_midt_vest_b10cb925",
       "title": "DR P4  Midt & Vest",
       "subtitle": "Adult Contemporary",
@@ -20399,19 +20386,6 @@
       "language": null,
       "clickCount": 2,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_dr_p5_k_benhavn_aac_65490fd6",
-      "title": "DR P5 København (AAC)",
-      "subtitle": "Regional Radio",
-      "imageUrl": "https://www.dr.dk/lyd/_next/static/media/p5.1704bd78.svg",
-      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p5kobenhavn/masterab.m3u8",
-      "location": "Denmark",
-      "genre": "Regional Radio",
-      "countryCode": "DK",
-      "language": "danish",
-      "clickCount": 1,
-      "bitrate": 324
     },
     {
       "id": "rb2_dr_p5_midt_vest_331c897a",
@@ -21355,19 +21329,6 @@
       "language": "danish",
       "clickCount": 2,
       "bitrate": 192
-    },
-    {
-      "id": "rb2_radio_victoria_9a08be90",
-      "title": "Radio Victoria",
-      "subtitle": "Radio",
-      "imageUrl": "https://radiovictoria.dk/favicon.ico",
-      "streamUrl": "http://stream.wlmm.dk/NyRadiomp3",
-      "location": "Esbjerg, Denmark",
-      "genre": "Radio",
-      "countryCode": "DK",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 160
     },
     {
       "id": "rb2_radio_viva_87e5d1ca",
@@ -28336,6 +28297,18 @@
       "clickCount": 11,
       "bitrate": 128,
       "streamUrl": "https://liveradio.swr.de/sw282p3/swr1rp/"
+    },
+    {
+      "id": "dr_p3_aac_dk_c42bfd7b",
+      "title": "DR P3 (AAC)",
+      "subtitle": "Pop",
+      "location": "Denmark",
+      "genre": "Pop",
+      "countryCode": "DK",
+      "language": "danish",
+      "clickCount": 11,
+      "bitrate": 324,
+      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p3/masterab.m3u8"
     }
   ]
 }

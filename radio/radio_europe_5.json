@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-01T03:35:53Z",
+  "updated": "2026-09-02T02:54:21Z",
   "region": "europe",
   "part": 5,
   "of": 8,
@@ -7571,19 +7571,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_97_1_392d70ec",
-      "title": "Αλμωπία 97.1",
-      "subtitle": "Greek, Traditional",
-      "imageUrl": "http://resources.live24.gr/resources/images/stations/f61cbfef-e8bc-43c0-a5f1-c497f21ab657.png",
-      "streamUrl": "http://s2.free-shoutcast.com:18132/;stream.mp3",
-      "location": "Almopia, Greece",
-      "genre": "Greek",
-      "countryCode": "GR",
-      "language": "greek",
-      "clickCount": 1,
-      "bitrate": 96
-    },
-    {
       "id": "rb2_web_radio_bcdab2a0",
       "title": "Αλωνάκι Web Radio",
       "subtitle": "Radio",
@@ -12484,19 +12471,6 @@
       "streamUrl": "http://s8.iqstreaming.com:8072/stream",
       "location": "Croatia",
       "genre": "Various",
-      "countryCode": "HR",
-      "language": "croatian",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_kastav_5e2c1b37",
-      "title": "RADIO KASTAV",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://proxima.shoutca.st:8559/stream",
-      "location": "Croatia",
-      "genre": "Radio",
       "countryCode": "HR",
       "language": "croatian",
       "clickCount": 0,
@@ -17596,19 +17570,6 @@
       "language": null,
       "clickCount": 0,
       "bitrate": 384
-    },
-    {
-      "id": "rb2_mpb_radio_2_ulster_a1c8b542",
-      "title": "MPB Radio 2 Ulster",
-      "subtitle": "Varied",
-      "imageUrl": "https://radiodns.mpbnl.nl/logos/mpb/radio2-ulster.png",
-      "streamUrl": "https://radiozender.mpbnetwerken.nl/radioulster.mp3",
-      "location": "Ireland",
-      "genre": "Varied",
-      "countryCode": "IE",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 320
     },
     {
       "id": "rb2_midwest_radio_cfd84c16",
@@ -22995,19 +22956,6 @@
       "bitrate": 256
     },
     {
-      "id": "rb2_raitg_2a4ece26",
-      "title": "RAITG",
-      "subtitle": "Radio",
-      "imageUrl": "https://www.rainews.it/dl/rainews/images/favicon.png",
-      "streamUrl": "https://tgrcampania-live.akamaized.net/hls/live/2025562/tgrcampania/tgrcampania/playlist.m3u8",
-      "location": "Italy",
-      "genre": "Radio",
-      "countryCode": "IT",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 1868
-    },
-    {
       "id": "rb2_rbc_radio_barbanella_city_a67980c3",
       "title": "RBC Radio Barbanella City",
       "subtitle": "Grosseto, Misc",
@@ -27734,6 +27682,78 @@
       "clickCount": 2,
       "bitrate": 128,
       "streamUrl": "http://mcp1.mydataknox.com:8010/stream"
+    },
+    {
+      "id": "sound_italia_it_00ba4582",
+      "title": "Sound Italia",
+      "subtitle": "Ferrara",
+      "location": "Italy",
+      "genre": "Ferrara",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 7,
+      "bitrate": 0,
+      "streamUrl": "https://stream10.xdevel.com/audio3s975559-2094/stream/icecast.audio"
+    },
+    {
+      "id": "fm_classic_it_21c492c9",
+      "title": "FM Classic",
+      "subtitle": "70S",
+      "location": "Italy",
+      "genre": "70S",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "http://onair7.xdevel.com:8724/;stream.nsv"
+    },
+    {
+      "id": "upanijski_radio_ibenik_hr_e159caea",
+      "title": "Županijski Radio Šibenik",
+      "subtitle": "Various",
+      "location": "Croatia",
+      "genre": "Various",
+      "countryCode": "HR",
+      "language": "croatian",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "http://144.76.219.22:8215/stream.mp3"
+    },
+    {
+      "id": "r_di_x_hu_6025bea5",
+      "title": "RádióX",
+      "subtitle": "Radio",
+      "location": "Hungary",
+      "genre": "Radio",
+      "countryCode": "HU",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "https://stream.phost.hu:8002/stream2"
+    },
+    {
+      "id": "fm104_ie_48393437",
+      "title": "FM104",
+      "subtitle": "Radio",
+      "location": "Ireland",
+      "genre": "Radio",
+      "countryCode": "IE",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 127,
+      "streamUrl": "https://wg.cdn.tibus.net/fm104MP3128?aw_0_1st.playerId=wireless-website&listenerid=79ac2cc9cb7616aca4d7286d94dd9291&awparams=companionAds%3Atrue&aw_0_req.gdpr=false&aw_0_req.userConsentV2=undefined&aw_0_1st.octave_permutive=%5B%2282977%22%5D&_=472417"
+    },
+    {
+      "id": "spin_103_8_ie_67c45eba",
+      "title": "Spin 103.8",
+      "subtitle": "Radio",
+      "location": "Ireland",
+      "genre": "Radio",
+      "countryCode": "IE",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 192,
+      "streamUrl": "https://live-bauerie.sharp-stream.com/SP?aw_0_1st.playerId=BMIE_GoLoudWeb&aw_0_1st.premium=false&aw_0_1st.bauerie_covatic=9999"
     }
   ]
 }

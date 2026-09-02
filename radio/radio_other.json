@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-01T03:35:52Z",
+  "updated": "2026-09-02T02:54:20Z",
   "region": "other",
   "stations": [
     {
@@ -3726,18 +3726,6 @@
       "streamUrl": "https://sa47.scastream.com.au/live/4mmm_128.stream/playlist.m3u8?listeningSessionID=692f0d2f013be492_16910808_cXvVLSYa_NjYuODUuODkuMTcyOjgw_000000nmU6U&downloadSessionID=0"
     },
     {
-      "id": "oak_fm_wangaratta_101_3_fm_mp3_au_07780cdc",
-      "title": "Oak FM - Wangaratta - 101.3 FM (MP3)",
-      "subtitle": "Community Radio",
-      "location": "Australia",
-      "genre": "Community Radio",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 2,
-      "bitrate": 0,
-      "streamUrl": "http://www.oakfm.com.au/stream/"
-    },
-    {
       "id": "1035fm_orange_au_1f40667b",
       "title": "1035FM Orange",
       "subtitle": "Christian",
@@ -4734,18 +4722,6 @@
       "streamUrl": "http://kathy.torontocast.com:2880/;"
     },
     {
-      "id": "radio_munot_ch_0ada14f6",
-      "title": "Radio Munot",
-      "subtitle": "Radio",
-      "location": "Switzerland",
-      "genre": "Radio",
-      "countryCode": "CH",
-      "language": "swiss german",
-      "clickCount": 3,
-      "bitrate": 128,
-      "streamUrl": "https://munot.ch-central-4.streaming.deliver.media/munot_mp3_128"
-    },
-    {
       "id": "dabclassic_radio_es_f0f94807",
       "title": "DABClassic Radio",
       "subtitle": "Classical Music",
@@ -5466,18 +5442,6 @@
       "streamUrl": "http://worldradio.online/proxy/?q=http://wz0liw.scahw.com.au/live/k-pop.stream/playlist.m3u8"
     },
     {
-      "id": "listnr_k_pop_au_66c70594",
-      "title": "LiSTNR - K-Pop",
-      "subtitle": "Global",
-      "location": "Australia",
-      "genre": "Global",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 2,
-      "bitrate": 0,
-      "streamUrl": "http://wz0liw.scahw.com.au/live/k-pop.stream/playlist.m3u8"
-    },
-    {
       "id": "4eb_brisbane_98_1_fm_mp3_au_ed8596c5",
       "title": "4EB - Brisbane - 98.1 FM (MP3)",
       "subtitle": "Community Radio",
@@ -5632,6 +5596,198 @@
       "clickCount": 2,
       "bitrate": 64,
       "streamUrl": "http://s3.voscast.com:9674/stream.aac"
+    },
+    {
+      "id": "equinoxe_la_radio_d_couverte_be_e0b045d7",
+      "title": "Equinoxe, La Radio Découverte",
+      "subtitle": "Country",
+      "location": "Belgium",
+      "genre": "Country",
+      "countryCode": "BE",
+      "language": "french",
+      "clickCount": 9,
+      "bitrate": 0,
+      "streamUrl": "https://stream.equinoxenamur.be/Equinoxe.mp3"
+    },
+    {
+      "id": "radio_texoplex_ch_7b93ed32",
+      "title": "Radio Texoplex",
+      "subtitle": "Ambient",
+      "location": "Switzerland",
+      "genre": "Ambient",
+      "countryCode": "CH",
+      "language": "english",
+      "clickCount": 8,
+      "bitrate": 128,
+      "streamUrl": "https://radio.texoplex.ch/stream"
+    },
+    {
+      "id": "jazz_blues_npr_us_766ae62f",
+      "title": "Jazz Blues NPR",
+      "subtitle": "Radio",
+      "location": "The United States Of America",
+      "genre": "Radio",
+      "countryCode": "US",
+      "language": null,
+      "clickCount": 8,
+      "bitrate": 128,
+      "streamUrl": "https://knkx-live-a.edge.audiocdn.com/6285_128k?aw_0_1st.playerid=knkx.org"
+    },
+    {
+      "id": "maurice_radio_libre_fr_93469e9d",
+      "title": "Maurice Radio Libre",
+      "subtitle": "Radio",
+      "location": "France",
+      "genre": "Radio",
+      "countryCode": "FR",
+      "language": null,
+      "clickCount": 7,
+      "bitrate": 192,
+      "streamUrl": "https://radio13.pro-fhi.net/live/MauriceRadioLibre"
+    },
+    {
+      "id": "allzic_radio_chopin_fr_f9a6dcea",
+      "title": "Allzic Radio Chopin",
+      "subtitle": "Radio",
+      "location": "France",
+      "genre": "Radio",
+      "countryCode": "FR",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://allzicradiochopin.ice.infomaniak.ch/allzicradiochopin-128.mp3"
+    },
+    {
+      "id": "free_techno_es_a3bb666b",
+      "title": "Free Techno",
+      "subtitle": "Creative Commons",
+      "location": "Spain",
+      "genre": "Creative Commons",
+      "countryCode": "ES",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://icecast.apps.dj/freetechno"
+    },
+    {
+      "id": "ai_global_news_es_d6ac3c35",
+      "title": "AI Global News",
+      "subtitle": "Radio",
+      "location": "Spain",
+      "genre": "Radio",
+      "countryCode": "ES",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://aiglobalnewsradio.com/stream.mp3"
+    },
+    {
+      "id": "sound_of_hope_australia_cantonese_au_298992ab",
+      "title": "Sound of Hope Australia Cantonese",
+      "subtitle": "Radio",
+      "location": "Australia",
+      "genre": "Radio",
+      "countryCode": "AU",
+      "language": "cantonese",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://sohcan.out.airtime.pro:8000/sohcan_a"
+    },
+    {
+      "id": "jazzchillradio_es_7b19c004",
+      "title": "JazzChillRadio",
+      "subtitle": "Radio",
+      "location": "Spain",
+      "genre": "Radio",
+      "countryCode": "ES",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://solid48.streamupsolutions.com/proxy/hjphrupx/stream"
+    },
+    {
+      "id": "2rrr_ryde_88_5_fm_aac_au_d23120e2",
+      "title": "2RRR - Ryde - 88.5 FM (AAC)",
+      "subtitle": "Community Radio",
+      "location": "Australia",
+      "genre": "Community Radio",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "http://playerservices.streamtheworld.com/api/livestream-redirect/2rrrAAC.aac"
+    },
+    {
+      "id": "triple_h_fm_au_0288d8fe",
+      "title": "Triple H FM",
+      "subtitle": "Radio",
+      "location": "Australia",
+      "genre": "Radio",
+      "countryCode": "AU",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 192,
+      "streamUrl": "https://c17.radioboss.fm:18193/stream"
+    },
+    {
+      "id": "all_time_hits_radio_christmas_melbourne_mp3_au_6fae3027",
+      "title": "All Time Hits Radio Christmas - Melbourne (MP3)",
+      "subtitle": "Christmas Music",
+      "location": "Australia",
+      "genre": "Christmas Music",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 2,
+      "bitrate": 64,
+      "streamUrl": "http://167.114.11.80:2044/;"
+    },
+    {
+      "id": "listnr_indie_pop_hls_au_60ceceb0",
+      "title": "LiSTNR - Indie Pop (HLS)",
+      "subtitle": "Indie Pop",
+      "location": "Australia",
+      "genre": "Indie Pop",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 2,
+      "bitrate": 0,
+      "streamUrl": "http://wz0liw.scahw.com.au/live/indie-pop.stream/playlist.m3u8"
+    },
+    {
+      "id": "golden_days_radio_au_552635c3",
+      "title": "Golden Days Radio",
+      "subtitle": "Gold",
+      "location": "Australia",
+      "genre": "Gold",
+      "countryCode": "AU",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "https://a2.asurahosting.com:6350/radio.aac"
+    },
+    {
+      "id": "4rr_charleville_105_7_fm_transmission_mp3_au_1e069131",
+      "title": "4RR - Charleville - 105.7 FM (Transmission) (MP3)",
+      "subtitle": "Community Radio",
+      "location": "Australia",
+      "genre": "Community Radio",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 2,
+      "bitrate": 256,
+      "streamUrl": "http://azure.bullantcomm.com:8030/Transmission"
+    },
+    {
+      "id": "traxx_fm_rock_ch_f193244d",
+      "title": "Traxx FM - Rock",
+      "subtitle": "Alternative Rock",
+      "location": "Switzerland",
+      "genre": "Alternative Rock",
+      "countryCode": "CH",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "http://traxx019.ice.infomaniak.ch/traxx019-low.mp3"
     }
   ]
 }

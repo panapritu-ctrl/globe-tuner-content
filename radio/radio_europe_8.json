@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-01T03:35:52Z",
+  "updated": "2026-09-02T02:54:21Z",
   "region": "europe",
   "part": 8,
   "of": 8,
@@ -5392,32 +5392,6 @@
       "genre": "Bible",
       "countryCode": "RU",
       "language": "russian",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_radiospinner_buddha_bar_chill_om_64b11e34",
-      "title": "RadioSpinner - Buddha Bar Chill -om",
-      "subtitle": "Radio",
-      "imageUrl": "https://static-media.streema.com/media/cache/2e/4f/2e4fd21e2f6c5bd8fa8aca635b40a27c.jpg",
-      "streamUrl": "https://statics-v3.streema.com/static/audios/sample.ea78c3d52389.mp3",
-      "location": "The Russian Federation",
-      "genre": "Radio",
-      "countryCode": "RU",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_random_chiptune_radio_97035afc",
-      "title": "Random Chiptune Radio",
-      "subtitle": "Chiptune",
-      "imageUrl": "",
-      "streamUrl": "http://79.120.11.40:8000/chiptune.ogg",
-      "location": "The Russian Federation",
-      "genre": "Chiptune",
-      "countryCode": "RU",
-      "language": null,
       "clickCount": 0,
       "bitrate": 128
     },
@@ -13603,19 +13577,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_96_0_fm_a428c992",
-      "title": "Радио России Великий Новгород 96.0 FM",
-      "subtitle": "News",
-      "imageUrl": "",
-      "streamUrl": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/velikiy-novgorod/radio_russia/index.m3u8",
-      "location": "The Russian Federation",
-      "genre": "News",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 0,
-      "bitrate": 392
-    },
-    {
       "id": "rb2_106_3_fm_62ce7a75",
       "title": "Радио России ГТРК Владимир 106.3 FM",
       "subtitle": "News, Talk",
@@ -13727,32 +13688,6 @@
       "streamUrl": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/tver/radio_russia/index.m3u8",
       "location": "The Russian Federation",
       "genre": "Music",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 0,
-      "bitrate": 392
-    },
-    {
-      "id": "rb2_90_2_fm_7a729e4c",
-      "title": "Радио России ГТРК Тула 90.2 FM",
-      "subtitle": "News",
-      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240624_120301131.jpg?alt=media&token=7f76390d-a59d-456b-9e92-82265dcc8f83",
-      "streamUrl": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/tula/radio_russia/index.m3u8",
-      "location": "The Russian Federation",
-      "genre": "News",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 0,
-      "bitrate": 392
-    },
-    {
-      "id": "rb2_99_1_fm_478e120c",
-      "title": "Радио России ГТРК Ярославль 99.1 FM",
-      "subtitle": "News",
-      "imageUrl": "",
-      "streamUrl": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/yaroslavl/radio_russia/index.m3u8",
-      "location": "The Russian Federation",
-      "genre": "News",
       "countryCode": "RU",
       "language": "russian",
       "clickCount": 0,
@@ -20634,19 +20569,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_r_dio_v_nitre_4f99292d",
-      "title": "Rádio v Nitre",
-      "subtitle": "Nitra, Pop",
-      "imageUrl": "https://radiovnitre.sk/assets/images/apple-icon-120x120.png",
-      "streamUrl": "http://195.210.28.150:8932/radiovnitre_live.mp3",
-      "location": "Slovakia",
-      "genre": "Nitra",
-      "countryCode": "SK",
-      "language": "slovak",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_sky_r_dio_9633f1f6",
       "title": "SKY Rádio",
       "subtitle": "Local News, News",
@@ -24993,6 +24915,54 @@
       "clickCount": 3,
       "bitrate": 144,
       "streamUrl": "https://live1.sr.se/p4gavl-mp3-96"
+    },
+    {
+      "id": "trancehouse_ru_a476ddb5",
+      "title": "Радио Рекорд Trancehouse",
+      "subtitle": "Radio",
+      "location": "The Russian Federation",
+      "genre": "Radio",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "http://radiorecord.hostingradio.ru/trancehouse96.aacp"
+    },
+    {
+      "id": "bossa_nova_ru_3725232f",
+      "title": "Радио Монте Карло - Bossa Nova",
+      "subtitle": "Bossa Nova",
+      "location": "The Russian Federation",
+      "genre": "Bossa Nova",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 5,
+      "bitrate": 96,
+      "streamUrl": "https://mc-mcbossa.hostingradio.ru/mcbossa96.aacp"
+    },
+    {
+      "id": "radio_gold_sweden_se_79099ec0",
+      "title": "Radio Gold Sweden",
+      "subtitle": "Radio",
+      "location": "Sweden",
+      "genre": "Radio",
+      "countryCode": "SE",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://streaming.943.se/radiogold"
+    },
+    {
+      "id": "dansbandsradio_se_se_686455a7",
+      "title": "DansBandsRadio.se",
+      "subtitle": "Dans",
+      "location": "Sweden",
+      "genre": "Dans",
+      "countryCode": "SE",
+      "language": "danish",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://sc.dansbandsradio.se/dbr64.aac"
     }
   ]
 }

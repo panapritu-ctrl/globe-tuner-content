@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-01T03:35:52Z",
+  "updated": "2026-09-02T02:54:21Z",
   "region": "europe",
   "part": 4,
   "of": 8,
@@ -17647,19 +17647,6 @@
       "streamUrl": "https://radio.virginradio.co.uk/stream"
     },
     {
-      "id": "rb2_visitor_radio_hastings_6fe387c6",
-      "title": "Visitor Radio (Hastings)",
-      "subtitle": "Information, Tourist Info",
-      "imageUrl": "https://mmo.aiircdn.com/2696/69985131b0c3c.jpg",
-      "streamUrl": "http://uksoutha.streaming.broadcast.radio:20831/hastings",
-      "location": "East Sussex, The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "Information",
-      "countryCode": "GB",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_vixen_101_05741225",
       "title": "Vixen 101",
       "subtitle": "Radio",
@@ -20302,19 +20289,6 @@
       "language": "greek",
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_ble_93_f7468b1b",
-      "title": "Ble 93",
-      "subtitle": "Radio",
-      "imageUrl": "https://www.ble.fm/images/logo-ble-web.png",
-      "streamUrl": "https://ice.greekstream.net/diavlos93",
-      "location": "Drama, Greece",
-      "genre": "Radio",
-      "countryCode": "GR",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 160
     },
     {
       "id": "rb2_ble_93_3_a3d3d3ff",
@@ -27174,18 +27148,6 @@
       "streamUrl": "https://sh.onweb.gr:9050/;"
     },
     {
-      "id": "wave_fm_974_patras_gr_f50c6de8",
-      "title": "Wave FM 974 Patras",
-      "subtitle": "Alternative",
-      "location": "Greece",
-      "genre": "Alternative",
-      "countryCode": "GR",
-      "language": null,
-      "clickCount": 3,
-      "bitrate": 0,
-      "streamUrl": "https://sp1.32bit.gr/cp/links.php?p=8018&m=pls"
-    },
-    {
       "id": "1134_gr_cf098bfb",
       "title": "Ασύρματος 1134",
       "subtitle": "Greek Folk",
@@ -27400,6 +27362,54 @@
       "clickCount": 2,
       "bitrate": 112,
       "streamUrl": "https://centova.gr-net.gr/proxy/iraklisradio/stream"
+    },
+    {
+      "id": "radio_meraklis_gr_15ced7c4",
+      "title": "Radio Meraklis",
+      "subtitle": "Greek Folk",
+      "location": "Greece",
+      "genre": "Greek Folk",
+      "countryCode": "GR",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://meraklis.ddnsfree.com:8443/live"
+    },
+    {
+      "id": "rock_hard_greece_gr_49c35d29",
+      "title": "Rock Hard Greece",
+      "subtitle": "Radio",
+      "location": "Greece",
+      "genre": "Radio",
+      "countryCode": "GR",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 320,
+      "streamUrl": "https://noc.ezhellas.com:44450/live"
+    },
+    {
+      "id": "xroma_105_8_gr_06ee5425",
+      "title": "XROMA 105.8",
+      "subtitle": "Radio",
+      "location": "Greece",
+      "genre": "Radio",
+      "countryCode": "GR",
+      "language": "greek",
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "http://hroma1058thess.live24.gr/hroma1058thess"
+    },
+    {
+      "id": "station_gr_a063fea0",
+      "title": "Ορθοδοξία Σωτηρόπουλος",
+      "subtitle": "Ομιλίες",
+      "location": "Greece",
+      "genre": "Ομιλίες",
+      "countryCode": "GR",
+      "language": "greek",
+      "clickCount": 2,
+      "bitrate": 32,
+      "streamUrl": "https://rasp35.ddnsfree.com:3535/strpls"
     }
   ]
 }
