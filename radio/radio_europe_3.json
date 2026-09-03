@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-02T02:54:21Z",
+  "updated": "2026-09-03T02:58:25Z",
   "region": "europe",
   "part": 3,
   "of": 8,
@@ -4205,19 +4205,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_r_dio_sentmenat_963e56d0",
-      "title": "Ràdio Sentmenat",
-      "subtitle": "Sentmenat",
-      "imageUrl": "",
-      "streamUrl": "https://enacast.com/radiosentmenat/streams/HD",
-      "location": "Barcelona, Spain",
-      "genre": "Sentmenat",
-      "countryCode": "ES",
-      "language": "catalan",
-      "clickCount": 0,
-      "bitrate": 96
-    },
-    {
       "id": "rb2_r_dio_silenci_963ec647",
       "title": "Ràdio Silenci",
       "subtitle": "La Garriga",
@@ -6094,19 +6081,6 @@
       "language": "finnish",
       "clickCount": 2,
       "bitrate": 256
-    },
-    {
-      "id": "rb2_radio_hiekka_c35f9644",
-      "title": "Radio Hiekka",
-      "subtitle": "Community, Local",
-      "imageUrl": "",
-      "streamUrl": "https://radiohiekka.ovh:8443/stream",
-      "location": "Pohjois-Pohjanmaa, Finland",
-      "genre": "Community",
-      "countryCode": "FI",
-      "language": "finnish",
-      "clickCount": 0,
-      "bitrate": 192
     },
     {
       "id": "rb2_radio_kaakko_9f1bd339",
@@ -23294,19 +23268,6 @@
       "bitrate": 256
     },
     {
-      "id": "rb2_radio44_d0000c1f",
-      "title": "Radio44",
-      "subtitle": "Chanson Française, Classic",
-      "imageUrl": "https://www.radio44.fr/favicon.ico",
-      "streamUrl": "http://eu.publicssl.net:7020/",
-      "location": "Loire Atlantique, France",
-      "genre": "Chanson Française",
-      "countryCode": "FR",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 192
-    },
-    {
       "id": "rb2_radio74_88_8_mhz_5a184d98",
       "title": "Radio74 88.8 MHz",
       "subtitle": "Christian",
@@ -26988,6 +26949,18 @@
       "clickCount": 2,
       "bitrate": 320,
       "streamUrl": "https://c4.radioboss.fm:18123/live"
+    },
+    {
+      "id": "yle_s_mi_radio_fi_fc9a0c5c",
+      "title": "Yle Sámi Radio",
+      "subtitle": "Radio",
+      "location": "Finland",
+      "genre": "Radio",
+      "countryCode": "FI",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 0,
+      "streamUrl": "http://icecast.live.yle.fi/radio/YleSami/icecast.audio"
     }
   ]
 }

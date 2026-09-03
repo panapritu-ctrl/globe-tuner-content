@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-02T02:54:21Z",
+  "updated": "2026-09-03T02:58:25Z",
   "region": "europe",
   "part": 8,
   "of": 8,
@@ -13577,19 +13577,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_106_3_fm_62ce7a75",
-      "title": "Радио России ГТРК Владимир 106.3 FM",
-      "subtitle": "News, Talk",
-      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240628_232305495.jpg?alt=media&token=bd1f8f94-2a99-4bfc-b1b4-2a4e3c310bb8",
-      "streamUrl": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladimir/radio_russia/index.m3u8",
-      "location": "The Russian Federation",
-      "genre": "News",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 0,
-      "bitrate": 392
-    },
-    {
       "id": "rb2_station_3c191d29",
       "title": "Радио России ГТРК Вологда",
       "subtitle": "Radio",
@@ -13668,19 +13655,6 @@
       "bitrate": 392
     },
     {
-      "id": "rb2_105_2_fm_4574a3cd",
-      "title": "Радио России ГТРК Смоленск 105.2 FM",
-      "subtitle": "Music, News",
-      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240628_231756597.jpg?alt=media&token=5b48980f-29c7-43d9-b95d-cce762b8726f",
-      "streamUrl": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/smolensk/radio_russia/index.m3u8",
-      "location": "The Russian Federation",
-      "genre": "Music",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 0,
-      "bitrate": 392
-    },
-    {
       "id": "rb2_93_5_fm_14ba04c2",
       "title": "Радио России ГТРК Тверь 93.5 FM",
       "subtitle": "Music",
@@ -13688,19 +13662,6 @@
       "streamUrl": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/tver/radio_russia/index.m3u8",
       "location": "The Russian Federation",
       "genre": "Music",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 0,
-      "bitrate": 392
-    },
-    {
-      "id": "rb2_89_1_fm_25389991",
-      "title": "Радио России Иваново 89.1 FM",
-      "subtitle": "Ivanovo, Local News",
-      "imageUrl": "",
-      "streamUrl": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ivanovo/radio_russia/index.m3u8",
-      "location": "The Russian Federation",
-      "genre": "Ivanovo",
       "countryCode": "RU",
       "language": "russian",
       "clickCount": 0,
@@ -14299,19 +14260,6 @@
       "language": "english",
       "clickCount": 0,
       "bitrate": 192
-    },
-    {
-      "id": "rb2_100_7_fm_c683b7ec",
-      "title": "Радио Юнитон Новосибирск 100.7 FM",
-      "subtitle": "Pop Music",
-      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241006_225416953.jpg?alt=media&token=8ba3f312-8064-4027-80c6-ada044f84158",
-      "streamUrl": "https://online.uniton.ru/mp3/uniton",
-      "location": "The Russian Federation",
-      "genre": "Pop Music",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 0,
-      "bitrate": 128
     },
     {
       "id": "rb2_station_7a557162",
@@ -24245,18 +24193,6 @@
       "streamUrl": "https://live1.sr.se/p2-flac"
     },
     {
-      "id": "897_sk_4e6d891b",
-      "title": "897",
-      "subtitle": "Club",
-      "location": "Slovakia",
-      "genre": "Club",
-      "countryCode": "SK",
-      "language": null,
-      "clickCount": 6,
-      "bitrate": 128,
-      "streamUrl": "https://c34.radioboss.fm:8106/stream"
-    },
-    {
       "id": "anime_ru_f8376e25",
       "title": "ЯН-ФМ Anime",
       "subtitle": "Anime",
@@ -24963,6 +24899,78 @@
       "clickCount": 3,
       "bitrate": 0,
       "streamUrl": "https://sc.dansbandsradio.se/dbr64.aac"
+    },
+    {
+      "id": "pilotfm_ru_3a044499",
+      "title": "PilotFM",
+      "subtitle": "Dance",
+      "location": "The Russian Federation",
+      "genre": "Dance",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://online.pilotfm.ru/pilot?v=1788326407182"
+    },
+    {
+      "id": "sauna_radio_se_fefa8e24",
+      "title": "Sauna Radio",
+      "subtitle": "Community Radio",
+      "location": "Sweden",
+      "genre": "Community Radio",
+      "countryCode": "SE",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://stream.saunaradio.com/live"
+    },
+    {
+      "id": "radio_maximum_grunge_ru_30278fa1",
+      "title": "Radio Maximum - Grunge",
+      "subtitle": "Radio",
+      "location": "The Russian Federation",
+      "genre": "Radio",
+      "countryCode": "RU",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 96,
+      "streamUrl": "https://maximum-grunge.hostingradio.ru/grunge96.aacp"
+    },
+    {
+      "id": "station_ru_ab5c97d9",
+      "title": "За!Радио (Мелитополь)",
+      "subtitle": "Local News",
+      "location": "The Russian Federation",
+      "genre": "Local News",
+      "countryCode": "RU",
+      "language": "rus",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://listen9.myradio24.com/86040"
+    },
+    {
+      "id": "station_ua_c15ee026",
+      "title": "Радіо Сяйво",
+      "subtitle": "320 Kbit/S",
+      "location": "Ukraine",
+      "genre": "320 Kbit/S",
+      "countryCode": "UA",
+      "language": "ukrainian",
+      "clickCount": 4,
+      "bitrate": 320,
+      "streamUrl": "https://stream.ntktv.ua/syaivo.mp3"
+    },
+    {
+      "id": "rusyn_fm_sk_157cf465",
+      "title": "Rusyn FM",
+      "subtitle": "Ethnic Programming",
+      "location": "Slovakia",
+      "genre": "Ethnic Programming",
+      "countryCode": "SK",
+      "language": "carpatho-rusyn",
+      "clickCount": 3,
+      "bitrate": 192,
+      "streamUrl": "https://stream.rusyn.fm/rusyny.mp3"
     }
   ]
 }
