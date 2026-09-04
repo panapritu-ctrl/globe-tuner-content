@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-03T02:58:25Z",
+  "updated": "2026-09-04T02:57:39Z",
   "region": "europe",
   "part": 5,
   "of": 8,
@@ -7233,19 +7233,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_100_7_b486968f",
-      "title": "Άνοιξη 100.7",
-      "subtitle": "Greek, Pop",
-      "imageUrl": "",
-      "streamUrl": "http://solid1.streamupsolutions.com:55023/stream",
-      "location": "Patra, Greece",
-      "genre": "Greek",
-      "countryCode": "GR",
-      "language": "greek",
-      "clickCount": 0,
-      "bitrate": 320
-    },
-    {
       "id": "rb2_station_2f829253",
       "title": "Άξενος",
       "subtitle": "Greek, Pontos",
@@ -9901,19 +9888,6 @@
       "countryCode": "GR",
       "language": "greek",
       "clickCount": 1,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_98_4_f3ffe478",
-      "title": "Πανόραμα 98.4",
-      "subtitle": "Greek Pop, Mainstream",
-      "imageUrl": "https://live24.gr/resrc/styles/custom-popups/panorama/images/logo-panorama-new.png",
-      "streamUrl": "http://netradio.live24.gr/panorama984",
-      "location": "Thessaloniki, Greece",
-      "genre": "Greek Pop",
-      "countryCode": "GR",
-      "language": null,
-      "clickCount": 0,
       "bitrate": 128
     },
     {
@@ -17546,19 +17520,6 @@
       "bitrate": 384
     },
     {
-      "id": "rb2_mpb_radio_1_mixmingle_f5a7e8d6",
-      "title": "MPB Radio 1 MixMingle",
-      "subtitle": "Dance Music",
-      "imageUrl": "https://radiodns.mpbnl.nl/logos/mpb/radio1-mixmingle.png",
-      "streamUrl": "https://radiozender.mpbnetwerken.nl/radio1mixmingle.mp3",
-      "location": "Ireland",
-      "genre": "Dance Music",
-      "countryCode": "IE",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 384
-    },
-    {
       "id": "rb2_mpb_radio_2_128a4337",
       "title": "MPB Radio 2",
       "subtitle": "Pop Music, Pop",
@@ -24087,19 +24048,6 @@
       "bitrate": 48
     },
     {
-      "id": "rb2_radio_6023_c69f1669",
-      "title": "Radio 6023",
-      "subtitle": "Radio",
-      "imageUrl": "https://6023.it/wp-content/uploads/2021/07/WhatsApp-Image-2021-07-04-at-16.44.19.jpeg",
-      "streamUrl": "http://stream12.top-ix.org/radio6023",
-      "location": "Italy",
-      "genre": "Radio",
-      "countryCode": "IT",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 320
-    },
-    {
       "id": "rb2_radio_7_asiago_573beb68",
       "title": "Radio 7 Asiago",
       "subtitle": "Classic Hits, Hits",
@@ -27766,6 +27714,54 @@
       "clickCount": 3,
       "bitrate": 96,
       "streamUrl": "http://c5.hostingcentar.com:9543/stream?1820"
+    },
+    {
+      "id": "radio_barocco_it_b26c9c63",
+      "title": "Radio Barocco",
+      "subtitle": "News Talk Music",
+      "location": "Italy",
+      "genre": "News Talk Music",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "https://radio.uiclecce.it/listen/radiobarocco/radio.mp3"
+    },
+    {
+      "id": "gr_ultima_ora_it_65b71af8",
+      "title": "GR Ultima Ora",
+      "subtitle": "News",
+      "location": "Italy",
+      "genre": "News",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "http://gr.fluidstream.eu/gr2.mp3"
+    },
+    {
+      "id": "radio_sicilia_avola_it_ab120836",
+      "title": "Radio Sicilia Avola",
+      "subtitle": "Folk",
+      "location": "Italy",
+      "genre": "Folk",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://cast4.asurahosting.com:7837/stream"
+    },
+    {
+      "id": "radio_lattemiele_taranto_it_7b485377",
+      "title": "Radio LatteMiele Taranto",
+      "subtitle": "Italian",
+      "location": "Italy",
+      "genre": "Italian",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://s9.webradio-hosting.com/proxy/radiolat/stream"
     }
   ]
 }

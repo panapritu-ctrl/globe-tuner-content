@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-03T02:58:25Z",
+  "updated": "2026-09-04T02:57:39Z",
   "region": "europe",
   "part": 4,
   "of": 8,
@@ -6326,19 +6326,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_files_media_radio_station_f76cd53a",
-      "title": "Files Media Radio Station",
-      "subtitle": "Radio",
-      "imageUrl": "https://filesmedia.net/logo.png",
-      "streamUrl": "https://radio.filesmedia.net/listen/files_media_radio_station/radio_hq.mp3",
-      "location": "The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "Radio",
-      "countryCode": "GB",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 320
-    },
-    {
       "id": "rb2_fine_day_radio_cd034432",
       "title": "Fine Day Radio",
       "subtitle": "Radio",
@@ -12126,19 +12113,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_party_vibe_radio_reggae_fa97601b",
-      "title": "PARTY VIBE RADIO : REGGAE",
-      "subtitle": "Radio",
-      "imageUrl": "https://www.partyvibe.com/wp-content/uploads/2020/12/party-vibe-radio-logo.png",
-      "streamUrl": "https://www.partyvibe.com:8060/;listen.pls?sid=1",
-      "location": "The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "Radio",
-      "countryCode": "GB",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 320
-    },
-    {
       "id": "planet_rock_where_rock_lives_gb_dec031",
       "title": "PLANET ROCK: Where Rock Lives",
       "subtitle": "Bauer Radio",
@@ -13895,19 +13869,6 @@
       "language": "gujurati",
       "clickCount": 0,
       "bitrate": 80
-    },
-    {
-      "id": "rb2_radio_victory_956ed88f",
-      "title": "Radio Victory",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://stream3.themediasite.co.uk:8380/stream",
-      "location": "Portsmouth, Hampshire, The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "Radio",
-      "countryCode": "GB",
-      "language": "english",
-      "clickCount": 1,
-      "bitrate": 256
     },
     {
       "id": "rb2_radio_warrington_edb90f5d",
@@ -16248,19 +16209,6 @@
       "language": null,
       "clickCount": 1,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_sunshine_radio_online_uk_d4256d94",
-      "title": "Sunshine Radio Online UK",
-      "subtitle": "Music",
-      "imageUrl": "",
-      "streamUrl": "https://stream1.themediasite.co.uk/8036/stream",
-      "location": "The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "Music",
-      "countryCode": "GB",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 192
     },
     {
       "id": "rb2_supreme_fm_ed0901a1",
@@ -22781,19 +22729,6 @@
       "bitrate": 192
     },
     {
-      "id": "rb2_fresh_105_58bd6cd1",
-      "title": "Fresh 105",
-      "subtitle": "Mainstream, Pop Music",
-      "imageUrl": "http://resources.live24.gr/resources/images/stations/734ca50e-021a-4679-972c-c902933d682b.jpg",
-      "streamUrl": "https://webradio.neatv.gr:8443/stream?1637751294799",
-      "location": "Chania, Greece",
-      "genre": "Mainstream",
-      "countryCode": "GR",
-      "language": "greek",
-      "clickCount": 0,
-      "bitrate": 96
-    },
-    {
       "id": "rb2_fresh_92_9_13ebc645",
       "title": "Fresh 92.9",
       "subtitle": "Pop",
@@ -27458,6 +27393,30 @@
       "clickCount": 3,
       "bitrate": 128,
       "streamUrl": "http://144.76.19.82:8443/stream"
+    },
+    {
+      "id": "1_gr_e2dd3a44",
+      "title": "Ράδιο 1 Χαλκίδα",
+      "subtitle": "Music",
+      "location": "Greece",
+      "genre": "Music",
+      "countryCode": "GR",
+      "language": "greek",
+      "clickCount": 3,
+      "bitrate": 64,
+      "streamUrl": "http://proradio.gr:8004/radio981m"
+    },
+    {
+      "id": "89_2_gr_0903da3a",
+      "title": "Εν Πλω 89.2",
+      "subtitle": "Greek Music",
+      "location": "Greece",
+      "genre": "Greek Music",
+      "countryCode": "GR",
+      "language": "greek",
+      "clickCount": 3,
+      "bitrate": 320,
+      "streamUrl": "https://icecast.empneusi.net/enplofm"
     }
   ]
 }

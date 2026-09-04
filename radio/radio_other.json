@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-03T02:58:24Z",
+  "updated": "2026-09-04T02:57:39Z",
   "region": "other",
   "stations": [
     {
@@ -2250,18 +2250,6 @@
       "streamUrl": "https://stream.rcs.revma.com/sa3ccwa9yy8uv"
     },
     {
-      "id": "cope_granada_es_43972aab",
-      "title": "Cope Granada",
-      "subtitle": "Entretenimiento",
-      "location": "Spain",
-      "genre": "Entretenimiento",
-      "countryCode": "ES",
-      "language": "espaňol",
-      "clickCount": 33,
-      "bitrate": 96,
-      "streamUrl": "http://flucast13-h-cloud.flumotion.com/cope/net1.mp3"
-    },
-    {
       "id": "frequence3_fr_383307b1",
       "title": "Frequence3",
       "subtitle": "Radio",
@@ -2586,18 +2574,6 @@
       "streamUrl": "http://nova-odn.ice.infomaniak.ch/nova-odn-256.aac"
     },
     {
-      "id": "bbc_somali_radio_gb_c328b53d",
-      "title": "BBC Somali Radio",
-      "subtitle": "News",
-      "location": "The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "News",
-      "countryCode": "GB",
-      "language": "english",
-      "clickCount": 6,
-      "bitrate": 101,
-      "streamUrl": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_somali_radio.m3u8"
-    },
-    {
       "id": "smooth_fm_95_3_sydney_95_3_fm_aac_48k_au_15798ad3",
       "title": "Smooth FM 95.3 - Sydney - 95.3 FM (AAC+ 48k)",
       "subtitle": "Commercial",
@@ -2608,18 +2584,6 @@
       "clickCount": 5,
       "bitrate": 48,
       "streamUrl": "http://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH953_AAC48.aac"
-    },
-    {
-      "id": "listnr_lofi_study_beats_au_b1a86b11",
-      "title": "LiSTNR - Lofi Study Beats",
-      "subtitle": "Lofi Study Beats",
-      "location": "Australia",
-      "genre": "Lofi Study Beats",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 5,
-      "bitrate": 0,
-      "streamUrl": "http://worldradio.online/proxy/?q=http://wz0liw.scahw.com.au/live/lo-fi.stream/playlist.m3u8"
     },
     {
       "id": "free_fm_top_100_es_aaa62aeb",
@@ -4902,18 +4866,6 @@
       "streamUrl": "https://uksouth.streaming.broadcast.radio:10290/wrs"
     },
     {
-      "id": "megarock_radio_320k_us_5f662373",
-      "title": "Megarock Radio 320k",
-      "subtitle": "Classic Rock",
-      "location": "The United States Of America",
-      "genre": "Classic Rock",
-      "countryCode": "US",
-      "language": "english",
-      "clickCount": 9,
-      "bitrate": 320,
-      "streamUrl": "https://stream3.megarockradio.net:80/"
-    },
-    {
       "id": "only_radio_fr_de1f1b7e",
       "title": "Only Radio",
       "subtitle": "Hits",
@@ -5298,18 +5250,6 @@
       "streamUrl": "https://crmlive.redctnet.es/liveedge/orm/ormmusical/playlist.m3u8"
     },
     {
-      "id": "listnr_k_pop_au_6bd9ecf7",
-      "title": "LiSTNR - K-Pop",
-      "subtitle": "Global",
-      "location": "Australia",
-      "genre": "Global",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 2,
-      "bitrate": 0,
-      "streamUrl": "http://worldradio.online/proxy/?q=http://wz0liw.scahw.com.au/live/k-pop.stream/playlist.m3u8"
-    },
-    {
       "id": "4eb_brisbane_98_1_fm_mp3_au_ed8596c5",
       "title": "4EB - Brisbane - 98.1 FM (MP3)",
       "subtitle": "Community Radio",
@@ -5610,18 +5550,6 @@
       "streamUrl": "http://167.114.11.80:2044/;"
     },
     {
-      "id": "listnr_indie_pop_hls_au_60ceceb0",
-      "title": "LiSTNR - Indie Pop (HLS)",
-      "subtitle": "Indie Pop",
-      "location": "Australia",
-      "genre": "Indie Pop",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 2,
-      "bitrate": 0,
-      "streamUrl": "http://wz0liw.scahw.com.au/live/indie-pop.stream/playlist.m3u8"
-    },
-    {
       "id": "golden_days_radio_au_552635c3",
       "title": "Golden Days Radio",
       "subtitle": "Gold",
@@ -5920,6 +5848,222 @@
       "clickCount": 2,
       "bitrate": 128,
       "streamUrl": "https://radio-munot.api.radiosphere.io/channels/channel-demo/stream.mp3?quality=4"
+    },
+    {
+      "id": "cope_granada_es_43972aab",
+      "title": "Cope Granada",
+      "subtitle": "Entretenimiento",
+      "location": "Spain",
+      "genre": "Entretenimiento",
+      "countryCode": "ES",
+      "language": "espaňol",
+      "clickCount": 37,
+      "bitrate": 96,
+      "streamUrl": "http://flucast13-h-cloud.flumotion.com/cope/net1.mp3"
+    },
+    {
+      "id": "1_fm_baroque_music_gb_58f03079",
+      "title": "1.Fm Baroque Music",
+      "subtitle": "Radio",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Radio",
+      "countryCode": "GB",
+      "language": null,
+      "clickCount": 14,
+      "bitrate": 256,
+      "streamUrl": "https://strm112.1.fm/baroque_mobile_mp3?utm_source=chatgpt.com"
+    },
+    {
+      "id": "774_abc_melbourne_au_a3350f8b",
+      "title": "774 ABC Melbourne",
+      "subtitle": "Local",
+      "location": "Australia",
+      "genre": "Local",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 13,
+      "bitrate": 115,
+      "streamUrl": "https://streaming.abc-cdn.net.au/audio/hls/localmelbourne.m3u8?source=web"
+    },
+    {
+      "id": "sex_fm_onlie_us_03d3b895",
+      "title": "sex fm onlie",
+      "subtitle": "Radio",
+      "location": "The United States Of America",
+      "genre": "Radio",
+      "countryCode": "US",
+      "language": null,
+      "clickCount": 9,
+      "bitrate": 128,
+      "streamUrl": "https://radio.sexfm.online/listen/sexfm/hqsex.flac"
+    },
+    {
+      "id": "radio_top_side_fr_ee6f100a",
+      "title": "Radio Top Side",
+      "subtitle": "Local",
+      "location": "France",
+      "genre": "Local",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 8,
+      "bitrate": 320,
+      "streamUrl": "https://listen.radioking.com/radio/33560/stream/275656"
+    },
+    {
+      "id": "valise_radio_fr_f49e006a",
+      "title": "Valise Radio",
+      "subtitle": "2000'S",
+      "location": "France",
+      "genre": "2000'S",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "https://live.valiseradio.com:7340/stream"
+    },
+    {
+      "id": "sound_radio_wales_gb_04c698cf",
+      "title": "Sound Radio Wales",
+      "subtitle": "Hits",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Hits",
+      "countryCode": "GB",
+      "language": "english",
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://listen.streamaudio.co/proxy/soundradiowales/stream"
+    },
+    {
+      "id": "612_abc_brisbane_au_2a284f39",
+      "title": "612 ABC Brisbane",
+      "subtitle": "Local",
+      "location": "Australia",
+      "genre": "Local",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 115,
+      "streamUrl": "https://streaming.abc-cdn.net.au/audio/hls/localbrisbane.m3u8?source=web"
+    },
+    {
+      "id": "copesal_es_49c41aae",
+      "title": "copesal",
+      "subtitle": "News",
+      "location": "Spain",
+      "genre": "News",
+      "countryCode": "ES",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 56,
+      "streamUrl": "https://salamanca-copesedes-rrcast.flumotion.com/copesedes/salamanca-low.mp3"
+    },
+    {
+      "id": "702_abc_sydney_au_762ae95b",
+      "title": "702 ABC Sydney",
+      "subtitle": "Local",
+      "location": "Australia",
+      "genre": "Local",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 115,
+      "streamUrl": "https://streaming.abc-cdn.net.au/audio/hls/localsydney.m3u8?source=web"
+    },
+    {
+      "id": "102_5_abc_perth_au_8286a874",
+      "title": "102.5 ABC Perth",
+      "subtitle": "Local",
+      "location": "Australia",
+      "genre": "Local",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 115,
+      "streamUrl": "https://streaming.abc-cdn.net.au/audio/hls/localperth.m3u8?source=web"
+    },
+    {
+      "id": "r_dio_marina_es_479cc736",
+      "title": "Ràdio Marina",
+      "subtitle": "Blanes",
+      "location": "Spain",
+      "genre": "Blanes",
+      "countryCode": "ES",
+      "language": "catalan",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://streaming.enantena.com:8000/radiomarina128.mp3"
+    },
+    {
+      "id": "3bs_radio_gb_52bc118e",
+      "title": "3Bs Radio",
+      "subtitle": "Radio",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Radio",
+      "countryCode": "GB",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://s4.radio.co/s3e324f4f5/listen"
+    },
+    {
+      "id": "radiomore_love_gb_7b473232",
+      "title": "radiomore.love",
+      "subtitle": "Ambient",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Ambient",
+      "countryCode": "GB",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://stream.zeno.fm/tkma7tghp8vtv"
+    },
+    {
+      "id": "radio_cardiff_gb_a4950207",
+      "title": "Radio Cardiff",
+      "subtitle": "Radio",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Radio",
+      "countryCode": "GB",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://radiocardiff.radioca.st/stream"
+    },
+    {
+      "id": "listnr_indie_pop_hls_au_60ceceb0",
+      "title": "LiSTNR - Indie Pop (HLS)",
+      "subtitle": "Indie Pop",
+      "location": "Australia",
+      "genre": "Indie Pop",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 2,
+      "bitrate": 0,
+      "streamUrl": "http://wz0liw.scahw.com.au/live/indie-pop.stream/playlist.m3u8"
+    },
+    {
+      "id": "listnr_heavy_af_hls_au_e91188ea",
+      "title": "LiSTNR - Heavy AF (HLS)",
+      "subtitle": "Explicit",
+      "location": "Australia",
+      "genre": "Explicit",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 2,
+      "bitrate": 0,
+      "streamUrl": "http://wz0liw.scahw.com.au/live/heavy-af.stream/playlist.m3u8"
+    },
+    {
+      "id": "listnr_wind_down_hls_au_047086e5",
+      "title": "LiSTNR - Wind Down (HLS)",
+      "subtitle": "Calm",
+      "location": "Australia",
+      "genre": "Calm",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 2,
+      "bitrate": 0,
+      "streamUrl": "http://wz0liw.scahw.com.au/live/wind-down.stream/playlist.m3u8"
     }
   ]
 }

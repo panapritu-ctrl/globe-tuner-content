@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-03T02:58:25Z",
+  "updated": "2026-09-04T02:57:39Z",
   "region": "europe",
   "part": 1,
   "of": 8,
@@ -4046,19 +4046,6 @@
       "countryCode": "BA",
       "language": "bosnian",
       "clickCount": 1,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_bosna_7e5886cc",
-      "title": "Radio Bosna",
-      "subtitle": "Radio",
-      "imageUrl": "https://radiobosna.com/img/favicon.png",
-      "streamUrl": "https://stream-162.zeno.fm/qggihjl4mgcvv",
-      "location": "Sarajevo, Bosnia And Herzegovina",
-      "genre": "Radio",
-      "countryCode": "BA",
-      "language": null,
-      "clickCount": 0,
       "bitrate": 128
     },
     {
@@ -28129,6 +28116,66 @@
       "clickCount": 2,
       "bitrate": 128,
       "streamUrl": "https://webtvstream.bhtelecom.ba/novi_radio_bihac.m3u8"
+    },
+    {
+      "id": "radio_usk_2_ba_64750e9b",
+      "title": "Radio USK 2",
+      "subtitle": "Radio",
+      "location": "Bosnia And Herzegovina",
+      "genre": "Radio",
+      "countryCode": "BA",
+      "language": "bosnian",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://radiousk2.radioca.st/;"
+    },
+    {
+      "id": "yeshua_at_radio_at_275ebf94",
+      "title": "Yeshua.at Radio",
+      "subtitle": "Christian",
+      "location": "Austria",
+      "genre": "Christian",
+      "countryCode": "AT",
+      "language": "german",
+      "clickCount": 2,
+      "bitrate": 0,
+      "streamUrl": "https://yeshua.at:8443/stream"
+    },
+    {
+      "id": "radio_rtrs_ba_7f8cf30e",
+      "title": "Radio RTRS",
+      "subtitle": "Radio",
+      "location": "Bosnia And Herzegovina",
+      "genre": "Radio",
+      "countryCode": "BA",
+      "language": "bosnian",
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "https://webtvstream.bhtelecom.ba/radio_rtrs.m3u8"
+    },
+    {
+      "id": "radio_pra_a_ba_091c0399",
+      "title": "Radio Prača",
+      "subtitle": "Radio",
+      "location": "Bosnia And Herzegovina",
+      "genre": "Radio",
+      "countryCode": "BA",
+      "language": "bosnian",
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "https://webtvstream.bhtelecom.ba/radio_praca.m3u8"
+    },
+    {
+      "id": "ro_d_dur_cz_e1266d86",
+      "title": "ČRo D-dur",
+      "subtitle": "Classical",
+      "location": "Czechia",
+      "genre": "Classical",
+      "countryCode": "CZ",
+      "language": "czech",
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "https://rozhlas.stream/ddur.mp3"
     }
   ]
 }

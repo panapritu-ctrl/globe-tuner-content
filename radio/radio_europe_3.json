@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-03T02:58:25Z",
+  "updated": "2026-09-04T02:57:39Z",
   "region": "europe",
   "part": 3,
   "of": 8,
@@ -13120,15 +13120,6 @@
       "bitrate": 128
     },
     {
-      "id": "happyness_radio_amiens_fr_1cd979",
-      "title": "Happyness Radio Amiens",
-      "subtitle": "2000S",
-      "location": "Hauts-de-France, France",
-      "genre": "2000S",
-      "streamUrl": "https://azuracast-broadcast.happynessamiens.fr/listen/happyness_dab/player",
-      "countryCode": "FR"
-    },
-    {
       "id": "rb2_heavy1_e389696c",
       "title": "Heavy1",
       "subtitle": "Hard Rock, Heavy Metal",
@@ -19841,19 +19832,6 @@
       "countryCode": "FR",
       "language": "french",
       "clickCount": 1,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_rts_n_mes_960b44b4",
-      "title": "RTS Nîmes",
-      "subtitle": "Radio",
-      "imageUrl": "http://www.rtsfm.com/favicon.ico",
-      "streamUrl": "http://str0.creacast.com/rts-nimes",
-      "location": "Occitanie, France",
-      "genre": "Radio",
-      "countryCode": "FR",
-      "language": "french",
-      "clickCount": 0,
       "bitrate": 128
     },
     {
@@ -26961,6 +26939,18 @@
       "clickCount": 2,
       "bitrate": 0,
       "streamUrl": "http://icecast.live.yle.fi/radio/YleSami/icecast.audio"
+    },
+    {
+      "id": "hypr_demoscene_radio_fi_693b8ace",
+      "title": "HYPR demoscene radio",
+      "subtitle": "Demos",
+      "location": "Finland",
+      "genre": "Demos",
+      "countryCode": "FI",
+      "language": "english",
+      "clickCount": 7,
+      "bitrate": 0,
+      "streamUrl": "https://hypr.website/hypr.mp3"
     }
   ]
 }

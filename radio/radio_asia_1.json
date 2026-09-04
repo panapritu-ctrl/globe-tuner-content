@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-03T02:58:25Z",
+  "updated": "2026-09-04T02:57:39Z",
   "region": "asia",
   "part": 1,
   "of": 3,
@@ -24687,19 +24687,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_pop_radio912_7db62691",
-      "title": "绵阳科技生活Pop-Radio912",
-      "subtitle": "Music, Pop",
-      "imageUrl": "http://pic.qingting.fm/2018/0508/20180508044233.jpeg",
-      "streamUrl": "https://lhttp.qtfm.cn/live/4025/64k.mp3",
-      "location": "Szechuan, China",
-      "genre": "Music",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_station_44f58d45",
       "title": "绵阳综合广播",
       "subtitle": "Full Service, News",
@@ -26860,6 +26847,138 @@
       "clickCount": 2,
       "bitrate": 96,
       "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_IBIZA.mp3"
+    },
+    {
+      "id": "abu_dhabi_fm_ae_58ef74aa",
+      "title": "Abu Dhabi fm",
+      "subtitle": "Arabic",
+      "location": "The United Arab Emirates",
+      "genre": "Arabic",
+      "countryCode": "AE",
+      "language": null,
+      "clickCount": 8,
+      "bitrate": 637,
+      "streamUrl": "https://admn-radio-cdn-lb.starzplayarabia.com/out/v1/admn_radio_enc/abudhabi_fm/abudhabi_fm_hls_nd/index.m3u8"
+    },
+    {
+      "id": "asiafm_af_cc2a2467",
+      "title": "AsiaFM",
+      "subtitle": "Classical",
+      "location": "Afghanistan",
+      "genre": "Classical",
+      "countryCode": "AF",
+      "language": null,
+      "clickCount": 8,
+      "bitrate": 0,
+      "streamUrl": "https://live.ximalaya.com/radio-first-page-app/live/999/64.m3u8?transcode=ts"
+    },
+    {
+      "id": "fm94_7_cn_5733c8d6",
+      "title": "上海经典音乐广播 FM94.7",
+      "subtitle": "Classical",
+      "location": "China",
+      "genre": "Classical",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 7,
+      "bitrate": 0,
+      "streamUrl": "https://lhttp-hw.qtfm.cn/live/267/64k.mp3"
+    },
+    {
+      "id": "station_cn_34bdb3e9",
+      "title": "佛山顺德广播",
+      "subtitle": "Information",
+      "location": "China",
+      "genre": "Information",
+      "countryCode": "CN",
+      "language": "cantonese",
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "https://radiopull.radiofoshan.com.cn/live/1400820947_BSID_44_audio.m3u8"
+    },
+    {
+      "id": "station_cn_73797108",
+      "title": "光山人民广播电台",
+      "subtitle": "Music",
+      "location": "China",
+      "genre": "Music",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "http://lhttp.qingting.fm/live/20500029/64k.mp3"
+    },
+    {
+      "id": "station_cn_794c154c",
+      "title": "广汉人民广播电台",
+      "subtitle": "News",
+      "location": "China",
+      "genre": "News",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://lhttp.qingting.fm/live/20212405/64k.mp3"
+    },
+    {
+      "id": "station_cn_4e308bfe",
+      "title": "吉林市广播电视台经济广播",
+      "subtitle": "News",
+      "location": "China",
+      "genre": "News",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "http://lhttp.qingting.fm/live/1823/64k.mp3"
+    },
+    {
+      "id": "994_cn_27a65a97",
+      "title": "中江综合广播年代音乐994",
+      "subtitle": "99.4",
+      "location": "China",
+      "genre": "99.4",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://lhttp.qtfm.cn/live/20500148/64k.mp3"
+    },
+    {
+      "id": "boomerang_20_s_ae_ad41ba1e",
+      "title": "Boomerang 20's",
+      "subtitle": "Radio",
+      "location": "The United Arab Emirates",
+      "genre": "Radio",
+      "countryCode": "AE",
+      "language": "english",
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "https://drive.uber.radio/uber/boomerang1920s/icecast.audio"
+    },
+    {
+      "id": "c_r_katherine_jenkins_ae_72bc4158",
+      "title": "C.R. - Katherine Jenkins",
+      "subtitle": "Classical",
+      "location": "The United Arab Emirates",
+      "genre": "Classical",
+      "countryCode": "AE",
+      "language": "engilsh",
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "http://drive.uber.radio/uber/crkatherinejenkins/icecast.audio"
+    },
+    {
+      "id": "exclusive_radio_italy_ae_d4152784",
+      "title": "Exclusive Radio - Italy",
+      "subtitle": "Pop Italian",
+      "location": "The United Arab Emirates",
+      "genre": "Pop Italian",
+      "countryCode": "AE",
+      "language": "english",
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "http://streaming.exclusive.radio/er/italy/icecast.audio"
     }
   ]
 }

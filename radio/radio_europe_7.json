@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-03T02:58:24Z",
+  "updated": "2026-09-04T02:57:39Z",
   "region": "europe",
   "part": 7,
   "of": 8,
@@ -551,19 +551,6 @@
       "imageUrl": "",
       "streamUrl": "https://radio.stream.smcdn.pl/timeradio-p/6130-1.aac/playlist.m3u8",
       "location": "Krakow, Poland",
-      "genre": "Dance",
-      "countryCode": "PL",
-      "language": "polish",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_eska_pozna_2c5cf7f3",
-      "title": "Radio ESKA Poznań",
-      "subtitle": "Dance, Pop",
-      "imageUrl": "",
-      "streamUrl": "https://radio.stream.smcdn.pl/timeradio-p/2140-1.aac/playlist.m3u8",
-      "location": "Poznan, Poland",
       "genre": "Dance",
       "countryCode": "PL",
       "language": "polish",
@@ -3915,19 +3902,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_zet_radio_72b9ca62",
-      "title": "Zet Radio",
-      "subtitle": "Classical",
-      "imageUrl": "",
-      "streamUrl": "http://redir.atmcdn.pl/sc/o2/Eurozet/live/audio.livx",
-      "location": "Poland",
-      "genre": "Classical",
-      "countryCode": "PL",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
       "id": "zloteprzeboje_pl_866325",
       "title": "Zloteprzeboje",
       "subtitle": "Radio",
@@ -5502,19 +5476,6 @@
       "language": "portuguese",
       "clickCount": 0,
       "bitrate": 64
-    },
-    {
-      "id": "rb2_radio_meio_do_mato_e1630f99",
-      "title": "Radio Meio Do Mato",
-      "subtitle": "Radio",
-      "imageUrl": "https://meiodomato.com/static/img/logo.png",
-      "streamUrl": "https://radio.meiodomato.com/stream",
-      "location": "Lisbon, Portugal",
-      "genre": "Radio",
-      "countryCode": "PT",
-      "language": "english",
-      "clickCount": 1,
-      "bitrate": 128
     },
     {
       "id": "rb2_radio_metal_on_80s_hnh_947e85f8",
@@ -10714,19 +10675,6 @@
       "language": null,
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_c_l_ra_i_prees_cde9fc59",
-      "title": "Radio Călărași Prees",
-      "subtitle": "Local Radio, Music",
-      "imageUrl": "https://brandingradio.com/wp-content/uploads/logos/radio-calarasi-press.png",
-      "streamUrl": "https://broadcast.brandingradio.com/listen/radiocalarasipress/live?refresh=1776086956744",
-      "location": "Romania",
-      "genre": "Local Radio",
-      "countryCode": "RO",
-      "language": "română",
-      "clickCount": 0,
-      "bitrate": 192
     },
     {
       "id": "rb2_radio_da_1977d753",
@@ -19832,19 +19780,6 @@
       "countryCode": "RU"
     },
     {
-      "id": "rb2_enigmatic_3_magnetic_chill_out_256_kbps_18a5dafa",
-      "title": "Enigmatic 3 Magnetic Chill out (256 kbps)",
-      "subtitle": "Chill Out",
-      "imageUrl": "",
-      "streamUrl": "https://radio.enigmatic.su:8005/radio?x=1738166302438",
-      "location": "The Russian Federation",
-      "genre": "Chill Out",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 3,
-      "bitrate": 192
-    },
-    {
       "id": "rb2_enigmatic_immersion_07a80e06",
       "title": "Enigmatic Immersion",
       "subtitle": "Ambient, Deep",
@@ -23670,18 +23605,6 @@
       "streamUrl": "https://ec2.yesstreaming.net:3025/stream"
     },
     {
-      "id": "naxi_max_rs_53a4d018",
-      "title": "Naxi MAX",
-      "subtitle": "Radio",
-      "location": "Serbia",
-      "genre": "Radio",
-      "countryCode": "RS",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 96,
-      "streamUrl": "http://max96-naxinacional.streaming.rs:8530/;stream.nsv"
-    },
-    {
       "id": "radio_s3_rs_d7deead9",
       "title": "Radio S3",
       "subtitle": "Radio",
@@ -25120,6 +25043,138 @@
       "clickCount": 3,
       "bitrate": 128,
       "streamUrl": "https://naxidigital-adore128ssl.streaming.rs:8332/;stream.nsv"
+    },
+    {
+      "id": "europa_fm_romania_ro_33d23e57",
+      "title": "Europa FM Romania",
+      "subtitle": "Radio",
+      "location": "Romania",
+      "genre": "Radio",
+      "countryCode": "RO",
+      "language": "romanian",
+      "clickCount": 12,
+      "bitrate": 64,
+      "streamUrl": "https://astreaming.edi.ro:8443/EuropaFM_aac"
+    },
+    {
+      "id": "radio_a_tentat_ro_b941ed85",
+      "title": "Radio A-Tentat",
+      "subtitle": "Manele",
+      "location": "Romania",
+      "genre": "Manele",
+      "countryCode": "RO",
+      "language": "romanian",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://ssl.omegahost.ro/8066/stream"
+    },
+    {
+      "id": "naxi_fitness_rs_f2e3a070",
+      "title": "Naxi Fitness",
+      "subtitle": "Electronic",
+      "location": "Serbia",
+      "genre": "Electronic",
+      "countryCode": "RS",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://naxidigital-fitness128ssl.streaming.rs:8292/;stream.nsv"
+    },
+    {
+      "id": "clasic_radio_80_bucure_ti_ro_10176f58",
+      "title": "Clasic Radio_80 -București",
+      "subtitle": "80S",
+      "location": "Romania",
+      "genre": "80S",
+      "countryCode": "RO",
+      "language": "română",
+      "clickCount": 3,
+      "bitrate": 192,
+      "streamUrl": "https://live.radioclasic.com/listen/radio_clasic_80/live.mp3"
+    },
+    {
+      "id": "radio_deea_one_ti_ro_83d8de16",
+      "title": "Radio DEEA -Onești",
+      "subtitle": "Dance",
+      "location": "Romania",
+      "genre": "Dance",
+      "countryCode": "RO",
+      "language": "românä",
+      "clickCount": 3,
+      "bitrate": 320,
+      "streamUrl": "https://radiocdn.nxthost.com/radio-deea"
+    },
+    {
+      "id": "radio_killer_turda_ro_33ecdbca",
+      "title": "Radio Killer Turda",
+      "subtitle": "Local Radio",
+      "location": "Romania",
+      "genre": "Local Radio",
+      "countryCode": "RO",
+      "language": "română",
+      "clickCount": 3,
+      "bitrate": 192,
+      "streamUrl": "https://s47.myradiostream.com/16234/listen.mp3"
+    },
+    {
+      "id": "sud_radio_craiova_97_4_fm_ro_14a16d22",
+      "title": "Sud Radio -Craiova 97.4 FM",
+      "subtitle": "Local News",
+      "location": "Romania",
+      "genre": "Local News",
+      "countryCode": "RO",
+      "language": "romania",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "http://radiosud.ro/stream/"
+    },
+    {
+      "id": "super_fm_ro_7c0ecbca",
+      "title": "Super FM",
+      "subtitle": "Radio",
+      "location": "Romania",
+      "genre": "Radio",
+      "countryCode": "RO",
+      "language": "romanian",
+      "clickCount": 3,
+      "bitrate": 192,
+      "streamUrl": "https://live.superfm.ro/stream.mp3"
+    },
+    {
+      "id": "radio_orion_fm_c_mpulung_muscel_96_6_fm_ro_d0d35bc3",
+      "title": "Radio Orion FM -Câmpulung Muscel 96,6 FM",
+      "subtitle": "Local News",
+      "location": "Romania",
+      "genre": "Local News",
+      "countryCode": "RO",
+      "language": "românä",
+      "clickCount": 3,
+      "bitrate": 256,
+      "streamUrl": "https://cast.orionfm.ro/listen/orion/public.mp3"
+    },
+    {
+      "id": "orion_fm_fete_ti_91_7_fm_ro_6b732989",
+      "title": "Orion FM -Fetești 91,7 FM",
+      "subtitle": "Dance",
+      "location": "Romania",
+      "genre": "Dance",
+      "countryCode": "RO",
+      "language": "românä",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://sonic2-rbx.cloud-center.ro/8070/stream"
+    },
+    {
+      "id": "krajiski_lid_rafio_rs_f38fde8d",
+      "title": "Krajiski LiD Rafio",
+      "subtitle": "Radio",
+      "location": "Serbia",
+      "genre": "Radio",
+      "countryCode": "RS",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://mojaudio.stream/proxy/lidradio/stream"
     }
   ]
 }

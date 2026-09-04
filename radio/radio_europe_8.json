@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-03T02:58:25Z",
+  "updated": "2026-09-04T02:57:39Z",
   "region": "europe",
   "part": 8,
   "of": 8,
@@ -22348,19 +22348,6 @@
       "bitrate": 320
     },
     {
-      "id": "rb2_station_30d960b8",
-      "title": "Котельва",
-      "subtitle": "Муз",
-      "imageUrl": "",
-      "streamUrl": "https://globalic.stream:1575/stream",
-      "location": "Ukraine",
-      "genre": "Муз",
-      "countryCode": "UA",
-      "language": "укр",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "fm_100_0_ua_871d49",
       "title": "Країна FM 100.0",
       "subtitle": "Music",
@@ -24971,6 +24958,90 @@
       "clickCount": 3,
       "bitrate": 192,
       "streamUrl": "https://stream.rusyn.fm/rusyny.mp3"
+    },
+    {
+      "id": "uralsound_fm_ru_b4e23fce",
+      "title": "Uralsound FM",
+      "subtitle": "Deep House",
+      "location": "The Russian Federation",
+      "genre": "Deep House",
+      "countryCode": "RU",
+      "language": "english",
+      "clickCount": 6,
+      "bitrate": 192,
+      "streamUrl": "http://62.16.40.250:8000/uralsoundfm"
+    },
+    {
+      "id": "station_ru_1e1f1595",
+      "title": "Волшебный шансон",
+      "subtitle": "Шансон",
+      "location": "The Russian Federation",
+      "genre": "Шансон",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "https://chanson.hostingradio.ru:8041/chanson128.mp3"
+    },
+    {
+      "id": "res_rewind_ru_22a99683",
+      "title": "RES: Rewind",
+      "subtitle": "Atmospheric",
+      "location": "The Russian Federation",
+      "genre": "Atmospheric",
+      "countryCode": "RU",
+      "language": "english",
+      "clickCount": 6,
+      "bitrate": 320,
+      "streamUrl": "https://cst.res.ad/rw320"
+    },
+    {
+      "id": "radio_kontinental_ru_53623751",
+      "title": "Radio Kontinental",
+      "subtitle": "Pop",
+      "location": "The Russian Federation",
+      "genre": "Pop",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "http://stream01.radiocon.ru:8000/hum_tbk"
+    },
+    {
+      "id": "happy_hits_ua_641ccbe0",
+      "title": "Радіо Київстар Happy Hits",
+      "subtitle": "256 Kbit/S",
+      "location": "Ukraine",
+      "genre": "256 Kbit/S",
+      "countryCode": "UA",
+      "language": "ukranian",
+      "clickCount": 4,
+      "bitrate": 281,
+      "streamUrl": "https://radio.kyivstar.ua/stream/sport/master.m3u8"
+    },
+    {
+      "id": "897_sk_4e6d891b",
+      "title": "897",
+      "subtitle": "Club",
+      "location": "Slovakia",
+      "genre": "Club",
+      "countryCode": "SK",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://c34.radioboss.fm:8106/stream"
+    },
+    {
+      "id": "fm_ua_430e822c",
+      "title": "Бліц-FM (Фастів)",
+      "subtitle": "Entertainment",
+      "location": "Ukraine",
+      "genre": "Entertainment",
+      "countryCode": "UA",
+      "language": "ukrainian",
+      "clickCount": 3,
+      "bitrate": 320,
+      "streamUrl": "https://stream.blits-fm.ua/stream64"
     }
   ]
 }

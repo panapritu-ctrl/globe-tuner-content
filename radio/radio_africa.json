@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-03T02:58:25Z",
+  "updated": "2026-09-04T02:57:39Z",
   "region": "africa",
   "stations": [
     {
@@ -2302,19 +2302,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_sunny_fm_8507a01e",
-      "title": "Sunny FM",
-      "subtitle": "Christian, Gospel",
-      "imageUrl": "https://cdn-profiles.tunein.com/s196797/images/logod.jpg?t=638117932610000000",
-      "streamUrl": "https://sunny-radio-server.cloud-ip.cc/radio/sunnyradio?t=1782488511159",
-      "location": "Accra, Ghana",
-      "genre": "Christian",
-      "countryCode": "GH",
-      "language": "akan",
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
       "id": "rb_sweet_melodies_7cdfc65b",
       "title": "Sweet Melodies",
       "subtitle": "Radio",
@@ -3815,15 +3802,6 @@
       "streamUrl": "http://stream.zeno.fm/1y2c3qbgbchvv"
     },
     {
-      "id": "1radio_international_ng_088c9c",
-      "title": "1Radio International",
-      "subtitle": "Entretenimiento",
-      "location": "Rivers, Nigeria",
-      "genre": "Entretenimiento",
-      "countryCode": "NG",
-      "streamUrl": "https://fm.imediaport.com/1radio"
-    },
-    {
       "id": "1radio_oguta_community_ng",
       "title": "1Radio Oguta - Community",
       "subtitle": "MP3 64kbps",
@@ -4029,15 +4007,6 @@
       "genre": "Jazz",
       "countryCode": "NG",
       "streamUrl": "http://stream.zeno.fm/pkza99xshkhvv"
-    },
-    {
-      "id": "metro_97_7_fm_ng_050bcc",
-      "title": "Metro 97.7 FM",
-      "subtitle": "Radio",
-      "location": "Lagos, Nigeria",
-      "genre": "Radio",
-      "streamUrl": "https://go.webgateready.com/metrofm",
-      "countryCode": "NG"
     },
     {
       "id": "nagari_radio_ng_3a27d1",
@@ -6777,15 +6746,6 @@
       "language": null,
       "clickCount": 1,
       "bitrate": 128
-    },
-    {
-      "id": "al_ansaar_radio_za",
-      "title": "Al-Ansaar Radio",
-      "subtitle": "Community / Islam",
-      "location": "Durban, South Africa",
-      "genre": "Devotional",
-      "countryCode": "ZA",
-      "streamUrl": "https://al-ansaar.simplestreaming.co.za/listen/al-ansaar_radio/radio.mp3"
     },
     {
       "id": "rb2_algoa_fm_e361fbe4",
@@ -10066,18 +10026,6 @@
       "streamUrl": "http://stream1.dimusic.club:11534/rw?type=.aac"
     },
     {
-      "id": "radio_svein_cd_a293250e",
-      "title": "Radio Svein",
-      "subtitle": "Radio Comunitaria",
-      "location": "The Democratic Republic Of The Congo",
-      "genre": "Radio Comunitaria",
-      "countryCode": "CD",
-      "language": "french",
-      "clickCount": 3,
-      "bitrate": 128,
-      "streamUrl": "https://radiosvein2.ice.infomaniak.ch/radiosvein2-64.mp3"
-    },
-    {
       "id": "joy_hits_channel_ug_090aa0be",
       "title": "Joy hits channel",
       "subtitle": "Music",
@@ -10316,6 +10264,54 @@
       "clickCount": 3,
       "bitrate": 320,
       "streamUrl": "https://radio.9300.co.za/listen/rockbox-radio/radio.mp3"
+    },
+    {
+      "id": "zaa_radio_gh_738c08d4",
+      "title": "Zaa Radio",
+      "subtitle": "Music",
+      "location": "Ghana",
+      "genre": "Music",
+      "countryCode": "GH",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://stream.zaaradio.com:60700/Zaa"
+    },
+    {
+      "id": "radio_yoo_mp3_ug_43d176e0",
+      "title": "Radio Yoo (MP3)",
+      "subtitle": "Christian",
+      "location": "Uganda",
+      "genre": "Christian",
+      "countryCode": "UG",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "http://stream.zeno.fm/v73tc5gwaphvv"
+    },
+    {
+      "id": "capital_fm_uk_ug_4993ba6b",
+      "title": "Capital FM UK",
+      "subtitle": "Rock",
+      "location": "Uganda",
+      "genre": "Rock",
+      "countryCode": "UG",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "http://media-ice.musicradio.com/CapitalLiverpoolMP3"
+    },
+    {
+      "id": "blu_radiio_za_dda6a629",
+      "title": "BLU RADIIO",
+      "subtitle": "Radio",
+      "location": "South Africa",
+      "genre": "Radio",
+      "countryCode": "ZA",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://app.radiio.link/stream.mp3"
     }
   ]
 }
