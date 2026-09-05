@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-04T02:57:39Z",
+  "updated": "2026-09-05T02:57:03Z",
   "region": "europe",
   "part": 2,
   "of": 8,
@@ -28082,18 +28082,6 @@
       "streamUrl": "https://stream.rpr1.de/ludwigshafen/mp3-128/radiobrowser"
     },
     {
-      "id": "dr_p2_aac_dk_0aeeaf1d",
-      "title": "DR P2 (AAC)",
-      "subtitle": "Radio",
-      "location": "Denmark",
-      "genre": "Radio",
-      "countryCode": "DK",
-      "language": "danish",
-      "clickCount": 3,
-      "bitrate": 324,
-      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p2/masterab.m3u8"
-    },
-    {
       "id": "dr_p4_nordjylland_aac_dk_412ae0ef",
       "title": "DR P4 Nordjylland (AAC)",
       "subtitle": "Regional Radio",
@@ -28226,18 +28214,6 @@
       "streamUrl": "https://stream.rpr1.de/mainz/mp3-128/radiobrowser"
     },
     {
-      "id": "dr_p5_trekanten_aac_dk_d161d8f5",
-      "title": "DR P5 Trekanten (AAC)",
-      "subtitle": "Regional Radio",
-      "location": "Denmark",
-      "genre": "Regional Radio",
-      "countryCode": "DK",
-      "language": "danish",
-      "clickCount": 2,
-      "bitrate": 324,
-      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p5trekanten/masterab.m3u8"
-    },
-    {
       "id": "swr1_rp_de_8b114104",
       "title": "SWR1 RP",
       "subtitle": "Radio",
@@ -28344,6 +28320,18 @@
       "clickCount": 2,
       "bitrate": 320,
       "streamUrl": "https://fra-pioneer01.dedicateware.com:1465/stream"
+    },
+    {
+      "id": "radio_sydhavsoerne_lolland_dk_fe1808fe",
+      "title": "Radio Sydhavsoerne Lolland",
+      "subtitle": "Radio",
+      "location": "Denmark",
+      "genre": "Radio",
+      "countryCode": "DK",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://radio1.jfmtech.dk/sydhavlolland"
     }
   ]
 }

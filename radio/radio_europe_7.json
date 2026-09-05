@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-04T02:57:39Z",
+  "updated": "2026-09-05T02:57:03Z",
   "region": "europe",
   "part": 7,
   "of": 8,
@@ -658,19 +658,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_radio_eska_2_d_4fac7e83",
-      "title": "Radio Eska 2 łódź",
-      "subtitle": "Dance, Pop",
-      "imageUrl": "",
-      "streamUrl": "https://radio.stream.smcdn.pl/timeradio-p/1100-1.aac/playlist.m3u8",
-      "location": "łódź, Poland",
-      "genre": "Dance",
-      "countryCode": "PL",
-      "language": "polish",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_radio_eska_dla_dzieci_87ff4f9d",
       "title": "Radio Eska Dla Dzieci",
       "subtitle": "Polish",
@@ -781,19 +768,6 @@
       "countryCode": "PL",
       "language": null,
       "clickCount": 1,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_eska_zamo_7e2a18d2",
-      "title": "Radio Eska Zamość",
-      "subtitle": "Dance, Pop",
-      "imageUrl": "",
-      "streamUrl": "https://radio.stream.smcdn.pl/timeradio-p/2230-1.aac/playlist.m3u8",
-      "location": "Zamość, Poland",
-      "genre": "Dance",
-      "countryCode": "PL",
-      "language": "polish",
-      "clickCount": 0,
       "bitrate": 128
     },
     {
@@ -17345,19 +17319,6 @@
       "bitrate": 256
     },
     {
-      "id": "rb2_50_306870cb",
-      "title": "50",
-      "subtitle": "Рок",
-      "imageUrl": "https://topradio.me/assets/image/radio/180/radio-50.webp",
-      "streamUrl": "https://radio-holding.ru:9433/50",
-      "location": "Алушта, The Russian Federation",
-      "genre": "Рок",
-      "countryCode": "RU",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_50f_ru_74a1142d",
       "title": "50f.ru",
       "subtitle": "Клубная",
@@ -19504,19 +19465,6 @@
       "genre": "Deep House",
       "streamUrl": "https://stream.deep1.ru/deep1mp3",
       "countryCode": "RU"
-    },
-    {
-      "id": "rb2_deep1_f6474c05",
-      "title": "Deep1",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://stream.deep1.ru/deep1aac",
-      "location": "The Russian Federation",
-      "genre": "Radio",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 0,
-      "bitrate": 128
     },
     {
       "id": "rb2_delta_blues_a0a81fa1",
@@ -23977,18 +23925,6 @@
       "streamUrl": "https://zt.cdn.eurozet.pl/ZETPL1.mp3"
     },
     {
-      "id": "naxi_90s_rs_453cfb23",
-      "title": "Naxi 90s",
-      "subtitle": "Pop",
-      "location": "Serbia",
-      "genre": "Pop",
-      "countryCode": "RS",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 128,
-      "streamUrl": "https://naxidigital-90s128ssl.streaming.rs:8282/;stream.nsv"
-    },
-    {
       "id": "radio_s_folk_stars_rs_aa07cea5",
       "title": "Radio S Folk Stars",
       "subtitle": "Folk",
@@ -24673,18 +24609,6 @@
       "streamUrl": "https://stream.4fun.tv:8888/hls/4f.m3u8"
     },
     {
-      "id": "lautaru_populara_ro_fb71e48e",
-      "title": "Lautaru Populara",
-      "subtitle": "Radio",
-      "location": "Romania",
-      "genre": "Radio",
-      "countryCode": "RO",
-      "language": "romanian",
-      "clickCount": 4,
-      "bitrate": 128,
-      "streamUrl": "http://live.radiolautaru.ro:9000/;stream.nsv"
-    },
-    {
       "id": "radio_radom_pl_ae0b0b1a",
       "title": "Radio Radom",
       "subtitle": "Adult Contemporary / Mix Hits",
@@ -25045,18 +24969,6 @@
       "streamUrl": "https://naxidigital-adore128ssl.streaming.rs:8332/;stream.nsv"
     },
     {
-      "id": "europa_fm_romania_ro_33d23e57",
-      "title": "Europa FM Romania",
-      "subtitle": "Radio",
-      "location": "Romania",
-      "genre": "Radio",
-      "countryCode": "RO",
-      "language": "romanian",
-      "clickCount": 12,
-      "bitrate": 64,
-      "streamUrl": "https://astreaming.edi.ro:8443/EuropaFM_aac"
-    },
-    {
       "id": "radio_a_tentat_ro_b941ed85",
       "title": "Radio A-Tentat",
       "subtitle": "Manele",
@@ -25175,6 +25087,126 @@
       "clickCount": 3,
       "bitrate": 128,
       "streamUrl": "https://mojaudio.stream/proxy/lidradio/stream"
+    },
+    {
+      "id": "anty_radio_pl_e36fbde5",
+      "title": "Anty Radio",
+      "subtitle": "Radio",
+      "location": "Poland",
+      "genre": "Radio",
+      "countryCode": "PL",
+      "language": null,
+      "clickCount": 68,
+      "bitrate": 128,
+      "streamUrl": "https://an.cdn.eurozet.pl/ant-web.mp3?t=1713710188361"
+    },
+    {
+      "id": "zet_radio_pl_64e25ca4",
+      "title": "Zet Radio",
+      "subtitle": "Classical",
+      "location": "Poland",
+      "genre": "Classical",
+      "countryCode": "PL",
+      "language": null,
+      "clickCount": 10,
+      "bitrate": 128,
+      "streamUrl": "http://redir.atmcdn.pl/sc/o2/Eurozet/live/audio.livx"
+    },
+    {
+      "id": "meloradio_fm_pl_e5861bef",
+      "title": "Meloradio FM",
+      "subtitle": "Dance",
+      "location": "Poland",
+      "genre": "Dance",
+      "countryCode": "PL",
+      "language": "polish",
+      "clickCount": 8,
+      "bitrate": 128,
+      "streamUrl": "https://r.dcs.redcdn.pl/sc/o2/Eurozet/live/meloradio.livx?audio=5"
+    },
+    {
+      "id": "akademickie_radio_luz_pl_230e433c",
+      "title": "Akademickie Radio LUZ",
+      "subtitle": "Radio",
+      "location": "Poland",
+      "genre": "Radio",
+      "countryCode": "PL",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 256,
+      "streamUrl": "https://stream.radioluz.pl:8443/luz_hifi.mp3?1744349689809"
+    },
+    {
+      "id": "radio_taraf_manele_ro_78bbb4fe",
+      "title": "Radio Taraf MANELE",
+      "subtitle": "Radio",
+      "location": "Romania",
+      "genre": "Radio",
+      "countryCode": "RO",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "http://asculta.radiotaraf.ro:7100/;"
+    },
+    {
+      "id": "lautaru_populara_ro_fb71e48e",
+      "title": "Lautaru Populara",
+      "subtitle": "Radio",
+      "location": "Romania",
+      "genre": "Radio",
+      "countryCode": "RO",
+      "language": "romanian",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "http://live.radiolautaru.ro:9000/;stream.nsv"
+    },
+    {
+      "id": "radio_rock_pirata_pt_6b251829",
+      "title": "Radio Rock Pirata",
+      "subtitle": "Metal",
+      "location": "Portugal",
+      "genre": "Metal",
+      "countryCode": "PT",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 320,
+      "streamUrl": "https://radio.softshell-octatonic.ts.net/stream"
+    },
+    {
+      "id": "radio_bra_ov_87_8_fm_ro_775ad431",
+      "title": "Radio Brașov -87,8 FM",
+      "subtitle": "Local Radio",
+      "location": "Romania",
+      "genre": "Local Radio",
+      "countryCode": "RO",
+      "language": "română",
+      "clickCount": 3,
+      "bitrate": 192,
+      "streamUrl": "https://live.radiobrasov.ro/stream.mp3"
+    },
+    {
+      "id": "balada_radio_bistri_a_89_3_fm_ro_aa218ffd",
+      "title": "Balada Radio -Bistrița 89,3 FM",
+      "subtitle": "Local Radio",
+      "location": "Romania",
+      "genre": "Local Radio",
+      "countryCode": "RO",
+      "language": "română",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "http://94.52.142.229:85/broadwave.mp3"
+    },
+    {
+      "id": "radio_sljivovica_rs_aac8db44",
+      "title": "Radio Sljivovica",
+      "subtitle": "Radio",
+      "location": "Serbia",
+      "genre": "Radio",
+      "countryCode": "RS",
+      "language": "serbian",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "http://stream.iradio.pro:8114/;stream.nsv"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-04T02:57:39Z",
+  "updated": "2026-09-05T02:57:03Z",
   "region": "asia",
   "part": 3,
   "of": 3,
@@ -4080,15 +4080,6 @@
       "genre": "Radio",
       "countryCode": "PK",
       "streamUrl": "https://whmsonic.radio.gov.pk:8032/stream"
-    },
-    {
-      "id": "fm_93_rawalpindi_pk_7ba744",
-      "title": "FM 93 Rawalpindi",
-      "subtitle": "Radio",
-      "location": "Punjab, Pakistan",
-      "genre": "Radio",
-      "countryCode": "PK",
-      "streamUrl": "https://whmsonic.radio.gov.pk:8036/relay"
     },
     {
       "id": "hot_fm_105_pk",
@@ -14808,18 +14799,6 @@
       "streamUrl": "http://stream.zenolive.com/s10z665mz9duv"
     },
     {
-      "id": "xfm_iloilo_ph_5e16c17a",
-      "title": "XFM Iloilo",
-      "subtitle": "Radio",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "language": null,
-      "clickCount": 3,
-      "bitrate": 64,
-      "streamUrl": "http://209.126.124.126:8696/stream"
-    },
-    {
       "id": "xfm_92_3_mega_manila_ph_38d00ff6",
       "title": "XFM 92.3 Mega Manila",
       "subtitle": "Music",
@@ -15982,6 +15961,150 @@
       "clickCount": 3,
       "bitrate": 96,
       "streamUrl": "http://142.44.212.114:9353/stream"
+    },
+    {
+      "id": "fm_93_rawalpindi_pk_7e03cc1f",
+      "title": "FM 93 Rawalpindi",
+      "subtitle": "Radio",
+      "location": "Pakistan",
+      "genre": "Radio",
+      "countryCode": "PK",
+      "language": null,
+      "clickCount": 11,
+      "bitrate": 128,
+      "streamUrl": "https://whmsonic.radio.gov.pk:8036/relay"
+    },
+    {
+      "id": "4506_radio_ph_75441681",
+      "title": "4506 Radio",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 7,
+      "bitrate": 192,
+      "streamUrl": "https://a6.asurahosting.com:6540/radio.mp3"
+    },
+    {
+      "id": "ok_fm_legazpi_ph_5b43f036",
+      "title": "OK-FM Legazpi",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 102,
+      "streamUrl": "https://s2.netradiostation.com/proxy/dwgb?mp=/stream"
+    },
+    {
+      "id": "love_radio_roxas_ph_1088c2af",
+      "title": "Love Radio Roxas",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 96,
+      "streamUrl": "http://loveradioroxas.radioca.st:8216/stream"
+    },
+    {
+      "id": "love_radio_roxas_ph_c88c877f",
+      "title": "Love Radio Roxas",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 96,
+      "streamUrl": "http://pollux.shoutca.st:8216/stream"
+    },
+    {
+      "id": "yenik_y_fm_tr_94697dc5",
+      "title": "Yeniköy FM",
+      "subtitle": "Radio",
+      "location": "Türkiye",
+      "genre": "Radio",
+      "countryCode": "TR",
+      "language": "turkish",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://anadolu.liderhost.com.tr:10924/stream"
+    },
+    {
+      "id": "rpn_dxks_surigao_ph_2e873b01",
+      "title": "RPN DXKS Surigao",
+      "subtitle": "Local News",
+      "location": "The Philippines",
+      "genre": "Local News",
+      "countryCode": "PH",
+      "language": "filipino",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "http://dxks-rpnradio.radioca.st:8448/stream"
+    },
+    {
+      "id": "fm_92_5_mhz_th_93a34fa9",
+      "title": "สถานีวิทยุกระจายเสียงแห่งประเทศไทย (FM 92.5 MHz)",
+      "subtitle": "Radio",
+      "location": "Thailand",
+      "genre": "Radio",
+      "countryCode": "TH",
+      "language": "thai",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://cdn-edge.iiptvcdn.com/radio_edge/45d4-d521-cbfc-d686-0123/playlist.m3u8"
+    },
+    {
+      "id": "andromeda_radio_tr_732a6b8d",
+      "title": "andromeda radio",
+      "subtitle": "Radio",
+      "location": "Türkiye",
+      "genre": "Radio",
+      "countryCode": "TR",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://radyo1.radyo-dinle.tc/andromedaradio/stream"
+    },
+    {
+      "id": "mcbs_tw_14d1f9f7",
+      "title": "MCBS 銘傳廣播電台",
+      "subtitle": "Full Service",
+      "location": "Taiwan, Republic Of China",
+      "genre": "Full Service",
+      "countryCode": "TW",
+      "language": "chinese",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "http://radio.mcu.edu.tw:8080/radio?1747274117052"
+    },
+    {
+      "id": "factbusters_radio_ph_5cabbc33",
+      "title": "FactBusters Radio",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 0,
+      "streamUrl": "https://stream.zeno.fm/h8xpcgffowluv"
+    },
+    {
+      "id": "xfm_palawan_ph_5b174850",
+      "title": "XFM Palawan",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 64,
+      "streamUrl": "http://209.126.124.126:8835/stream"
     }
   ]
 }

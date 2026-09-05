@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-04T02:57:39Z",
+  "updated": "2026-09-05T02:57:03Z",
   "region": "europe",
   "part": 8,
   "of": 8,
@@ -13551,19 +13551,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_station_16abe958",
-      "title": "Радио России / ГТРК \"Орел\"",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/orel/radio_russia/index.m3u8",
-      "location": "The Russian Federation",
-      "genre": "Radio",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 0,
-      "bitrate": 392
-    },
-    {
       "id": "rb2_91_0_fm_1831796b",
       "title": "Радио России Абакан 91.0 FM",
       "subtitle": "Music, News",
@@ -15048,19 +15035,6 @@
       "genre": "Music",
       "countryCode": "RU",
       "language": "russian",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_station_007ed6a9",
-      "title": "Русь",
-      "subtitle": "Поп-Музыка, Ретро",
-      "imageUrl": "https://pcradio.ru/images/stations/61b09d04a191b.jpg",
-      "streamUrl": "https://radio-holding.ru:9433/rus",
-      "location": "The Russian Federation",
-      "genre": "Поп-Музыка",
-      "countryCode": "RU",
-      "language": null,
       "clickCount": 0,
       "bitrate": 128
     },
@@ -25042,6 +25016,54 @@
       "clickCount": 3,
       "bitrate": 320,
       "streamUrl": "https://stream.blits-fm.ua/stream64"
+    },
+    {
+      "id": "102_7_fm_ru_784773a2",
+      "title": "Первое радио Краснодар 102.7 FM",
+      "subtitle": "Music",
+      "location": "The Russian Federation",
+      "genre": "Music",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 7,
+      "bitrate": 192,
+      "streamUrl": "http://stream.pervoe.fm:8000/"
+    },
+    {
+      "id": "chanson256_ru_56f0e01f",
+      "title": "chanson256",
+      "subtitle": "Shanson",
+      "location": "The Russian Federation",
+      "genre": "Shanson",
+      "countryCode": "RU",
+      "language": "rus",
+      "clickCount": 5,
+      "bitrate": 256,
+      "streamUrl": "https://chanson.hostingradio.ru:8041/chanson256.mp3"
+    },
+    {
+      "id": "station_ua_2cf93bd4",
+      "title": "Вільне РАДІО Жовква ФМ",
+      "subtitle": "Radio",
+      "location": "Ukraine",
+      "genre": "Radio",
+      "countryCode": "UA",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 320,
+      "streamUrl": "https://cast108372.customer.uar.net/live320"
+    },
+    {
+      "id": "ax_radio_ua_a3b5832c",
+      "title": "Ax Radio!",
+      "subtitle": "Dance",
+      "location": "Ukraine",
+      "genre": "Dance",
+      "countryCode": "UA",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://m.axradio.net/stream.mp3"
     }
   ]
 }

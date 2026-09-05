@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-04T02:57:39Z",
+  "updated": "2026-09-05T02:57:03Z",
   "region": "europe",
   "part": 6,
   "of": 8,
@@ -17592,19 +17592,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_radio_zuyd_6212d683",
-      "title": "Radio Zuyd",
-      "subtitle": "Music",
-      "imageUrl": "http://radiozuyd.nl/wp-content/uploads/2018/11/Logo-Radio-Zuyd-2.png",
-      "streamUrl": "http://radiozuyd.shoutcaststream.com:8199/stream",
-      "location": "Limburg, Heerle, The Netherlands",
-      "genre": "Music",
-      "countryCode": "NL",
-      "language": "dutch",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_radio_de_branding_c4151034",
       "title": "Radio de Branding",
       "subtitle": "24/7, Various Music",
@@ -21049,15 +21036,6 @@
       "bitrate": 128
     },
     {
-      "id": "akademickie_radio_luz_pl_50bb68",
-      "title": "Akademickie Radio LUZ",
-      "subtitle": "Radio",
-      "location": "Poland",
-      "genre": "Radio",
-      "streamUrl": "https://stream.radioluz.pl:8443/luz_hifi.mp3?1744349689809",
-      "countryCode": "PL"
-    },
-    {
       "id": "rb2_akademickie_radio_luz_91_6_8916be0e",
       "title": "Akademickie Radio Luz 91.6",
       "subtitle": "Radio",
@@ -21802,19 +21780,6 @@
       "streamUrl": "https://waw.ic.smcdn.pl/1370-1.mp3",
       "location": "Poland",
       "genre": "Radio",
-      "countryCode": "PL",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_eska_bydgoszcz_1447d520",
-      "title": "Eska Bydgoszcz",
-      "subtitle": "Pop",
-      "imageUrl": "",
-      "streamUrl": "https://radio.stream.smcdn.pl/icradio-p/2030-2.aac/playlist.m3u8",
-      "location": "Poland",
-      "genre": "Pop",
       "countryCode": "PL",
       "language": null,
       "clickCount": 0,
@@ -27473,6 +27438,30 @@
       "clickCount": 3,
       "bitrate": 256,
       "streamUrl": "http://23.81.35.187:8144/stream"
+    },
+    {
+      "id": "langstraat_nl_nl_733a3c76",
+      "title": "Langstraat NL",
+      "subtitle": "Folk Music",
+      "location": "The Netherlands",
+      "genre": "Folk Music",
+      "countryCode": "NL",
+      "language": "dutch",
+      "clickCount": 3,
+      "bitrate": 320,
+      "streamUrl": "https://mediaserv74.live-streams.nl/proxy/langstraatnl/stream"
+    },
+    {
+      "id": "radio_energy_lv_lv_5d586f70",
+      "title": "Radio ENERGY.LV",
+      "subtitle": "Pop",
+      "location": "Latvia",
+      "genre": "Pop",
+      "countryCode": "LV",
+      "language": "latvian",
+      "clickCount": 2,
+      "bitrate": 192,
+      "streamUrl": "http://radio2.radioenergy.lv:9000/"
     }
   ]
 }
