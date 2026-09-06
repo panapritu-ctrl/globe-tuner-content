@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-05T02:57:03Z",
+  "updated": "2026-09-06T02:56:39Z",
   "region": "other",
   "stations": [
     {
@@ -1398,18 +1398,6 @@
       "streamUrl": "http://kxparadio.serverroom.us:5852/stream.mp3"
     },
     {
-      "id": "i_hate_free_speech_radio_us_3ea10123",
-      "title": "I Hate Free Speech Radio",
-      "subtitle": "Bizzare",
-      "location": "The United States Of America",
-      "genre": "Bizzare",
-      "countryCode": "US",
-      "language": null,
-      "clickCount": 9,
-      "bitrate": 128,
-      "streamUrl": "https://s22.myradiostream.com/15152/listen.mp3"
-    },
-    {
       "id": "femmetal_classics_radio_us_bebabac9",
       "title": "Femmetal Classics Radio",
       "subtitle": "Hard Rock",
@@ -2478,18 +2466,6 @@
       "streamUrl": "https://ice6.somafm.com/spacestation-128-aac"
     },
     {
-      "id": "bbc_arabic_radio_gb_fdfbc1fe",
-      "title": "BBC Arabic Radio",
-      "subtitle": "Arabic",
-      "location": "The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "Arabic",
-      "countryCode": "GB",
-      "language": "arabic",
-      "clickCount": 19,
-      "bitrate": 101,
-      "streamUrl": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_arabic_radio.m3u8"
-    },
-    {
       "id": "wsmr_classical_89_1_fm_us_c4d10b96",
       "title": "WSMR Classical 89.1 FM",
       "subtitle": "24/7",
@@ -2656,18 +2632,6 @@
       "clickCount": 4,
       "bitrate": 160,
       "streamUrl": "https://stream1.hippynet.co.uk/stream/xtrahot/live"
-    },
-    {
-      "id": "listnr_cooling_fan_white_noise_soundscapes_au_161fe3af",
-      "title": "LiSTNR - Cooling Fan (White Noise) [Soundscapes]",
-      "subtitle": "Cooling Fan",
-      "location": "Australia",
-      "genre": "Cooling Fan",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 3,
-      "bitrate": 0,
-      "streamUrl": "http://wz0liw.scahw.com.au/live/fan_128.stream/playlist.m3u8"
     },
     {
       "id": "onda_regional_m_sica_es_11d9cb53",
@@ -4206,18 +4170,6 @@
       "streamUrl": "http://wz0liw.scahw.com.au/live/rainforest_128.stream/playlist.m3u8"
     },
     {
-      "id": "listnr_caf_hls_au_13ab595c",
-      "title": "LiSTNR - Café (HLS)",
-      "subtitle": "Music",
-      "location": "Australia",
-      "genre": "Music",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 2,
-      "bitrate": 64,
-      "streamUrl": "http://wz0liw.scahw.com.au/live/cafe.stream/playlist.m3u8"
-    },
-    {
       "id": "roq_fm_au_de1f4176",
       "title": "ROQ FM",
       "subtitle": "Radio",
@@ -4912,18 +4864,6 @@
       "clickCount": 3,
       "bitrate": 0,
       "streamUrl": "http://wz0liw.scahw.com.au/live/focus.stream/playlist.m3u8"
-    },
-    {
-      "id": "bside_es_07013c3f",
-      "title": "BSide",
-      "subtitle": "Alternative",
-      "location": "Spain",
-      "genre": "Alternative",
-      "countryCode": "ES",
-      "language": "english",
-      "clickCount": 3,
-      "bitrate": 128,
-      "streamUrl": "https://flow.emisiononline.es/radio/8010/bside.aac"
     },
     {
       "id": "astra_fm_es_2d904200",
@@ -6150,18 +6090,6 @@
       "streamUrl": "https://webradiobe.be/listen/2dance/2dance128.mp3"
     },
     {
-      "id": "france24_arabic_fr_a2a63f6f",
-      "title": "France24 arabic",
-      "subtitle": "News",
-      "location": "France",
-      "genre": "News",
-      "countryCode": "FR",
-      "language": null,
-      "clickCount": 5,
-      "bitrate": 1095,
-      "streamUrl": "http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8"
-    },
-    {
       "id": "soul_central_radio_gb_3ec32245",
       "title": "Soul Central Radio",
       "subtitle": "Radio",
@@ -6292,6 +6220,150 @@
       "clickCount": 2,
       "bitrate": 0,
       "streamUrl": "http://wz0liw.scahw.com.au/live/lo-fi.stream/playlist.m3u8"
+    },
+    {
+      "id": "bbc_arabic_radio_gb_fdfbc1fe",
+      "title": "BBC Arabic Radio",
+      "subtitle": "Arabic",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Arabic",
+      "countryCode": "GB",
+      "language": "arabic",
+      "clickCount": 16,
+      "bitrate": 101,
+      "streamUrl": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_arabic_radio.m3u8"
+    },
+    {
+      "id": "megarock_radio_320k_us_5f662373",
+      "title": "Megarock Radio 320k",
+      "subtitle": "Classic Rock",
+      "location": "The United States Of America",
+      "genre": "Classic Rock",
+      "countryCode": "US",
+      "language": "english",
+      "clickCount": 16,
+      "bitrate": 320,
+      "streamUrl": "https://stream3.megarockradio.net:80/"
+    },
+    {
+      "id": "radio_alsace_fr_fd88b47f",
+      "title": "Radio Alsace",
+      "subtitle": "Alsace",
+      "location": "France",
+      "genre": "Alsace",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 8,
+      "bitrate": 128,
+      "streamUrl": "https://radio.kasumay.fr/radioalsace.mp3"
+    },
+    {
+      "id": "geminidx_gb_1e9c45ee",
+      "title": "GeminiDX",
+      "subtitle": "Acid",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Acid",
+      "countryCode": "GB",
+      "language": "english",
+      "clickCount": 7,
+      "bitrate": 192,
+      "streamUrl": "https://s4.radio.co/s5907ff6bd/listen"
+    },
+    {
+      "id": "xorroxin_irratia_es_9b2d2c28",
+      "title": "Xorroxin Irratia",
+      "subtitle": "Culture",
+      "location": "Spain",
+      "genre": "Culture",
+      "countryCode": "ES",
+      "language": "basque",
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "https://control.streaming-pro.com:6002/xorroxinirratia.mp3"
+    },
+    {
+      "id": "durango_irratia_es_c0ebbdf2",
+      "title": "Durango Irratia",
+      "subtitle": "Music",
+      "location": "Spain",
+      "genre": "Music",
+      "countryCode": "ES",
+      "language": "basque",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://control.streaming-pro.com:6006/durangoirratia.mp3"
+    },
+    {
+      "id": "97_fm_irratia_es_eb24fe01",
+      "title": "97 FM Irratia",
+      "subtitle": "Music",
+      "location": "Spain",
+      "genre": "Music",
+      "countryCode": "ES",
+      "language": "basque",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://airtime.97irratia.info/radio-ssl.ogg"
+    },
+    {
+      "id": "listnr_chill_jazz_hls_au_712feb70",
+      "title": "LiSTNR - Chill Jazz (HLS)",
+      "subtitle": "Chill Jazz",
+      "location": "Australia",
+      "genre": "Chill Jazz",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "http://wz0liw.scahw.com.au/live/chill-jazz.stream/playlist.m3u8"
+    },
+    {
+      "id": "sorgintxu_irratia_es_a7c9eb87",
+      "title": "Sorgintxu Irratia",
+      "subtitle": "Music",
+      "location": "Spain",
+      "genre": "Music",
+      "countryCode": "ES",
+      "language": "basque",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://stream.zeno.fm/42qzmgdu4tzuv"
+    },
+    {
+      "id": "ataria_irratia_es_4ebc74da",
+      "title": "Ataria Irratia",
+      "subtitle": "Culture",
+      "location": "Spain",
+      "genre": "Culture",
+      "countryCode": "ES",
+      "language": "basque",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://server8.emitironline.com:18444/stream"
+    },
+    {
+      "id": "kiss_fm_galicia_es_49e9e0b0",
+      "title": "Kiss FM Galicia",
+      "subtitle": "Lo Mejor De Los 80 Y Los 90 Hasta Hoy",
+      "location": "Spain",
+      "genre": "Lo Mejor De Los 80 Y Los 90 Hasta Hoy",
+      "countryCode": "ES",
+      "language": "spanish",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://server8.emitironline.com:18394/stream"
+    },
+    {
+      "id": "2tripleo_au_6fbf345f",
+      "title": "2TripleO",
+      "subtitle": "Radio",
+      "location": "Australia",
+      "genre": "Radio",
+      "countryCode": "AU",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/2OOOAAC.aac"
     }
   ]
 }

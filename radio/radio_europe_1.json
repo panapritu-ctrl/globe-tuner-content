@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-05T02:57:03Z",
+  "updated": "2026-09-06T02:56:39Z",
   "region": "europe",
   "part": 1,
   "of": 8,
@@ -27323,18 +27323,6 @@
       "streamUrl": "https://hirschmilch.de:7501/techno.mp3"
     },
     {
-      "id": "b5_aktuell_de_49936996",
-      "title": "B5 aktuell",
-      "subtitle": "Ard",
-      "location": "Germany",
-      "genre": "Ard",
-      "countryCode": "DE",
-      "language": "german",
-      "clickCount": 10,
-      "bitrate": 0,
-      "streamUrl": "http://streams.br.de/b5aktuell_2.m3u"
-    },
-    {
       "id": "deecibel_one_radio_cz_5cb32ebc",
       "title": "Deecibel One Radio",
       "subtitle": "00S",
@@ -27369,18 +27357,6 @@
       "clickCount": 3,
       "bitrate": 64,
       "streamUrl": "https://stream.freirad.at/live.mp3"
-    },
-    {
-      "id": "pop_fm_slusaj_glasno_ba_fee41cde",
-      "title": "Pop FM - Slusaj glasno!!!",
-      "subtitle": "Radio",
-      "location": "Bosnia And Herzegovina",
-      "genre": "Radio",
-      "countryCode": "BA",
-      "language": null,
-      "clickCount": 3,
-      "bitrate": 192,
-      "streamUrl": "http://188.40.62.20:8032/;stream.nsv"
     },
     {
       "id": "fusion7_bg_14c09a25",
@@ -28161,6 +28137,66 @@
       "clickCount": 2,
       "bitrate": 0,
       "streamUrl": "https://icecast6.play.cz/radio-xaver.aac"
+    },
+    {
+      "id": "ro_radio_urn_l_sport_adhoc_stream_2_cz_3404e417",
+      "title": "ČRO Radiožurnál sport Adhoc stream 2",
+      "subtitle": "News Talk",
+      "location": "Czechia",
+      "genre": "News Talk",
+      "countryCode": "CZ",
+      "language": "czech",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "http://rozhlas.stream/radiozurnal_sport_adhoc_2_high.mp3"
+    },
+    {
+      "id": "pop_fm_slusaj_glasno_ba_fee41cde",
+      "title": "Pop FM - Slusaj glasno!!!",
+      "subtitle": "Radio",
+      "location": "Bosnia And Herzegovina",
+      "genre": "Radio",
+      "countryCode": "BA",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "http://188.40.62.20:8032/;stream.nsv"
+    },
+    {
+      "id": "gold_impuls_cz_ab78da88",
+      "title": "Gold Impuls",
+      "subtitle": "Radio",
+      "location": "Czechia",
+      "genre": "Radio",
+      "countryCode": "CZ",
+      "language": "czech",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://stream.sepia.sk/gold128.mp3"
+    },
+    {
+      "id": "radio_apljina_ba_6d4fe8f7",
+      "title": "Radio Čapljina",
+      "subtitle": "Various",
+      "location": "Bosnia And Herzegovina",
+      "genre": "Various",
+      "countryCode": "BA",
+      "language": "bosnian",
+      "clickCount": 2,
+      "bitrate": 96,
+      "streamUrl": "http://s8.iqstreaming.com:8016/stream"
+    },
+    {
+      "id": "eilo_trance_radio_bg_1e8c55c9",
+      "title": "EILO Trance Radio",
+      "subtitle": "Trance",
+      "location": "Bulgaria",
+      "genre": "Trance",
+      "countryCode": "BG",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "https://eilo.org/streamer.php?ch=trance"
     }
   ]
 }

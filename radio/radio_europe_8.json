@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-05T02:57:03Z",
+  "updated": "2026-09-06T02:56:39Z",
   "region": "europe",
   "part": 8,
   "of": 8,
@@ -8456,19 +8456,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_107_0_fm_148ced2e",
-      "title": "Детское радио Ярославль 107.0 FM",
-      "subtitle": "Child, Kids",
-      "imageUrl": "",
-      "streamUrl": "http://s0.radioheart.ru:8000/detifm76",
-      "location": "The Russian Federation",
-      "genre": "Child",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_station_d0ff7903",
       "title": "Джокер",
       "subtitle": "Поп-Музыка, Шансон",
@@ -11061,19 +11048,6 @@
       "bitrate": 160
     },
     {
-      "id": "rb2_station_99302d5b",
-      "title": "Планета ФМ",
-      "subtitle": "Информационное, Поп-Музыка",
-      "imageUrl": "https://top-radio.ru/assets/image/radio/180/planeta-fm.jpg",
-      "streamUrl": "https://radio-24.ru/audio2.php?url=http://fm.media56.ru:8000/Planeta",
-      "location": "Оренбург, The Russian Federation",
-      "genre": "Информационное",
-      "countryCode": "RU",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_m_486873ea",
       "title": "Победа ФM",
       "subtitle": "Hits, Russian Hits",
@@ -13621,19 +13595,6 @@
       "subtitle": "News, Talk",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240628_232618286.jpg?alt=media&token=76ddfdd0-afa9-4691-99f1-f60aca377686",
       "streamUrl": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/murmansk/radio_russia/index.m3u8",
-      "location": "The Russian Federation",
-      "genre": "News",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 0,
-      "bitrate": 392
-    },
-    {
-      "id": "rb2_91_1_fm_1f4abe2a",
-      "title": "Радио России ГТРК Псков 91.1 FM",
-      "subtitle": "News, Talk",
-      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240628_232025197.jpg?alt=media&token=6b4892d8-46ce-46dc-8629-458102a546a5",
-      "streamUrl": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/pskov/radio_russia/index.m3u8",
       "location": "The Russian Federation",
       "genre": "News",
       "countryCode": "RU",
@@ -25064,6 +25025,54 @@
       "clickCount": 3,
       "bitrate": 0,
       "streamUrl": "https://m.axradio.net/stream.mp3"
+    },
+    {
+      "id": "rtfm_fm_ru_2910e39c",
+      "title": "RTFM.fm",
+      "subtitle": "Alternative Rock",
+      "location": "The Russian Federation",
+      "genre": "Alternative Rock",
+      "countryCode": "RU",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 256,
+      "streamUrl": "https://stream.rtfm.fm/aac256"
+    },
+    {
+      "id": "r_dio_rsi_sk_fe29163d",
+      "title": "Rádio RSI",
+      "subtitle": "Culture",
+      "location": "Slovakia",
+      "genre": "Culture",
+      "countryCode": "SK",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://icecast.stv.livebox.sk/rsi_128.mp3"
+    },
+    {
+      "id": "anima_amoris_idm_ru_d5d3d725",
+      "title": "Anima Amoris IDM",
+      "subtitle": "Radio",
+      "location": "The Russian Federation",
+      "genre": "Radio",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://amoris.sknt.ru/idm.mp3"
+    },
+    {
+      "id": "koro_ki_radio_si_a2571d2b",
+      "title": "Koroški radio",
+      "subtitle": "Radio",
+      "location": "Slovenia",
+      "genre": "Radio",
+      "countryCode": "SI",
+      "language": "slovenian",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://live.radio.si/Koroski"
     }
   ]
 }

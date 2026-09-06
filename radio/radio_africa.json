@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-05T02:57:03Z",
+  "updated": "2026-09-06T02:56:39Z",
   "region": "africa",
   "stations": [
     {
@@ -5903,15 +5903,6 @@
       "bitrate": 128
     },
     {
-      "id": "emc_radio_kampala_mp3_ug",
-      "title": "EMC Radio - Kampala (MP3)",
-      "subtitle": "Christian / Gospel",
-      "location": "Kampala, Uganda",
-      "genre": "Talk",
-      "countryCode": "UG",
-      "streamUrl": "http://c22.radioboss.fm:18040/stream"
-    },
-    {
       "id": "rb2_east_africa_radio_35e5d0d2",
       "title": "East Africa Radio",
       "subtitle": "Rock",
@@ -10337,18 +10328,6 @@
       "streamUrl": "https://radiosvein2.ice.infomaniak.ch/radiosvein2-64.mp3"
     },
     {
-      "id": "interspace_sound_system_ng_233ca018",
-      "title": "InterSpace Sound System",
-      "subtitle": "African",
-      "location": "Nigeria",
-      "genre": "African",
-      "countryCode": "NG",
-      "language": "english",
-      "clickCount": 5,
-      "bitrate": 0,
-      "streamUrl": "https://radio.interspacemusic.com/stream.mp3"
-    },
-    {
       "id": "metro_97_7_fm_ng_90e0ee3e",
       "title": "Metro 97.7 FM",
       "subtitle": "Radio",
@@ -10359,6 +10338,30 @@
       "clickCount": 3,
       "bitrate": 64,
       "streamUrl": "https://go.webgateready.com/metrofm"
+    },
+    {
+      "id": "zone_radio_za_c45358b2",
+      "title": "Zone Radio",
+      "subtitle": "Blues",
+      "location": "South Africa",
+      "genre": "Blues",
+      "countryCode": "ZA",
+      "language": "english",
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "https://edge.iono.fm/xhls/279_medium.m3u8?ref=https%3A%2F%2Fradio-browser.info&adToken=&pofToken="
+    },
+    {
+      "id": "interspace_sound_system_ng_233ca018",
+      "title": "InterSpace Sound System",
+      "subtitle": "African",
+      "location": "Nigeria",
+      "genre": "African",
+      "countryCode": "NG",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://radio.interspacemusic.com/stream.mp3"
     }
   ]
 }

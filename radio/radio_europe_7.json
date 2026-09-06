@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-05T02:57:03Z",
+  "updated": "2026-09-06T02:56:39Z",
   "region": "europe",
   "part": 7,
   "of": 8,
@@ -543,19 +543,6 @@
       "language": "polish",
       "clickCount": 0,
       "bitrate": 48
-    },
-    {
-      "id": "rb2_radio_eska_g_20_fd914a83",
-      "title": "Radio ESKA G 20",
-      "subtitle": "Dance, Pop",
-      "imageUrl": "",
-      "streamUrl": "https://radio.stream.smcdn.pl/timeradio-p/6130-1.aac/playlist.m3u8",
-      "location": "Krakow, Poland",
-      "genre": "Dance",
-      "countryCode": "PL",
-      "language": "polish",
-      "clickCount": 0,
-      "bitrate": 128
     },
     {
       "id": "radio_eska_warszawa_pl_c52a19",
@@ -23721,18 +23708,6 @@
       "streamUrl": "https://asculta.muzicaok.de:8040/stream"
     },
     {
-      "id": "radio_mackica_narodna_muzika_rs_53b5a0da",
-      "title": "Radio Mackica - Narodna Muzika",
-      "subtitle": "Radio",
-      "location": "Serbia",
-      "genre": "Radio",
-      "countryCode": "RS",
-      "language": "serbian",
-      "clickCount": 3,
-      "bitrate": 128,
-      "streamUrl": "http://cast2.name.ba:8153/;stream.nsv"
-    },
-    {
       "id": "station_ru_6b4a84f4",
       "title": "Серебряный дождь",
       "subtitle": "News Talk Music",
@@ -23743,18 +23718,6 @@
       "clickCount": 9,
       "bitrate": 128,
       "streamUrl": "http://213.59.4.27:8000/silver128.mp3"
-    },
-    {
-      "id": "naxi_millennium_radio_rs_33751b99",
-      "title": "Naxi Millennium Radio",
-      "subtitle": "Top Hits",
-      "location": "Serbia",
-      "genre": "Top Hits",
-      "countryCode": "RS",
-      "language": "english",
-      "clickCount": 7,
-      "bitrate": 128,
-      "streamUrl": "https://naxidigital-millennium128ssl.streaming.rs:8342/;stream.nsv"
     },
     {
       "id": "old_radio_32_ru_0a96ed7f",
@@ -23851,18 +23814,6 @@
       "clickCount": 3,
       "bitrate": 128,
       "streamUrl": "http://radiochrystusakrola.pl:8080/;stream.mp3"
-    },
-    {
-      "id": "radio_pl_8be10ced",
-      "title": "radio",
-      "subtitle": "Musical",
-      "location": "Poland",
-      "genre": "Musical",
-      "countryCode": "PL",
-      "language": "polish",
-      "clickCount": 3,
-      "bitrate": 128,
-      "streamUrl": "https://c16.radioboss.fm:18014/stream"
     },
     {
       "id": "ebs_radio_movie_soundtracks_cluj_napoca_ro_c9cc9a4f",
@@ -24945,18 +24896,6 @@
       "streamUrl": "https://naxidigital-latino128ssl.streaming.rs:8232/;stream.nsv"
     },
     {
-      "id": "naxi_jazz_radio_rs_5452c2c5",
-      "title": "Naxi Jazz Radio",
-      "subtitle": "Radio",
-      "location": "Serbia",
-      "genre": "Radio",
-      "countryCode": "RS",
-      "language": "serbian",
-      "clickCount": 3,
-      "bitrate": 128,
-      "streamUrl": "https://naxidigital-jazz128ssl.streaming.rs:8172/;stream.nsv"
-    },
-    {
       "id": "naxi_adore_rs_d24050be",
       "title": "Naxi Adore",
       "subtitle": "International",
@@ -25207,6 +25146,126 @@
       "clickCount": 3,
       "bitrate": 128,
       "streamUrl": "http://stream.iradio.pro:8114/;stream.nsv"
+    },
+    {
+      "id": "europa_fm_romania_ro_33d23e57",
+      "title": "Europa FM Romania",
+      "subtitle": "Radio",
+      "location": "Romania",
+      "genre": "Radio",
+      "countryCode": "RO",
+      "language": "romanian",
+      "clickCount": 10,
+      "bitrate": 64,
+      "streamUrl": "https://astreaming.edi.ro:8443/EuropaFM_aac"
+    },
+    {
+      "id": "radio_macabrismix_pl_d97adbeb",
+      "title": "Radio Macabrismix",
+      "subtitle": "Dancehall",
+      "location": "Poland",
+      "genre": "Dancehall",
+      "countryCode": "PL",
+      "language": "polish",
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "https://panel.macabrismix.com.pl/listen/macabris_mix_radio_station_1-2c6_ghz/autodj.mp3"
+    },
+    {
+      "id": "radio_bra_ov_ro_68acb1a5",
+      "title": "Radio Brașov",
+      "subtitle": "Radio",
+      "location": "Romania",
+      "genre": "Radio",
+      "countryCode": "RO",
+      "language": "romanian",
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "https://live.radiobrasov.ro/stream.mp3?nocache=${Math.random()}"
+    },
+    {
+      "id": "pumpaj_radio_rs_3ccfabc6",
+      "title": "Пумпај Радио (Pumpaj Radio)",
+      "subtitle": "Radio",
+      "location": "Serbia",
+      "genre": "Radio",
+      "countryCode": "RS",
+      "language": "croatian",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://stream.pumpaj.info/listen/pumpaj_radio/radio.mp3"
+    },
+    {
+      "id": "super_fm_beograd_rs_7438d96e",
+      "title": "Super FM Beograd",
+      "subtitle": "Radio",
+      "location": "Serbia",
+      "genre": "Radio",
+      "countryCode": "RS",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://onair.superfm.rs/superfm.mp3"
+    },
+    {
+      "id": "shamanu_ro_15f46cb1",
+      "title": "SHAMANU",
+      "subtitle": "Deep Techno",
+      "location": "Romania",
+      "genre": "Deep Techno",
+      "countryCode": "RO",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://shamanu.live/stream"
+    },
+    {
+      "id": "zc_radio_ziua_de_cluj_cluj_napoca_ro_3abfec8c",
+      "title": "ZC Radio (Ziua de Cluj) -Cluj Napoca",
+      "subtitle": "Local Radio",
+      "location": "Romania",
+      "genre": "Local Radio",
+      "countryCode": "RO",
+      "language": "română",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://sonicssl.namehost.ro:8020/stream"
+    },
+    {
+      "id": "sona_fm_ro_a25c25bd",
+      "title": "Sona FM",
+      "subtitle": "Chill",
+      "location": "Romania",
+      "genre": "Chill",
+      "countryCode": "RO",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://ssl.omegahost.ro/8026/stream"
+    },
+    {
+      "id": "radio_s4_rs_770a47a5",
+      "title": "Radio S4",
+      "subtitle": "Dance",
+      "location": "Serbia",
+      "genre": "Dance",
+      "countryCode": "RS",
+      "language": "serbian",
+      "clickCount": 3,
+      "bitrate": 64,
+      "streamUrl": "https://stream.radios.rs:9006/;"
+    },
+    {
+      "id": "radio_stara_ar_ija_rs_fbdfd2a3",
+      "title": "Radio Stara Čaršija",
+      "subtitle": "Narodna",
+      "location": "Serbia",
+      "genre": "Narodna",
+      "countryCode": "RS",
+      "language": "serbian",
+      "clickCount": 3,
+      "bitrate": 112,
+      "streamUrl": "http://radio.dukahosting.com:8026/;"
     }
   ]
 }

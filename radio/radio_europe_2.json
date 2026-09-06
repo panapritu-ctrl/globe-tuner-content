@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-05T02:57:03Z",
+  "updated": "2026-09-06T02:56:39Z",
   "region": "europe",
   "part": 2,
   "of": 8,
@@ -1643,19 +1643,6 @@
       "language": "german",
       "clickCount": 1,
       "bitrate": 320
-    },
-    {
-      "id": "rb2_freies_radio_wiesental_68b1b5f1",
-      "title": "Freies Radio Wiesental",
-      "subtitle": "For And From Fugitives, Initiatives",
-      "imageUrl": "https://www.freies-radio-wiesental.de/apple-touch-icon.png",
-      "streamUrl": "http://88.99.63.244:8000/;stream.mp3",
-      "location": "Baden-Württemberg, Germany",
-      "genre": "For And From Fugitives",
-      "countryCode": "DE",
-      "language": "german",
-      "clickCount": 0,
-      "bitrate": 256
     },
     {
       "id": "rb2_freies_radio_w_ste_welle_96055ae0",
@@ -28106,18 +28093,6 @@
       "streamUrl": "http://cdn.treraadio.ee/tartustuudio"
     },
     {
-      "id": "dr_p4_sj_lland_aac_dk_760081a0",
-      "title": "DR P4 Sjælland (AAC)",
-      "subtitle": "Regional Radio",
-      "location": "Denmark",
-      "genre": "Regional Radio",
-      "countryCode": "DK",
-      "language": "danish",
-      "clickCount": 2,
-      "bitrate": 324,
-      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4sjaelland/masterab.m3u8"
-    },
-    {
       "id": "dr_p5_fyn_dk_e91d23a3",
       "title": "DR P5 Fyn",
       "subtitle": "Radio",
@@ -28332,6 +28307,42 @@
       "clickCount": 3,
       "bitrate": 0,
       "streamUrl": "https://radio1.jfmtech.dk/sydhavlolland"
+    },
+    {
+      "id": "sunshine_live_2000s_de_f30a290c",
+      "title": "SUNSHINE LIVE - 2000s",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 13,
+      "bitrate": 0,
+      "streamUrl": "https://stream.sunshine-live.de/2000er/mp3-192/"
+    },
+    {
+      "id": "0_n_oldies_on_radio_de_a0209811",
+      "title": "- 0 N - Oldies on Radio",
+      "subtitle": "60Er",
+      "location": "Germany",
+      "genre": "60Er",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 12,
+      "bitrate": 128,
+      "streamUrl": "https://0n-oldies.radionetz.de/0n-oldies.mp3"
+    },
+    {
+      "id": "dr_p4_fyn_aac_dk_50d1da47",
+      "title": "DR P4 Fyn (AAC)",
+      "subtitle": "Regional Radio",
+      "location": "Denmark",
+      "genre": "Regional Radio",
+      "countryCode": "DK",
+      "language": "danish",
+      "clickCount": 2,
+      "bitrate": 324,
+      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4fyn/masterab.m3u8"
     }
   ]
 }

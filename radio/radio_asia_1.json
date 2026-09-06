@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-05T02:57:03Z",
+  "updated": "2026-09-06T02:56:39Z",
   "region": "asia",
   "part": 1,
   "of": 3,
@@ -7051,19 +7051,6 @@
       "language": "arabic",
       "clickCount": 2,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_mango_global_5a80c679",
-      "title": "Radio Mango Global",
-      "subtitle": "Radio",
-      "imageUrl": "https://www.radiomango.fm/etc/designs/radiomango/clientlib-all/img/favicon.ico",
-      "streamUrl": "https://listen.openstream.co/4635/audio",
-      "location": "The United Arab Emirates",
-      "genre": "Radio",
-      "countryCode": "AE",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 64
     },
     {
       "id": "rb_radio_relax_0da4c682",
@@ -24245,19 +24232,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_station_6f8cb4d9",
-      "title": "福州音乐广播",
-      "subtitle": "Music",
-      "imageUrl": "",
-      "streamUrl": "http://live.zohi.tv/audio/s10001-FM893/index.m3u8",
-      "location": "Fukien, China",
-      "genre": "Music",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_station_f3443411",
       "title": "福建东南卫视伴音",
       "subtitle": "Tv",
@@ -25168,19 +25142,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_station_897b612a",
-      "title": "蚌埠交通文艺广播",
-      "subtitle": "Entertainment",
-      "imageUrl": "https://wx1.sinaimg.cn/mw2000/dcf6803fly8h8vghk5czrj20go0go3yu.jpg",
-      "streamUrl": "http://live.ximalaya.com/radio-first-page-app/live/151/64.m3u8",
-      "location": "China",
-      "genre": "Entertainment",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_fm98_4_1c9d96a8",
       "title": "蚌埠交通文艺广播 FM98.4",
       "subtitle": "Entertainment",
@@ -26013,18 +25974,6 @@
       "clickCount": 3,
       "bitrate": 128,
       "streamUrl": "https://drive.uber.radio/uber/boomerang1980s/icecast.audio"
-    },
-    {
-      "id": "radio_tarana_af_8fe8c992",
-      "title": "Radio Tarana",
-      "subtitle": "Classical",
-      "location": "Afghanistan",
-      "genre": "Classical",
-      "countryCode": "AF",
-      "language": null,
-      "clickCount": 3,
-      "bitrate": 56,
-      "streamUrl": "http://peridot.streamguys.com:7150/Tarana.aac"
     },
     {
       "id": "rtvs_af_0bf7f1b3",
@@ -26937,6 +26886,78 @@
       "clickCount": 3,
       "bitrate": 0,
       "streamUrl": "https://lhttp-hw.qtfm.cn/live/4917/64k.mp3"
+    },
+    {
+      "id": "station_cn_940926ad",
+      "title": "复兴电台（测试）",
+      "subtitle": "Radio",
+      "location": "China",
+      "genre": "Radio",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 10,
+      "bitrate": 0,
+      "streamUrl": "http://202.39.43.67:1935/live/RA000024/chunklist.m3u8"
+    },
+    {
+      "id": "fm94_6_946_cn_28a2ffc5",
+      "title": "佛山电台FM94.6真爱946",
+      "subtitle": "Radio",
+      "location": "China",
+      "genre": "Radio",
+      "countryCode": "CN",
+      "language": "cantonese",
+      "clickCount": 10,
+      "bitrate": 0,
+      "streamUrl": "https://radiopull.radiofoshan.com.cn/live/1400389414_BSID_42_audio.m3u8"
+    },
+    {
+      "id": "c_r_john_williams_ae_f3f7eff6",
+      "title": "C.R. - John Williams",
+      "subtitle": "Classical",
+      "location": "The United Arab Emirates",
+      "genre": "Classical",
+      "countryCode": "AE",
+      "language": "engilsh",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "http://drive.uber.radio/uber/crjohnwilliams/icecast.audio"
+    },
+    {
+      "id": "fm95_1_cn_127b3d50",
+      "title": "怀远人民广播电台 FM95.1",
+      "subtitle": "Music",
+      "location": "China",
+      "genre": "Music",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://lhttp-hw.qtfm.cn/live/5021993/64k.mp3"
+    },
+    {
+      "id": "station_cn_ad3999a0",
+      "title": "安庆综合广播",
+      "subtitle": "News",
+      "location": "China",
+      "genre": "News",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://lhttp.qingting.fm/live/1965/64k.mp3"
+    },
+    {
+      "id": "station_cn_4b1f3d05",
+      "title": "安阳综合新闻广播",
+      "subtitle": "News",
+      "location": "China",
+      "genre": "News",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://lhttp-hw.qtfm.cn/live/15318224/64k.mp3"
     }
   ]
 }

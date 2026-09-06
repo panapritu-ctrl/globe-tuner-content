@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-05T02:57:03Z",
+  "updated": "2026-09-06T02:56:39Z",
   "region": "europe",
   "part": 5,
   "of": 8,
@@ -21814,19 +21814,6 @@
       "bitrate": 320
     },
     {
-      "id": "rb2_nrs_b9a47140",
-      "title": "NRS",
-      "subtitle": "Italian",
-      "imageUrl": "",
-      "streamUrl": "https://nrf1.newradio.it:9790/stream",
-      "location": "Italy",
-      "genre": "Italian",
-      "countryCode": "IT",
-      "language": "italian",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_nane_64537e16",
       "title": "Nane'",
       "subtitle": "Music",
@@ -23576,15 +23563,6 @@
       "genre": "News",
       "countryCode": "IT",
       "streamUrl": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_audio.m3u8"
-    },
-    {
-      "id": "rtl_102_5_best_it_b0440b",
-      "title": "RTL 102.5 Best",
-      "subtitle": "Best Music",
-      "location": "Italy",
-      "genre": "Best Music",
-      "streamUrl": "https://streamingv2.shoutcast.com/rtl-1025-best",
-      "countryCode": "IT"
     },
     {
       "id": "rb2_rtl_102_5_best_mobile_48kbps_aeeebc82",
@@ -27354,18 +27332,6 @@
       "streamUrl": "http://matrix-server.hr:8010/live.mp3"
     },
     {
-      "id": "ozone_fm_hu_693c5f18",
-      "title": "OZONE FM",
-      "subtitle": "Top Hits",
-      "location": "Hungary",
-      "genre": "Top Hits",
-      "countryCode": "HU",
-      "language": null,
-      "clickCount": 3,
-      "bitrate": 128,
-      "streamUrl": "https://oxygenmusic.hu:8000/ozonefm_128"
-    },
-    {
       "id": "prolaznik_evergreen_lepoglava_hr_4c748fe3",
       "title": "Prolaznik Evergreen Lepoglava",
       "subtitle": "Classic Hits 60S 70A 80S",
@@ -27618,18 +27584,6 @@
       "streamUrl": "https://stream10.xdevel.com/audio3s975559-2094/stream/icecast.audio"
     },
     {
-      "id": "fm_classic_it_21c492c9",
-      "title": "FM Classic",
-      "subtitle": "70S",
-      "location": "Italy",
-      "genre": "70S",
-      "countryCode": "IT",
-      "language": "italian",
-      "clickCount": 4,
-      "bitrate": 0,
-      "streamUrl": "http://onair7.xdevel.com:8724/;stream.nsv"
-    },
-    {
       "id": "upanijski_radio_ibenik_hr_e159caea",
       "title": "Županijski Radio Šibenik",
       "subtitle": "Various",
@@ -27714,18 +27668,6 @@
       "streamUrl": "http://gr.fluidstream.eu/gr2.mp3"
     },
     {
-      "id": "radio_sicilia_avola_it_ab120836",
-      "title": "Radio Sicilia Avola",
-      "subtitle": "Folk",
-      "location": "Italy",
-      "genre": "Folk",
-      "countryCode": "IT",
-      "language": "italian",
-      "clickCount": 4,
-      "bitrate": 128,
-      "streamUrl": "http://cast4.asurahosting.com:7837/stream"
-    },
-    {
       "id": "radio_lattemiele_taranto_it_7b485377",
       "title": "Radio LatteMiele Taranto",
       "subtitle": "Italian",
@@ -27760,6 +27702,66 @@
       "clickCount": 5,
       "bitrate": 0,
       "streamUrl": "https://icy.unitedradio.it/105Zoo.aac"
+    },
+    {
+      "id": "radio_effe_italia_it_c8540f23",
+      "title": "Radio Effe Italia",
+      "subtitle": "Catania",
+      "location": "Italy",
+      "genre": "Catania",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 8,
+      "bitrate": 192,
+      "streamUrl": "https://nr11.newradio.it/proxy/sbfsuper?mp=/stream"
+    },
+    {
+      "id": "radio_lineattiva_it_29c580f7",
+      "title": "Radio LineAttiva",
+      "subtitle": "Adult Contemporary",
+      "location": "Italy",
+      "genre": "Adult Contemporary",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 7,
+      "bitrate": 192,
+      "streamUrl": "https://ice17.fluidstream.net/conselve.mp3?FLID=M"
+    },
+    {
+      "id": "radio_vittoria_express_it_b371c1fa",
+      "title": "Radio Vittoria Express",
+      "subtitle": "Culture",
+      "location": "Italy",
+      "genre": "Culture",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 7,
+      "bitrate": 128,
+      "streamUrl": "https://sp3.server89.com:7013/;"
+    },
+    {
+      "id": "xt_alternative_ie_ad36569d",
+      "title": "XT Alternative",
+      "subtitle": "Alternative",
+      "location": "Ireland",
+      "genre": "Alternative",
+      "countryCode": "IE",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 64,
+      "streamUrl": "https://xt.stream.ie:8443/xt"
+    },
+    {
+      "id": "club_music_radio_love_song_hr_141fba50",
+      "title": "Club Music Radio - LOVE SONG",
+      "subtitle": "Radio",
+      "location": "Croatia",
+      "genre": "Radio",
+      "countryCode": "HR",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 320,
+      "streamUrl": "https://cmr-hosting.com:7004/;stream/1"
     }
   ]
 }

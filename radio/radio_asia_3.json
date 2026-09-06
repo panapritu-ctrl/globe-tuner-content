@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-05T02:57:03Z",
+  "updated": "2026-09-06T02:56:39Z",
   "region": "asia",
   "part": 3,
   "of": 3,
@@ -5834,19 +5834,6 @@
       "genre": "Radio",
       "countryCode": "TH",
       "streamUrl": "https://coolism-web.cdn.byteark.com/;stream/1"
-    },
-    {
-      "id": "rb2_dpcloudev_e11d17da",
-      "title": "DPCloudev",
-      "subtitle": "Test",
-      "imageUrl": "",
-      "streamUrl": "http://azuracast.saber.proxy.damp11113.xyz/listen/systest/radio.mp3",
-      "location": "Thailand",
-      "genre": "Test",
-      "countryCode": "TH",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 192
     },
     {
       "id": "rb2_fm_91_06ed0e2b",
@@ -13863,18 +13850,6 @@
       "streamUrl": "http://18.141.67.248:8032/stream/1/"
     },
     {
-      "id": "vov1_vn_83f53484",
-      "title": "VOV1",
-      "subtitle": "Government",
-      "location": "Vietnam",
-      "genre": "Government",
-      "countryCode": "VN",
-      "language": "vietnamese",
-      "clickCount": 11,
-      "bitrate": 256,
-      "streamUrl": "https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/playlist.m3u8"
-    },
-    {
       "id": "dzrh_news_fm_gensan_ph_f8459c36",
       "title": "DZRH News FM GenSan",
       "subtitle": "Radio",
@@ -14689,18 +14664,6 @@
       "clickCount": 3,
       "bitrate": 192,
       "streamUrl": "http://phate.io/listen"
-    },
-    {
-      "id": "heart_fm_92_7mhz_cdo_city_ph_403fa093",
-      "title": "Heart FM 92.7Mhz CDO City",
-      "subtitle": "Radio",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 64,
-      "streamUrl": "https://us1.amfmph.com/ssl/heartfmcdo?mp=/stream&1679730513324"
     },
     {
       "id": "thai_tv_5_hd_th_58af2d62",
@@ -15543,18 +15506,6 @@
       "streamUrl": "https://us1.amfmph.com/ssl/xfmbacolod?mp=/live"
     },
     {
-      "id": "radyo_bandera_sweet_fm_bacolod_ph_444c1e2e",
-      "title": "Radyo Bandera Sweet FM Bacolod",
-      "subtitle": "Radio",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 48,
-      "streamUrl": "https://us1.amfmph.com/ssl/sweetfmbacolod?mp=%2Fstream"
-    },
-    {
       "id": "radyo_sincero_valencia_ph_60c60e2a",
       "title": "Radyo Sincero Valencia",
       "subtitle": "Radio",
@@ -15927,18 +15878,6 @@
       "streamUrl": "http://58.97.187.52:5007/rp3"
     },
     {
-      "id": "therockradio_tr_748781e6",
-      "title": "TheRockRadio",
-      "subtitle": "Radio",
-      "location": "Türkiye",
-      "genre": "Radio",
-      "countryCode": "TR",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 250,
-      "streamUrl": "https://ssl4.radyotvonline.com/radyohome/therockradio.stream/playlist.m3u8"
-    },
-    {
       "id": "89_5_subic_bay_radio_ph_7b0f815c",
       "title": "89.5 Subic Bay Radio",
       "subtitle": "Radio",
@@ -16105,6 +16044,126 @@
       "clickCount": 2,
       "bitrate": 64,
       "streamUrl": "http://209.126.124.126:8835/stream"
+    },
+    {
+      "id": "vov1_vn_83f53484",
+      "title": "VOV1",
+      "subtitle": "Government",
+      "location": "Vietnam",
+      "genre": "Government",
+      "countryCode": "VN",
+      "language": "vietnamese",
+      "clickCount": 47,
+      "bitrate": 256,
+      "streamUrl": "https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/playlist.m3u8"
+    },
+    {
+      "id": "am_891_khz_th_4d77f2f1",
+      "title": "สถานีวิทยุกระจายเสียงแห่งประเทศไทย (AM 891 KHz)",
+      "subtitle": "Radio",
+      "location": "Thailand",
+      "genre": "Radio",
+      "countryCode": "TH",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://cdn-edge.iiptvcdn.com/radio_edge/51dd-90a9-c6ae-c7f7-49d4/playlist.m3u8"
+    },
+    {
+      "id": "amfmph_streams_demo_48k_aac_ph_324a08e0",
+      "title": "AMFMPH Streams Demo (48K AAC)",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 48,
+      "streamUrl": "https://us1.amfmph.com/proxy/iceshout?mp=/ac48&1689431249640"
+    },
+    {
+      "id": "y101_cebu_ph_6cf6a35a",
+      "title": "Y101 Cebu",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 64,
+      "streamUrl": "http://us1.amfmph.com:8849/live"
+    },
+    {
+      "id": "bombo_radyo_butuan_ph_39fe2995",
+      "title": "Bombo Radyo Butuan",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "http://stream.zenolive.com/4xptk2enz9duv"
+    },
+    {
+      "id": "radyo_2000_i_stanbul_tr_d325ce99",
+      "title": "Radyo 2000 İstanbul",
+      "subtitle": "Hits",
+      "location": "Türkiye",
+      "genre": "Hits",
+      "countryCode": "TR",
+      "language": "turkish",
+      "clickCount": 4,
+      "bitrate": 32,
+      "streamUrl": "https://edge.taksimbilisim.com/radyo2000/bant1/icecast.audio"
+    },
+    {
+      "id": "a_line_radio_tw_496f3c2e",
+      "title": "A-Line Radio",
+      "subtitle": "Internet Radio",
+      "location": "Taiwan, Republic Of China",
+      "genre": "Internet Radio",
+      "countryCode": "TW",
+      "language": "chinese",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "http://202.39.43.67:1935/live/RA000001/chunklist.m3u8"
+    },
+    {
+      "id": "heart_fm_92_7mhz_cdo_city_ph_403fa093",
+      "title": "Heart FM 92.7Mhz CDO City",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 64,
+      "streamUrl": "https://us1.amfmph.com/ssl/heartfmcdo?mp=/stream&1679730513324"
+    },
+    {
+      "id": "amfmph_streams_demo_32k_mp3_ph_9d0c773b",
+      "title": "AMFMPH Streams Demo (32K MP3)",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 32,
+      "streamUrl": "https://us1.amfmph.com/proxy/iceshout?mp=/mp32&1689430369832"
+    },
+    {
+      "id": "nbt_north_digital_tv_channel_11_th_276013b8",
+      "title": "NBT North: digital TV channel 11",
+      "subtitle": "Radio",
+      "location": "Thailand",
+      "genre": "Radio",
+      "countryCode": "TH",
+      "language": "thai",
+      "clickCount": 3,
+      "bitrate": 3128,
+      "streamUrl": "https://cdn-edge.iiptvcdn.com/live_event/smil:4f6e-aa34-2034-5492-c82d.smil/playlist.m3u8?null"
     }
   ]
 }
