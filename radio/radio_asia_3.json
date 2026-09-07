@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-06T02:56:39Z",
+  "updated": "2026-09-07T02:53:39Z",
   "region": "asia",
   "part": 3,
   "of": 3,
@@ -1918,19 +1918,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_opm_christmas_763f9b88",
-      "title": "OPM Christmas",
-      "subtitle": "Christmas, Ethnic",
-      "imageUrl": "https://static2.mytuner.mobi/media/tvos_radios/394/opm-christmas.b045b6a9.png",
-      "streamUrl": "https://listen.streamaudio.co/proxy/kaibiganradio/opmxmas",
-      "location": "The Philippines",
-      "genre": "Christmas",
-      "countryCode": "PH",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 64
-    },
-    {
       "id": "rb2_opm_kaibigan_kaibigan_radio_495bda05",
       "title": "OPM Kaibigan (Kaibigan Radio)",
       "subtitle": "Radio",
@@ -3364,19 +3351,6 @@
       "language": null,
       "clickCount": 2,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_sdtv_radio_4744aed8",
-      "title": "SDTV Radio",
-      "subtitle": "Radio",
-      "imageUrl": "https://i.imgur.com/GwcaSJ2.jpeg",
-      "streamUrl": "https://usa2.server2028.com/listen/sdtv_radio/radio.mp3",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 192
     },
     {
       "id": "rb2_starr_radio_tayasan_4987cba9",
@@ -14570,18 +14544,6 @@
       "streamUrl": "http://streamnavs.net:8089/live"
     },
     {
-      "id": "ok_fm_sorsogon_ph_fda97982",
-      "title": "OK-FM Sorsogon",
-      "subtitle": "Radio",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "language": null,
-      "clickCount": 3,
-      "bitrate": 170,
-      "streamUrl": "https://radio.garden/api/ara/content/listen/i5Au89ck/channel.mp3?1768232045244"
-    },
-    {
       "id": "home_radio_iloilo_ph_fe48e896",
       "title": "Home Radio Iloilo",
       "subtitle": "Radio",
@@ -15530,18 +15492,6 @@
       "streamUrl": "https://stream.zeno.fm/kw40qqc29heuv"
     },
     {
-      "id": "spirit_fm_legazpi_ph_a97b468a",
-      "title": "Spirit FM Legazpi",
-      "subtitle": "Radio",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 0,
-      "streamUrl": "https://stream.zeno.fm/dkeieomtv0ruv"
-    },
-    {
       "id": "home_radio_palawan_ph_e6db6413",
       "title": "Home Radio Palawan",
       "subtitle": "Opm",
@@ -15720,18 +15670,6 @@
       "clickCount": 8,
       "bitrate": 96,
       "streamUrl": "http://ns10.jethost.uz:8000/yoshlarovoziaac"
-    },
-    {
-      "id": "94_5_k5_news_fm_kalibo_ph_3c24e9ab",
-      "title": "94.5 K5 NEWS FM KALIBO",
-      "subtitle": "Radio",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 48,
-      "streamUrl": "http://209.126.124.126:8730/stream"
     },
     {
       "id": "love_radio_santiago_ph_65a11753",
@@ -16164,6 +16102,186 @@
       "clickCount": 3,
       "bitrate": 3128,
       "streamUrl": "https://cdn-edge.iiptvcdn.com/live_event/smil:4f6e-aa34-2034-5492-c82d.smil/playlist.m3u8?null"
+    },
+    {
+      "id": "station_tw_52fb9c71",
+      "title": "好事聯播網 蓮花電台",
+      "subtitle": "Music",
+      "location": "Taiwan, Republic Of China",
+      "genre": "Music",
+      "countryCode": "TW",
+      "language": "chinese",
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "http://202.39.43.67:1935/live/RA000011/chunklist.m3u8"
+    },
+    {
+      "id": "cgtn_t_rk_radyo_tr_06bcac84",
+      "title": "CGTN Türk Radyo",
+      "subtitle": "Radio",
+      "location": "Türkiye",
+      "genre": "Radio",
+      "countryCode": "TR",
+      "language": "turkçe",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://criturk.radyotvonline.net/"
+    },
+    {
+      "id": "kiss_102_3_bohol_ph_f9043ba8",
+      "title": "Kiss 102.3 Bohol",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 64,
+      "streamUrl": "http://live.kiss102fmbohol.com:8000/kiss"
+    },
+    {
+      "id": "star_fm_cotabato_ph_d6fae8fe",
+      "title": "Star FM Cotabato",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://stream.zeno.fm/hf1yubc29heuv"
+    },
+    {
+      "id": "aksyon_radyo_iloilo_ph_8aebf6d6",
+      "title": "Aksyon Radyo Iloilo",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 96,
+      "streamUrl": "http://148.251.43.149:8213/stream"
+    },
+    {
+      "id": "xfm_iloilo_ph_5e16c17a",
+      "title": "XFM Iloilo",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 64,
+      "streamUrl": "http://209.126.124.126:8696/stream"
+    },
+    {
+      "id": "fm98_9_tw_fa54ecc7",
+      "title": "人人電台 好事聯播網FM98.9",
+      "subtitle": "Music",
+      "location": "Taiwan, Republic Of China",
+      "genre": "Music",
+      "countryCode": "TW",
+      "language": "chinese",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "http://202.39.43.67:1935/live/RA000013/chunklist.m3u8"
+    },
+    {
+      "id": "yes_fm_zamboanga_ph_9c5f9cb6",
+      "title": "Yes FM Zamboanga",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 96,
+      "streamUrl": "http://proxima.shoutca.st:8313/stream"
+    },
+    {
+      "id": "james_spider_kaka_webfm_internet_radio_ph_cc5b5db0",
+      "title": "James Spider Kaka WebFM Internet Radio",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 80,
+      "streamUrl": "http://136.243.44.41:8033/stream"
+    },
+    {
+      "id": "xfm_cebu_ph_6264258b",
+      "title": "XFM Cebu",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 64,
+      "streamUrl": "http://209.126.124.126:8748/stream"
+    },
+    {
+      "id": "xfm_davao_city_ph_9f370729",
+      "title": "XFM Davao City",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 64,
+      "streamUrl": "http://us1.amfmph.com:8724/live"
+    },
+    {
+      "id": "dear_fm_kabacan_ph_a60a3b9a",
+      "title": "Dear FM Kabacan",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 64,
+      "streamUrl": "https://rx.amfm.link:8000/dearfm"
+    },
+    {
+      "id": "ok_fm_sorsogon_ph_fda97982",
+      "title": "OK-FM Sorsogon",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 170,
+      "streamUrl": "https://radio.garden/api/ara/content/listen/i5Au89ck/channel.mp3?1768232045244"
+    },
+    {
+      "id": "aksyon_radyo_davao_ph_3424c3cb",
+      "title": "Aksyon Radyo Davao",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 96,
+      "streamUrl": "http://5.9.13.39:8140/stream"
+    },
+    {
+      "id": "radyo_bagting_756_ph_6a0da4e8",
+      "title": "RADYO BAGTING 756",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 64,
+      "streamUrl": "http://209.126.124.126:8901/stream"
     }
   ]
 }

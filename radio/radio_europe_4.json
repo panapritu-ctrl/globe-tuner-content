@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-06T02:56:39Z",
+  "updated": "2026-09-07T02:53:39Z",
   "region": "europe",
   "part": 4,
   "of": 8,
@@ -18804,19 +18804,6 @@
       "bitrate": 320
     },
     {
-      "id": "rb2_2000_fm_99_8_c940187f",
-      "title": "2000 FM 99.8",
-      "subtitle": "Music, News",
-      "imageUrl": "http://resources.live24.gr/resources/images/stations/b98681dc-78b9-4081-b36b-b516c2dc91ae.jpg",
-      "streamUrl": "https://i8.streams.ovh/ic/2000fm/stream",
-      "location": "Greece",
-      "genre": "Music",
-      "countryCode": "GR",
-      "language": "greek",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_2000stafm_77f50e29",
       "title": "2000staFM",
       "subtitle": "80S, 90S",
@@ -20430,19 +20417,6 @@
       "genre": "Radio",
       "countryCode": "GR",
       "language": "greek",
-      "clickCount": 0,
-      "bitrate": 192
-    },
-    {
-      "id": "rb2_capital_radio_90_7_3b5c7abf",
-      "title": "Capital Radio 90,7",
-      "subtitle": "Radio",
-      "imageUrl": "https://www.capitalradio.gr/images/capitalradio-logo.png",
-      "streamUrl": "https://hotsoft.net.gr:9100/?1732451962720",
-      "location": "Greece",
-      "genre": "Radio",
-      "countryCode": "GR",
-      "language": null,
       "clickCount": 0,
       "bitrate": 192
     },
@@ -22933,19 +22907,6 @@
       "genre": "Radio",
       "countryCode": "GR",
       "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_garavelas_33b50777",
-      "title": "Garavelas",
-      "subtitle": "Ballads",
-      "imageUrl": "http://resources.live24.gr/resources/images/stations/0eaf6067-b051-4a9c-88f0-a7ca96cdbea7.png",
-      "streamUrl": "https://n0e.radiojar.com/garavelas-radio-gr?rj-ttl=5&rj-tok=AAABeK42LeQA8G2zyOZSZXxhnA",
-      "location": "Greece",
-      "genre": "Ballads",
-      "countryCode": "GR",
-      "language": "greek",
       "clickCount": 0,
       "bitrate": 128
     },
@@ -27398,6 +27359,54 @@
       "clickCount": 3,
       "bitrate": 112,
       "streamUrl": "https://s6.myradiostream.com:45076/;listen.mp3;audio.mp3?hash=1528711740048"
+    },
+    {
+      "id": "station_gr_d14d362f",
+      "title": "Γάμμα Πάτρας",
+      "subtitle": "Music",
+      "location": "Greece",
+      "genre": "Music",
+      "countryCode": "GR",
+      "language": "greek",
+      "clickCount": 6,
+      "bitrate": 64,
+      "streamUrl": "http://radiogamma.live24.gr/radiogamma"
+    },
+    {
+      "id": "fly_88_1_gr_938acc2a",
+      "title": "Fly 88.1",
+      "subtitle": "Pop",
+      "location": "Greece",
+      "genre": "Pop",
+      "countryCode": "GR",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://eco.onestreaming.com/proxy/flykriti/stream"
+    },
+    {
+      "id": "north_gr_5df84927",
+      "title": "North",
+      "subtitle": "Music",
+      "location": "Greece",
+      "genre": "Music",
+      "countryCode": "GR",
+      "language": "greek",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "http://netradio.live24.gr/north98thess"
+    },
+    {
+      "id": "central_103_3_gr_139d9f76",
+      "title": "Central 103.3",
+      "subtitle": "Greek Music",
+      "location": "Greece",
+      "genre": "Greek Music",
+      "countryCode": "GR",
+      "language": "greek",
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "https://i6.streams.ovh/sc/central/stream"
     }
   ]
 }

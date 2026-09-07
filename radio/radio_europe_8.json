@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-06T02:56:39Z",
+  "updated": "2026-09-07T02:53:39Z",
   "region": "europe",
   "part": 8,
   "of": 8,
@@ -13564,19 +13564,6 @@
       "bitrate": 392
     },
     {
-      "id": "rb2_91_6_fm_31758931",
-      "title": "Радио России ГТРК Коми 91.6 FM",
-      "subtitle": "News, Talk",
-      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240628_232927578.jpg?alt=media&token=6bd66833-c22c-4ede-9a8e-b0f089601bf2",
-      "streamUrl": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/siktivkar/radio_russia/index.m3u8",
-      "location": "The Russian Federation",
-      "genre": "News",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 1,
-      "bitrate": 392
-    },
-    {
       "id": "rb2_91_6_fm_ba21d9d3",
       "title": "Радио России ГТРК Коми Гор 91.6 FM",
       "subtitle": "News, Talk",
@@ -20225,19 +20212,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_r_dio_kiks_big_80s_8f423278",
-      "title": "Rádio KIKS - Big 80s",
-      "subtitle": "Radio",
-      "imageUrl": "https://www.radiokiks.sk/favicon.ico",
-      "streamUrl": "https://online.radiokiks.sk:8000/kiks_big80s.mp3",
-      "location": "Slovakia",
-      "genre": "Radio",
-      "countryCode": "SK",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_r_dio_kiks_big_90s_a1382ead",
       "title": "Rádio KIKS - Big 90s",
       "subtitle": "90'S, 90S",
@@ -23057,19 +23031,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_station_4abcb0d3",
-      "title": "Слобожанське ФМ",
-      "subtitle": "Information, Music",
-      "imageUrl": "https://www.sfm.in.ua/wp-content/uploads/cropped-favicon-180x180.png",
-      "streamUrl": "https://globalic.stream:1810/stream",
-      "location": "Ukraine",
-      "genre": "Information",
-      "countryCode": "UA",
-      "language": "ukrainian",
-      "clickCount": 0,
-      "bitrate": 320
-    },
-    {
       "id": "rb2_fm_a4834c23",
       "title": "Стильне радіо \"Перець FM\"",
       "subtitle": "Information, Music",
@@ -24967,18 +24928,6 @@
       "streamUrl": "https://c34.radioboss.fm:8106/stream"
     },
     {
-      "id": "fm_ua_430e822c",
-      "title": "Бліц-FM (Фастів)",
-      "subtitle": "Entertainment",
-      "location": "Ukraine",
-      "genre": "Entertainment",
-      "countryCode": "UA",
-      "language": "ukrainian",
-      "clickCount": 3,
-      "bitrate": 320,
-      "streamUrl": "https://stream.blits-fm.ua/stream64"
-    },
-    {
       "id": "102_7_fm_ru_784773a2",
       "title": "Первое радио Краснодар 102.7 FM",
       "subtitle": "Music",
@@ -25073,6 +25022,66 @@
       "clickCount": 3,
       "bitrate": 0,
       "streamUrl": "https://live.radio.si/Koroski"
+    },
+    {
+      "id": "enigmatic_3_magnetic_chill_out_256_kbps_ru_702a3755",
+      "title": "Enigmatic 3 Magnetic Chill out (256 kbps)",
+      "subtitle": "Chill Out",
+      "location": "The Russian Federation",
+      "genre": "Chill Out",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 6,
+      "bitrate": 192,
+      "streamUrl": "https://radio.enigmatic.su:8005/radio?x=1738166302438"
+    },
+    {
+      "id": "popfm_ru_affefea5",
+      "title": "POPFM Русское",
+      "subtitle": "Radio",
+      "location": "The Russian Federation",
+      "genre": "Radio",
+      "countryCode": "RU",
+      "language": "english",
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://stream.popfm-bir.ru:1085/stream"
+    },
+    {
+      "id": "record_chill_out_ru_5d387c60",
+      "title": "Record Chill-Out",
+      "subtitle": "Classical",
+      "location": "The Russian Federation",
+      "genre": "Classical",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://radiorecord.hostingradio.ru/chil96.aacp"
+    },
+    {
+      "id": "ai_playlist_radio_se_ec7f3706",
+      "title": "AI Playlist Radio",
+      "subtitle": "Curated",
+      "location": "Sweden",
+      "genre": "Curated",
+      "countryCode": "SE",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://radio.aiplaylist.io/radio.mp3"
+    },
+    {
+      "id": "scenesat_radio_mp3_se_3ec9d4a9",
+      "title": "SceneSat Radio (MP3)",
+      "subtitle": "Demoscene",
+      "location": "Sweden",
+      "genre": "Demoscene",
+      "countryCode": "SE",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://streams.scenesat.com/main/hq.mp3"
     }
   ]
 }

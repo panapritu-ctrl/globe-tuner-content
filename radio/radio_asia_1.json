@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-06T02:56:39Z",
+  "updated": "2026-09-07T02:53:39Z",
   "region": "asia",
   "part": 1,
   "of": 3,
@@ -11841,19 +11841,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_shangyu_news_tv_062d7cc6",
-      "title": "Shangyu News TV",
-      "subtitle": "Chekiang, Hls Video",
-      "imageUrl": "",
-      "streamUrl": "http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8",
-      "location": "Chekiang, China",
-      "genre": "Chekiang",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_shansi_agriculture_radio_222127a6",
       "title": "Shansi Agriculture Radio",
       "subtitle": "Radio",
@@ -12285,19 +12272,6 @@
       "imageUrl": "http://www.wfcmw.cn/favicon.ico",
       "streamUrl": "http://ls.qingting.fm/live/4014.m3u8",
       "location": "Shantung, China",
-      "genre": "Radio",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_wencheng_news_tv_a243a4d8",
-      "title": "Wencheng News TV",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8",
-      "location": "Chekiang, China",
       "genre": "Radio",
       "countryCode": "CN",
       "language": "chinese",
@@ -14038,19 +14012,6 @@
       "streamUrl": "https://liveplus.lzr.com.cn/aac_zhgb/HD/live.m3u8",
       "location": "Kansu, China",
       "genre": "Full Service",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_station_755af9c4",
-      "title": "兰溪人民广播电台",
-      "subtitle": "Music",
-      "imageUrl": "",
-      "streamUrl": "http://l.cztvcloud.com/channels/lantian/SXlanxiaud/128k.m3u8",
-      "location": "Chekiang, China",
-      "genre": "Music",
       "countryCode": "CN",
       "language": "chinese",
       "clickCount": 0,
@@ -23101,19 +23062,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_station_b77045b4",
-      "title": "湖北经典音乐广播",
-      "subtitle": "Oldies",
-      "imageUrl": "",
-      "streamUrl": "https://lhttp.qtfm.cn/live/1296/64k.mp3",
-      "location": "Hupei, China",
-      "genre": "Oldies",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_station_390a9e5a",
       "title": "湖南卫视伴音",
       "subtitle": "Entertainment, Music",
@@ -26958,6 +26906,78 @@
       "clickCount": 3,
       "bitrate": 0,
       "streamUrl": "https://lhttp-hw.qtfm.cn/live/15318224/64k.mp3"
+    },
+    {
+      "id": "station_cn_d264430c",
+      "title": "故城人民广播电台",
+      "subtitle": "Golden Music",
+      "location": "China",
+      "genre": "Golden Music",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "http://lhttp.qingting.fm/live/20212269/64k.mp3"
+    },
+    {
+      "id": "jianli_national_radio_cn_f1528231",
+      "title": "监利电台Jianli National Radio",
+      "subtitle": "News",
+      "location": "China",
+      "genre": "News",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://lhttp.qtfm.cn/live/15318507/64k.mp3"
+    },
+    {
+      "id": "station_cn_45697da7",
+      "title": "焦作新闻综合广播",
+      "subtitle": "News",
+      "location": "China",
+      "genre": "News",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://lhttp-hw.qtfm.cn/live/5022557/64k.mp3"
+    },
+    {
+      "id": "station_cn_b3fc570a",
+      "title": "巴中综合广播",
+      "subtitle": "News",
+      "location": "China",
+      "genre": "News",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://lhttp.qtfm.cn/live/20210239/64k.mp3"
+    },
+    {
+      "id": "c_r_andres_segovia_ae_5af3dc0c",
+      "title": "C.R. - Andres Segovia",
+      "subtitle": "Classical",
+      "location": "The United Arab Emirates",
+      "genre": "Classical",
+      "countryCode": "AE",
+      "language": "engilsh",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "http://drive.uber.radio/uber/crandressegovia/icecast.audio"
+    },
+    {
+      "id": "station_cn_f9270d11",
+      "title": "龙山综合广播龙凤之声",
+      "subtitle": "5G智慧电台",
+      "location": "China",
+      "genre": "5G智慧电台",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://liveplay-srs.voc.com.cn/hls/broadcast/146_80a15b.m3u8"
     }
   ]
 }

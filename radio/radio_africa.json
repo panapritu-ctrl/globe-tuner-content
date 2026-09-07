@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-06T02:56:39Z",
+  "updated": "2026-09-07T02:53:39Z",
   "region": "africa",
   "stations": [
     {
@@ -136,15 +136,6 @@
       "genre": "News",
       "countryCode": "BJ",
       "streamUrl": "https://listen.radioking.com/radio/51919/stream/88927"
-    },
-    {
-      "id": "duma_fm_bw",
-      "title": "Duma FM",
-      "subtitle": "MP3 96kbps",
-      "location": "Botswana",
-      "genre": "Music",
-      "countryCode": "BW",
-      "streamUrl": "http://s3.voscast.com:10076/stream"
     },
     {
       "id": "dumafm_bw",
@@ -4150,15 +4141,6 @@
       "genre": "Radio",
       "countryCode": "NG",
       "streamUrl": "https://stream.zeno.fm/kqgbf9g3mfhvv"
-    },
-    {
-      "id": "zamrock_radio_nigeria_relay_ng_e242a0",
-      "title": "ZamRock Radio Nigeria Relay",
-      "subtitle": "Zamzam For Life...",
-      "location": "Nigeria",
-      "genre": "Zamzam For Life...",
-      "countryCode": "NG",
-      "streamUrl": "https://mega-public-relay.deathsmack-a51.workers.dev/"
     },
     {
       "id": "102fm_re_re",
@@ -9632,18 +9614,6 @@
       "streamUrl": "https://live.munir.ly/proxy/almunirtip/stream"
     },
     {
-      "id": "mmuock_community_radio_cm_0d2b2935",
-      "title": "Mmuock Community Radio",
-      "subtitle": "Radio",
-      "location": "Cameroon",
-      "genre": "Radio",
-      "countryCode": "CM",
-      "language": null,
-      "clickCount": 11,
-      "bitrate": 128,
-      "streamUrl": "https://a7.asurahosting.com/listen/mmuock_community_radio_/radio.mp3"
-    },
-    {
       "id": "radio_daspoort_za_04182f81",
       "title": "Radio Daspoort",
       "subtitle": "Pop Music",
@@ -10362,6 +10332,18 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "https://radio.interspacemusic.com/stream.mp3"
+    },
+    {
+      "id": "mmuock_community_radio_cm_0d2b2935",
+      "title": "Mmuock Community Radio",
+      "subtitle": "Radio",
+      "location": "Cameroon",
+      "genre": "Radio",
+      "countryCode": "CM",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://a7.asurahosting.com/listen/mmuock_community_radio_/radio.mp3"
     }
   ]
 }

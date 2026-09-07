@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-06T02:56:39Z",
+  "updated": "2026-09-07T02:53:39Z",
   "region": "americas",
   "part": 3,
   "of": 5,
@@ -20673,19 +20673,6 @@
       "bitrate": 64
     },
     {
-      "id": "rb_radio_amor_95_9fm_bfe79bf3",
-      "title": "Radio Amor 95.9FM",
-      "subtitle": "Amor, Clasicos",
-      "imageUrl": "https://www.facebook.com/favicon.ico",
-      "streamUrl": "https://copaco.desdeparaguay.net/movamor/movamor.stream/playlist.m3u8",
-      "location": "Paraguay",
-      "genre": "Amor",
-      "countryCode": "PY",
-      "language": "spanish",
-      "clickCount": 3,
-      "bitrate": 48
-    },
-    {
       "id": "rb2_radio_aranduka_87_9_fm_f818d16d",
       "title": "Radio Aranduka 87.9 FM",
       "subtitle": "Music, Pop",
@@ -26715,6 +26702,78 @@
       "clickCount": 3,
       "bitrate": 96,
       "streamUrl": "https://sonic.sistemahost.es/8038/stream"
+    },
+    {
+      "id": "radio_amor_95_9fm_py_09e7ff9b",
+      "title": "Radio Amor 95.9FM",
+      "subtitle": "Amor",
+      "location": "Paraguay",
+      "genre": "Amor",
+      "countryCode": "PY",
+      "language": "spanish",
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "https://copaco.desdeparaguay.net/movamor/movamor.stream/playlist.m3u8"
+    },
+    {
+      "id": "az_car_96_7_fm_gt_428c66d2",
+      "title": "Azúcar 96.7 FM",
+      "subtitle": "Banda",
+      "location": "Guatemala",
+      "genre": "Banda",
+      "countryCode": "GT",
+      "language": "spanish",
+      "clickCount": 3,
+      "bitrate": 32,
+      "streamUrl": "https://radiostreamingaac.com:8568/azucarzacapa"
+    },
+    {
+      "id": "universo_94_9_fm_colima_colima_mx_455631cf",
+      "title": "Universo - 94.9 FM [Colima, Colima]",
+      "subtitle": "Music",
+      "location": "Mexico",
+      "genre": "Music",
+      "countryCode": "MX",
+      "language": "spanish",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://www.radiohosting.online/stream/?puerto=9738"
+    },
+    {
+      "id": "xheno_fm_mix_90_1_toluca_mx_mx_9b3ae6fe",
+      "title": "XHENO-FM \"Mix 90.1\" Toluca, MX",
+      "subtitle": "Adult Contemporary",
+      "location": "Mexico",
+      "genre": "Adult Contemporary",
+      "countryCode": "MX",
+      "language": "spanish",
+      "clickCount": 3,
+      "bitrate": 48,
+      "streamUrl": "http://27283.live.streamtheworld.com/XHENOFMAAC_SC"
+    },
+    {
+      "id": "radio_restauracion_sv_293ba923",
+      "title": "Radio Restauracion",
+      "subtitle": "Radio",
+      "location": "El Salvador",
+      "genre": "Radio",
+      "countryCode": "SV",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 64,
+      "streamUrl": "https://ssl.rockhost.com/proxy/restauracion?mp=/mp3_64"
+    },
+    {
+      "id": "peruana_radio_pe_f63543c8",
+      "title": "Peruana Radio",
+      "subtitle": "Peruvian Rock",
+      "location": "Peru",
+      "genre": "Peruvian Rock",
+      "countryCode": "PE",
+      "language": "spanish",
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "https://cloudstream2036.conectarhosting.com/8352/stream"
     }
   ]
 }

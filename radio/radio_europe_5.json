@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-06T02:56:39Z",
+  "updated": "2026-09-07T02:53:39Z",
   "region": "europe",
   "part": 5,
   "of": 8,
@@ -16165,19 +16165,6 @@
       "bitrate": 192
     },
     {
-      "id": "rb2_r_di_comedy_32fe98bc",
-      "title": "Rádió Comedy",
-      "subtitle": "Radio",
-      "imageUrl": "https://radiocomedy.net/wp-content/uploads/2024/10/radiocomedy_logo_feher-1-768x348.png",
-      "streamUrl": "https://a7.asurahosting.com:8430/radio.mp3",
-      "location": "Hungary",
-      "genre": "Radio",
-      "countryCode": "HU",
-      "language": null,
-      "clickCount": 3,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_r_di_dabas_9637c688",
       "title": "Rádió Dabas",
       "subtitle": "Radio",
@@ -21685,19 +21672,6 @@
       "language": "italian",
       "clickCount": 0,
       "bitrate": 96
-    },
-    {
-      "id": "rb2_mongrando_radio_italia_ac8ab75c",
-      "title": "Mongrando Radio Italia",
-      "subtitle": "World Music",
-      "imageUrl": "",
-      "streamUrl": "https://a7.asurahosting.com:7000/radio.mp3",
-      "location": "Italy",
-      "genre": "World Music",
-      "countryCode": "IT",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 128
     },
     {
       "id": "rb2_monkey_s_radio_450bbb65",
@@ -27762,6 +27736,42 @@
       "clickCount": 2,
       "bitrate": 320,
       "streamUrl": "https://cmr-hosting.com:7004/;stream/1"
+    },
+    {
+      "id": "r_di_comedy_hu_a553f1a6",
+      "title": "Rádió Comedy",
+      "subtitle": "Comedy",
+      "location": "Hungary",
+      "genre": "Comedy",
+      "countryCode": "HU",
+      "language": null,
+      "clickCount": 8,
+      "bitrate": 128,
+      "streamUrl": "https://a7.asurahosting.com/listen/radio_comedy/radio.mp3"
+    },
+    {
+      "id": "otvoreni_radio_chill_hr_8680da5c",
+      "title": "Otvoreni Radio Chill",
+      "subtitle": "Radio",
+      "location": "Croatia",
+      "genre": "Radio",
+      "countryCode": "HR",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 48,
+      "streamUrl": "http://stream.otvoreni.hr/chill"
+    },
+    {
+      "id": "radio_101_rock_hr_041d256c",
+      "title": "Radio 101 ROCK",
+      "subtitle": "Radio",
+      "location": "Croatia",
+      "genre": "Radio",
+      "countryCode": "HR",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 192,
+      "streamUrl": "https://live.radio101.hr:8010/;"
     }
   ]
 }

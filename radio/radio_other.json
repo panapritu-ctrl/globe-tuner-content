@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-06T02:56:39Z",
+  "updated": "2026-09-07T02:53:39Z",
   "region": "other",
   "stations": [
     {
@@ -700,18 +700,6 @@
       "clickCount": 7,
       "bitrate": 192,
       "streamUrl": "http://azura12.instainternet.com/listen/2020_the_beacon/radio.mp3"
-    },
-    {
-      "id": "abc_rn_au_709f72a1",
-      "title": "ABC RN",
-      "subtitle": "Culture",
-      "location": "Australia",
-      "genre": "Culture",
-      "countryCode": "AU",
-      "language": null,
-      "clickCount": 6,
-      "bitrate": 56,
-      "streamUrl": "https://live-radio01.mediahubaustralia.com/2RNW/mp3/"
     },
     {
       "id": "allzic_radio_funk_fr_668e0920",
@@ -2598,18 +2586,6 @@
       "streamUrl": "https://sonic.mediatelekom.net/8534/;"
     },
     {
-      "id": "ia_radio_m_sica_con_ia_pitmasterai_es_86cd597a",
-      "title": "IA Radio - Música con IA (PitmasterAI)",
-      "subtitle": "Electronica",
-      "location": "Spain",
-      "genre": "Electronica",
-      "countryCode": "ES",
-      "language": "spanish",
-      "clickCount": 4,
-      "bitrate": 192,
-      "streamUrl": "https://radio.pitmasterai.es/radio/8000/radio.mp3"
-    },
-    {
       "id": "cope_sevilla_es_83c38a85",
       "title": "Cope Sevilla",
       "subtitle": "Radio",
@@ -2658,18 +2634,6 @@
       "streamUrl": "http://14943.live.streamtheworld.com/KLYYFMAAC_SC"
     },
     {
-      "id": "bbc_radio_5_live_uk_hls_akamai_gb_27714514",
-      "title": "BBC Radio 5 Live (UK-HLS-Akamai)",
-      "subtitle": "Radio",
-      "location": "The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "Radio",
-      "countryCode": "GB",
-      "language": null,
-      "clickCount": 38,
-      "bitrate": 339,
-      "streamUrl": "http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/audio_syndication_high_sbr_v1/ak/bbc_radio_five_live.m3u8"
-    },
-    {
       "id": "micros_rebelles_fr_7bcfed01",
       "title": "Micros Rebelles",
       "subtitle": "French Chansons",
@@ -2692,18 +2656,6 @@
       "clickCount": 8,
       "bitrate": 192,
       "streamUrl": "http://air.radioart.online/hDeep_focus.mp3?dlid=db5ceb796b3f6b3b40cb449ed670f317"
-    },
-    {
-      "id": "bbc_afrique_radio_gb_bd80f7c9",
-      "title": "BBC Afrique Radio",
-      "subtitle": "Africa",
-      "location": "The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "Africa",
-      "countryCode": "GB",
-      "language": "english",
-      "clickCount": 7,
-      "bitrate": 101,
-      "streamUrl": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_afrique_radio.m3u8"
     },
     {
       "id": "radio_marca_barcelona_2_es_9db8379a",
@@ -6364,6 +6316,234 @@
       "clickCount": 2,
       "bitrate": 128,
       "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/2OOOAAC.aac"
+    },
+    {
+      "id": "bbc_radio_5_live_uk_hls_akamai_gb_27714514",
+      "title": "BBC Radio 5 Live (UK-HLS-Akamai)",
+      "subtitle": "Radio",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Radio",
+      "countryCode": "GB",
+      "language": null,
+      "clickCount": 44,
+      "bitrate": 339,
+      "streamUrl": "http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/audio_syndication_high_sbr_v1/ak/bbc_radio_five_live.m3u8"
+    },
+    {
+      "id": "bbc_afrique_radio_gb_bd80f7c9",
+      "title": "BBC Afrique Radio",
+      "subtitle": "Africa",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Africa",
+      "countryCode": "GB",
+      "language": "english",
+      "clickCount": 10,
+      "bitrate": 101,
+      "streamUrl": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_afrique_radio.m3u8"
+    },
+    {
+      "id": "kusc_91_5_los_angeles_ca_96kbps_aac_us_f28fd0ac",
+      "title": "KUSC 91.5 Los Angeles, CA (96kbps AAC)",
+      "subtitle": "Classical",
+      "location": "The United States Of America",
+      "genre": "Classical",
+      "countryCode": "US",
+      "language": "english",
+      "clickCount": 10,
+      "bitrate": 96,
+      "streamUrl": "https://27283.live.streamtheworld.com/KUSCAAC96_SC"
+    },
+    {
+      "id": "radio_acid_everything_chill_us_2c032bef",
+      "title": "Radio ACID - Everything Chill.",
+      "subtitle": "Chill",
+      "location": "The United States Of America",
+      "genre": "Chill",
+      "countryCode": "US",
+      "language": "english",
+      "clickCount": 9,
+      "bitrate": 256,
+      "streamUrl": "https://stream.radioacid.com/stream"
+    },
+    {
+      "id": "onda_avil_s_radio_es_5a64c54c",
+      "title": "Onda Avilés Radio",
+      "subtitle": "Music",
+      "location": "Spain",
+      "genre": "Music",
+      "countryCode": "ES",
+      "language": "spanish",
+      "clickCount": 7,
+      "bitrate": 0,
+      "streamUrl": "https://stream-179.surfernetwork.com/ptzhy52dcchvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwdHpoeTUyZGNjaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImVCTlF5NGJnUnUyc2lDWE9MRVJfTHciLCJpYXQiOjE3ODg2OTkwMjIsImV4cCI6MTc4ODY5OTA4Mn0.KHDhhR8KVo3-Z2Q6j6VNdbYJNTQ7HSlEzvCPKAoJYI0"
+    },
+    {
+      "id": "bbc_somali_radio_gb_c328b53d",
+      "title": "BBC Somali Radio",
+      "subtitle": "News",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "News",
+      "countryCode": "GB",
+      "language": "english",
+      "clickCount": 7,
+      "bitrate": 101,
+      "streamUrl": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_somali_radio.m3u8"
+    },
+    {
+      "id": "source_fm_96_1_falmouth_gb_2dc0be1f",
+      "title": "Source FM 96.1  Falmouth",
+      "subtitle": "Community Radio",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Community Radio",
+      "countryCode": "GB",
+      "language": "english",
+      "clickCount": 7,
+      "bitrate": 110,
+      "streamUrl": "http://live.canstream.co.uk:8000/sourcefm.mp3?.mp3"
+    },
+    {
+      "id": "doom_radio_beats_to_rip_tear_to_es_b01f6fa2",
+      "title": "DOOM Radio - Beats to Rip/Tear to",
+      "subtitle": "Argentmetal",
+      "location": "Spain",
+      "genre": "Argentmetal",
+      "countryCode": "ES",
+      "language": "english",
+      "clickCount": 6,
+      "bitrate": 320,
+      "streamUrl": "https://dcealopez.es/rip-tear-radio-live"
+    },
+    {
+      "id": "radio_j_juive_fr_0568166a",
+      "title": "Radio J Juive",
+      "subtitle": "Jewish",
+      "location": "France",
+      "genre": "Jewish",
+      "countryCode": "FR",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "https://n24-eu.rcs.revma.com/138w9xn95tuvv?rj-ttl=5&amp;rj-tok=AAABoB8z9ZAAz8Gj_DwDInCREg"
+    },
+    {
+      "id": "hot_radio_gb_c16bfa87",
+      "title": "Hot Radio",
+      "subtitle": "00S",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "00S",
+      "countryCode": "GB",
+      "language": "british english",
+      "clickCount": 6,
+      "bitrate": 160,
+      "streamUrl": "https://stream1.hippynet.co.uk/stream/hotradio/dorset"
+    },
+    {
+      "id": "vienna_fm_be_78361834",
+      "title": "Vienna FM",
+      "subtitle": "Jazz",
+      "location": "Belgium",
+      "genre": "Jazz",
+      "countryCode": "BE",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "https://radio.ministry.fr/listen/vienna/radio.mp3"
+    },
+    {
+      "id": "los_40_asturias_es_fd4573ad",
+      "title": "Los 40 Asturias",
+      "subtitle": "Dance",
+      "location": "Spain",
+      "genre": "Dance",
+      "countryCode": "ES",
+      "language": "spanish",
+      "clickCount": 5,
+      "bitrate": 64,
+      "streamUrl": "https://27913.live.streamtheworld.com/LOS40_ASO_ASTURIASAAC.aac"
+    },
+    {
+      "id": "sunrise_hits_gb_a8b805b7",
+      "title": "Sunrise Hits",
+      "subtitle": "Radio",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Radio",
+      "countryCode": "GB",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://listen-sunriseradio.sharp-stream.com/529_sunrise_smooth_128_mp3?_=858678"
+    },
+    {
+      "id": "loveradio247_gb_e7f557e8",
+      "title": "LOVERADIO247",
+      "subtitle": "Adult Contemporary",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Adult Contemporary",
+      "countryCode": "GB",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://a5.asurahosting.com/listen/loveradio247/radio.mp3"
+    },
+    {
+      "id": "radio_srf1_ch_f14b8146",
+      "title": "Radio SRF1",
+      "subtitle": "Radio",
+      "location": "Switzerland",
+      "genre": "Radio",
+      "countryCode": "CH",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 176,
+      "streamUrl": "http://stream.srg-ssr.ch/srgssr/regi_zentr/aac/192"
+    },
+    {
+      "id": "radio_mama_au_e67dc9d1",
+      "title": "Radio MAMA",
+      "subtitle": "Community",
+      "location": "Australia",
+      "genre": "Community",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "http://firstnationsmedia.stream/8002/stream"
+    },
+    {
+      "id": "dance_hits_au_5bb04eaf",
+      "title": "Dance Hits",
+      "subtitle": "Electronic Dance Music",
+      "location": "Australia",
+      "genre": "Electronic Dance Music",
+      "countryCode": "AU",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 130,
+      "streamUrl": "https://sa46.scastream.com.au/live/2dance_128.stream/playlist.m3u8?"
+    },
+    {
+      "id": "radio_swiss_pop_ch_da1f35d8",
+      "title": "Radio-Swiss-Pop",
+      "subtitle": "Radio",
+      "location": "Switzerland",
+      "genre": "Radio",
+      "countryCode": "CH",
+      "language": "norddeutsch",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "http://stream.srg-ssr.ch/srgssr/rsp/aac/192"
+    },
+    {
+      "id": "soundz_ch_d8262e35",
+      "title": "soundz",
+      "subtitle": "Dance",
+      "location": "Switzerland",
+      "genre": "Dance",
+      "countryCode": "CH",
+      "language": "german",
+      "clickCount": 2,
+      "bitrate": 0,
+      "streamUrl": "https://stream.mysoundz.ch/streams/streema/3602b6f9ee3c4521bdec84ec/shared/stream"
     }
   ]
 }
