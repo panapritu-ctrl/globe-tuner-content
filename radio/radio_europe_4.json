@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-07T02:53:39Z",
+  "updated": "2026-09-08T03:05:50Z",
   "region": "europe",
   "part": 4,
   "of": 8,
@@ -20495,19 +20495,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_chios_c6ef7fe0",
-      "title": "Chios",
-      "subtitle": "Info, Music",
-      "imageUrl": "http://resources.live24.gr/resources/images/stations/6f40f002-870c-463c-a9d1-0768d1f2b2f5.jpg",
-      "streamUrl": "http://s4.stream-cast.com:11518/;stream/1?1519296929195.mp3",
-      "location": "Chios, Greece",
-      "genre": "Info",
-      "countryCode": "GR",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_christianity_82de2d37",
       "title": "Christianity",
       "subtitle": "Pentecostalism, Religion",
@@ -25910,19 +25897,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_nitro_102_5_3b9d72ed",
-      "title": "Nitro 102.5",
-      "subtitle": "Pop",
-      "imageUrl": "http://www.athensnitroradio.gr/logo_nitro-removebg-preview.png",
-      "streamUrl": "http://n04.radiojar.com/29e98fkcks3vv?rj-ttl=5&rj-tok=AAABlNxcVVUAl7JDl2cmO8Vl5g",
-      "location": "Athens, Greece",
-      "genre": "Pop",
-      "countryCode": "GR",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_nitro_non_stop_4414f1a6",
       "title": "Nitro Non Stop",
       "subtitle": "Alternative Rock, Electronica",
@@ -27407,6 +27381,30 @@
       "clickCount": 2,
       "bitrate": 128,
       "streamUrl": "https://i6.streams.ovh/sc/central/stream"
+    },
+    {
+      "id": "chordix_radio_gr_cdafe904",
+      "title": "Chordix Radio",
+      "subtitle": "Acoustic",
+      "location": "Greece",
+      "genre": "Acoustic",
+      "countryCode": "GR",
+      "language": null,
+      "clickCount": 9,
+      "bitrate": 128,
+      "streamUrl": "https://icy.cloudrad.io/8c3be37b"
+    },
+    {
+      "id": "parea_radio_gr_c1a7260c",
+      "title": "Parea Radio",
+      "subtitle": "Radio",
+      "location": "Greece",
+      "genre": "Radio",
+      "countryCode": "GR",
+      "language": "english",
+      "clickCount": 6,
+      "bitrate": 320,
+      "streamUrl": "https://parea-radio-b7474105.radiocult.fm/stream"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-07T02:53:13Z",
+  "updated": "2026-09-08T03:05:50Z",
   "region": "oceania",
   "stations": [
     {
@@ -2415,19 +2415,6 @@
       "bitrate": 94
     },
     {
-      "id": "rb2_abc_a_league_live_mp3_9623748b",
-      "title": "ABC A-League Live (MP3)",
-      "subtitle": "Abc, Live Sports",
-      "imageUrl": "",
-      "streamUrl": "http://live-radio02.mediahubaustralia.com/IT2W/mp3/;",
-      "location": "Australia",
-      "genre": "Abc",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 56
-    },
-    {
       "id": "rb2_abc_afl_606a9d73",
       "title": "ABC AFL",
       "subtitle": "Live Sports, Sports Talk",
@@ -2933,19 +2920,6 @@
       "countryCode": "AU",
       "language": "english",
       "clickCount": 1,
-      "bitrate": 56
-    },
-    {
-      "id": "rb2_abc_local_radio_666_canberra_act_mp3_96139428",
-      "title": "ABC Local Radio 666 Canberra, ACT (MP3)",
-      "subtitle": "Abc, Canberra",
-      "imageUrl": "",
-      "streamUrl": "http://live-radio01.mediahubaustralia.com/1LRW/mp3/",
-      "location": "Australian Capital Territory, Australia",
-      "genre": "Abc",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
       "bitrate": 56
     },
     {
@@ -3455,19 +3429,6 @@
       "countryCode": "AU",
       "language": null,
       "clickCount": 0,
-      "bitrate": 56
-    },
-    {
-      "id": "rb2_abc_triple_j_mp3_961c74f4",
-      "title": "ABC Triple J (MP3)",
-      "subtitle": "Abc, Alternative",
-      "imageUrl": "http://www.abc.net.au/core-assets/triplej/favicon-32x32.png",
-      "streamUrl": "http://live-radio01.mediahubaustralia.com/2TJW/mp3/;stream.nsv",
-      "location": "Australia",
-      "genre": "Abc",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 4,
       "bitrate": 56
     },
     {
@@ -18930,6 +18891,18 @@
       "clickCount": 3,
       "bitrate": 1872,
       "streamUrl": "https://tfcguam-abscbn-ono.amagi.tv/index.m3u8"
+    },
+    {
+      "id": "more_fm_waikato_nz_130b8710",
+      "title": "More FM Waikato",
+      "subtitle": "Radio",
+      "location": "New Zealand",
+      "genre": "Radio",
+      "countryCode": "NZ",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://mediaworks.streamguys1.com/more-ham-high_icy"
     }
   ]
 }

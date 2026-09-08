@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-07T02:53:39Z",
+  "updated": "2026-09-08T03:05:50Z",
   "region": "americas",
   "part": 1,
   "of": 5,
@@ -9641,15 +9641,6 @@
       "bitrate": 64
     },
     {
-      "id": "vob_92_9_fm_bb_2",
-      "title": "VOB 92.9 FM",
-      "subtitle": "Call-In / Calypso",
-      "location": "Barbados",
-      "genre": "News",
-      "countryCode": "BB",
-      "streamUrl": "https://ice66.securenetsystems.net:80/VOB929"
-    },
-    {
       "id": "y103_3_fm_bb",
       "title": "Y103.3 FM",
       "subtitle": "Alternative / Pop",
@@ -14083,19 +14074,6 @@
       "language": "portuguese",
       "clickCount": 2,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_melodia_fm_97_5_5839c451",
-      "title": "Melodia FM 97.5",
-      "subtitle": "Gospel",
-      "imageUrl": "https://melodia.com.br/favicon.ico",
-      "streamUrl": "https://server01.ouvir.radio.br:8033/stream",
-      "location": "Rio de Janeiro, Brazil",
-      "genre": "Gospel",
-      "countryCode": "BR",
-      "language": "brazilian portuguese",
-      "clickCount": 6,
-      "bitrate": 64
     },
     {
       "id": "rb2_melody_94_1_fm_e2f1a191",
@@ -23194,19 +23172,6 @@
       "bitrate": 96
     },
     {
-      "id": "rb2_103_9_max_fm_moncton_s_greatest_hits_f94554ef",
-      "title": "103.9 MAX FM - Moncton's Greatest Hits",
-      "subtitle": "Classic Rock, Easy Listening",
-      "imageUrl": "",
-      "streamUrl": "http://mbsradio-ais.leanstream.co/CFQMFM-MP3?args=mobile_01&aw_0_req.gdpr=false&gdpr=false",
-      "location": "Canada",
-      "genre": "Classic Rock",
-      "countryCode": "CA",
-      "language": "english",
-      "clickCount": 1,
-      "bitrate": 64
-    },
-    {
       "id": "rb2_106_1_chez_a58a839f",
       "title": "106.1 CHEZ",
       "subtitle": "Mainstream Rock, Rock",
@@ -26191,18 +26156,6 @@
       "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_BH.mp3?dist=mix-web-player-radio-ao-vivo&207105.1246485156"
     },
     {
-      "id": "ckgl_city_news_570_kitchener_on_ca_aa5c5ed1",
-      "title": "CKGL \"City News 570\" Kitchener, ON",
-      "subtitle": "News Talk",
-      "location": "Canada",
-      "genre": "News Talk",
-      "countryCode": "CA",
-      "language": "english",
-      "clickCount": 3,
-      "bitrate": 48,
-      "streamUrl": "https://rogers-hls.leanstream.co/rogers/kit570.stream/playlist.m3u8"
-    },
-    {
       "id": "fmi_tucuman_ar_db48ec1e",
       "title": "FMI TUCUMAN",
       "subtitle": "Radio",
@@ -26429,18 +26382,6 @@
       "clickCount": 2,
       "bitrate": 128,
       "streamUrl": "http://live.leanstream.co/CIQBFM-MP3"
-    },
-    {
-      "id": "trixfm_ca_1f33bae7",
-      "title": "trixfm",
-      "subtitle": "Breakcore",
-      "location": "Canada",
-      "genre": "Breakcore",
-      "countryCode": "CA",
-      "language": "english",
-      "clickCount": 2,
-      "bitrate": 320,
-      "streamUrl": "https://fm.trix.quest/desu"
     },
     {
       "id": "benchi_fm_br_d277b051",
@@ -27665,6 +27606,162 @@
       "clickCount": 2,
       "bitrate": 128,
       "streamUrl": "http://24253.live.streamtheworld.com:3690/DISNEY_ARG_BA_ADP_SC"
+    },
+    {
+      "id": "colegio_amen_ar_2fec45b1",
+      "title": "Colegio AMEN",
+      "subtitle": "Talk",
+      "location": "Argentina",
+      "genre": "Talk",
+      "countryCode": "AR",
+      "language": "spanish",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://radio.eduneu.eu:8050/radio.mp3"
+    },
+    {
+      "id": "city_fm_90_0_pehuajo_ar_b5f34249",
+      "title": "City FM 90.0 Pehuajo",
+      "subtitle": "Frecuencia Studio",
+      "location": "Argentina",
+      "genre": "Frecuencia Studio",
+      "countryCode": "AR",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://ssl.radiosnethosting.com/index.php?port=9862"
+    },
+    {
+      "id": "pulso_104_7_ar_bc46180a",
+      "title": "PULSO 104.7",
+      "subtitle": "Alternativo",
+      "location": "Argentina",
+      "genre": "Alternativo",
+      "countryCode": "AR",
+      "language": "spanish",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://pulso-fm.vercel.app/stream"
+    },
+    {
+      "id": "antena_1_fm_91_3_mhz_juiz_de_fora_mg_br_6f6558cb",
+      "title": "Antena 1 FM 91.3 MHz / Juiz de Fora - MG",
+      "subtitle": "Soft Adult Contemporary",
+      "location": "Brazil",
+      "genre": "Soft Adult Contemporary",
+      "countryCode": "BR",
+      "language": "brazilian portuguese",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://stream02.ouveai.com.br:7017/stream"
+    },
+    {
+      "id": "rikinews_br_d21ba4f3",
+      "title": "RikiNews",
+      "subtitle": "Radio",
+      "location": "Brazil",
+      "genre": "Radio",
+      "countryCode": "BR",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://stm24.xcast.com.br:7874/audio"
+    },
+    {
+      "id": "104_5_chum_fm_toronto_ca_ec5c79f5",
+      "title": "104.5 Chum FM Toronto",
+      "subtitle": "Hot Adult Contemporary",
+      "location": "Canada",
+      "genre": "Hot Adult Contemporary",
+      "countryCode": "CA",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://14223.live.streamtheworld.com/CHUMFM.mp3"
+    },
+    {
+      "id": "lra_24_radio_nacional_r_o_grande_ar_8a44f124",
+      "title": "LRA 24 Radio Nacional Río Grande",
+      "subtitle": "Radio",
+      "location": "Argentina",
+      "genre": "Radio",
+      "countryCode": "AR",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 160,
+      "streamUrl": "https://sa.mp3.icecast.magma.edge-access.net/sc_rad24"
+    },
+    {
+      "id": "vip_radio_cl_sicos_ar_5abb892f",
+      "title": "VIP Radio Clásicos",
+      "subtitle": "Classic Hits",
+      "location": "Argentina",
+      "genre": "Classic Hits",
+      "countryCode": "AR",
+      "language": "english",
+      "clickCount": 2,
+      "bitrate": 36,
+      "streamUrl": "https://server6.hostradios.com:7232/;?1775392057693"
+    },
+    {
+      "id": "lu24_radio_tres_arroyos_ar_6a851c7e",
+      "title": "LU24 Radio Tres Arroyos",
+      "subtitle": "News Talk",
+      "location": "Argentina",
+      "genre": "News Talk",
+      "countryCode": "AR",
+      "language": "español argentina",
+      "clickCount": 2,
+      "bitrate": 56,
+      "streamUrl": "https://streaming01.shockmedia.com.ar:10889/stream?icy=http"
+    },
+    {
+      "id": "fmi_99_1_fm_ar_fa5a535c",
+      "title": "FMi 99.1 FM",
+      "subtitle": "Radio",
+      "location": "Argentina",
+      "genre": "Radio",
+      "countryCode": "AR",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 0,
+      "streamUrl": "https://ssl.radiosnethosting.com/index.php?port=9808/;stream.mp3"
+    },
+    {
+      "id": "r_dio_aparecida_br_833f2f71",
+      "title": "Rádio Aparecida",
+      "subtitle": "Radio",
+      "location": "Brazil",
+      "genre": "Radio",
+      "countryCode": "BR",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "https://aparecida.jmvstream.com/stream"
+    },
+    {
+      "id": "cultura_fm_95_1_mhz_uberl_ndia_mg_zyc697_br_22f4bb38",
+      "title": "Cultura FM 95.1 Mhz (Uberlândia - MG) (ZYC697)",
+      "subtitle": "Brazilian Music",
+      "location": "Brazil",
+      "genre": "Brazilian Music",
+      "countryCode": "BR",
+      "language": "brazilian portuguese",
+      "clickCount": 2,
+      "bitrate": 84,
+      "streamUrl": "https://8040.brasilstream.com.br/stream"
+    },
+    {
+      "id": "cjdv_107_5_dave_rocks_kitchener_on_ca_4f9c57ce",
+      "title": "CJDV 107.5 \"Dave Rocks\" Kitchener, ON",
+      "subtitle": "Commercial",
+      "location": "Canada",
+      "genre": "Commercial",
+      "countryCode": "CA",
+      "language": "english",
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "http://live.leanstream.co/CJDVFM-MP3"
     }
   ]
 }

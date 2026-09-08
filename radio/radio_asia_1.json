@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-07T02:53:39Z",
+  "updated": "2026-09-08T03:05:50Z",
   "region": "asia",
   "part": 1,
   "of": 3,
@@ -11828,19 +11828,6 @@
       "countryCode": "CN"
     },
     {
-      "id": "rb2_shangyu_new_commercial_city_tv_bfd3e1dd",
-      "title": "Shangyu New Commercial City TV",
-      "subtitle": "Chekiang, Hls Video",
-      "imageUrl": "",
-      "streamUrl": "http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8",
-      "location": "Chekiang, China",
-      "genre": "Chekiang",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_shansi_agriculture_radio_222127a6",
       "title": "Shansi Agriculture Radio",
       "subtitle": "Radio",
@@ -17912,19 +17899,6 @@
       "streamUrl": "https://lhttp-hw.qtfm.cn/live/20500100/64k.mp3",
       "location": "Hopei, China",
       "genre": "Information",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_station_65b45a43",
-      "title": "嵊泗广播",
-      "subtitle": "News",
-      "imageUrl": "",
-      "streamUrl": "http://l.cztvcloud.com/channels/lantian/SXshengsiaud/128k.m3u8",
-      "location": "Chekiang, China",
-      "genre": "News",
       "countryCode": "CN",
       "language": "chinese",
       "clickCount": 0,
@@ -24141,19 +24115,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_station_aa4ab95d",
-      "title": "福州女主播电台",
-      "subtitle": "Music",
-      "imageUrl": "",
-      "streamUrl": "http://lhttp.qingting.fm/live/4846/64k.mp3",
-      "location": "Fukien, China",
-      "genre": "Music",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 2,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_station_9bbe388e",
       "title": "福州左海之声",
       "subtitle": "Public Radio",
@@ -26260,18 +26221,6 @@
       "streamUrl": "https://lhttp-hw.qtfm.cn/live/5023/64k.mp3"
     },
     {
-      "id": "station_cn_83a5d843",
-      "title": "襄阳综合广播",
-      "subtitle": "News",
-      "location": "China",
-      "genre": "News",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 2,
-      "bitrate": 0,
-      "streamUrl": "http://ls.qingting.fm/live/1307.m3u8"
-    },
-    {
       "id": "station_cn_d3bfb308",
       "title": "湖南音乐之声",
       "subtitle": "89.3",
@@ -26978,6 +26927,90 @@
       "clickCount": 3,
       "bitrate": 0,
       "streamUrl": "https://liveplay-srs.voc.com.cn/hls/broadcast/146_80a15b.m3u8"
+    },
+    {
+      "id": "station_cn_cd90cf85",
+      "title": "天籁之音 - 国风",
+      "subtitle": "Classical",
+      "location": "China",
+      "genre": "Classical",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "http://play-radio-stream3.hndt.com/now/UzPxbRaT/chunklist.m3u8"
+    },
+    {
+      "id": "station_cn_604986b3",
+      "title": "邳州人民广播电台",
+      "subtitle": "Music",
+      "location": "China",
+      "genre": "Music",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "http://lhttp.qingting.fm/live/2809/64k.mp3"
+    },
+    {
+      "id": "c_r_yehudi_menuin_ae_644857be",
+      "title": "C.R. - Yehudi Menuin",
+      "subtitle": "Classical",
+      "location": "The United Arab Emirates",
+      "genre": "Classical",
+      "countryCode": "AE",
+      "language": "english",
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "http://drive.uber.radio/uber/cryehudimenuin/icecast.audio"
+    },
+    {
+      "id": "tick_tock_radio_1965_ae_ffa02eeb",
+      "title": "Tick Tock Radio - 1965",
+      "subtitle": "1960S",
+      "location": "The United Arab Emirates",
+      "genre": "1960S",
+      "countryCode": "AE",
+      "language": "english",
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "https://streaming.ticktock.radio/tt/1965/icecast.audio"
+    },
+    {
+      "id": "c_r_nadia_boulanger_ae_7dbb7c53",
+      "title": "C.R. - Nadia Boulanger",
+      "subtitle": "Classical",
+      "location": "The United Arab Emirates",
+      "genre": "Classical",
+      "countryCode": "AE",
+      "language": "english",
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "http://drive.uber.radio/uber/crnadiaboulanger/icecast.audio"
+    },
+    {
+      "id": "classical_radio_sir_colin_davis_ae_06516984",
+      "title": "Classical Radio - Sir Colin Davis",
+      "subtitle": "Classical",
+      "location": "The United Arab Emirates",
+      "genre": "Classical",
+      "countryCode": "AE",
+      "language": "english",
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "https://drive.uber.radio/uber/crcolindavis/icecast.audio"
+    },
+    {
+      "id": "c_r_strauss_ae_d974091a",
+      "title": "C.R. - Strauss",
+      "subtitle": "Classical",
+      "location": "The United Arab Emirates",
+      "genre": "Classical",
+      "countryCode": "AE",
+      "language": "english",
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "http://drive.uber.radio/uber/crstrauss/icecast.audio"
     }
   ]
 }

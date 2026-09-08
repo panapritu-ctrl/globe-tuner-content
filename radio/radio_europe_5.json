@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-07T02:53:39Z",
+  "updated": "2026-09-08T03:05:50Z",
   "region": "europe",
   "part": 5,
   "of": 8,
@@ -6159,19 +6159,6 @@
       "streamUrl": "https://ec5.yesstreaming.net:1245/stream",
       "location": "Athens, Greece",
       "genre": "Radio",
-      "countryCode": "GR",
-      "language": "greek",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_top_102_4_7ff60e03",
-      "title": "Top 102.4",
-      "subtitle": "Music, Sports News",
-      "imageUrl": "https://i1.wp.com/www.fmtop.gr/wp-content/uploads/2015/12/cropped-favicon.jpg?fit=180%2c180&#038;ssl=1",
-      "streamUrl": "http://live3.istoikona.com:8376/;",
-      "location": "Rhodes, Greece",
-      "genre": "Music",
       "countryCode": "GR",
       "language": "greek",
       "clickCount": 0,
@@ -18120,19 +18107,6 @@
       "bitrate": 224
     },
     {
-      "id": "rb2_rana_sundi_a411cbbe",
-      "title": "Rana Sundi",
-      "subtitle": "Jazz, Pop",
-      "imageUrl": "https://i.pinimg.com/1200x/81/c0/44/81c044d4553049ecbc09296ca53b2eae.jpg",
-      "streamUrl": "https://base44.app/api/apps/6a1fdf6444e437e5f3a701be/files/mp/public/6a1fdf6444e437e5f3a701be/1189115bf_AmordeAltavoz1.mp3",
-      "location": "Ireland",
-      "genre": "Jazz",
-      "countryCode": "IE",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_ra_d_o_r_r_37d9403a",
       "title": "Raídío Rí-Rá",
       "subtitle": "Radio",
@@ -27772,6 +27746,42 @@
       "clickCount": 2,
       "bitrate": 192,
       "streamUrl": "https://live.radio101.hr:8010/;"
+    },
+    {
+      "id": "deep_house_radio_dhr_ie_c7091117",
+      "title": "Deep House Radio (DHR)",
+      "subtitle": "Chillout+Lounge",
+      "location": "Ireland",
+      "genre": "Chillout+Lounge",
+      "countryCode": "IE",
+      "language": "english",
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "https://listen.adtonos.com/deep-house-radio-dhr-4"
+    },
+    {
+      "id": "club_music_radio_tambura_hr_fdbbe248",
+      "title": "Club Music Radio - TAMBURA",
+      "subtitle": "Radio",
+      "location": "Croatia",
+      "genre": "Radio",
+      "countryCode": "HR",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 320,
+      "streamUrl": "https://cmr-hosting.com:7007/;stream/1"
+    },
+    {
+      "id": "civil_radio_hu_e13732ab",
+      "title": "Civil Radio",
+      "subtitle": "Radio",
+      "location": "Hungary",
+      "genre": "Radio",
+      "countryCode": "HU",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "http://civilradio.hu:8000/listen.mp3"
     }
   ]
 }

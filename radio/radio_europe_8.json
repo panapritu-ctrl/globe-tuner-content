@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-07T02:53:39Z",
+  "updated": "2026-09-08T03:05:50Z",
   "region": "europe",
   "part": 8,
   "of": 8,
@@ -21138,19 +21138,6 @@
       "countryCode": "UA"
     },
     {
-      "id": "rb2_lounge_fm_acoustic_79cebe09",
-      "title": "Lounge FM Acoustic",
-      "subtitle": "Acoustic, Lounge",
-      "imageUrl": "",
-      "streamUrl": "https://cast.mediaonline.net.ua/acoustic320",
-      "location": "Kiev, Ukraine",
-      "genre": "Acoustic",
-      "countryCode": "UA",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 320
-    },
-    {
       "id": "lounge_fm_chill_out_ua_026ceb",
       "title": "Lounge FM Chill Out",
       "subtitle": "Chillout",
@@ -22447,19 +22434,6 @@
       "genre": "Music",
       "countryCode": "UA",
       "streamUrl": "http://online.nasheradio.ua/NasheRadio"
-    },
-    {
-      "id": "rb2_hd_1c818d0a",
-      "title": "Наше Радіо HD",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://online.nasheradio.ua/NasheRadio_HD",
-      "location": "Kyiv, Ukraine",
-      "genre": "Radio",
-      "countryCode": "UA",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 320
     },
     {
       "id": "rb2_station_7d3a75c7",
@@ -24088,18 +24062,6 @@
       "streamUrl": "http://animklatu.stream.laut.fm/animklatu?t302=2026-08-21_16-10-11&uuid=59e949d6-be8e-4ca9-86e2-c23789c24664"
     },
     {
-      "id": "m_deep_radio_ru_d6ef22c5",
-      "title": "M.Deep Radio",
-      "subtitle": "Chillout",
-      "location": "The Russian Federation",
-      "genre": "Chillout",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 4,
-      "bitrate": 192,
-      "streamUrl": "https://deephousex.ru/live"
-    },
-    {
       "id": "radio_skovoroda_ua_9769c427",
       "title": "Radio Skovoroda",
       "subtitle": "Skovoroda",
@@ -25082,6 +25044,78 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "https://streams.scenesat.com/main/hq.mp3"
+    },
+    {
+      "id": "anima_amoris_dub_techno_mix_ru_0e2c3d6c",
+      "title": "Anima Amoris Dub Techno Mix",
+      "subtitle": "Dub",
+      "location": "The Russian Federation",
+      "genre": "Dub",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 7,
+      "bitrate": 0,
+      "streamUrl": "http://amoris.sknt.ru/dubtechnomix.mp3"
+    },
+    {
+      "id": "youritmix_ru_6db2b07c",
+      "title": "YouRitmix",
+      "subtitle": "Afro",
+      "location": "The Russian Federation",
+      "genre": "Afro",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 6,
+      "bitrate": 320,
+      "streamUrl": "https://youritmix.ru/stream/"
+    },
+    {
+      "id": "avtoradio_moscow_stream_2_ru_929fde34",
+      "title": "Avtoradio - Moscow (stream 2)",
+      "subtitle": "Classic/Dance/Pop-Rock",
+      "location": "The Russian Federation",
+      "genre": "Classic/Dance/Pop-Rock",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 129,
+      "streamUrl": "https://hls-01-gpm.hostingradio.ru/avtoradio495/playlist.m3u8"
+    },
+    {
+      "id": "station_ru_48c29ce3",
+      "title": "Радио Искатель",
+      "subtitle": "Radio",
+      "location": "The Russian Federation",
+      "genre": "Radio",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://iskatel.hostingradio.ru:8015/iskatel-128.mp3"
+    },
+    {
+      "id": "m_deep_radio_ru_d6ef22c5",
+      "title": "M.Deep Radio",
+      "subtitle": "Chillout",
+      "location": "The Russian Federation",
+      "genre": "Chillout",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://deephousex.ru/live"
+    },
+    {
+      "id": "the_west_pole_radio_ua_6ea907f6",
+      "title": "The West Pole Radio",
+      "subtitle": "Radio",
+      "location": "Ukraine",
+      "genre": "Radio",
+      "countryCode": "UA",
+      "language": "ukrainian",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://online.z-polus.info/hq"
     }
   ]
 }

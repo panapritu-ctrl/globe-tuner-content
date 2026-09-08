@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-07T02:53:39Z",
+  "updated": "2026-09-08T03:05:50Z",
   "region": "other",
   "stations": [
     {
@@ -2106,18 +2106,6 @@
       "streamUrl": "https://s4.radio.co/s7bd982a3e/listen"
     },
     {
-      "id": "mpr_the_current_us_eb84f7f3",
-      "title": "MPR The Current",
-      "subtitle": "Music",
-      "location": "The United States Of America",
-      "genre": "Music",
-      "countryCode": "US",
-      "language": "english",
-      "clickCount": 7,
-      "bitrate": 128,
-      "streamUrl": "http://current.stream.publicradio.org/kcmp.mp3"
-    },
-    {
       "id": "wrcj_classical_and_jazz_us_a8eb811e",
       "title": "WRCJ Classical and Jazz",
       "subtitle": "Radio",
@@ -2980,18 +2968,6 @@
       "clickCount": 4,
       "bitrate": 56,
       "streamUrl": "https://pcr.streamguys1.com/pcrnational-96k.aac"
-    },
-    {
-      "id": "listnr_drum_bass_au_882f9d58",
-      "title": "LiSTNR - Drum & Bass",
-      "subtitle": "Dance",
-      "location": "Australia",
-      "genre": "Dance",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 3,
-      "bitrate": 0,
-      "streamUrl": "https://wz0liw.scahw.com.au/live/drumnbass_128.stream/playlist.m3u8"
     },
     {
       "id": "forever_classic_1960_s_goulburn_100_7_fm_aac_au_648040c1",
@@ -4098,30 +4074,6 @@
       "streamUrl": "https://securestreams.autopo.st:1209/tenerife?_=872308"
     },
     {
-      "id": "kids_hits_au_62fa80df",
-      "title": "Kids Hits",
-      "subtitle": "Radio",
-      "location": "Australia",
-      "genre": "Radio",
-      "countryCode": "AU",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 0,
-      "streamUrl": "https://wz0liw.scahw.com.au/live/kids-hits.stream/playlist.m3u8?"
-    },
-    {
-      "id": "listnr_rainforest_soundscapes_au_1f3f70f4",
-      "title": "LiSTNR - Rainforest [Soundscapes]",
-      "subtitle": "Rainforest",
-      "location": "Australia",
-      "genre": "Rainforest",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 2,
-      "bitrate": 0,
-      "streamUrl": "http://wz0liw.scahw.com.au/live/rainforest_128.stream/playlist.m3u8"
-    },
-    {
       "id": "roq_fm_au_de1f4176",
       "title": "ROQ FM",
       "subtitle": "Radio",
@@ -4218,18 +4170,6 @@
       "streamUrl": "https://stream.truehouse.net:8443/chill"
     },
     {
-      "id": "radiopungis_ch_ab06010d",
-      "title": "RadioPungis",
-      "subtitle": "Radio",
-      "location": "Switzerland",
-      "genre": "Radio",
-      "countryCode": "CH",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 192,
-      "streamUrl": "https://radio.second-hands.org/listen/radiopungis/radio.mp3"
-    },
-    {
       "id": "cope_sevilla_es_6a5e2141",
       "title": "COPE + Sevilla",
       "subtitle": "Local News",
@@ -4240,18 +4180,6 @@
       "clickCount": 169,
       "bitrate": 96,
       "streamUrl": "http://wecast09-h-cloud.flumotion.com/copesedes/sevilla-mas.mp3"
-    },
-    {
-      "id": "radio_libertad_es_60c901d7",
-      "title": "Radio Libertad",
-      "subtitle": "Radio",
-      "location": "Spain",
-      "genre": "Radio",
-      "countryCode": "ES",
-      "language": "español internacional",
-      "clickCount": 15,
-      "bitrate": 64,
-      "streamUrl": "https://server9.emitironline.com:19482/stream?cb=1708722000350"
     },
     {
       "id": "n_ric_collection_fr_dc0697f2",
@@ -6162,18 +6090,6 @@
       "streamUrl": "http://wz0liw.scahw.com.au/live/soft-rock.stream/playlist.m3u8"
     },
     {
-      "id": "listnr_lofi_study_beats_au_d0cd0728",
-      "title": "LiSTNR - Lofi Study Beats",
-      "subtitle": "Lofi Study Beats",
-      "location": "Australia",
-      "genre": "Lofi Study Beats",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 2,
-      "bitrate": 0,
-      "streamUrl": "http://wz0liw.scahw.com.au/live/lo-fi.stream/playlist.m3u8"
-    },
-    {
       "id": "bbc_arabic_radio_gb_fdfbc1fe",
       "title": "BBC Arabic Radio",
       "subtitle": "Arabic",
@@ -6544,6 +6460,150 @@
       "clickCount": 2,
       "bitrate": 0,
       "streamUrl": "https://stream.mysoundz.ch/streams/streema/3602b6f9ee3c4521bdec84ec/shared/stream"
+    },
+    {
+      "id": "radio_paradise_beyond_us_3ae57df1",
+      "title": "Radio Paradise Beyond",
+      "subtitle": "Radio",
+      "location": "The United States Of America",
+      "genre": "Radio",
+      "countryCode": "US",
+      "language": null,
+      "clickCount": 13,
+      "bitrate": 320,
+      "streamUrl": "http://stream.radioparadise.com/beyond-320"
+    },
+    {
+      "id": "wunh_us_db12f168",
+      "title": "WUNH",
+      "subtitle": "Radio",
+      "location": "The United States Of America",
+      "genre": "Radio",
+      "countryCode": "US",
+      "language": "english",
+      "clickCount": 9,
+      "bitrate": 0,
+      "streamUrl": "https://audio-edge-vqwx4.yyz.g.radiomast.io/5cc7d987-c820-4e7d-944a-eb12c71f5674"
+    },
+    {
+      "id": "galaxie_corse_fr_fbd6f52f",
+      "title": "Galaxie Corse",
+      "subtitle": "Hits",
+      "location": "France",
+      "genre": "Hits",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "https://ecmanager4.pro-fhi.net:2680/stream"
+    },
+    {
+      "id": "josema_retro_radio_es_a90f1359",
+      "title": "Josema Retro Radio",
+      "subtitle": "Msx",
+      "location": "Spain",
+      "genre": "Msx",
+      "countryCode": "ES",
+      "language": "spanish",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://radio.josemalop.com/radio"
+    },
+    {
+      "id": "vicecity_fr_fr_ea05ae1d",
+      "title": "Vicecity.fr",
+      "subtitle": "Lo-Fi / House",
+      "location": "France",
+      "genre": "Lo-Fi / House",
+      "countryCode": "FR",
+      "language": "francaise",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://vicecity.fr/icecast/bG9maQ==.ogg"
+    },
+    {
+      "id": "now_ayrshire_radio_gb_dee53737",
+      "title": "Now Ayrshire Radio",
+      "subtitle": "Classic Hits",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Classic Hits",
+      "countryCode": "GB",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "http://uksoutha.streaming.broadcast.radio:30590/nowayrshireradio"
+    },
+    {
+      "id": "bfbs_rewind_gb_8e69f7c5",
+      "title": "BFBS Rewind",
+      "subtitle": "Bfbs",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Bfbs",
+      "countryCode": "GB",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 64,
+      "streamUrl": "http://tx.sharp-stream.com/http_live.php?i=ssvcbfbs21.aac&device=bfbs_rewind"
+    },
+    {
+      "id": "surf_fm_87_6_au_588f313e",
+      "title": "Surf FM 87.6",
+      "subtitle": "Radio",
+      "location": "Australia",
+      "genre": "Radio",
+      "countryCode": "AU",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 48,
+      "streamUrl": "http://video1.getstreamhosting.com:8386/stream"
+    },
+    {
+      "id": "curtin_radio_perth_100_1_fm_aac_au_221b3ecb",
+      "title": "Curtin Radio - Perth - 100.1 FM (AAC+)",
+      "subtitle": "Community Radio",
+      "location": "Australia",
+      "genre": "Community Radio",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 64,
+      "streamUrl": "http://usa7.fastcast4u.com/proxy/curtinfm?mp=%2F1"
+    },
+    {
+      "id": "listnr_kids_hits_hls_au_fb1179a4",
+      "title": "LiSTNR - Kids Hits (HLS)",
+      "subtitle": "Kids Hits",
+      "location": "Australia",
+      "genre": "Kids Hits",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 2,
+      "bitrate": 0,
+      "streamUrl": "http://wz0liw.scahw.com.au/live/kids-hits.stream/playlist.m3u8"
+    },
+    {
+      "id": "radio_ninove_non_stop_hits_be_57fc406f",
+      "title": "Radio Ninove Non-Stop Hits",
+      "subtitle": "Hits",
+      "location": "Belgium",
+      "genre": "Hits",
+      "countryCode": "BE",
+      "language": "dutch",
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "https://nonstophits.streamer.radioninove.be/"
+    },
+    {
+      "id": "ck_deejay_be_79aa6cb9",
+      "title": "CK Deejay",
+      "subtitle": "Club House Trance Dance",
+      "location": "Belgium",
+      "genre": "Club House Trance Dance",
+      "countryCode": "BE",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 0,
+      "streamUrl": "https://radio-pub.be/CKDJ/ckdjmix.mp3"
     }
   ]
 }

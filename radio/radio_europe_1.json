@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-07T02:53:39Z",
+  "updated": "2026-09-08T03:05:50Z",
   "region": "europe",
   "part": 1,
   "of": 8,
@@ -27467,18 +27467,6 @@
       "streamUrl": "http://server7524.streamplus.de/stream.mp3"
     },
     {
-      "id": "123_by_eaca0743",
-      "title": "Радио 123",
-      "subtitle": "Christian",
-      "location": "Belarus",
-      "genre": "Christian",
-      "countryCode": "BY",
-      "language": "russian",
-      "clickCount": 2,
-      "bitrate": 128,
-      "streamUrl": "http://de1.internet-radio.com:8173/stream"
-    },
-    {
       "id": "station_bg_0e7ba644",
       "title": "БНР – Радио Видин",
       "subtitle": "Radio",
@@ -27609,18 +27597,6 @@
       "clickCount": 2,
       "bitrate": 192,
       "streamUrl": "http://stream1.energy.at:8000/vie"
-    },
-    {
-      "id": "radio_ba_ba_0f08189f",
-      "title": "Radio BA",
-      "subtitle": "Radio",
-      "location": "Bosnia And Herzegovina",
-      "genre": "Radio",
-      "countryCode": "BA",
-      "language": "bosnian",
-      "clickCount": 2,
-      "bitrate": 128,
-      "streamUrl": "https://webtvstream.bhtelecom.ba/radio_ba.m3u8"
     },
     {
       "id": "94_3_rs2_de_9579f3fc",
@@ -28197,6 +28173,30 @@
       "clickCount": 3,
       "bitrate": 192,
       "streamUrl": "https://radio.eyeseechaos.net/listen/eye_see_chaos_radio/radio.mp3"
+    },
+    {
+      "id": "shinto_cz_031a03ce",
+      "title": "Shinto",
+      "subtitle": "Radio",
+      "location": "Czechia",
+      "genre": "Radio",
+      "countryCode": "CZ",
+      "language": "czech",
+      "clickCount": 3,
+      "bitrate": 192,
+      "streamUrl": "https://s49.myradiostream.com/8142/listen.mp3"
+    },
+    {
+      "id": "cr_94_4_at_17cda85b",
+      "title": "CR 94.4",
+      "subtitle": "Radio",
+      "location": "Austria",
+      "genre": "Radio",
+      "countryCode": "AT",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 0,
+      "streamUrl": "https://cr944.at:50443/cr944"
     }
   ]
 }

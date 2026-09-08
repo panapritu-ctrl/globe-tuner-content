@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-07T02:53:39Z",
+  "updated": "2026-09-08T03:05:50Z",
   "region": "europe",
   "part": 2,
   "of": 8,
@@ -27995,30 +27995,6 @@
       "streamUrl": "https://tx-2.retro-radio.dk/TX-2"
     },
     {
-      "id": "dr_p1_aac_dk_5bbf616a",
-      "title": "DR P1 (AAC)",
-      "subtitle": "Radio",
-      "location": "Denmark",
-      "genre": "Radio",
-      "countryCode": "DK",
-      "language": "danish",
-      "clickCount": 3,
-      "bitrate": 324,
-      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p1/masterab.m3u8"
-    },
-    {
-      "id": "dr_p4_k_benhavn_aac_dk_b9ea5518",
-      "title": "DR P4 København (AAC)",
-      "subtitle": "Regional Radio",
-      "location": "Denmark",
-      "genre": "Regional Radio",
-      "countryCode": "DK",
-      "language": "danish",
-      "clickCount": 3,
-      "bitrate": 324,
-      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4kobenhavn/masterab.m3u8"
-    },
-    {
       "id": "rpr1_ludwigshafen_de_47d12e58",
       "title": "RPR1. Ludwigshafen",
       "subtitle": "80Er",
@@ -28029,18 +28005,6 @@
       "clickCount": 11,
       "bitrate": 0,
       "streamUrl": "https://stream.rpr1.de/ludwigshafen/mp3-128/radiobrowser"
-    },
-    {
-      "id": "dr_p4_nordjylland_aac_dk_412ae0ef",
-      "title": "DR P4 Nordjylland (AAC)",
-      "subtitle": "Regional Radio",
-      "location": "Denmark",
-      "genre": "Regional Radio",
-      "countryCode": "DK",
-      "language": "danish",
-      "clickCount": 3,
-      "bitrate": 324,
-      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4nordjylland/masterab.m3u8"
     },
     {
       "id": "ring_fm_ee_f0ad3f5c",
@@ -28317,6 +28281,78 @@
       "clickCount": 4,
       "bitrate": 324,
       "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4midtvest/masterab.m3u8"
+    },
+    {
+      "id": "b5_aktuell_de_49936996",
+      "title": "B5 aktuell",
+      "subtitle": "Ard",
+      "location": "Germany",
+      "genre": "Ard",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 14,
+      "bitrate": 0,
+      "streamUrl": "http://streams.br.de/b5aktuell_2.m3u"
+    },
+    {
+      "id": "kiss_fm_eurovision_ee_4c6743fe",
+      "title": "Kiss FM Eurovision",
+      "subtitle": "Dance",
+      "location": "Estonia",
+      "genre": "Dance",
+      "countryCode": "EE",
+      "language": "english",
+      "clickCount": 6,
+      "bitrate": 88,
+      "streamUrl": "https://edge04.cdn.bitflip.ee:8888/KISS_AAC?_i=2e955b68"
+    },
+    {
+      "id": "dr_p4_nordjylland_aac_dk_412ae0ef",
+      "title": "DR P4 Nordjylland (AAC)",
+      "subtitle": "Regional Radio",
+      "location": "Denmark",
+      "genre": "Regional Radio",
+      "countryCode": "DK",
+      "language": "danish",
+      "clickCount": 4,
+      "bitrate": 324,
+      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4nordjylland/masterab.m3u8"
+    },
+    {
+      "id": "dr_p5_k_benhavn_dk_dcda7a55",
+      "title": "DR P5 København",
+      "subtitle": "Danmarks Radio",
+      "location": "Denmark",
+      "genre": "Danmarks Radio",
+      "countryCode": "DK",
+      "language": "danish",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "http://live-icy.dr.dk/A/A25H.mp3"
+    },
+    {
+      "id": "the_lake_radio_dk_1913fa29",
+      "title": "The Lake Radio",
+      "subtitle": "Art Radio",
+      "location": "Denmark",
+      "genre": "Art Radio",
+      "countryCode": "DK",
+      "language": "danish",
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "http://hyades.shoutca.st:8627/stream"
+    },
+    {
+      "id": "dr_p4_k_benhavn_aac_dk_b9ea5518",
+      "title": "DR P4 København (AAC)",
+      "subtitle": "Regional Radio",
+      "location": "Denmark",
+      "genre": "Regional Radio",
+      "countryCode": "DK",
+      "language": "danish",
+      "clickCount": 2,
+      "bitrate": 324,
+      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4kobenhavn/masterab.m3u8"
     }
   ]
 }
