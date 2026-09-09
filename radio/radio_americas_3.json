@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-08T03:05:50Z",
+  "updated": "2026-09-09T03:05:15Z",
   "region": "americas",
   "part": 3,
   "of": 5,
@@ -6808,19 +6808,6 @@
       "language": "spanish",
       "clickCount": 0,
       "bitrate": 48
-    },
-    {
-      "id": "rb2_fan_world_anime_radio_b16b45ca",
-      "title": "Fan World Anime Radio",
-      "subtitle": "Radio",
-      "imageUrl": "https://cdn.instant.audio/images/logos/emisoras-com-mx/fan-world-anime.png",
-      "streamUrl": "http://208.115.202.71:8461/stream",
-      "location": "Mexico",
-      "genre": "Radio",
-      "countryCode": "MX",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 64
     },
     {
       "id": "rb2_fiesta_mexicana_celaya_102_9_fm_1d8fc3d1",
@@ -20864,19 +20851,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb_radio_vibras_92_7fm_b50fbb6a",
-      "title": "Radio Vibras 92.7FM",
-      "subtitle": "Latino, Reggaetón",
-      "imageUrl": "https://i0.wp.com/www.ipparaguay.com.py/wp-content/uploads/2020/10/Radio-Vibras.jpg?resize=1024%2C1024&ssl=1",
-      "streamUrl": "https://rds3.desdeparaguay.net/movvibras/movvibras.stream/playlist.m3u8",
-      "location": "Paraguay",
-      "genre": "Latino",
-      "countryCode": "PY",
-      "language": "spanish",
-      "clickCount": 4,
-      "bitrate": 192
-    },
-    {
       "id": "rb2_radio_ysapy_90_7_fm_cf506fb7",
       "title": "Radio Ysapy 90.7 FM",
       "subtitle": "Dance, Pop",
@@ -26414,18 +26388,6 @@
       "streamUrl": "http://radio.host.com.py:9714/stream"
     },
     {
-      "id": "emisoras_paraguay_106_1_fm_py_6c809248",
-      "title": "Emisoras Paraguay 106.1 FM",
-      "subtitle": "Cumbia",
-      "location": "Paraguay",
-      "genre": "Cumbia",
-      "countryCode": "PY",
-      "language": "spanish",
-      "clickCount": 5,
-      "bitrate": 0,
-      "streamUrl": "https://rds3.desdeparaguay.net/movemisoras/movemisoras.stream/playlist.m3u8"
-    },
-    {
       "id": "minnesota_music_channel_um_5837a566",
       "title": "Minnesota Music Channel",
       "subtitle": "The Station Focuses Entirely On Music Tied To Minnesota'S History And Culture",
@@ -26760,6 +26722,42 @@
       "clickCount": 2,
       "bitrate": 128,
       "streamUrl": "https://s17.ssl-stream.com/proxy/obedira?mp=/live"
+    },
+    {
+      "id": "the_wave_94_5_93_7_castries_lc_44e17838",
+      "title": "The Wave 94.5 & 93.7 Castries",
+      "subtitle": "Adult Contemporary",
+      "location": "Saint Lucia",
+      "genre": "Adult Contemporary",
+      "countryCode": "LC",
+      "language": "english",
+      "clickCount": 7,
+      "bitrate": 32,
+      "streamUrl": "http://ice66.securenetsystems.net/THEWAVE"
+    },
+    {
+      "id": "la_mega_106_9_pr_8c9b6add",
+      "title": "La Mega 106.9",
+      "subtitle": "Radio",
+      "location": "Puerto Rico",
+      "genre": "Radio",
+      "countryCode": "PR",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 96,
+      "streamUrl": "https://liveaudio.lamusica.com/PR_WMEG/playlist.m3u8"
+    },
+    {
+      "id": "vn_radio_mx_944c871b",
+      "title": "VN RADIO",
+      "subtitle": "Música '70 '80 '90 '00",
+      "location": "Mexico",
+      "genre": "Música '70 '80 '90 '00",
+      "countryCode": "MX",
+      "language": "spanish",
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "https://listen.radioking.com/radio/920061/stream/991016"
     }
   ]
 }

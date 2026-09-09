@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-08T03:05:50Z",
+  "updated": "2026-09-09T03:05:15Z",
   "region": "europe",
   "part": 7,
   "of": 8,
@@ -515,19 +515,6 @@
       "genre": "Classic Hits",
       "countryCode": "PL",
       "language": "english",
-      "clickCount": 0,
-      "bitrate": 256
-    },
-    {
-      "id": "rb2_radio_d_wi_k_1684206e",
-      "title": "Radio Dźwięk",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://streamhls.radiodzwiek.slask.pl/dzwiek",
-      "location": "Slaskie, Poland",
-      "genre": "Radio",
-      "countryCode": "PL",
-      "language": "polish",
       "clickCount": 0,
       "bitrate": 256
     },
@@ -16498,19 +16485,6 @@
       "bitrate": 192
     },
     {
-      "id": "rb2_s21_euro_32575de3",
-      "title": "S21 Euro",
-      "subtitle": "Radio",
-      "imageUrl": "https://s21media.pl/s21radio.png",
-      "streamUrl": "https://radiozender.mpbnetwerken.nl/s21radio?v=1.0",
-      "location": "Serbia",
-      "genre": "Radio",
-      "countryCode": "RS",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 384
-    },
-    {
       "id": "rb2_sun_radio_novi_sad_ba8e173e",
       "title": "Sun Radio Novi Sad",
       "subtitle": "Radio",
@@ -21534,19 +21508,6 @@
       "bitrate": 320
     },
     {
-      "id": "rb2_never_b1b69e02",
-      "title": "Never",
-      "subtitle": "Поп-Музыка",
-      "imageUrl": "https://radionever.ru/img/favicon.png",
-      "streamUrl": "https://stream.radionever.ru/",
-      "location": "The Russian Federation",
-      "genre": "Поп-Музыка",
-      "countryCode": "RU",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_nevermind_76d57459",
       "title": "Nevermind",
       "subtitle": "Рок",
@@ -23388,18 +23349,6 @@
       "streamUrl": "https://listen7.myradio24.com/alexx333"
     },
     {
-      "id": "station_ru_5cedfe19",
-      "title": "Ретро Шлягер ФМ",
-      "subtitle": "Разная Музыка",
-      "location": "The Russian Federation",
-      "genre": "Разная Музыка",
-      "countryCode": "RU",
-      "language": null,
-      "clickCount": 6,
-      "bitrate": 128,
-      "streamUrl": "https://listen6.myradio24.com/serega1975"
-    },
-    {
       "id": "radio_centrum_pl_10f7ea53",
       "title": "Radio Centrum",
       "subtitle": "Country",
@@ -23866,18 +23815,6 @@
       "clickCount": 5,
       "bitrate": 192,
       "streamUrl": "https://ice.drumfunk.ru:8050/on.mp3"
-    },
-    {
-      "id": "radio_tequila_dance_romania_ro_6af324bf",
-      "title": "Radio Tequila Dance Romania",
-      "subtitle": "Pop",
-      "location": "Romania",
-      "genre": "Pop",
-      "countryCode": "RO",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 128,
-      "streamUrl": "http://dance.radiotequila.ro:7000/;stream.nsv"
     },
     {
       "id": "radio_s_cafe_rs_b70770b2",
@@ -24612,18 +24549,6 @@
       "streamUrl": "https://naxidigital-rnb128ssl.streaming.rs:8122/;stream.nsv"
     },
     {
-      "id": "ship_fm_pl_f2a38485",
-      "title": "SHIP FM",
-      "subtitle": "24/7",
-      "location": "Poland",
-      "genre": "24/7",
-      "countryCode": "PL",
-      "language": null,
-      "clickCount": 9,
-      "bitrate": 128,
-      "streamUrl": "https://stream.shipfm.online/radio.mp3"
-    },
-    {
       "id": "polnexus_radio_pl_893ee0d7",
       "title": "PolNexus Radio",
       "subtitle": "News",
@@ -25270,6 +25195,150 @@
       "clickCount": 2,
       "bitrate": 32,
       "streamUrl": "http://dreamsiteradiocp4.com:8026/stream"
+    },
+    {
+      "id": "naxi_fresh_radio_rs_5d51b6ba",
+      "title": "Naxi Fresh Radio",
+      "subtitle": "Radio",
+      "location": "Serbia",
+      "genre": "Radio",
+      "countryCode": "RS",
+      "language": "serbian",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://naxidigital-fresh128ssl.streaming.rs:8212/;stream.nsv"
+    },
+    {
+      "id": "radio_kielce_pl_cf7a27a3",
+      "title": "Radio Kielce",
+      "subtitle": "Radio",
+      "location": "Poland",
+      "genre": "Radio",
+      "countryCode": "PL",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://streaming.g-news.pl:8030/rk2"
+    },
+    {
+      "id": "los_bandoleros_radio_ro_f36fdd47",
+      "title": "Los Bandoleros Radio",
+      "subtitle": "Dance",
+      "location": "Romania",
+      "genre": "Dance",
+      "countryCode": "RO",
+      "language": "romanian",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://radio.losbandoleros.ro/listen/losbandoleros/radio.mp3"
+    },
+    {
+      "id": "radio_mackica_narodna_muzika_rs_53b5a0da",
+      "title": "Radio Mackica - Narodna Muzika",
+      "subtitle": "Radio",
+      "location": "Serbia",
+      "genre": "Radio",
+      "countryCode": "RS",
+      "language": "serbian",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://cast2.name.ba:8153/;stream.nsv"
+    },
+    {
+      "id": "radio_trstenik_94_2_rs_594ef003",
+      "title": "Radio Trstenik 94.2",
+      "subtitle": "Pop",
+      "location": "Serbia",
+      "genre": "Pop",
+      "countryCode": "RS",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "http://stream.unlimited.rs:8091/;stream.mp3"
+    },
+    {
+      "id": "life_4_club_pl_da01241c",
+      "title": "Life 4 Club",
+      "subtitle": "Radio",
+      "location": "Poland",
+      "genre": "Radio",
+      "countryCode": "PL",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://life4club.online/listen/live/l4c.mp3"
+    },
+    {
+      "id": "clasic_radio_jazz_bucure_ti_ro_179c3751",
+      "title": "Clasic Radio_Jazz -București",
+      "subtitle": "Jazz",
+      "location": "Romania",
+      "genre": "Jazz",
+      "countryCode": "RO",
+      "language": "română",
+      "clickCount": 3,
+      "bitrate": 192,
+      "streamUrl": "https://live.radioclasic.com/listen/radio_clasic_jazz/live.mp3"
+    },
+    {
+      "id": "super_fm_brasov_93_8_ro_8b2b3d88",
+      "title": "Super FM Brasov 93.8",
+      "subtitle": "Radio",
+      "location": "Romania",
+      "genre": "Radio",
+      "countryCode": "RO",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 192,
+      "streamUrl": "https://live.superfm.ro/stream.mp3?time=1697692801"
+    },
+    {
+      "id": "radio_ok_cluj_napoca_ro_f072d7bd",
+      "title": "RADIO OK -Cluj Napoca",
+      "subtitle": "90S",
+      "location": "Romania",
+      "genre": "90S",
+      "countryCode": "RO",
+      "language": "română",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://radio.sonicpanel.ro/8058/stream"
+    },
+    {
+      "id": "radio_liberty_slagare_bucure_ti_ro_5f4ef426",
+      "title": "Radio Liberty Slagare -București",
+      "subtitle": "Slagare",
+      "location": "Romania",
+      "genre": "Slagare",
+      "countryCode": "RO",
+      "language": "română",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://sonicssl.namehost.ro/7050/stream"
+    },
+    {
+      "id": "bs_radio_classical_cluj_napoca_ro_dfe3ba0c",
+      "title": "BS Radio Classical -Cluj Napoca",
+      "subtitle": "Classical",
+      "location": "Romania",
+      "genre": "Classical",
+      "countryCode": "RO",
+      "language": "română",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://azura.ebsmedia.ro/listen/classical/classical128.mp3?refresh=1779029566606"
+    },
+    {
+      "id": "naxi_90s_rs_453cfb23",
+      "title": "Naxi 90s",
+      "subtitle": "Pop",
+      "location": "Serbia",
+      "genre": "Pop",
+      "countryCode": "RS",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://naxidigital-90s128ssl.streaming.rs:8282/;stream.nsv"
     }
   ]
 }

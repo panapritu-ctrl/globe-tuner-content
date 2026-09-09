@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-08T03:05:50Z",
+  "updated": "2026-09-09T03:05:15Z",
   "region": "europe",
   "part": 1,
   "of": 8,
@@ -5861,19 +5861,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_onib_disco_dc9fdacf",
-      "title": "ONIB Disco",
-      "subtitle": "Radio",
-      "imageUrl": "https://onibradio.com/wp-content/uploads/2024/03/01-ONIB-DISCO-400X400-copie-170x170.jpg",
-      "streamUrl": "https://play.radioking.io/onib-disco/698749?ver=487018",
-      "location": "Belgium",
-      "genre": "Radio",
-      "countryCode": "BE",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 192
-    },
-    {
       "id": "rb2_onib_dj_radio_7c399071",
       "title": "ONIB Dj RADIO",
       "subtitle": "Radio",
@@ -10224,19 +10211,6 @@
       "language": "bulgarian",
       "clickCount": 0,
       "bitrate": 256
-    },
-    {
-      "id": "rb2_folklor_fm_5f656882",
-      "title": "folklor.fm",
-      "subtitle": "Folk, Folklor",
-      "imageUrl": "",
-      "streamUrl": "http://91.227.77.124/folklorfm",
-      "location": "Sofia, Bulgaria",
-      "genre": "Folk",
-      "countryCode": "BG",
-      "language": "bulgarian",
-      "clickCount": 0,
-      "bitrate": 320
     },
     {
       "id": "rb2_kef_fm_bb8fb5d5",
@@ -26987,18 +26961,6 @@
       "streamUrl": "https://live.helsinki.at:8088/live160.mp3"
     },
     {
-      "id": "radio_deep_disco_bg_68542285",
-      "title": "Radio Deep Disco",
-      "subtitle": "Misc",
-      "location": "Bulgaria",
-      "genre": "Misc",
-      "countryCode": "BG",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 192,
-      "streamUrl": "http://79.98.108.170:8000/autodj"
-    },
-    {
       "id": "radioparty_pl_cz_f17ddf65",
       "title": "RadioParty.pl",
       "subtitle": "Radio",
@@ -28043,18 +28005,6 @@
       "streamUrl": "https://webtvstream.bhtelecom.ba/radio_rtrs.m3u8"
     },
     {
-      "id": "radio_pra_a_ba_091c0399",
-      "title": "Radio Prača",
-      "subtitle": "Radio",
-      "location": "Bosnia And Herzegovina",
-      "genre": "Radio",
-      "countryCode": "BA",
-      "language": "bosnian",
-      "clickCount": 2,
-      "bitrate": 128,
-      "streamUrl": "https://webtvstream.bhtelecom.ba/radio_praca.m3u8"
-    },
-    {
       "id": "ro_d_dur_cz_e1266d86",
       "title": "ČRo D-dur",
       "subtitle": "Classical",
@@ -28197,6 +28147,42 @@
       "clickCount": 2,
       "bitrate": 0,
       "streamUrl": "https://cr944.at:50443/cr944"
+    },
+    {
+      "id": "argusradio_al_b3c3f73f",
+      "title": "ArgusRadio",
+      "subtitle": "Deep House",
+      "location": "Albania",
+      "genre": "Deep House",
+      "countryCode": "AL",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "https://stream.argusradio.net/radio.mp3"
+    },
+    {
+      "id": "argusradio_shqip_al_3f664c37",
+      "title": "ArgusRadio Shqip",
+      "subtitle": "Albanian Pop",
+      "location": "Albania",
+      "genre": "Albanian Pop",
+      "countryCode": "AL",
+      "language": "albanian",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://stream.argusradio.net/shqip.mp3"
+    },
+    {
+      "id": "radio_o106_cz_83f735f1",
+      "title": "Radio O106",
+      "subtitle": "Radio",
+      "location": "Czechia",
+      "genre": "Radio",
+      "countryCode": "CZ",
+      "language": "czech",
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "https://listen.radioking.com/radio/442799/stream/497147"
     }
   ]
 }

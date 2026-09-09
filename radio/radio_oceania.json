@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-08T03:05:50Z",
+  "updated": "2026-09-09T03:05:16Z",
   "region": "oceania",
   "stations": [
     {
@@ -2467,19 +2467,6 @@
       "bitrate": 56
     },
     {
-      "id": "rb2_abc_classic_qld_b03ffb8a",
-      "title": "ABC Classic (QLD)",
-      "subtitle": "Classical, Public Radio",
-      "imageUrl": "https://www.abc.net.au/core-assets/listenlive/fallback-classic.png",
-      "streamUrl": "https://live-radio01.mediahubaustralia.com/4FMW/aac/",
-      "location": "Queensland, Australia",
-      "genre": "Classical",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 2,
-      "bitrate": 56
-    },
-    {
       "id": "rb2_abc_classic_2_hls_5ca4267a",
       "title": "ABC Classic 2 HLS",
       "subtitle": "Abc, Classical",
@@ -2500,19 +2487,6 @@
       "genre": "Classical",
       "streamUrl": "http://live-radio01.mediahubaustralia.com/FM2W/aac/",
       "countryCode": "AU"
-    },
-    {
-      "id": "rb2_abc_classic_2_stream_mp3_961fe735",
-      "title": "ABC Classic 2 Stream (MP3)",
-      "subtitle": "Abc, Classical",
-      "imageUrl": "",
-      "streamUrl": "http://live-radio01.mediahubaustralia.com/FM2W/mp3/",
-      "location": "Australia",
-      "genre": "Abc",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 1,
-      "bitrate": 56
     },
     {
       "id": "abc_classic_fm_mp3_au_96099d",
@@ -2845,19 +2819,6 @@
       "bitrate": 56
     },
     {
-      "id": "rb2_abc_local_radio_612_brisbane_mp3_9615e9c5",
-      "title": "ABC Local Radio 612 Brisbane (MP3)",
-      "subtitle": "Abc, Brisbane",
-      "imageUrl": "http://www.abc.net.au/favicon.ico",
-      "streamUrl": "http://live-radio01.mediahubaustralia.com/4LRW/mp3/",
-      "location": "Queensland, Australia",
-      "genre": "Abc",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 2,
-      "bitrate": 56
-    },
-    {
       "id": "rb2_abc_local_radio_630_north_queensland_202_0bdda9bc",
       "title": "ABC Local Radio 630 North Queensland 20230609",
       "subtitle": "Local, News",
@@ -3024,19 +2985,6 @@
       "countryCode": "AU",
       "language": "english",
       "clickCount": 1,
-      "bitrate": 56
-    },
-    {
-      "id": "rb2_abc_local_radio_891_adelaide_aac_9623b41a",
-      "title": "ABC Local Radio 891 Adelaide (AAC)",
-      "subtitle": "Abc, Adelaide",
-      "imageUrl": "http://www.abc.net.au/core-assets/local/favicon-32x32.png",
-      "streamUrl": "http://live-radio01.mediahubaustralia.com/5LRW/aac/",
-      "location": "South Australia, Australia",
-      "genre": "Abc",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 3,
       "bitrate": 56
     },
     {
@@ -18903,6 +18851,18 @@
       "clickCount": 5,
       "bitrate": 0,
       "streamUrl": "https://mediaworks.streamguys1.com/more-ham-high_icy"
+    },
+    {
+      "id": "the_platform_kiwi_nz_8f265bf2",
+      "title": "The Platform Kiwi",
+      "subtitle": "Talk Radio",
+      "location": "New Zealand",
+      "genre": "Talk Radio",
+      "countryCode": "NZ",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 96,
+      "streamUrl": "https://streaming.shoutcast.com/the-platformlive"
     }
   ]
 }

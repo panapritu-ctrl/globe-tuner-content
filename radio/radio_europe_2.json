@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-08T03:05:50Z",
+  "updated": "2026-09-09T03:05:16Z",
   "region": "europe",
   "part": 2,
   "of": 8,
@@ -27971,18 +27971,6 @@
       "streamUrl": "https://netradio.radio4.dk/radio4"
     },
     {
-      "id": "dr_p4_trekanten_aac_dk_a030938a",
-      "title": "DR P4 Trekanten (AAC)",
-      "subtitle": "Regional Radio",
-      "location": "Denmark",
-      "genre": "Regional Radio",
-      "countryCode": "DK",
-      "language": "danish",
-      "clickCount": 3,
-      "bitrate": 324,
-      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4trekanten/masterab.m3u8"
-    },
-    {
       "id": "retro_millennium_dk_56510ebc",
       "title": "Retro Millennium",
       "subtitle": "Radio",
@@ -28163,18 +28151,6 @@
       "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p6beat/masterab.m3u8"
     },
     {
-      "id": "dr_p5_k_benhavn_aac_dk_590a0c64",
-      "title": "DR P5 København (AAC)",
-      "subtitle": "Regional Radio",
-      "location": "Denmark",
-      "genre": "Regional Radio",
-      "countryCode": "DK",
-      "language": "danish",
-      "clickCount": 3,
-      "bitrate": 324,
-      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p5kobenhavn/masterab.m3u8"
-    },
-    {
       "id": "dr_p4_bornholm_aac_dk_543b0681",
       "title": "DR P4 Bornholm (AAC)",
       "subtitle": "Regional Radio",
@@ -28353,6 +28329,90 @@
       "clickCount": 2,
       "bitrate": 324,
       "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4kobenhavn/masterab.m3u8"
+    },
+    {
+      "id": "dr_p5_syd_dk_706dd702",
+      "title": "DR P5 Syd",
+      "subtitle": "Radio",
+      "location": "Denmark",
+      "genre": "Radio",
+      "countryCode": "DK",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 324,
+      "streamUrl": "https://drliveradio.akamaized.net/hls/live/2022411/p5syd/masterab.m3u8"
+    },
+    {
+      "id": "dr_p4_syd_aac_dk_74eaa8c5",
+      "title": "DR P4 Syd (AAC)",
+      "subtitle": "Regional Radio",
+      "location": "Denmark",
+      "genre": "Regional Radio",
+      "countryCode": "DK",
+      "language": "danish",
+      "clickCount": 3,
+      "bitrate": 324,
+      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4syd/masterab.m3u8"
+    },
+    {
+      "id": "dr_p5_k_benhavn_aac_dk_590a0c64",
+      "title": "DR P5 København (AAC)",
+      "subtitle": "Regional Radio",
+      "location": "Denmark",
+      "genre": "Regional Radio",
+      "countryCode": "DK",
+      "language": "danish",
+      "clickCount": 3,
+      "bitrate": 324,
+      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p5kobenhavn/masterab.m3u8"
+    },
+    {
+      "id": "dr_p5_syd_aac_dk_a856bcfb",
+      "title": "DR P5 Syd (AAC)",
+      "subtitle": "Regional Radio",
+      "location": "Denmark",
+      "genre": "Regional Radio",
+      "countryCode": "DK",
+      "language": "danish",
+      "clickCount": 2,
+      "bitrate": 324,
+      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p5syd/masterab.m3u8"
+    },
+    {
+      "id": "dr_p4_esbjerg_aac_dk_5c351d9b",
+      "title": "DR P4 Esbjerg (AAC)",
+      "subtitle": "Regional Radio",
+      "location": "Denmark",
+      "genre": "Regional Radio",
+      "countryCode": "DK",
+      "language": "danish",
+      "clickCount": 2,
+      "bitrate": 324,
+      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4esbjerg/masterab.m3u8"
+    },
+    {
+      "id": "dr_p5_stjylland_aac_dk_6625c1ab",
+      "title": "DR P5 Østjylland (AAC)",
+      "subtitle": "Regional Radio",
+      "location": "Denmark",
+      "genre": "Regional Radio",
+      "countryCode": "DK",
+      "language": "danish",
+      "clickCount": 2,
+      "bitrate": 324,
+      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p5ostjylland/masterab.m3u8"
+    },
+    {
+      "id": "dr_p4_trekanten_aac_dk_a030938a",
+      "title": "DR P4 Trekanten (AAC)",
+      "subtitle": "Danish",
+      "location": "Denmark",
+      "genre": "Danish",
+      "countryCode": "DK",
+      "language": "danish",
+      "clickCount": 2,
+      "bitrate": 324,
+      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4trekanten/masterab.m3u8"
     }
   ]
 }

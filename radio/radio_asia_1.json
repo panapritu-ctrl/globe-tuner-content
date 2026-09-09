@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-08T03:05:50Z",
+  "updated": "2026-09-09T03:05:15Z",
   "region": "asia",
   "part": 1,
   "of": 3,
@@ -11028,19 +11028,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_chengtu_economics_radio_41a7f055",
-      "title": "Chengtu Economics Radio",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://ls.qingting.fm/live/1121.m3u8",
-      "location": "Szechuan, China",
-      "genre": "Radio",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_chengtu_golden_radio_d597d965",
       "title": "Chengtu Golden Radio",
       "subtitle": "Radio",
@@ -15042,19 +15029,6 @@
       "countryCode": "CN",
       "language": "chinese",
       "clickCount": 1,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_station_dbd753f1",
-      "title": "厦门闽南之声",
-      "subtitle": "News",
-      "imageUrl": "",
-      "streamUrl": "http://lhttp.qingting.fm/live/1740/64k.mp3",
-      "location": "Fukien, China",
-      "genre": "News",
-      "countryCode": "CN",
-      "language": "hokkien",
-      "clickCount": 2,
       "bitrate": 128
     },
     {
@@ -27011,6 +26985,126 @@
       "clickCount": 2,
       "bitrate": 128,
       "streamUrl": "http://drive.uber.radio/uber/crstrauss/icecast.audio"
+    },
+    {
+      "id": "big_big_mix_cn_2b2f38b1",
+      "title": "BIG BIG MIX 精选歌单",
+      "subtitle": "Radio",
+      "location": "China",
+      "genre": "Radio",
+      "countryCode": "CN",
+      "language": null,
+      "clickCount": 7,
+      "bitrate": 0,
+      "streamUrl": "https://cn.bigbigmix.com/audio/stream"
+    },
+    {
+      "id": "dlr_5_cn_b03197bc",
+      "title": "DLR-5 大连音乐广播",
+      "subtitle": "Fashion",
+      "location": "China",
+      "genre": "Fashion",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://lhttp.qingting.fm/live/1084/64k.mp3"
+    },
+    {
+      "id": "c_r_kiri_te_kanawa_ae_11a93cc6",
+      "title": "C.R. - Kiri Te Kanawa",
+      "subtitle": "Classical",
+      "location": "The United Arab Emirates",
+      "genre": "Classical",
+      "countryCode": "AE",
+      "language": "engilsh",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "http://drive.uber.radio/uber/crkiritekanawa/icecast.audio"
+    },
+    {
+      "id": "80_cn_ad38a003",
+      "title": "80后音悦台·河南网络电台",
+      "subtitle": "Radio",
+      "location": "China",
+      "genre": "Radio",
+      "countryCode": "CN",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://play-radio-stream3.hndt.com/now/SFZeH2cb/chunklist.m3u8"
+    },
+    {
+      "id": "station_cn_2b3a3f5b",
+      "title": "桓仁电台",
+      "subtitle": "Radio",
+      "location": "China",
+      "genre": "Radio",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://lhttp-hw.qtfm.cn/live/5022699/64k.mp3"
+    },
+    {
+      "id": "c_r_monserrat_caballe_ae_be8e860e",
+      "title": "C.R. - Monserrat Caballe",
+      "subtitle": "Classical",
+      "location": "The United Arab Emirates",
+      "genre": "Classical",
+      "countryCode": "AE",
+      "language": "english",
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "http://drive.uber.radio/uber/crmonserratcaballe/icecast.audio"
+    },
+    {
+      "id": "c_r_marin_alsop_ae_3679c679",
+      "title": "C.R. - Marin Alsop",
+      "subtitle": "Classical",
+      "location": "The United Arab Emirates",
+      "genre": "Classical",
+      "countryCode": "AE",
+      "language": "engilsh",
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "http://drive.uber.radio/uber/crmarinalsop/icecast.audio"
+    },
+    {
+      "id": "c_r_andrea_bocelli_ae_c8031240",
+      "title": "C.R. - Andrea Bocelli",
+      "subtitle": "Classical",
+      "location": "The United Arab Emirates",
+      "genre": "Classical",
+      "countryCode": "AE",
+      "language": "engilsh",
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "http://drive.uber.radio/uber/crandreabocelli/icecast.audio"
+    },
+    {
+      "id": "station_cn_312cf56c",
+      "title": "江门旅游之声",
+      "subtitle": "Music",
+      "location": "China",
+      "genre": "Music",
+      "countryCode": "CN",
+      "language": "cantonese",
+      "clickCount": 2,
+      "bitrate": 0,
+      "streamUrl": "https://lhttp-hw.qtfm.cn/live/1283/64k.mp3"
+    },
+    {
+      "id": "station_cn_31955bf0",
+      "title": "大兴安岭综合广播",
+      "subtitle": "Agriculture",
+      "location": "China",
+      "genre": "Agriculture",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 2,
+      "bitrate": 0,
+      "streamUrl": "https://lhttp-hw.qtfm.cn/live/20500057/64k.mp3"
     }
   ]
 }

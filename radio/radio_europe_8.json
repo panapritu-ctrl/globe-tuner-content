@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-08T03:05:50Z",
+  "updated": "2026-09-09T03:05:16Z",
   "region": "europe",
   "part": 8,
   "of": 8,
@@ -13590,19 +13590,6 @@
       "bitrate": 392
     },
     {
-      "id": "rb2_93_5_fm_14ba04c2",
-      "title": "Радио России ГТРК Тверь 93.5 FM",
-      "subtitle": "Music",
-      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240628_231524994.jpg?alt=media&token=acac8d93-3379-4c6d-a571-d41e499b583d",
-      "streamUrl": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/tver/radio_russia/index.m3u8",
-      "location": "The Russian Federation",
-      "genre": "Music",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 0,
-      "bitrate": 392
-    },
-    {
       "id": "rb2_89_1_fm_c4ab17c2",
       "title": "Радио России Липецк 89.1 FM",
       "subtitle": "News, Talk",
@@ -25116,6 +25103,30 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://online.z-polus.info/hq"
+    },
+    {
+      "id": "radio_caprice_russian_rock_bard_rock_ru_ae2ec288",
+      "title": "Radio Caprice - Russian Rock / Bard Rock",
+      "subtitle": "Russian Bard Rock",
+      "location": "The Russian Federation",
+      "genre": "Russian Bard Rock",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 48,
+      "streamUrl": "http://79.120.77.11:8002/rockru"
+    },
+    {
+      "id": "mu_ru_91507b6d",
+      "title": "MUŠ",
+      "subtitle": "Music",
+      "location": "The Russian Federation",
+      "genre": "Music",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://radio.myudm.ru:10010/efir"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-08T03:05:50Z",
+  "updated": "2026-09-09T03:05:15Z",
   "region": "europe",
   "part": 5,
   "of": 8,
@@ -16560,19 +16560,6 @@
       "bitrate": 192
     },
     {
-      "id": "rb2_tri_fm_57ec4019",
-      "title": "Trió FM",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://92.119.123.141:9090/stream",
-      "location": "Hungary",
-      "genre": "Radio",
-      "countryCode": "HU",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_t_ska_r_di_963397bc",
       "title": "Táska Rádió",
       "subtitle": "Pop, Student Radio",
@@ -17779,19 +17766,6 @@
       "language": null,
       "clickCount": 0,
       "bitrate": 192
-    },
-    {
-      "id": "rb2_pacific_fm_f917a84a",
-      "title": "Pacific FM",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://radiozender.mpbnetwerken.nl/pacificfm",
-      "location": "Ireland",
-      "genre": "Radio",
-      "countryCode": "IE",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 256
     },
     {
       "id": "rb2_phantom_radio_ireland_9c2a39db",
@@ -27782,6 +27756,78 @@
       "clickCount": 2,
       "bitrate": 128,
       "streamUrl": "http://civilradio.hu:8000/listen.mp3"
+    },
+    {
+      "id": "radio_gamma_magic_it_8bf95d64",
+      "title": "Radio Gamma Magic",
+      "subtitle": "80S",
+      "location": "Italy",
+      "genre": "80S",
+      "countryCode": "IT",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "http://95.110.186.253:8020/magic.mp3"
+    },
+    {
+      "id": "birdhill_radio_ie_7d1cad75",
+      "title": "Birdhill Radio",
+      "subtitle": "Radio",
+      "location": "Ireland",
+      "genre": "Radio",
+      "countryCode": "IE",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://w42pfn4y.hostingenergy.com/"
+    },
+    {
+      "id": "dance_zone_musical_factory_it_cf3198dd",
+      "title": "Dance Zone - Musical Factory",
+      "subtitle": "Radio",
+      "location": "Italy",
+      "genre": "Radio",
+      "countryCode": "IT",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://stream.musicalfactory.it:8020/radio.mp3"
+    },
+    {
+      "id": "radio_kastav_hr_1ebac61b",
+      "title": "RADIO KASTAV",
+      "subtitle": "Radio",
+      "location": "Croatia",
+      "genre": "Radio",
+      "countryCode": "HR",
+      "language": "croatian",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "http://proxima.shoutca.st:8559/stream"
+    },
+    {
+      "id": "ozone_fm_hu_693c5f18",
+      "title": "OZONE FM",
+      "subtitle": "Top Hits",
+      "location": "Hungary",
+      "genre": "Top Hits",
+      "countryCode": "HU",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "https://oxygenmusic.hu:8000/ozonefm_128"
+    },
+    {
+      "id": "kpop_radio_hu_fe2835e7",
+      "title": "Kpop Radio",
+      "subtitle": "Dance",
+      "location": "Hungary",
+      "genre": "Dance",
+      "countryCode": "HU",
+      "language": "hungarian",
+      "clickCount": 2,
+      "bitrate": 192,
+      "streamUrl": "https://s5.radio.co/s078df1838/listen"
     }
   ]
 }

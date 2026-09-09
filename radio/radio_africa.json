@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-08T03:05:50Z",
+  "updated": "2026-09-09T03:05:15Z",
   "region": "africa",
   "stations": [
     {
@@ -3791,15 +3791,6 @@
       "genre": "Music",
       "countryCode": "NE",
       "streamUrl": "http://stream.zeno.fm/1y2c3qbgbchvv"
-    },
-    {
-      "id": "1radio_oguta_community_ng",
-      "title": "1Radio Oguta - Community",
-      "subtitle": "MP3 64kbps",
-      "location": "Imo, Nigeria",
-      "genre": "Music",
-      "countryCode": "NG",
-      "streamUrl": "https://fm.imediaport.com/1radio.oguta"
     },
     {
       "id": "adamimogo_fm_ng_221858",
@@ -9314,18 +9305,6 @@
       "streamUrl": "https://stream-159.zeno.fm/vyxwdk08apxtv"
     },
     {
-      "id": "angel_fm_gh_42028525",
-      "title": "Angel FM",
-      "subtitle": "Arts",
-      "location": "Ghana",
-      "genre": "Arts",
-      "countryCode": "GH",
-      "language": "akan",
-      "clickCount": 8,
-      "bitrate": 64,
-      "streamUrl": "https://atunwadigital.streamguys1.com/angelfm"
-    },
-    {
       "id": "radio_misk_tn_a2beba41",
       "title": "Radio Misk",
       "subtitle": "Radio",
@@ -9878,18 +9857,6 @@
       "streamUrl": "https://radio.universalhealthradio.org/uhr-sw.mp3"
     },
     {
-      "id": "pikine_diaspora_radio_sn_368c735a",
-      "title": "Pikine Diaspora Radio",
-      "subtitle": "Radio",
-      "location": "Senegal",
-      "genre": "Radio",
-      "countryCode": "SN",
-      "language": null,
-      "clickCount": 3,
-      "bitrate": 0,
-      "streamUrl": "http://cdn.voscast.com/resources/?key=563fcd75f43e77334d6fb664b7358f9e&c=winamp"
-    },
-    {
       "id": "allos_fm_gh_e1c5cada",
       "title": "ALLOS FM",
       "subtitle": "Radio",
@@ -10008,18 +9975,6 @@
       "clickCount": 5,
       "bitrate": 0,
       "streamUrl": "https://stream-178.surfernetwork.com/v3geyw3zrzzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2M2dleXczenJ6enV2IiwiaG9zdCI6InN0cmVhbS0xNzguc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiI1X2lERXMxNlM5aW1pZzZCVUJfdlNBIiwiaWF0IjoxNzg4MDI2MjcwLCJleHAiOjE3ODgwMjYzMzB9.2JhqLINyX56HaZQucxs5wn7_PDNbhZCwN_sNvvbYdk8"
-    },
-    {
-      "id": "cidade_fm_cabo_verde_cv_6fbeea82",
-      "title": "Cidade FM Cabo Verde",
-      "subtitle": "Radio",
-      "location": "Cabo Verde",
-      "genre": "Radio",
-      "countryCode": "CV",
-      "language": null,
-      "clickCount": 3,
-      "bitrate": 64,
-      "streamUrl": "https://hts02.brascast.com:9288/stream"
     },
     {
       "id": "great_hits_manchester_ug_8c855e46",
@@ -10341,9 +10296,21 @@
       "genre": "Radio",
       "countryCode": "ET",
       "language": null,
-      "clickCount": 6,
+      "clickCount": 9,
       "bitrate": 128,
       "streamUrl": "https://bisratfm-atunwadigital.streamguys1.com/bisratfm"
+    },
+    {
+      "id": "pikine_diaspora_radio_sn_368c735a",
+      "title": "Pikine Diaspora Radio",
+      "subtitle": "Radio",
+      "location": "Senegal",
+      "genre": "Radio",
+      "countryCode": "SN",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "http://cdn.voscast.com/resources/?key=563fcd75f43e77334d6fb664b7358f9e&c=winamp"
     }
   ]
 }
