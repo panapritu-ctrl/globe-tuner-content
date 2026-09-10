@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-09T03:05:15Z",
+  "updated": "2026-09-10T03:05:23Z",
   "region": "americas",
   "part": 3,
   "of": 5,
@@ -20469,32 +20469,6 @@
       "bitrate": 48
     },
     {
-      "id": "rb2_exclusiva_fm_103_7_a3fe830c",
-      "title": "Exclusiva FM 103.7",
-      "subtitle": "Music",
-      "imageUrl": "",
-      "streamUrl": "https://rds3.desdeparaguay.net/movexclusiva/movexclusiva.stream/playlist.m3u8",
-      "location": "Paraguay",
-      "genre": "Music",
-      "countryCode": "PY",
-      "language": "español paraguay",
-      "clickCount": 2,
-      "bitrate": 96
-    },
-    {
-      "id": "rb_fm_popular_103_1_b3880ebb",
-      "title": "FM POPULAR 103.1",
-      "subtitle": "Music",
-      "imageUrl": "https://hoypyspace.sfo2.cdn.digitaloceanspaces.com/imagenes/favicon-150x150.png",
-      "streamUrl": "https://rds3.desdeparaguay.net/transpopular/transpopular/playlist.m3u8",
-      "location": "Paraguay",
-      "genre": "Music",
-      "countryCode": "PY",
-      "language": "español paraguay",
-      "clickCount": 1,
-      "bitrate": 33
-    },
-    {
       "id": "rb2_fabulosa_fm_104_5_9dc192f2",
       "title": "Fabulosa FM 104.5",
       "subtitle": "Folclore, Music",
@@ -26758,6 +26732,114 @@
       "clickCount": 2,
       "bitrate": 128,
       "streamUrl": "https://listen.radioking.com/radio/920061/stream/991016"
+    },
+    {
+      "id": "fm_popular_103_1_py_0c494648",
+      "title": "FM POPULAR 103.1",
+      "subtitle": "Music",
+      "location": "Paraguay",
+      "genre": "Music",
+      "countryCode": "PY",
+      "language": "español paraguay",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://rds3.desdeparaguay.net/transpopular/transpopular/playlist.m3u8"
+    },
+    {
+      "id": "legacy_fm_la_dimensi_n_de_tus_sentidos_mx_1f5eb8d0",
+      "title": "Legacy FM - \"La Dimensión de Tus Sentidos\".",
+      "subtitle": "70S",
+      "location": "Mexico",
+      "genre": "70S",
+      "countryCode": "MX",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 96,
+      "streamUrl": "https://servidor16-2.brlogic.com:7062/live"
+    },
+    {
+      "id": "radio_tv_sure_a_puno_juliaca_pe_f889fe3b",
+      "title": "Radio TV. Sureña - Puno, Juliaca",
+      "subtitle": "Radio",
+      "location": "Peru",
+      "genre": "Radio",
+      "countryCode": "PE",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://stream-204.surfernetwork.com/p7d5fpx4xnhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwN2Q1ZnB4NHhuaHZ2IiwiaG9zdCI6InN0cmVhbS0yMDQuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IjZDUXRXckg2UkN5MDQ4Q2lWbFk0d0EiLCJpYXQiOjE3ODg2Njk5OTMsImV4cCI6MTc4ODY3MDA1M30.p-Jl1PCffNN6pkRDFz0VhwNgcVTq2LcfTAhGev4CGns"
+    },
+    {
+      "id": "fidelity_95_7_pr_90edfd65",
+      "title": "Fidelity 95.7",
+      "subtitle": "Radio",
+      "location": "Puerto Rico",
+      "genre": "Radio",
+      "countryCode": "PR",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://server7.servistreaming.com/proxy/fidelity?_=1&mp=/stream?type=.mp3"
+    },
+    {
+      "id": "exclusiva_fm_103_7_py_08feb429",
+      "title": "Exclusiva FM 103.7",
+      "subtitle": "Music",
+      "location": "Paraguay",
+      "genre": "Music",
+      "countryCode": "PY",
+      "language": "español paraguay",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://rds3.desdeparaguay.net/movexclusiva/movexclusiva.stream/playlist.m3u8"
+    },
+    {
+      "id": "radio_vibras_92_7fm_py_3a850643",
+      "title": "Radio Vibras 92.7FM",
+      "subtitle": "Latino",
+      "location": "Paraguay",
+      "genre": "Latino",
+      "countryCode": "PY",
+      "language": "spanish",
+      "clickCount": 3,
+      "bitrate": 32,
+      "streamUrl": "https://rds3.desdeparaguay.net/movvibras/movvibras.stream/playlist.m3u8"
+    },
+    {
+      "id": "emisoras_paraguay_106_1_fm_py_6c809248",
+      "title": "Emisoras Paraguay 106.1 FM",
+      "subtitle": "Cumbia",
+      "location": "Paraguay",
+      "genre": "Cumbia",
+      "countryCode": "PY",
+      "language": "spanish",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://rds3.desdeparaguay.net/movemisoras/movemisoras.stream/playlist.m3u8"
+    },
+    {
+      "id": "futura_92_3_gt_f630ca12",
+      "title": "Futura 92.3",
+      "subtitle": "Radio",
+      "location": "Guatemala",
+      "genre": "Radio",
+      "countryCode": "GT",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 256,
+      "streamUrl": "https://unsaved-gadfly-addilyn.ngrok-free.dev/mystream.mp3"
+    },
+    {
+      "id": "x107_1_ky_e73b5d08",
+      "title": "X107.1",
+      "subtitle": "Pop",
+      "location": "The Cayman Islands",
+      "genre": "Pop",
+      "countryCode": "KY",
+      "language": "english",
+      "clickCount": 2,
+      "bitrate": 64,
+      "streamUrl": "https://ice23.securenetsystems.net/X1071?playSessionID=C8803655-9BCC-E3A9-EB64CD924FCD83A6"
     }
   ]
 }

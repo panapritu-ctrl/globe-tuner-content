@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-09T03:05:15Z",
+  "updated": "2026-09-10T03:05:23Z",
   "region": "europe",
   "part": 5,
   "of": 8,
@@ -6507,19 +6507,6 @@
       "language": "english",
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_velvet_jazz_radio_5032bba2",
-      "title": "Velvet Jazz Radio",
-      "subtitle": "Jazz, Smooth Jazz",
-      "imageUrl": "http://v2202605357352458399.happysrv.de/img/velvet_radio.png",
-      "streamUrl": "http://152.53.229.53:8000/radio.mp3",
-      "location": "Greece",
-      "genre": "Jazz",
-      "countryCode": "GR",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 192
     },
     {
       "id": "rb2_venus_91_2270e382",
@@ -27278,18 +27265,6 @@
       "streamUrl": "http://gbradio.cdn.tibus.net/LMFMCountry?aw_0_1st.platform=website&aw_0_1st.playerid=wireless-website&aw_0_req.gdpr=true&aw_0_awz.listenerid=#ADVERTISINGID&_=223438"
     },
     {
-      "id": "gem_radio_new_wave_ie_61592c3c",
-      "title": "Gem Radio New Wave",
-      "subtitle": "70'S",
-      "location": "Ireland",
-      "genre": "70'S",
-      "countryCode": "IE",
-      "language": null,
-      "clickCount": 5,
-      "bitrate": 128,
-      "streamUrl": "https://gemradionw.radioca.st/;stream.nsv"
-    },
-    {
       "id": "92_5_phoenix_fm_ie_39ad458c",
       "title": "92.5 Phoenix FM",
       "subtitle": "Community Radio",
@@ -27758,18 +27733,6 @@
       "streamUrl": "http://civilradio.hu:8000/listen.mp3"
     },
     {
-      "id": "radio_gamma_magic_it_8bf95d64",
-      "title": "Radio Gamma Magic",
-      "subtitle": "80S",
-      "location": "Italy",
-      "genre": "80S",
-      "countryCode": "IT",
-      "language": "english",
-      "clickCount": 5,
-      "bitrate": 128,
-      "streamUrl": "http://95.110.186.253:8020/magic.mp3"
-    },
-    {
       "id": "birdhill_radio_ie_7d1cad75",
       "title": "Birdhill Radio",
       "subtitle": "Radio",
@@ -27828,6 +27791,78 @@
       "clickCount": 2,
       "bitrate": 192,
       "streamUrl": "https://s5.radio.co/s078df1838/listen"
+    },
+    {
+      "id": "rai_isoradio_it_7dc1e834",
+      "title": "Rai Isoradio",
+      "subtitle": "Public Radio",
+      "location": "Italy",
+      "genre": "Public Radio",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 15,
+      "bitrate": 256,
+      "streamUrl": "http://icestreaming.rai.it/6.mp3"
+    },
+    {
+      "id": "midlands_103_ie_a471aeda",
+      "title": "Midlands 103",
+      "subtitle": "Radio",
+      "location": "Ireland",
+      "genre": "Radio",
+      "countryCode": "IE",
+      "language": null,
+      "clickCount": 7,
+      "bitrate": 128,
+      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/MIDLANDS_103.mp3"
+    },
+    {
+      "id": "radio_ciccio_riccio_it_d00ba74b",
+      "title": "Radio Ciccio Riccio",
+      "subtitle": "Varied",
+      "location": "Italy",
+      "genre": "Varied",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 7,
+      "bitrate": 0,
+      "streamUrl": "https://stream5.xdevel.com/audio0s975942-758/stream/icecast.audio"
+    },
+    {
+      "id": "gem_radio_new_wave_ie_61592c3c",
+      "title": "Gem Radio New Wave",
+      "subtitle": "70'S",
+      "location": "Ireland",
+      "genre": "70'S",
+      "countryCode": "IE",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://gemradionw.radioca.st/;stream.nsv"
+    },
+    {
+      "id": "mixlive_net_psybient_sunset_ie_69a7507c",
+      "title": "MixLive.net - Psybient Sunset",
+      "subtitle": "Darkpsy",
+      "location": "Ireland",
+      "genre": "Darkpsy",
+      "countryCode": "IE",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "https://listen.openstream.co/6517/audio"
+    },
+    {
+      "id": "kiss_kiss_italia_it_d829d624",
+      "title": "Kiss kiss italia",
+      "subtitle": "Radio",
+      "location": "Italy",
+      "genre": "Radio",
+      "countryCode": "IT",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://wma07.fluidstream.net:3616/;stream.nsv"
     }
   ]
 }

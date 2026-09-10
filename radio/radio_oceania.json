@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-09T03:05:16Z",
+  "updated": "2026-09-10T03:05:23Z",
   "region": "oceania",
   "stations": [
     {
@@ -15511,19 +15511,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_triple_t_townsville_103_9_fm_mp3_bba6aaf9",
-      "title": "Triple T - Townsville - 103.9 FM (MP3)",
-      "subtitle": "Community Radio",
-      "imageUrl": "https://i.ibb.co/1zc4nsP/215045921-1645228852332991-8601877974852092896-n.jpg",
-      "streamUrl": "http://159.196.29.55:7000/TripleTFM",
-      "location": "Queensland, Australia",
-      "genre": "Community Radio",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 96
-    },
-    {
       "id": "rb2_triple_u_shoalhaven_community_radio_nowr_e805727e",
       "title": "Triple U - Shoalhaven Community Radio - Nowra - 104.5 FM (MP3)",
       "subtitle": "Community Radio, Music",
@@ -16105,15 +16092,6 @@
       "bitrate": 64
     },
     {
-      "id": "double_j_aac_nsw_vic_act_tas_au_071837",
-      "title": "double j | aac | NSW, VIC, ACT, TAS",
-      "subtitle": "Abc",
-      "location": "NSW, VIC, ACT, TAS, Australia",
-      "genre": "Indie",
-      "streamUrl": "http://live-radio01.mediahubaustralia.com/DJDW/aac/",
-      "countryCode": "AU"
-    },
-    {
       "id": "rb2_hit104_7_canberra_8c936ad3",
       "title": "hit104.7 Canberra",
       "subtitle": "Radio",
@@ -16551,19 +16529,6 @@
       "genre": "University Radio",
       "streamUrl": "https://streams.95bfm.com/stream112",
       "countryCode": "NZ"
-    },
-    {
-      "id": "rb2_awa_fm_996d7cd0",
-      "title": "AWA FM",
-      "subtitle": "Community Radio, Iwi",
-      "imageUrl": "https://awafm.co.nz/wp-content/uploads/2021/05/AWA-Logo-Plain.png",
-      "streamUrl": "https://wowza.iwi.radio/icecast-to-hls/ngrp:AwaFM.stream/playlist.m3u8",
-      "location": "Whanganui, New Zealand",
-      "genre": "Community Radio",
-      "countryCode": "NZ",
-      "language": "english",
-      "clickCount": 1,
-      "bitrate": 63
     },
     {
       "id": "rb2_access_radio_taranaki_104_4fm_bfb9a5f6",
@@ -18863,6 +18828,18 @@
       "clickCount": 4,
       "bitrate": 96,
       "streamUrl": "https://streaming.shoutcast.com/the-platformlive"
+    },
+    {
+      "id": "tlc_radio_northland_nz_1199c424",
+      "title": "TLC Radio Northland",
+      "subtitle": "Radio",
+      "location": "New Zealand",
+      "genre": "Radio",
+      "countryCode": "NZ",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "http://203.118.136.79:88/broadwave.mp3"
     }
   ]
 }

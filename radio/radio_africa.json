@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-09T03:05:15Z",
+  "updated": "2026-09-10T03:05:23Z",
   "region": "africa",
   "stations": [
     {
@@ -10311,6 +10311,66 @@
       "clickCount": 3,
       "bitrate": 0,
       "streamUrl": "http://cdn.voscast.com/resources/?key=563fcd75f43e77334d6fb664b7358f9e&c=winamp"
+    },
+    {
+      "id": "metro_fm_za_fa8eecda",
+      "title": "Metro FM",
+      "subtitle": "Radio",
+      "location": "South Africa",
+      "genre": "Radio",
+      "countryCode": "ZA",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 48,
+      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/METROFMAAC.aac"
+    },
+    {
+      "id": "phalaphala_fm_za_d417a795",
+      "title": "Phalaphala FM",
+      "subtitle": "Radio",
+      "location": "South Africa",
+      "genre": "Radio",
+      "countryCode": "ZA",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/PHALAPHALAAAC.aac"
+    },
+    {
+      "id": "ghett_ke_ac43311f",
+      "title": "GHETT",
+      "subtitle": "Classical",
+      "location": "Kenya",
+      "genre": "Classical",
+      "countryCode": "KE",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "http://stream.zeno.fm/kvudezx1h2zuv"
+    },
+    {
+      "id": "godfrey_okoye_university_radio_106_9fm_ng_54c0b63c",
+      "title": "Godfrey Okoye University Radio 106.9fm",
+      "subtitle": "Radio",
+      "location": "Nigeria",
+      "genre": "Radio",
+      "countryCode": "NG",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://us5new.listen2myradio.com:2199/stream.php?port=8178"
+    },
+    {
+      "id": "lawson_radio_96_3_gh_f5d3d6e0",
+      "title": "Lawson Radio 96.3",
+      "subtitle": "Radio",
+      "location": "Ghana",
+      "genre": "Radio",
+      "countryCode": "GH",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 64,
+      "streamUrl": "https://lawsonfm963-atunwadigital.streamguys1.com/lawsonfm963"
     }
   ]
 }

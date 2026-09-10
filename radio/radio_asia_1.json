@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-09T03:05:15Z",
+  "updated": "2026-09-10T03:05:23Z",
   "region": "asia",
   "part": 1,
   "of": 3,
@@ -9982,15 +9982,6 @@
       "genre": "Music",
       "countryCode": "BH",
       "streamUrl": "https://5c7b683162943.streamlock.net/live/ngrp:radio-93-3_all/playlist.m3u8"
-    },
-    {
-      "id": "live_fm_bh",
-      "title": "Live FM",
-      "subtitle": "AAC 0kbps",
-      "location": "Bahrain",
-      "genre": "Music",
-      "countryCode": "BH",
-      "streamUrl": "https://stream.aiir.com/dbv0rxpwp6ytv"
     },
     {
       "id": "traditional_radio_95_0_bh",
@@ -27105,6 +27096,54 @@
       "clickCount": 2,
       "bitrate": 0,
       "streamUrl": "https://lhttp-hw.qtfm.cn/live/20500057/64k.mp3"
+    },
+    {
+      "id": "exclusively_keane_ae_160c81f5",
+      "title": "Exclusively - Keane",
+      "subtitle": "Exclusive",
+      "location": "The United Arab Emirates",
+      "genre": "Exclusive",
+      "countryCode": "AE",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://streaming.exclusive.radio/er/keane/icecast.audio"
+    },
+    {
+      "id": "station_cn_d6e51802",
+      "title": "崇州人民广播电台",
+      "subtitle": "Music",
+      "location": "China",
+      "genre": "Music",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "http://lhttp.qingting.fm/live/20500066/64k.mp3"
+    },
+    {
+      "id": "xuzhou_cn_eabb2d9d",
+      "title": "Xuzhou",
+      "subtitle": "Pop",
+      "location": "China",
+      "genre": "Pop",
+      "countryCode": "CN",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "http://lhttp.qingting.fm/live/4923/64k.mp3"
+    },
+    {
+      "id": "hong_kong_fantastic_tv_cn_2e3c0d4a",
+      "title": "Hong Kong Fantastic TV",
+      "subtitle": "Hls Video",
+      "location": "China",
+      "genre": "Hls Video",
+      "countryCode": "CN",
+      "language": "cantonese",
+      "clickCount": 2,
+      "bitrate": 0,
+      "streamUrl": "http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8"
     }
   ]
 }

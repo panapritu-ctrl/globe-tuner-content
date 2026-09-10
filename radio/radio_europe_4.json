@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-09T03:05:16Z",
+  "updated": "2026-09-10T03:05:23Z",
   "region": "europe",
   "part": 4,
   "of": 8,
@@ -2759,19 +2759,6 @@
       "bitrate": 160
     },
     {
-      "id": "rb2_brown_student_community_radio_f9ce7fb0",
-      "title": "BROWN STUDENT & COMMUNITY RADIO",
-      "subtitle": "Radio",
-      "imageUrl": "https://static.wixstatic.com/media/39c7bc_eb82f27fe4d8402986e669cdbca13c4d~mv2.png/v1/fill/w_84,h_69,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/39c7bc_eb82f27fe4d8402986e669cdbca13c4d~mv2.png",
-      "streamUrl": "https://listen.bsrlive.com/bsrmp3?1729748097161",
-      "location": "The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "Radio",
-      "countryCode": "GB",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_bailiwick_radio_classics_96398b70",
       "title": "Bailiwick Radio Classics",
       "subtitle": "70S, 80S",
@@ -4235,19 +4222,6 @@
       "language": "english",
       "clickCount": 1,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_centreforce_883_55495003",
-      "title": "Centreforce 883",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://listen.centreforceradio.com/96",
-      "location": "The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "Radio",
-      "countryCode": "GB",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 96
     },
     {
       "id": "rb2_centreforce_radio_14356df9",
@@ -11673,19 +11647,6 @@
       "language": "english",
       "clickCount": 0,
       "bitrate": 192
-    },
-    {
-      "id": "rb2_north_manchester_fm_a553dcde",
-      "title": "North Manchester FM",
-      "subtitle": "Community",
-      "imageUrl": "https://northmanchester.fm/wp-content/uploads/2011/08/nmfm10661.jpg",
-      "streamUrl": "https://radio.canstream.co.uk:8061/live.mp3",
-      "location": "The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "Community",
-      "countryCode": "GB",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 128
     },
     {
       "id": "rb2_northants_1_5f477a20",
@@ -23641,19 +23602,6 @@
       "bitrate": 256
     },
     {
-      "id": "rb2_kalamaria_fm_101_7_thessaloniki_greece_7f19ed2b",
-      "title": "Kalamaria FM 101.7 - Thessaloniki - Greece",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://ice.greekstream.net/focusfm_128",
-      "location": "Greece",
-      "genre": "Radio",
-      "countryCode": "GR",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_kalloni_87_5_7a3a3f61",
       "title": "Kalloni 87.5",
       "subtitle": "Radio",
@@ -26914,18 +26862,6 @@
       "streamUrl": "https://sh.onweb.gr:9050/;"
     },
     {
-      "id": "1134_gr_cf098bfb",
-      "title": "Ασύρματος 1134",
-      "subtitle": "Greek Folk",
-      "location": "Greece",
-      "genre": "Greek Folk",
-      "countryCode": "GR",
-      "language": null,
-      "clickCount": 3,
-      "bitrate": 96,
-      "streamUrl": "https://eu8.fastcast4u.com/proxy/chaniaradio?mp=/1"
-    },
-    {
       "id": "aria_fm_107_4_gr_50a649c0",
       "title": "Aria FM 107.4",
       "subtitle": "Radio",
@@ -27416,6 +27352,54 @@
       "clickCount": 2,
       "bitrate": 320,
       "streamUrl": "https://sp1.19cloudsnetwork.gr/8014/stream"
+    },
+    {
+      "id": "88_5_gr_e5cdcc3e",
+      "title": "Αστέρι 88.5",
+      "subtitle": "Mainstream",
+      "location": "Greece",
+      "genre": "Mainstream",
+      "countryCode": "GR",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://asterifm.gr/radio/stream"
+    },
+    {
+      "id": "flying_web_radio_gr_1194086e",
+      "title": "Flying Web Radio",
+      "subtitle": "Radio",
+      "location": "Greece",
+      "genre": "Radio",
+      "countryCode": "GR",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://audio-edge-5bkfj.fra.h.radiomast.io/f166df84-c91c-4b1d-b2b2-798776af0aed"
+    },
+    {
+      "id": "studio_254_gr_2d6a5904",
+      "title": "Studio 254",
+      "subtitle": "Greek Pop",
+      "location": "Greece",
+      "genre": "Greek Pop",
+      "countryCode": "GR",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 96,
+      "streamUrl": "https://eu8.fastcast4u.com/proxy/s254?mp=/1"
+    },
+    {
+      "id": "arion_gr_e5952aec",
+      "title": "Arion Στιγμές",
+      "subtitle": "Greek Music",
+      "location": "Greece",
+      "genre": "Greek Music",
+      "countryCode": "GR",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "https://ice2.onestreaming.com/arionstigmes"
     }
   ]
 }
