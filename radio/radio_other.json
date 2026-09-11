@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-10T03:05:23Z",
+  "updated": "2026-09-11T02:59:35Z",
   "region": "other",
   "stations": [
     {
@@ -4638,18 +4638,6 @@
       "streamUrl": "https://radio.laantiradio.com/listen/la_antiradio/laantiradio.mp3"
     },
     {
-      "id": "listnr_focus_hls_au_a8178988",
-      "title": "LiSTNR - Focus (HLS)",
-      "subtitle": "Ambient",
-      "location": "Australia",
-      "genre": "Ambient",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 3,
-      "bitrate": 0,
-      "streamUrl": "http://wz0liw.scahw.com.au/live/focus.stream/playlist.m3u8"
-    },
-    {
       "id": "astra_fm_es_2d904200",
       "title": "Astra FM",
       "subtitle": "Radio",
@@ -5836,18 +5824,6 @@
       "clickCount": 6,
       "bitrate": 128,
       "streamUrl": "https://frequence3.net-radio.fr/frequence3.flac"
-    },
-    {
-      "id": "france24_fran_ais_fr_1ab4e9e9",
-      "title": "France24 Français",
-      "subtitle": "Information",
-      "location": "France",
-      "genre": "Information",
-      "countryCode": "FR",
-      "language": "french",
-      "clickCount": 6,
-      "bitrate": 105,
-      "streamUrl": "http://static.france24.com/live/F24_FR_LO_HLS/live_audio.m3u8"
     },
     {
       "id": "listnr_soul_disco_hls_au_1001be1f",
@@ -7048,6 +7024,186 @@
       "clickCount": 2,
       "bitrate": 0,
       "streamUrl": "http://wz0liw.scahw.com.au/live/hot-girl-walk.stream/playlist.m3u8"
+    },
+    {
+      "id": "wbfj_89_3_your_family_statio_us_a8be1b2b",
+      "title": "WBFJ 89.3 Your Family Statio",
+      "subtitle": "Adult Contemporary",
+      "location": "The United States Of America",
+      "genre": "Adult Contemporary",
+      "countryCode": "US",
+      "language": null,
+      "clickCount": 10,
+      "bitrate": 32,
+      "streamUrl": "https://ice8.securenetsystems.net/WBFJ"
+    },
+    {
+      "id": "cadence_fr_e36d2ac3",
+      "title": "Cadence",
+      "subtitle": "Hits",
+      "location": "France",
+      "genre": "Hits",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 6,
+      "bitrate": 64,
+      "streamUrl": "https://manager8.streamradio.fr:2110/stream"
+    },
+    {
+      "id": "generations_r_b_gold_fr_67415d1c",
+      "title": "Generations R&B Gold",
+      "subtitle": "Radio",
+      "location": "France",
+      "genre": "Radio",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "http://generations-rnb-gold.ice.infomaniak.ch/generations-rnb-gold.mp3"
+    },
+    {
+      "id": "indie_pop_au_1a942565",
+      "title": "Indie Pop",
+      "subtitle": "Radio",
+      "location": "Australia",
+      "genre": "Radio",
+      "countryCode": "AU",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://wz0liw.scahw.com.au/live/indie-pop.stream/playlist.m3u8?"
+    },
+    {
+      "id": "la_2_es_666dc1da",
+      "title": "LA 2",
+      "subtitle": "Radio",
+      "location": "Spain",
+      "genre": "Radio",
+      "countryCode": "ES",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 3012,
+      "streamUrl": "https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8"
+    },
+    {
+      "id": "abc_radio_national_sa_au_2c8c4e54",
+      "title": "ABC Radio National SA",
+      "subtitle": "National Radio",
+      "location": "Australia",
+      "genre": "National Radio",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 56,
+      "streamUrl": "https://abc.streamguys1.com/live/rnsa/icecast.audio"
+    },
+    {
+      "id": "a_i_r_station_hip_hop_rap_trap_grime_au_e269b805",
+      "title": "A.i.R Station - Hip Hop, Rap, Trap & Grime",
+      "subtitle": "Grime",
+      "location": "Australia",
+      "genre": "Grime",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 192,
+      "streamUrl": "https://air.autismo.biz/listen/a.i.r/radio.mp3"
+    },
+    {
+      "id": "sport_fm_hoeselt_be_778b1684",
+      "title": "Sport FM Hoeselt",
+      "subtitle": "Radio",
+      "location": "Belgium",
+      "genre": "Radio",
+      "countryCode": "BE",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 192,
+      "streamUrl": "https://s11.ssl-stream.com/ssl/sportfm/stream"
+    },
+    {
+      "id": "disrupt_radio_au_dcef6fdb",
+      "title": "Disrupt Radio",
+      "subtitle": "News",
+      "location": "Australia",
+      "genre": "News",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 2,
+      "bitrate": 0,
+      "streamUrl": "http://sen.streamguys1.com/DisruptRadio/playlist.m3u8"
+    },
+    {
+      "id": "softnezee_au_a10b410a",
+      "title": "Softnezee",
+      "subtitle": "Radio",
+      "location": "Australia",
+      "genre": "Radio",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "http://135.148.34.128:9041/;stream.nsv"
+    },
+    {
+      "id": "gem_fm_bowen_95_1_fm_aac_au_d3dc6871",
+      "title": "Gem FM - Bowen - 95.1 FM (AAC+)",
+      "subtitle": "Community Radio",
+      "location": "Australia",
+      "genre": "Community Radio",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "http://playerservices.streamtheworld.com/api/livestream-redirect/4GEMAAC.aac"
+    },
+    {
+      "id": "listnr_grunge_hls_au_1016c135",
+      "title": "LiSTNR - Grunge (HLS)",
+      "subtitle": "Grunge",
+      "location": "Australia",
+      "genre": "Grunge",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 2,
+      "bitrate": 0,
+      "streamUrl": "http://wz0liw.scahw.com.au/live/grunge.stream/playlist.m3u8"
+    },
+    {
+      "id": "listnr_waterfall_soundscapes_au_58f4d0c8",
+      "title": "LiSTNR - Waterfall [Soundscapes]",
+      "subtitle": "Soundscape",
+      "location": "Australia",
+      "genre": "Soundscape",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 2,
+      "bitrate": 0,
+      "streamUrl": "http://wz0liw.scahw.com.au/live/waterfall_128.stream/playlist.m3u8"
+    },
+    {
+      "id": "radio_stars_98_5_fm_be_702de9c1",
+      "title": "Radio Stars 98.5 FM",
+      "subtitle": "Radio",
+      "location": "Belgium",
+      "genre": "Radio",
+      "countryCode": "BE",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 64,
+      "streamUrl": "http://ks393340.kimsufi.com:8000/RadioStars-Ant"
+    },
+    {
+      "id": "gorilla_fm_ch_46819d89",
+      "title": "Gorilla.fm",
+      "subtitle": "Radio",
+      "location": "Switzerland",
+      "genre": "Radio",
+      "countryCode": "CH",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 256,
+      "streamUrl": "https://strm112.1.fm/gorillafm_mobile_mp3"
     }
   ]
 }

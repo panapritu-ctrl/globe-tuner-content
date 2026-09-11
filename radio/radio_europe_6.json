@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-10T03:05:23Z",
+  "updated": "2026-09-11T02:59:36Z",
   "region": "europe",
   "part": 6,
   "of": 8,
@@ -4959,19 +4959,6 @@
       "countryCode": "IT",
       "language": "italian",
       "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_soloanni80_183f6fe0",
-      "title": "SoloAnni80",
-      "subtitle": "80S Dance",
-      "imageUrl": "https://soloanni80.blogspot.com/favicon.ico",
-      "streamUrl": "https://stream.laut.fm/soloanni80",
-      "location": "Sardegna, Italy",
-      "genre": "80S Dance",
-      "countryCode": "IT",
-      "language": "italian",
-      "clickCount": 2,
       "bitrate": 128
     },
     {
@@ -26184,18 +26171,6 @@
       "streamUrl": "https://samcloud.spacial.com/api/listen?sid=98569&m=sc&rid=174384"
     },
     {
-      "id": "npo_campus_radio_nl_ed55abd4",
-      "title": "NPO Campus Radio",
-      "subtitle": "Campus",
-      "location": "The Netherlands",
-      "genre": "Campus",
-      "countryCode": "NL",
-      "language": "dutch",
-      "clickCount": 3,
-      "bitrate": 192,
-      "streamUrl": "https://icecast.omroep.nl/3fm-serioustalent-mp3"
-    },
-    {
       "id": "pinguin_vintage_nl_4958602d",
       "title": "Pinguin Vintage",
       "subtitle": "Oldies",
@@ -26422,18 +26397,6 @@
       "clickCount": 6,
       "bitrate": 96,
       "streamUrl": "https://stream.radioromantica.net/"
-    },
-    {
-      "id": "star_radio_boemi_skopje_macedonia_mk_f72f20ec",
-      "title": "Star Radio (Boemi) Skopje, Macedonia",
-      "subtitle": "Exyu",
-      "location": "Republic Of North Macedonia",
-      "genre": "Exyu",
-      "countryCode": "MK",
-      "language": "macedonian",
-      "clickCount": 4,
-      "bitrate": 320,
-      "streamUrl": "https://radiostar.pro/stream/boemi.php"
     },
     {
       "id": "radio_ciroma_it_0961eedb",
@@ -27634,6 +27597,42 @@
       "clickCount": 2,
       "bitrate": 448,
       "streamUrl": "https://wavehub.uk/api/functions/stationStream?uuid=1cf33481-5bc1-4e66-a95f-9d5278542df1"
+    },
+    {
+      "id": "maxhitradio24_nl_745f91f0",
+      "title": "Maxhitradio24",
+      "subtitle": "60'S",
+      "location": "The Netherlands",
+      "genre": "60'S",
+      "countryCode": "NL",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 320,
+      "streamUrl": "https://streaming.shoutcast.com/maxhitradio24"
+    },
+    {
+      "id": "koekstad_fm_nl_21f7e4d6",
+      "title": "Koekstad FM",
+      "subtitle": "Radio",
+      "location": "The Netherlands",
+      "genre": "Radio",
+      "countryCode": "NL",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 192,
+      "streamUrl": "http://server-67.stream-server.nl:8788/stream"
+    },
+    {
+      "id": "radio_zuyd_nl_32406e1b",
+      "title": "Radio Zuyd",
+      "subtitle": "Music",
+      "location": "The Netherlands",
+      "genre": "Music",
+      "countryCode": "NL",
+      "language": "dutch",
+      "clickCount": 3,
+      "bitrate": 160,
+      "streamUrl": "http://radiozuyd.shoutcaststream.com:8199/stream"
     }
   ]
 }

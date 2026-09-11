@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-10T03:05:23Z",
+  "updated": "2026-09-11T02:59:36Z",
   "region": "americas",
   "part": 3,
   "of": 5,
@@ -722,19 +722,6 @@
       "streamUrl": "https://stream.zenolive.com/wbqp37gm8ueuv",
       "location": "Guatemala",
       "genre": "Radio",
-      "countryCode": "GT",
-      "language": "spanish",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_caracol_radio_105_1_fm_9f36c6ea",
-      "title": "CARACOL RADIO 105.1 FM",
-      "subtitle": "Cristiana, Evangelio",
-      "imageUrl": "",
-      "streamUrl": "https://stream.zeno.fm/u844q3w08mwtv",
-      "location": "Guatemala",
-      "genre": "Cristiana",
       "countryCode": "GT",
       "language": "spanish",
       "clickCount": 0,
@@ -19259,19 +19246,6 @@
       "countryCode": "PE"
     },
     {
-      "id": "rb2_radio_nacional_del_per_dc4fba7e",
-      "title": "Radio Nacional del Perú",
-      "subtitle": "Nacional, National",
-      "imageUrl": "https://www.radionacional.gob.pe/sites/all/themes/stability/stability_sub/favicon.ico",
-      "streamUrl": "https://cdnhd.iblups.com/hls/0773874174fd4eba8bb9eff741d190dc.m3u8",
-      "location": "Peru",
-      "genre": "Nacional",
-      "countryCode": "PE",
-      "language": "español peruano",
-      "clickCount": 3,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_radio_nova_08d2c381",
       "title": "Radio Nova",
       "subtitle": "Peruvian Cumbia",
@@ -26734,18 +26708,6 @@
       "streamUrl": "https://listen.radioking.com/radio/920061/stream/991016"
     },
     {
-      "id": "fm_popular_103_1_py_0c494648",
-      "title": "FM POPULAR 103.1",
-      "subtitle": "Music",
-      "location": "Paraguay",
-      "genre": "Music",
-      "countryCode": "PY",
-      "language": "español paraguay",
-      "clickCount": 5,
-      "bitrate": 0,
-      "streamUrl": "https://rds3.desdeparaguay.net/transpopular/transpopular/playlist.m3u8"
-    },
-    {
       "id": "legacy_fm_la_dimensi_n_de_tus_sentidos_mx_1f5eb8d0",
       "title": "Legacy FM - \"La Dimensión de Tus Sentidos\".",
       "subtitle": "70S",
@@ -26840,6 +26802,66 @@
       "clickCount": 2,
       "bitrate": 64,
       "streamUrl": "https://ice23.securenetsystems.net/X1071?playSessionID=C8803655-9BCC-E3A9-EB64CD924FCD83A6"
+    },
+    {
+      "id": "est_reo_solar_104_9_fm_gt_5f31795a",
+      "title": "Estéreo Solar 104.9 FM",
+      "subtitle": "Hits",
+      "location": "Guatemala",
+      "genre": "Hits",
+      "countryCode": "GT",
+      "language": "spanish",
+      "clickCount": 3,
+      "bitrate": 32,
+      "streamUrl": "https://radiostreamingaac.com:8566/solarpeten"
+    },
+    {
+      "id": "radyo_acicorp_ht_d318c0d2",
+      "title": "Radyo ACICORP",
+      "subtitle": "Adventist",
+      "location": "Haiti",
+      "genre": "Adventist",
+      "countryCode": "HT",
+      "language": "french",
+      "clickCount": 3,
+      "bitrate": 192,
+      "streamUrl": "https://radio.acicorpinc.com/listen/radio/radio.mp3"
+    },
+    {
+      "id": "pop_fm_cdmx_online_www_popfm_mx_ciudad_de_m_xico_mx_052401ed",
+      "title": "POP FM (CDMX) - Online - www.popfm.mx - Ciudad de México",
+      "subtitle": "Cdmx",
+      "location": "Mexico",
+      "genre": "Cdmx",
+      "countryCode": "MX",
+      "language": "spanish",
+      "clickCount": 3,
+      "bitrate": 32,
+      "streamUrl": "https://ice42.securenetsystems.net/POP"
+    },
+    {
+      "id": "reaktiva_fm_mx_78d26091",
+      "title": "ReAktiva Fm",
+      "subtitle": "Radio",
+      "location": "Mexico",
+      "genre": "Radio",
+      "countryCode": "MX",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://stream.zeno.fm/3a77wg4vm2zuv"
+    },
+    {
+      "id": "pura_gracia_radio_wrpg_db_pr_2eee86ef",
+      "title": "Pura Gracia Radio | WRPG-DB",
+      "subtitle": "Christian Music",
+      "location": "Puerto Rico",
+      "genre": "Christian Music",
+      "countryCode": "PR",
+      "language": "spanish",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://15113.live.streamtheworld.com:443/SAM05AAC459_SC"
     }
   ]
 }

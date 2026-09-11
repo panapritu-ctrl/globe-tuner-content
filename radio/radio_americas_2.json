@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-10T03:05:23Z",
+  "updated": "2026-09-11T02:59:36Z",
   "region": "americas",
   "part": 2,
   "of": 5,
@@ -1641,19 +1641,6 @@
       "language": "english",
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_cftx_fm_96_5_bpm_sports_gatineau_qc_14233fa9",
-      "title": "CFTX-FM 96.5 \"BPM Sports\" Gatineau, QC",
-      "subtitle": "Bpm Sports, Sports",
-      "imageUrl": "",
-      "streamUrl": "https://stream0.bpmsports.ca/cftx.aac",
-      "location": "Quebec, Canada",
-      "genre": "Bpm Sports",
-      "countryCode": "CA",
-      "language": "french",
-      "clickCount": 1,
-      "bitrate": 48
     },
     {
       "id": "rb2_cfuv_101_9_university_of_victoria_bc_9619dcac",
@@ -21664,19 +21651,6 @@
       "bitrate": 192
     },
     {
-      "id": "rb2_fiesta_stereo_107_7_fm_barrancas_a282d2a5",
-      "title": "fiesta stereo 107.7 fm Barrancas",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://streaming.radiosenlinea.com.ar/8744/stream",
-      "location": "barrancas, Colombia",
-      "genre": "Radio",
-      "countryCode": "CO",
-      "language": "español colombia",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_la_voz_del_tao_4_a61582e9",
       "title": "la Voz del Tao 4",
       "subtitle": "Espiritual",
@@ -26157,30 +26131,6 @@
       "streamUrl": "http://184.71.87.162:8000/"
     },
     {
-      "id": "cfmk_fm_96_3_big_fm_kingston_on_aac_stream_ca_7a1c28ae",
-      "title": "CFMK-FM 96.3 \"Big FM\" Kingston, ON (AAC Stream)",
-      "subtitle": "Classic Hits",
-      "location": "Canada",
-      "genre": "Classic Hits",
-      "countryCode": "CA",
-      "language": "english",
-      "clickCount": 3,
-      "bitrate": 57,
-      "streamUrl": "http://live.leanstream.co/CFMKFM"
-    },
-    {
-      "id": "ckwx_news_1130_vancouver_bc_ca_430331a2",
-      "title": "CKWX \"News 1130\" Vancouver, BC",
-      "subtitle": "News Radio",
-      "location": "Canada",
-      "genre": "News Radio",
-      "countryCode": "CA",
-      "language": "english",
-      "clickCount": 3,
-      "bitrate": 0,
-      "streamUrl": "https://rogers-hls.leanstream.co/rogers/van1130.stream/playlist.m3u8"
-    },
-    {
       "id": "cirv_hd2_88_9_portuguese_stream_toronto_on_ca_60d7e141",
       "title": "CIRV-HD2 88.9 (Portuguese Stream) Toronto, ON",
       "subtitle": "Multicultural",
@@ -28147,6 +28097,54 @@
       "clickCount": 2,
       "bitrate": 0,
       "streamUrl": "https://stream.zeno.fm/kgbucu5a0tzuv"
+    },
+    {
+      "id": "103_9_max_fm_moncton_s_greatest_hits_ca_f53692ec",
+      "title": "103.9 MAX FM - Moncton's Greatest Hits",
+      "subtitle": "Radio",
+      "location": "Canada",
+      "genre": "Radio",
+      "countryCode": "CA",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 64,
+      "streamUrl": "http://mbsradio-ais.leanstream.co/CFQMFM-MP3?args=mobile_01&aw_0_req.gdpr=false&gdpr=false"
+    },
+    {
+      "id": "etn_fm_ch1_edm_livesets_dj_shows_ca_addd4ce2",
+      "title": "ETN.fm Ch1 | EDM Livesets & DJ Shows",
+      "subtitle": "Radio",
+      "location": "Canada",
+      "genre": "Radio",
+      "countryCode": "CA",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "http://io.etn.fm:8200/trance-mp3-128"
+    },
+    {
+      "id": "barranquilla_est_reo_co_0689474b",
+      "title": "Barranquilla Estéreo",
+      "subtitle": "Radio",
+      "location": "Colombia",
+      "genre": "Radio",
+      "countryCode": "CO",
+      "language": "spanish",
+      "clickCount": 2,
+      "bitrate": 56,
+      "streamUrl": "https://radio.yaservers.com:6060/stream/1/"
+    },
+    {
+      "id": "edward_ortega_radio_mas_popular_co_45da2514",
+      "title": "Edward Ortega Radio - Mas + Popular",
+      "subtitle": "Boleros",
+      "location": "Colombia",
+      "genre": "Boleros",
+      "countryCode": "CO",
+      "language": "spanish",
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "https://cloud11.vsgtech.co/proxy/maspopular/stream"
     }
   ]
 }

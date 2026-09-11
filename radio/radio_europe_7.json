@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-10T03:05:23Z",
+  "updated": "2026-09-11T02:59:35Z",
   "region": "europe",
   "part": 7,
   "of": 8,
@@ -14057,19 +14057,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_shred_ing_e4c2b2db",
-      "title": "shred.ing",
-      "subtitle": "Radio",
-      "imageUrl": "https://shred.ing/favicon.ico",
-      "streamUrl": "https://shred.ing/",
-      "location": "Romania",
-      "genre": "Radio",
-      "countryCode": "RO",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_kiss_fm_rs_0fa696cd",
       "title": "*KISS FM RS*",
       "subtitle": "Dance, Pop",
@@ -23885,18 +23872,6 @@
       "streamUrl": "https://sonic2-rbx.cloud-center.ro/8034/stream"
     },
     {
-      "id": "antena_krusevac_rs_793f27dd",
-      "title": "Antena Krusevac",
-      "subtitle": "Radio",
-      "location": "Serbia",
-      "genre": "Radio",
-      "countryCode": "RS",
-      "language": "serbian",
-      "clickCount": 4,
-      "bitrate": 320,
-      "streamUrl": "http://antenaradio.org:4560/;stream.nsv"
-    },
-    {
       "id": "twoja_polska_stacja_pl_5e59b122",
       "title": "Twoja Polska Stacja",
       "subtitle": "Radio",
@@ -24461,18 +24436,6 @@
       "streamUrl": "https://asculta.muzicaok.de:8002/stream"
     },
     {
-      "id": "naxi_r_n_b_radio_rs_3bcdc796",
-      "title": "Naxi R'n'B Radio",
-      "subtitle": "Radio",
-      "location": "Serbia",
-      "genre": "Radio",
-      "countryCode": "RS",
-      "language": "serbian",
-      "clickCount": 3,
-      "bitrate": 128,
-      "streamUrl": "https://naxidigital-rnb128ssl.streaming.rs:8122/;stream.nsv"
-    },
-    {
       "id": "polnexus_radio_pl_893ee0d7",
       "title": "PolNexus Radio",
       "subtitle": "News",
@@ -24495,18 +24458,6 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "http://e3.radiomorava.rs/radio/8000/radiomorava128.mp3"
-    },
-    {
-      "id": "naxi_lounge_radio_rs_98aa0eb8",
-      "title": "Naxi Lounge Radio",
-      "subtitle": "Radio",
-      "location": "Serbia",
-      "genre": "Radio",
-      "countryCode": "RS",
-      "language": "serbian",
-      "clickCount": 4,
-      "bitrate": 128,
-      "streamUrl": "https://naxidigital-lounge128ssl.streaming.rs:8252/;stream.nsv"
     },
     {
       "id": "rmf_maxx_kielce_pl_e5ed90f1",
@@ -25359,6 +25310,138 @@
       "clickCount": 3,
       "bitrate": 48,
       "streamUrl": "https://rs103-krk-cyfronet.rmfstream.pl/MAXXXOLE"
+    },
+    {
+      "id": "naxi_lounge_radio_rs_98aa0eb8",
+      "title": "Naxi Lounge Radio",
+      "subtitle": "Radio",
+      "location": "Serbia",
+      "genre": "Radio",
+      "countryCode": "RS",
+      "language": "serbian",
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://naxidigital-lounge128ssl.streaming.rs:8252/;stream.nsv"
+    },
+    {
+      "id": "radio_fraszka_pl_121849b4",
+      "title": "Radio Fraszka",
+      "subtitle": "Fm",
+      "location": "Poland",
+      "genre": "Fm",
+      "countryCode": "PL",
+      "language": "polish",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://s3.slotex.pl:7132/;"
+    },
+    {
+      "id": "eska_bydgoszcz_pl_bd1d4a0c",
+      "title": "Eska Bydgoszcz",
+      "subtitle": "Radio",
+      "location": "Poland",
+      "genre": "Radio",
+      "countryCode": "PL",
+      "language": "polish",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "http://ic2.smcdn.pl/2030-1.mp3"
+    },
+    {
+      "id": "r_dio_marinahais_pt_33cc4601",
+      "title": "Rádio Marinahais",
+      "subtitle": "Radio",
+      "location": "Portugal",
+      "genre": "Radio",
+      "countryCode": "PT",
+      "language": "portuguêsa",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://radios2.justweb.pt/8052/stream"
+    },
+    {
+      "id": "radio_m_plus_targu_neamt_ro_51f9bf3f",
+      "title": "Radio M Plus - Targu Neamt",
+      "subtitle": "Radio",
+      "location": "Romania",
+      "genre": "Radio",
+      "countryCode": "RO",
+      "language": "romanian",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://s4.ssl-stream.com:7880/live"
+    },
+    {
+      "id": "radio_tequila_dance_romania_ro_6af324bf",
+      "title": "Radio Tequila Dance Romania",
+      "subtitle": "Pop",
+      "location": "Romania",
+      "genre": "Pop",
+      "countryCode": "RO",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "http://dance.radiotequila.ro:7000/;stream.nsv"
+    },
+    {
+      "id": "radio_mackica_zabavna_muzika_rs_36a59d74",
+      "title": "Radio Mackica - Zabavna Muzika",
+      "subtitle": "Radio",
+      "location": "Serbia",
+      "genre": "Radio",
+      "countryCode": "RS",
+      "language": "serbian",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "http://cast2.name.ba:8157/;stream.nsv"
+    },
+    {
+      "id": "naxi_r_n_b_radio_rs_3bcdc796",
+      "title": "Naxi R'n'B Radio",
+      "subtitle": "Radio",
+      "location": "Serbia",
+      "genre": "Radio",
+      "countryCode": "RS",
+      "language": "serbian",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://naxidigital-rnb128ssl.streaming.rs:8122/;stream.nsv"
+    },
+    {
+      "id": "antena_krusevac_rs_793f27dd",
+      "title": "Antena Krusevac",
+      "subtitle": "Radio",
+      "location": "Serbia",
+      "genre": "Radio",
+      "countryCode": "RS",
+      "language": "serbian",
+      "clickCount": 3,
+      "bitrate": 320,
+      "streamUrl": "http://antenaradio.org:4560/;stream.nsv"
+    },
+    {
+      "id": "naxi_max_rs_53a4d018",
+      "title": "Naxi MAX",
+      "subtitle": "Radio",
+      "location": "Serbia",
+      "genre": "Radio",
+      "countryCode": "RS",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 96,
+      "streamUrl": "http://max96-naxinacional.streaming.rs:8530/;stream.nsv"
+    },
+    {
+      "id": "naxi_mix_radio_rs_81201507",
+      "title": "Naxi Mix Radio",
+      "subtitle": "Radio",
+      "location": "Serbia",
+      "genre": "Radio",
+      "countryCode": "RS",
+      "language": "serbian",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://naxidigital-mix128ssl.streaming.rs:8222/;stream.nsv"
     }
   ]
 }

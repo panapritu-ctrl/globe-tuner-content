@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-10T03:05:23Z",
+  "updated": "2026-09-11T02:59:36Z",
   "region": "africa",
   "stations": [
     {
@@ -10049,18 +10049,6 @@
       "streamUrl": "http://s7.voscast.com:9538/;stream1700094931336/1"
     },
     {
-      "id": "express_106_6fm_za_f5527aaf",
-      "title": "Express 106.6FM",
-      "subtitle": "Christian",
-      "location": "South Africa",
-      "genre": "Christian",
-      "countryCode": "ZA",
-      "language": "afrikaans",
-      "clickCount": 4,
-      "bitrate": 128,
-      "streamUrl": "http://198.7.59.28:34235/stream"
-    },
-    {
       "id": "mdantsane_fm_89_5_s_guqul_ubom_za_6e853a96",
       "title": "Mdantsane FM 89.5  S'guqul'ubom",
       "subtitle": "Radio",
@@ -10371,6 +10359,30 @@
       "clickCount": 2,
       "bitrate": 64,
       "streamUrl": "https://lawsonfm963-atunwadigital.streamguys1.com/lawsonfm963"
+    },
+    {
+      "id": "medina_fm_nachat_128_kbps_ma_7aef5b76",
+      "title": "Medina FM Nachat (128 kbps)",
+      "subtitle": "Chaabi",
+      "location": "Morocco",
+      "genre": "Chaabi",
+      "countryCode": "MA",
+      "language": "arabic",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://medinanachat.ice.infomaniak.ch/medinanachat-128.mp3"
+    },
+    {
+      "id": "osmarks_internet_radio_za_82c5ceda",
+      "title": "osmarks internet radio",
+      "subtitle": "Radio",
+      "location": "South Africa",
+      "genre": "Radio",
+      "countryCode": "ZA",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 128000,
+      "streamUrl": "https://radio-ic.osmarks.net/128k.ogg"
     }
   ]
 }

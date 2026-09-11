@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-10T03:05:23Z",
+  "updated": "2026-09-11T02:59:35Z",
   "region": "europe",
   "part": 8,
   "of": 8,
@@ -21073,19 +21073,6 @@
       "countryCode": "UA"
     },
     {
-      "id": "rb2_lounge_fm_terrace_e9048554",
-      "title": "Lounge FM Terrace",
-      "subtitle": "Lounge, Relax",
-      "imageUrl": "",
-      "streamUrl": "https://cast.mediaonline.net.ua/terrace320",
-      "location": "Kiev, Ukraine",
-      "genre": "Lounge",
-      "countryCode": "UA",
-      "language": null,
-      "clickCount": 6,
-      "bitrate": 320
-    },
-    {
       "id": "rb2_lounge_music_7fbabf72",
       "title": "Lounge Music",
       "subtitle": "Lounge, Lounge Music",
@@ -23048,19 +23035,6 @@
       "bitrate": 320
     },
     {
-      "id": "rb2_fm_e75c8795",
-      "title": "Хіт FM",
-      "subtitle": "320Kbps, Pop Music",
-      "imageUrl": "https://www.hitfm.ua/static/img/fav-icon/apple-icon-120x120.png",
-      "streamUrl": "https://online.hitfm.ua/HitFM_HD",
-      "location": "Ukraine",
-      "genre": "320Kbps",
-      "countryCode": "UA",
-      "language": "ukrainian",
-      "clickCount": 5,
-      "bitrate": 320
-    },
-    {
       "id": "fm_ua_8e3154",
       "title": "Хіт FM Сучасні хіти",
       "subtitle": "Pop",
@@ -24215,18 +24189,6 @@
       "streamUrl": "https://radiorecord.hostingradio.ru/rmx96.aacp"
     },
     {
-      "id": "radiolista_escape_se_1d4c15ab",
-      "title": "Radiolista - Escape",
-      "subtitle": "Ambient",
-      "location": "Sweden",
-      "genre": "Ambient",
-      "countryCode": "SE",
-      "language": "english",
-      "clickCount": 4,
-      "bitrate": 128,
-      "streamUrl": "http://icy.aweradio.app/radiolista/escape"
-    },
-    {
       "id": "radio_94_3_se_007e3132",
       "title": "Radio 94,3",
       "subtitle": "Country",
@@ -24489,18 +24451,6 @@
       "clickCount": 3,
       "bitrate": 192,
       "streamUrl": "https://mp3.rtvslo.si/ars"
-    },
-    {
-      "id": "radio_ru_e4e3e880",
-      "title": "Radio Источник",
-      "subtitle": "60S",
-      "location": "The Russian Federation",
-      "genre": "60S",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 16,
-      "bitrate": 128,
-      "streamUrl": "http://s0.radioheart.ru:8000/VM73179"
     },
     {
       "id": "107_7_fm_ru_5eb5526a",
@@ -25041,6 +24991,78 @@
       "clickCount": 3,
       "bitrate": 0,
       "streamUrl": "http://momingmy.tk:8880/music.ogg"
+    },
+    {
+      "id": "fm_ua_457c5cd8",
+      "title": "Хіт FM",
+      "subtitle": "320Kbps",
+      "location": "Ukraine",
+      "genre": "320Kbps",
+      "countryCode": "UA",
+      "language": "ukrainian",
+      "clickCount": 35,
+      "bitrate": 320,
+      "streamUrl": "https://online.hitfm.ua/HitFM_HD"
+    },
+    {
+      "id": "old_radio_music_64_ru_771cbd0f",
+      "title": "Старое радио Музыка - Old radio Music 64",
+      "subtitle": "Retro",
+      "location": "The Russian Federation",
+      "genre": "Retro",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 7,
+      "bitrate": 128,
+      "streamUrl": "http://195.91.237.50:8000/music64"
+    },
+    {
+      "id": "station_ru_bc20cd08",
+      "title": "Орфей - Музыка кино",
+      "subtitle": "Классическая Музыка",
+      "location": "The Russian Federation",
+      "genre": "Классическая Музыка",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 256,
+      "streamUrl": "https://channels.fonotron.ru:8000/Chan_67_256.mp3"
+    },
+    {
+      "id": "radio_mmr_si_b91e160c",
+      "title": "Radio MMR",
+      "subtitle": "Radio",
+      "location": "Slovenia",
+      "genre": "Radio",
+      "countryCode": "SI",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 192,
+      "streamUrl": "https://mp3.rtvslo.si/mmr"
+    },
+    {
+      "id": "rock_radio_classics_si_45550c7b",
+      "title": "Rock Radio Classics",
+      "subtitle": "Classic Rock",
+      "location": "Slovenia",
+      "genre": "Classic Rock",
+      "countryCode": "SI",
+      "language": "slovenian",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://stream.nextmedia.si/proxy/rocks_3?mp=/rock?uid=rrweb"
+    },
+    {
+      "id": "107_9_ua_dad6e8ef",
+      "title": "Наше Радіо 107,9",
+      "subtitle": "Pop",
+      "location": "Ukraine",
+      "genre": "Pop",
+      "countryCode": "UA",
+      "language": "ukranian",
+      "clickCount": 3,
+      "bitrate": 320,
+      "streamUrl": "https://online.nasheradio.ua/NasheRadio_HD"
     }
   ]
 }

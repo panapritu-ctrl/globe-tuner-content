@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-10T03:05:23Z",
+  "updated": "2026-09-11T02:59:35Z",
   "region": "asia",
   "part": 3,
   "of": 3,
@@ -14743,30 +14743,6 @@
       "streamUrl": "https://cdn-th2.login.in.th/shoutcast/8425"
     },
     {
-      "id": "nbt_south_digital_tv_channel_11_th_db634d92",
-      "title": "NBT South: digital tv channel 11",
-      "subtitle": "Radio",
-      "location": "Thailand",
-      "genre": "Radio",
-      "countryCode": "TH",
-      "language": "thai",
-      "clickCount": 3,
-      "bitrate": 3128,
-      "streamUrl": "https://cdn-edge.iiptvcdn.com/live_event/smil:a834-75a7-a662-db55-5fa3.smil/playlist.m3u8?null"
-    },
-    {
-      "id": "amarin_tv_hd_digital_tv_channel_34_th_aec34847",
-      "title": "Amarin TV HD: digital TV channel  34",
-      "subtitle": "Radio",
-      "location": "Thailand",
-      "genre": "Radio",
-      "countryCode": "TH",
-      "language": "thai",
-      "clickCount": 3,
-      "bitrate": 0,
-      "streamUrl": "https://amarin-ks7jcc.cdn.byteark.com/live/Thai_SD_index.m3u8?x_ark_access_id=fleet-868&x_ark_auth_type=ark-v2&x_ark_expires=1787885703&x_ark_path_prefix=%2Flive%2F&x_ark_signature=dJlyiteJMtj9OQXrwHDu3A"
-    },
-    {
       "id": "one31_digital_tv_channel_31_th_48475e28",
       "title": "One31: digital TV channel 31",
       "subtitle": "Radio",
@@ -14933,18 +14909,6 @@
       "clickCount": 9,
       "bitrate": 192,
       "streamUrl": "https://stream.dodo.radio/dunyadansesler"
-    },
-    {
-      "id": "xone_fm_vn_3b095ab8",
-      "title": "XONE FM",
-      "subtitle": "Pop",
-      "location": "Vietnam",
-      "genre": "Pop",
-      "countryCode": "VN",
-      "language": null,
-      "clickCount": 7,
-      "bitrate": 0,
-      "streamUrl": "https://vnno-ne-2-tf-multi-playlist-zmp3.zmdcdn.me/Wbo0diyYozY/zhls/playback-realtime/audio/e75e51f26db784e9dda6/audio.m3u8"
     },
     {
       "id": "love_radio_bacolod_ph_518fcba1",
@@ -15305,18 +15269,6 @@
       "clickCount": 3,
       "bitrate": 128,
       "streamUrl": "https://stream.pbs.gov.tw/live/TTS/playlist.m3u8"
-    },
-    {
-      "id": "dwje_88_1_fm_radyo_pangasinan_ph_3bd3240e",
-      "title": "DWJE 88.1 FM Radyo Pangasinan",
-      "subtitle": "Radio",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 0,
-      "streamUrl": "https://tiny-sun-4316.radyopangasinan88-1fm.workers.dev/stream"
     },
     {
       "id": "xfm_96_7_bacolod_ph_7af86518",
@@ -16457,6 +16409,78 @@
       "clickCount": 3,
       "bitrate": 48,
       "streamUrl": "http://209.126.124.126:8587/stream"
+    },
+    {
+      "id": "dinamo_fm_sleep_tr_7ddb6e31",
+      "title": "dinamo.fm sleep",
+      "subtitle": "Ambient",
+      "location": "Türkiye",
+      "genre": "Ambient",
+      "countryCode": "TR",
+      "language": "english",
+      "clickCount": 8,
+      "bitrate": 320,
+      "streamUrl": "http://channels.dinamo.fm/sleep-mp3"
+    },
+    {
+      "id": "xone_fm_vn_3b095ab8",
+      "title": "XONE FM",
+      "subtitle": "Pop",
+      "location": "Vietnam",
+      "genre": "Pop",
+      "countryCode": "VN",
+      "language": null,
+      "clickCount": 7,
+      "bitrate": 0,
+      "streamUrl": "https://vnno-ne-2-tf-multi-playlist-zmp3.zmdcdn.me/Wbo0diyYozY/zhls/playback-realtime/audio/e75e51f26db784e9dda6/audio.m3u8"
+    },
+    {
+      "id": "rj_fm_100_3_ph_4c90f4aa",
+      "title": "RJ FM 100.3",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "http://111.125.87.226:8000/rjfm"
+    },
+    {
+      "id": "klick_fm_106_3_bacolod_ph_c15ab096",
+      "title": "Klick FM 106.3 Bacolod",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 48,
+      "streamUrl": "http://209.126.124.126:8721/stream"
+    },
+    {
+      "id": "station_tw_2e3de465",
+      "title": "古都電台",
+      "subtitle": "Culture",
+      "location": "Taiwan, Republic Of China",
+      "genre": "Culture",
+      "countryCode": "TW",
+      "language": "hokkien",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "http://n03.rcs.revma.com/8bpxy9a122hvv"
+    },
+    {
+      "id": "radyong_sira_ph_b54541b0",
+      "title": "Radyong Sira!",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 192,
+      "streamUrl": "https://a7.asurahosting.com:9110/radio.mp3"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-10T03:05:23Z",
+  "updated": "2026-09-11T02:59:36Z",
   "region": "asia",
   "part": 1,
   "of": 3,
@@ -14594,19 +14594,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_station_f6388e49",
-      "title": "十堰交通音乐广播",
-      "subtitle": "Music",
-      "imageUrl": "",
-      "streamUrl": "https://lhttp.qingting.fm/live/20342/64k.mp3",
-      "location": "Hupei, China",
-      "genre": "Music",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_station_ea737b23",
       "title": "十堰综合广播",
       "subtitle": "News",
@@ -21909,19 +21896,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_station_7f067c10",
-      "title": "泗水广播电视台",
-      "subtitle": "Full Service",
-      "imageUrl": "https://imagev2.xmcdn.com/storages/7191-audiofreehighqps/6B/BD/GKwRIW4Gv_RZAAUzbQGNvt2Z.jpg!strip=1&quality=7&magick=webp&op_type=5&upload_type=cover&name=web_large&device_type=ios",
-      "streamUrl": "http://live.ximalaya.com/radio-first-page-app/live/2775/64.m3u8",
-      "location": "Shantung, China",
-      "genre": "Full Service",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_station_c07ea12f",
       "title": "洛阳交通广播",
       "subtitle": "Entertainment",
@@ -21959,19 +21933,6 @@
       "language": "chinese",
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_station_869edb37",
-      "title": "津南之声",
-      "subtitle": "Full Service",
-      "imageUrl": "https://pic.xfdown.com/uploads/2019-4/20194151041336252.png",
-      "streamUrl": "http://play.jinnantv.top/live/JNTV2.m3u8",
-      "location": "Tientsin, China",
-      "genre": "Full Service",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 0,
-      "bitrate": 170
     },
     {
       "id": "rb2_16_684fc62f",
@@ -27144,6 +27105,90 @@
       "clickCount": 2,
       "bitrate": 0,
       "streamUrl": "http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8"
+    },
+    {
+      "id": "radio_aurora_am_1215c398",
+      "title": "Radio Aurora",
+      "subtitle": "Radio",
+      "location": "Armenia",
+      "genre": "Radio",
+      "countryCode": "AM",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 96,
+      "streamUrl": "http://am.radioaurora.am:8010/al.mp3"
+    },
+    {
+      "id": "radio_kabul_af_d83627fa",
+      "title": "Radio Kabul",
+      "subtitle": "Radio",
+      "location": "Afghanistan",
+      "genre": "Radio",
+      "countryCode": "AF",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "http://23.81.35.187:8054/stream"
+    },
+    {
+      "id": "station_cn_430dccdc",
+      "title": "湖南金鹰之声",
+      "subtitle": "Information",
+      "location": "China",
+      "genre": "Information",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "http://a.live.hnradio.com/jypd/radio120k_jypd.m3u8?auth_key=1588751199-0-0-e412c6c15ca2bf1ad6f0833c2bd73bb2"
+    },
+    {
+      "id": "station_cn_d6194038",
+      "title": "通渭综合广播",
+      "subtitle": "5G智慧电台",
+      "location": "China",
+      "genre": "5G智慧电台",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 3,
+      "bitrate": 2560,
+      "streamUrl": "http://play.kankanlive.com/live/1725005604372021.m3u8"
+    },
+    {
+      "id": "1058_cn_51592c42",
+      "title": "保定1058飞扬调频汽车音乐广播（清苑区融媒体中心）",
+      "subtitle": "Music",
+      "location": "China",
+      "genre": "Music",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "http://jwcdnqx.hebyun.com.cn/live/fytp1058/1500k/tzwj_video.m3u8"
+    },
+    {
+      "id": "easy_radio_andrea_bocelli_ae_9e414648",
+      "title": "Easy Radio - Andrea Bocelli",
+      "subtitle": "Easy",
+      "location": "The United Arab Emirates",
+      "genre": "Easy",
+      "countryCode": "AE",
+      "language": "english",
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "http://streaming.exclusive.radio/uber/easyandreabocelli/icecast.audio"
+    },
+    {
+      "id": "station_cn_f6058ab4",
+      "title": "巩义综合广播",
+      "subtitle": "Full Service",
+      "location": "China",
+      "genre": "Full Service",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 2,
+      "bitrate": 0,
+      "streamUrl": "https://lhttp.qingting.fm/live/5022551/64k.mp3"
     }
   ]
 }
