@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-11T02:59:35Z",
+  "updated": "2026-09-12T03:08:45Z",
   "region": "europe",
   "part": 7,
   "of": 8,
@@ -2912,19 +2912,6 @@
       "countryCode": "PL",
       "language": null,
       "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_winouj_cie_1ea84dcc",
-      "title": "Radio Świnoujście",
-      "subtitle": "Misc",
-      "imageUrl": "",
-      "streamUrl": "http://185.243.52.116:8010/stream",
-      "location": "Poland",
-      "genre": "Misc",
-      "countryCode": "PL",
-      "language": null,
-      "clickCount": 1,
       "bitrate": 128
     },
     {
@@ -24412,18 +24399,6 @@
       "streamUrl": "https://s54.radiolize.com/radio/8030/radio.mp3"
     },
     {
-      "id": "radio_manele_romania_ro_ee1ca243",
-      "title": "Radio Manele Romania",
-      "subtitle": "Radio",
-      "location": "Romania",
-      "genre": "Radio",
-      "countryCode": "RO",
-      "language": null,
-      "clickCount": 3,
-      "bitrate": 128,
-      "streamUrl": "http://petrecere.fmradiomanele.ro:8123/;stream.nsv"
-    },
-    {
       "id": "radio_blue_romania_ro_f9adacff",
       "title": "Radio Blue Romania",
       "subtitle": "Comercială",
@@ -25442,6 +25417,78 @@
       "clickCount": 3,
       "bitrate": 128,
       "streamUrl": "https://naxidigital-mix128ssl.streaming.rs:8222/;stream.nsv"
+    },
+    {
+      "id": "tail_fm_poland_pl_32612c73",
+      "title": "Tail FM Poland",
+      "subtitle": "#90S",
+      "location": "Poland",
+      "genre": "#90S",
+      "countryCode": "PL",
+      "language": "polish",
+      "clickCount": 7,
+      "bitrate": 128,
+      "streamUrl": "http://play.ogon.ovh:8810/tail-fm"
+    },
+    {
+      "id": "polymia_radio_rs_d65afd8c",
+      "title": "Polymia Radio",
+      "subtitle": "Ambient",
+      "location": "Serbia",
+      "genre": "Ambient",
+      "countryCode": "RS",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://radio.ndnlmusic.com/stream"
+    },
+    {
+      "id": "radioff_pl_12650c07",
+      "title": "radiOFF",
+      "subtitle": "Ambient",
+      "location": "Poland",
+      "genre": "Ambient",
+      "countryCode": "PL",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream.radioff.com/stream.mp3"
+    },
+    {
+      "id": "antyradio_warszawa_pl_1b8bea60",
+      "title": "Antyradio Warszawa",
+      "subtitle": "Radio",
+      "location": "Poland",
+      "genre": "Radio",
+      "countryCode": "PL",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://an.cdn.eurozet.pl/ant-web.mp3?t=1703697029993"
+    },
+    {
+      "id": "antena_1_main_pt_1689b001",
+      "title": "Antena 1 - Main",
+      "subtitle": "Radio",
+      "location": "Portugal",
+      "genre": "Radio",
+      "countryCode": "PT",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://radiocast.rtp.pt/antena180a.mp3"
+    },
+    {
+      "id": "pro_balkan_rom_nia_br_ila_ro_51d5a426",
+      "title": "Pro Balkan România -Brăila",
+      "subtitle": "Dance",
+      "location": "Romania",
+      "genre": "Dance",
+      "countryCode": "RO",
+      "language": "romania",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://radio.sonicpanel.ro/8102/stream"
     }
   ]
 }

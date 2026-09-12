@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-11T02:59:36Z",
+  "updated": "2026-09-12T03:08:45Z",
   "region": "europe",
   "part": 4,
   "of": 8,
@@ -2720,19 +2720,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_borealis_music_records_bfa85a45",
-      "title": "BOREALIS MUSIC RECORDS",
-      "subtitle": "Deep House, Melodic House",
-      "imageUrl": "",
-      "streamUrl": "https://leo.streamerr.co/8052/stream",
-      "location": "Great Britan & northern Ireland, The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "Deep House",
-      "countryCode": "GB",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_brmb_radio_44bf63a3",
       "title": "BRMB Radio",
       "subtitle": "Radio",
@@ -5218,19 +5205,6 @@
       "streamUrl": "https://stream.aiir.com/qbgoiwyhsyquv?_=475595",
       "location": "The United Kingdom Of Great Britain And Northern Ireland",
       "genre": "00S",
-      "countryCode": "GB",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_derby_sound_f854fb44",
-      "title": "Derby Sound",
-      "subtitle": "Radio",
-      "imageUrl": "https://www.derbysound.org.uk/favicon.ico",
-      "streamUrl": "https://uk7.internet-radio.com/proxy/in2derbyradio?mp=%2Fstream%3B",
-      "location": "Derby, The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "Radio",
       "countryCode": "GB",
       "language": null,
       "clickCount": 0,
@@ -10264,19 +10238,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_london_romanian_radio_76c14813",
-      "title": "London Romanian Radio",
-      "subtitle": "Hot Ac, Pop",
-      "imageUrl": "https://lrradio.uk/img/logo.png",
-      "streamUrl": "https://play.lrradio.uk/",
-      "location": "London, The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "Hot Ac",
-      "countryCode": "GB",
-      "language": "english",
-      "clickCount": 1,
-      "bitrate": 64
-    },
-    {
       "id": "rb2_london_soul_radio_88321903",
       "title": "London Soul Radio",
       "subtitle": "Boogie Woogie, Disco",
@@ -12094,19 +12055,6 @@
       "language": "english uk",
       "clickCount": 0,
       "bitrate": 96
-    },
-    {
-      "id": "rb2_partyvibe_ambient_radio_3a7ca373",
-      "title": "Partyvibe - Ambient Radio",
-      "subtitle": "Ambient",
-      "imageUrl": "",
-      "streamUrl": "https://www.partyviberadio.com:8069/;listen.pls?sid=1",
-      "location": "London, The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "Ambient",
-      "countryCode": "GB",
-      "language": "english",
-      "clickCount": 1,
-      "bitrate": 320
     },
     {
       "id": "rb2_passion_radio_f77dac13",
@@ -27434,6 +27382,42 @@
       "clickCount": 2,
       "bitrate": 320,
       "streamUrl": "https://rpieria.radioca.st/;"
+    },
+    {
+      "id": "fresh_105_gr_2e4ae3dc",
+      "title": "Fresh 105",
+      "subtitle": "Mainstream",
+      "location": "Greece",
+      "genre": "Mainstream",
+      "countryCode": "GR",
+      "language": "greek",
+      "clickCount": 3,
+      "bitrate": 96,
+      "streamUrl": "https://webradio.neatv.gr:8443/stream?1637751294799"
+    },
+    {
+      "id": "city_102_8_gr_473e3210",
+      "title": "City 102.8",
+      "subtitle": "Adult Pop",
+      "location": "Greece",
+      "genre": "Adult Pop",
+      "countryCode": "GR",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 320,
+      "streamUrl": "https://i2.streams.ovh:7050/live"
+    },
+    {
+      "id": "focus_fm_gr_96434f6c",
+      "title": "Focus FM",
+      "subtitle": "Radio",
+      "location": "Greece",
+      "genre": "Radio",
+      "countryCode": "GR",
+      "language": "greek",
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "http://ice.greekstream.net/focusfm"
     }
   ]
 }

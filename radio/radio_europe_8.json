@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-11T02:59:35Z",
+  "updated": "2026-09-12T03:08:45Z",
   "region": "europe",
   "part": 8,
   "of": 8,
@@ -6590,19 +6590,6 @@
       "language": null,
       "clickCount": 2,
       "bitrate": 320
-    },
-    {
-      "id": "rb2_volosatoe_radio_eurodance_8ff23daf",
-      "title": "VOLOSATOE RADIO (Eurodance)",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://93.92.207.107:8008/euro.opus",
-      "location": "The Russian Federation",
-      "genre": "Radio",
-      "countryCode": "RU",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 128
     },
     {
       "id": "rb2_vtc_5d51abdd",
@@ -24237,18 +24224,6 @@
       "streamUrl": "http://icy.aweradio.app/listen/focus"
     },
     {
-      "id": "avtoradio_105_5_fm_serpukhov_ru_44b525d5",
-      "title": "Avtoradio 105.5 FM Serpukhov",
-      "subtitle": "Local News",
-      "location": "The Russian Federation",
-      "genre": "Local News",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 4,
-      "bitrate": 128,
-      "streamUrl": "http://77.73.90.46:1055/avtoradio"
-    },
-    {
       "id": "105_3_fm_ru_60dab53e",
       "title": "Радио Москвы 105.3 FM",
       "subtitle": "105_3 Fm",
@@ -24789,18 +24764,6 @@
       "streamUrl": "https://icecast.stv.livebox.sk/rsi_128.mp3"
     },
     {
-      "id": "anima_amoris_idm_ru_d5d3d725",
-      "title": "Anima Amoris IDM",
-      "subtitle": "Radio",
-      "location": "The Russian Federation",
-      "genre": "Radio",
-      "countryCode": "RU",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 0,
-      "streamUrl": "https://amoris.sknt.ru/idm.mp3"
-    },
-    {
       "id": "koro_ki_radio_si_a2571d2b",
       "title": "Koroški radio",
       "subtitle": "Radio",
@@ -24957,18 +24920,6 @@
       "streamUrl": "http://79.120.77.11:8002/rockru"
     },
     {
-      "id": "mu_ru_91507b6d",
-      "title": "MUŠ",
-      "subtitle": "Music",
-      "location": "The Russian Federation",
-      "genre": "Music",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 4,
-      "bitrate": 128,
-      "streamUrl": "http://radio.myudm.ru:10010/efir"
-    },
-    {
       "id": "dagnys_jukebox_se_29821f05",
       "title": "Dagnys Jukebox",
       "subtitle": "Rock",
@@ -25063,6 +25014,66 @@
       "clickCount": 3,
       "bitrate": 320,
       "streamUrl": "https://online.nasheradio.ua/NasheRadio_HD"
+    },
+    {
+      "id": "holos_fm_ua_7af9010d",
+      "title": "Holos.FM",
+      "subtitle": "Holos",
+      "location": "Ukraine",
+      "genre": "Holos",
+      "countryCode": "UA",
+      "language": "ukrainian",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "http://holos.fm:8000/holos"
+    },
+    {
+      "id": "fm_ua_199698f6",
+      "title": "Богуслав FM",
+      "subtitle": "Information",
+      "location": "Ukraine",
+      "genre": "Information",
+      "countryCode": "UA",
+      "language": "ukrainian",
+      "clickCount": 5,
+      "bitrate": 320,
+      "streamUrl": "https://complex.in.ua/b320"
+    },
+    {
+      "id": "radio_nacka_se_64f2a80a",
+      "title": "Radio Nacka",
+      "subtitle": "Radio",
+      "location": "Sweden",
+      "genre": "Radio",
+      "countryCode": "SE",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 64,
+      "streamUrl": "http://radiostreamone.mine.nu/9990MHz"
+    },
+    {
+      "id": "yantarne_fm_ua_855c7c75",
+      "title": "Yantarne FM",
+      "subtitle": "64 Kbit/S",
+      "location": "Ukraine",
+      "genre": "64 Kbit/S",
+      "countryCode": "UA",
+      "language": "ukranian",
+      "clickCount": 3,
+      "bitrate": 64,
+      "streamUrl": "https://complex.in.ua/yantarne"
+    },
+    {
+      "id": "fm_ua_430e822c",
+      "title": "Бліц-FM (Фастів)",
+      "subtitle": "Entertainment",
+      "location": "Ukraine",
+      "genre": "Entertainment",
+      "countryCode": "UA",
+      "language": "ukrainian",
+      "clickCount": 3,
+      "bitrate": 320,
+      "streamUrl": "https://stream.blits-fm.ua/stream64"
     }
   ]
 }

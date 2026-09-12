@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-11T02:59:35Z",
+  "updated": "2026-09-12T03:08:45Z",
   "region": "other",
   "stations": [
     {
@@ -1564,18 +1564,6 @@
       "clickCount": 7,
       "bitrate": 128,
       "streamUrl": "https://radio.ozziepowercyclist.com.au/myradio"
-    },
-    {
-      "id": "abc_grandstand_mp3_au_9c89e155",
-      "title": "ABC Grandstand (MP3)",
-      "subtitle": "Abc",
-      "location": "Australia",
-      "genre": "Abc",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 7,
-      "bitrate": 56,
-      "streamUrl": "http://live-radio02.mediahubaustralia.com/GSDW/mp3/;"
     },
     {
       "id": "nostalgie_cinema_be_1e13404b",
@@ -4434,18 +4422,6 @@
       "streamUrl": "https://webradio1.ice.infomaniak.ch/webradio3-128.mp3"
     },
     {
-      "id": "kbs_aq_36c5e93d",
-      "title": "kbs",
-      "subtitle": "Kbs",
-      "location": "Antarctica",
-      "genre": "Kbs",
-      "countryCode": "AQ",
-      "language": "korean",
-      "clickCount": 4,
-      "bitrate": 0,
-      "streamUrl": "https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODc5ODc5Mzd9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=JxWSVFU-07-s0qOF6p0KMHKIg55oelQ10~51h39J74iOhqJULm3GNLkFa8Kv7mhzSigE1hiiZQpRcXOOkEJNns3ia-L6yUd86Om2jPOqVVHNWkb-xGxKE2nKS67swOVsnxggP6460JsCHUTTFenPcK6Oa8Na4O57ZlnztcuiLCnuf0WQuxYg2Wwysa1Z5rELSNnNXdB7hS8xpb~VDuoGOH5vLkNMoARGZZWjUHQgkHrtmtoX1lVFh3Y6wD-DcA29kIROGNyBl0GQujwhBysgL6IdJIey3nhIP6kOqweTGAnYjuE-gDD-HlsOacNqJMXiuUT4k8dEGwbLADAbwkGODA__"
-    },
-    {
       "id": "studio_jessa_be_cd756e2f",
       "title": "Studio Jessa",
       "subtitle": "Radio",
@@ -5730,18 +5706,6 @@
       "streamUrl": "http://wz0liw.scahw.com.au/live/heavy-af.stream/playlist.m3u8"
     },
     {
-      "id": "listnr_wind_down_hls_au_047086e5",
-      "title": "LiSTNR - Wind Down (HLS)",
-      "subtitle": "Calm",
-      "location": "Australia",
-      "genre": "Calm",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 2,
-      "bitrate": 0,
-      "streamUrl": "http://wz0liw.scahw.com.au/live/wind-down.stream/playlist.m3u8"
-    },
-    {
       "id": "wokw_ok_102_9_us_0b745393",
       "title": "WOKW OK! 102.9",
       "subtitle": "2000S",
@@ -5956,18 +5920,6 @@
       "clickCount": 2,
       "bitrate": 128,
       "streamUrl": "http://usa4.fastcast4u.com/proxy/4k1g?mp=/stream"
-    },
-    {
-      "id": "listnr_soft_rock_hls_au_305f44f5",
-      "title": "LiSTNR - Soft Rock (HLS)",
-      "subtitle": "Easy Listening",
-      "location": "Australia",
-      "genre": "Easy Listening",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 2,
-      "bitrate": 0,
-      "streamUrl": "http://wz0liw.scahw.com.au/live/soft-rock.stream/playlist.m3u8"
     },
     {
       "id": "bbc_arabic_radio_gb_fdfbc1fe",
@@ -7204,6 +7156,162 @@
       "clickCount": 2,
       "bitrate": 256,
       "streamUrl": "https://strm112.1.fm/gorillafm_mobile_mp3"
+    },
+    {
+      "id": "cnn_international_audio_us_e93546aa",
+      "title": "CNN International Audio",
+      "subtitle": "News",
+      "location": "The United States Of America",
+      "genre": "News",
+      "countryCode": "US",
+      "language": "english",
+      "clickCount": 12,
+      "bitrate": 95,
+      "streamUrl": "https://tunein.cdnstream1.com/3519_96.aac"
+    },
+    {
+      "id": "france24_fran_ais_fr_1ab4e9e9",
+      "title": "France24 Français",
+      "subtitle": "Information",
+      "location": "France",
+      "genre": "Information",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 7,
+      "bitrate": 105,
+      "streamUrl": "http://static.france24.com/live/F24_FR_LO_HLS/live_audio.m3u8"
+    },
+    {
+      "id": "penistone_fm_gb_a5f01061",
+      "title": "Penistone FM",
+      "subtitle": "Community Radio",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Community Radio",
+      "countryCode": "GB",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "http://radio.canstream.co.uk:8021/live.mp3"
+    },
+    {
+      "id": "pump_radio_gb_fc2cf4eb",
+      "title": "Pump Radio",
+      "subtitle": "Dance",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Dance",
+      "countryCode": "GB",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "http://listen.pumpradio.net/stream"
+    },
+    {
+      "id": "kbs_aq_7d54a013",
+      "title": "kbs",
+      "subtitle": "Kbs",
+      "location": "Antarctica",
+      "genre": "Kbs",
+      "countryCode": "AQ",
+      "language": "korean",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODkyOTExNTB9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=VEUMOe1txDgYbDO3tothKRGnfKK-~a92BnL8E9I9zK3xC5l9m2QfKv0Eqt~GFpDOJIdRQh9TQMAInKQrudnZxINQ~cWD3v3yuq1lDGznvdQfOpmu41dOCHmUOVGctEzXuuLMuog5U02Rb3lcy9V55W5qn8vdiZDdLtu7qIoTh3peMd0aI7-dQzJEioeT0~y-AnIX7PuLpbqN3zM5HsUlIuR2L3LP5EDka0bA4PJzSoInMTh1lf~K840jqzf9dGBIzvsJPlvzKMhMW-85WO6jhJx7mvYwXuk1vneHOSCvhbda8XWDBHtwXHOE0q7yEaAyp~QS4nGRQP-PlrmX3BknRA__"
+    },
+    {
+      "id": "radio_1_z_rich_ch_474d5a26",
+      "title": "Radio 1 Zürich",
+      "subtitle": "Radio",
+      "location": "Switzerland",
+      "genre": "Radio",
+      "countryCode": "CH",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://stream.radio1.ch/128k?utm_source=chatgpt.com"
+    },
+    {
+      "id": "sevilla_fc_radio_es_d1f7ea91",
+      "title": "Sevilla FC Radio",
+      "subtitle": "Radio",
+      "location": "Spain",
+      "genre": "Radio",
+      "countryCode": "ES",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_ye0b8tc0/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8"
+    },
+    {
+      "id": "listnr_aussie_dance_au_19245566",
+      "title": "LiSTNR - Aussie Dance",
+      "subtitle": "Australian Music",
+      "location": "Australia",
+      "genre": "Australian Music",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 2,
+      "bitrate": 0,
+      "streamUrl": "http://worldradio.online/proxy/?q=https://wz0liw.scahw.com.au/live/aussiedance_128.stream/playlist.m3u8"
+    },
+    {
+      "id": "listnr_kids_hits_hls_au_fb1179a4",
+      "title": "LiSTNR - Kids Hits (HLS)",
+      "subtitle": "Kids Hits",
+      "location": "Australia",
+      "genre": "Kids Hits",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 2,
+      "bitrate": 0,
+      "streamUrl": "http://wz0liw.scahw.com.au/live/kids-hits.stream/playlist.m3u8"
+    },
+    {
+      "id": "listnr_movie_hits_hls_au_53d01436",
+      "title": "LiSTNR - Movie Hits (HLS)",
+      "subtitle": "Movie Hits",
+      "location": "Australia",
+      "genre": "Movie Hits",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 2,
+      "bitrate": 0,
+      "streamUrl": "http://wz0liw.scahw.com.au/live/movie-hits.stream/playlist.m3u8"
+    },
+    {
+      "id": "onair_im_au_e5405b76",
+      "title": "OnAir IM",
+      "subtitle": "Radio",
+      "location": "Australia",
+      "genre": "Radio",
+      "countryCode": "AU",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 96,
+      "streamUrl": "https://sydney.onair.im/listen/im_radio_sydney/radio.mp3"
+    },
+    {
+      "id": "sunshine_coast_au_17ca836c",
+      "title": "Sunshine Coast",
+      "subtitle": "Radio",
+      "location": "Australia",
+      "genre": "Radio",
+      "countryCode": "AU",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 320,
+      "streamUrl": "https://cast4.my-control-panel.com/proxy/liquidsunnycoast/stream"
+    },
+    {
+      "id": "imc_country_radio_au_8b8cc2f5",
+      "title": "IMC Country Radio",
+      "subtitle": "Radio",
+      "location": "Australia",
+      "genre": "Radio",
+      "countryCode": "AU",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 192,
+      "streamUrl": "https://servidor36.brlogic.com:7050/live"
     }
   ]
 }

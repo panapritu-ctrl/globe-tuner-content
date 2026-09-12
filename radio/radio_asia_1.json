@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-11T02:59:36Z",
+  "updated": "2026-09-12T03:08:45Z",
   "region": "asia",
   "part": 1,
   "of": 3,
@@ -11562,19 +11562,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_mianyang_music_radio_f6f2b276",
-      "title": "Mianyang Music Radio",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://ls.qingting.fm/live/4025.m3u8",
-      "location": "Szechuan, China",
-      "genre": "Radio",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 2,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_mianyang_traffic_radio_a2aa158a",
       "title": "Mianyang Traffic Radio",
       "subtitle": "Radio",
@@ -15839,19 +15826,6 @@
       "countryCode": "CN",
       "language": "chinese",
       "clickCount": 1,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_station_a620a356",
-      "title": "嘉定综合广播",
-      "subtitle": "Full Service",
-      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/9e3df8dcd100baa1cd11678ed144ae12c8fcc3ce80f0?x-bce-process=image/format,f_auto/watermark,image_d2F0ZXIvYmFpa2UyNzI,g_7,xp_5,yp_5,P_20",
-      "streamUrl": "http://5730.liveplay.myqcloud.com/live/JcmcGBMar.m3u8",
-      "location": "Shanghai, China",
-      "genre": "Full Service",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 0,
       "bitrate": 128
     },
     {
@@ -26375,18 +26349,6 @@
       "streamUrl": "http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8"
     },
     {
-      "id": "jeff_af_0d931bc4",
-      "title": "jeff",
-      "subtitle": "Classical",
-      "location": "Afghanistan",
-      "genre": "Classical",
-      "countryCode": "AF",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 874,
-      "streamUrl": "http://web.archive.org/web/20201128202306if_/https://live-cdn.pbskids.org/out/u/est.m3u8"
-    },
-    {
       "id": "fm90_6_cn_c6fafc72",
       "title": "平湖广播 FM90.6（直播间视频流）",
       "subtitle": "Full Service",
@@ -27189,6 +27151,102 @@
       "clickCount": 2,
       "bitrate": 0,
       "streamUrl": "https://lhttp.qingting.fm/live/5022551/64k.mp3"
+    },
+    {
+      "id": "kiss_fm_armenia_am_b53d9708",
+      "title": "Kiss FM Armenia",
+      "subtitle": "Radio",
+      "location": "Armenia",
+      "genre": "Radio",
+      "countryCode": "AM",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 256,
+      "streamUrl": "https://am.radioaurora.am/kiss"
+    },
+    {
+      "id": "station_cn_ac9fe0b4",
+      "title": "第一财经（一财官网线路）",
+      "subtitle": "Economics",
+      "location": "China",
+      "genre": "Economics",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://a1live.livecdn.yicai.com/live/yicai_radio.m3u8"
+    },
+    {
+      "id": "jazz_fm_106_9_yerevan_radio_am_369981c4",
+      "title": "Jazz FM 106.9 Yerevan Radio",
+      "subtitle": "Jazz",
+      "location": "Armenia",
+      "genre": "Jazz",
+      "countryCode": "AM",
+      "language": "armenian",
+      "clickCount": 3,
+      "bitrate": 192,
+      "streamUrl": "https://de.auroramedia.am/jazz.mp3"
+    },
+    {
+      "id": "station_cn_a21ee95a",
+      "title": "广元旅游广播",
+      "subtitle": "Traffic",
+      "location": "China",
+      "genre": "Traffic",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://m3u8.channel.dzsm.com/nmip-media/audiolive/audio101760/playlist.m3u8"
+    },
+    {
+      "id": "station_cn_4a407bdb",
+      "title": "河源旅游广播",
+      "subtitle": "Music",
+      "location": "China",
+      "genre": "Music",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "http://tmpstream.hyrtv.cn/lygb/sd/live.m3u8"
+    },
+    {
+      "id": "station_cn_9ab40c3b",
+      "title": "自强之声",
+      "subtitle": "Internet Radio",
+      "location": "China",
+      "genre": "Internet Radio",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://lhttp-hw.qtfm.cn/live/5021905/64k.mp3"
+    },
+    {
+      "id": "station_cn_e252a411",
+      "title": "巴中交通旅游广播",
+      "subtitle": "Entertainment",
+      "location": "China",
+      "genre": "Entertainment",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 2,
+      "bitrate": 0,
+      "streamUrl": "https://lhttp.qtfm.cn/live/20209340/64k.mp3"
+    },
+    {
+      "id": "station_cn_17fbf414",
+      "title": "高阳人民广播电台",
+      "subtitle": "Music",
+      "location": "China",
+      "genre": "Music",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 2,
+      "bitrate": 0,
+      "streamUrl": "http://lhttp.qingting.fm/live/5021555/64k.mp3"
     }
   ]
 }

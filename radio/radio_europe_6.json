@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-11T02:59:36Z",
+  "updated": "2026-09-12T03:08:45Z",
   "region": "europe",
   "part": 6,
   "of": 8,
@@ -2344,19 +2344,6 @@
       "language": null,
       "clickCount": 0,
       "bitrate": 320
-    },
-    {
-      "id": "rb2_radio_proposta_01babffb",
-      "title": "Radio Proposta",
-      "subtitle": "Radio",
-      "imageUrl": "https://www.radioproposta.it/wp-content/uploads/2023/02/cropped-favicon-180x180.png",
-      "streamUrl": "http://s3.mediastreaming.it:7034/;",
-      "location": "Italy",
-      "genre": "Radio",
-      "countryCode": "IT",
-      "language": "italian",
-      "clickCount": 0,
-      "bitrate": 256
     },
     {
       "id": "rb2_radio_puglia_96225f9e",
@@ -9020,19 +9007,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_imago_fm_e9680f99",
-      "title": "imago.fm",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://109.233.192.78:8000/_a",
-      "location": "The Republic Of Moldova",
-      "genre": "Radio",
-      "countryCode": "MD",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "antena_m_me",
       "title": "Antena M",
       "subtitle": "MP3 128kbps",
@@ -13298,15 +13272,6 @@
       "bitrate": 128
     },
     {
-      "id": "jazz_de_ville_jazz_nl_c55d88",
-      "title": "Jazz de Ville - Jazz",
-      "subtitle": "Jazz",
-      "location": "The Netherlands",
-      "genre": "Jazz",
-      "streamUrl": "https://onair22.xdevel.com/proxy/xautocloud_kkyb_420?mp=/stream",
-      "countryCode": "NL"
-    },
-    {
       "id": "rb2_jinglegek_627c1466",
       "title": "Jinglegek",
       "subtitle": "Radio",
@@ -13479,19 +13444,6 @@
       "language": null,
       "clickCount": 1,
       "bitrate": 192
-    },
-    {
-      "id": "rb2_l_fm_de_gezelligste_zender_van_brabant_9a9325dd",
-      "title": "L-FM - De gezelligste zender van Brabant",
-      "subtitle": "60S, 70S",
-      "imageUrl": "https://l-fm.nl/images/logos/logogroen.png",
-      "streamUrl": "https://stream.l-fm.nl:8443/;",
-      "location": "Brabant, The Netherlands",
-      "genre": "60S",
-      "countryCode": "NL",
-      "language": "brabants",
-      "clickCount": 0,
-      "bitrate": 128
     },
     {
       "id": "rb2_l_o_v_e_lokale_omroep_volendam_edam_ebb74a52",
@@ -17624,19 +17576,6 @@
       "language": "english",
       "clickCount": 0,
       "bitrate": 64
-    },
-    {
-      "id": "rb2_radyo_kewra_3788322d",
-      "title": "Radyo Kewra",
-      "subtitle": "Folk Music, Kurdish Songs",
-      "imageUrl": "https://oiradio.co/assets/images/stations/c/c27cb4b3cf4986890468b85acce73f55.png",
-      "streamUrl": "http://198.7.59.28:8146/;",
-      "location": "The Netherlands",
-      "genre": "Folk Music",
-      "countryCode": "NL",
-      "language": "kurdish",
-      "clickCount": 0,
-      "bitrate": 128
     },
     {
       "id": "rb2_real_hardstyle_radio_b9201e54",
@@ -24635,18 +24574,6 @@
       "streamUrl": "https://stream.laut.fm/m2o-originals-radio"
     },
     {
-      "id": "npo_radio_6_soul_jazz_nl_fefb2803",
-      "title": "NPO Radio 6 Soul & Jazz",
-      "subtitle": "Dutch",
-      "location": "The Netherlands",
-      "genre": "Dutch",
-      "countryCode": "NL",
-      "language": "dutch",
-      "clickCount": 6,
-      "bitrate": 192,
-      "streamUrl": "https://icecast.omroep.nl/radio6-bb-mp3"
-    },
-    {
       "id": "sublime_nl_5519a9df",
       "title": "Sublime",
       "subtitle": "Radio",
@@ -27633,6 +27560,66 @@
       "clickCount": 3,
       "bitrate": 160,
       "streamUrl": "http://radiozuyd.shoutcaststream.com:8199/stream"
+    },
+    {
+      "id": "radio_party_groove_it_9e4d53ac",
+      "title": "Radio Party Groove",
+      "subtitle": "Radio",
+      "location": "Italy",
+      "genre": "Radio",
+      "countryCode": "IT",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://stream12.top-ix.org:80/partygroove"
+    },
+    {
+      "id": "radio_napoli_doc_it_b18e9a84",
+      "title": "Radio Napoli Doc",
+      "subtitle": "Radio",
+      "location": "Italy",
+      "genre": "Radio",
+      "countryCode": "IT",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 64,
+      "streamUrl": "https://ice08.fluidstream.net/RadioNapoli.aac"
+    },
+    {
+      "id": "nrk_p1_vestfold_no_86c24fb5",
+      "title": "NRK P1 Vestfold",
+      "subtitle": "Radio",
+      "location": "Norway",
+      "genre": "Radio",
+      "countryCode": "NO",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p1_dk12"
+    },
+    {
+      "id": "radio_moldova_md_5a6e3abb",
+      "title": "Radio Moldova",
+      "subtitle": "Folk",
+      "location": "The Republic Of Moldova",
+      "genre": "Folk",
+      "countryCode": "MD",
+      "language": "romanian",
+      "clickCount": 3,
+      "bitrate": 320,
+      "streamUrl": "http://radiolive.trm.md:8000/RC-Actualitati"
+    },
+    {
+      "id": "leproradio_lt_b9be09d1",
+      "title": "Leproradio",
+      "subtitle": "Radio",
+      "location": "Lithuania",
+      "genre": "Radio",
+      "countryCode": "LT",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "https://live.leproradio.com/bender.ogg"
     }
   ]
 }

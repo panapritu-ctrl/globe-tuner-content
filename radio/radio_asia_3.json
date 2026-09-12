@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-11T02:59:35Z",
+  "updated": "2026-09-12T03:08:45Z",
   "region": "asia",
   "part": 3,
   "of": 3,
@@ -10612,19 +10612,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_ulusal_arabesk_da05f0a8",
-      "title": "ULUSAL ARABESK",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://radio.guventechnology.com/9334/stream",
-      "location": "Türkiye",
-      "genre": "Radio",
-      "countryCode": "TR",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 48
-    },
-    {
       "id": "vav_radyo_tr_624021",
       "title": "Vav Radyo",
       "subtitle": "Radio",
@@ -12842,15 +12829,6 @@
       "countryCode": "UZ"
     },
     {
-      "id": "radio_o_zbegim_taronasi_uz_8d542c",
-      "title": "Radio O'zbegim Taronasi",
-      "subtitle": "Radio",
-      "location": "Uzbekistan",
-      "genre": "Radio",
-      "streamUrl": "https://fm101.uz:9943/fm101_low.aac",
-      "countryCode": "UZ"
-    },
-    {
       "id": "99_8_radio_vn",
       "title": "99.8 Radio",
       "subtitle": "News / Oldies",
@@ -14803,18 +14781,6 @@
       "streamUrl": "https://anadolu.liderhost.com.tr:10994/;"
     },
     {
-      "id": "90_5_th_b3b7c4fe",
-      "title": "มิติข่าว 90.5",
-      "subtitle": "News",
-      "location": "Thailand",
-      "genre": "News",
-      "countryCode": "TH",
-      "language": "thai",
-      "clickCount": 19,
-      "bitrate": 0,
-      "streamUrl": "http://live3.smartbomb.co.th:8624/;stream.mp3"
-    },
-    {
       "id": "radyo_hit_turkiye_tr_cc6b7fcb",
       "title": "Radyo Hit Turkiye",
       "subtitle": "Chr",
@@ -14825,18 +14791,6 @@
       "clickCount": 5,
       "bitrate": 96,
       "streamUrl": "https://play.radyohit.tr/stream"
-    },
-    {
-      "id": "k5_news_fm_bacolod_ph_1811d0cc",
-      "title": "K5 News FM Bacolod",
-      "subtitle": "Radio",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 48,
-      "streamUrl": "http://209.126.124.126:8572/stream"
     },
     {
       "id": "ok_fm_sogod_ph_388f3881",
@@ -15535,18 +15489,6 @@
       "streamUrl": "https://streamnavs.net:8089/live"
     },
     {
-      "id": "star_fm_davao_ph_6359e15c",
-      "title": "Star FM Davao",
-      "subtitle": "Radio",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "language": null,
-      "clickCount": 3,
-      "bitrate": 0,
-      "streamUrl": "https://stream.zeno.fm/sdtv271nz9duv"
-    },
-    {
       "id": "love_radio_iloilo_ph_5b4218be",
       "title": "Love Radio Iloilo",
       "subtitle": "Radio",
@@ -16111,18 +16053,6 @@
       "streamUrl": "http://stream.zenolive.com/wg8yn4cnz9duv"
     },
     {
-      "id": "94_5_bigfm_davao_region_ph_99cf62bb",
-      "title": "94.5 BIGFM - DAVAO REGION",
-      "subtitle": "Radio",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "language": null,
-      "clickCount": 3,
-      "bitrate": 128,
-      "streamUrl": "https://s2.myradiostream.com/9590/listen.mp3"
-    },
-    {
       "id": "k5_news_fm_iloilo_ph_d6c8b93d",
       "title": "K5 News FM Iloilo",
       "subtitle": "Radio",
@@ -16481,6 +16411,102 @@
       "clickCount": 3,
       "bitrate": 192,
       "streamUrl": "https://a7.asurahosting.com:9110/radio.mp3"
+    },
+    {
+      "id": "dinamo_fm_discotheque_tr_694a4cfe",
+      "title": "dinamo.fm discotheque",
+      "subtitle": "70S",
+      "location": "Türkiye",
+      "genre": "70S",
+      "countryCode": "TR",
+      "language": "english",
+      "clickCount": 13,
+      "bitrate": 320,
+      "streamUrl": "http://channels.dinamo.fm/discotheque-mp3"
+    },
+    {
+      "id": "90_5_th_b3b7c4fe",
+      "title": "มิติข่าว 90.5",
+      "subtitle": "News",
+      "location": "Thailand",
+      "genre": "News",
+      "countryCode": "TH",
+      "language": "thai",
+      "clickCount": 9,
+      "bitrate": 0,
+      "streamUrl": "http://live3.smartbomb.co.th:8624/;stream.mp3"
+    },
+    {
+      "id": "radio_olive_106_3_fm_qa_f70d27a9",
+      "title": "Radio Olive 106.3 FM",
+      "subtitle": "Radio",
+      "location": "Qatar",
+      "genre": "Radio",
+      "countryCode": "QA",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://osrnstream.olivesuno.com/olive1063.mp3"
+    },
+    {
+      "id": "24_radyo_tr_f9b0667c",
+      "title": "24 Radyo",
+      "subtitle": "Haber",
+      "location": "Türkiye",
+      "genre": "Haber",
+      "countryCode": "TR",
+      "language": "turkish",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://radyo24.radyotvonline.net/radyo24"
+    },
+    {
+      "id": "dinamo_fm_live_from_minimuzikhol_tr_99f64b58",
+      "title": "dinamo.fm live from minimuzikhol",
+      "subtitle": "Electronic",
+      "location": "Türkiye",
+      "genre": "Electronic",
+      "countryCode": "TR",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://channels.dinamo.fm/mmradyo-mp3"
+    },
+    {
+      "id": "y101fm_cebu_ph_72f638f1",
+      "title": "Y101fm Cebu",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 64,
+      "streamUrl": "http://209.126.124.126:8849/stream"
+    },
+    {
+      "id": "lke_radyo_tr_4f367b56",
+      "title": "Ülke Radyo",
+      "subtitle": "Haber",
+      "location": "Türkiye",
+      "genre": "Haber",
+      "countryCode": "TR",
+      "language": "turkish",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://ssl4.radyotvonline.com/radyohome/ulkeradyo.stream_aac/playlist.m3u8"
+    },
+    {
+      "id": "station_tw_ad7bbc4a",
+      "title": "陽光電台",
+      "subtitle": "Radio",
+      "location": "Taiwan, Republic Of China",
+      "genre": "Radio",
+      "countryCode": "TW",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "http://202.39.43.67:1935/live/RA000079/chunklist.m3u8"
     }
   ]
 }

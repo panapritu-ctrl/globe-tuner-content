@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-11T02:59:36Z",
+  "updated": "2026-09-12T03:08:45Z",
   "region": "africa",
   "stations": [
     {
@@ -5181,19 +5181,6 @@
       "countryCode": "TN",
       "language": null,
       "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_station_c87ff033",
-      "title": "الشيخ سعد الغامدي",
-      "subtitle": "قران",
-      "imageUrl": "",
-      "streamUrl": "https://qurango.net/radio/saad_alghamdi",
-      "location": "Tunisia",
-      "genre": "قران",
-      "countryCode": "TN",
-      "language": "العربية",
-      "clickCount": 3,
       "bitrate": 128
     },
     {
@@ -10383,6 +10370,54 @@
       "clickCount": 3,
       "bitrate": 128000,
       "streamUrl": "https://radio-ic.osmarks.net/128k.ogg"
+    },
+    {
+      "id": "duma_fm_bw_76e378f1",
+      "title": "Duma FM",
+      "subtitle": "Radio",
+      "location": "Botswana",
+      "genre": "Radio",
+      "countryCode": "BW",
+      "language": null,
+      "clickCount": 7,
+      "bitrate": 96,
+      "streamUrl": "http://s3.voscast.com:10076/stream"
+    },
+    {
+      "id": "cidade_fm_cabo_verde_cv_6fbeea82",
+      "title": "Cidade FM Cabo Verde",
+      "subtitle": "Radio",
+      "location": "Cabo Verde",
+      "genre": "Radio",
+      "countryCode": "CV",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 64,
+      "streamUrl": "https://hts02.brascast.com:9288/stream"
+    },
+    {
+      "id": "neat_fm_gh_b2b71baf",
+      "title": "Neat Fm",
+      "subtitle": "Entertainment",
+      "location": "Ghana",
+      "genre": "Entertainment",
+      "countryCode": "GH",
+      "language": "akan",
+      "clickCount": 3,
+      "bitrate": 64,
+      "streamUrl": "https://atunwadigital.streamguys1.com/neatfm"
+    },
+    {
+      "id": "nyatefe_radio_gh_d2502554",
+      "title": "Nyatefe Radio",
+      "subtitle": "News",
+      "location": "Ghana",
+      "genre": "News",
+      "countryCode": "GH",
+      "language": "english",
+      "clickCount": 2,
+      "bitrate": 0,
+      "streamUrl": "https://node-26.zeno.fm/gagafyhmh5zuv?rj-ttl=5&rj-tok=AAABdyiJ2-cAWkd2Hxi7W-MVNQ"
     }
   ]
 }

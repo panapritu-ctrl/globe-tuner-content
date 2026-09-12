@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-11T02:59:36Z",
+  "updated": "2026-09-12T03:08:45Z",
   "region": "europe",
   "part": 5,
   "of": 8,
@@ -8820,19 +8820,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_93_8_6137c958",
-      "title": "Κρητικόραμα 93.8",
-      "subtitle": "Greek Traditional",
-      "imageUrl": "http://resources.live24.gr/resources/images/stations/79db467f-4902-4ce2-8d44-4fba476f1296.jpg",
-      "streamUrl": "http://prech.kritikorama.eu:9382/prech",
-      "location": "Chania, Greece",
-      "genre": "Greek Traditional",
-      "countryCode": "GR",
-      "language": "greek",
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_88_7_f066a63f",
       "title": "Κρητικός 88.7",
       "subtitle": "Greek, Traditional",
@@ -10661,19 +10648,6 @@
       "language": null,
       "clickCount": 0,
       "bitrate": 320
-    },
-    {
-      "id": "rb2_94_9_58d38401",
-      "title": "Ρυθμός Αχαΐας 94.9",
-      "subtitle": "Greek, Mainstream",
-      "imageUrl": "http://resources.live24.gr/resources/images/stations/7b716e6c-1200-452d-9fc9-cfeec09793f8.jpg",
-      "streamUrl": "https://netradio.live24.gr/rythmospatras949",
-      "location": "Patra, Greece",
-      "genre": "Greek",
-      "countryCode": "GR",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
     },
     {
       "id": "rb2_99_7_e19e9ba3",
@@ -13702,19 +13676,6 @@
       "bitrate": 320
     },
     {
-      "id": "rb2_bdpst_rock_96_kbit_s_b7f335dd",
-      "title": "BDPST ROCK -  96 kbit/s;",
-      "subtitle": "Rock",
-      "imageUrl": "https://bdpstrock.hu/favicon.ico",
-      "streamUrl": "http://s2.audiostream.hu/bdpstrock_96k",
-      "location": "Hungary",
-      "genre": "Rock",
-      "countryCode": "HU",
-      "language": "hungarian",
-      "clickCount": 3,
-      "bitrate": 96
-    },
-    {
       "id": "bdpst_rock_r_di_hi_fi_lossless_flac_hu_543402",
       "title": "BDPST ROCK Rádió (Hi-Fi / Lossless / FLAC)",
       "subtitle": "Alternative Rock",
@@ -14450,15 +14411,6 @@
       "language": "hungarian",
       "clickCount": 1,
       "bitrate": 128
-    },
-    {
-      "id": "danubius_r_di_hu_b33692",
-      "title": "Danubius Rádió",
-      "subtitle": "Radio",
-      "location": "Hungary",
-      "genre": "Radio",
-      "streamUrl": "https://stream.danubiusradio.hu/danubius_192k",
-      "countryCode": "HU"
     },
     {
       "id": "rb2_disco_diamond_radio_71b53021",
@@ -18168,19 +18120,6 @@
       "genre": "Radio",
       "countryCode": "IE",
       "language": "english",
-      "clickCount": 0,
-      "bitrate": 192
-    },
-    {
-      "id": "rb2_st_ita_s_hospital_radio_22f30492",
-      "title": "St. Ita’s Hospital Radio",
-      "subtitle": "Radio",
-      "imageUrl": "https://us7.streamingpulse.com/1962/tmp/images/default.png",
-      "streamUrl": "https://de2.streamingpulse.com/ssl/8042",
-      "location": "Ireland",
-      "genre": "Radio",
-      "countryCode": "IE",
-      "language": null,
       "clickCount": 0,
       "bitrate": 192
     },
@@ -27013,18 +26952,6 @@
       "streamUrl": "https://radiostreaming.ert.gr/ert-talaika"
     },
     {
-      "id": "athens_dee_jay_95_2_gr_1d5f9092",
-      "title": "Athens Dee Jay 95.2",
-      "subtitle": "Pop",
-      "location": "Greece",
-      "genre": "Pop",
-      "countryCode": "GR",
-      "language": "greek",
-      "clickCount": 6,
-      "bitrate": 192,
-      "streamUrl": "https://netradio.live24.gr/athensdeejay"
-    },
-    {
       "id": "17_3_102_fm_gr_03e99ec0",
       "title": "17.ΕΡΤ3 102 FM",
       "subtitle": "Radio",
@@ -27899,6 +27826,102 @@
       "clickCount": 2,
       "bitrate": 0,
       "streamUrl": "https://base44.app/api/apps/6a1fdf6444e437e5f3a701be/files/mp/public/6a1fdf6444e437e5f3a701be/1189115bf_AmordeAltavoz1.mp3"
+    },
+    {
+      "id": "radio_party_groove_it_fea32e3c",
+      "title": "Radio Party Groove",
+      "subtitle": "Alpignano",
+      "location": "Italy",
+      "genre": "Alpignano",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 8,
+      "bitrate": 192,
+      "streamUrl": "http://stream15.top-ix.org/partygroove"
+    },
+    {
+      "id": "radio_perugia_it_41ca9e4d",
+      "title": "Radio Perugia",
+      "subtitle": "Radio",
+      "location": "Italy",
+      "genre": "Radio",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 5,
+      "bitrate": 64,
+      "streamUrl": "https://voice.webradio.bz/radioperugia2"
+    },
+    {
+      "id": "yammat_fm_romantic_rebels_pop_waves_hr_5549e442",
+      "title": "Yammat FM Romantic Rebels & Pop Waves",
+      "subtitle": "80S",
+      "location": "Croatia",
+      "genre": "80S",
+      "countryCode": "HR",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://stream.yammat.fm/listen/romantic_rebels__pop_waves/radio.mp3"
+    },
+    {
+      "id": "yammat_fm_soul_sayer_hr_465b2bab",
+      "title": "Yammat FM Soul Sayer",
+      "subtitle": "Groove",
+      "location": "Croatia",
+      "genre": "Groove",
+      "countryCode": "HR",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://stream.yammat.fm/listen/soul_sayer/radio.mp3"
+    },
+    {
+      "id": "clare_fm_ie_9c0c6bd8",
+      "title": "Clare FM",
+      "subtitle": "Radio",
+      "location": "Ireland",
+      "genre": "Radio",
+      "countryCode": "IE",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/CLARE_FM.mp3?dist=web"
+    },
+    {
+      "id": "yammat_fm_street_spitta_hr_1a8a6950",
+      "title": "Yammat FM Street Spitta",
+      "subtitle": "Grime",
+      "location": "Croatia",
+      "genre": "Grime",
+      "countryCode": "HR",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 320,
+      "streamUrl": "https://stream.yammat.fm/listen/street_spitta/radio.mp3"
+    },
+    {
+      "id": "radio_firenze_viola_it_a0834677",
+      "title": "Radio Firenze Viola",
+      "subtitle": "Radio",
+      "location": "Italy",
+      "genre": "Radio",
+      "countryCode": "IT",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://stream.tmwradio.com/rfviola.mp3"
+    },
+    {
+      "id": "university_college_cork_ie_a5f39fbb",
+      "title": "University College Cork",
+      "subtitle": "College",
+      "location": "Ireland",
+      "genre": "College",
+      "countryCode": "IE",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 320,
+      "streamUrl": "https://stream.btsstream.com:8060/ucc.mp3"
     }
   ]
 }
