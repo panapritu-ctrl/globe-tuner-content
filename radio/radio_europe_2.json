@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-12T03:08:22Z",
+  "updated": "2026-09-13T03:09:38Z",
   "region": "europe",
   "part": 2,
   "of": 8,
@@ -13784,19 +13784,6 @@
       "countryCode": "DE",
       "language": "german",
       "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_showagenten_radio_alles_deutsch_85f4e4e3",
-      "title": "SHOWAGENTEN RADIO - ALLES DEUTSCH",
-      "subtitle": "Radio",
-      "imageUrl": "https://www.radioking.com/api/track/cover/bb2b5cc2-106a-419e-9b6e-b688c2040a45?width=160&height=160",
-      "streamUrl": "https://www.radioking.com/play/alles-deutsch/599126",
-      "location": "Germany",
-      "genre": "Radio",
-      "countryCode": "DE",
-      "language": "deu",
-      "clickCount": 1,
       "bitrate": 128
     },
     {
@@ -28033,18 +28020,6 @@
       "streamUrl": "https://streams.radio7.de/rv/mp3-192/web/"
     },
     {
-      "id": "dr_p4_stjylland_aac_dk_86d978b1",
-      "title": "DR P4 Østjylland (AAC)",
-      "subtitle": "Regional Radio",
-      "location": "Denmark",
-      "genre": "Regional Radio",
-      "countryCode": "DK",
-      "language": "danish",
-      "clickCount": 2,
-      "bitrate": 324,
-      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4ostjylland/masterab.m3u8"
-    },
-    {
       "id": "radio_diablo_aac_dk_a92f8725",
       "title": "Radio Diablo (AAC)",
       "subtitle": "News",
@@ -28427,6 +28402,30 @@
       "clickCount": 2,
       "bitrate": 324,
       "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4sjaelland/masterab.m3u8"
+    },
+    {
+      "id": "radioflr_dk_8cab831c",
+      "title": "RadioFLR",
+      "subtitle": "Local Radio",
+      "location": "Denmark",
+      "genre": "Local Radio",
+      "countryCode": "DK",
+      "language": "danish",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "http://play.radioflr.dk:9000/stream"
+    },
+    {
+      "id": "dr_p4_stjylland_aac_dk_86d978b1",
+      "title": "DR P4 Østjylland (AAC)",
+      "subtitle": "Regional Radio",
+      "location": "Denmark",
+      "genre": "Regional Radio",
+      "countryCode": "DK",
+      "language": "danish",
+      "clickCount": 2,
+      "bitrate": 324,
+      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4ostjylland/masterab.m3u8"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-12T03:08:22Z",
+  "updated": "2026-09-13T03:09:37Z",
   "region": "europe",
   "part": 1,
   "of": 8,
@@ -4058,19 +4058,6 @@
       "genre": "Local News",
       "countryCode": "BA",
       "language": "bosnian",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_da_extra_b5705de2",
-      "title": "Radio Daš Extra",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://cast2.name.ba:8085/stream",
-      "location": "Serpska, Bosnia And Herzegovina",
-      "genre": "Radio",
-      "countryCode": "BA",
-      "language": null,
       "clickCount": 0,
       "bitrate": 128
     },
@@ -8585,32 +8572,6 @@
       "language": null,
       "clickCount": 1,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_easy_radio_f8b18196",
-      "title": "Easy Radio",
-      "subtitle": "Radio",
-      "imageUrl": "https://easyradio.bg/apple-touch-icon.png",
-      "streamUrl": "https://live.easyradio.bg/aac?type=.mp3",
-      "location": "Bulgaria",
-      "genre": "Radio",
-      "countryCode": "BG",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 320
-    },
-    {
-      "id": "rb2_easy_radio_bg_eeab63e3",
-      "title": "Easy Radio BG",
-      "subtitle": "Internet",
-      "imageUrl": "",
-      "streamUrl": "https://live.easyradio.bg/192?type=.mp3",
-      "location": "Bulgaria",
-      "genre": "Internet",
-      "countryCode": "BG",
-      "language": "bulgarian",
-      "clickCount": 1,
-      "bitrate": 192
     },
     {
       "id": "rb2_eilo_radio_progressive_radio_01ced4c6",
@@ -13255,19 +13216,6 @@
       "streamUrl": "http://radiochablais.ice.infomaniak.ch/radiochablais-high.mp3",
       "location": "Suisse Romande, Switzerland",
       "genre": "Radio",
-      "countryCode": "CH",
-      "language": "french",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_chablais_100_fran_ais_11a84a23",
-      "title": "Radio Chablais - 100% Français",
-      "subtitle": "France",
-      "imageUrl": "",
-      "streamUrl": "http://stream.radiochablais.ch/chablais-100francais.mp3",
-      "location": "Switzerland",
-      "genre": "France",
       "countryCode": "CH",
       "language": "french",
       "clickCount": 0,
@@ -28157,6 +28105,30 @@
       "clickCount": 2,
       "bitrate": 128,
       "streamUrl": "http://web.radio.antennevorarlberg.at/av-chillout/stream/mp3"
+    },
+    {
+      "id": "radiobob_livestream_national_de_67280d45",
+      "title": "Radiobob Livestream National",
+      "subtitle": "Classic Rock",
+      "location": "Germany",
+      "genre": "Classic Rock",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 15,
+      "bitrate": 0,
+      "streamUrl": "https://streams.radiobob.de/bob-national/mp3-192/streams.radiobob.de/"
+    },
+    {
+      "id": "80s80s_bayern_de_851a95cc",
+      "title": "80s80s BAYERN",
+      "subtitle": "80S",
+      "location": "Germany",
+      "genre": "80S",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 12,
+      "bitrate": 0,
+      "streamUrl": "https://regiocast.streamabc.net/regc-80s80sby-mp3-192-9748144?sABC=6nn37n49%230%23q280o0r09ns9qpq3889p9qqn13p5753s%23fgernzf.80f80f.qr&aw_0_1st.playerid=streams.80s80s.de&amsparams=playerid:streams.80s80s.de;skey:1789098569"
     }
   ]
 }

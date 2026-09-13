@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-12T03:08:45Z",
+  "updated": "2026-09-13T03:09:08Z",
   "region": "oceania",
   "stations": [
     {
@@ -2715,19 +2715,6 @@
       "bitrate": 56
     },
     {
-      "id": "rb2_abc_local_radio_1233_newcastle_nsw_aac_9623c4fc",
-      "title": "ABC Local Radio 1233 Newcastle, NSW (AAC)",
-      "subtitle": "Abc, Information",
-      "imageUrl": "http://www.abc.net.au/favicon.ico",
-      "streamUrl": "http://live-radio01.mediahubaustralia.com/2NEWW/aac/",
-      "location": "New South Wales, Australia",
-      "genre": "Abc",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 56
-    },
-    {
       "id": "rb2_abc_local_radio_1233_newcastle_nsw_mp3_9623c42a",
       "title": "ABC Local Radio 1233 Newcastle, NSW (MP3)",
       "subtitle": "Abc, Information",
@@ -2793,32 +2780,6 @@
       "bitrate": 94
     },
     {
-      "id": "rb2_abc_local_radio_657_western_plains_dubbo_9623ceb5",
-      "title": "ABC Local Radio 657 Western Plains, Dubbo, NSW (MP3)",
-      "subtitle": "Abc, Dubbo",
-      "imageUrl": "http://www.abc.net.au/core-assets/local/favicon-32x32.png",
-      "streamUrl": "http://live-radio02.mediahubaustralia.com/2DUBW/mp3/;",
-      "location": "New South Wales, Australia",
-      "genre": "Abc",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 56
-    },
-    {
-      "id": "rb2_abc_local_radio_675_kimberley_wa_mp3_9623c5d1",
-      "title": "ABC Local Radio 675 Kimberley, WA (MP3)",
-      "subtitle": "Abc, Information",
-      "imageUrl": "http://www.abc.net.au/core-assets/local/favicon-32x32.png",
-      "streamUrl": "http://live-radio02.mediahubaustralia.com/6BRMW/mp3/;",
-      "location": "Western Australia, Australia",
-      "genre": "Abc",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 56
-    },
-    {
       "id": "rb2_abc_local_radio_702_sydney_mp3_9615adcd",
       "title": "ABC Local Radio 702 Sydney (MP3)",
       "subtitle": "Abc, Features",
@@ -2877,32 +2838,6 @@
       "imageUrl": "",
       "streamUrl": "http://abc.streamguys1.com/live/localnorthtas/icecast.audio",
       "location": "Tasmania, Australia",
-      "genre": "Abc",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 56
-    },
-    {
-      "id": "rb2_abc_local_radio_936_hobart_mp3_9617dea5",
-      "title": "ABC Local Radio 936 Hobart  MP3",
-      "subtitle": "Abc, Hobart",
-      "imageUrl": "",
-      "streamUrl": "http://live-radio01.mediahubaustralia.com/7LRW/mp3/",
-      "location": "Tasmania, Australia",
-      "genre": "Abc",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 56
-    },
-    {
-      "id": "rb2_abc_local_radio_97_7_goulburn_murray_vic_96239c1b",
-      "title": "ABC Local Radio 97.7 Goulburn Murray, VIC (MP3)",
-      "subtitle": "Abc, Goulburn",
-      "imageUrl": "http://www.abc.net.au/core-assets/local/favicon-32x32.png",
-      "streamUrl": "http://live-radio02.mediahubaustralia.com/3WOD/mp3/;",
-      "location": "Victoria, Australia",
       "genre": "Abc",
       "countryCode": "AU",
       "language": "english",
@@ -3198,19 +3133,6 @@
       "bitrate": 56
     },
     {
-      "id": "rb2_abc_triple_j_wa_53b27716",
-      "title": "ABC Triple J (WA)",
-      "subtitle": "Contemporary, Indi",
-      "imageUrl": "https://www.abc.net.au/favicon.ico",
-      "streamUrl": "http://live-radio01.mediahubaustralia.com/6TJW/aac/",
-      "location": "Western Australia, Australia",
-      "genre": "Contemporary",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 4,
-      "bitrate": 56
-    },
-    {
       "id": "abc_triple_j_queensland_20220701_au_121379",
       "title": "ABC Triple J Queensland 20220701",
       "subtitle": "Current Affairs",
@@ -3218,19 +3140,6 @@
       "genre": "News",
       "countryCode": "AU",
       "streamUrl": "https://mediaserviceslive.akamaized.net/hls/live/2038347/triplejqld/masterhq.m3u8"
-    },
-    {
-      "id": "rb2_abc_triple_j_unearthed_mp3_9623ada6",
-      "title": "ABC Triple J Unearthed  (MP3)",
-      "subtitle": "Abc, Indie",
-      "imageUrl": "",
-      "streamUrl": "http://live-radio01.mediahubaustralia.com/UNEW/mp3/",
-      "location": "Australia",
-      "genre": "Abc",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 56
     },
     {
       "id": "rb2_abc_triple_j_unearthed_aac_9623ae7d",
@@ -18357,18 +18266,6 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://livecast1.soundofhope.org:2087/soh-live"
-    },
-    {
-      "id": "abc_grandstand_aac_au_8b3d23c1",
-      "title": "ABC Grandstand (AAC)",
-      "subtitle": "Abc",
-      "location": "Australia",
-      "genre": "Abc",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 5,
-      "bitrate": 56,
-      "streamUrl": "http://live-radio02.mediahubaustralia.com/GSDW/aac/;"
     },
     {
       "id": "pure_hits_retro_au_3c671789",

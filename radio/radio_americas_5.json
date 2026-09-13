@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-12T03:08:45Z",
+  "updated": "2026-09-13T03:09:38Z",
   "region": "americas",
   "part": 5,
   "of": 5,
@@ -1885,18 +1885,6 @@
       "streamUrl": "https://acp2.lorini.net:58400/stream"
     },
     {
-      "id": "del_plata_fm_95_5_uy_d8e68740",
-      "title": "Del Plata FM 95.5",
-      "subtitle": "Adult Contemporary",
-      "location": "Uruguay",
-      "genre": "Adult Contemporary",
-      "countryCode": "UY",
-      "language": "spanish",
-      "clickCount": 3,
-      "bitrate": 0,
-      "streamUrl": "https://alba-uy-delplata-delplata.stream.mediatiquestream.com/index.m3u8"
-    },
-    {
       "id": "miranda_100_1_fm_stereo_ve_e57ddb0a",
       "title": "Miranda 100.1 FM Stereo",
       "subtitle": "Latino",
@@ -2123,6 +2111,42 @@
       "clickCount": 3,
       "bitrate": 128,
       "streamUrl": "http://server.laradio.online:9114/;"
+    },
+    {
+      "id": "la_romantica_88_9_fm_ve_03179ab6",
+      "title": "La Romantica 88.9 FM",
+      "subtitle": "Baladas",
+      "location": "Bolivarian Republic Of Venezuela",
+      "genre": "Baladas",
+      "countryCode": "VE",
+      "language": "spanish",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://acp2.lorini.net:58100/stream"
+    },
+    {
+      "id": "activa_104_9_fm_ve_0f8d919a",
+      "title": "ACTIVA 104.9 FM",
+      "subtitle": "Amor",
+      "location": "Bolivarian Republic Of Venezuela",
+      "genre": "Amor",
+      "countryCode": "VE",
+      "language": "spanish",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://stream.zeno.fm/t31pbasum7zuv"
+    },
+    {
+      "id": "radio_elim_lldm_vi_6645d258",
+      "title": "Radio Elim LLDM",
+      "subtitle": "Christian",
+      "location": "US Virgin Islands",
+      "genre": "Christian",
+      "countryCode": "VI",
+      "language": "spanish",
+      "clickCount": 3,
+      "bitrate": 192,
+      "streamUrl": "https://radio.elimlldm.net/listen/elim_lldm/radio.mp3"
     }
   ]
 }

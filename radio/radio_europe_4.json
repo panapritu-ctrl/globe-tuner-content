@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-12T03:08:45Z",
+  "updated": "2026-09-13T03:09:38Z",
   "region": "europe",
   "part": 4,
   "of": 8,
@@ -14271,19 +14271,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_red_rose_radio_39065863",
-      "title": "Red Rose Radio",
-      "subtitle": "Radio",
-      "imageUrl": "https://mmo.aiircdn.com/1552/6680100859da1.png",
-      "streamUrl": "https://listen.red-roseradio.co.uk:8008/stream?_=520468",
-      "location": "The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "Radio",
-      "countryCode": "GB",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 192
-    },
-    {
       "id": "rb2_redroad_fm_102_4_45afe60a",
       "title": "Redroad FM 102.4",
       "subtitle": "Music Is Life, Oldies",
@@ -27000,18 +26987,6 @@
       "streamUrl": "https://meraklis.ddnsfree.com:8443/live"
     },
     {
-      "id": "rock_hard_greece_gr_49c35d29",
-      "title": "Rock Hard Greece",
-      "subtitle": "Radio",
-      "location": "Greece",
-      "genre": "Radio",
-      "countryCode": "GR",
-      "language": null,
-      "clickCount": 3,
-      "bitrate": 320,
-      "streamUrl": "https://noc.ezhellas.com:44450/live"
-    },
-    {
       "id": "xroma_105_8_gr_06ee5425",
       "title": "XROMA 105.8",
       "subtitle": "Radio",
@@ -27418,6 +27393,66 @@
       "clickCount": 2,
       "bitrate": 128,
       "streamUrl": "http://ice.greekstream.net/focusfm"
+    },
+    {
+      "id": "athens_dee_jay_95_2_gr_1d5f9092",
+      "title": "Athens Dee Jay 95.2",
+      "subtitle": "Pop",
+      "location": "Greece",
+      "genre": "Pop",
+      "countryCode": "GR",
+      "language": "greek",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://netradio.live24.gr/athensdeejay"
+    },
+    {
+      "id": "lemon_88_8_gr_d2136924",
+      "title": "Lemon 88.8",
+      "subtitle": "Pop Music",
+      "location": "Greece",
+      "genre": "Pop Music",
+      "countryCode": "GR",
+      "language": "greek",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://cast.streams.ovh/sc/radio888/stream/"
+    },
+    {
+      "id": "melody_104_5_gr_6a5ed050",
+      "title": "Melody 104.5",
+      "subtitle": "Greek Pop",
+      "location": "Greece",
+      "genre": "Greek Pop",
+      "countryCode": "GR",
+      "language": "greek",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://cast.radiohost.ovh/melodyfm?mp=/stream"
+    },
+    {
+      "id": "g_radio_garavelas_radio_gr_dda665c6",
+      "title": "G Radio (Garavelas Radio)",
+      "subtitle": "Ballads",
+      "location": "Greece",
+      "genre": "Ballads",
+      "countryCode": "GR",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://n06.radiojar.com/garavelas-radio-gr.m4a"
+    },
+    {
+      "id": "hero_gr_d3531e4c",
+      "title": "Hero",
+      "subtitle": "Adult Contemporary",
+      "location": "Greece",
+      "genre": "Adult Contemporary",
+      "countryCode": "GR",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 192,
+      "streamUrl": "https://stream.radiomustathens.com/must-hero"
     }
   ]
 }

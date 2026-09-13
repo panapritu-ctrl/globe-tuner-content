@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-12T03:08:45Z",
+  "updated": "2026-09-13T03:09:37Z",
   "region": "europe",
   "part": 7,
   "of": 8,
@@ -20479,19 +20479,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_kamchatka_rock_121794f8",
-      "title": "Kamchatka Rock",
-      "subtitle": "Рок",
-      "imageUrl": "https://top-radio.ru/assets/image/radio/180/rock-kamchatka.png",
-      "streamUrl": "https://radio.kamchatkalive.ru:8103/rock",
-      "location": "The Russian Federation",
-      "genre": "Рок",
-      "countryCode": "RU",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 160
-    },
-    {
       "id": "rb2_kamonoff_radio_077e18b0",
       "title": "Kamonoff Radio",
       "subtitle": "Radio",
@@ -23943,18 +23930,6 @@
       "streamUrl": "http://streaming.tdiradio.com:8000/love"
     },
     {
-      "id": "naxi_exyu_radio_rs_cd758bf6",
-      "title": "Naxi ExYu Radio",
-      "subtitle": "Radio",
-      "location": "Serbia",
-      "genre": "Radio",
-      "countryCode": "RS",
-      "language": "serbian",
-      "clickCount": 11,
-      "bitrate": 128,
-      "streamUrl": "https://naxidigital-exyu128ssl.streaming.rs:8242/;stream.nsv"
-    },
-    {
       "id": "przystan_pl_e21a59af",
       "title": "Przystan",
       "subtitle": "Radio",
@@ -25489,6 +25464,78 @@
       "clickCount": 3,
       "bitrate": 128,
       "streamUrl": "https://radio.sonicpanel.ro/8102/stream"
+    },
+    {
+      "id": "naxi_exyu_radio_rs_cd758bf6",
+      "title": "Naxi ExYu Radio",
+      "subtitle": "Radio",
+      "location": "Serbia",
+      "genre": "Radio",
+      "countryCode": "RS",
+      "language": "serbian",
+      "clickCount": 20,
+      "bitrate": 128,
+      "streamUrl": "https://naxidigital-exyu128ssl.streaming.rs:8242/;stream.nsv"
+    },
+    {
+      "id": "radio_manele_romania_ro_ee1ca243",
+      "title": "Radio Manele Romania",
+      "subtitle": "Radio",
+      "location": "Romania",
+      "genre": "Radio",
+      "countryCode": "RO",
+      "language": null,
+      "clickCount": 7,
+      "bitrate": 128,
+      "streamUrl": "http://petrecere.fmradiomanele.ro:8123/;stream.nsv"
+    },
+    {
+      "id": "r_dio_onbouge_portugu_s_pt_f182235a",
+      "title": "Rádio OnBouge Português",
+      "subtitle": "Community",
+      "location": "Portugal",
+      "genre": "Community",
+      "countryCode": "PT",
+      "language": "portuguese",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://onbouge.eu/flux/onbouge-pt.mp3"
+    },
+    {
+      "id": "balkan_radio_24_7_rs_dc72671f",
+      "title": "Balkan Radio 24/7",
+      "subtitle": "Radio",
+      "location": "Serbia",
+      "genre": "Radio",
+      "countryCode": "RS",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://stream.laut.fm/balkan-radio-24-7"
+    },
+    {
+      "id": "super_fm_brasov_93_8_ro_8b2b3d88",
+      "title": "Super FM Brasov 93.8",
+      "subtitle": "Radio",
+      "location": "Romania",
+      "genre": "Radio",
+      "countryCode": "RO",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 192,
+      "streamUrl": "https://live.superfm.ro/stream.mp3?time=1697692801"
+    },
+    {
+      "id": "radio_energy_cugir_ro_24c3872b",
+      "title": "Radio Energy Cugir",
+      "subtitle": "00S",
+      "location": "Romania",
+      "genre": "00S",
+      "countryCode": "RO",
+      "language": "romanian",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://sonicssl.namehost.ro/8790/stream/;"
     }
   ]
 }

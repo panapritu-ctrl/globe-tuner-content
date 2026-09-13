@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-12T03:08:45Z",
+  "updated": "2026-09-13T03:09:38Z",
   "region": "europe",
   "part": 8,
   "of": 8,
@@ -20800,15 +20800,6 @@
       "bitrate": 128
     },
     {
-      "id": "europa_plus_ua_d0050e",
-      "title": "Europa Plus",
-      "subtitle": "Dance",
-      "location": "Kyiv, Ukraine",
-      "genre": "Dance",
-      "countryCode": "UA",
-      "streamUrl": "https://s5.radioforge.com:7908/live?n=77357"
-    },
-    {
       "id": "rb2_fm_disco_melody_70f82553",
       "title": "FM Disco Melody",
       "subtitle": "Disco, Pop",
@@ -25074,6 +25065,42 @@
       "clickCount": 3,
       "bitrate": 320,
       "streamUrl": "https://stream.blits-fm.ua/stream64"
+    },
+    {
+      "id": "anima_amoris_deep_tech_house_ru_1c9bcb95",
+      "title": "Anima Amoris Deep Tech House",
+      "subtitle": "Radio",
+      "location": "The Russian Federation",
+      "genre": "Radio",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://amoris.sknt.ru/deeptech.mp3"
+    },
+    {
+      "id": "kuzbass_fm_ru_c5b67a85",
+      "title": "Kuzbass FM",
+      "subtitle": "Classic Hits",
+      "location": "The Russian Federation",
+      "genre": "Classic Hits",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 5,
+      "bitrate": 256,
+      "streamUrl": "http://212.75.194.94:8000/KuzbassFM"
+    },
+    {
+      "id": "rock_ua_f61164a1",
+      "title": "Радіо Київстар Rock",
+      "subtitle": "256 Kbit/S",
+      "location": "Ukraine",
+      "genre": "256 Kbit/S",
+      "countryCode": "UA",
+      "language": "ukranian",
+      "clickCount": 3,
+      "bitrate": 281,
+      "streamUrl": "https://radio.kyivstar.ua/stream/rock/master.m3u8"
     }
   ]
 }
