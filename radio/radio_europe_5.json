@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-13T03:09:37Z",
+  "updated": "2026-09-14T03:24:46Z",
   "region": "europe",
   "part": 5,
   "of": 8,
@@ -23435,19 +23435,6 @@
       "streamUrl": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/Sz3kCA55PrRh/playlist_audio.m3u8"
     },
     {
-      "id": "rb2_rtl_102_5_disco_mobile_48kbps_cfc6a63d",
-      "title": "RTL 102.5 Disco [Mobile 48kbps]",
-      "subtitle": "Dance, House",
-      "imageUrl": "https://rtl.it/favicon-96x96.png",
-      "streamUrl": "https://streamingv2.shoutcast.com/rtl-1025-doc_48.aac",
-      "location": "Italy",
-      "genre": "Dance",
-      "countryCode": "IT",
-      "language": "italian",
-      "clickCount": 2,
-      "bitrate": 96
-    },
-    {
       "id": "rb2_rtl_102_5_news_78f39bc1",
       "title": "RTL 102.5 news",
       "subtitle": "News",
@@ -27969,6 +27956,42 @@
       "clickCount": 2,
       "bitrate": 192,
       "streamUrl": "https://stream.danubiusradio.hu/danubius_192k"
+    },
+    {
+      "id": "jr_radio_hr_b1519c9c",
+      "title": "JR Radio",
+      "subtitle": "Blues Rock",
+      "location": "Croatia",
+      "genre": "Blues Rock",
+      "countryCode": "HR",
+      "language": "croatian",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "http://stream.zeno.fm/pdkt234k698uv.mp3"
+    },
+    {
+      "id": "playfm_dublin_ie_6ce8ef16",
+      "title": "PlayFm Dublin",
+      "subtitle": "Afro House",
+      "location": "Ireland",
+      "genre": "Afro House",
+      "countryCode": "IE",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://stream.playfmdublin.com/radio192.mp3"
+    },
+    {
+      "id": "karlovac_grill_mix_radio_hr_e01cdb3e",
+      "title": "Karlovac Grill Mix radio",
+      "subtitle": "Ballads",
+      "location": "Croatia",
+      "genre": "Ballads",
+      "countryCode": "HR",
+      "language": "croatian",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "http://s8.iqstreaming.com:8006/stream"
     }
   ]
 }

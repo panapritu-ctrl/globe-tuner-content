@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-13T03:09:38Z",
+  "updated": "2026-09-14T03:24:46Z",
   "region": "europe",
   "part": 8,
   "of": 8,
@@ -9076,19 +9076,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_94_6_fm_7e273a7a",
-      "title": "Европа Плюс Обнинск 94.6 FM",
-      "subtitle": "Evropa Plus, Music",
-      "imageUrl": "",
-      "streamUrl": "http://77.244.74.133:1956/epobninsk",
-      "location": "The Russian Federation",
-      "genre": "Evropa Plus",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 0,
-      "bitrate": 192
-    },
-    {
       "id": "rb2_105_7_fm_016e9fec",
       "title": "Европа Плюс Ростов-на-Дону 105.7 FM",
       "subtitle": "Music, Pop",
@@ -10344,19 +10331,6 @@
       "language": "russian",
       "clickCount": 0,
       "bitrate": 64
-    },
-    {
-      "id": "rb2_99_0_fm_8e78241f",
-      "title": "Монте-Карло Обнинск 99.0 FM",
-      "subtitle": "Easy Music, Monte Carlo",
-      "imageUrl": "",
-      "streamUrl": "http://77.244.74.133:1956/mc",
-      "location": "The Russian Federation",
-      "genre": "Easy Music",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 0,
-      "bitrate": 192
     },
     {
       "id": "rb2_station_be778cbb",
@@ -20541,19 +20515,6 @@
       "bitrate": 320
     },
     {
-      "id": "rb2_ta3_53771506",
-      "title": "TA3",
-      "subtitle": "Radio",
-      "imageUrl": "https://www.ta3.com/ta3static/images/favicon.ico?62d93f",
-      "streamUrl": "https://n13.stv.livebox.sk/ta3/685d9a141bd846e8facf83bc378da26b/1.smil/chunklist_b2691072.m3u8",
-      "location": "Slovakia",
-      "genre": "Radio",
-      "countryCode": "SK",
-      "language": "slovak",
-      "clickCount": 0,
-      "bitrate": 631
-    },
-    {
       "id": "rb2_trnavsk_r_dio_f6da7b70",
       "title": "TRNAVSKÉ RÁDIO",
       "subtitle": "Radio",
@@ -25101,6 +25062,54 @@
       "clickCount": 3,
       "bitrate": 281,
       "streamUrl": "https://radio.kyivstar.ua/stream/rock/master.m3u8"
+    },
+    {
+      "id": "europa_plus_ua_47a595c7",
+      "title": "Europa Plus",
+      "subtitle": "Dance",
+      "location": "Ukraine",
+      "genre": "Dance",
+      "countryCode": "UA",
+      "language": "ukrainian",
+      "clickCount": 10,
+      "bitrate": 128,
+      "streamUrl": "https://s5.radioforge.com:7908/live?n=77357"
+    },
+    {
+      "id": "256kbps_ru_65bbd1be",
+      "title": "Радио Орфей - Популярная классика 256kbps",
+      "subtitle": "Classical",
+      "location": "The Russian Federation",
+      "genre": "Classical",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 6,
+      "bitrate": 256,
+      "streamUrl": "https://channels.fonotron.ru:8000/Chan_72_256.mp3"
+    },
+    {
+      "id": "o0o0_online_ru_0f8d7ba6",
+      "title": "o0o0.online",
+      "subtitle": "Radio",
+      "location": "The Russian Federation",
+      "genre": "Radio",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://o0o0.online/stream/_"
+    },
+    {
+      "id": "keygen_fm_ru_a61daa69",
+      "title": "Keygen fm",
+      "subtitle": "Game;8Bit;Retro",
+      "location": "The Russian Federation",
+      "genre": "Game;8Bit;Retro",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://stream.keygen-fm.ru:8082/listen.mp3"
     }
   ]
 }

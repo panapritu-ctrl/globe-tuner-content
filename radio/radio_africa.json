@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-13T03:09:37Z",
+  "updated": "2026-09-14T03:24:46Z",
   "region": "africa",
   "stations": [
     {
@@ -9664,18 +9664,6 @@
       "streamUrl": "https://stream.lensnetworks.com/proxy/moonlite?mp=/stream"
     },
     {
-      "id": "zamrock_radio_nigeria_relay_ng_3c743022",
-      "title": "ZamRock Radio [Nigeria Relay]",
-      "subtitle": "Zamzam For Life...",
-      "location": "Nigeria",
-      "genre": "Zamzam For Life...",
-      "countryCode": "NG",
-      "language": "english",
-      "clickCount": 3,
-      "bitrate": 0,
-      "streamUrl": "https://mega-public-relay.deathsmack-a51.workers.dev/hifi.aac"
-    },
-    {
       "id": "radio_feon_ny_filazantsara_mg_1735525f",
       "title": "Radio Feon'ny Filazantsara",
       "subtitle": "Christian-Gospel",
@@ -10442,6 +10430,30 @@
       "clickCount": 3,
       "bitrate": 0,
       "streamUrl": "https://stream-176.surfernetwork.com/7u8xbck3v7zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI3dTh4YmNrM3Y3enV2IiwiaG9zdCI6InN0cmVhbS0xNzYuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJVa2syYm9STFRjbUlYQWR6MXh3NWR3IiwiaWF0IjoxNzg5MjI4NTI4LCJleHAiOjE3ODkyMjg1ODh9.R3IJRMouYPA3v8QgxdGVW3xG312xLrXnEfYwhtl6em0"
+    },
+    {
+      "id": "express_106_6fm_za_f5527aaf",
+      "title": "Express 106.6FM",
+      "subtitle": "Christian",
+      "location": "South Africa",
+      "genre": "Christian",
+      "countryCode": "ZA",
+      "language": "afrikaans",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "http://198.7.59.28:34235/stream"
+    },
+    {
+      "id": "kudu_fm_za_060e4c97",
+      "title": "Kudu FM",
+      "subtitle": "Afrikaans",
+      "location": "South Africa",
+      "genre": "Afrikaans",
+      "countryCode": "ZA",
+      "language": "afrikaans",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://kudu.fm/hls/radio.m3u8"
     }
   ]
 }

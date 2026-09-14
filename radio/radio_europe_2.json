@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-13T03:09:38Z",
+  "updated": "2026-09-14T03:24:46Z",
   "region": "europe",
   "part": 2,
   "of": 8,
@@ -24826,15 +24826,6 @@
       "bitrate": 128
     },
     {
-      "id": "cope_castell_n_es_9c98a0",
-      "title": "Cope Castellón",
-      "subtitle": "Radio",
-      "location": "Castellón, Spain",
-      "genre": "Radio",
-      "countryCode": "ES",
-      "streamUrl": "https://wecast23-o-cloud.flumotion.com/copesedes/castellon.mp3"
-    },
-    {
       "id": "rb2_cope_cieza_50289e26",
       "title": "Cope Cieza",
       "subtitle": "Radio",
@@ -28332,18 +28323,6 @@
       "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4esbjerg/masterab.m3u8"
     },
     {
-      "id": "dr_p5_stjylland_aac_dk_6625c1ab",
-      "title": "DR P5 Østjylland (AAC)",
-      "subtitle": "Regional Radio",
-      "location": "Denmark",
-      "genre": "Regional Radio",
-      "countryCode": "DK",
-      "language": "danish",
-      "clickCount": 2,
-      "bitrate": 324,
-      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p5ostjylland/masterab.m3u8"
-    },
-    {
       "id": "dr_p4_trekanten_aac_dk_a030938a",
       "title": "DR P4 Trekanten (AAC)",
       "subtitle": "Danish",
@@ -28426,6 +28405,42 @@
       "clickCount": 2,
       "bitrate": 324,
       "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4ostjylland/masterab.m3u8"
+    },
+    {
+      "id": "global_export_fm_ee_c7abccf6",
+      "title": "Global Export FM",
+      "subtitle": "Estonian News",
+      "location": "Estonia",
+      "genre": "Estonian News",
+      "countryCode": "EE",
+      "language": "estonian",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://radio.globalexport.ee/stream.mp3"
+    },
+    {
+      "id": "dr_p5_fyn_aac_dk_491ac710",
+      "title": "DR P5 Fyn (AAC)",
+      "subtitle": "Regional Radio",
+      "location": "Denmark",
+      "genre": "Regional Radio",
+      "countryCode": "DK",
+      "language": "danish",
+      "clickCount": 2,
+      "bitrate": 324,
+      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p5fyn/masterab.m3u8"
+    },
+    {
+      "id": "dr_p5_nordjylland_aac_dk_6d29407b",
+      "title": "DR P5 Nordjylland (AAC)",
+      "subtitle": "Regional Radio",
+      "location": "Denmark",
+      "genre": "Regional Radio",
+      "countryCode": "DK",
+      "language": "danish",
+      "clickCount": 2,
+      "bitrate": 324,
+      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p5nordjylland/masterab.m3u8"
     }
   ]
 }

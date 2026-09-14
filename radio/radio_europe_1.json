@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-13T03:09:37Z",
+  "updated": "2026-09-14T03:24:46Z",
   "region": "europe",
   "part": 1,
   "of": 8,
@@ -15314,19 +15314,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_vibration_fm_d18ccdde",
-      "title": "Vibration FM",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://vibration-aac.stream2net.eu:8040/vibra108-64k.mp3",
-      "location": "Suisse Romande, Switzerland",
-      "genre": "Radio",
-      "countryCode": "CH",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 96
-    },
-    {
       "id": "rb2_vibration_gayradio_96133ae8",
       "title": "Vibration Gayradio",
       "subtitle": "Radio",
@@ -15351,19 +15338,6 @@
       "language": null,
       "clickCount": 0,
       "bitrate": 96
-    },
-    {
-      "id": "rb2_vibration_soft_hits_961338cb",
-      "title": "Vibration Soft Hits",
-      "subtitle": "Radio",
-      "imageUrl": "https://radiochablais.ch/images/xradiochablais1.png.pagespeed.ic.p3soqp385z.png",
-      "streamUrl": "http://vibration.stream2net.eu:8350/;stream/1",
-      "location": "Suisse Romande, Switzerland",
-      "genre": "Radio",
-      "countryCode": "CH",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 128
     },
     {
       "id": "vibration_zen_relax_ch_96133c",
@@ -19334,19 +19308,6 @@
       "streamUrl": "https://1a-volksmusik.radionetz.de/1a-volksmusik.mp3",
       "location": "Bayern, Germany",
       "genre": "Schlager",
-      "countryCode": "DE",
-      "language": "german",
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_1_a_weihnachten_von_1a_radio_2d63a059",
-      "title": "- 1 A - Weihnachten von 1A Radio",
-      "subtitle": "Christliche Musik, Discofox",
-      "imageUrl": "https://www.1aradio.com/logos/1a-weihnachten_600x600.jpg",
-      "streamUrl": "https://1a-weihnachten.radionetz.de/1a-weihnachten.mp3",
-      "location": "Bayern, Germany",
-      "genre": "Christliche Musik",
       "countryCode": "DE",
       "language": "german",
       "clickCount": 1,
@@ -27795,18 +27756,6 @@
       "streamUrl": "https://443-1.autopo.st/45?type=http"
     },
     {
-      "id": "imperia_radio_ba_253b00c7",
-      "title": "Imperia Radio",
-      "subtitle": "Radio",
-      "location": "Bosnia And Herzegovina",
-      "genre": "Radio",
-      "countryCode": "BA",
-      "language": "bosnian",
-      "clickCount": 2,
-      "bitrate": 128,
-      "streamUrl": "https://webtvstream.bhtelecom.ba/imperia_radio.m3u8"
-    },
-    {
       "id": "nest_radio_al_3ba71f08",
       "title": "Nest Radio",
       "subtitle": "Albanian",
@@ -27853,18 +27802,6 @@
       "clickCount": 3,
       "bitrate": 192,
       "streamUrl": "http://82.103.99.99:8000/radiosz"
-    },
-    {
-      "id": "novi_radio_biha_ba_42e06a58",
-      "title": "Novi Radio Bihać",
-      "subtitle": "Radio",
-      "location": "Bosnia And Herzegovina",
-      "genre": "Radio",
-      "countryCode": "BA",
-      "language": "bosnian",
-      "clickCount": 2,
-      "bitrate": 128,
-      "streamUrl": "https://webtvstream.bhtelecom.ba/novi_radio_bihac.m3u8"
     },
     {
       "id": "radio_usk_2_ba_64750e9b",
@@ -28129,6 +28066,54 @@
       "clickCount": 12,
       "bitrate": 0,
       "streamUrl": "https://regiocast.streamabc.net/regc-80s80sby-mp3-192-9748144?sABC=6nn37n49%230%23q280o0r09ns9qpq3889p9qqn13p5753s%23fgernzf.80f80f.qr&aw_0_1st.playerid=streams.80s80s.de&amsparams=playerid:streams.80s80s.de;skey:1789098569"
+    },
+    {
+      "id": "90s90s_de_lovesongs_de_f29790bb",
+      "title": "90s90s.de lovesongs",
+      "subtitle": "Lovesongs",
+      "location": "Germany",
+      "genre": "Lovesongs",
+      "countryCode": "DE",
+      "language": "low german",
+      "clickCount": 46,
+      "bitrate": 0,
+      "streamUrl": "https://streams.90s90s.de/love/mp3-192/streams.90s90s.de/"
+    },
+    {
+      "id": "radio_deep_disco_bg_68542285",
+      "title": "Radio Deep Disco",
+      "subtitle": "Misc",
+      "location": "Bulgaria",
+      "genre": "Misc",
+      "countryCode": "BG",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "http://79.98.108.170:8000/autodj"
+    },
+    {
+      "id": "sophie_caffe_radio_al_4bd2f6ca",
+      "title": "Sophie Caffe Radio",
+      "subtitle": "Radio",
+      "location": "Albania",
+      "genre": "Radio",
+      "countryCode": "AL",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 0,
+      "streamUrl": "https://sophiecafferadio.live/sophie.mp3"
+    },
+    {
+      "id": "imperia_radio_ba_253b00c7",
+      "title": "Imperia Radio",
+      "subtitle": "Radio",
+      "location": "Bosnia And Herzegovina",
+      "genre": "Radio",
+      "countryCode": "BA",
+      "language": "bosnian",
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "https://webtvstream.bhtelecom.ba/imperia_radio.m3u8"
     }
   ]
 }
