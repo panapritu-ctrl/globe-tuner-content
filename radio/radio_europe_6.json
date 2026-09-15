@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-14T03:24:46Z",
+  "updated": "2026-09-15T03:25:57Z",
   "region": "europe",
   "part": 6,
   "of": 8,
@@ -7047,19 +7047,6 @@
       "streamUrl": "http://pmr.lt/streams/pmr-1"
     },
     {
-      "id": "rb2_radio_audiomastering_lt_19e82bcc",
-      "title": "radio.audiomastering.lt",
-      "subtitle": "Radio",
-      "imageUrl": "https://radio.audiomastering.lt/favicon.ico",
-      "streamUrl": "https://transliacija.audiomastering.lt/pure",
-      "location": "Lithuania",
-      "genre": "Radio",
-      "countryCode": "LT",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_station_e3234613",
       "title": "Радио Свободынх Народов",
       "subtitle": "World Music",
@@ -9735,19 +9722,6 @@
       "language": "macedonian",
       "clickCount": 2,
       "bitrate": 192
-    },
-    {
-      "id": "rb2_star_radio_ex_yu_retro_skopje_macedonia_6e7a1699",
-      "title": "Star Radio (Ex-YU Retro) Skopje, Macedonia",
-      "subtitle": "Exyu",
-      "imageUrl": "",
-      "streamUrl": "https://radiostar.pro/stream/exyuretro.php",
-      "location": "Republic Of North Macedonia",
-      "genre": "Exyu",
-      "countryCode": "MK",
-      "language": "macedonian",
-      "clickCount": 3,
-      "bitrate": 384
     },
     {
       "id": "rb2_star_radio_mk_narodna_skopje_macedonia_943b7637",
@@ -13196,15 +13170,6 @@
       "language": null,
       "clickCount": 3,
       "bitrate": 128
-    },
-    {
-      "id": "jazz_de_ville_chill_nl_b67cde",
-      "title": "Jazz de Ville - Chill",
-      "subtitle": "Chillout",
-      "location": "The Netherlands",
-      "genre": "Jazz",
-      "countryCode": "NL",
-      "streamUrl": "https://onair22.xdevel.com/proxy/xautocloud_td3e_421?mp=/stream"
     },
     {
       "id": "rb2_jazz_de_ville_groove_6c391a02",
@@ -20810,15 +20775,6 @@
       "bitrate": 128
     },
     {
-      "id": "antyradio_classic_rock_pl_8aafbf",
-      "title": "Antyradio Classic Rock",
-      "subtitle": "Classic Rock",
-      "location": "Poland, Poland",
-      "genre": "Classic Rock",
-      "streamUrl": "https://an01.cdn.eurozet.pl/ANTCLA.mp3?redirected=01",
-      "countryCode": "PL"
-    },
-    {
       "id": "rb2_antyradio_greatest_521d8726",
       "title": "Antyradio Greatest",
       "subtitle": "Greatest Hits, No Ads",
@@ -20864,19 +20820,6 @@
       "countryCode": "PL",
       "language": "polish",
       "clickCount": 4,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_antyradio_makak_70df3a90",
-      "title": "Antyradio Makak",
-      "subtitle": "Rock",
-      "imageUrl": "https://gfx-player.antyradio.pl/design/player_antyradio/images/favicon/apple-touch-icon.png",
-      "streamUrl": "http://an05.cdn.eurozet.pl/ANTMAK.mp3?redirected=05",
-      "location": "Poland",
-      "genre": "Rock",
-      "countryCode": "PL",
-      "language": "polish",
-      "clickCount": 1,
       "bitrate": 128
     },
     {
@@ -26597,18 +26540,6 @@
       "streamUrl": "https://ssl.omegahost.ro/9998/stream"
     },
     {
-      "id": "fm_italia_it_52ece4e9",
-      "title": "FM Italia",
-      "subtitle": "Adult Contemporary",
-      "location": "Italy",
-      "genre": "Adult Contemporary",
-      "countryCode": "IT",
-      "language": "italian",
-      "clickCount": 5,
-      "bitrate": 0,
-      "streamUrl": "http://onair7.xdevel.com:8700/;stream.nsv"
-    },
-    {
       "id": "speedy_radio_nl_dff2649e",
       "title": "Speedy Radio",
       "subtitle": "Radio",
@@ -27639,6 +27570,90 @@
       "clickCount": 2,
       "bitrate": 0,
       "streamUrl": "https://radio.roganett.com/listen/radio_tropoli/radio.mp3"
+    },
+    {
+      "id": "fm_italia_it_52ece4e9",
+      "title": "FM Italia",
+      "subtitle": "Adult Contemporary",
+      "location": "Italy",
+      "genre": "Adult Contemporary",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "http://onair7.xdevel.com:8700/;stream.nsv"
+    },
+    {
+      "id": "r101_80_it_4940409a",
+      "title": "R101 80",
+      "subtitle": "80'S",
+      "location": "Italy",
+      "genre": "80'S",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 4,
+      "bitrate": 96,
+      "streamUrl": "https://icy.unitedradio.it/R10180.aac"
+    },
+    {
+      "id": "jazz_de_ville_easy_nl_49d3a7ff",
+      "title": "Jazz de Ville - Easy",
+      "subtitle": "Jazz",
+      "location": "The Netherlands",
+      "genre": "Jazz",
+      "countryCode": "NL",
+      "language": "dutch",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://stream.jazzradiobymaestro.com/easy"
+    },
+    {
+      "id": "revo_banga_rock_lt_6e551f2a",
+      "title": "Revo Banga Rock",
+      "subtitle": "Clear",
+      "location": "Lithuania",
+      "genre": "Clear",
+      "countryCode": "LT",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 0,
+      "streamUrl": "http://sigi2kas.asuscomm.com:8000/stream"
+    },
+    {
+      "id": "pmr_lt_9a81b863",
+      "title": "PMR",
+      "subtitle": "World Music",
+      "location": "Lithuania",
+      "genre": "World Music",
+      "countryCode": "LT",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 192,
+      "streamUrl": "http://pmr.lt/streams/pmr-2"
+    },
+    {
+      "id": "kx_classics_nl_5078f99f",
+      "title": "KX Classics",
+      "subtitle": "60S",
+      "location": "The Netherlands",
+      "genre": "60S",
+      "countryCode": "NL",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 192,
+      "streamUrl": "https://mcp-1.streampanel.nl:8020/kxclassics_mp3"
+    },
+    {
+      "id": "kerstradio_nl_nl_5e74b92c",
+      "title": "Kerstradio.nl",
+      "subtitle": "Radio",
+      "location": "The Netherlands",
+      "genre": "Radio",
+      "countryCode": "NL",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 192,
+      "streamUrl": "https://mediacp.audiostreamen.nl:8168/stream"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-14T03:24:46Z",
+  "updated": "2026-09-15T03:25:57Z",
   "region": "americas",
   "part": 3,
   "of": 5,
@@ -2387,15 +2387,6 @@
       "genre": "Music",
       "countryCode": "KN",
       "streamUrl": "http://media.slactech.com:8014/stream"
-    },
-    {
-      "id": "big_fish_95_5fm_ky",
-      "title": "Big Fish 95.5FM",
-      "subtitle": "AAC+ 128kbps",
-      "location": "The Cayman Islands",
-      "genre": "Music",
-      "countryCode": "KY",
-      "streamUrl": "https://ice41.securenetsystems.net/BIGFISH"
     },
     {
       "id": "island_fm_the_rhythm_of_cayman_ky",
@@ -26200,18 +26191,6 @@
       "streamUrl": "https://rr5200.globalhost1.com/8242/stream"
     },
     {
-      "id": "radio_m_a_99_5_fm_cajamarca_san_miguel_pe_226e1115",
-      "title": "Radio Mía 99.5 FM - Cajamarca, San Miguel",
-      "subtitle": "Radio",
-      "location": "Peru",
-      "genre": "Radio",
-      "countryCode": "PE",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 128,
-      "streamUrl": "https://streaming.zonalatinaeirl.com:8020/radio"
-    },
-    {
       "id": "kaizen_live_radio_pe_5f7aa194",
       "title": "Kaizen Live Radio",
       "subtitle": "Radio",
@@ -26342,18 +26321,6 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "https://cast.zuperdns.net:8016/stream/1/"
-    },
-    {
-      "id": "tropicalia_93_9fm_py_4eb46942",
-      "title": "Tropicalia 93.9FM",
-      "subtitle": "Cumbia",
-      "location": "Paraguay",
-      "genre": "Cumbia",
-      "countryCode": "PY",
-      "language": "spanish",
-      "clickCount": 4,
-      "bitrate": 0,
-      "streamUrl": "https://rds3.desdeparaguay.net/movtropicalia/movtropicalia.stream/playlist.m3u8"
     },
     {
       "id": "88_5_rock_fm_gy_6aa89683",
@@ -26510,18 +26477,6 @@
       "clickCount": 2,
       "bitrate": 128,
       "streamUrl": "https://cloudstream2036.conectarhosting.com/8352/stream"
-    },
-    {
-      "id": "kq_105_pr_7bf5fb24",
-      "title": "KQ 105",
-      "subtitle": "Top 40",
-      "location": "Puerto Rico",
-      "genre": "Top 40",
-      "countryCode": "PR",
-      "language": "spanish",
-      "clickCount": 8,
-      "bitrate": 63,
-      "streamUrl": "https://televicentro.streamguys1.com/wkaqfm/playlist.m3u8"
     },
     {
       "id": "altamix_91_9fm_mx_220ade52",
@@ -26906,6 +26861,54 @@
       "clickCount": 3,
       "bitrate": 0,
       "streamUrl": "https://copaco.desdeparaguay.net/movvibras/movvibras.stream/chunklist_w1786225280.m3u8?k=5d1b32cc4cfb2b10be3ecff56d8aeee5e59993cfc1a5234cc73eca0b8b7f7487&exp=1651095717"
+    },
+    {
+      "id": "metro_stereo_ec_8444ebe5",
+      "title": "Metro Stereo",
+      "subtitle": "Pop",
+      "location": "Ecuador",
+      "genre": "Pop",
+      "countryCode": "EC",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://due8atvq1x46v.cloudfront.net/medialist_14854753276708185244_hls.m3u8"
+    },
+    {
+      "id": "radio_mexiquense_91_7_mx_86f5dd09",
+      "title": "Radio Mexiquense 91.7",
+      "subtitle": "Radio",
+      "location": "Mexico",
+      "genre": "Radio",
+      "countryCode": "MX",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://streamingcwsradio30.com/8038/stream"
+    },
+    {
+      "id": "lokura_fm_grupera_xalapa_103_3_fm_mx_e979ce1d",
+      "title": "Lokura FM Grupera Xalapa 103.3 FM",
+      "subtitle": "Banda",
+      "location": "Mexico",
+      "genre": "Banda",
+      "countryCode": "MX",
+      "language": "español mexico",
+      "clickCount": 2,
+      "bitrate": 130,
+      "streamUrl": "https://mdstrm.com/audio/6939cb632ce0a0291e827788/live.m3u8"
+    },
+    {
+      "id": "nova_wave_radio_pr_7245574b",
+      "title": "Nova Wave Radio",
+      "subtitle": "Caribbean",
+      "location": "Puerto Rico",
+      "genre": "Caribbean",
+      "countryCode": "PR",
+      "language": "spanish",
+      "clickCount": 2,
+      "bitrate": 0,
+      "streamUrl": "https://stream.zeno.fm/aqsp8qfxry8vv.aac"
     }
   ]
 }

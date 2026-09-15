@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-14T03:24:46Z",
+  "updated": "2026-09-15T03:25:56Z",
   "region": "asia",
   "part": 2,
   "of": 3,
@@ -546,19 +546,6 @@
       "streamUrl": "https://lhttp.qtfm.cn/live/20500198/64k.mp3",
       "location": "Honan, China",
       "genre": "Full Service",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_station_349a71c7",
-      "title": "邢台交通音乐广播",
-      "subtitle": "Traffic Information",
-      "imageUrl": "http://pic.qtfm.cn/2022/0129/20220129110427.jpeg!200",
-      "streamUrl": "https://jwcdnqx.hebyun.com.cn/live/xtjtyygb/1500k/tzwj_video.m3u8",
-      "location": "Hopei, China",
-      "genre": "Traffic Information",
       "countryCode": "CN",
       "language": "chinese",
       "clickCount": 0,
@@ -6135,19 +6122,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_most_radio_jakarta_9b9da305",
-      "title": "Most Radio Jakarta",
-      "subtitle": "Radio",
-      "imageUrl": "https://cdn.instant.audio/images/logos/radioonline-co-id/lite-jakarta.png",
-      "streamUrl": "https://wz.mari.co.id:1936/web_mostfm/mostfm/playlist.m3u8",
-      "location": "Jakarta, Indonesia",
-      "genre": "Radio",
-      "countryCode": "ID",
-      "language": "indonesian",
-      "clickCount": 1,
-      "bitrate": 43
-    },
-    {
       "id": "rb2_munston_radio_5415fd8c",
       "title": "Munston Radio",
       "subtitle": "Radio",
@@ -11128,15 +11102,6 @@
       "genre": "Radio",
       "countryCode": "IN",
       "streamUrl": "https://drive.uber.radio/uber/bollywoodlove/icecast.audio"
-    },
-    {
-      "id": "ilayaraja_radio_in_ad55f7",
-      "title": "Ilayaraja Radio",
-      "subtitle": "Tamil Cinema Music",
-      "location": "India",
-      "genre": "Tamil Cinema Music",
-      "streamUrl": "https://psrlive2.listenon.in/ir?ah=0e81749e37789e5fb8c290926ce87e3f",
-      "countryCode": "IN"
     },
     {
       "id": "rb2_inbam_fm_d6c722f1",
@@ -21484,18 +21449,6 @@
       "streamUrl": "http://radio.rudeep.ru:8000/stream"
     },
     {
-      "id": "hki_cn_210ebda2",
-      "title": "HKI",
-      "subtitle": "Tourism",
-      "location": "China",
-      "genre": "Tourism",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 5,
-      "bitrate": 0,
-      "streamUrl": "http://player4.juyun.tv/camera/158562106.m3u8"
-    },
-    {
       "id": "100_8_insania_fm_makassar_id_ea36eddd",
       "title": "100,8 Insania FM Makassar",
       "subtitle": "Radio",
@@ -23896,30 +23849,6 @@
       "streamUrl": "http://java.skychatz.org:8080/;stream/1"
     },
     {
-      "id": "all_india_radio_air_bilaspur_in_41d7538b",
-      "title": "All India Radio AIR Bilaspur",
-      "subtitle": "Radio",
-      "location": "India",
-      "genre": "Radio",
-      "countryCode": "IN",
-      "language": null,
-      "clickCount": 11,
-      "bitrate": 95,
-      "streamUrl": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio110/playlist.m3u8"
-    },
-    {
-      "id": "cnn_indonesia_id_4a9d0831",
-      "title": "CNN Indonesia",
-      "subtitle": "News",
-      "location": "Indonesia",
-      "genre": "News",
-      "countryCode": "ID",
-      "language": null,
-      "clickCount": 8,
-      "bitrate": 384,
-      "streamUrl": "https://live.cnnindonesia.com/livecnn/smil:cnntv/chunklist.m3u8"
-    },
-    {
       "id": "sabras_radio_in_6501243e",
       "title": "Sabras Radio",
       "subtitle": "Radio",
@@ -24242,18 +24171,6 @@
       "clickCount": 3,
       "bitrate": 0,
       "streamUrl": "http://lhttp.qingting.fm/live/5021739/64k.mp3"
-    },
-    {
-      "id": "kbs_classic_fm_kr_9e5a0229",
-      "title": "KBS Classic FM",
-      "subtitle": "Radio",
-      "location": "The Republic Of Korea",
-      "genre": "Radio",
-      "countryCode": "KR",
-      "language": null,
-      "clickCount": 3,
-      "bitrate": 0,
-      "streamUrl": "https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODg0MDUwMTB9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=UKEY65CDzaQSjBAzC2k7nyn6P5i1JyaMBIQNGUArf2Fp6KILClSArWYfVLnp6OgIshIEDRWOsFblhsEyGXPsqsYPNvaRLwkkoWlAbR-4EYoQx2ajYJ5yU0Wxn5kGaa3-4IPRtmmAJrgn5cREY3EYIwXxxqdcu6D1x6wJ~6VnSZdcFdDHmNnP8uV8JeyBGXplgzABWfqB4RjO~xpIiiJ~KMBQPqC4bL-djJmSdiVB~lt8kYQs5wpr3FEutta3Td-mAq1mdMH5VDFNP6-ZUzC-AwM~6vswihGSfurDPHuKPMkCn5NEtc7mG96Hwc-iFGOhEujLHE3KsAApOtGZ2O0USA__"
     },
     {
       "id": "kiangsu_news_radio_cn_48def1cf",
@@ -25120,18 +25037,6 @@
       "streamUrl": "https://jwcdnqx.hebyun.com.cn/live/clxrmtzxzhgb/1500k/tzwj_video.m3u8"
     },
     {
-      "id": "bintan_radio_96_5_fm_id_ae70bcb2",
-      "title": "Bintan Radio (96.5 FM)",
-      "subtitle": "Dangdut",
-      "location": "Indonesia",
-      "genre": "Dangdut",
-      "countryCode": "ID",
-      "language": "indonesian",
-      "clickCount": 2,
-      "bitrate": 128,
-      "streamUrl": "http://202.43.230.4:8000/live"
-    },
-    {
       "id": "radio_bintang_tenggara_id_18185054",
       "title": "Radio Bintang Tenggara",
       "subtitle": "Radio",
@@ -25588,18 +25493,6 @@
       "streamUrl": "http://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro1.mp3"
     },
     {
-      "id": "kbs_kor_kr_5d8f16ee",
-      "title": "KBS_kor",
-      "subtitle": "Radio",
-      "location": "The Republic Of Korea",
-      "genre": "Radio",
-      "countryCode": "KR",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 0,
-      "streamUrl": "https://1radio-bora.gscdn.kbs.co.kr/1radio-bora-01/1radio-bora-01_hd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xcmFkaW8tYm9yYS5nc2Nkbi5rYnMuY28ua3IvMXJhZGlvLWJvcmEtMDEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4OTMyMjM0OH19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=SIld-qyiyczGaMjKA5oFC~GAaVQ7mRL-8lNvlIeV~38cVHO6t4vQcqbZbABMOBilMulfEirv35cEZGSJNTjLRp~xX1MvaAbR9vWGXCrGrcdJxDf~3pOvRE1i7PLeSJxnU-v-YQcM0Vp6RHS7Nu5u7n2RCiHaBq7rn7hOZgbyT7OoClPqbgvtw1B2PMykW~C-DHEbU5jZBCgT6v~ocLsqjdwMbzkiXrQ3p9HYfI7XqSKnEluAhEx4UaJdcq-zeJqU~l-oS7qlhgbXG5CD0Opq46wFzFhp4RaMqAh0P4vS~RA4hixA95SQy0W-YLnh6kg-YmHIfMvp72FOQziliLw6Eg__"
-    },
-    {
       "id": "haraman_beats_2_in_06a735c1",
       "title": "HARAMAN BEATS 2",
       "subtitle": "Radio",
@@ -25970,6 +25863,102 @@
       "clickCount": 2,
       "bitrate": 128,
       "streamUrl": "https://listen.181fm.com/181-hardrock_128k.mp3"
+    },
+    {
+      "id": "cnn_indonesia_id_4a9d0831",
+      "title": "CNN Indonesia",
+      "subtitle": "News",
+      "location": "Indonesia",
+      "genre": "News",
+      "countryCode": "ID",
+      "language": null,
+      "clickCount": 57,
+      "bitrate": 384,
+      "streamUrl": "https://live.cnnindonesia.com/livecnn/smil:cnntv/chunklist.m3u8"
+    },
+    {
+      "id": "hki_cn_210ebda2",
+      "title": "HKI",
+      "subtitle": "Tourism",
+      "location": "China",
+      "genre": "Tourism",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 10,
+      "bitrate": 0,
+      "streamUrl": "http://player4.juyun.tv/camera/158562106.m3u8"
+    },
+    {
+      "id": "suvidharadio_in_0dfed5d6",
+      "title": "suvidharadio",
+      "subtitle": "Radio",
+      "location": "India",
+      "genre": "Radio",
+      "countryCode": "IN",
+      "language": "hindi",
+      "clickCount": 9,
+      "bitrate": 128,
+      "streamUrl": "https://my.ssl-stream.com/Suvidha_Radio"
+    },
+    {
+      "id": "live_kirtan_sri_harmandir_sahib_in_72e71a76",
+      "title": "Live Kirtan Sri Harmandir Sahib",
+      "subtitle": "Religious",
+      "location": "India",
+      "genre": "Religious",
+      "countryCode": "IN",
+      "language": "punjabi",
+      "clickCount": 8,
+      "bitrate": 96,
+      "streamUrl": "https://live.sgpc.net:8443/;nocache=889896"
+    },
+    {
+      "id": "nindy_radio_98_2_fm_id_65803273",
+      "title": "Nindy Radio 98.2 FM",
+      "subtitle": "Alternative",
+      "location": "Indonesia",
+      "genre": "Alternative",
+      "countryCode": "ID",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://radio.garden/api/ara/content/listen/823zxnHk/channel.mp3"
+    },
+    {
+      "id": "kiangsu_voice_of_kingling_radio_cn_61d25061",
+      "title": "Kiangsu Voice of Kingling Radio",
+      "subtitle": "Radio",
+      "location": "China",
+      "genre": "Radio",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 2,
+      "bitrate": 0,
+      "streamUrl": "http://lzlive.vojs.cn/Hd2hIgM/92/live.m3u8"
+    },
+    {
+      "id": "spirit_online_id_f9f4922e",
+      "title": "Spirit Online",
+      "subtitle": "Radio",
+      "location": "Indonesia",
+      "genre": "Radio",
+      "countryCode": "ID",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 96,
+      "streamUrl": "https://radio.spirittoc.com:8060/spirit_online"
+    },
+    {
+      "id": "kis_fm_id_276f7088",
+      "title": "KIS FM",
+      "subtitle": "Dangdut",
+      "location": "Indonesia",
+      "genre": "Dangdut",
+      "countryCode": "ID",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 192,
+      "streamUrl": "https://stream.radiokis.id/kisfm2"
     }
   ]
 }

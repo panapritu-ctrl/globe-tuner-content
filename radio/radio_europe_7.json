@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-14T03:24:46Z",
+  "updated": "2026-09-15T03:25:57Z",
   "region": "europe",
   "part": 7,
   "of": 8,
@@ -11183,15 +11183,6 @@
       "language": null,
       "clickCount": 4,
       "bitrate": 128
-    },
-    {
-      "id": "radio_manele_fm_ro_9641c1",
-      "title": "Radio Manele FM",
-      "subtitle": "Folk Music",
-      "location": "Romania",
-      "genre": "Folk Music",
-      "countryCode": "RO",
-      "streamUrl": "http://a.fmradiomanele.ro:8054/;"
     },
     {
       "id": "radio_manele_premium_ro_8256be",
@@ -23161,18 +23152,6 @@
       "streamUrl": "http://109.196.164.84:8090/live.mp3"
     },
     {
-      "id": "radio_1_manele_rom_nia_bra_ov_ro_f8ae0ed3",
-      "title": "Radio 1 Manele România -Brașov",
-      "subtitle": "Manele",
-      "location": "Romania",
-      "genre": "Manele",
-      "countryCode": "RO",
-      "language": "română",
-      "clickCount": 5,
-      "bitrate": 128,
-      "streamUrl": "https://ssl.omegahost.ro/8000/stream"
-    },
-    {
       "id": "radio_liberty_popular_bucure_ti_ro_ea2c6aae",
       "title": "Radio Liberty Popular -București",
       "subtitle": "Petrecere",
@@ -24445,18 +24424,6 @@
       "streamUrl": "https://sonicssl.namehost.ro/8520/stream"
     },
     {
-      "id": "naxi_latino_rs_4f7caa9f",
-      "title": "Naxi Latino",
-      "subtitle": "Latino",
-      "location": "Serbia",
-      "genre": "Latino",
-      "countryCode": "RS",
-      "language": "latino",
-      "clickCount": 3,
-      "bitrate": 128,
-      "streamUrl": "https://naxidigital-latino128ssl.streaming.rs:8232/;stream.nsv"
-    },
-    {
       "id": "radio_a_tentat_ro_b941ed85",
       "title": "Radio A-Tentat",
       "subtitle": "Manele",
@@ -25535,6 +25502,78 @@
       "clickCount": 3,
       "bitrate": 64,
       "streamUrl": "https://stream.radios.rs:9076/stream"
+    },
+    {
+      "id": "naxi_adore_rs_d24050be",
+      "title": "Naxi Adore",
+      "subtitle": "Chansons",
+      "location": "Serbia",
+      "genre": "Chansons",
+      "countryCode": "RS",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://naxidigital-adore128ssl.streaming.rs:8332/;stream.nsv"
+    },
+    {
+      "id": "naxi_latino_radio_rs_4f7caa9f",
+      "title": "Naxi Latino Radio",
+      "subtitle": "Radio",
+      "location": "Serbia",
+      "genre": "Radio",
+      "countryCode": "RS",
+      "language": "serbian",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://naxidigital-latino128ssl.streaming.rs:8232/;stream.nsv"
+    },
+    {
+      "id": "4fun_tv_pl_66dc4665",
+      "title": "4fun tv",
+      "subtitle": "Tv",
+      "location": "Poland",
+      "genre": "Tv",
+      "countryCode": "PL",
+      "language": "polish",
+      "clickCount": 2,
+      "bitrate": 256,
+      "streamUrl": "https://stream.4fun.tv:8888/hls/4f.m3u8"
+    },
+    {
+      "id": "rmf24_wroc_aw_pl_386f0984",
+      "title": "RMF24 Wrocław",
+      "subtitle": "Radio",
+      "location": "Poland",
+      "genre": "Radio",
+      "countryCode": "PL",
+      "language": "polish",
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "http://rs201-krk.rmfstream.pl/rmf_24_wroc"
+    },
+    {
+      "id": "radio_noise_rock_ro_646b1498",
+      "title": "Radio Noise Rock",
+      "subtitle": "Radio",
+      "location": "Romania",
+      "genre": "Radio",
+      "countryCode": "RO",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "https://rocklive.radionoise.ro:9130/stream"
+    },
+    {
+      "id": "radio7abc_ro_cab1c866",
+      "title": "Radio7ABC",
+      "subtitle": "Talk",
+      "location": "Romania",
+      "genre": "Talk",
+      "countryCode": "RO",
+      "language": "romanian",
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "https://desktop-jcf8pp6.taila8446a.ts.net/live"
     }
   ]
 }

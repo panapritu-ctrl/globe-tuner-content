@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-14T03:24:46Z",
+  "updated": "2026-09-15T03:25:57Z",
   "region": "europe",
   "part": 8,
   "of": 8,
@@ -7368,19 +7368,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_station_e86ae86d",
-      "title": "АукцЫон",
-      "subtitle": "Discography, Russian-Rock",
-      "imageUrl": "",
-      "streamUrl": "https://stream02.pcradio.biz/auktsyon-hi",
-      "location": "The Russian Federation",
-      "genre": "Discography",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_station_e7bc85d6",
       "title": "Ашҡаҙар",
       "subtitle": "Bashkir, Cultural News",
@@ -13629,19 +13616,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_station_9bacc304",
-      "title": "Радио СССР",
-      "subtitle": "Ретро",
-      "imageUrl": "",
-      "streamUrl": "https://listen9.myradio24.com/ussr",
-      "location": "The Russian Federation",
-      "genre": "Ретро",
-      "countryCode": "RU",
-      "language": null,
-      "clickCount": 3,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_station_784b72df",
       "title": "Радио Самара-Максимум",
       "subtitle": "Radio",
@@ -17658,15 +17632,6 @@
       "language": null,
       "clickCount": 0,
       "bitrate": 192
-    },
-    {
-      "id": "retro_fm_sk_ne_se_8b00bc",
-      "title": "Retro FM Skåne",
-      "subtitle": "Oldies",
-      "location": "Sweden",
-      "genre": "Oldies",
-      "streamUrl": "https://live-bauerse-fm.sharp-stream.com/retrofm_aacp?ua=WEB&aw_0_1st.playerid=SBS_RP_WEB&aw_0_1st.skey=1575715192&companionAds=true&listenerId=@@GUID@@",
-      "countryCode": "SE"
     },
     {
       "id": "rb2_rock_202d6d31",
@@ -25110,6 +25075,54 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "http://stream.keygen-fm.ru:8082/listen.mp3"
+    },
+    {
+      "id": "station_ru_b6af627c",
+      "title": "Радио Фирн",
+      "subtitle": "Indie",
+      "location": "The Russian Federation",
+      "genre": "Indie",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 8,
+      "bitrate": 128,
+      "streamUrl": "https://a1.radioheart.ru:9003/RH85053"
+    },
+    {
+      "id": "station_ru_29a1ae31",
+      "title": "ДДР",
+      "subtitle": "Music",
+      "location": "The Russian Federation",
+      "genre": "Music",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "https://radio2.4m3.ru/listen/ddr/radio.mp3"
+    },
+    {
+      "id": "radio_expres_sk_ac887b1f",
+      "title": "Radio Expres",
+      "subtitle": "Radio",
+      "location": "Slovakia",
+      "genre": "Radio",
+      "countryCode": "SK",
+      "language": "slovak",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://stream.bauermedia.sk/expres-hi.mp3"
+    },
+    {
+      "id": "golden_hits_ua_e710237c",
+      "title": "Радіо Київстар Golden Hits",
+      "subtitle": "256 Kbit/S",
+      "location": "Ukraine",
+      "genre": "256 Kbit/S",
+      "countryCode": "UA",
+      "language": "ukranian",
+      "clickCount": 3,
+      "bitrate": 281,
+      "streamUrl": "https://radio.kyivstar.ua/stream/gold/master.m3u8"
     }
   ]
 }
