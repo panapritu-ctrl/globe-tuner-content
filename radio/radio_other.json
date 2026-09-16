@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-15T03:25:57Z",
+  "updated": "2026-09-16T03:20:44Z",
   "region": "other",
   "stations": [
     {
@@ -5562,18 +5562,6 @@
       "streamUrl": "http://wz0liw.scahw.com.au/live/indie-pop.stream/playlist.m3u8"
     },
     {
-      "id": "listnr_heavy_af_hls_au_e91188ea",
-      "title": "LiSTNR - Heavy AF (HLS)",
-      "subtitle": "Explicit",
-      "location": "Australia",
-      "genre": "Explicit",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 2,
-      "bitrate": 0,
-      "streamUrl": "http://wz0liw.scahw.com.au/live/heavy-af.stream/playlist.m3u8"
-    },
-    {
       "id": "wokw_ok_102_9_us_0b745393",
       "title": "WOKW OK! 102.9",
       "subtitle": "2000S",
@@ -7230,18 +7218,6 @@
       "streamUrl": "http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs12.aac"
     },
     {
-      "id": "listnr_pop_101_hls_au_971bce1f",
-      "title": "LiSTNR - Pop 101 (HLS)",
-      "subtitle": "Hits",
-      "location": "Australia",
-      "genre": "Hits",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 4,
-      "bitrate": 0,
-      "streamUrl": "http://wz0liw.scahw.com.au/live/pop-101.stream/playlist.m3u8"
-    },
-    {
       "id": "listnr_k_pop_au_6bd9ecf7",
       "title": "LiSTNR - K-Pop",
       "subtitle": "Global",
@@ -7362,18 +7338,6 @@
       "streamUrl": "http://wz0liw.scahw.com.au/live/run-club.stream/playlist.m3u8"
     },
     {
-      "id": "listnr_main_character_energy_hls_au_72bc8894",
-      "title": "LiSTNR - Main Character Energy (HLS)",
-      "subtitle": "Anthems",
-      "location": "Australia",
-      "genre": "Anthems",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 2,
-      "bitrate": 0,
-      "streamUrl": "http://wz0liw.scahw.com.au/live/main-character-energy.stream/playlist.m3u8"
-    },
-    {
       "id": "listnr_pride_au_a9292183",
       "title": "LiSTNR - Pride",
       "subtitle": "Chart Hits",
@@ -7420,18 +7384,6 @@
       "clickCount": 2,
       "bitrate": 0,
       "streamUrl": "http://wz0liw.scahw.com.au/live/soft-rock.stream/playlist.m3u8"
-    },
-    {
-      "id": "listnr_romcom_hls_au_cfe37ed6",
-      "title": "LiSTNR - RomCom (HLS)",
-      "subtitle": "Romcom",
-      "location": "Australia",
-      "genre": "Romcom",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 2,
-      "bitrate": 0,
-      "streamUrl": "http://wz0liw.scahw.com.au/live/romcom.stream/playlist.m3u8"
     },
     {
       "id": "listnr_rainforest_soundscapes_au_1f3f70f4",
@@ -8044,6 +7996,186 @@
       "clickCount": 2,
       "bitrate": 192,
       "streamUrl": "https://play.radioking.io/onib-disco/698749?ver=487018"
+    },
+    {
+      "id": "beats_radio_us_a5467d3f",
+      "title": "BEATS RADIO",
+      "subtitle": "Classic Soul",
+      "location": "The United States Of America",
+      "genre": "Classic Soul",
+      "countryCode": "US",
+      "language": null,
+      "clickCount": 10,
+      "bitrate": 128,
+      "streamUrl": "https://servidor37.brlogic.com:7100/live"
+    },
+    {
+      "id": "japanese_edm_us_3bb312dd",
+      "title": "Japanese EDM",
+      "subtitle": "Radio",
+      "location": "The United States Of America",
+      "genre": "Radio",
+      "countryCode": "US",
+      "language": null,
+      "clickCount": 9,
+      "bitrate": 128,
+      "streamUrl": "https://edmdnb.com:8070/radio.mp3"
+    },
+    {
+      "id": "radio_mandra_zzzzzz_es_43bad2d2",
+      "title": "Radio Mandra Zzzzzz",
+      "subtitle": "Radio",
+      "location": "Spain",
+      "genre": "Radio",
+      "countryCode": "ES",
+      "language": null,
+      "clickCount": 8,
+      "bitrate": 0,
+      "streamUrl": "https://radiomandra.cat/radio/radiomandra.ogg"
+    },
+    {
+      "id": "talksport_2_gb_edb4c436",
+      "title": "Talksport 2",
+      "subtitle": "Sports Talk",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Sports Talk",
+      "countryCode": "GB",
+      "language": null,
+      "clickCount": 7,
+      "bitrate": 128,
+      "streamUrl": "https://talksport.live.stream.broadcasting.news/stream2"
+    },
+    {
+      "id": "nostalgie_blues_fr_4d0b0be0",
+      "title": "Nostalgie Blues",
+      "subtitle": "Blues",
+      "location": "France",
+      "genre": "Blues",
+      "countryCode": "FR",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://streaming.nrjaudio.fm/ou8ordgk7oiu?origine=fluxurlradio&aw_0_1st.station=Nostalgie-Blues"
+    },
+    {
+      "id": "oui_fm_rock_francais_fr_87c8c0f7",
+      "title": "OUI FM ROCK FRANCAIS",
+      "subtitle": "Rock",
+      "location": "France",
+      "genre": "Rock",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://ouifmrockfrancais.ice.infomaniak.ch/ouifmrockfrancais.mp3"
+    },
+    {
+      "id": "dmusic_be_5c3ae148",
+      "title": "Dmusic",
+      "subtitle": "Club Dance",
+      "location": "Belgium",
+      "genre": "Club Dance",
+      "countryCode": "BE",
+      "language": "dutch",
+      "clickCount": 4,
+      "bitrate": 320,
+      "streamUrl": "https://stream.dmusic.be/listen/dmusic/radio.mp3"
+    },
+    {
+      "id": "fogpoint_radio_gb_96aefaa6",
+      "title": "Fogpoint Radio",
+      "subtitle": "Radio",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Radio",
+      "countryCode": "GB",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://s4.radio.co/s3ff272827/listen"
+    },
+    {
+      "id": "radio_arte_107_7_fm_es_1773265b",
+      "title": "Radio Arte 107.7 FM",
+      "subtitle": "Music",
+      "location": "Spain",
+      "genre": "Music",
+      "countryCode": "ES",
+      "language": "spanish",
+      "clickCount": 3,
+      "bitrate": 96,
+      "streamUrl": "https://relay.stream.enacast-cloud.com:30253/arteradioHD.mp3"
+    },
+    {
+      "id": "starter_fm_au_048d85f1",
+      "title": "Starter FM",
+      "subtitle": "Radio",
+      "location": "Australia",
+      "genre": "Radio",
+      "countryCode": "AU",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 2328,
+      "streamUrl": "http://10321.cloudrad.io:9054/hd"
+    },
+    {
+      "id": "triple_r_au_a2aad268",
+      "title": "Triple R",
+      "subtitle": "Radio",
+      "location": "Australia",
+      "genre": "Radio",
+      "countryCode": "AU",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 0,
+      "streamUrl": "https://ondemand.rrr.org.au/getstream?id=web1"
+    },
+    {
+      "id": "vrt_radio_1_nws_be_c9ae64b3",
+      "title": "VRT Radio 1 NWS",
+      "subtitle": "Radio",
+      "location": "Belgium",
+      "genre": "Radio",
+      "countryCode": "BE",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 0,
+      "streamUrl": "https://progressive-audio.vrtcdn.be/content/fixed/11_11niws-snip_hi.mp3"
+    },
+    {
+      "id": "buzz_radio_be_0d9b83a1",
+      "title": "BUZZ RADIO",
+      "subtitle": "Radio",
+      "location": "Belgium",
+      "genre": "Radio",
+      "countryCode": "BE",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "https://buzzradio.ice.infomaniak.ch/buzzradio-128.mp3?ua=Buzz%20Radio%20-%20audio%20player%201"
+    },
+    {
+      "id": "radio_lorali_be_5e8dbb40",
+      "title": "Radio Lorali",
+      "subtitle": "Radio",
+      "location": "Belgium",
+      "genre": "Radio",
+      "countryCode": "BE",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 0,
+      "streamUrl": "https://lorali.beheerstream.nl/cp/links.php?p=8014&m=pls"
+    },
+    {
+      "id": "rowyna_music_n_strm_be_2046e9d8",
+      "title": "Rowyna Music (n.strm)",
+      "subtitle": "Pop Music",
+      "location": "Belgium",
+      "genre": "Pop Music",
+      "countryCode": "BE",
+      "language": "dutch",
+      "clickCount": 2,
+      "bitrate": 256,
+      "streamUrl": "https://server7.radio-streams.net/proxy/rowynamu/stream"
     }
   ]
 }

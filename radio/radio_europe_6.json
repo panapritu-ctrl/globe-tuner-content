@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-15T03:25:57Z",
+  "updated": "2026-09-16T03:20:44Z",
   "region": "europe",
   "part": 6,
   "of": 8,
@@ -4621,19 +4621,6 @@
       "language": "italian",
       "clickCount": 1,
       "bitrate": 96
-    },
-    {
-      "id": "rb2_relax_radio_db8391be",
-      "title": "Relax Radio",
-      "subtitle": "Relax Music",
-      "imageUrl": "",
-      "streamUrl": "https://stream3.xdevel.com/audio8s975388-108/stream/icecast.audio",
-      "location": "Italy",
-      "genre": "Relax Music",
-      "countryCode": "IT",
-      "language": "italian",
-      "clickCount": 2,
-      "bitrate": 128
     },
     {
       "id": "rb2_relaxness_radio_a60ba48c",
@@ -9724,19 +9711,6 @@
       "bitrate": 192
     },
     {
-      "id": "rb2_star_radio_mk_narodna_skopje_macedonia_943b7637",
-      "title": "Star Radio (MK Narodna) Skopje, Macedonia",
-      "subtitle": "Macedonian Folk",
-      "imageUrl": "https://radiostar.pro/wp-content/uploads/2023/10/MK-NARODNA-300x300.png",
-      "streamUrl": "https://radiostar.pro/stream/mknarodna.php",
-      "location": "Republic Of North Macedonia",
-      "genre": "Macedonian Folk",
-      "countryCode": "MK",
-      "language": "macedonian",
-      "clickCount": 2,
-      "bitrate": 384
-    },
-    {
       "id": "rb2_star_radio_plus_skopje_macedonia_e2d37a2e",
       "title": "Star Radio (Plus) Skopje, Macedonia",
       "subtitle": "Macedonian Pop, Serbian Pop",
@@ -9748,19 +9722,6 @@
       "language": "macedonian",
       "clickCount": 0,
       "bitrate": 384
-    },
-    {
-      "id": "rb2_star_radio_urban_folk_skopje_macedonia_214e3c3c",
-      "title": "Star Radio (Urban Folk) Skopje, Macedonia",
-      "subtitle": "Macedonian Folk, Macedonian Pop",
-      "imageUrl": "https://radiostar.pro/wp-content/uploads/2023/08/NARODNA-URBAN-300x300.png",
-      "streamUrl": "https://radiostar.pro/stream/narodna.php",
-      "location": "Republic Of North Macedonia",
-      "genre": "Macedonian Folk",
-      "countryCode": "MK",
-      "language": "macedonian",
-      "clickCount": 0,
-      "bitrate": 320
     },
     {
       "id": "rb2_star_radio_world_hits_skopje_macedonia_34f253c7",
@@ -13561,19 +13522,6 @@
       "language": "dutch",
       "clickCount": 1,
       "bitrate": 320
-    },
-    {
-      "id": "rb2_loostad_radio_bd1772d2",
-      "title": "Loostad Radio",
-      "subtitle": "Radio",
-      "imageUrl": "https://static.wixstatic.com/media/a8cb68_ac167ab2f4c84bf987b7e79ca89b04c0~mv2.png/v1/crop/x_3,y_0,w_708,h_714/fill/w_254,h_258,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/logov2.png",
-      "streamUrl": "https://server-23.stream-server.nl:18476/;&type=mp3",
-      "location": "The Netherlands",
-      "genre": "Radio",
-      "countryCode": "NL",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 192
     },
     {
       "id": "rb2_mbhitradio_50304164",
@@ -20801,15 +20749,6 @@
       "bitrate": 128
     },
     {
-      "id": "antyradio_katowice_pl_d14d5a",
-      "title": "Antyradio Katowice",
-      "subtitle": "Radio",
-      "location": "Poland",
-      "genre": "Radio",
-      "streamUrl": "https://ml02.cdn.eurozet.pl/ant-kat.mp3",
-      "countryCode": "PL"
-    },
-    {
       "id": "rb2_antyradio_made_in_poland_0bab6889",
       "title": "Antyradio Made In Poland",
       "subtitle": "Polish Rock, Rock",
@@ -27654,6 +27593,78 @@
       "clickCount": 2,
       "bitrate": 192,
       "streamUrl": "https://mediacp.audiostreamen.nl:8168/stream"
+    },
+    {
+      "id": "radio_parsifal_it_cc974803",
+      "title": "Radio Parsifal",
+      "subtitle": "Italian Pop",
+      "location": "Italy",
+      "genre": "Italian Pop",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "http://onair11.xdevel.com:10044/;stream.mp3"
+    },
+    {
+      "id": "orbita24_it_c2b49003",
+      "title": "ORBITA24",
+      "subtitle": "24/7",
+      "location": "Italy",
+      "genre": "24/7",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 4,
+      "bitrate": 256,
+      "streamUrl": "https://radio.orbita24.it/listen/orbita24/radio.mp3"
+    },
+    {
+      "id": "latvijas_radio_1_lv_0b129edc",
+      "title": "Latvijas Radio 1",
+      "subtitle": "Latvijas Radio",
+      "location": "Latvia",
+      "genre": "Latvijas Radio",
+      "countryCode": "LV",
+      "language": "latvian",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://muste.latvijasradio.lv/shoutcast/mp4:lr1a.stream/playlist.m3u8"
+    },
+    {
+      "id": "latvijas_radio_2_lv_f27f1f5d",
+      "title": "Latvijas Radio 2",
+      "subtitle": "Latvijas Radio",
+      "location": "Latvia",
+      "genre": "Latvijas Radio",
+      "countryCode": "LV",
+      "language": "latvian",
+      "clickCount": 3,
+      "bitrate": 161,
+      "streamUrl": "https://muste.latvijasradio.lv/shoutcast/mp4:lr2a.stream/playlist.m3u8"
+    },
+    {
+      "id": "newdanceradio_lv_abed997f",
+      "title": "NewDanceRadio",
+      "subtitle": "Dance",
+      "location": "Latvia",
+      "genre": "Dance",
+      "countryCode": "LV",
+      "language": "russian",
+      "clickCount": 2,
+      "bitrate": 192,
+      "streamUrl": "https://stream.newdanceradio.lv/mp3_192"
+    },
+    {
+      "id": "life_radio_mk_01185314",
+      "title": "Life Radio",
+      "subtitle": "Radio",
+      "location": "Republic Of North Macedonia",
+      "genre": "Radio",
+      "countryCode": "MK",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 0,
+      "streamUrl": "https://worldradio.online/proxy/?q=http://liferadio.ddns.net:8000/stream&plugin_id=13399&site_id=14630760"
     }
   ]
 }

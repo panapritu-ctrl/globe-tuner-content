@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-15T03:25:24Z",
+  "updated": "2026-09-16T03:20:44Z",
   "region": "americas",
   "part": 5,
   "of": 5,
@@ -1479,19 +1479,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb_abc_classic_fm_aac_d819267c",
-      "title": "ABC Classic FM (AAC)",
-      "subtitle": "Radio",
-      "imageUrl": "http://live-radio01.mediahubaustralia.com/2FMW/aac/",
-      "streamUrl": "http://live-radio01.mediahubaustralia.com/2FMW/aac/",
-      "location": "British Virgin Islands",
-      "genre": "Radio",
-      "countryCode": "VG",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 56
-    },
-    {
       "id": "burning_rockers_vg",
       "title": "Burning Rockers",
       "subtitle": "MP3 192kbps",
@@ -2110,6 +2097,30 @@
       "clickCount": 3,
       "bitrate": 56,
       "streamUrl": "http://usa15.ciudaddigital.com.uy:8044/AmatistaFM"
+    },
+    {
+      "id": "rumbera_98_7_fm_ve_8f5a7a4d",
+      "title": "Rumbera  98.7 FM",
+      "subtitle": "Hits",
+      "location": "Bolivarian Republic Of Venezuela",
+      "genre": "Hits",
+      "countryCode": "VE",
+      "language": "spanish",
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "https://stream.zeno.fm/85y72q4wzdfuv"
+    },
+    {
+      "id": "radiomundo_uy_e356e62a",
+      "title": "Radiomundo",
+      "subtitle": "Talk",
+      "location": "Uruguay",
+      "genre": "Talk",
+      "countryCode": "UY",
+      "language": "spanish",
+      "clickCount": 3,
+      "bitrate": 64,
+      "streamUrl": "https://stream1.enperspectiva.net:8443/radio.mp4"
     }
   ]
 }

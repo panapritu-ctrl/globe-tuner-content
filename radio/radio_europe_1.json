@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-15T03:25:24Z",
+  "updated": "2026-09-16T03:20:44Z",
   "region": "europe",
   "part": 1,
   "of": 8,
@@ -10200,19 +10200,6 @@
       "bitrate": 320
     },
     {
-      "id": "rb2_top_fm_74d18aef",
-      "title": "top.fm",
-      "subtitle": "Chalga, Folklore",
-      "imageUrl": "https://top.fm/topfm.png",
-      "streamUrl": "http://91.227.77.124/topfm",
-      "location": "Sofia, Bulgaria",
-      "genre": "Chalga",
-      "countryCode": "BG",
-      "language": "bulgarian",
-      "clickCount": 1,
-      "bitrate": 320
-    },
-    {
       "id": "rb2_station_0c8410d4",
       "title": "Авто Радио",
       "subtitle": "Dance, Top40",
@@ -15298,32 +15285,6 @@
       "countryCode": "CH",
       "language": null,
       "clickCount": 1,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_vibraci_n_latina_96133755",
-      "title": "Vibración Latina",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://vibration.stream2net.eu:8410/;stream/1",
-      "location": "Suisse Romande, Switzerland",
-      "genre": "Radio",
-      "countryCode": "CH",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_vibration_gayradio_96133ae8",
-      "title": "Vibration Gayradio",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://vibration.stream2net.eu:8480/;stream/1",
-      "location": "Suisse Romande, Switzerland",
-      "genre": "Radio",
-      "countryCode": "CH",
-      "language": null,
-      "clickCount": 0,
       "bitrate": 128
     },
     {
@@ -28114,6 +28075,30 @@
       "clickCount": 2,
       "bitrate": 128,
       "streamUrl": "https://webtvstream.bhtelecom.ba/imperia_radio.m3u8"
+    },
+    {
+      "id": "radio_steiermark_at_d03f3f27",
+      "title": "Radio Steiermark",
+      "subtitle": "Radio",
+      "location": "Austria",
+      "genre": "Radio",
+      "countryCode": "AT",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 192,
+      "streamUrl": "https://orf-live.ors-shoutcast.at/stm-q2a"
+    },
+    {
+      "id": "123_by_eaca0743",
+      "title": "Радио 123",
+      "subtitle": "Christian",
+      "location": "Belarus",
+      "genre": "Christian",
+      "countryCode": "BY",
+      "language": "russian",
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "http://de1.internet-radio.com:8173/stream"
     }
   ]
 }

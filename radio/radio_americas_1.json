@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-15T03:25:57Z",
+  "updated": "2026-09-16T03:20:44Z",
   "region": "americas",
   "part": 1,
   "of": 5,
@@ -16508,19 +16508,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_r_dio_80_fm_dance_music_61f12535",
-      "title": "Rádio 80 Fm Dance Music",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://servidor26.brlogic.com:7006/live",
-      "location": "Sao Paulo (Brazil), Brazil",
-      "genre": "Radio",
-      "countryCode": "BR",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 96
-    },
-    {
       "id": "rb2_r_dio_80fm_cf11fdab",
       "title": "Rádio 80FM",
       "subtitle": "Radio",
@@ -18199,19 +18186,6 @@
       "language": "portugues do braasil",
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_r_dio_fronteira_102_3_fm_72a0e1e5",
-      "title": "Rádio Fronteira 102.3 FM",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://8028.brasilstream.com.br/stream",
-      "location": "Brazil",
-      "genre": "Radio",
-      "countryCode": "BR",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 64
     },
     {
       "id": "rb2_r_dio_furac_o_2000_475aef60",
@@ -20688,19 +20662,6 @@
       "genre": "Radio",
       "countryCode": "BR",
       "language": "portuguese",
-      "clickCount": 0,
-      "bitrate": 48
-    },
-    {
-      "id": "rb2_r_dio_verde_oliva_tr_s_cora_es_d451198e",
-      "title": "Rádio Verde Oliva - Três Corações",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://f100.fabricahost.com.br/verdeoliva3cor?f=1781018164N01KTPF8Z814NR18MRA745RR94P&tid=01KTPF8Z81Z3424E2X7M0EYDMM",
-      "location": "Brazil",
-      "genre": "Radio",
-      "countryCode": "BR",
-      "language": null,
       "clickCount": 0,
       "bitrate": 48
     },
@@ -23272,15 +23233,6 @@
       "language": null,
       "clickCount": 0,
       "bitrate": 64
-    },
-    {
-      "id": "bpm_sports_91_9_ca_2b379e",
-      "title": "BPM sports 91.9",
-      "subtitle": "Sports",
-      "location": "Quebec, Canada",
-      "genre": "Sports",
-      "streamUrl": "http://icecast-cklx.rncm.ca/cklx.mp3",
-      "countryCode": "CA"
     },
     {
       "id": "energia_fm_97_fm_br_d8bbd660",
@@ -27423,18 +27375,6 @@
       "streamUrl": "https://streaming01.shockmedia.com.ar/8440/stream/;"
     },
     {
-      "id": "fm_cristal_97_7_ar_d42c680d",
-      "title": "FM CRISTAL 97.7",
-      "subtitle": "Cumbia",
-      "location": "Argentina",
-      "genre": "Cumbia",
-      "countryCode": "AR",
-      "language": "spanish",
-      "clickCount": 2,
-      "bitrate": 128,
-      "streamUrl": "https://streaming.radiosenlinea.com.ar/8520/stream"
-    },
-    {
       "id": "emanuel_jireh_ar_ed4bbb4d",
       "title": "Emanuel Jireh",
       "subtitle": "Balada En Español",
@@ -28225,6 +28165,66 @@
       "clickCount": 2,
       "bitrate": 96,
       "streamUrl": "http://a1rj.streams.com.br:7801/sm"
+    },
+    {
+      "id": "mmm_r_dio_br_c9cead6b",
+      "title": "MMM Rádio",
+      "subtitle": "Radio",
+      "location": "Brazil",
+      "genre": "Radio",
+      "countryCode": "BR",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://mmm.rio.br/radio.mp3"
+    },
+    {
+      "id": "metalradio_ar_402c62d0",
+      "title": "MetalRadio",
+      "subtitle": "Radio",
+      "location": "Argentina",
+      "genre": "Radio",
+      "countryCode": "AR",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 320,
+      "streamUrl": "https://api.metalradio.com.ar/listen/metalradio/radio.mp3"
+    },
+    {
+      "id": "104_fm_natal_br_8df61a50",
+      "title": "104 FM Natal",
+      "subtitle": "Radio",
+      "location": "Brazil",
+      "genre": "Radio",
+      "countryCode": "BR",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "http://radios.braviahost.com.br:8000/radio.mp3"
+    },
+    {
+      "id": "grande_rio_fm_99_1_penedo_br_37ba9bcd",
+      "title": "Grande Rio FM 99,1 Penedo",
+      "subtitle": "Eclética",
+      "location": "Brazil",
+      "genre": "Eclética",
+      "countryCode": "BR",
+      "language": "pt-br",
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "https://hts07.brascast.com:10708/live"
+    },
+    {
+      "id": "cfox_99_3_vancouver_bc_ca_f3a93dd8",
+      "title": "CFOX 99.3 Vancouver, BC",
+      "subtitle": "Alternative Rock",
+      "location": "Canada",
+      "genre": "Alternative Rock",
+      "countryCode": "CA",
+      "language": "english",
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "http://live.leanstream.co/CFOXFM-MP3"
     }
   ]
 }

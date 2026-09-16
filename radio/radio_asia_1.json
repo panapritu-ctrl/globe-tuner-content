@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-15T03:25:57Z",
+  "updated": "2026-09-16T03:20:44Z",
   "region": "asia",
   "part": 1,
   "of": 3,
@@ -26238,18 +26238,6 @@
       "streamUrl": "https://streaming.exclusive.radio/er/streisand/icecast.audio"
     },
     {
-      "id": "panorama_fm_bh_0d60585d",
-      "title": "Panorama FM",
-      "subtitle": "Radio",
-      "location": "Bahrain",
-      "genre": "Radio",
-      "countryCode": "BH",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 348,
-      "streamUrl": "https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8"
-    },
-    {
       "id": "station_cn_b1f79f74",
       "title": "长沙市望城区人民广播电台",
       "subtitle": "Music",
@@ -26752,18 +26740,6 @@
       "clickCount": 3,
       "bitrate": 128,
       "streamUrl": "http://drive.uber.radio/uber/crandressegovia/icecast.audio"
-    },
-    {
-      "id": "station_cn_f9270d11",
-      "title": "龙山综合广播龙凤之声",
-      "subtitle": "5G智慧电台",
-      "location": "China",
-      "genre": "5G智慧电台",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 3,
-      "bitrate": 0,
-      "streamUrl": "https://liveplay-srs.voc.com.cn/hls/broadcast/146_80a15b.m3u8"
     },
     {
       "id": "station_cn_cd90cf85",
@@ -27532,6 +27508,78 @@
       "clickCount": 2,
       "bitrate": 0,
       "streamUrl": "https://live.ximalaya.com/radio-first-page-app/live/1318/64.m3u8?transcode=ts"
+    },
+    {
+      "id": "panorama_fm_bh_0d60585d",
+      "title": "Panorama FM",
+      "subtitle": "Radio",
+      "location": "Bahrain",
+      "genre": "Radio",
+      "countryCode": "BH",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 348,
+      "streamUrl": "https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8"
+    },
+    {
+      "id": "station_cn_f0ced57d",
+      "title": "四川财富生活频道",
+      "subtitle": "News",
+      "location": "China",
+      "genre": "News",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "http://live.ximalaya.com/radio-first-page-app/live/1645/64.m3u8"
+    },
+    {
+      "id": "station_cn_0d6370dc",
+      "title": "金州综合广播",
+      "subtitle": "Lifestyle",
+      "location": "China",
+      "genre": "Lifestyle",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://lhttp.qingting.fm/live/15318307/64k.mp3"
+    },
+    {
+      "id": "station_cn_2344464f",
+      "title": "朋克音乐台",
+      "subtitle": "Radio",
+      "location": "China",
+      "genre": "Radio",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://stream.zeno.fm/y99cwikkky8tv"
+    },
+    {
+      "id": "station_cn_a5516fbf",
+      "title": "来宾综合广播",
+      "subtitle": "Full Service",
+      "location": "China",
+      "genre": "Full Service",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "http://zb.gxlbamc.com:9300/hls/live/7712.m3u8"
+    },
+    {
+      "id": "station_cn_8a9ee61e",
+      "title": "渭南交通广播",
+      "subtitle": "Entertainment",
+      "location": "China",
+      "genre": "Entertainment",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 2,
+      "bitrate": 0,
+      "streamUrl": "https://lhttp-hw.qtfm.cn/live/5022389/64k.mp3"
     }
   ]
 }
