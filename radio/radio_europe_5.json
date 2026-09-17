@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-16T03:20:13Z",
+  "updated": "2026-09-17T03:25:23Z",
   "region": "europe",
   "part": 5,
   "of": 8,
@@ -8911,19 +8911,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_station_bb408ae9",
-      "title": "Λατώ  Άγιος Νικόλαος",
-      "subtitle": "News, Pop",
-      "imageUrl": "",
-      "streamUrl": "http://51.91.170.243:8100/latofm?.mp3",
-      "location": "Agios Nikolaos, Greece",
-      "genre": "News",
-      "countryCode": "GR",
-      "language": "greek",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_station_051a9421",
       "title": "Λαϊκή Κιβωτός",
       "subtitle": "Greek Folk",
@@ -13026,19 +13013,6 @@
       "language": "croatian",
       "clickCount": 1,
       "bitrate": 256
-    },
-    {
-      "id": "rb2_radio_student_39cbaf46",
-      "title": "Radio Student",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://stream.radiostudent.hr/audio",
-      "location": "Croatia",
-      "genre": "Radio",
-      "countryCode": "HR",
-      "language": "croatian",
-      "clickCount": 0,
-      "bitrate": 128
     },
     {
       "id": "rb2_radio_student_100_5_67b546b8",
@@ -27957,6 +27931,18 @@
       "clickCount": 3,
       "bitrate": 128,
       "streamUrl": "http://s8.iqstreaming.com:8006/stream"
+    },
+    {
+      "id": "live95fm_ie_cf36def9",
+      "title": "Live95FM",
+      "subtitle": "Radio",
+      "location": "Ireland",
+      "genre": "Radio",
+      "countryCode": "IE",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "https://wg.cdn.tibus.net/Live95fm?aw_0_1st.playerId=wireless-website&listenerid=48213c18339e02bbc93dc6ed298c2192&awparams=companionAds%3Atrue&aw_0_req.gdpr=false&aw_0_req.userConsentV2=undefined&_=796350"
     }
   ]
 }

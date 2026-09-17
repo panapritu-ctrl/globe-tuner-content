@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-16T03:20:44Z",
+  "updated": "2026-09-17T03:25:23Z",
   "region": "europe",
   "part": 8,
   "of": 8,
@@ -1501,19 +1501,6 @@
       "genre": "Electronic",
       "countryCode": "RU",
       "streamUrl": "http://79.120.39.202:8000/dubtechno"
-    },
-    {
-      "id": "rb2_radio_caprice_dungeon_synth_02c612bb",
-      "title": "Radio Caprice - Dungeon Synth",
-      "subtitle": "Dungeon Synth",
-      "imageUrl": "",
-      "streamUrl": "http://79.120.12.130:8002/dungeonsynth",
-      "location": "The Russian Federation",
-      "genre": "Dungeon Synth",
-      "countryCode": "RU",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 48
     },
     {
       "id": "rb2_radio_caprice_easy_listening_574b28f1",
@@ -4780,19 +4767,6 @@
       "language": null,
       "clickCount": 1,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_piramida_96bc4e49",
-      "title": "Radio Piramida",
-      "subtitle": "Classic Hits, Classic Rock",
-      "imageUrl": "",
-      "streamUrl": "http://www.nazarovo-online.ru:8080/piramida/nazarovo",
-      "location": "The Russian Federation",
-      "genre": "Classic Hits",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 0,
-      "bitrate": 320
     },
     {
       "id": "rb2_radio_portal_novovoronezh_1c175eff",
@@ -9796,19 +9770,6 @@
       "genre": "Блюз",
       "countryCode": "RU",
       "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_station_27c53e4a",
-      "title": "Красноярск фм",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://online.krasnoyarskfm.ru:8000/krasnoyarskfm_mp3",
-      "location": "The Russian Federation",
-      "genre": "Radio",
-      "countryCode": "RU",
-      "language": "язык: русский",
       "clickCount": 0,
       "bitrate": 128
     },
@@ -25147,6 +25108,42 @@
       "clickCount": 3,
       "bitrate": 296,
       "streamUrl": "https://live1.sr.se/p4uppl-aac-320"
+    },
+    {
+      "id": "station_ru_aa2c7091",
+      "title": "Отклик — стихи и отклики нейросети",
+      "subtitle": "Ai",
+      "location": "The Russian Federation",
+      "genre": "Ai",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://otklik.taile7f452.ts.net/stream.mp3"
+    },
+    {
+      "id": "record_80_ru_500b4ff3",
+      "title": "Record 80-х",
+      "subtitle": "Поп-Музыка",
+      "location": "The Russian Federation",
+      "genre": "Поп-Музыка",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://radiorecord.hostingradio.ru/198096.aacp"
+    },
+    {
+      "id": "radio_game_play_ru_bccabd6b",
+      "title": "Radio Game play",
+      "subtitle": "8 Bit",
+      "location": "The Russian Federation",
+      "genre": "8 Bit",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://c22.radioboss.fm:8144/GamePlay"
     }
   ]
 }

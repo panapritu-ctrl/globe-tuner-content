@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-16T03:20:44Z",
+  "updated": "2026-09-17T03:25:23Z",
   "region": "europe",
   "part": 4,
   "of": 8,
@@ -1525,19 +1525,6 @@
       "language": null,
       "clickCount": 2,
       "bitrate": 192
-    },
-    {
-      "id": "rb2_attila1_fm_6ce029de",
-      "title": "Attila1 FM",
-      "subtitle": "Radio",
-      "imageUrl": "https://zenoimages.s3.us-west-001.backblazeb2.com/2068a3c8-deab-4e2d-95ac-584aa5e37eeb/images/logo",
-      "streamUrl": "https://stream.zeno.fm/k1mqxcqj9jruv",
-      "location": "South Yorkshire, The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "Radio",
-      "countryCode": "GB",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
     },
     {
       "id": "rb2_audio_force_radio_eb4fbedb",
@@ -26671,18 +26658,6 @@
       "streamUrl": "https://one.cloudstreaming.eu/proxy/entexno/stream"
     },
     {
-      "id": "greca_gr_63a011e6",
-      "title": "Greca Γλέντι",
-      "subtitle": "Greek Traditional",
-      "location": "Greece",
-      "genre": "Greek Traditional",
-      "countryCode": "GR",
-      "language": null,
-      "clickCount": 3,
-      "bitrate": 320,
-      "streamUrl": "https://one.cloudstreaming.eu/proxy/glenti/stream"
-    },
-    {
       "id": "radio_apopsi_gr_776d9362",
       "title": "Radio Apopsi",
       "subtitle": "Radio",
@@ -27569,6 +27544,18 @@
       "clickCount": 2,
       "bitrate": 64,
       "streamUrl": "https://www.fmlive.gr/8004/stream"
+    },
+    {
+      "id": "orthodoxia_kai_paradosi_gr_fa270631",
+      "title": "Orthodoxia kai Paradosi",
+      "subtitle": "Christian",
+      "location": "Greece",
+      "genre": "Christian",
+      "countryCode": "GR",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "http://radio.lts-group.eu:52390/ANS"
     }
   ]
 }

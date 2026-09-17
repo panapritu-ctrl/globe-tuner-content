@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-16T03:20:13Z",
+  "updated": "2026-09-17T03:24:56Z",
   "region": "oceania",
   "stations": [
     {
@@ -2432,15 +2432,6 @@
       "bitrate": 238
     },
     {
-      "id": "abc_classic_2_stream_aac_au_9623a9",
-      "title": "ABC Classic 2 Stream (AAC)",
-      "subtitle": "Abc",
-      "location": "Australia",
-      "genre": "Classical",
-      "streamUrl": "http://live-radio01.mediahubaustralia.com/FM2W/aac/",
-      "countryCode": "AU"
-    },
-    {
       "id": "rb2_abc_classic_fm_sa_90d44cf3",
       "title": "ABC Classic FM (SA)",
       "subtitle": "Classical, News",
@@ -2606,45 +2597,6 @@
       "streamUrl": "https://mediaserviceslive.akamaized.net/hls/live/2038319/abcjazz/index.m3u8"
     },
     {
-      "id": "rb2_abc_local_radio_105_7_darwin_nt_aac_9623b7ad",
-      "title": "ABC Local Radio 105.7 Darwin, NT (AAC)",
-      "subtitle": "Abc, Darwin",
-      "imageUrl": "http://www.abc.net.au/core-assets/local/favicon-32x32.png",
-      "streamUrl": "http://live-radio01.mediahubaustralia.com/8LRW/aac/",
-      "location": "Northern Territory, Australia",
-      "genre": "Abc",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 56
-    },
-    {
-      "id": "rb2_abc_local_radio_105_7_darwin_nt_mp3_9623b6f4",
-      "title": "ABC Local Radio 105.7 Darwin, NT (MP3)",
-      "subtitle": "Abc, Darwin",
-      "imageUrl": "http://www.abc.net.au/core-assets/local/favicon-32x32.png",
-      "streamUrl": "http://live-radio01.mediahubaustralia.com/8LRW/mp3/",
-      "location": "Northern Territory, Australia",
-      "genre": "Abc",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 56
-    },
-    {
-      "id": "rb2_abc_local_radio_1233_newcastle_nsw_mp3_9623c42a",
-      "title": "ABC Local Radio 1233 Newcastle, NSW (MP3)",
-      "subtitle": "Abc, Information",
-      "imageUrl": "http://www.abc.net.au/core-assets/local/favicon-32x32.png",
-      "streamUrl": "http://live-radio01.mediahubaustralia.com/2NEWW/mp3/",
-      "location": "New South Wales, Australia",
-      "genre": "Abc",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 56
-    },
-    {
       "id": "rb2_abc_local_radio_531_south_west_wa_da27108b",
       "title": "ABC Local Radio 531 South West WA",
       "subtitle": "Radio",
@@ -2669,32 +2621,6 @@
       "language": "english",
       "clickCount": 0,
       "bitrate": 94
-    },
-    {
-      "id": "rb2_abc_local_radio_702_sydney_mp3_9615adcd",
-      "title": "ABC Local Radio 702 Sydney (MP3)",
-      "subtitle": "Abc, Features",
-      "imageUrl": "http://www.abc.net.au/core-assets/local/favicon-32x32.png",
-      "streamUrl": "http://live-radio01.mediahubaustralia.com/2LRW/mp3/",
-      "location": "New South Wales, Australia",
-      "genre": "Abc",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 1,
-      "bitrate": 56
-    },
-    {
-      "id": "rb2_abc_local_radio_720_perth_wa_mp3_96230ea6",
-      "title": "ABC Local Radio 720 Perth, WA (MP3)",
-      "subtitle": "Abc, Information",
-      "imageUrl": "http://www.abc.net.au/core-assets/local/favicon-32x32.png",
-      "streamUrl": "http://live-radio01.mediahubaustralia.com/6LRW/mp3/",
-      "location": "Western Australia, Australia",
-      "genre": "Abc",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 56
     },
     {
       "id": "rb2_abc_local_radio_91_7_gold_coast_qld_mp3_961bf53d",
@@ -15101,19 +15027,6 @@
       "language": "english",
       "clickCount": 0,
       "bitrate": 192
-    },
-    {
-      "id": "rb2_ugfm_radio_murrindindi_e6c78f4c",
-      "title": "UGFM Radio Murrindindi",
-      "subtitle": "Australian Music, Community Radio",
-      "imageUrl": "https://favicons.teamtailor-cdn.com/icon?size=80..120..200&url=https%3a%2f%2fwww.ugfm.org%2f",
-      "streamUrl": "http://streamer3.rightclickitservices.com:8905/stream",
-      "location": "Victoria, Australia",
-      "genre": "Australian Music",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 64
     },
     {
       "id": "rb2_ultracool_radio_2479150e",

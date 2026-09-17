@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-16T03:20:44Z",
+  "updated": "2026-09-17T03:25:23Z",
   "region": "africa",
   "stations": [
     {
@@ -3188,15 +3188,6 @@
       "location": "Casablanca, Morocco",
       "genre": "Hip Hop",
       "streamUrl": "https://icecast.skyrock.net/s/casa_aac_64k",
-      "countryCode": "MA"
-    },
-    {
-      "id": "yabiladi_azawan_amazigh_ma_0caeda",
-      "title": "Yabiladi Azawan Amazigh",
-      "subtitle": "World Music",
-      "location": "Morocco",
-      "genre": "World Music",
-      "streamUrl": "https://radio.yabiladi.com:9002/;stream.mp3",
       "countryCode": "MA"
     },
     {
@@ -10060,18 +10051,6 @@
       "streamUrl": "https://radio.9300.co.za/listen/rockbox-radio/radio.mp3"
     },
     {
-      "id": "zaa_radio_gh_738c08d4",
-      "title": "Zaa Radio",
-      "subtitle": "Music",
-      "location": "Ghana",
-      "genre": "Music",
-      "countryCode": "GH",
-      "language": "english",
-      "clickCount": 4,
-      "bitrate": 128,
-      "streamUrl": "http://stream.zaaradio.com:60700/Zaa"
-    },
-    {
       "id": "radio_yoo_mp3_ug_43d176e0",
       "title": "Radio Yoo (MP3)",
       "subtitle": "Christian",
@@ -10106,18 +10085,6 @@
       "clickCount": 3,
       "bitrate": 0,
       "streamUrl": "https://app.radiio.link/stream.mp3"
-    },
-    {
-      "id": "bond_92_9_fm_ng_2986e51d",
-      "title": "Bond 92.9 FM",
-      "subtitle": "Radio",
-      "location": "Nigeria",
-      "genre": "Radio",
-      "countryCode": "NG",
-      "language": null,
-      "clickCount": 14,
-      "bitrate": 64,
-      "streamUrl": "https://go.webgateready.com/bondfm"
     },
     {
       "id": "radio_tunisie_kef_tn_1457449e",
@@ -10490,6 +10457,18 @@
       "clickCount": 3,
       "bitrate": 192,
       "streamUrl": "https://radio.localstreamgh.com/listen/ahenfie_radio_/radio.mp3"
+    },
+    {
+      "id": "sunny_fm_gh_33d7ac7b",
+      "title": "Sunny FM",
+      "subtitle": "Christian",
+      "location": "Ghana",
+      "genre": "Christian",
+      "countryCode": "GH",
+      "language": "akan",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://sunny-radio-server.cloud-ip.cc/radio/sunnyradio?t=1782488511159"
     }
   ]
 }

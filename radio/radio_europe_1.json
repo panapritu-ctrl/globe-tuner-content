@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-16T03:20:44Z",
+  "updated": "2026-09-17T03:25:23Z",
   "region": "europe",
   "part": 1,
   "of": 8,
@@ -28099,6 +28099,42 @@
       "clickCount": 2,
       "bitrate": 128,
       "streamUrl": "http://de1.internet-radio.com:8173/stream"
+    },
+    {
+      "id": "crazyradio_cz_cz_f051459d",
+      "title": "CrazyRadio.cz",
+      "subtitle": "Radio",
+      "location": "Czechia",
+      "genre": "Radio",
+      "countryCode": "CZ",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 192,
+      "streamUrl": "https://stream.rcast.net/72851"
+    },
+    {
+      "id": "radio_gora_de_ba_877891aa",
+      "title": "Radio Goražde",
+      "subtitle": "Radio",
+      "location": "Bosnia And Herzegovina",
+      "genre": "Radio",
+      "countryCode": "BA",
+      "language": "bosnian",
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "https://webtvstream.bhtelecom.ba/radio_gorazde.m3u8"
+    },
+    {
+      "id": "folklor_fm_bg_e056eedc",
+      "title": "folklor.fm",
+      "subtitle": "Folk",
+      "location": "Bulgaria",
+      "genre": "Folk",
+      "countryCode": "BG",
+      "language": "bulgarian",
+      "clickCount": 2,
+      "bitrate": 320,
+      "streamUrl": "http://91.227.77.124/folklorfm"
     }
   ]
 }
