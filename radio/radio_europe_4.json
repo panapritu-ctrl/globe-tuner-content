@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-17T03:25:23Z",
+  "updated": "2026-09-18T03:15:11Z",
   "region": "europe",
   "part": 4,
   "of": 8,
@@ -868,19 +868,6 @@
       "genre": "Radio",
       "countryCode": "GB",
       "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_90s_2000s_more_fb8ecb5b",
-      "title": "90s 2000s & More",
-      "subtitle": "00S, 10S",
-      "imageUrl": "https://lunar.citrus3.com:2020/pub/90s2000sandmore/background.jpg",
-      "streamUrl": "https://lunar.citrus3.com:8162/stream",
-      "location": "The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "00S",
-      "countryCode": "GB",
-      "language": "english",
       "clickCount": 0,
       "bitrate": 128
     },
@@ -3104,19 +3091,6 @@
       "language": null,
       "clickCount": 0,
       "bitrate": 192
-    },
-    {
-      "id": "rb2_blackpool_community_radio_2447a23d",
-      "title": "Blackpool Community Radio",
-      "subtitle": "Community Radio, Hot Ac",
-      "imageUrl": "https://img1.wsimg.com/isteam/ip/bd31317d-6163-4347-8040-861d4f5e7094/blob-69d7ecc.png/:/rs=w:315,h:315,cg:true,m/cr=w:315,h:315/qt=q:95",
-      "streamUrl": "http://s10.citrus3.com:8596/stream",
-      "location": "Lancashire, The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "Community Radio",
-      "countryCode": "GB",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
     },
     {
       "id": "rb2_bloomberg_dab_digital_radio_london_b8a18c78",
@@ -18947,19 +18921,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_99_7_1_d2c875c1",
-      "title": "99.7 Δίαυλος 1",
-      "subtitle": "Pentecostalism, Religion",
-      "imageUrl": "",
-      "streamUrl": "http://stream.kncdn.net:7512/1/?1671793270131",
-      "location": "Tripoli, Greece",
-      "genre": "Pentecostalism",
-      "countryCode": "GR",
-      "language": "greek",
-      "clickCount": 2,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_a_patras_94_4_4814d2fe",
       "title": "A Patras 94.4",
       "subtitle": "Music, News Talk",
@@ -20684,19 +20645,6 @@
       "language": null,
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_dreamer_radio_4ba92d81",
-      "title": "DREAMER RADIO",
-      "subtitle": "Ambient, Chillout",
-      "imageUrl": "",
-      "streamUrl": "https://cast1.asurahosting.com/proxy/ermis/stream",
-      "location": "Thessaloniki, Greece",
-      "genre": "Ambient",
-      "countryCode": "GR",
-      "language": "english",
-      "clickCount": 1,
-      "bitrate": 192
     },
     {
       "id": "rb2_drs_95_3_12142341",
@@ -27556,6 +27504,18 @@
       "clickCount": 2,
       "bitrate": 128,
       "streamUrl": "http://radio.lts-group.eu:52390/ANS"
+    },
+    {
+      "id": "radio_nyxtopoyli_gr_3f23286b",
+      "title": "Radio Nyxtopoyli",
+      "subtitle": "Radio",
+      "location": "Greece",
+      "genre": "Radio",
+      "countryCode": "GR",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 192,
+      "streamUrl": "https://stream13.shoutcastsolutions.com/proxy/bntailia?mp=/stream"
     }
   ]
 }

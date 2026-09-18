@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-17T03:25:23Z",
+  "updated": "2026-09-18T03:15:11Z",
   "region": "asia",
   "part": 1,
   "of": 3,
@@ -2830,19 +2830,6 @@
       "streamUrl": "https://nl4.mystreaming.net/er/thebeegeeshits/icecast.audio",
       "location": "Dubai, The United Arab Emirates",
       "genre": "Pop",
-      "countryCode": "AE",
-      "language": "english",
-      "clickCount": 3,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_exclusively_beyonce_41ff1cdf",
-      "title": "Exclusively Beyonce",
-      "subtitle": "Dance Pop, Pop",
-      "imageUrl": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
-      "streamUrl": "https://streaming.exclusive.radio/er/beyonce/icecast.audio",
-      "location": "The United Arab Emirates",
-      "genre": "Dance Pop",
       "countryCode": "AE",
       "language": "english",
       "clickCount": 3,
@@ -18559,19 +18546,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_station_3793a99b",
-      "title": "延边朝鲜语新闻综合广播",
-      "subtitle": "Full Service",
-      "imageUrl": "https://pic.qtfm.cn/2025/0806/20250806094845.png",
-      "streamUrl": "https://lhttp-hw.qtfm.cn/live/20324/64k.mp3",
-      "location": "jilin, China",
-      "genre": "Full Service",
-      "countryCode": "CN",
-      "language": "korean",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_station_3cb3a062",
       "title": "延边朝鲜语新闻综合广播 뉴스종합방송",
       "subtitle": "Full Service",
@@ -26391,18 +26365,6 @@
       "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_IBIZA.mp3"
     },
     {
-      "id": "abu_dhabi_fm_ae_58ef74aa",
-      "title": "Abu Dhabi fm",
-      "subtitle": "Arabic",
-      "location": "The United Arab Emirates",
-      "genre": "Arabic",
-      "countryCode": "AE",
-      "language": null,
-      "clickCount": 8,
-      "bitrate": 637,
-      "streamUrl": "https://admn-radio-cdn-lb.starzplayarabia.com/out/v1/admn_radio_enc/abudhabi_fm/abudhabi_fm_hls_nd/index.m3u8"
-    },
-    {
       "id": "asiafm_af_cc2a2467",
       "title": "AsiaFM",
       "subtitle": "Classical",
@@ -27565,6 +27527,102 @@
       "clickCount": 2,
       "bitrate": 64,
       "streamUrl": "http://traffic.jbh.tjbh.com/live/FM100.1/playlist.m3u8"
+    },
+    {
+      "id": "abu_dhabi_fm_ae_58ef74aa",
+      "title": "Abu Dhabi fm",
+      "subtitle": "Arabic",
+      "location": "The United Arab Emirates",
+      "genre": "Arabic",
+      "countryCode": "AE",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 637,
+      "streamUrl": "https://admn-radio-cdn-lb.starzplayarabia.com/out/v1/admn_radio_enc/abudhabi_fm/abudhabi_fm_hls_nd/index.m3u8"
+    },
+    {
+      "id": "2_cn_3d81e96e",
+      "title": "上虞广播-2",
+      "subtitle": "Radio",
+      "location": "China",
+      "genre": "Radio",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8"
+    },
+    {
+      "id": "station_cn_d5011d99",
+      "title": "玛曲电视台",
+      "subtitle": "Full Service",
+      "location": "China",
+      "genre": "Full Service",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 3,
+      "bitrate": 2560,
+      "streamUrl": "https://play.kankanlive.com/live/1711955176432990.m3u8"
+    },
+    {
+      "id": "station_cn_a5ef117a",
+      "title": "保定新闻频道",
+      "subtitle": "News",
+      "location": "China",
+      "genre": "News",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://lhttp.qtfm.cn/live/5022440/64k.mp3"
+    },
+    {
+      "id": "fm89_cn_8ab74545",
+      "title": "淄博综合广播（FM89）",
+      "subtitle": "News",
+      "location": "China",
+      "genre": "News",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://lhttp-hw.qtfm.cn/live/1678/64k.mp3"
+    },
+    {
+      "id": "station_cn_738c820f",
+      "title": "青岛新闻综合广播",
+      "subtitle": "M3U8",
+      "location": "China",
+      "genre": "M3U8",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "http://video10.qtv.com.cn/zhiboxwgb/manifest.m3u8"
+    },
+    {
+      "id": "station_cn_28d6ed8c",
+      "title": "东港新东港广播",
+      "subtitle": "Full Service",
+      "location": "China",
+      "genre": "Full Service",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://lhttp-hw.qtfm.cn/live/5022186/64k.mp3"
+    },
+    {
+      "id": "nick_jr_102_9_fm_wayback_machine_af_8e0c2c70",
+      "title": "Nick Jr. 102.9 FM Wayback Machine",
+      "subtitle": "Classical",
+      "location": "Afghanistan",
+      "genre": "Classical",
+      "countryCode": "AF",
+      "language": null,
+      "clickCount": 1,
+      "bitrate": 0,
+      "streamUrl": "http://web.archive.org/web/20200815210240if_/https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream_7.m3u8"
     }
   ]
 }

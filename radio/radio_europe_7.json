@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-17T03:25:23Z",
+  "updated": "2026-09-18T03:15:11Z",
   "region": "europe",
   "part": 7,
   "of": 8,
@@ -251,19 +251,6 @@
       "countryCode": "PL",
       "language": "polish",
       "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_baobab_960fdc9a",
-      "title": "Radio Baobab",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://stream.radiobaobab.pl:8000/radiobaobab.mp3",
-      "location": "Warszawa, Poland",
-      "genre": "Radio",
-      "countryCode": "PL",
-      "language": "polish",
-      "clickCount": 1,
       "bitrate": 128
     },
     {
@@ -12183,19 +12170,6 @@
       "genre": "Oldies",
       "countryCode": "RO",
       "language": "românä",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_radiokyssecstrem_cluj_napoca_b0ca796d",
-      "title": "RadioKyssEcstrem -Cluj Napoca",
-      "subtitle": "Dance, Electronic Music",
-      "imageUrl": "https://play-lh.googleusercontent.com/hM_-E1xyae535u4_mDcpUsQ2Oc2luWYN-IW-5Fe4U4qoy8HbH8x_iEvbqjOHM7tbDPs=w240-h480",
-      "streamUrl": "https://ssl.kenhost.ro:8042/stream",
-      "location": "Romania",
-      "genre": "Dance",
-      "countryCode": "RO",
-      "language": "română",
       "clickCount": 0,
       "bitrate": 128
     },
@@ -24362,18 +24336,6 @@
       "streamUrl": "https://ssl.omegahost.ro/8066/stream"
     },
     {
-      "id": "naxi_fitness_rs_f2e3a070",
-      "title": "Naxi Fitness",
-      "subtitle": "Electronic",
-      "location": "Serbia",
-      "genre": "Electronic",
-      "countryCode": "RS",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 128,
-      "streamUrl": "https://naxidigital-fitness128ssl.streaming.rs:8292/;stream.nsv"
-    },
-    {
       "id": "clasic_radio_80_bucure_ti_ro_10176f58",
       "title": "Clasic Radio_80 -București",
       "subtitle": "80S",
@@ -24552,18 +24514,6 @@
       "clickCount": 3,
       "bitrate": 0,
       "streamUrl": "http://94.52.142.229:85/broadwave.mp3"
-    },
-    {
-      "id": "radio_sljivovica_rs_aac8db44",
-      "title": "Radio Sljivovica",
-      "subtitle": "Radio",
-      "location": "Serbia",
-      "genre": "Radio",
-      "countryCode": "RS",
-      "language": "serbian",
-      "clickCount": 3,
-      "bitrate": 128,
-      "streamUrl": "http://stream.iradio.pro:8114/;stream.nsv"
     },
     {
       "id": "europa_fm_romania_ro_33d23e57",
@@ -24792,18 +24742,6 @@
       "clickCount": 3,
       "bitrate": 192,
       "streamUrl": "https://s4.ssl-stream.com/listen/oxo_radio/radio.mp3"
-    },
-    {
-      "id": "naxi_radio_cafe_radio_rs_a73dcd72",
-      "title": "naxi radio - cafe radio",
-      "subtitle": "Cafe",
-      "location": "Serbia",
-      "genre": "Cafe",
-      "countryCode": "RS",
-      "language": null,
-      "clickCount": 3,
-      "bitrate": 128,
-      "streamUrl": "http://naxidigital-cafe128.streaming.rs:8020/;stream.nsv"
     },
     {
       "id": "radio_musgo_pt_c05fea5a",
@@ -25668,6 +25606,150 @@
       "clickCount": 2,
       "bitrate": 128,
       "streamUrl": "https://centova.radio.com.pt/proxy/551?mp=/stream"
+    },
+    {
+      "id": "radio_hot_style_ro_ae1fa292",
+      "title": "Radio Hot Style",
+      "subtitle": "Dance",
+      "location": "Romania",
+      "genre": "Dance",
+      "countryCode": "RO",
+      "language": "romanian",
+      "clickCount": 19,
+      "bitrate": 128,
+      "streamUrl": "http://mp3.radiohot.ro:8000/stream"
+    },
+    {
+      "id": "radio_pl_8be10ced",
+      "title": "radio",
+      "subtitle": "Musical",
+      "location": "Poland",
+      "genre": "Musical",
+      "countryCode": "PL",
+      "language": "polish",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://c16.radioboss.fm:18014/stream"
+    },
+    {
+      "id": "radio_baobab_pl_be59a3cd",
+      "title": "Radio Baobab",
+      "subtitle": "Radio",
+      "location": "Poland",
+      "genre": "Radio",
+      "countryCode": "PL",
+      "language": "polish",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "http://stream.radiobaobab.pl:8000/radiobaobab.mp3"
+    },
+    {
+      "id": "antena_1_pt_a5e60ba8",
+      "title": "Antena 1",
+      "subtitle": "Talk & Speech",
+      "location": "Portugal",
+      "genre": "Talk & Speech",
+      "countryCode": "PT",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 171,
+      "streamUrl": "http://streaming-live.rtp.pt/liveradio/antena180a/playlist.m3u8"
+    },
+    {
+      "id": "radio_stres_romania_c_l_ra_i_ro_a5ee03ac",
+      "title": "Radio Stres Romania -Călărași",
+      "subtitle": "Dance",
+      "location": "Romania",
+      "genre": "Dance",
+      "countryCode": "RO",
+      "language": "română",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://sonicpanel.namehost.ro:8402/stream"
+    },
+    {
+      "id": "naxi_fitness_rs_f2e3a070",
+      "title": "Naxi Fitness",
+      "subtitle": "Electronic",
+      "location": "Serbia",
+      "genre": "Electronic",
+      "countryCode": "RS",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://naxidigital-fitness128ssl.streaming.rs:8292/;stream.nsv"
+    },
+    {
+      "id": "radio_sljivovica_rs_aac8db44",
+      "title": "Radio Sljivovica",
+      "subtitle": "Radio",
+      "location": "Serbia",
+      "genre": "Radio",
+      "countryCode": "RS",
+      "language": "serbian",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "http://stream.iradio.pro:8114/;stream.nsv"
+    },
+    {
+      "id": "antyradio_makak_pl_2c44e4f6",
+      "title": "Antyradio Makak",
+      "subtitle": "Rock",
+      "location": "Poland",
+      "genre": "Rock",
+      "countryCode": "PL",
+      "language": "polish",
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "http://an.cdn.eurozet.pl/ANTMAK.mp3"
+    },
+    {
+      "id": "radio_super_manele_ro_955594bc",
+      "title": "Radio Super Manele",
+      "subtitle": "Manele",
+      "location": "Romania",
+      "genre": "Manele",
+      "countryCode": "RO",
+      "language": "romanian",
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "http://manele.capitalfm.ro:8020/stream"
+    },
+    {
+      "id": "nicecream_fm_red_ro_68fa6d7e",
+      "title": "Nicecream.fm RED",
+      "subtitle": "Downtempo",
+      "location": "Romania",
+      "genre": "Downtempo",
+      "countryCode": "RO",
+      "language": "english",
+      "clickCount": 2,
+      "bitrate": 192,
+      "streamUrl": "https://play.nicecream.fm/red.aac"
+    },
+    {
+      "id": "ebs_radio_magyar_zene_cluj_napoca_ro_a2eebd15",
+      "title": "EBS Radio Magyar Zene-Cluj Napoca",
+      "subtitle": "Hungarian Pop Music",
+      "location": "Romania",
+      "genre": "Hungarian Pop Music",
+      "countryCode": "RO",
+      "language": "hungarian",
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "https://azura.ebsmedia.ro/listen/hungarian/hungarian128.mp3?refresh=1779029332085"
+    },
+    {
+      "id": "center_deejay_bra_ov_dj_radio_romania_ro_f2d1f32f",
+      "title": "Center Deejay Brașov -DJ Radio Romania",
+      "subtitle": "Dance",
+      "location": "Romania",
+      "genre": "Dance",
+      "countryCode": "RO",
+      "language": "română",
+      "clickCount": 2,
+      "bitrate": 64,
+      "streamUrl": "https://djradio.ro/stream"
     }
   ]
 }

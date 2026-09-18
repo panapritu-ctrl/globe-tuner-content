@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-17T03:25:23Z",
+  "updated": "2026-09-18T03:15:11Z",
   "region": "europe",
   "part": 1,
   "of": 8,
@@ -5304,19 +5304,6 @@
       "countryCode": "BE",
       "language": null,
       "clickCount": 1,
-      "bitrate": 96
-    },
-    {
-      "id": "rb2_joe_gold_1fcdd3c4",
-      "title": "Joe Gold",
-      "subtitle": "Oldies",
-      "imageUrl": "",
-      "streamUrl": "https://streams.radio.dpgmedia.cloud/redirect/joe_gold/aac",
-      "location": "Belgium",
-      "genre": "Oldies",
-      "countryCode": "BE",
-      "language": null,
-      "clickCount": 2,
       "bitrate": 96
     },
     {
@@ -15841,19 +15828,6 @@
       "genre": "Radio",
       "countryCode": "CZ",
       "language": null,
-      "clickCount": 0,
-      "bitrate": 192
-    },
-    {
-      "id": "rb2_calimeroclub_radio_b13ea46f",
-      "title": "Calimeroclub Radio",
-      "subtitle": "Club, Dance",
-      "imageUrl": "https://www.calimeroclub.eu/img/picture/192/logo-calimero.jpg",
-      "streamUrl": "http://live.topradio.cz:8000/calimero192",
-      "location": "Czechia",
-      "genre": "Club",
-      "countryCode": "CZ",
-      "language": "czech",
       "clickCount": 0,
       "bitrate": 192
     },
@@ -26949,18 +26923,6 @@
       "streamUrl": "http://www.rdl.de:8000/rdl"
     },
     {
-      "id": "pilot_fm_by_103a5b85",
-      "title": "Pilot FM",
-      "subtitle": "Pop",
-      "location": "Belarus",
-      "genre": "Pop",
-      "countryCode": "BY",
-      "language": "belarusian",
-      "clickCount": 5,
-      "bitrate": 128,
-      "streamUrl": "https://live.pilotfm.com/stream/pilotfm/aac128"
-    },
-    {
       "id": "hitradio_antenne_1_de_dd10d0c8",
       "title": "Hitradio antenne 1",
       "subtitle": "Hits",
@@ -27909,18 +27871,6 @@
       "streamUrl": "https://eilo.org/streamer.php?ch=trance"
     },
     {
-      "id": "eye_see_chaos_radio_station_bg_15ba6778",
-      "title": "EYE SEE CHAOS RADIO STATION",
-      "subtitle": "Radio",
-      "location": "Bulgaria",
-      "genre": "Radio",
-      "countryCode": "BG",
-      "language": null,
-      "clickCount": 3,
-      "bitrate": 192,
-      "streamUrl": "https://radio.eyeseechaos.net/listen/eye_see_chaos_radio/radio.mp3"
-    },
-    {
       "id": "shinto_cz_031a03ce",
       "title": "Shinto",
       "subtitle": "Radio",
@@ -28135,6 +28085,66 @@
       "clickCount": 2,
       "bitrate": 320,
       "streamUrl": "http://91.227.77.124/folklorfm"
+    },
+    {
+      "id": "radio_bosna_ba_bf2e872f",
+      "title": "Radio Bosna",
+      "subtitle": "Radio",
+      "location": "Bosnia And Herzegovina",
+      "genre": "Radio",
+      "countryCode": "BA",
+      "language": null,
+      "clickCount": 9,
+      "bitrate": 320,
+      "streamUrl": "https://host2.streamafrica.net/listen/radio_bossna/radio.mp3"
+    },
+    {
+      "id": "rockzone_cz_1085ae4e",
+      "title": "RockZone",
+      "subtitle": "Radio",
+      "location": "Czechia",
+      "genre": "Radio",
+      "countryCode": "CZ",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://icecast5.play.cz/rockzone.mp3"
+    },
+    {
+      "id": "radio_bosna_ba_5185bc36",
+      "title": "Radio Bosna",
+      "subtitle": "Radio",
+      "location": "Bosnia And Herzegovina",
+      "genre": "Radio",
+      "countryCode": "BA",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 0,
+      "streamUrl": "https://stream-162.zeno.fm/qggihjl4mgcvv"
+    },
+    {
+      "id": "radio_ba_ba_0f08189f",
+      "title": "Radio BA",
+      "subtitle": "Radio",
+      "location": "Bosnia And Herzegovina",
+      "genre": "Radio",
+      "countryCode": "BA",
+      "language": "bosnian",
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "https://webtvstream.bhtelecom.ba/radio_ba.m3u8"
+    },
+    {
+      "id": "radio_mora_at_595c5635",
+      "title": "Radio MORA",
+      "subtitle": "Radio",
+      "location": "Austria",
+      "genre": "Radio",
+      "countryCode": "AT",
+      "language": null,
+      "clickCount": 1,
+      "bitrate": 128,
+      "streamUrl": "https://server4.streamserver24.com:26250/stream?1655820557881"
     }
   ]
 }

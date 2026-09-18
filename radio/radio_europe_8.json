@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-17T03:25:23Z",
+  "updated": "2026-09-18T03:15:11Z",
   "region": "europe",
   "part": 8,
   "of": 8,
@@ -14067,19 +14067,6 @@
       "bitrate": 192
     },
     {
-      "id": "rb2_station_e3b0102d",
-      "title": "Радио дача",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://listen13.vdfm.ru:8000/dacha",
-      "location": "The Russian Federation",
-      "genre": "Radio",
-      "countryCode": "RU",
-      "language": "язык: русский",
-      "clickCount": 13,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_station_75a95f91",
       "title": "Радио для двоих",
       "subtitle": "Radio",
@@ -24558,18 +24545,6 @@
       "streamUrl": "https://radio.kyivstar.ua/stream/sport/master.m3u8"
     },
     {
-      "id": "897_sk_4e6d891b",
-      "title": "897",
-      "subtitle": "Club",
-      "location": "Slovakia",
-      "genre": "Club",
-      "countryCode": "SK",
-      "language": null,
-      "clickCount": 3,
-      "bitrate": 128,
-      "streamUrl": "https://c34.radioboss.fm:8106/stream"
-    },
-    {
       "id": "102_7_fm_ru_784773a2",
       "title": "Первое радио Краснодар 102.7 FM",
       "subtitle": "Music",
@@ -25144,6 +25119,90 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "http://c22.radioboss.fm:8144/GamePlay"
+    },
+    {
+      "id": "station_ru_3c868601",
+      "title": "Радио дача",
+      "subtitle": "Radio",
+      "location": "The Russian Federation",
+      "genre": "Radio",
+      "countryCode": "RU",
+      "language": "язык: русский",
+      "clickCount": 21,
+      "bitrate": 128,
+      "streamUrl": "http://listen13.vdfm.ru:8000/dacha"
+    },
+    {
+      "id": "station_ru_f1a88291",
+      "title": "Радио АСТВ",
+      "subtitle": "Radio",
+      "location": "The Russian Federation",
+      "genre": "Radio",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://stream.astv.ru/stream.mp3"
+    },
+    {
+      "id": "radio_voskresenie_72_8_ru_3d43f5f6",
+      "title": "Радио Воскресение / Radio Voskresenie - 72.8",
+      "subtitle": "Christian Orthodox",
+      "location": "The Russian Federation",
+      "genre": "Christian Orthodox",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://217.24.181.164:8000/stream.mp3"
+    },
+    {
+      "id": "lux_fm_lviv_ua_94ecf031",
+      "title": "Lux FM Lviv",
+      "subtitle": "Radio",
+      "location": "Ukraine",
+      "genre": "Radio",
+      "countryCode": "UA",
+      "language": "ukrainian",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://lux.radio.tvstitch.com/lux_lviv_adv_sd"
+    },
+    {
+      "id": "scenesat_radio_aac_mobile_se_552104a0",
+      "title": "SceneSat Radio (AAC+ mobile)",
+      "subtitle": "Demoscene",
+      "location": "Sweden",
+      "genre": "Demoscene",
+      "countryCode": "SE",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://streams.scenesat.com/main/mobile.aac"
+    },
+    {
+      "id": "r_dio_kiks_big_90s_sk_ad1a71be",
+      "title": "Rádio KIKS - Big 90s",
+      "subtitle": "90'S",
+      "location": "Slovakia",
+      "genre": "90'S",
+      "countryCode": "SK",
+      "language": "slovak",
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "https://online.radiokiks.sk:8000/kiks_big90s.mp3"
+    },
+    {
+      "id": "897_sk_4e6d891b",
+      "title": "897",
+      "subtitle": "Club",
+      "location": "Slovakia",
+      "genre": "Club",
+      "countryCode": "SK",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "https://c34.radioboss.fm:8106/stream"
     }
   ]
 }

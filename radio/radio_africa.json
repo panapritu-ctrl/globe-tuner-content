@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-17T03:25:23Z",
+  "updated": "2026-09-18T03:15:11Z",
   "region": "africa",
   "stations": [
     {
@@ -5750,19 +5750,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_christian_life_radio_c8d60f98",
-      "title": "Christian life radio",
-      "subtitle": "Christian",
-      "imageUrl": "https://www.communitynetradio.org/favicon.ico",
-      "streamUrl": "https://ice64.securenetsystems.net/CLR1MP3",
-      "location": "Uganda",
-      "genre": "Christian",
-      "countryCode": "UG",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_christian_music_channel_f4aa9f00",
       "title": "Christian music channel",
       "subtitle": "Christian",
@@ -10469,6 +10456,18 @@
       "clickCount": 3,
       "bitrate": 128,
       "streamUrl": "https://sunny-radio-server.cloud-ip.cc/radio/sunnyradio?t=1782488511159"
+    },
+    {
+      "id": "1radio_international_ng_0a73065e",
+      "title": "1Radio International",
+      "subtitle": "Entretenimiento",
+      "location": "Nigeria",
+      "genre": "Entretenimiento",
+      "countryCode": "NG",
+      "language": "africa",
+      "clickCount": 8,
+      "bitrate": 64,
+      "streamUrl": "https://fm.imediaport.com/1radio"
     }
   ]
 }
