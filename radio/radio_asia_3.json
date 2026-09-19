@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-18T03:15:11Z",
+  "updated": "2026-09-19T03:07:44Z",
   "region": "asia",
   "part": 3,
   "of": 3,
@@ -16106,18 +16106,6 @@
       "streamUrl": "http://channels.dinamo.fm/mmradyo-mp3"
     },
     {
-      "id": "y101fm_cebu_ph_72f638f1",
-      "title": "Y101fm Cebu",
-      "subtitle": "Radio",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "language": null,
-      "clickCount": 3,
-      "bitrate": 64,
-      "streamUrl": "http://209.126.124.126:8849/stream"
-    },
-    {
       "id": "lke_radyo_tr_4f367b56",
       "title": "Ülke Radyo",
       "subtitle": "Haber",
@@ -16860,6 +16848,54 @@
       "clickCount": 2,
       "bitrate": 64,
       "streamUrl": "http://cast.uforadio.com.tw:8000/yun-stream"
+    },
+    {
+      "id": "aksyon_radyo_iloilo_ph_8aebf6d6",
+      "title": "Aksyon Radyo Iloilo",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 96,
+      "streamUrl": "http://148.251.43.149:8213/stream"
+    },
+    {
+      "id": "radyo_esenler_tr_de5500df",
+      "title": "Radyo Esenler",
+      "subtitle": "Pop",
+      "location": "Türkiye",
+      "genre": "Pop",
+      "countryCode": "TR",
+      "language": "turkish",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://yayin2.canliyayin.org:10978/;"
+    },
+    {
+      "id": "dwje_88_1_fm_radyo_pangasinan_ph_3bd3240e",
+      "title": "DWJE 88.1 FM Radyo Pangasinan",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 0,
+      "streamUrl": "https://tiny-sun-4316.radyopangasinan88-1fm.workers.dev/stream"
+    },
+    {
+      "id": "all_radio_97_1_cebu_ph_cf4c3d09",
+      "title": "All Radio 97.1 Cebu",
+      "subtitle": "Music",
+      "location": "The Philippines",
+      "genre": "Music",
+      "countryCode": "PH",
+      "language": "english",
+      "clickCount": 2,
+      "bitrate": 64,
+      "streamUrl": "http://209.126.124.126:8855/stream"
     }
   ]
 }

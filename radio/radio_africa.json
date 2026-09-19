@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-18T03:15:11Z",
+  "updated": "2026-09-19T03:07:43Z",
   "region": "africa",
   "stations": [
     {
@@ -3188,24 +3188,6 @@
       "location": "Casablanca, Morocco",
       "genre": "Hip Hop",
       "streamUrl": "https://icecast.skyrock.net/s/casa_aac_64k",
-      "countryCode": "MA"
-    },
-    {
-      "id": "yabiladi_chaabi_maroc_ma_9d874d",
-      "title": "Yabiladi Chaabi Maroc",
-      "subtitle": "World Music",
-      "location": "Morocco",
-      "genre": "World Music",
-      "countryCode": "MA",
-      "streamUrl": "https://radio.yabiladi.com:8102/;stream.mp3"
-    },
-    {
-      "id": "yabiladi_radio_ma_dae1a8",
-      "title": "Yabiladi Radio",
-      "subtitle": "World Music",
-      "location": "Morocco",
-      "genre": "World Music",
-      "streamUrl": "https://radio.yabiladi.com:8002/;stream.mp3",
       "countryCode": "MA"
     },
     {
@@ -10468,6 +10450,30 @@
       "clickCount": 8,
       "bitrate": 64,
       "streamUrl": "https://fm.imediaport.com/1radio"
+    },
+    {
+      "id": "radio_rashi_ao_04f3d2cb",
+      "title": "Radio Rashi",
+      "subtitle": "Broken Beat",
+      "location": "Angola",
+      "genre": "Broken Beat",
+      "countryCode": "AO",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://s2.free-shoutcast.com/stream/18214"
+    },
+    {
+      "id": "tatafo_fm_ng_ba8dd1ea",
+      "title": "Tatafo FM",
+      "subtitle": "Radio",
+      "location": "Nigeria",
+      "genre": "Radio",
+      "countryCode": "NG",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 0,
+      "streamUrl": "https://pro06.caster.fm:8050/radio"
     }
   ]
 }

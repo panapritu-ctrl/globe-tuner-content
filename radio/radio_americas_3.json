@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-18T03:15:11Z",
+  "updated": "2026-09-19T03:07:44Z",
   "region": "americas",
   "part": 3,
   "of": 5,
@@ -8219,19 +8219,6 @@
       "bitrate": 96
     },
     {
-      "id": "rb2_la_perla_99_1_torre_n_99_1_fm_xhccaw_fm__68d63962",
-      "title": "LA PERLA 99.1 (Torreón) - 99.1 FM - XHCCAW-FM - Grupo Horizonte Lagunero - Torreón, Coahuila",
-      "subtitle": "99.1 Fm, América",
-      "imageUrl": "https://i.postimg.cc/6Q11Vjkt/laperla.jpg",
-      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHCCASAAC.aac",
-      "location": "Torreón, Coahuila, Mexico",
-      "genre": "99.1 Fm",
-      "countryCode": "MX",
-      "language": "spanish",
-      "clickCount": 0,
-      "bitrate": 64
-    },
-    {
       "id": "rb2_la_poderosa_107_7_aguascalientes_107_7_f_153435d6",
       "title": "LA PODEROSA 107.7 (Aguascalientes) - 107.7 FM - XHYZ-FM - Radiogrupo - Aguascalientes, Aguascalientes",
       "subtitle": "107.7 Fm, Aguascalientes",
@@ -11598,19 +11585,6 @@
       "language": "spanish",
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_match_m_s_pop_con_ctate_273365b9",
-      "title": "MATCH: ¡Más Pop, Conéctate!",
-      "subtitle": "99.3 Fm, Acir",
-      "imageUrl": "https://i.postimg.cc/BZkKfvtv/match.jpg",
-      "streamUrl": "https://27283.live.streamtheworld.com:443/XHPOPFMAAC.aac",
-      "location": "Ciudad de México, Mexico",
-      "genre": "99.3 Fm",
-      "countryCode": "MX",
-      "language": "spanish",
-      "clickCount": 1,
-      "bitrate": 56
     },
     {
       "id": "rb2_maxima_106_7_gdl_106_7_fm_xhoj_fm_radior_b244220c",
@@ -20452,19 +20426,6 @@
       "bitrate": 28
     },
     {
-      "id": "rb2_radio_canal_100_1_fm_28d68ce9",
-      "title": "Radio Canal 100.1 FM",
-      "subtitle": "Pop, Soft",
-      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240720_160828943.jpg?alt=media&token=f299e9c1-3181-400b-a31c-39bd9b668160",
-      "streamUrl": "https://rds3.desdeparaguay.net/movcanal100/movcanal100.stream/playlist.m3u8",
-      "location": "Paraguay",
-      "genre": "Pop",
-      "countryCode": "PY",
-      "language": "asunción",
-      "clickCount": 2,
-      "bitrate": 32
-    },
-    {
       "id": "rb2_radio_capital_101_7_fm_5c7542d9",
       "title": "Radio Capital 101.7 FM",
       "subtitle": "Pop, Soca",
@@ -26958,6 +26919,78 @@
       "clickCount": 2,
       "bitrate": 250,
       "streamUrl": "http://tigocloud.desdeparaguay.net/movsinfronteras/movsinfronteras.stream/playlist.m3u8"
+    },
+    {
+      "id": "arielfmeza_mx_1de5b02d",
+      "title": "arielfmeza",
+      "subtitle": "Radio",
+      "location": "Mexico",
+      "genre": "Radio",
+      "countryCode": "MX",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "http://arielfmeza.live:8010/radio.mp3"
+    },
+    {
+      "id": "radio_rqp_94_3_fm_py_2cde93c5",
+      "title": "Radio RQP 94.3 FM",
+      "subtitle": "Pop",
+      "location": "Paraguay",
+      "genre": "Pop",
+      "countryCode": "PY",
+      "language": "asunción",
+      "clickCount": 3,
+      "bitrate": 33,
+      "streamUrl": "http://rds3.desdeparaguay.net/transrqp/transrqp/playlist.m3u"
+    },
+    {
+      "id": "rci_dancehall_mq_cce38783",
+      "title": "RCI Dancehall",
+      "subtitle": "Radio",
+      "location": "Martinique",
+      "genre": "Radio",
+      "countryCode": "MQ",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 0,
+      "streamUrl": "https://stream.rcs.revma.com/5stt0yrtpwzuv"
+    },
+    {
+      "id": "radio_f_rmula_monterrey_1230_am_monterrey_nuevo_le_n_mx_ac594351",
+      "title": "Radio fórmula (Monterrey) - 1230 AM [Monterrey, Nuevo León]",
+      "subtitle": "Music",
+      "location": "Mexico",
+      "genre": "Music",
+      "countryCode": "MX",
+      "language": "spanish",
+      "clickCount": 2,
+      "bitrate": 0,
+      "streamUrl": "https://stream.radiojar.com/nk2k3a84xp8uv"
+    },
+    {
+      "id": "la_raza_89_3_fm_ciudad_victoria_mx_ebb83abb",
+      "title": "La Raza 89.3 FM Ciudad Victoria",
+      "subtitle": "Banda",
+      "location": "Mexico",
+      "genre": "Banda",
+      "countryCode": "MX",
+      "language": "español mexico",
+      "clickCount": 2,
+      "bitrate": 64,
+      "streamUrl": "https://ice41.securenetsystems.net/LARAZA"
+    },
+    {
+      "id": "radio_sol_de_los_andes_pe_96b6790f",
+      "title": "Radio Sol De Los Andes",
+      "subtitle": "Radio",
+      "location": "Peru",
+      "genre": "Radio",
+      "countryCode": "PE",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 104,
+      "streamUrl": "https://cloudstream2036.conectarhosting.com/8036/stream"
     }
   ]
 }

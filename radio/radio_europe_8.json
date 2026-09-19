@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-18T03:15:11Z",
+  "updated": "2026-09-19T03:07:43Z",
   "region": "europe",
   "part": 8,
   "of": 8,
@@ -13434,19 +13434,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_91_0_fm_1831796b",
-      "title": "Радио России Абакан 91.0 FM",
-      "subtitle": "Music, News",
-      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241008_175348838.jpg?alt=media&token=b1905511-da6f-4b07-8bb9-97ae9813ec68",
-      "streamUrl": "http://s0.radioheart.ru:8000/RR",
-      "location": "The Russian Federation",
-      "genre": "Music",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_station_3c191d29",
       "title": "Радио России ГТРК Вологда",
       "subtitle": "Radio",
@@ -23873,18 +23860,6 @@
       "streamUrl": "http://radio.bestfm.ua/bestfm"
     },
     {
-      "id": "kolektiv_radio_xk_ee6a8f5a",
-      "title": "Kolektiv Radio",
-      "subtitle": "Radio",
-      "location": "Kosovo",
-      "genre": "Radio",
-      "countryCode": "XK",
-      "language": null,
-      "clickCount": 3,
-      "bitrate": 64,
-      "streamUrl": "https://studio28.radiolize.com/radio/8100/radio.mp3"
-    },
-    {
       "id": "radio_rocks_kyiv_103_6fm_hd_ua_76f4c2ab",
       "title": "Radio ROCKS Kyiv 103.6FM HD",
       "subtitle": "Classic Rock",
@@ -24689,18 +24664,6 @@
       "streamUrl": "https://streams.scenesat.com/main/hq.mp3"
     },
     {
-      "id": "anima_amoris_dub_techno_mix_ru_0e2c3d6c",
-      "title": "Anima Amoris Dub Techno Mix",
-      "subtitle": "Dub",
-      "location": "The Russian Federation",
-      "genre": "Dub",
-      "countryCode": "RU",
-      "language": null,
-      "clickCount": 7,
-      "bitrate": 0,
-      "streamUrl": "http://amoris.sknt.ru/dubtechnomix.mp3"
-    },
-    {
       "id": "youritmix_ru_6db2b07c",
       "title": "YouRitmix",
       "subtitle": "Afro",
@@ -25203,6 +25166,78 @@
       "clickCount": 2,
       "bitrate": 128,
       "streamUrl": "https://c34.radioboss.fm:8106/stream"
+    },
+    {
+      "id": "omega_radio_ru_39be939c",
+      "title": "Ω  Omega - Radio",
+      "subtitle": "Radio",
+      "location": "The Russian Federation",
+      "genre": "Radio",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "https://stream.pcradio.app/omega-hi"
+    },
+    {
+      "id": "radio_kamchatka_live_house_ru_7fb99a01",
+      "title": "Radio Kamchatka Live House",
+      "subtitle": "Deep House",
+      "location": "The Russian Federation",
+      "genre": "Deep House",
+      "countryCode": "RU",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "https://radio.kamchatkalive.ru:8103/house"
+    },
+    {
+      "id": "retro_fm_sk_ne_se_54b4a862",
+      "title": "Retro FM Skåne",
+      "subtitle": "Oldies",
+      "location": "Sweden",
+      "genre": "Oldies",
+      "countryCode": "SE",
+      "language": "swedish",
+      "clickCount": 4,
+      "bitrate": 96,
+      "streamUrl": "https://live-bauerse-fm.sharp-stream.com/retrofm_aacp?ua=WEB&aw_0_1st.playerid=SBS_RP_WEB&aw_0_1st.skey=1575715192&companionAds=true&listenerId=@@GUID@@"
+    },
+    {
+      "id": "electro_ua_019c112e",
+      "title": "Радіо Київстар Electro",
+      "subtitle": "256 Kbit/S",
+      "location": "Ukraine",
+      "genre": "256 Kbit/S",
+      "countryCode": "UA",
+      "language": "ukranian",
+      "clickCount": 3,
+      "bitrate": 281,
+      "streamUrl": "https://radio.kyivstar.ua/stream/elektro/master.m3u8"
+    },
+    {
+      "id": "world_charts_ua_b5ac79d1",
+      "title": "Радіо Київстар World Charts",
+      "subtitle": "256 Kbit/S",
+      "location": "Ukraine",
+      "genre": "256 Kbit/S",
+      "countryCode": "UA",
+      "language": "ukranian",
+      "clickCount": 3,
+      "bitrate": 281,
+      "streamUrl": "https://radio.kyivstar.ua/stream/worldchart/master.m3u8"
+    },
+    {
+      "id": "all_watching_eye_chill_se_a87b4338",
+      "title": "All Watching Eye — Chill",
+      "subtitle": "Radio",
+      "location": "Sweden",
+      "genre": "Radio",
+      "countryCode": "SE",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "http://icy.aweradio.app/listen/chill"
     }
   ]
 }

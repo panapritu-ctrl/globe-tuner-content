@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-18T03:15:11Z",
+  "updated": "2026-09-19T03:07:43Z",
   "region": "europe",
   "part": 6,
   "of": 8,
@@ -4728,19 +4728,6 @@
       "genre": "Ambient",
       "countryCode": "IT",
       "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_rock_n_roll_radio_4e38277d",
-      "title": "Rock'n'Roll Radio",
-      "subtitle": "Classic Rock, Heavy Metal",
-      "imageUrl": "https://cdn-radiotime-logos.tunein.com/s126487d.png",
-      "streamUrl": "https://nr14.newradio.it:8643/stream?ext=.mp3",
-      "location": "Milano, Italy",
-      "genre": "Classic Rock",
-      "countryCode": "IT",
-      "language": "italian",
       "clickCount": 0,
       "bitrate": 128
     },
@@ -12414,19 +12401,6 @@
       "language": null,
       "clickCount": 2,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_hi_on_line_radio_france_0ca8207b",
-      "title": "Hi On Line Radio - France",
-      "subtitle": "France",
-      "imageUrl": "",
-      "streamUrl": "http://mediaserv21.live-streams.nl:8000/live",
-      "location": "The Netherlands",
-      "genre": "France",
-      "countryCode": "NL",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 320
     },
     {
       "id": "rb2_hi_on_line_radio_latin_cc739488",
@@ -27636,6 +27610,78 @@
       "clickCount": 2,
       "bitrate": 0,
       "streamUrl": "https://inter-fm.com/hlsstream/stream.m3u8"
+    },
+    {
+      "id": "radio_3_lt_ba083297",
+      "title": "Radio 3",
+      "subtitle": "2000S",
+      "location": "Lithuania",
+      "genre": "2000S",
+      "countryCode": "LT",
+      "language": "lithuanian",
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "https://n23-eu.rcs.revma.com/8cwskd80zxcwv?rj-ttl=5&rj-tok=AAABoLM9aPsAjNpxlJ9phX3bxg"
+    },
+    {
+      "id": "audiomastering_lt_lt_41670640",
+      "title": "Audiomastering.lt",
+      "subtitle": "Radio",
+      "location": "Lithuania",
+      "genre": "Radio",
+      "countryCode": "LT",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 320,
+      "streamUrl": "http://radio.audiomastering.lt:8000/hq"
+    },
+    {
+      "id": "magic_mt_d5968883",
+      "title": "Magic",
+      "subtitle": "Radio",
+      "location": "Malta",
+      "genre": "Radio",
+      "countryCode": "MT",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://s46.myradiostream.com:6076/stream"
+    },
+    {
+      "id": "intergalactic_fm_murdercapital_fm_nl_9d18f84e",
+      "title": "Intergalactic FM - Murdercapital FM",
+      "subtitle": "Experimental",
+      "location": "The Netherlands",
+      "genre": "Experimental",
+      "countryCode": "NL",
+      "language": "dutch",
+      "clickCount": 4,
+      "bitrate": 1692,
+      "streamUrl": "https://intergalactic.tv/live/smil:tv.smil/playlist.m3u8"
+    },
+    {
+      "id": "radio_puls_luxembourg_lu_6e9bf34e",
+      "title": "Radio Puls Luxembourg",
+      "subtitle": "Folk",
+      "location": "Luxembourg",
+      "genre": "Folk",
+      "countryCode": "LU",
+      "language": "serbian",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://uk1.listen2myradio.com:2199/listen.php?port=8312&type=s2&mount=/stream"
+    },
+    {
+      "id": "radio_peiteng_on_air_lu_e4b7adc4",
+      "title": "Radio Peiteng on Air",
+      "subtitle": "Radio",
+      "location": "Luxembourg",
+      "genre": "Radio",
+      "countryCode": "LU",
+      "language": "luxembourgish",
+      "clickCount": 3,
+      "bitrate": 192,
+      "streamUrl": "http://stream.peitengonair.lu:9000/live"
     }
   ]
 }

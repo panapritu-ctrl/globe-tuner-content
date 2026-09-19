@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-18T03:15:11Z",
+  "updated": "2026-09-19T03:07:44Z",
   "region": "europe",
   "part": 2,
   "of": 8,
@@ -28200,18 +28200,6 @@
       "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p5kobenhavn/masterab.m3u8"
     },
     {
-      "id": "dr_p4_esbjerg_aac_dk_5c351d9b",
-      "title": "DR P4 Esbjerg (AAC)",
-      "subtitle": "Regional Radio",
-      "location": "Denmark",
-      "genre": "Regional Radio",
-      "countryCode": "DK",
-      "language": "danish",
-      "clickCount": 2,
-      "bitrate": 324,
-      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4esbjerg/masterab.m3u8"
-    },
-    {
       "id": "dr_p4_trekanten_aac_dk_a030938a",
       "title": "DR P4 Trekanten (AAC)",
       "subtitle": "Danish",
@@ -28414,6 +28402,18 @@
       "clickCount": 2,
       "bitrate": 324,
       "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p5esbjerg/masterab.m3u8"
+    },
+    {
+      "id": "radio_hsr_dk_f5098ef3",
+      "title": "Radio HSR",
+      "subtitle": "Local News",
+      "location": "Denmark",
+      "genre": "Local News",
+      "countryCode": "DK",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://a6.asurahosting.com:7680/radio.mp3"
     }
   ]
 }
