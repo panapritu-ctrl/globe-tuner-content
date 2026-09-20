@@ -1,472 +1,7 @@
 {
-  "version": 37,
-  "updated": "2026-09-20T08:32:56Z",
+  "version": 38,
+  "updated": "2026-09-20T17:17:04Z",
   "stations": [
-    {
-      "id": "taem_radio_et_9192cd",
-      "title": "Taem Radio ጣዕም ሬድዮ",
-      "subtitle": "Radio",
-      "location": "Addis Ababa, Ethiopia",
-      "genre": "Radio",
-      "streamUrl": "https://stream.zeno.fm/ffg8htkh1k0uv",
-      "countryCode": "ET"
-    },
-    {
-      "id": "chinaghana_fm_gh_7648ef",
-      "title": "ChinaGhana Fm",
-      "subtitle": "Music",
-      "location": "tarkwa, Ghana",
-      "genre": "Music",
-      "streamUrl": "https://stream.zeno.fm/3w43axr9mg0uv",
-      "countryCode": "GH"
-    },
-    {
-      "id": "radio_arts_tripoli_ly_e56198",
-      "title": "راديو فنون طرابلس - Radio Arts Tripoli",
-      "subtitle": "Radio",
-      "location": "Tripolitania, Libya",
-      "genre": "Radio",
-      "countryCode": "LY",
-      "streamUrl": "https://stream.zeno.fm/z9wfrdpmgg0uv"
-    },
-    {
-      "id": "radio_yan_plus_ma_a0357a",
-      "title": "radio yan plus",
-      "subtitle": "Al Amazighia En Direct",
-      "location": "Morocco",
-      "genre": "Al Amazighia En Direct",
-      "streamUrl": "https://stream.zeno.fm/7nqu31p6xg0uv",
-      "countryCode": "MA"
-    },
-    {
-      "id": "grandes_cl_ssicos_da_m_sica_mo_ambicana_mz",
-      "title": "Grandes Clássicos da Música Moçambicana",
-      "subtitle": "International",
-      "location": "Mozambique",
-      "genre": "Music",
-      "countryCode": "MZ",
-      "streamUrl": "https://stream-177.zeno.fm/bm29ouxe0hrtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJibTI5b3V4ZTBocnR2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiekQ4STlaZDhRdXV0ZDR5NDk4a2lNZyIsImlhdCI6MTc2ODQ0OTIzMywiZXhwIjoxNzY4NDQ5MjkzfQ.kuFnolX_6S8uWE2W2OQYYG2V2I0VHXYgiIoA7shPXKs"
-    },
-    {
-      "id": "e928bf7b-7de2-4447-87ec-369d1be1b9f5",
-      "title": "Bollywood Gaane Purane",
-      "subtitle": "Classic Hits",
-      "imageUrl": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/ppqbgfej6skx.jpeg",
-      "location": "India",
-      "genre": "Bollywood",
-      "streamUrl": "https://stream.zeno.fm/6n6ewddtad0uv",
-      "countryCode": "IN",
-      "curated": true
-    },
-    {
-      "id": "0e54935f-bdef-4c90-9e76-0be87465a8f2",
-      "title": "MY RADIO DJ",
-      "subtitle": "Kolkata",
-      "imageUrl": "http://zeno.fm/favicon.ico",
-      "location": "India",
-      "genre": "Pop",
-      "streamUrl": "http://stream.zeno.fm/84h97t3ewg0uv",
-      "countryCode": "IN",
-      "curated": true
-    },
-    {
-      "id": "6de7e6da-5c4f-4264-ab2d-bbc731219f7d",
-      "title": "Hits Of Bollywood",
-      "subtitle": "Gujarat",
-      "imageUrl": "",
-      "location": "India",
-      "genre": "Bollywood",
-      "streamUrl": "http://stream.zeno.fm/8ty8szwpwfeuv",
-      "countryCode": "IN",
-      "curated": true
-    },
-    {
-      "id": "6124c9b3-024c-4650-9c68-a5de9a7d89eb",
-      "title": "Hits Of Lata Mangeshkar",
-      "subtitle": "Gujarat",
-      "imageUrl": "",
-      "location": "India",
-      "genre": "Bollywood",
-      "streamUrl": "http://stream.zeno.fm/g95zm67prfhvv",
-      "countryCode": "IN",
-      "curated": true
-    },
-    {
-      "id": "62a5bcf1-ebc5-4cb6-afeb-d40ac4195ab3",
-      "title": "Hits Of Kishor Kumar",
-      "subtitle": "Gujarat",
-      "imageUrl": "",
-      "location": "India",
-      "genre": "Bollywood",
-      "streamUrl": "http://stream.zeno.fm/pg6rqp8ztm0uv",
-      "countryCode": "IN",
-      "curated": true
-    },
-    {
-      "id": "93827f24-837c-4e10-8069-4ca006d0c77c",
-      "title": "Hits Of Mohammed Rafi",
-      "subtitle": "Gujarat",
-      "imageUrl": "",
-      "location": "India",
-      "genre": "Bollywood",
-      "streamUrl": "http://stream.zeno.fm/0zkr7x8ztm0uv",
-      "countryCode": "IN",
-      "curated": true
-    },
-    {
-      "id": "8a76a0d5-8d10-400a-b6eb-a7725646d314",
-      "title": "MY CLUB REMIX",
-      "subtitle": "Kolkata Mumbai",
-      "imageUrl": "http://zeno.fm/favicon.ico",
-      "location": "India",
-      "genre": "Bollywood",
-      "streamUrl": "http://stream.zeno.fm/u7eee0hyzp8uv",
-      "countryCode": "IN",
-      "curated": true
-    },
-    {
-      "id": "33fcdf94-5605-49bb-8e34-206f38c335dc",
-      "title": "Goldy Evergreen",
-      "subtitle": "",
-      "imageUrl": "",
-      "location": "India",
-      "genre": "Bollywood",
-      "streamUrl": "https://stream.zeno.fm/n2fd0edh9k8uv",
-      "countryCode": "IN",
-      "curated": true
-    },
-    {
-      "id": "81cee789-221c-45a5-abe0-cc07e8e9589f",
-      "title": "Goldy Cool",
-      "subtitle": "",
-      "imageUrl": "https://imgproxy.zenomedia.com/insecure/fit/500/500/ce/0/plain/https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDQ16Ll_QkMCxIOU3RhdGlvblByb2ZpbGUYgIDQz-qz9QkMogEEemVubw/image/%3Fresize=500x500&v=1",
-      "location": "India",
-      "genre": "Bollywood",
-      "streamUrl": "https://stream.zeno.fm/3k1fb86tfm8uv",
-      "countryCode": "IN",
-      "curated": true
-    },
-    {
-      "id": "24b4b919-ea81-4e48-8682-ba0fdf9e3a46",
-      "title": "Goldy Mukesh",
-      "subtitle": "",
-      "imageUrl": "https://zeno.fm/static/icons/apple-icon-120x120.png",
-      "location": "India",
-      "genre": "Bollywood",
-      "streamUrl": "https://stream.zeno.fm/t39watus1p8uv",
-      "countryCode": "IN",
-      "curated": true
-    },
-    {
-      "id": "2c1982bb-cee2-43c2-b5f7-acc09b158af8",
-      "title": "My 90s Bengali",
-      "subtitle": "West Bengal",
-      "imageUrl": "https://myradiodj4.blogspot.com/favicon.ico",
-      "location": "India",
-      "genre": "90S",
-      "streamUrl": "http://stream.zeno.fm/2k6xfu1pvs8uv",
-      "countryCode": "IN",
-      "curated": true
-    },
-    {
-      "id": "baae978e-a9d0-422c-8ad4-ec803da4ef8c",
-      "title": "RADIO BOLLYWOOD 90s",
-      "subtitle": "",
-      "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/9fKKkfbJKE.png",
-      "location": "India",
-      "genre": "Bollywood",
-      "streamUrl": "https://stream.zeno.fm/rm4i9pdex3cuv",
-      "countryCode": "IN",
-      "curated": true
-    },
-    {
-      "id": "bce9aa64-8fd5-434e-8c9d-3ee67c594a06",
-      "title": "Red FM 93.5",
-      "subtitle": "Delhi",
-      "imageUrl": "https://radiobarfi.com/wp-content/uploads/2024/04/Red-FM-93.5-Live-Online.png.webp",
-      "location": "India",
-      "genre": "Bollywood",
-      "streamUrl": "https://stream-174.zeno.fm/q97eczydqrhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxOTdlY3p5ZHFyaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzQuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6InRhOHAxeTRDVDdHenYtN2NoeFQxRmciLCJpYXQiOjE3NDIwNDA3NDEsImV4cCI6MTc0MjA0MDgwMX0.MkjhfjpDcWKnjIHhgkq3SGxg9gH8U901CrsfPZ42PGM",
-      "countryCode": "IN",
-      "curated": true
-    },
-    {
-      "id": "8b764ac8-3add-496d-9653-f0b21148f543",
-      "title": "radioBollyFM",
-      "subtitle": "",
-      "imageUrl": "",
-      "location": "India",
-      "genre": "International",
-      "streamUrl": "http://stream.zeno.fm/zu59ykebs2zuv",
-      "countryCode": "IN",
-      "curated": true
-    },
-    {
-      "id": "db5a1f42-7f91-4531-895b-1b7f1ff45bc8",
-      "title": "Hindi Retro",
-      "subtitle": "",
-      "imageUrl": "https://onlineradiohub.com/wp-content/uploads/2023/05/mirchi-retro-hindi.jpg",
-      "location": "India",
-      "genre": "Bollywood",
-      "streamUrl": "https://stream.zeno.fm/v2zfmxef798uv",
-      "countryCode": "IN",
-      "curated": true
-    },
-    {
-      "id": "6560f39b-7a31-4f77-abf1-8cb9528c51c0",
-      "title": "Radio Retro Bollywood 90s",
-      "subtitle": "",
-      "imageUrl": "",
-      "location": "India",
-      "genre": "Bollywood",
-      "streamUrl": "https://stream-143.zeno.fm/fdgs82xkzhhvv",
-      "countryCode": "IN",
-      "curated": true
-    },
-    {
-      "id": "4b3f5e44-708d-4aaa-b5b1-62f35f67a647",
-      "title": "Ajmer Radio",
-      "subtitle": "",
-      "imageUrl": "https://zeno.fm/favicon.ico",
-      "location": "India",
-      "genre": "Bollywood",
-      "streamUrl": "https://stream.zeno.fm/yftb93nbay8uv",
-      "countryCode": "IN",
-      "curated": true
-    },
-    {
-      "id": "12c90f42-2592-4311-9c18-169f4b23d6f8",
-      "title": "Old Monk Radio",
-      "subtitle": "",
-      "imageUrl": "https://zeno.fm/static/icons/apple-icon-120x120.png",
-      "location": "India",
-      "genre": "Bollywood",
-      "streamUrl": "https://stream.zeno.fm/pr0zc64zdy8uv",
-      "countryCode": "IN",
-      "curated": true
-    },
-    {
-      "id": "7b130d03-6142-4de2-85db-a821b5949468",
-      "title": "latamangeshkarradio",
-      "subtitle": "",
-      "imageUrl": "https://radiosindia.com/images/latamangeshkarradio.jpg",
-      "location": "India",
-      "genre": "Bollywood",
-      "streamUrl": "https://stream.zeno.fm/87xam8pf7tzuv",
-      "countryCode": "IN",
-      "curated": true
-    },
-    {
-      "id": "a1fb9fe3-e6ae-4fdd-8e76-1ce9602bcab9",
-      "title": "radiobaingan",
-      "subtitle": "",
-      "imageUrl": "https://radiosindia.com/images/radiobaingan.jpg",
-      "location": "India",
-      "genre": "Bollywood",
-      "streamUrl": "https://stream.zeno.fm/eyxg23ky4x8uv",
-      "countryCode": "IN",
-      "curated": true
-    },
-    {
-      "id": "84cdb7d9-9058-4a39-8ad5-bf3e57d299e2",
-      "title": "Bhojpuri Songs",
-      "subtitle": "",
-      "imageUrl": "",
-      "location": "India",
-      "genre": "Bhojpuri",
-      "streamUrl": "https://stream.zeno.fm/yz0ncx9gha0uv",
-      "countryCode": "IN",
-      "curated": true
-    },
-    {
-      "id": "1bbb4664-d187-49f1-b328-b2f3888fef36",
-      "title": "New Hits Of Bollywood",
-      "subtitle": "Mumbai",
-      "imageUrl": "",
-      "location": "India",
-      "genre": "Bollywood",
-      "streamUrl": "https://stream-146.zeno.fm/rqqps6cbe3quv?zs=loHp_DNyRPiAxC52AL95hg",
-      "countryCode": "IN",
-      "curated": true
-    },
-    {
-      "id": "zeno_anime_para_ti",
-      "title": "Anime Para Ti",
-      "subtitle": "Anime & J-Pop",
-      "streamUrl": "https://stream.zeno.fm/qpn8mkt8c4duv",
-      "location": "Global",
-      "genre": "Anime",
-      "countryCode": "",
-      "imageUrl": "",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128,
-      "curated": true
-    },
-    {
-      "id": "zeno_ibizaa_deep_house",
-      "title": "#100 Best Ibiza a Deep House",
-      "subtitle": "Electronic / Deep House",
-      "streamUrl": "https://stream.zeno.fm/lwv6zqgtv1dtv",
-      "location": "Spain",
-      "genre": "Deep House",
-      "countryCode": "ES",
-      "imageUrl": "",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128,
-      "curated": true
-    },
-    {
-      "id": "zeno_50s_60s_retro_hits",
-      "title": "50s 60s Retro Hits",
-      "subtitle": "Classic English Retro",
-      "streamUrl": "https://stream.zeno.fm/pxzwykxbluitv",
-      "location": "Global",
-      "genre": "Retro",
-      "countryCode": "",
-      "imageUrl": "",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128,
-      "curated": true
-    },
-    {
-      "id": "zeno_kishore_kumar_radio",
-      "title": "Kishore Kumar Radio",
-      "subtitle": "Classic Indian",
-      "streamUrl": "https://stream.zeno.fm/0ghtfp8ztm0uv",
-      "location": "India",
-      "genre": "Classic",
-      "countryCode": "IN",
-      "imageUrl": "",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128,
-      "curated": true
-    },
-    {
-      "id": "zeno_nu_disco_central",
-      "title": "#100 Nu-Disco Central Radio",
-      "subtitle": "Nu-Disco / Electronic",
-      "streamUrl": "https://stream.zeno.fm/jqhhzffjynbuv",
-      "location": "Global",
-      "genre": "Nu-Disco",
-      "countryCode": "",
-      "imageUrl": "",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128,
-      "curated": true
-    },
-    {
-      "id": "zeno_slow_rock_90",
-      "title": "Slow Rock 90'",
-      "subtitle": "Classic Rock",
-      "streamUrl": "https://stream.zeno.fm/hiut6cwfoneuv",
-      "location": "Philippines",
-      "genre": "Rock",
-      "countryCode": "PH",
-      "imageUrl": "",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128,
-      "curated": true
-    },
-    {
-      "id": "zeno_star_fm_manila",
-      "title": "Star FM Manila",
-      "subtitle": "Philippines / Asian Pop",
-      "streamUrl": "https://stream-13.zeno.fm/g1pmt17nz9duv",
-      "location": "Philippines",
-      "genre": "Pop",
-      "countryCode": "PH",
-      "imageUrl": "",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128,
-      "curated": true
-    },
-    {
-      "id": "rb2_viejoteca_y_algo_m_s_6173bbaf",
-      "title": "Viejoteca y algo más",
-      "subtitle": "Crossover, Cumbia",
-      "imageUrl": "https://zeno.fm/_ipx/q_100&fit_cover&s_160x160/https://images.zeno.fm/yMsoy9A9GWgJn8qSiTH7rOtTyhew92zEWe1pyz_SG7M/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ1EwYW1SaHdnTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ3c3dHpZMFFzTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTcxMzIxMjk3NTAwMA.webp",
-      "streamUrl": "https://stream-303.zeno.fm/mtfnuz2day8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJtdGZudXoyZGF5OHV2IiwiaG9zdCI6InN0cmVhbS0zMDMuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiM3g5eVhvZmFTNEc2aXVIX3FfZHRPdyIsImlhdCI6MTc2ODQ2NDE5OSwiZXhwIjoxNzY4NDY0MjU5fQ.dY9FKz-HN4jy4MG2QfimFYhGr_O8_LSVr-56SLouvGw",
-      "location": "Colombia",
-      "genre": "Crossover",
-      "countryCode": "CO",
-      "language": "spanish",
-      "clickCount": 2,
-      "bitrate": 128
-    },
-    {
-      "id": "rb_radio_humilite_f288200c",
-      "title": "Radio Humilite",
-      "subtitle": "Cultural News, Gospel Music",
-      "imageUrl": "https://static.e-monsite.com/manager/e-monsite.com/im/favicon.png",
-      "streamUrl": "https://stream-176.zeno.fm/qhlllaz21cmuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxaGxsbGF6MjFjbXV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiSVJBLWZCV2JRMmFLMVU2aWJWSGdJQSIsImlhdCI6MTc2ODQzNDg0NiwiZXhwIjoxNzY4NDM0OTA2fQ.bFJ0HahbDyEPeJviTdDlWV71VkJEPXHHn7dzoXk8IUY",
-      "location": "carrefour, Haiti",
-      "genre": "Cultural News",
-      "countryCode": "HT",
-      "language": "american english",
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
-      "id": "bhakti_sagar_durga_maa_in_376e47",
-      "title": "bhakti Sagar durga maa",
-      "subtitle": "Bhakti Sagar Durga Maa",
-      "location": "India",
-      "genre": "Bhakti Sagar Durga Maa",
-      "streamUrl": "https://stream.zeno.fm/syu0rdutvxhvv",
-      "countryCode": "IN"
-    },
-    {
-      "id": "radiosimorgh_ir_c9ed59c1",
-      "title": "RadioSimorgh",
-      "subtitle": "International",
-      "location": "Islamic Republic Of Iran",
-      "genre": "International",
-      "streamUrl": "https://stream.zeno.fm/jl8n7thgcdftv",
-      "countryCode": "IR"
-    },
-    {
-      "id": "x_x_eg_d94c51b0",
-      "title": "X_X",
-      "subtitle": "Radio",
-      "location": "Egypt",
-      "genre": "Radio",
-      "streamUrl": "https://stream.zeno.fm/n63xpx3o8imuv",
-      "countryCode": "EG"
-    },
-    {
-      "id": "padamyar_fm_mm_3a9fae98",
-      "title": "Padamyar FM",
-      "subtitle": "Radio",
-      "location": "Myanmar",
-      "genre": "Radio",
-      "streamUrl": "https://stream.zeno.fm/og9btsnj00tuv",
-      "countryCode": "MM"
-    },
-    {
-      "id": "virgin_radio_lebanon_stars_lb_d557db0c",
-      "title": "Virgin Radio Lebanon Stars",
-      "subtitle": "Radio",
-      "location": "Lebanon",
-      "genre": "Radio",
-      "streamUrl": "https://stream.zeno.fm/h66yxnapga0uv",
-      "countryCode": "LB"
-    },
-    {
-      "id": "bamtaare_fm_103_4_dodel_sn_32ac14c4",
-      "title": "Bamtaare FM 103.4 Dodel",
-      "subtitle": "Community Radio",
-      "location": "Senegal",
-      "genre": "Community Radio",
-      "streamUrl": "https://stream.zeno.fm/n1mugn1am1duv",
-      "countryCode": "SN"
-    },
     {
       "id": "radio_dil_in",
       "title": "Radio Dil",
@@ -495,15 +30,6 @@
       "curated": true
     },
     {
-      "id": "radio_mirchi_new_jersey_us",
-      "title": "Radio Mirchi New Jersey",
-      "location": "New Jersey, USA",
-      "genre": "Bollywood",
-      "countryCode": "US",
-      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/NJS_HIN_ESTAAC.m3u8",
-      "curated": true
-    },
-    {
       "id": "radio_mirchi_bay_area_us",
       "title": "Radio Mirchi Bay Area",
       "location": "Bay Area, USA",
@@ -528,16 +54,6 @@
       "genre": "Bollywood",
       "countryCode": "IN",
       "streamUrl": "https://drive.uber.radio/uber/bollywoodlove/icecast.audio",
-      "curated": true
-    },
-    {
-      "id": "club_mirchi_in",
-      "title": "Club Mirchi",
-      "subtitle": "Dance/Remix",
-      "location": "India",
-      "genre": "Dance",
-      "countryCode": "IN",
-      "streamUrl": "https://mirchiplaylive.akamaized.net/hls/live/2036929-b/MUM/CLUBMI_Auto.m3u8",
       "curated": true
     },
     {
@@ -585,29 +101,11 @@
       "curated": true
     },
     {
-      "id": "classic_vinyl_hd_us",
-      "title": "Classic Vinyl HD",
-      "location": "USA",
-      "genre": "Lounge/Easy Listening",
-      "streamUrl": "https://icecast.walmradio.com:8443/classic",
-      "countryCode": "US",
-      "curated": true
-    },
-    {
       "id": "adroit_jazz_underground_us",
       "title": "Adroit Jazz Underground",
       "location": "USA",
       "genre": "Contemporary Jazz",
       "streamUrl": "https://icecast.walmradio.com:8443/jazz",
-      "countryCode": "US",
-      "curated": true
-    },
-    {
-      "id": "christmas_vinyl_hd_us",
-      "title": "Christmas Vinyl HD",
-      "location": "USA",
-      "genre": "Christmas",
-      "streamUrl": "https://icecast.walmradio.com:8443/christmas",
       "countryCode": "US",
       "curated": true
     },
@@ -627,15 +125,6 @@
       "genre": "News",
       "streamUrl": "http://stream.live.vc.bbcmedia.co.uk/bbc_world_service",
       "countryCode": "GB",
-      "curated": true
-    },
-    {
-      "id": "walm_old_time_radio_us",
-      "title": "WALM - Old Time Radio",
-      "location": "USA",
-      "genre": "Old Time Radio",
-      "streamUrl": "https://icecast.walmradio.com:8443/otr",
-      "countryCode": "US",
       "curated": true
     },
     {
@@ -890,15 +379,6 @@
       "curated": true
     },
     {
-      "id": "977_80s_us",
-      "title": ".977 80s",
-      "location": "USA",
-      "genre": "80s",
-      "streamUrl": "http://17633.live.streamtheworld.com:80/977_80_SC",
-      "countryCode": "US",
-      "curated": true
-    },
-    {
       "id": "977_hitz_us",
       "title": ".977 Hitz",
       "location": "USA",
@@ -1076,15 +556,6 @@
       "curated": true
     },
     {
-      "id": "radio_caroline_uk",
-      "title": "Radio Caroline",
-      "location": "United Kingdom",
-      "genre": "Classic Rock",
-      "streamUrl": "http://78.129.202.200:8040/",
-      "countryCode": "GB",
-      "curated": true
-    },
-    {
       "id": "komsomolskaya_pravda_ru",
       "title": "Radio Komsomolskaya Pravda",
       "location": "Russia",
@@ -1139,15 +610,6 @@
       "curated": true
     },
     {
-      "id": "talksport_uk",
-      "title": "talkSPORT",
-      "location": "United Kingdom",
-      "genre": "Sports Talk",
-      "streamUrl": "http://radio.talksport.com/stream?aisGetOriginalStream=true",
-      "countryCode": "GB",
-      "curated": true
-    },
-    {
       "id": "fnf_fm_hindi_ca",
       "title": "FnF.FM Bollywood",
       "location": "Canada",
@@ -1184,625 +646,2056 @@
       "curated": true
     },
     {
-      "id": "station_jp_873ae475",
-      "title": "大富ラジオ",
-      "subtitle": "Radio",
-      "location": "Japan",
-      "genre": "Radio",
-      "streamUrl": "https://stream.zeno.fm/oaxp6mswcqltv",
-      "countryCode": "JP"
+      "id": "classic_vinyl_hd_us",
+      "title": "Classic Vinyl HD",
+      "location": "USA",
+      "genre": "Lounge/Easy Listening",
+      "streamUrl": "https://icecast.walmradio.com:8443/classic",
+      "countryCode": "US",
+      "curated": true
     },
     {
-      "id": "best_of_ar_rahman_tamil_songs_in_82982d48",
-      "title": "BEST OF AR RAHMAN TAMIL SONGS",
-      "subtitle": "Ar Rahman Tamil Hit Songs",
-      "location": "India",
-      "genre": "Ar Rahman Tamil Hit Songs",
-      "streamUrl": "https://stream-176.zeno.fm/p7b0e3ms97zuv",
-      "countryCode": "IN"
+      "id": "christmas_vinyl_hd_us",
+      "title": "Christmas Vinyl HD",
+      "location": "USA",
+      "genre": "Christmas",
+      "streamUrl": "https://icecast.walmradio.com:8443/christmas",
+      "countryCode": "US",
+      "curated": true
     },
     {
-      "id": "anbu_fm_malayalam_in_0f6b2528",
-      "title": "Anbu FM Malayalam",
-      "subtitle": "Radio",
-      "location": "India",
-      "genre": "Radio",
-      "streamUrl": "https://stream.zeno.fm/8ca40byv4x8uv",
-      "countryCode": "IN"
+      "id": "walm_old_time_radio_us",
+      "title": "WALM - Old Time Radio",
+      "location": "USA",
+      "genre": "Old Time Radio",
+      "streamUrl": "https://icecast.walmradio.com:8443/otr",
+      "countryCode": "US",
+      "curated": true
     },
     {
-      "id": "cherry_radio_music_247_vn_7f1883a3",
-      "title": "Cherry Radio Music 247",
-      "subtitle": "Pop",
-      "location": "Vietnam",
-      "genre": "Pop",
-      "streamUrl": "https://stream-176.zeno.fm/umt5gqmg3reuv",
-      "countryCode": "VN"
+      "id": "radio_caroline_uk",
+      "title": "Radio Caroline",
+      "location": "United Kingdom",
+      "genre": "Classic Rock",
+      "streamUrl": "http://78.129.202.200:8040/",
+      "countryCode": "GB",
+      "curated": true
     },
     {
-      "id": "amor_fm_es_19e1c15e",
-      "title": "Amor FM",
-      "subtitle": "Balada En Español",
-      "location": "Spain",
-      "genre": "Balada En Español",
-      "streamUrl": "https://stream.zeno.fm/fqmu9c005hhvv",
-      "countryCode": "ES"
-    },
-    {
-      "id": "radiomix_aqp_rock_pop_en_espa_ol_dj_etha_pe_f6e17789",
-      "title": "RadioMix AQP Rock-Pop en Español (Dj Ethamx)",
-      "subtitle": "Latin Rock",
-      "location": "Peru",
-      "genre": "Latin Rock",
-      "streamUrl": "https://stream-179.zeno.fm/mwxnk1y5btvvv",
-      "countryCode": "PE"
-    },
-    {
-      "id": "hisparockas_pe_42a2fc1e",
-      "title": "Hisparockas",
-      "subtitle": "Latin America Rock",
-      "location": "Peru",
-      "genre": "Latin America Rock",
-      "streamUrl": "https://stream.zeno.fm/nhu7v3guz08uv",
-      "countryCode": "PE"
-    },
-    {
-      "id": "luv_radio_jamaica_jm_ac9887ee",
-      "title": "LUV radio Jamaica",
-      "subtitle": "Radio",
-      "location": "Jamaica",
-      "genre": "Radio",
-      "streamUrl": "https://stream-178.zeno.fm/pqrf99ucd78uv?rj-ttl=3&rj-tok=AAABgT2I5gcAJt_3xJEBLA_EQQ",
-      "countryCode": "JM"
-    },
-    {
-      "id": "emotions_ph_cf9a3388",
-      "title": "Emotions",
-      "subtitle": "Classics",
-      "location": "The Philippines",
-      "genre": "Classics",
-      "streamUrl": "https://stream.zeno.fm/03v7z8edgphvv.mp3",
-      "countryCode": "PH"
-    },
-    {
-      "id": "radio_teatru_rom_nia_br_ila_ro_dc2c9955",
-      "title": "radio teatru romînia -Brăila",
-      "subtitle": "Teatru",
-      "location": "Romania",
-      "genre": "Teatru",
-      "streamUrl": "https://stream-287.zeno.fm/cb4dyqnat4itv",
-      "countryCode": "RO"
-    },
-    {
-      "id": "eurodance_weebly_1_br_f2af3367",
-      "title": "Eurodance Weebly 1",
-      "subtitle": "Eurodance",
-      "location": "Brazil",
-      "genre": "Eurodance",
-      "streamUrl": "https://stream-287.zeno.fm/g1u270e2ybruv",
-      "countryCode": "BR"
-    },
-    {
-      "id": "radio_vandalica_nicaragua_ni_68296218",
-      "title": "Radio Vandalica Nicaragua",
-      "subtitle": "Radio",
-      "location": "Nicaragua",
-      "genre": "Radio",
-      "streamUrl": "https://stream.zeno.fm/caq3fwn1fnruv",
-      "countryCode": "NI"
-    },
-    {
-      "id": "mrc_hip_hop_soul_radio_radio_music_ma_ce26350e",
-      "title": "MRC:-Hip Hop Soul Radio \tRadio Music",
-      "subtitle": "Country",
-      "location": "Morocco",
-      "genre": "Country",
-      "streamUrl": "https://stream.zeno.fm/k7cdrm450s8uv",
-      "countryCode": "MA"
-    },
-    {
-      "id": "bakanos_fm_97_0_97_1_es_19503a1b",
-      "title": "Bakanos FM 97.0 - 97.1",
-      "subtitle": "Bachata",
-      "location": "Spain",
-      "genre": "Bachata",
-      "streamUrl": "https://stream.zeno.fm/cxmx1evtzwzuv",
-      "countryCode": "ES"
-    },
-    {
-      "id": "la_91_1_fm_do_c5efb50b",
-      "title": "La 91.1 FM",
-      "subtitle": "2000'S",
-      "location": "The Dominican Republic",
-      "genre": "2000'S",
-      "streamUrl": "https://stream-291.zeno.fm/859cd7buqg8uv",
-      "countryCode": "DO"
-    },
-    {
-      "id": "activ_rom_nia_ro_76a44478",
-      "title": "Activ România",
-      "subtitle": "Dance",
-      "location": "Romania",
-      "genre": "Dance",
-      "streamUrl": "https://stream.zeno.fm/72xsfrg0bfhvv",
-      "countryCode": "RO"
-    },
-    {
-      "id": "radio_cristo_viene_masaya_nicaragua_ni_d5757f8a",
-      "title": "Radio Cristo Viene Masaya Nicaragua",
-      "subtitle": "Radio",
-      "location": "Nicaragua",
-      "genre": "Radio",
-      "streamUrl": "https://stream.zeno.fm/axxgbszqxhhvv",
-      "countryCode": "NI"
-    },
-    {
-      "id": "no_es_merengue_es_una_merengazo_ec_8218b4a0",
-      "title": "No es merengue es una merengazo",
-      "subtitle": "Baile",
-      "location": "Ecuador",
-      "genre": "Baile",
-      "streamUrl": "https://stream.zeno.fm/twem5wa0k0hvv",
-      "countryCode": "EC"
-    },
-    {
-      "id": "radio_robotic_nz_fddda8a4",
-      "title": "Radio Robotic",
-      "subtitle": "Alternative",
-      "location": "New Zealand",
-      "genre": "Alternative",
-      "streamUrl": "https://stream.zeno.fm/rhscse2a41zuv",
-      "countryCode": "NZ"
-    },
-    {
-      "id": "la_ciudad_de_los_cl_sicos_radio_ve_2a97185f",
-      "title": "LA CIUDAD DE LOS CLÁSICOS RADIO",
-      "subtitle": "70S",
-      "location": "Bolivarian Republic Of Venezuela",
-      "genre": "70S",
-      "streamUrl": "https://stream.zeno.fm/ppyvnq28368uv",
-      "countryCode": "VE"
-    },
-    {
-      "id": "radio_eco_cali_co_e75fd9d4",
-      "title": "Radio Eco Cali",
-      "subtitle": "Radio",
-      "location": "Colombia",
-      "genre": "Radio",
-      "streamUrl": "https://stream.zeno.fm/5gdds772w2quv",
-      "countryCode": "CO"
-    },
-    {
-      "id": "bestefm_tr_53f55ae4",
-      "title": "BesteFM",
-      "subtitle": "Pop",
-      "location": "Türkiye",
-      "genre": "Pop",
-      "streamUrl": "https://stream.zeno.fm/tnvnovtgozstv",
-      "countryCode": "TR"
-    },
-    {
-      "id": "radio_risham_punjabi_in_95ff4cb7",
-      "title": "Radio Risham Punjabi",
-      "subtitle": "Radio",
-      "location": "India",
-      "genre": "Radio",
-      "streamUrl": "https://stream.zeno.fm/4pd041xv1a0uv",
-      "countryCode": "IN"
-    },
-    {
-      "id": "hot_fm_nawabshah_pk_e2f7e77e",
-      "title": "Hot fm Nawabshah",
-      "subtitle": "Radio",
-      "location": "Pakistan",
-      "genre": "Radio",
-      "streamUrl": "https://stream.zeno.fm/t961q1d0vp6vv/",
-      "countryCode": "PK"
-    },
-    {
-      "id": "179_cn_f0dc2193",
-      "title": "179白陽經典",
-      "subtitle": "Radio",
-      "location": "China",
-      "genre": "Radio",
-      "streamUrl": "https://stream.zeno.fm/v5169mx3cm8uv",
+      "id": "anison_cn_8d5e80",
+      "title": "Anison动漫音乐台",
+      "subtitle": "Anime",
+      "location": "Dalian, China",
+      "genre": "Anime",
+      "streamUrl": "http://pool.anison.fm:9000/AniSonFM(320)?",
       "countryCode": "CN"
     },
     {
-      "id": "mrc_radio_adwaa_atfal_4_ma_112dff3d",
-      "title": "MRC:-Radio Adwaa ATFAL 4",
-      "subtitle": "Country",
-      "location": "Morocco",
-      "genre": "Country",
-      "streamUrl": "https://stream.zeno.fm/8wrs2bh0x1zuv",
-      "countryCode": "MA"
+      "id": "rb2_02_dance_radio_1e68aa3b",
+      "title": "02 Dance Radio",
+      "subtitle": "Adult Hits",
+      "location": "Piraeus, Greece",
+      "genre": "Adult Hits",
+      "streamUrl": "https://centova.gr-net.gr/proxy/dimitrio/stream",
+      "countryCode": "GR"
     },
     {
-      "id": "web_radio_network_palermo_it_78b32d90",
-      "title": "Web Radio Network Palermo",
-      "subtitle": "Hits",
-      "location": "Italy",
-      "genre": "Hits",
-      "streamUrl": "https://stream.zeno.fm/necqv1e65qzuv",
+      "id": "101_fm_logan_101_1_fm_aac_au",
+      "title": "101 FM - Logan - 101.1 FM (AAC+)",
+      "subtitle": "Community Radio / Miscellaneous",
+      "location": "Queensland, Australia",
+      "genre": "Talk",
+      "streamUrl": "http://playerservices.streamtheworld.com/api/livestream-redirect/4CBLAAC.aac",
+      "countryCode": "AU"
+    },
+    {
+      "id": "100_nu_disco_central_radio_it",
+      "title": "# 100 NU-DISCO CENTRAL RADIO",
+      "subtitle": "Club Dance / Clubbing",
+      "location": "Roma, Italy",
+      "genre": "Electronic",
+      "streamUrl": "https://stream.zeno.fm/jqhhzffjynbuv",
       "countryCode": "IT"
     },
     {
-      "id": "goldy_bhal_in_9cff3987",
-      "title": "Goldy Bhal",
-      "subtitle": "Music",
-      "location": "India",
-      "genre": "Music",
-      "streamUrl": "https://stream.zeno.fm/rfxzab5h3p8uv",
-      "countryCode": "IN"
+      "id": "rb2_2toneroom_radio_gdl_online_www_2toneroom_7731c7ce",
+      "title": "+2ToneRoom Radio (GDL) - Online - www.2toneroom.net - Guadalajara, Jalisco",
+      "subtitle": "América, Entretenimiento",
+      "location": "Guadalajara, Jalisco, Mexico",
+      "genre": "América",
+      "streamUrl": "http://209.141.43.200:10018/stream",
+      "countryCode": "MX"
     },
     {
-      "id": "mdubs_entertainment_mw_bcda88d4",
-      "title": "Mdubs Entertainment",
-      "subtitle": "Radio",
-      "location": "Malawi",
-      "genre": "Radio",
-      "streamUrl": "https://stream.zeno.fm/ogxfqt7gumguv",
-      "countryCode": "MW"
+      "id": "rb2_101_9_radio_educativa_campinas_085fb651",
+      "title": "101.9 Radio Educativa - Campinas",
+      "subtitle": "Pop & Samba - Antigas",
+      "location": "SP, Brazil",
+      "genre": "Pop & Samba - Antigas",
+      "streamUrl": "http://streaming.ima.sp.gov.br:8000/educativa.mp3",
+      "countryCode": "BR"
     },
     {
-      "id": "malayalambhakthiradio_in_fb3289e9",
-      "title": "malayalambhakthiradio",
-      "subtitle": "Radio",
-      "location": "India",
-      "genre": "Radio",
-      "streamUrl": "https://stream.zeno.fm/08e1vkshcc9uv",
-      "countryCode": "IN"
+      "id": "rb2_88_9_fm_radio_light_881918cf",
+      "title": "88.9 FM Radio Light",
+      "subtitle": "80S, 90S",
+      "location": "Misiones, Argentina",
+      "genre": "80S",
+      "streamUrl": "http://streamall.alsolnet.com/radiolightfm",
+      "countryCode": "AR"
     },
     {
-      "id": "pon_salsa_y_todo_norte_ec_bc56d8ff",
-      "title": "Pon salsa y todo norte",
-      "subtitle": "Radio",
-      "location": "Ecuador",
-      "genre": "Radio",
-      "streamUrl": "https://stream.zeno.fm/eft72w1vrnhvv",
+      "id": "rb2_boomerang_30_s_b6e1a7ef",
+      "title": "Boomerang 30's",
+      "subtitle": "1930S",
+      "location": "Dubai, The United Arab Emirates",
+      "genre": "1930S",
+      "streamUrl": "https://drive.uber.radio/uber/boomerang1930s/icecast.audio",
+      "countryCode": "AE"
+    },
+    {
+      "id": "acustic_radio_ro_c57670",
+      "title": "Acustic Radio",
+      "subtitle": "Classical",
+      "location": "Timisoara, Romania",
+      "genre": "Classical",
+      "streamUrl": "https://stream.zeno.fm/xmgnc6mcwnhvv",
+      "countryCode": "RO"
+    },
+    {
+      "id": "la_reina_putumayo_106_3_fm_co",
+      "title": "((La Reina Putumayo 106.3 Fm))",
+      "subtitle": "Crossover / Merengue",
+      "location": "Putumayo, Colombia",
+      "genre": "Pop",
+      "streamUrl": "https://radio25.virtualtronics.com/proxy/reinaputumayo?mp=/stream",
+      "countryCode": "CO"
+    },
+    {
+      "id": "101_4_hatay_tempo_fm_tr",
+      "title": "101.4 HATAY TEMPO FM",
+      "subtitle": "Anadolu Rock / Folk",
+      "location": "Hatay ; Antakya ; Samandağ ; Defne, Türkiye",
+      "genre": "Rock",
+      "streamUrl": "https://sslyayin.netyayin.net:1215/stream",
+      "countryCode": "TR"
+    },
+    {
+      "id": "105_5_smooth_radio_ph",
+      "title": "105.5 SMOOTH RADIO",
+      "subtitle": "Jazz / Latin",
+      "location": "Angeles City, Pampanga, The Philippines",
+      "genre": "Jazz",
+      "streamUrl": "https://stream-02.surfernetwork.com/iysqd3wuj38uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJpeXNxZDN3dWozOHV2IiwiaG9zdCI6InN0cmVhbS0wMi5zdXJmZXJuZXR3b3JrLmNvbSIsInJ0dGwiOjUsImp0aSI6Im1ieUJHT0lOVC1HSXllSFlGbG5KRXciLCJpYXQiOjE3NzgxNjAwMDMsImV4cCI6MTc3ODE2MDA2M30.xYqjN-KICXfpgsxWdN_Ae3gaNqpRsTdELgTkBOVutmg",
+      "countryCode": "PH"
+    },
+    {
+      "id": "rb2_alternativa_fm_ba6dd884",
+      "title": "Alternativa FM",
+      "subtitle": "Noticias",
+      "location": "Atacama, Chile",
+      "genre": "Noticias",
+      "streamUrl": "https://radio.tvstream.cl/8056/stream",
+      "countryCode": "CL"
+    },
+    {
+      "id": "rb2_666_forgotten_castle_71533d67",
+      "title": "666 Forgotten Castle",
+      "subtitle": "Black Metal, Death Metal",
+      "location": "Malang, East Java, Indonesia",
+      "genre": "Black Metal",
+      "streamUrl": "https://stream.zeno.fm/j9tx7izezf4vv",
+      "countryCode": "ID"
+    },
+    {
+      "id": "iconic_kiosk_radio",
+      "title": "Kiosk Radio",
+      "subtitle": "Independent Electronic — Brussels",
+      "location": "Brussels, Belgium",
+      "genre": "Electronic",
+      "streamUrl": "https://kioskradiobxl.out.airtime.pro/kioskradiobxl_b",
+      "countryCode": "BE"
+    },
+    {
+      "id": "1000_electronic_dance_music_at",
+      "title": "1000 ELECTRONIC DANCE MUSIC",
+      "subtitle": "Dance & Electronic / Edm",
+      "location": "Vienna, Austria",
+      "genre": "Electronic",
+      "streamUrl": "http://stream.laut.fm/1000-electronic-dance-music",
+      "countryCode": "AT"
+    },
+    {
+      "id": "rb2_akt_v_r_di_960c4608",
+      "title": "Aktív Rádió",
+      "subtitle": "Pop",
+      "location": "Jász-Nagykun-Szolnok, Hungary",
+      "genre": "Pop",
+      "streamUrl": "http://aktivradio.hu:8000/aktiv.mp3",
+      "countryCode": "HU"
+    },
+    {
+      "id": "cool_radio_rs_964c0c",
+      "title": "Cool Radio",
+      "subtitle": "Folk",
+      "location": "Belgrade, Serbia",
+      "genre": "Folk",
+      "streamUrl": "http://176.9.30.66/cool64",
+      "countryCode": "RS"
+    },
+    {
+      "id": "4drive_jazz_pt_f86c48",
+      "title": "4Drive Jazz",
+      "subtitle": "Jazz Fusion",
+      "location": "Estoril, Portugal",
+      "genre": "Jazz Fusion",
+      "streamUrl": "http://radio.streemlion.com:1150/stream",
+      "countryCode": "PT"
+    },
+    {
+      "id": "rb2_bikers_radio_doupe_b744d69a",
+      "title": "BIKERS RADIO DOUPE",
+      "subtitle": "80'S, 90'S",
+      "location": "Vysocina, Czechia",
+      "genre": "80'S",
+      "streamUrl": "https://icecast7.play.cz/bikersradiodoupe128.mp3",
+      "countryCode": "CZ"
+    },
+    {
+      "id": "boleros_inolvidables_fmlima_pe_8df85a",
+      "title": "Boleros Inolvidables (FMLima)",
+      "subtitle": "Bolero",
+      "location": "Lima, Peru",
+      "genre": "Bolero",
+      "streamUrl": "https://stream.zeno.fm/5t45zksv7mruv",
+      "countryCode": "PE"
+    },
+    {
+      "id": "rb2_city_radio_88_6_962280df",
+      "title": "City-radio 88.6",
+      "subtitle": "Local Music",
+      "location": "Zagrebačka županija, Croatia",
+      "genre": "Local Music",
+      "streamUrl": "http://s8.iqstreaming.com:8058/stream;",
+      "countryCode": "HR"
+    },
+    {
+      "id": "1056_1072_1076_1080_1086_fm_bg",
+      "title": "&#1056;&#1072;&#1076;&#1080;&#1086; FM+",
+      "subtitle": "90S / Adult",
+      "location": "Sofia, Bulgaria",
+      "genre": "Rock",
+      "streamUrl": "http://31.13.223.148:8000/fmplus.ogg",
+      "countryCode": "BG"
+    },
+    {
+      "id": "rb2_dlf_aktuelle_presseschau_87069ec6",
+      "title": "DLF aktuelle Presseschau",
+      "subtitle": "Internationale Presseschau, Lokale Presseschau",
+      "location": "Deutschland und NRW, Denmark",
+      "genre": "Internationale Presseschau",
+      "streamUrl": "https://ondemand-mp3.dradio.de/file/dradio/presseschau/presseschau.mp3",
+      "countryCode": "DK"
+    },
+    {
+      "id": "rb_country_rocks_radio_daef257f",
+      "title": "Country Rocks Radio",
+      "subtitle": "Country",
+      "location": "Skåne, Sweden",
+      "genre": "Country",
+      "streamUrl": "http://stream.dbmedia.se/crr96",
+      "countryCode": "SE"
+    },
+    {
+      "id": "2xs_fm_palmerston_north_nz",
+      "title": "2XS FM Palmerston North",
+      "subtitle": "Retro / Rock",
+      "location": "Palmerston North, New Zealand",
+      "genre": "Rock",
+      "streamUrl": "http://125.236.204.178:8001/listen.mp3",
+      "countryCode": "NZ"
+    },
+    {
+      "id": "8radio_ie",
+      "title": "8Radio",
+      "subtitle": "Alternative / Indie Rock",
+      "location": "Dublin, Ireland",
+      "genre": "Rock",
+      "streamUrl": "https://stream.rcast.net/66127",
+      "countryCode": "IE"
+    },
+    {
+      "id": "1766_tw",
+      "title": "1766線上電臺-百家知識",
+      "subtitle": "News",
+      "location": "Taiwan, Republic Of China",
+      "genre": "News",
+      "streamUrl": "http://livestream.1766.today:1768/live1.mp3",
+      "countryCode": "TW"
+    },
+    {
+      "id": "702_johannesburg_za",
+      "title": "702 Johannesburg",
+      "subtitle": "Johannesburg / News Talk",
+      "location": "Gauteng, South Africa",
+      "genre": "News",
+      "streamUrl": "http://23543.live.streamtheworld.com:3690/FM702_SC",
+      "countryCode": "ZA"
+    },
+    {
+      "id": "antena_uno_90_5_ec",
+      "title": "Antena Uno 90.5",
+      "subtitle": "Classic Rock / Country Rock",
+      "location": "azuay, Ecuador",
+      "genre": "Rock",
+      "streamUrl": "https://dattavolt.com/8202/stream",
       "countryCode": "EC"
     },
     {
-      "id": "ehlelradio_mn_fad5fd9a",
-      "title": "Ehlelradio",
-      "subtitle": "Music",
-      "location": "Mongolia",
-      "genre": "Music",
-      "streamUrl": "https://stream.zeno.fm/c6cvywws538uv",
-      "countryCode": "MN"
+      "id": "rb2_alba_ciudad_96_3_fm_b75a5dcc",
+      "title": "Alba Ciudad 96.3 FM",
+      "subtitle": "Cultural, Entretenimiento",
+      "location": "Caracas, Bolivarian Republic Of Venezuela",
+      "genre": "Cultural",
+      "streamUrl": "https://envivo.albaciudad.org/albaciudad.mp3",
+      "countryCode": "VE"
     },
     {
-      "id": "gachi_station_3_aq_6a59447a",
+      "id": "joint_radio_beat_trance_il",
+      "title": "#joint radio Beat Trance",
+      "subtitle": "Ambient / Edm",
+      "location": "Tel Aviv, Israel",
+      "genre": "Electronic",
+      "streamUrl": "https://jointil.com/stream-beat",
+      "countryCode": "IL"
+    },
+    {
+      "id": "rb2_88_2_sanyu_fm_kampala_88_2_fm_mp3_6cefd186",
+      "title": "88.2 Sanyu FM - Kampala - 88.2 FM (MP3)",
+      "subtitle": "Culture, Information",
+      "location": "Kampala, Uganda",
+      "genre": "Culture",
+      "streamUrl": "http://s44.myradiostream.com/8138/listen.mp3",
+      "countryCode": "UG"
+    },
+    {
+      "id": "rb2_finnradio_a1d96ed6",
+      "title": "FinnRadio",
+      "subtitle": "Alternative, Indie",
+      "location": "Suomi, Finland",
+      "genre": "Alternative",
+      "streamUrl": "https://servidor39-5.brlogic.com:7076/live",
+      "countryCode": "FI"
+    },
+    {
+      "id": "rb2_1fm_jazz_81564356",
+      "title": "1FM Jazz",
+      "subtitle": "Jazz",
+      "location": "Møre og Romsdal, Norway",
+      "genre": "Jazz",
+      "streamUrl": "https://lyd.1fm.no/1fmjazz_mq?rp_source=1",
+      "countryCode": "NO"
+    },
+    {
+      "id": "rb2_a_radio_banja_luka_aa4709a5",
+      "title": "A Radio Banja Luka",
+      "subtitle": "Jazz, Pop",
+      "location": "Republika Srpska, Bosnia And Herzegovina",
+      "genre": "Jazz",
+      "streamUrl": "https://aradiostream.atvbl.com/live",
+      "countryCode": "BA"
+    },
+    {
+      "id": "hit_radio_center_ljubljana_102_4mhz_si",
+      "title": "Hit Radio Center (Ljubljana - 102.4MHz)",
+      "subtitle": "Mix / Pop",
+      "location": "Osrednjeslovenska, Slovenia",
+      "genre": "Rock",
+      "streamUrl": "http://stream3.radiocenter.si:8000/;center/1",
+      "countryCode": "SI"
+    },
+    {
+      "id": "rb2_24_de_agosto_6c9ab68e",
+      "title": "24 de Agosto",
+      "subtitle": "Classic Rock Oldies, Golden Oldies",
+      "location": "Montevideo, Uruguay",
+      "genre": "Classic Rock Oldies",
+      "streamUrl": "https://24deagosto-zikoxweb.radioca.st/stream",
+      "countryCode": "UY"
+    },
+    {
+      "id": "fun_radio_dance_sk_960f00",
+      "title": "Fun Radio Dance",
+      "subtitle": "Dance",
+      "location": "Slovakia, Slovakia",
+      "genre": "Dance",
+      "streamUrl": "http://stream.funradio.sk:8000/dance128.mp3",
+      "countryCode": "SK"
+    },
+    {
+      "id": "fm_kahoku_78_7_fm_jozz5am_fm_78_7_mhz_kahoku_cit_jp",
+      "title": "FM Kahoku 78.7 (FMかほく, JOZZ5AM-FM, 78.7 MHz, Kahoku City, Ishikawa)",
+      "subtitle": "Enka / Japan",
+      "location": "Ishikawa, Japan",
+      "genre": "Talk",
+      "streamUrl": "http://radio.kahoku.net:8000/;",
+      "countryCode": "JP"
+    },
+    {
+      "id": "rb2_710_am_radio_nacional_cristiana_rd_50f51c0c",
+      "title": "710 AM Radio Nacional Cristiana (RD)",
+      "subtitle": "Cristiana",
+      "location": "Santo Domingo, The Dominican Republic",
+      "genre": "Cristiana",
+      "streamUrl": "https://node-09.zeno.fm/03yn1w98swzuv",
+      "countryCode": "DO"
+    },
+    {
+      "id": "rb2_err_raadio_2_962039d2",
+      "title": "ERR Raadio 2",
+      "subtitle": "Err, Public Radio",
+      "location": "Harjumaa, Estonia",
+      "genre": "Err",
+      "streamUrl": "http://icecast.err.ee/raadio2.mp3",
+      "countryCode": "EE"
+    },
+    {
+      "id": "rb2_agoo_96_9_fm_3d877738",
+      "title": "Agoo 96.9 FM",
+      "subtitle": "Afrobeats, Akan",
+      "location": "Eastern Region, Ghana",
+      "genre": "Afrobeats",
+      "streamUrl": "https://agoofm-atunwadigital.streamguys1.com/agoofm",
+      "countryCode": "GH"
+    },
+    {
+      "id": "station_af",
+      "title": ".القارئ محمد أيوب",
+      "subtitle": "Classical",
+      "location": "Afghanistan",
+      "genre": "Classical",
+      "streamUrl": "https://qurango.net/radio/mohammed_ayyub",
+      "countryCode": "AF"
+    },
+    {
+      "id": "rb2_chillax_fm_23cc41c2",
+      "title": "Chillax FM",
+      "subtitle": "Chill & Relax",
+      "location": "Riga, Latvia",
+      "genre": "Chill & Relax",
+      "streamUrl": "https://streams.chillaxfm.lv/chillaxfm",
+      "countryCode": "LV"
+    },
+    {
+      "id": "rb_laluna_aac_963d0e5f",
+      "title": "Laluna [AAC]",
+      "subtitle": "Uab Radijo Stotis Laluna",
+      "location": "Klaipėdos m., Lithuania",
+      "genre": "Uab Radijo Stotis Laluna",
+      "streamUrl": "http://radio.m-1.fm/laluna/high",
+      "countryCode": "LT"
+    },
+    {
+      "id": "dance_fm_moldova_md",
+      "title": "Dance Fm Moldova",
+      "subtitle": "Dance / Dance Pop",
+      "location": "Chișinău, The Republic Of Moldova",
+      "genre": "Electronic",
+      "streamUrl": "http://37.233.41.76:8000/dancefm",
+      "countryCode": "MD"
+    },
+    {
+      "id": "bkk_fm_th",
+      "title": "BKK.FM",
+      "subtitle": "Alternative / Alternative Rock",
+      "location": "Bangkok, Thailand",
+      "genre": "Electronic",
+      "streamUrl": "https://rsas.bkk.fm/radio",
+      "countryCode": "TH"
+    },
+    {
+      "id": "rb_jei_fm_klang_tamil_radio_676c0b71",
+      "title": "Jei FM Klang Tamil Radio",
+      "subtitle": "Klang, Kollywood",
+      "location": "Selangor, Malaysia",
+      "genre": "Klang",
+      "streamUrl": "https://usa3.fastcast4u.com/proxy/jeifm?mp=/1",
+      "countryCode": "MY"
+    },
+    {
+      "id": "cl_sica_102_5_guatemala_gt",
+      "title": "Clásica 102.5 Guatemala",
+      "subtitle": "102.5 Fm / América",
+      "location": "Ciudad de Guatemala, Guatemala",
+      "genre": "Oldies",
+      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/CLASICA_1065AAC.aac",
+      "countryCode": "GT"
+    },
+    {
+      "id": "rb2_fred_film_radio_2b1b77a5",
+      "title": "Fred Film Radio(한국어)",
+      "subtitle": "Culture, Film",
+      "location": "Seoul, The Republic Of Korea",
+      "genre": "Culture",
+      "streamUrl": "https://s10.webradio-hosting.com/proxy/fredradiokr/stream",
+      "countryCode": "KR"
+    },
+    {
+      "id": "atb_radio_bo_ca45e8",
+      "title": "ATB Radio",
+      "subtitle": "Noticias",
+      "location": "La Paz (Nuestra Señora de), Bolivia",
+      "genre": "Noticias",
+      "streamUrl": "https://streamingenbolivia.com/8006/stream",
+      "countryCode": "BO"
+    },
+    {
+      "id": "rb2_lankasri_fm_81efb1d0",
+      "title": "Lankasri fm",
+      "subtitle": "Tamil Music",
+      "location": "Sri lanka, Sri Lanka",
+      "genre": "Tamil Music",
+      "streamUrl": "http://media2.lankasri.fm/;stream.mp3",
+      "countryCode": "LK"
+    },
+    {
+      "id": "rb2_esan_binoculars_bbc214d6",
+      "title": "Esan binoculars",
+      "subtitle": "Community Radio, General",
+      "location": "Edo state, Nigeria",
+      "genre": "Community Radio",
+      "streamUrl": "https://fm.imediaport.com/ebradio",
+      "countryCode": "NG"
+    },
+    {
+      "id": "radio_abc_cardinal_730_am_py_bcc236",
+      "title": "Radio ABC Cardinal 730 AM",
+      "subtitle": "News",
+      "location": "Asuncion, Paraguay",
+      "genre": "News",
+      "streamUrl": "http://sc.abc.com.py:8000/stream",
+      "countryCode": "PY"
+    },
+    {
+      "id": "all4masti_pk_af53a4",
+      "title": "All4Masti",
+      "subtitle": "Beats",
+      "location": "Punjab, Pakistan",
+      "genre": "Jazz",
+      "streamUrl": "http://stream.zeno.fm/bahhkuge5zhvv",
+      "countryCode": "PK"
+    },
+    {
+      "id": "rb2_101_7_your_love_fm_ef1cef4a",
+      "title": "101.7 Your Love FM",
+      "subtitle": "Opm, Talk",
+      "location": "Dammam, Saudi Arabia",
+      "genre": "Opm",
+      "streamUrl": "https://radio.905heartfm.com:8000/radio.mp3",
+      "countryCode": "SA"
+    },
+    {
+      "id": "hitradio_rtl_chemnitz_dz",
+      "title": "Hitradio RTL Chemnitz",
+      "subtitle": "Pop",
+      "location": "Sachsen, Algeria",
+      "genre": "Pop",
+      "streamUrl": "https://web.radio.hitradio-rtl.de/hrrtl-chemnitz/stream/mp3?aggregator=direktlink",
+      "countryCode": "DZ"
+    },
+    {
+      "id": "hit_radio_morocco_ma",
+      "title": "Hit Radio (Morocco)",
+      "subtitle": "Hits / Moroccans",
+      "location": "Rabat-Salé-Kénitra, Morocco",
+      "genre": "Hip-Hop",
+      "streamUrl": "https://hitradio-maroc.ice.infomaniak.ch/hitradio-maroc-128.mp3",
+      "countryCode": "MA"
+    },
+    {
+      "id": "rb_92_5_club_96354704",
+      "title": "92.5 Club",
+      "subtitle": "Adult Contemporary",
+      "location": "San Salvador, El Salvador",
+      "genre": "Adult Contemporary",
+      "streamUrl": "http://158.69.200.1:8030/stream",
+      "countryCode": "SV"
+    },
+    {
+      "id": "radio_liban_96_2fm_lb",
+      "title": "Radio Liban 96.2FM",
+      "subtitle": "Armenien / Français",
+      "location": "Beyrouth, Lebanon",
+      "genre": "Jazz",
+      "streamUrl": "https://media2.streambrothers.com:8202/stream",
+      "countryCode": "LB"
+    },
+    {
+      "id": "rb_hot_102_d11f4ae1",
+      "title": "Hot 102",
+      "subtitle": "Mainstream, Pop Music",
+      "location": "San Juan PR, Puerto Rico",
+      "genre": "Mainstream",
+      "streamUrl": "https://server7.servistreaming.com/proxy/hot?mp=%2Fstream%3Ftype%3D.mp3&_=1",
+      "countryCode": "PR"
+    },
+    {
+      "id": "987fm_sg",
+      "title": "987FM",
+      "subtitle": "Music / News",
+      "location": "Singapore, Singapore",
+      "genre": "News",
+      "streamUrl": "https://22393.live.streamtheworld.com/987FM_PREM.aac",
+      "countryCode": "SG"
+    },
+    {
+      "id": "rb2_avance_radio_fb523cfe",
+      "title": "Avance Radio",
+      "subtitle": "Bible, Biblia",
+      "location": "San Jose, Costa Rica",
+      "genre": "Bible",
+      "streamUrl": "https://radios.solumedia.com:6512/;",
+      "countryCode": "CR"
+    },
+    {
+      "id": "98_4_capital_fm_ke",
+      "title": "98.4 Capital FM",
+      "subtitle": "Hits / Local News",
+      "location": "Nairobi, Kenya",
+      "genre": "News",
+      "streamUrl": "https://atunwadigital.streamguys1.com/capitalfm",
+      "countryCode": "KE"
+    },
+    {
+      "id": "rb2_radio_cetinje_dea33e50",
+      "title": "Radio Cetinje",
+      "subtitle": "Dance, Electronic",
+      "location": "Cetinje, Montenegro",
+      "genre": "Dance",
+      "streamUrl": "http://78.129.228.187:8007/stream",
+      "countryCode": "ME"
+    },
+    {
+      "id": "arab_mix_256_eg",
+      "title": "Arab Mix 256",
+      "subtitle": "Classic Hits / Hits",
+      "location": "Cairo, Egypt",
+      "genre": "Pop",
+      "streamUrl": "https://stream.zeno.fm/wvqgc9kb1d0uv",
+      "countryCode": "EG"
+    },
+    {
+      "id": "rb2_la_top_102_9_fm_san_pedro_sula_honduras_dd96c72f",
+      "title": "La Top 102.9 FM - San Pedro Sula, Honduras",
+      "subtitle": "102.9 Fm, América",
+      "location": "San Pedro Sula, Honduras",
+      "genre": "102.9 Fm",
+      "streamUrl": "https://us9.maindigitalstream.com/ssl/latop102",
+      "countryCode": "HN"
+    },
+    {
+      "id": "rb2_station_7065ab06",
+      "title": "Ι.Μ. Λεμεσού",
+      "subtitle": "Christian, Christian Orthodox",
+      "location": "Lemesos, Cyprus",
+      "genre": "Christian",
+      "streamUrl": "http://93.109.209.123:9080/stream.mp3",
+      "countryCode": "CY"
+    },
+    {
+      "id": "alpha_boys_school_radio_jm",
+      "title": "Alpha Boys School Radio",
+      "subtitle": "Jazz / Reggae",
+      "location": "Kingston, Jamaica",
+      "genre": "Jazz",
+      "streamUrl": "http://alphaboys-live.streamguys1.com/alphaboys.mp3",
+      "countryCode": "JM"
+    },
+    {
+      "id": "r_union_la_1_re_la1er_re_d60897",
+      "title": "Réunion la 1ère (La1er)",
+      "subtitle": "Local News",
+      "location": "France, Reunion",
+      "genre": "Local News",
+      "streamUrl": "https://reunion.ice.infomaniak.ch/reunion-128.mp3",
+      "countryCode": "RE"
+    },
+    {
+      "id": "jazz_fm_mk",
+      "title": "Jazz FM",
+      "subtitle": "Jazz",
+      "location": "mk, Republic Of North Macedonia",
+      "genre": "Jazz",
+      "streamUrl": "https://radio.jazzfm.mk/listen/jazzfm/live",
+      "countryCode": "MK"
+    },
+    {
+      "id": "beu_kz",
+      "title": "((beu))",
+      "subtitle": "Etnic / Kazakh Music",
+      "location": "Almaty, Kazakhstan",
+      "genre": "Pop",
+      "streamUrl": "https://stream.beufm.kz/beufm",
+      "countryCode": "KZ"
+    },
+    {
+      "id": "best_pro_electronic_al",
+      "title": "Best Pro Electronic",
+      "subtitle": "Electronic / Tech House",
+      "location": "Tirana, Albania",
+      "genre": "Electronic",
+      "streamUrl": "https://az1.sednastream.com/radio/8150/Live?1582297952",
+      "countryCode": "AL"
+    },
+    {
+      "id": "dakar_musique_sn_aaa5f8",
+      "title": "Dakar Musique",
+      "subtitle": "African Music",
+      "location": "Senegal",
+      "genre": "African Music",
+      "streamUrl": "http://listen.senemultimedia.net:8090/stream",
+      "countryCode": "SN"
+    },
+    {
+      "id": "rb_radio_bbc_news_haiti_6b0c6c56",
+      "title": "RADIO BBC NEWS HAITI",
+      "subtitle": "Musuc, News",
+      "location": "p aup, Haiti",
+      "genre": "Musuc",
+      "streamUrl": "http://stream.zeno.fm/hpdayz31vd0uv",
+      "countryCode": "HT"
+    },
+    {
+      "id": "rb2_h_n_i_community_radio_6b0831ab",
+      "title": "Hà Nội Community Radio",
+      "subtitle": "Community Radio, Dj Mixes",
+      "location": "Hanoi, Vietnam",
+      "genre": "Community Radio",
+      "streamUrl": "https://ha-noi-community-radio.radiocult.fm/stream",
+      "countryCode": "VN"
+    },
+    {
+      "id": "rb_generation_dance_radio_0f902505",
+      "title": "Generation Dance Radio",
+      "subtitle": "Dance, Dj",
+      "location": "Luxembourg, Luxembourg",
+      "genre": "Dance",
+      "streamUrl": "http://generationdance.lu/radio/8030/hd",
+      "countryCode": "LU"
+    },
+    {
+      "id": "am_original_1180_veraguas_pa",
+      "title": "AM Original 1180 Veraguas",
+      "subtitle": "Folkloric",
+      "location": "Veraguas, Panama",
+      "genre": "Folk",
+      "streamUrl": "http://rosetta.shoutca.st:9264/stream",
+      "countryCode": "PA"
+    },
+    {
+      "id": "caspian_business_radio_boss_az",
+      "title": "Caspian Business Radio BOSS",
+      "subtitle": "Alternative Rock / Baku",
+      "location": "Baku, Azerbaijan",
+      "genre": "Rock",
+      "streamUrl": "https://myradio24.org/bosscomaz",
+      "countryCode": "AZ"
+    },
+    {
+      "id": "mutant_radio_ge",
+      "title": "Mutant Radio",
+      "subtitle": "Community Radio / Culture",
+      "location": "Tbilisi, Georgia",
+      "genre": "Talk",
+      "streamUrl": "https://listen.radioking.com/radio/282820/stream/328621",
+      "countryCode": "GE"
+    },
+    {
+      "id": "bbc_nepali_np",
+      "title": "BBC Nepali",
+      "subtitle": "News",
+      "location": "Bagmati, Nepal",
+      "genre": "News",
+      "streamUrl": "https://stream.live.vc.bbcmedia.co.uk/bbc_nepali_radio",
+      "countryCode": "NP"
+    },
+    {
+      "id": "amharic_live_sport_et",
+      "title": "Amharic Live Sport የኳስ  ኮሜኔታተር",
+      "subtitle": "Amharic / Football",
+      "location": "Addis Ababa, Ethiopia",
+      "genre": "Sport",
+      "streamUrl": "https://stream.zeno.fm/bqtruhn4q98uv",
+      "countryCode": "ET"
+    },
+    {
+      "id": "rb_l_tt_bylgjan_961e9bb2",
+      "title": "Létt Bylgjan",
+      "subtitle": "Easy Listening, Local Music",
+      "location": "Iceland, Iceland",
+      "genre": "Easy Listening",
+      "streamUrl": "http://icecast.365net.is:8000/orbLettBylgjan.aac",
+      "countryCode": "IS"
+    },
+    {
+      "id": "rb_isaac_98_1fm_cc80eeff",
+      "title": "Isaac 98.1fm",
+      "subtitle": "Christian, Christian-Gospel",
+      "location": "Port of Spain, Trinidad And Tobago",
+      "genre": "Christian",
+      "streamUrl": "https://ice66.securenetsystems.net/FFBN?playSessionID=8D29A2B7-D966-0B14-AFCD7A340AFA6C15",
+      "countryCode": "TT"
+    },
+    {
+      "id": "940_gospel_radio_um",
+      "title": "940 Gospel Radio",
+      "subtitle": "Christian-Gospel / Gospel",
+      "location": "Florida, The United States Minor Outlying Islands",
+      "genre": "Devotional",
+      "streamUrl": "https://servidor26.brlogic.com:7088/live",
+      "countryCode": "UM"
+    },
+    {
+      "id": "al_bilad_radio_yaqoubi_iq",
+      "title": "Al-bilad Radio/Yaqoubi",
+      "subtitle": "Al-Bilad Radio / Baghdad",
+      "location": "Baghdad, Iraq",
+      "genre": "Devotional",
+      "streamUrl": "https://streamer.radio.co/sb38bf6e66/listen",
+      "countryCode": "IQ"
+    },
+    {
+      "id": "la_voz_del_norte_ni",
+      "title": "La Voz del Norte",
+      "subtitle": "News / Noticias",
+      "location": "Estelí, Nicaragua",
+      "genre": "News",
+      "streamUrl": "https://stream.zeno.fm/cbd1wweamzzuv",
+      "countryCode": "NI"
+    },
+    {
+      "id": "denge_qamishlo_sy",
+      "title": "Denge Qamishlo",
+      "subtitle": "Folk Music / Kurdish Folk Music",
+      "location": "Syrian Arab Republic",
+      "genre": "Folk",
+      "streamUrl": "https://dengeqamishlo.stream.laut.fm/dengeqamishlo",
+      "countryCode": "SY"
+    },
+    {
+      "id": "dolfijn_fm_97_3_cw",
+      "title": "Dolfijn FM 97.3",
+      "subtitle": "Euro / Hits",
+      "location": "Curacao",
+      "genre": "Pop",
+      "streamUrl": "http://radiostreamfm.com:8130/radio.mp3",
+      "countryCode": "CW"
+    },
+    {
+      "id": "radio_jkkniu_bd",
+      "title": "Radio JKKNIU",
+      "subtitle": "Bollywood / Campus Radio",
+      "location": "Dhaka, Bangladesh",
+      "genre": "Rock",
+      "streamUrl": "https://stream.zeno.fm/risgdzpf1cxtv",
+      "countryCode": "BD"
+    },
+    {
+      "id": "cvcradio_online_cu",
+      "title": "CVCradio-online",
+      "subtitle": "Alternative / Radio Online",
+      "location": "Cienfuegos, Cuba",
+      "genre": "Alternative",
+      "streamUrl": "https://stream.zeno.fm/2ajykhn6m8hvv",
+      "countryCode": "CU"
+    },
+    {
+      "id": "caboradio_cv",
+      "title": "Caboradio",
+      "subtitle": "MP3 128kbps",
+      "location": "Cabo Verde",
+      "genre": "Music",
+      "streamUrl": "https://listen.radioking.com/radio/281506/stream/327253",
+      "countryCode": "CV"
+    },
+    {
+      "id": "capital_radio_tz",
+      "title": "Capital Radio",
+      "subtitle": "News / Talk",
+      "location": "United Republic Of Tanzania",
+      "genre": "News",
+      "streamUrl": "https://capitalradio.radioca.st/stream",
+      "countryCode": "TZ"
+    },
+    {
+      "id": "radio_mix_congolaise_cd_877b1a",
+      "title": "Radio Mix Congolaise",
+      "subtitle": "Soukous",
+      "location": "Kinshasa, The Democratic Republic Of The Congo",
+      "genre": "Soukous",
+      "streamUrl": "https://stream.zeno.fm/qe5g83upga0uv",
+      "countryCode": "CD"
+    },
+    {
+      "id": "rb_radio_vaticana_portuguese_90141142",
+      "title": "Radio Vaticana Portuguese",
+      "subtitle": "Catholic, Religion",
+      "location": "Vatican City, The Holy See",
+      "genre": "Catholic",
+      "streamUrl": "https://radio.vaticannews.va/stream-pt",
+      "countryCode": "VA"
+    },
+    {
+      "id": "armenian_radio_am",
+      "title": "Armenian Radio",
+      "subtitle": "Entertainment / Pop Music",
+      "location": "Yerevan, Armenia",
+      "genre": "Pop",
+      "streamUrl": "https://cast.thiff.com/proxy/laarmeni?mp=/stream",
+      "countryCode": "AM"
+    },
+    {
+      "id": "quran_radio_jo_jo_06e1ce",
+      "title": "Quran Radio (JO)",
+      "subtitle": "Quran",
+      "location": "Amman, Jordan",
+      "genre": "Devotional",
+      "streamUrl": "https://jrtv-live.ercdn.net/jrradio/quranradio.m3u8",
+      "countryCode": "JO"
+    },
+    {
+      "id": "101_1_big_heart_fm_mo",
+      "title": "101.1 BIG HEART FM",
+      "subtitle": "Variety / World Music",
+      "location": "Macao, SAR of China, Macao",
+      "genre": "World",
+      "streamUrl": "http://162.220.162.10:8011/stream",
+      "countryCode": "MO"
+    },
+    {
+      "id": "rb_hott_95_3fm_a71b4957",
+      "title": "HOTT 95.3FM",
+      "subtitle": "Reggae",
+      "location": "River Road, St. Michael, Barbados",
+      "genre": "Reggae",
+      "streamUrl": "https://ice64.securenetsystems.net/HOTT953",
+      "countryCode": "BB"
+    },
+    {
+      "id": "station_ye_7bac8cf0",
+      "title": "صوت المقاومة",
+      "subtitle": "News؛Talk",
+      "location": "Yemen",
+      "genre": "News؛Talk",
+      "streamUrl": "https://node-23.zeno.fm/b67qheuk54zuv",
+      "countryCode": "YE"
+    },
+    {
+      "id": "esdes_radio_mg",
+      "title": "ESDES Radio",
+      "subtitle": "Educational / Hits",
+      "location": "Antananarivo, Madagascar",
+      "genre": "Jazz",
+      "streamUrl": "https://esdesradio.netpro.tv/listen/esdes_radio/radio.mp3",
+      "countryCode": "MG"
+    },
+    {
+      "id": "radio_kledu_ml_880cb5",
+      "title": "Radio Kledu",
+      "subtitle": "African",
+      "location": "Mali",
+      "genre": "African",
+      "streamUrl": "https://stream.zeno.fm/f38bxpt3v2quv",
+      "countryCode": "ML"
+    },
+    {
+      "id": "kringvarp_f_roya_kvf_fo",
+      "title": "Kringvarp Føroya (KVF)",
+      "subtitle": "Faroe Islands / National",
+      "location": "The Faroe Islands",
+      "genre": "News",
+      "streamUrl": "http://netvarp.kringvarp.fo:443/uvhm",
+      "countryCode": "FO"
+    },
+    {
+      "id": "rb_radio_maria_kosovo_7b1f7dbb",
+      "title": "RADIO MARIA KOSOVO",
+      "subtitle": "Catholic, Religion",
+      "location": "Kosovo",
+      "genre": "Catholic",
+      "streamUrl": "http://dreamsiteradiocp2.com:8124/stream",
+      "countryCode": "XK"
+    },
+    {
+      "id": "unity_fm_905_lc",
+      "title": "Unity FM 905",
+      "subtitle": "News / Pop",
+      "location": "Castries, Saint Lucia",
+      "genre": "News",
+      "streamUrl": "http://centova12.instainternet.com:8192/;",
+      "countryCode": "LC"
+    },
+    {
+      "id": "rb_africa_radio_abidjan_0d7c9963",
+      "title": "Africa Radio Abidjan",
+      "subtitle": "African, News",
+      "location": "Coted Ivoire",
+      "genre": "African",
+      "streamUrl": "https://africaradio.ice.infomaniak.ch/abidjan128.mp3",
+      "countryCode": "CI"
+    },
+    {
+      "id": "fresh_fm_na",
+      "title": "Fresh FM",
+      "subtitle": "Hiphop / House",
+      "location": "Khomas Region, Namibia",
+      "genre": "Electronic",
+      "streamUrl": "https://edge.iono.fm/xice/192_medium.aac",
+      "countryCode": "NA"
+    },
+    {
+      "id": "rb2_kiss_fm_nederland_deee9775",
+      "title": "KISS FM Nederland",
+      "subtitle": "Hits, Pop Music",
+      "location": "Noord-Holland, Amsterdam, Bonaire",
+      "genre": "Hits",
+      "streamUrl": "https://stream.kissfm.nl/kissfm",
+      "countryCode": "BQ"
+    },
+    {
+      "id": "maxxi_guadeloupe_gp_d4b933a3",
+      "title": "MAXXI Guadeloupe",
+      "subtitle": "Antilles",
+      "location": "Guadeloupe",
+      "genre": "Antilles",
+      "streamUrl": "https://maxxi.studio/listen/maxxigp/radio.mp3",
+      "countryCode": "GP"
+    },
+    {
+      "id": "quran_radio_ali_alhuthaifi_kw_dd1a2e",
+      "title": "Quran Radio راديو القرآن - Ali Alhuthaifi - علي الحذيفي",
+      "subtitle": "Ali Alhuthaifi",
+      "location": "Kuwait City, Kuwait",
+      "genre": "Ali Alhuthaifi",
+      "streamUrl": "https://radio.mp3islam.com/listen/alhuthaifi/radio.mp3",
+      "countryCode": "KW"
+    },
+    {
+      "id": "calypso_radio_mt",
+      "title": "Calypso Radio",
+      "subtitle": "Music / Talk",
+      "location": "Malta",
+      "genre": "Talk",
+      "streamUrl": "https://s4.radio.co/sf3aa4c25a/listen",
+      "countryCode": "MT"
+    },
+    {
+      "id": "rb_radio_guyana_inc_georgetown_89_5_fm_esse_4fecec89",
+      "title": "Radio Guyana Inc - Georgetown 89.5 FM | Essequibo 89.3 FM | Berbice 89.7 FM",
+      "subtitle": "89.3 Fm, 89.5 Fm",
+      "location": "Georgetown, Guyana",
+      "genre": "89.3 Fm",
+      "streamUrl": "https://stream.radio.co/s9668e2ab5/listen",
+      "countryCode": "GY"
+    },
+    {
+      "id": "maxxi_martinique_mq_044d5784",
+      "title": "MAXXI Martinique",
+      "subtitle": "Antilles",
+      "location": "Martinique",
+      "genre": "Antilles",
+      "streamUrl": "https://maxxi.studio/listen/maxximq/radio.mp3",
+      "countryCode": "MQ"
+    },
+    {
+      "id": "boom_svg_106_9_vc",
+      "title": "Boom SVG 106.9",
+      "subtitle": "Hip-Hop / Reggae",
+      "location": "Kingstown, Saint Vincent And The Grenadines",
+      "genre": "Reggae",
+      "streamUrl": "https://streaming.shoutcast.com/boom106-9",
+      "countryCode": "VC"
+    },
+    {
+      "id": "s1lhoutte_rock_fm_as",
+      "title": "S1lhoutte - Rock FM",
+      "subtitle": "Rock",
+      "location": "Amersham, American Samoa",
+      "genre": "Rock",
+      "streamUrl": "http://rockfm.rockfm.com.tr:9450/",
+      "countryCode": "AS"
+    },
+    {
+      "id": "r_dio_f_angola_ao_e7ceea",
+      "title": "Rádio Fé Angola",
+      "subtitle": "Religião",
+      "location": "Angola, Angola",
+      "genre": "Religião",
+      "streamUrl": "http://stream-155.zeno.fm/gsndh1xvczetv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJnc25kaDF4dmN6ZXR2IiwiaG9zdCI6InN0cmVhbS0xNTUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoicm81MjdFal9TUi1xN1dwaXNVMFFIQSIsImlhdCI6MTc2ODQzNjI5OCwiZXhwIjoxNzY4NDM2MzU4fQ.8cwpv0x7PvZ-BypcPNxZU0KjySTsaVxXbVDcDhPsNow",
+      "countryCode": "AO"
+    },
+    {
+      "id": "groove100_fm_mw",
+      "title": "Groove100 FM",
+      "subtitle": "Hip-Hop / Rap",
+      "location": "Malawi",
+      "genre": "Hip-Hop",
+      "streamUrl": "https://stream.zeno.fm/0r0xa792kwzuv",
+      "countryCode": "MW"
+    },
+    {
+      "id": "gachi_station_3_aq",
       "title": "Gachi Station #3",
-      "subtitle": "Community",
+      "subtitle": "Community / Gachi",
       "location": "Antarctica",
-      "genre": "Community",
+      "genre": "Rock",
       "streamUrl": "https://stream.zeno.fm/cucqe20mixktv",
       "countryCode": "AQ"
     },
     {
-      "id": "omega_klas_radio_god_and_sports_jm_694a1569",
-      "title": "Omega KLAS Radio - God and Sports",
-      "subtitle": "Various",
-      "location": "Jamaica",
-      "genre": "Various",
-      "streamUrl": "https://stream.zeno.fm/4uw093pbyvduv",
-      "countryCode": "JM"
+      "id": "dr_dick_s_dub_shack_bm_2",
+      "title": "dr_dick's dub shack",
+      "subtitle": "Bass / Downtempo",
+      "location": "Hamilton, Bermuda",
+      "genre": "Electronic",
+      "streamUrl": "https://streamer.radio.co/s0635c8b0d/listen",
+      "countryCode": "BM"
     },
     {
-      "id": "now_radio_80s_gb_ace31d83",
-      "title": "NOW Radio 80s",
-      "subtitle": "80'S",
-      "location": "The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "80'S",
-      "streamUrl": "https://stream.zeno.fm/ihij6rdighvtv",
-      "countryCode": "GB"
+      "id": "brn_radio_arabic_channel_vi",
+      "title": "BRN Radio - Arabic Channel",
+      "subtitle": "Bible / Christian",
+      "location": "Virginia, US Virgin Islands",
+      "genre": "Devotional",
+      "streamUrl": "http://192.241.185.108:8094/stream",
+      "countryCode": "VI"
     },
     {
-      "id": "sneh_bhojpuri_in_014f8235",
-      "title": "Sneh bhojpuri",
-      "subtitle": "Sneh Bhojpuri",
-      "location": "India",
-      "genre": "Sneh Bhojpuri",
-      "streamUrl": "https://stream.zeno.fm/zqyhigwwo5mvv",
-      "countryCode": "IN"
+      "id": "rb_ldp_radio_053872d7",
+      "title": "LDP Radio",
+      "subtitle": "Khmer, Phnom Penh",
+      "location": "Cambodia",
+      "genre": "Khmer",
+      "streamUrl": "https://streaming.radio.co/sd48fd711d/listen",
+      "countryCode": "KH"
     },
     {
-      "id": "raxies_fm_cl_9d84741e",
-      "title": "Raxies FM",
-      "subtitle": "Edm",
-      "location": "Chile",
-      "genre": "Edm",
-      "streamUrl": "https://stream.zeno.fm/annpmyskb4jtv",
-      "countryCode": "CL"
+      "id": "pyongyang_radio_fm_kp",
+      "title": "Pyongyang Radio FM",
+      "subtitle": "News Music",
+      "location": "Pyongyang, The Democratic Peoples Republic Of Korea",
+      "genre": "News",
+      "streamUrl": "https://listen7.myradio24.com/69366",
+      "countryCode": "KP"
     },
     {
-      "id": "marymatharadio_in_390c2b17",
-      "title": "marymatharadio",
+      "id": "oriat_fm_uz",
+      "title": "Oriat FM",
+      "subtitle": "Hits / Russian Hits",
+      "location": "Uzbekistan",
+      "genre": "Pop",
+      "streamUrl": "http://194.5.152.248:8000/fm",
+      "countryCode": "UZ"
+    },
+    {
+      "id": "nouvelle_cal_donie_la_premi_re_nc",
+      "title": "Nouvelle-Calédonie La Première",
+      "subtitle": "Music / Talk",
+      "location": "Nouméa, New Caledonia",
+      "genre": "Talk",
+      "streamUrl": "https://nouvelle-caledonie.ice.infomaniak.ch/nouvelle-caledonie-128.mp3",
+      "countryCode": "NC"
+    },
+    {
+      "id": "hiti_fm_pf_2",
+      "title": "Hiti FM",
+      "subtitle": "Pop Music",
+      "location": "French Polynesia",
+      "genre": "Pop",
+      "streamUrl": "https://n01.radiojar.com/u0yz7p0mb.mp3",
+      "countryCode": "PF"
+    },
+    {
+      "id": "alive_live_music_radio_around_the_clock_24h_blue_im",
+      "title": "Alive - Live Music Radio around the clock (24h Blues, Rock, Pop)",
+      "subtitle": "Blues Rock / Classic Rock",
+      "location": "Isle Of Man",
+      "genre": "Jazz",
+      "streamUrl": "http://stream.laut.fm/alive",
+      "countryCode": "IM"
+    },
+    {
+      "id": "lclhst_r1_bs",
+      "title": "LCLHST R1",
+      "subtitle": "Electro Sets / Electronic",
+      "location": "The Bahamas",
+      "genre": "Electronic",
+      "streamUrl": "http://s1.radio.lclhst.net:1437/r1",
+      "countryCode": "BS"
+    },
+    {
+      "id": "radio_alhara_ps_d62fa5",
+      "title": "Radio alHara",
+      "subtitle": "Community Radio",
+      "location": "Bethlehem PA, State Of Palestine",
+      "genre": "Community Radio",
+      "streamUrl": "http://n02.radiojar.com/78cxy6wkxtzuv?1634328730=&rj-tok=AAABfIWfHK4AlWz8Q03vJJQdWw&rj-ttl=5",
+      "countryCode": "PS"
+    },
+    {
+      "id": "almunir_radio_benghazi_ly_12558ecc",
+      "title": "Almunir Radio – Benghazi",
+      "subtitle": "Quran",
+      "location": "Libya",
+      "genre": "Quran",
+      "streamUrl": "https://live.munir.ly/proxy/almunir/stream",
+      "countryCode": "LY"
+    },
+    {
+      "id": "radio_1_rw",
+      "title": "Radio 1",
+      "subtitle": "Local Music / News",
+      "location": "Kigali, Rwanda",
+      "genre": "News",
+      "streamUrl": "http://80.241.215.175:5000/;",
+      "countryCode": "RW"
+    },
+    {
+      "id": "radio_maria_togo_tg",
+      "title": "RADIO MARIA TOGO",
+      "subtitle": "Catholic / Catolica",
+      "location": "Togo",
+      "genre": "Talk",
+      "streamUrl": "http://dreamsiteradiocp.com:8050/stream",
+      "countryCode": "TG"
+    },
+    {
+      "id": "hot_fm_87_7_zm",
+      "title": "Hot FM 87.7",
+      "subtitle": "African Music / Zambian Music",
+      "location": "lusaka, Zambia",
+      "genre": "Music",
+      "streamUrl": "http://s2.yesstreaming.net:7091/stream?type=.mp3%2F%3Bstream.mp3&_=1",
+      "countryCode": "ZM"
+    },
+    {
+      "id": "bfbs_gibraltar_gi",
+      "title": "BFBS Gibraltar",
+      "subtitle": "British Forces / Pop",
+      "location": "Gibraltar",
+      "genre": "Pop",
+      "streamUrl": "http://edge-audio-03-gos2.sharp-stream.com/ssvcbfbs7.mp3",
+      "countryCode": "GI"
+    },
+    {
+      "id": "radio_monte_carlo_italia_mc",
+      "title": "Radio Monte Carlo Italia",
+      "subtitle": "Italian / Italian Oldies",
+      "location": "Monte Carlo, Monaco",
+      "genre": "Oldies",
+      "streamUrl": "https://icy.unitedradio.it/rmcweb005",
+      "countryCode": "MC"
+    },
+    {
+      "id": "magic_96_5_oranjestad_aw",
+      "title": "Magic 96.5 - Oranjestad",
+      "subtitle": "Latin Music / Oranjestad",
+      "location": "Aruba",
+      "genre": "Pop",
+      "streamUrl": "http://158.69.114.190:8072/;",
+      "countryCode": "AW"
+    },
+    {
+      "id": "tick_tock_radio_1992_io",
+      "title": "Tick Tock Radio - 1992",
+      "subtitle": "Music / Oldies",
+      "location": "Pangea, British Indian Ocean Territory",
+      "genre": "Oldies",
+      "streamUrl": "https://nl4.mystreaming.net/tt/1992/icecast.audio",
+      "countryCode": "IO"
+    },
+    {
+      "id": "coldstar_online_radio_high_quality_kg",
+      "title": "ColdStar.Online Radio (High quality)",
+      "subtitle": "Deep / House",
+      "location": "Kyrgyzstan",
+      "genre": "Electronic",
+      "streamUrl": "https://ice.coldstar.online/high.mp3",
+      "countryCode": "KG"
+    },
+    {
+      "id": "mongolian_music_radio_mn",
+      "title": "Mongolian Music Radio",
+      "subtitle": "Electro / Pop",
+      "location": "Web, Mongolia",
+      "genre": "Electronic",
+      "streamUrl": "http://65.108.143.81:7700/1",
+      "countryCode": "MN"
+    },
+    {
+      "id": "al_wisal_om",
+      "title": "Al Wisal",
+      "subtitle": "Arabic / Music",
+      "location": "Muscat, Oman",
+      "genre": "News",
+      "streamUrl": "http://uk7.internet-radio.com:8067/;",
+      "countryCode": "OM"
+    },
+    {
+      "id": "tch_ad",
+      "title": "tch",
+      "subtitle": "Classical",
+      "location": "Andorra",
+      "genre": "Classical",
+      "streamUrl": "http://node-01.zeno.fm/bwrw9xcgqeruv",
+      "countryCode": "AD"
+    },
+    {
+      "id": "antigua_observer_radio_91_1_st_john_s_ag",
+      "title": "Antigua Observer Radio 91.1 St. John's",
+      "subtitle": "Talk",
+      "location": "Antigua And Barbuda",
+      "genre": "Talk",
+      "streamUrl": "http://s8.voscast.com:8176/;",
+      "countryCode": "AG"
+    },
+    {
+      "id": "dbs_radio_dm",
+      "title": "DBS Radio",
+      "subtitle": "MP3 96kbps",
+      "location": "Roseau, Dominica",
+      "genre": "Music",
+      "streamUrl": "https://stream.dbcradio.net:8005/live",
+      "countryCode": "DM"
+    },
+    {
+      "id": "paradise_radio_ky_2",
+      "title": "Paradise Radio",
+      "subtitle": "24/7 / Dance",
+      "location": "grand cayman island, The Cayman Islands",
+      "genre": "Electronic",
+      "streamUrl": "https://radiostreamcast.com/listen/paradise_radio/radio.mp3",
+      "countryCode": "KY"
+    },
+    {
+      "id": "radio_apintie_sr_cc9051",
+      "title": "Radio Apintie",
       "subtitle": "Radio",
-      "location": "India",
+      "location": "Paramaribo, Suriname",
       "genre": "Radio",
-      "streamUrl": "https://stream.zeno.fm/g5ay9q4dgrruv",
-      "countryCode": "IN"
+      "streamUrl": "http://surilive.com:8000/str",
+      "countryCode": "SR"
     },
     {
-      "id": "funk2disco_us_7f4301f2",
-      "title": "FUNK2DISCO",
-      "subtitle": "Disco",
-      "location": "The United States Of America",
-      "genre": "Disco",
-      "streamUrl": "https://stream.zeno.fm/ck78w00p97zuv",
-      "countryCode": "US"
+      "id": "radio_biwi_inter_bf",
+      "title": "Radio Biwi Inter",
+      "subtitle": "MP3 128kbps",
+      "location": "Groupe BZ, Burkina Faso",
+      "genre": "Music",
+      "streamUrl": "https://sonic.mediacp.eu/8040/;",
+      "countryCode": "BF"
     },
     {
-      "id": "bhagavad_gita_radio_in_1c3a25bc",
-      "title": "Bhagavad Gita Radio",
-      "subtitle": "Bhagvadgita Radio",
-      "location": "India",
-      "genre": "Bhagvadgita Radio",
-      "streamUrl": "https://stream.zeno.fm/pg7cf4xyw8quv",
-      "countryCode": "IN"
+      "id": "ortb_radio_b_nin_bj",
+      "title": "ORTB Radio Bénin",
+      "subtitle": "News",
+      "location": "Benin",
+      "genre": "News",
+      "streamUrl": "https://listen.radioking.com/radio/47608/stream/84430",
+      "countryCode": "BJ"
     },
     {
-      "id": "r_dio_z_ramalho_br_2e102759",
-      "title": "Rádio Zé Ramalho",
-      "subtitle": "Forro",
-      "location": "Brazil",
-      "genre": "Forro",
-      "streamUrl": "https://stream.zeno.fm/qnx6k0pfmxhvv",
-      "countryCode": "BR"
+      "id": "grandes_cl_ssicos_da_m_sica_mo_ambicana_mz_2",
+      "title": "Grandes Clássicos da Música Moçambicana",
+      "subtitle": "R&B/Urban",
+      "location": "Mozambique",
+      "genre": "Music",
+      "streamUrl": "https://stream-177.zeno.fm/bm29ouxe0hrtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJibTI5b3V4ZTBocnR2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiUFF5eUJmenVSeFdVLTVWUElxLTZ4dyIsImlhdCI6MTc2ODQ2NDMzMywiZXhwIjoxNzY4NDY0MzkzfQ.YCQS__g2toDUabWuM9kqb9cC7VDyHTTtkJ4mgWPLmIo",
+      "countryCode": "MZ"
     },
     {
-      "id": "korean_love_de_2c11a5da",
-      "title": "korean love",
+      "id": "rb_radioalfa_tropical5_bf24423b",
+      "title": "radioalfa tropical5",
+      "subtitle": "University Radio",
+      "location": "Vanuatu",
+      "genre": "University Radio",
+      "streamUrl": "http://stream.zeno.fm/x9y4ytkavqzuv",
+      "countryCode": "VU"
+    },
+    {
+      "id": "boss_fm_104_1_104_9_grenada_gd",
+      "title": "Boss FM 104.1-104.9 - Grenada",
+      "subtitle": "Caribbean / Reggae",
+      "location": "St. George's, Grenada",
+      "genre": "Talk",
+      "streamUrl": "https://usa8.fastcast4u.com/proxy/bossfm2?mp=/1",
+      "countryCode": "GD"
+    },
+    {
+      "id": "knr_live_radio_gl",
+      "title": "KNR Live Radio",
+      "subtitle": "MP3 192kbps",
+      "location": "Greenland",
+      "genre": "Music",
+      "streamUrl": "https://i1.cdn.jetstre.am:8000/sz=knr=audio192?token=ea282bc02bb373156231dd1522a33943&time=6a184ec2",
+      "countryCode": "GL"
+    },
+    {
+      "id": "2020_vision_radio_kn",
+      "title": "2020 Vision Radio",
+      "subtitle": "MP3 320kbps",
+      "location": "Saint Kitts And Nevis",
+      "genre": "Music",
+      "streamUrl": "http://perseus.shoutca.st:8218/;",
+      "countryCode": "KN"
+    },
+    {
+      "id": "asyil_fm_bn",
+      "title": "Asyil FM",
+      "subtitle": "Islamic",
+      "location": "Brunei Darussalam",
+      "genre": "Devotional",
+      "streamUrl": "http://playerservices.streamtheworld.com/api/livestream-redirect/ASYIK_FMAAC_SC",
+      "countryCode": "BN"
+    },
+    {
+      "id": "cherry_fm_mm",
+      "title": "Cherry FM",
+      "subtitle": "Music Pop / Music Variety",
+      "location": "Shan, Myanmar",
+      "genre": "Pop",
+      "streamUrl": "https://cherry.akiyaresearch.com:444/stream/89/",
+      "countryCode": "MM"
+    },
+    {
+      "id": "dhivehi_fm_mv",
+      "title": "Dhivehi FM",
+      "subtitle": "MP3 128kbps",
+      "location": "Maldives",
+      "genre": "Music",
+      "streamUrl": "https://radio.psm.mv/fmair",
+      "countryCode": "MV"
+    },
+    {
+      "id": "rb_u_ur_zt_rk_6e5eaddc",
+      "title": "Uğur Öztürk",
+      "subtitle": "Greek Folk Music, Türk Halk Müziği",
+      "location": "kocaeli, Turkmenistan",
+      "genre": "Greek Folk Music",
+      "streamUrl": "https://eu8.fastcast4u.com/proxy/ugur4129?mp=/1",
+      "countryCode": "TM"
+    },
+    {
+      "id": "dumafm_bw",
+      "title": "DumaFM",
+      "subtitle": "African Music",
+      "location": "Botswana",
+      "genre": "Music",
+      "streamUrl": "http://s3.voscast.com:10076/;",
+      "countryCode": "BW"
+    },
+    {
+      "id": "radio_ndeke_luka_fm_cf",
+      "title": "Radio Ndeke Luka FM",
+      "subtitle": "Talk",
+      "location": "The Central African Republic",
+      "genre": "Talk",
+      "streamUrl": "http://stream.radiondekeluka.org:8001/ndekeluka",
+      "countryCode": "CF"
+    },
+    {
+      "id": "balla_radio_cm",
+      "title": "Balla Radio",
+      "subtitle": "African Music",
+      "location": "Cameroon",
+      "genre": "Music",
+      "streamUrl": "http://167.114.11.79:5730/;stream/1",
+      "countryCode": "CM"
+    },
+    {
+      "id": "hawa_al_sudan_sd_3c17c3de",
+      "title": "HAWA al Sudan",
+      "subtitle": "Sudanese Varieties Radio",
+      "location": "The Sudan",
+      "genre": "Sudanese Varieties Radio",
+      "streamUrl": "https://stream.zeno.fm/mqctx1bfd8zuv",
+      "countryCode": "SD"
+    },
+    {
+      "id": "mayotte_la_1_re_yt_2",
+      "title": "Mayotte La 1ère",
+      "subtitle": "MP3 128kbps",
+      "location": "Haut-Vallon, Mayotte",
+      "genre": "Music",
+      "streamUrl": "http://mayotte.ice.infomaniak.ch/mayotte-128.mp3",
+      "countryCode": "YT"
+    },
+    {
+      "id": "capitalk_100_4fm_harare_zw",
+      "title": "Capitalk 100.4FM Harare",
+      "subtitle": "African Music",
+      "location": "Harare, Zimbabwe",
+      "genre": "Music",
+      "streamUrl": "https://edge.iono.fm/xice/162_medium.aac",
+      "countryCode": "ZW"
+    },
+    {
+      "id": "lgf_talk_guinee_gn_6ee2c838",
+      "title": "LGF TALK GUINEE",
       "subtitle": "Radio",
-      "location": "Germany",
+      "location": "Guinea",
       "genre": "Radio",
-      "streamUrl": "https://stream-288.zeno.fm/0gmdtr2rsf9uv",
+      "streamUrl": "https://stream.zeno.fm/xirmzwnnpintv",
+      "countryCode": "GN"
+    },
+    {
+      "id": "kusg_gu",
+      "title": "KUSG",
+      "subtitle": "News / Talk",
+      "location": "Guam",
+      "genre": "News",
+      "streamUrl": "https://ice10.securenetsystems.net/KUSG",
+      "countryCode": "GU"
+    },
+    {
+      "id": "antenna_web_tonga_to",
+      "title": "Antenna Web Tonga",
+      "subtitle": "Mrcrosby / Music",
+      "location": "Nuku'alofa, Tonga",
+      "genre": "Pop",
+      "streamUrl": "https://halo.streamerr.co/listen/italiavera/stream.mp3",
+      "countryCode": "TO"
+    },
+    {
+      "id": "wrno_hd2_throwback_96_3_fm_ai",
+      "title": "WRNO-HD2 Throwback 96.3 FM",
+      "subtitle": "00S / 90S",
+      "location": "Anguilla",
+      "genre": "Pop",
+      "streamUrl": "http://stream.revma.ihrhls.com/zc5873",
+      "countryCode": "AI"
+    },
+    {
+      "id": "krem_radio_bz",
+      "title": "Krem Radio",
+      "subtitle": "Music / Talk",
+      "location": "Belize",
+      "genre": "Talk",
+      "streamUrl": "http://159.65.32.199:8016/;",
+      "countryCode": "BZ"
+    },
+    {
+      "id": "bfbs_falklands_fk",
+      "title": "BFBS Falklands",
+      "subtitle": "Bfbs / Contemporary",
+      "location": "stanley, The Falkland Islands Malvinas",
+      "genre": "Talk",
+      "streamUrl": "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs6.aac",
+      "countryCode": "FK"
+    },
+    {
+      "id": "lao_national_radio_94_3_la",
+      "title": "Lao National Radio 94.3",
+      "subtitle": "MP3 128kbps",
+      "location": "The Lao Peoples Democratic Republic",
+      "genre": "Music",
+      "streamUrl": "https://radio.lnr.org.la/fm94",
+      "countryCode": "LA"
+    },
+    {
+      "id": "radio_maria_burundi_bi",
+      "title": "RADIO MARIA BURUNDI",
+      "subtitle": "Catholic / Catholic Radio",
+      "location": "Burundi",
+      "genre": "Talk",
+      "streamUrl": "http://dreamsiteradiocp.com:8058/stream",
+      "countryCode": "BI"
+    },
+    {
+      "id": "radio_chifa_km",
+      "title": "Radio Chifa",
+      "subtitle": "OGG 0kbps",
+      "location": "The Comoros",
+      "genre": "Music",
+      "streamUrl": "http://164.132.107.52:8000/main",
+      "countryCode": "KM"
+    },
+    {
+      "id": "radio_blau_leipzig_trocken_320kbps_ne",
+      "title": "Radio BLAU Leipzig (trocken 320kbps)",
+      "subtitle": "Amateurfunk / Bürgerradio",
+      "location": "Suisse Romande, The Niger",
+      "genre": "R&B",
+      "streamUrl": "http://icecast.radioblau.de:8000/blau_320_dry",
+      "countryCode": "NE"
+    },
+    {
+      "id": "saint_fm_sh",
+      "title": "Saint.FM",
+      "subtitle": "Community Radio",
+      "location": "Ascension And Tristan Da Cunha Saint Helena",
+      "genre": "Music",
+      "streamUrl": "https://orbit.citrus3.com:8306/stream",
+      "countryCode": "SH"
+    },
+    {
+      "id": "idaacadda_subaxnimo_voa_so",
+      "title": "Idaacadda Subaxnimo VOA",
+      "subtitle": "News",
+      "location": "Somalia",
+      "genre": "News",
+      "streamUrl": "https://av.voanews.com/clips/VSO/2021/04/29/20210429-033000-VSO065-program_48k.mp3",
+      "countryCode": "SO"
+    },
+    {
+      "id": "radio_south_sudan_ss_7875c0ae",
+      "title": "Radio south sudan",
+      "subtitle": "Information",
+      "location": "South Sudan",
+      "genre": "Information",
+      "streamUrl": "https://stream2.svrdedicado.org/8056/stream",
+      "countryCode": "SS"
+    },
+    {
+      "id": "offworld_radio_mh",
+      "title": "Offworld Radio",
+      "subtitle": "House / Techno",
+      "location": "Cork, The Marshall Islands",
+      "genre": "Electronic",
+      "streamUrl": "https://a4.asurahosting.com:7310/radio.mp3",
+      "countryCode": "MH"
+    },
+    {
+      "id": "maxxima_nu",
+      "title": "MaXXima",
+      "subtitle": "OGG 700kbps",
+      "location": "Niue",
+      "genre": "Music",
+      "streamUrl": "http://maxxima.mine.nu:8000/maxx.ogg",
+      "countryCode": "NU"
+    },
+    {
+      "id": "sensuelle_radio_tf",
+      "title": "sensuelle radio",
+      "subtitle": "MP3 320kbps",
+      "location": "reunion, The French Southern Territories",
+      "genre": "Music",
+      "streamUrl": "https://forwardmystream.com/sensuelleradio",
+      "countryCode": "TF"
+    },
+    {
+      "id": "channel_103_je",
+      "title": "Channel 103",
+      "subtitle": "Hits / Local",
+      "location": "Bailiwick of Jersey, Jersey",
+      "genre": "Pop",
+      "streamUrl": "https://n02-eu.rcs.revma.com/1b7wddebanzuv?rj-ttl=5&rj-tok=AAABnuSkRnsAKAPV9xwJDgAhEA&rp_source=1&___cb=931531437397347",
+      "countryCode": "JE"
+    },
+    {
+      "id": "archipel_fm_spm_975_103_3_pm",
+      "title": "Archipel FM SPM (975) 103.3",
+      "subtitle": "Public Radio",
+      "location": "France, Saint Pierre And Miquelon",
+      "genre": "Music",
+      "streamUrl": "http://radioarchipelfm.ice.infomaniak.ch/radioarchipelfm-64.mp3?token=a73d3f78786d4e7faba5a9e35eaed5bb%2Fe5c8c5d1?retry=0",
+      "countryCode": "PM"
+    },
+    {
+      "id": "soggy_dollar_radio_vg",
+      "title": "Soggy Dollar Radio",
+      "subtitle": "MP3 192kbps",
+      "location": "Jost, British Virgin Islands",
+      "genre": "Music",
+      "streamUrl": "https://samcloud.spacial.com/api/listen?sid=71281",
+      "countryCode": "VG"
+    },
+    {
+      "id": "radio_maria_democratic_rep_congo_cg",
+      "title": "Radio Maria Democratic Rep. Congo",
+      "subtitle": "AAC+ 64kbps",
+      "location": "The Congo",
+      "genre": "Music",
+      "streamUrl": "https://dreamsiteradiocp2.com/proxy/rmrepdemcongo?mp=/stream",
+      "countryCode": "CG"
+    },
+    {
+      "id": "eben_radio_ga",
+      "title": "EBEN RADIO",
+      "subtitle": "MP3 128kbps",
+      "location": "Gabon",
+      "genre": "Music",
+      "streamUrl": "http://s8.voscast.com:7558/;stream.ogg",
+      "countryCode": "GA"
+    },
+    {
+      "id": "r_dio_voz_da_guin_gw",
+      "title": "Rádio Voz da Guiné",
+      "subtitle": "African Music",
+      "location": "Guinea Bissau",
+      "genre": "Music",
+      "streamUrl": "https://stream-179.zeno.fm/iwioelqe6qwtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJpd2lvZWxxZTZxd3R2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoicVpxdXZZMzFSUUNvN2J1SmxsUklWdyIsImlhdCI6MTc2ODQzNjQ3NSwiZXhwIjoxNzY4NDM2NTM1fQ.hHtFTV1kLjF7sjmHCGvmVtddxNmP-QKpaerZkzRTZeQ",
+      "countryCode": "GW"
+    },
+    {
+      "id": "radio_tchad_td",
+      "title": "Radio Tchad",
+      "subtitle": "African Music",
+      "location": "Chad",
+      "genre": "Music",
+      "streamUrl": "https://strhls.streamakaci.tv/str_tchad_radio/str_tchad_radio/icecast.audio?fbclid=IwAR32Ir_eHaV-HSrh46OVT_VeTZt5KoNggoq8qzeSiAeZTJNBKKUtsSNUtcY",
+      "countryCode": "TD"
+    },
+    {
+      "id": "upbeat_radio_pw",
+      "title": "UpBeat Radio",
+      "subtitle": "MP3 192kbps",
+      "location": "Palau",
+      "genre": "Music",
+      "streamUrl": "https://live.upbeat.pw/",
+      "countryCode": "PW"
+    },
+    {
+      "id": "wallis_futuna_1_wf",
+      "title": "Wallis & Futuna 1",
+      "subtitle": "Folk / News",
+      "location": "Wallis And Futuna",
+      "genre": "News",
+      "streamUrl": "https://wallisetfutuna.ice.infomaniak.ch/wallisetfutuna-128.mp3",
+      "countryCode": "WF"
+    },
+    {
+      "id": "tropik_fm_live_st_barth_sx",
+      "title": "Tropik FM Live St Barth",
+      "subtitle": "MP3 128kbps",
+      "location": "Guadeloupe, Dutch Part Sint Maarten",
+      "genre": "Music",
+      "streamUrl": "https://stream10.vestaradio.com/TROPIKFM",
+      "countryCode": "SX"
+    },
+    {
+      "id": "rb_lands_radio_a940d9eb",
+      "title": "Ålands Radio",
+      "subtitle": "Radio",
+      "location": "Aland Islands",
+      "genre": "Radio",
+      "streamUrl": "https://stream.alandsradio.ax/stream.ogg",
+      "countryCode": "AX"
+    },
+    {
+      "id": "riduna_radio_com_gg",
+      "title": "Riduna-radio.com",
+      "subtitle": "Country / Local News",
+      "location": "Alderney, Guernsey",
+      "genre": "News",
+      "streamUrl": "https://stream.radio.co/sa70b464db/listen",
+      "countryCode": "GG"
+    },
+    {
+      "id": "radio_vaterland_li",
+      "title": "Radio Vaterland",
+      "subtitle": "MP3 0kbps",
+      "location": "Liechtenstein",
+      "genre": "Music",
+      "streamUrl": "https://radiostream.radiobutler.com/7e9d5eb6-9249-4c7a-9f1c-6d4b9c7a48a8",
+      "countryCode": "LI"
+    },
+    {
+      "id": "zjb_radio_ms",
+      "title": "ZJB Radio",
+      "subtitle": "MP3 0kbps",
+      "location": "Montserrat",
+      "genre": "Music",
+      "streamUrl": "https://stream.radiojar.com/mmbg3hfk2v8uv",
+      "countryCode": "MS"
+    },
+    {
+      "id": "la_ochentera_91_9_fm_cc",
+      "title": "LA OCHENTERA 91.9 FM",
+      "subtitle": "1980S / 80S",
+      "location": "Medellin, The Cocos Keeling Islands",
+      "genre": "Oldies",
+      "streamUrl": "https://tupanel.info:8018/stream",
+      "countryCode": "CC"
+    },
+    {
+      "id": "navidad_grupera_cx",
+      "title": "Navidad Grupera",
+      "subtitle": "Música Navideña",
+      "location": "Christmas Island",
+      "genre": "Music",
+      "streamUrl": "https://radioforte.com/8006/stream",
+      "countryCode": "CX"
+    },
+    {
+      "id": "053_radio_nl",
+      "title": "053 Radio",
+      "subtitle": "053 Radio / Enschede",
+      "location": "Twente, The Netherlands",
+      "genre": "Pop",
+      "streamUrl": "https://stream.053radio.nl/053radio.mp3",
+      "countryCode": "NL"
+    },
+    {
+      "id": "rb2_24dubstep_pl_dropzone_radio_8be21138",
+      "title": "24Dubstep.pl || DropZone Radio",
+      "subtitle": "Dnb, Drill",
+      "location": "Pomorskie, Poland",
+      "genre": "Dnb",
+      "streamUrl": "https://stream.24dubstep.pl/radio/8000/mp3_normal",
+      "countryCode": "PL"
+    },
+    {
+      "id": "1_fm_deep_techno_deep_house_ch_0ac7f5",
+      "title": "1.FM - Deep Techno & Deep House",
+      "subtitle": "Deep House",
+      "location": "Zürich, Switzerland",
+      "genre": "Deep House",
+      "streamUrl": "http://strm112.1.fm/deeptech_mobile_mp3",
+      "countryCode": "CH"
+    },
+    {
+      "id": "blues_rock_radio_ua",
+      "title": "Blues & Rock Radio",
+      "subtitle": "Blues / Blues Rock",
+      "location": "Chernivtsi, Ukraine",
+      "genre": "Jazz",
+      "streamUrl": "http://stream.laut.fm/bluesrock",
+      "countryCode": "UA"
+    },
+    {
+      "id": "deejay_mixes_de",
+      "title": "!DEEJAY MIXES!",
+      "subtitle": "Chillout / Chillout+Lounge",
+      "location": "Deutschland und NRW, Germany",
+      "genre": "Electronic",
+      "streamUrl": "https://breakz-high.rautemusik.fm/?ref=radiobrowser-deejay",
       "countryCode": "DE"
     },
     {
-      "id": "hot_110_1_fm_plus_us_6948f262",
-      "title": "Hot 110.1 Fm Plus",
-      "subtitle": "Classic",
-      "location": "The United States Of America",
-      "genre": "Classic",
-      "streamUrl": "https://stream.zeno.fm/miw8qckesxnvv",
+      "id": "radio_mojahed_ir_c4f39a",
+      "title": "Radio Mojahed - رادیو مجاهد",
+      "subtitle": "Iran",
+      "location": "Tehran, Islamic Republic Of Iran",
+      "genre": "Iran",
+      "streamUrl": "https://s2.radio.co/s830691c74/listen",
+      "countryCode": "IR"
+    },
+    {
+      "id": "iconic_nts_radio",
+      "title": "NTS Radio",
+      "subtitle": "Underground & Eclectic — London",
+      "location": "London, United Kingdom",
+      "genre": "Underground",
+      "streamUrl": "http://stream-relay-geo.ntslive.net/stream",
+      "countryCode": "GB"
+    },
+    {
+      "id": "rb2_87_5_nantes_038c8fb4",
+      "title": "..87,5!. Nantes",
+      "subtitle": "Alternative, Alternative Rock",
+      "location": "Nantes, France",
+      "genre": "Alternative",
+      "streamUrl": "https://listen.radioking.com/radio/15130/stream/28217",
+      "countryCode": "FR"
+    },
+    {
+      "id": "res_ru",
+      "title": "(( RES ))",
+      "subtitle": "Drum & Bass / Drum And Bass",
+      "location": "Tatarstan, The Russian Federation",
+      "genre": "Electronic",
+      "streamUrl": "https://res.lirz.ru/listen/res/radio.mp3",
+      "countryCode": "RU"
+    },
+    {
+      "id": "iconic_kexp",
+      "title": "KEXP 90.3 FM",
+      "subtitle": "Indie & Alternative — Seattle",
+      "location": "Seattle, United States",
+      "genre": "Alternative",
+      "streamUrl": "https://kexp-mp3-128.streamguys1.com/kexp128.mp3",
       "countryCode": "US"
     },
     {
-      "id": "canal_105_1_fm_do_c6f22380",
-      "title": "Canal 105.1 FM",
-      "subtitle": "Entretenimiento",
-      "location": "The Dominican Republic",
-      "genre": "Entretenimiento",
-      "streamUrl": "https://stream.zeno.fm/b94afcu8na0uv",
-      "countryCode": "DO"
+      "id": "rb2_asiafm_b0529003",
+      "title": "AsiaFM安岳综合广播",
+      "subtitle": "Information, Music",
+      "location": "Szechuan, China",
+      "genre": "Information",
+      "streamUrl": "https://lhttp-hw.qtfm.cn/live/5022417/64k.mp3",
+      "countryCode": "CN"
     },
     {
-      "id": "dance_anos_90_br_3b450fcc",
-      "title": "Dance Anos 90",
-      "subtitle": "Dance",
-      "location": "Brazil",
-      "genre": "Dance",
-      "streamUrl": "https://stream-287.zeno.fm/zx9h2b61u8quv",
-      "countryCode": "BR"
+      "id": "rb2_100_fm_radio_1_874b5bee",
+      "title": "100 FM Radio 1",
+      "subtitle": "Oldies, Pop",
+      "location": "Serres, Greece",
+      "genre": "Oldies",
+      "streamUrl": "http://s3.onweb.gr:8814/;",
+      "countryCode": "GR"
     },
     {
-      "id": "disney_songs_us_6dc95f97",
-      "title": "Disney songs",
-      "subtitle": "Disney",
-      "location": "The United States Of America",
-      "genre": "Disney",
-      "streamUrl": "https://stream-176.zeno.fm/0udrp1s5ojuuv",
-      "countryCode": "US"
+      "id": "rb2_101_fm_logan_101_1_fm_mp3_a3b4947e",
+      "title": "101 FM - Logan - 101.1 FM (MP3)",
+      "subtitle": "Community Radio, Miscellaneous",
+      "location": "Queensland, Australia",
+      "genre": "Community Radio",
+      "streamUrl": "http://playerservices.streamtheworld.com/api/livestream-redirect/4CBL.mp3",
+      "countryCode": "AU"
     },
     {
-      "id": "super_manele_ro_1753a378",
-      "title": "Super Manele",
-      "subtitle": "Manele",
-      "location": "Romania",
-      "genre": "Manele",
-      "streamUrl": "https://stream.zeno.fm/w8461rwck5zuv",
-      "countryCode": "RO"
-    },
-    {
-      "id": "guarida_hip_hop_co_90487ec9",
-      "title": "Guarida Hip Hop",
-      "subtitle": "2000S",
-      "location": "Colombia",
-      "genre": "2000S",
-      "streamUrl": "https://stream.zeno.fm/ukum8z9cmvduv",
-      "countryCode": "CO"
-    },
-    {
-      "id": "96_kool_fm_ca_0ec053e8",
-      "title": "96 KOOL FM",
-      "subtitle": "Kpop",
-      "location": "Canada",
-      "genre": "Kpop",
-      "streamUrl": "https://stream.zeno.fm/97qzdqafuqzuv",
-      "countryCode": "CA"
-    },
-    {
-      "id": "vallenata_stereo_co_65d56c1d",
-      "title": "vallenata stereo",
-      "subtitle": "Music",
-      "location": "Colombia",
-      "genre": "Music",
-      "streamUrl": "https://stream.zeno.fm/08qxk717fd0uv",
-      "countryCode": "CO"
-    },
-    {
-      "id": "107_1_retro_dwkr_fm_ph_d989af3c",
-      "title": "107.1 RETRO DWKR-FM",
-      "subtitle": "Classic Hits",
-      "location": "The Philippines",
-      "genre": "Classic Hits",
-      "streamUrl": "https://stream-178.zeno.fm/r8pmp16khf9uv",
-      "countryCode": "PH"
-    },
-    {
-      "id": "radio_sicilia_city_it_3c97c972",
-      "title": "Radio Sicilia City",
-      "subtitle": "Dance",
-      "location": "Italy",
-      "genre": "Dance",
-      "streamUrl": "https://stream.zeno.fm/s6pa1g7bup8uv",
+      "id": "50s_60s_retro_hits_it",
+      "title": "50s 60s RETRO HITS",
+      "subtitle": "50S / 60S",
+      "location": "Lazio, Italy",
+      "genre": "News",
+      "streamUrl": "https://stream.zeno.fm/pxzwykxbluitv",
       "countryCode": "IT"
     },
     {
-      "id": "tamil_amuthu_nellai_radio_in_de66f545",
-      "title": "tamil-amuthu-nellai-radio",
-      "subtitle": "Radio",
-      "location": "India",
-      "genre": "Radio",
-      "streamUrl": "https://stream.zeno.fm/gdkvpstgtp8uv",
-      "countryCode": "IN"
+      "id": "acceso_total_mexicali_online_www_eltoquefm_com_e_mx",
+      "title": "+Acceso Total (Mexicali) - Online - www.eltoquefm.com - El Toque FM - Mexicali, Baja California",
+      "subtitle": "Acceso Total / América",
+      "location": "Mexicali, Baja California, Mexico",
+      "genre": "Pop",
+      "streamUrl": "https://us10a.serverse.com/proxy/acce8712?mp=/;",
+      "countryCode": "MX"
     },
     {
-      "id": "halaal_media_et_15440620",
-      "title": "Halaal Media",
-      "subtitle": "Radio",
-      "location": "Ethiopia",
-      "genre": "Radio",
-      "streamUrl": "https://stream.zeno.fm/rqx24qj7offvv",
-      "countryCode": "ET"
-    },
-    {
-      "id": "vocaloplus_vocaloid_more_cl_8c943026",
-      "title": "VocaloPlus! Vocaloid & More",
-      "subtitle": "Anime",
-      "location": "Chile",
-      "genre": "Anime",
-      "streamUrl": "http://link.zeno.fm/h77s0pfrcseuv/source",
-      "countryCode": "CL"
-    },
-    {
-      "id": "kakarela_fm_za_df4ee239",
-      "title": "Kakarela FM",
-      "subtitle": "News Talk Music",
-      "location": "South Africa",
-      "genre": "News Talk Music",
-      "streamUrl": "https://stream.zeno.fm/845opvifkhytv",
-      "countryCode": "ZA"
-    },
-    {
-      "id": "tbc_radio_88_5_fm_jm_fafa9125",
-      "title": "TBC Radio 88.5 FM",
-      "subtitle": "Religious",
-      "location": "Jamaica",
-      "genre": "Religious",
-      "streamUrl": "https://stream.zeno.fm/004dvn2qqy5tv",
-      "countryCode": "JM"
-    },
-    {
-      "id": "105_5_radyo_gwapito_ph_b2885c94",
-      "title": "105.5 Radyo Gwapito",
-      "subtitle": "Music",
-      "location": "The Philippines",
-      "genre": "Music",
-      "streamUrl": "https://stream-179.zeno.fm/b1vknfz1yedvv",
-      "countryCode": "PH"
-    },
-    {
-      "id": "smile_fm_romania_c_l_ra_i_olteni_a_ro_88e6d88d",
-      "title": "Smile FM Romania -Călărași-Oltenița",
-      "subtitle": "Manele",
-      "location": "Romania",
-      "genre": "Manele",
-      "streamUrl": "https://stream.zeno.fm/eexnxpddu0hvv",
-      "countryCode": "RO"
-    },
-    {
-      "id": "pechichon_radio_vallenato_co_7d9f28b8",
-      "title": "Pechichon Radio Vallenato",
-      "subtitle": "Music",
-      "location": "Colombia",
-      "genre": "Music",
-      "streamUrl": "https://stream.zeno.fm/1h4etup3cveuv",
-      "countryCode": "CO"
-    },
-    {
-      "id": "88_5_whhc_hd1_us_1f3121d9",
-      "title": "88.5 WHHC HD1",
-      "subtitle": "00S",
-      "location": "The United States Of America",
-      "genre": "00S",
-      "streamUrl": "https://stream.zeno.fm/6bmg275cmf9uv",
-      "countryCode": "US"
-    },
-    {
-      "id": "nationwide_radio_90_fm_jm_91979f3c",
-      "title": "Nationwide Radio 90 FM",
-      "subtitle": "Various",
-      "location": "Jamaica",
-      "genre": "Various",
-      "streamUrl": "https://stream.zeno.fm/sx58ugee4s5tv",
-      "countryCode": "JM"
-    },
-    {
-      "id": "sompa_106_5fm_accra_gh_ab913747",
-      "title": "Sompa 106.5FM Accra",
-      "subtitle": "Highife",
-      "location": "Ghana",
-      "genre": "Highife",
-      "streamUrl": "https://stream-281.zeno.fm/55sg1lh4pqquv",
-      "countryCode": "GH"
-    },
-    {
-      "id": "diciembre_radio_colombia_co_86d4d5c5",
-      "title": "Diciembre Radio Colombia",
-      "subtitle": "Christmas Music",
-      "location": "Colombia",
-      "genre": "Christmas Music",
-      "streamUrl": "https://stream.zeno.fm/8mklmefaucjuv",
-      "countryCode": "CO"
-    },
-    {
-      "id": "mohanhits_in_00611032",
-      "title": "mohanhits",
-      "subtitle": "Radio",
-      "location": "India",
-      "genre": "Radio",
-      "streamUrl": "https://stream.zeno.fm/wkqvzsg1238uv",
-      "countryCode": "IN"
-    },
-    {
-      "id": "eurodance_weebly_3_br_18cfb848",
-      "title": "Eurodance Weebly 3",
-      "subtitle": "Eurodance",
-      "location": "Brazil",
-      "genre": "Eurodance",
-      "streamUrl": "https://stream-281.zeno.fm/pdgmg8eu8k0uv",
+      "id": "105_fm_sp_br_f3e828",
+      "title": "105 FM - SP",
+      "subtitle": "Pagode",
+      "location": "Sao Paulo (Brazil), Brazil",
+      "genre": "Hip Hop",
+      "streamUrl": "http://www.appradio.app:8010//live",
       "countryCode": "BR"
     },
     {
-      "id": "amor_stereo_co_6b0a2bf4",
-      "title": "Amor Stereo",
-      "subtitle": "Radio",
-      "location": "Colombia",
-      "genre": "Radio",
-      "streamUrl": "https://stream.zeno.fm/aycnet07h0hvv",
+      "id": "rb2_90_radio_fm_90_1_80ff4af6",
+      "title": "90 Radio (FM 90.1)",
+      "subtitle": "Hits, Latino Urbano",
+      "location": "Córdoba, Argentina",
+      "genre": "Hits",
+      "streamUrl": "http://sonicpanel.hostradios.com:8108/;",
+      "countryCode": "AR"
+    },
+    {
+      "id": "rb2_boomerang_40_s_203506db",
+      "title": "Boomerang 40's",
+      "subtitle": "1940S",
+      "location": "Dubai, The United Arab Emirates",
+      "genre": "1940S",
+      "streamUrl": "https://nl4.mystreaming.net/uber/boomerang1940s/icecast.audio",
+      "countryCode": "AE"
+    },
+    {
+      "id": "88_9_super_estaci_n_co",
+      "title": "88.9 Super Estación",
+      "subtitle": "Pop / Rock",
+      "location": "Bogota D.C., Colombia",
+      "genre": "Rock",
+      "streamUrl": "https://servidor40-5.brlogic.com:7006/live",
       "countryCode": "CO"
     },
     {
-      "id": "yoesucho_rom_ntica_pe_8f12073d",
-      "title": "YoEsucho - Romántica",
-      "subtitle": "Love Songs",
-      "location": "Peru",
-      "genre": "Love Songs",
-      "streamUrl": "https://stream.zeno.fm/mb5l1xfyu7yuv",
+      "id": "102_1_arabeskin_merkezi_fm_tr",
+      "title": "102.1 Arabeskin Merkezi Fm",
+      "subtitle": "Arabesk / Arabesk Fantazi",
+      "location": "Istanbul, Türkiye",
+      "genre": "Pop",
+      "streamUrl": "http://canli.arabeskinmerkezi.com:9180/stream",
+      "countryCode": "TR"
+    },
+    {
+      "id": "rb2_atractiva_101_3_4b395336",
+      "title": "Atractiva 101.3",
+      "subtitle": "Musica Latina",
+      "location": "Los Rios ,Los lagos, Chile",
+      "genre": "Musica Latina",
+      "streamUrl": "https://sonicstream-puntual.grupozgh.cl/8126/;",
+      "countryCode": "CL"
+    },
+    {
+      "id": "rb2_akurat_fm_solo_fefe9830",
+      "title": "Akurat FM Solo",
+      "subtitle": "Media Kristen",
+      "location": "Surakarta, Indonesia",
+      "genre": "Media Kristen",
+      "streamUrl": "http://c1.siar.us:9350/stream",
+      "countryCode": "ID"
+    },
+    {
+      "id": "100_5_das_hitradio_be",
+      "title": "100,5 Das Hitradio",
+      "subtitle": "Hits / Lederland",
+      "location": "Eupen/Eifel, Belgium",
+      "genre": "News",
+      "streamUrl": "http://stream.dashitradio.de/dashitradio/aac-48/stream.mp3",
+      "countryCode": "BE"
+    },
+    {
+      "id": "rb2_1000_electronic_dance_music_936c9ed3",
+      "title": "1000-ELECTRONIC-DANCE-MUSIC",
+      "subtitle": "Electronic Rock, Hardstyle",
+      "location": "Vienna, Austria",
+      "genre": "Electronic Rock",
+      "streamUrl": "http://1000-electronic-dance-music.stream.laut.fm/1000-electronic-dance-music?pl=m3u&t302=2026-01-15_07-00-37&uuid=723aa614-de54-4e48-af9b-a44bd7f9884b",
+      "countryCode": "AT"
+    },
+    {
+      "id": "base_fm_hu",
+      "title": "Base FM",
+      "subtitle": "Hiphop / Rap",
+      "location": "Budapest, Hungary",
+      "genre": "Hip-Hop",
+      "streamUrl": "https://icast.connectmedia.hu/5401/live.mp3",
+      "countryCode": "HU"
+    },
+    {
+      "id": "densomaniak_radio_rs",
+      "title": "DENSOMANIAK Radio",
+      "subtitle": "90S / Devedesete",
+      "location": "Belgrade, Serbia",
+      "genre": "Pop",
+      "streamUrl": "https://stream.iradio.pro/proxy/densomaniak?mp=/stream",
+      "countryCode": "RS"
+    },
+    {
+      "id": "abc_portugal_pt",
+      "title": "ABC Portugal",
+      "subtitle": "Latin / Latino",
+      "location": "Leiria, Portugal",
+      "genre": "World",
+      "streamUrl": "http://centova.radio.com.pt:8547/;",
+      "countryCode": "PT"
+    },
+    {
+      "id": "rb2_county_626c8105",
+      "title": "County",
+      "subtitle": "Country",
+      "location": "Czech Republic, Czechia",
+      "genre": "Country",
+      "streamUrl": "http://icecast4.play.cz/country128.mp3",
+      "countryCode": "CZ"
+    },
+    {
+      "id": "conexion_kpop_pe",
+      "title": "Conexion  kpop",
+      "subtitle": "Kpop",
+      "location": "Arequipa, Peru",
+      "genre": "Pop",
+      "streamUrl": "https://stream.laut.fm/conexionkpop",
       "countryCode": "PE"
     },
     {
-      "id": "radio_madjoura_nourou_dine_touba_ml_c736ed6b",
-      "title": "Radio Madjoura Nourou Dine Touba",
-      "subtitle": "Radio",
-      "location": "Mali",
-      "genre": "Radio",
-      "streamUrl": "https://stream.zeno.fm/kgnvaarqu0quv",
-      "countryCode": "ML"
+      "id": "rb2_drama_radio_dubrovnik_08a81254",
+      "title": "Drama radio Dubrovnik",
+      "subtitle": "News Talk, Pop Music",
+      "location": "Dalmatia, Croatia",
+      "genre": "News Talk",
+      "streamUrl": "https://listen.radioking.com/radio/626884/stream/689500",
+      "countryCode": "HR"
     }
   ]
 }
