@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-19T03:07:43Z",
+  "updated": "2026-09-20T03:23:33Z",
   "region": "africa",
   "stations": [
     {
@@ -416,19 +416,6 @@
       "genre": "Music",
       "countryCode": "CV",
       "streamUrl": "https://stream.laut.fm/kriola"
-    },
-    {
-      "id": "rb2_radio_alfa_cv_0e45d442",
-      "title": "RADIO ALFA - CV",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://uk6freenew.listen2myradio.com:10110/stream",
-      "location": "Cabo Verde",
-      "genre": "Radio",
-      "countryCode": "CV",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 192
     },
     {
       "id": "rb2_rce_radio_comunitaria_dos_espargos_a7bbb30f",
@@ -7979,19 +7966,6 @@
       "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/THOBELAAAC.aac"
     },
     {
-      "id": "rb2_transworldradio_music_09a1997a",
-      "title": "TransWorldRadio Music",
-      "subtitle": "Radio",
-      "imageUrl": "https://radio.eclipse-streaming.co.za/static/uploads/the_better_dot_fm/album_art.1708590513.jpg",
-      "streamUrl": "https://radio.eclipse-streaming.co.za/listen/the_better_dot_fm/radio.mp3",
-      "location": "South Africa",
-      "genre": "Radio",
-      "countryCode": "ZA",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 192
-    },
-    {
       "id": "rb2_tuks_fm_9619fd8c",
       "title": "Tuks FM",
       "subtitle": "Alternative, Rock",
@@ -9696,18 +9670,6 @@
       "streamUrl": "https://stream.zeno.fm/r6eprdta6nhvv"
     },
     {
-      "id": "radio_fr_quence_3_93_8_bamako_ml_9b3ee76d",
-      "title": "Radio Fréquence 3 93.8 Bamako",
-      "subtitle": "Music",
-      "location": "Mali",
-      "genre": "Music",
-      "countryCode": "ML",
-      "language": "french",
-      "clickCount": 5,
-      "bitrate": 64,
-      "streamUrl": "http://ice.stream.frequence3.net/frequence3-64.aac"
-    },
-    {
       "id": "pidgin_radio_ng_b9ef5cfd",
       "title": "Pidgin Radio",
       "subtitle": "Radio",
@@ -10474,6 +10436,42 @@
       "clickCount": 2,
       "bitrate": 0,
       "streamUrl": "https://pro06.caster.fm:8050/radio"
+    },
+    {
+      "id": "yabiladi_chaabi_maroc_ma_8dcfdee6",
+      "title": "Yabiladi Chaabi Maroc",
+      "subtitle": "World Music",
+      "location": "Morocco",
+      "genre": "World Music",
+      "countryCode": "MA",
+      "language": "english",
+      "clickCount": 23,
+      "bitrate": 128,
+      "streamUrl": "https://radio.yabiladi.com:8102/;stream.mp3"
+    },
+    {
+      "id": "yabiladi_radio_ma_1ac2c8b6",
+      "title": "Yabiladi Radio",
+      "subtitle": "World Music",
+      "location": "Morocco",
+      "genre": "World Music",
+      "countryCode": "MA",
+      "language": "english",
+      "clickCount": 7,
+      "bitrate": 128,
+      "streamUrl": "https://radio.yabiladi.com:8002/;stream.mp3"
+    },
+    {
+      "id": "yabiladi_azawan_amazigh_ma_20006b52",
+      "title": "Yabiladi Azawan Amazigh",
+      "subtitle": "World Music",
+      "location": "Morocco",
+      "genre": "World Music",
+      "countryCode": "MA",
+      "language": "english",
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://radio.yabiladi.com:9002/;stream.mp3"
     }
   ]
 }

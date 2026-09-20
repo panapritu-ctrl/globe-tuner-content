@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-19T03:07:44Z",
+  "updated": "2026-09-20T03:23:33Z",
   "region": "asia",
   "part": 1,
   "of": 3,
@@ -20297,19 +20297,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_station_9218e92d",
-      "title": "格莱美音乐台",
-      "subtitle": "Music, Pop",
-      "imageUrl": "",
-      "streamUrl": "http://play-radio-stream3.hndt.com/now/yorSd1X2/chunklist.m3u8",
-      "location": "Honan, China",
-      "genre": "Music",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 3,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_965_d157ba7f",
       "title": "栾城怀旧金曲965",
       "subtitle": "Music, Oldies",
@@ -20892,19 +20879,6 @@
       "countryCode": "CN",
       "language": "chinese",
       "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_station_612d94bc",
-      "title": "江苏新闻广播",
-      "subtitle": "News",
-      "imageUrl": "http://www.vojs.cn/favicon.ico",
-      "streamUrl": "http://lzlive.vojs.cn/5Fo8mMX/92/live.m3u8?",
-      "location": "Kiangsu, China",
-      "genre": "News",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 12,
       "bitrate": 128
     },
     {
@@ -22891,19 +22865,6 @@
       "streamUrl": "https://lhttp.qingting.fm/live/2810/64k.mp3",
       "location": "Chekiang, China",
       "genre": "News",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_station_ebf5997c",
-      "title": "湘乡广播电台龙城之声",
-      "subtitle": "5G智慧电台, Full Service",
-      "imageUrl": "https://pic.qtfm.cn/2017/1018/20171018103540.jpeg",
-      "streamUrl": "https://lhttp-hw.qtfm.cn/live/15318180/64k.mp3",
-      "location": "China",
-      "genre": "5G智慧电台",
       "countryCode": "CN",
       "language": "chinese",
       "clickCount": 0,
@@ -26473,18 +26434,6 @@
       "streamUrl": "http://streaming.exclusive.radio/er/italy/icecast.audio"
     },
     {
-      "id": "emarat_fm_ae_e07ea665",
-      "title": "Emarat fm",
-      "subtitle": "Arabic",
-      "location": "The United Arab Emirates",
-      "genre": "Arabic",
-      "countryCode": "AE",
-      "language": null,
-      "clickCount": 7,
-      "bitrate": 637,
-      "streamUrl": "https://admn-radio-cdn-lb.starzplayarabia.com/out/v1/admn_radio_enc/emarat_fm/emarat_fm_hls_nd/index.m3u8"
-    },
-    {
       "id": "cri_voice_of_south_china_sea_cn_096da1ec",
       "title": "CRI Voice of South China Sea",
       "subtitle": "Beijing",
@@ -27671,6 +27620,18 @@
       "clickCount": 2,
       "bitrate": 0,
       "streamUrl": "https://vod.bsyjrb.cn/live/9cb859019bb6.m3u8"
+    },
+    {
+      "id": "emarat_fm_ae_e07ea665",
+      "title": "Emarat fm",
+      "subtitle": "Arabic",
+      "location": "The United Arab Emirates",
+      "genre": "Arabic",
+      "countryCode": "AE",
+      "language": null,
+      "clickCount": 7,
+      "bitrate": 637,
+      "streamUrl": "https://admn-radio-cdn-lb.starzplayarabia.com/out/v1/admn_radio_enc/emarat_fm/emarat_fm_hls_nd/index.m3u8"
     }
   ]
 }

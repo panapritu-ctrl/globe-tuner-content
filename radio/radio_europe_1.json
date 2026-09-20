@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-19T03:07:19Z",
+  "updated": "2026-09-20T03:23:33Z",
   "region": "europe",
   "part": 1,
   "of": 8,
@@ -11856,19 +11856,6 @@
       "bitrate": 192
     },
     {
-      "id": "rb2_cm_radio_crans_montana_e31e2db4",
-      "title": "CM Radio Crans-Montana",
-      "subtitle": "Diversity",
-      "imageUrl": "",
-      "streamUrl": "https://listen.radioking.com/radio/605899/stream/669205",
-      "location": "Valais, Switzerland",
-      "genre": "Diversity",
-      "countryCode": "CH",
-      "language": "french",
-      "clickCount": 0,
-      "bitrate": 320
-    },
-    {
       "id": "rb2_christmas_radio_96365abe",
       "title": "Christmas Radio",
       "subtitle": "Christian Contemporary, Christmas Music",
@@ -15659,19 +15646,6 @@
       "imageUrl": "",
       "streamUrl": "https://stream.openbroadcast.ch/16bit.flac",
       "location": "Zürich, Switzerland",
-      "genre": "Radio",
-      "countryCode": "CH",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_publicdomainproject_classic_96662b01",
-      "title": "publicdomainproject   classic",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://relay.publicdomainproject.org/classical.mp3",
-      "location": "Switzerland",
       "genre": "Radio",
       "countryCode": "CH",
       "language": null,
@@ -28132,6 +28106,18 @@
       "clickCount": 1,
       "bitrate": 128,
       "streamUrl": "https://server4.streamserver24.com:26250/stream?1655820557881"
+    },
+    {
+      "id": "radio_braunau_am_inn_at_at_b407c2f0",
+      "title": "Radio Braunau am Inn AT",
+      "subtitle": "Pop",
+      "location": "Austria",
+      "genre": "Pop",
+      "countryCode": "AT",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://stream.zeno.fm/ec0tpqnxqsbvv"
     }
   ]
 }

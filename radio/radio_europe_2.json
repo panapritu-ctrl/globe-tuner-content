@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-19T03:07:44Z",
+  "updated": "2026-09-20T03:23:33Z",
   "region": "europe",
   "part": 2,
   "of": 8,
@@ -28176,18 +28176,6 @@
       "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4kobenhavn/masterab.m3u8"
     },
     {
-      "id": "dr_p4_syd_aac_dk_74eaa8c5",
-      "title": "DR P4 Syd (AAC)",
-      "subtitle": "Regional Radio",
-      "location": "Denmark",
-      "genre": "Regional Radio",
-      "countryCode": "DK",
-      "language": "danish",
-      "clickCount": 3,
-      "bitrate": 324,
-      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4syd/masterab.m3u8"
-    },
-    {
       "id": "dr_p5_k_benhavn_aac_dk_590a0c64",
       "title": "DR P5 København (AAC)",
       "subtitle": "Regional Radio",
@@ -28234,18 +28222,6 @@
       "clickCount": 3,
       "bitrate": 324,
       "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p1/masterab.m3u8"
-    },
-    {
-      "id": "dr_p2_aac_dk_0aeeaf1d",
-      "title": "DR P2 (AAC)",
-      "subtitle": "Radio",
-      "location": "Denmark",
-      "genre": "Radio",
-      "countryCode": "DK",
-      "language": "danish",
-      "clickCount": 2,
-      "bitrate": 324,
-      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p2/masterab.m3u8"
     },
     {
       "id": "dr_p4_sj_lland_aac_dk_760081a0",
@@ -28414,6 +28390,18 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://a6.asurahosting.com:7680/radio.mp3"
+    },
+    {
+      "id": "historyradio_org_low_bandwidth_dk_0b0df4d0",
+      "title": "Historyradio.org low bandwidth",
+      "subtitle": "Culture",
+      "location": "Denmark",
+      "genre": "Culture",
+      "countryCode": "DK",
+      "language": "english",
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "https://cast1.asurahosting.com/proxy/historyr/stream.mp3"
     }
   ]
 }

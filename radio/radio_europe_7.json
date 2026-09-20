@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-19T03:07:43Z",
+  "updated": "2026-09-20T03:23:33Z",
   "region": "europe",
   "part": 7,
   "of": 8,
@@ -8617,19 +8617,6 @@
       "language": "romania",
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_funfm_6f2a42e5",
-      "title": "FunFM",
-      "subtitle": "Hits, Local",
-      "imageUrl": "",
-      "streamUrl": "http://online.funfm.ro:8000/funfm.mp3",
-      "location": "Harghita, Romania",
-      "genre": "Hits",
-      "countryCode": "RO",
-      "language": "hungarian",
-      "clickCount": 2,
-      "bitrate": 192
     },
     {
       "id": "rb2_gfm_romania_bac_u_90_1_fm_242d0bcb",
@@ -18719,19 +18706,6 @@
       "bitrate": 96
     },
     {
-      "id": "rb2_dfm_pop_gold_2010s_f010956a",
-      "title": "DFM POP GOLD 2010s",
-      "subtitle": "2010S, Music",
-      "imageUrl": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",
-      "streamUrl": "https://dfm-popgold10.hostingradio.ru/popgold1096.aacp",
-      "location": "The Russian Federation",
-      "genre": "2010S",
-      "countryCode": "RU",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 96
-    },
-    {
       "id": "rb2_dfm_pop_gold_2020s_b7c9a2df",
       "title": "DFM POP GOLD 2020s",
       "subtitle": "2020S, Music",
@@ -24442,18 +24416,6 @@
       "streamUrl": "http://asculta.radiotaraf.ro:7100/;"
     },
     {
-      "id": "lautaru_populara_ro_fb71e48e",
-      "title": "Lautaru Populara",
-      "subtitle": "Radio",
-      "location": "Romania",
-      "genre": "Radio",
-      "countryCode": "RO",
-      "language": "romanian",
-      "clickCount": 5,
-      "bitrate": 128,
-      "streamUrl": "http://live.radiolautaru.ro:9000/;stream.nsv"
-    },
-    {
       "id": "radio_rock_pirata_pt_6b251829",
       "title": "Radio Rock Pirata",
       "subtitle": "Metal",
@@ -24886,18 +24848,6 @@
       "streamUrl": "https://azura.ebsmedia.ro/listen/classical/classical128.mp3?refresh=1779029566606"
     },
     {
-      "id": "naxi_90s_rs_453cfb23",
-      "title": "Naxi 90s",
-      "subtitle": "Pop",
-      "location": "Serbia",
-      "genre": "Pop",
-      "countryCode": "RS",
-      "language": null,
-      "clickCount": 3,
-      "bitrate": 128,
-      "streamUrl": "https://naxidigital-90s128ssl.streaming.rs:8282/;stream.nsv"
-    },
-    {
       "id": "futrzak_fm_320kbps_pl_e5734206",
       "title": "FUTRZAK.FM - 320kbps",
       "subtitle": "Edm",
@@ -24968,18 +24918,6 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://naxidigital-gold128ssl.streaming.rs:8062/;stream.nsv"
-    },
-    {
-      "id": "vip_radio_rs_4073b09e",
-      "title": "VIP Radio",
-      "subtitle": "Radio",
-      "location": "Serbia",
-      "genre": "Radio",
-      "countryCode": "RS",
-      "language": "serbian",
-      "clickCount": 4,
-      "bitrate": 128,
-      "streamUrl": "http://vip128.streaming.rs:8110/;stream.nsv"
     },
     {
       "id": "radio_opole_2_pl_9328fe71",
@@ -25844,6 +25782,210 @@
       "clickCount": 2,
       "bitrate": 64,
       "streamUrl": "https://eu10.fastcast4u.com:6110/stream/7/"
+    },
+    {
+      "id": "lautaru_populara_ro_fb71e48e",
+      "title": "Lautaru Populara",
+      "subtitle": "Radio",
+      "location": "Romania",
+      "genre": "Radio",
+      "countryCode": "RO",
+      "language": "romanian",
+      "clickCount": 14,
+      "bitrate": 128,
+      "streamUrl": "http://live.radiolautaru.ro:9000/;stream.nsv"
+    },
+    {
+      "id": "r_di_gaga_gold_ro_9d5c0336",
+      "title": "Rádió GaGa Gold",
+      "subtitle": "Gold",
+      "location": "Romania",
+      "genre": "Gold",
+      "countryCode": "RO",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "https://stream.igenbiza.com/gld"
+    },
+    {
+      "id": "r_di_gaga_dance_ro_8bbc5ce6",
+      "title": "Rádió GaGa Dance",
+      "subtitle": "Club Dance",
+      "location": "Romania",
+      "genre": "Club Dance",
+      "countryCode": "RO",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "https://stream.igenbiza.com/dnc"
+    },
+    {
+      "id": "r_di_gaga_udvarhelysz_k_ro_2c8d4444",
+      "title": "Rádió GaGa Udvarhelyszék",
+      "subtitle": "Local Radio",
+      "location": "Romania",
+      "genre": "Local Radio",
+      "countryCode": "RO",
+      "language": "hungarian",
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "https://stream.igenbiza.com/udv"
+    },
+    {
+      "id": "r_di_gaga_gyergy_sz_k_ro_30cb8127",
+      "title": "Rádió GaGa Gyergyószék",
+      "subtitle": "Local Radio",
+      "location": "Romania",
+      "genre": "Local Radio",
+      "countryCode": "RO",
+      "language": "hungarian",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://stream.igenbiza.com/gye"
+    },
+    {
+      "id": "r_di_gaga_cs_ksz_k_ro_2108b6f3",
+      "title": "Rádió GaGa Csíkszék",
+      "subtitle": "Local Radio",
+      "location": "Romania",
+      "genre": "Local Radio",
+      "countryCode": "RO",
+      "language": "hungarian",
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "https://stream.igenbiza.com/csi"
+    },
+    {
+      "id": "r_di_gaga_100_magyar_ro_c2bf5447",
+      "title": "Rádió GaGa 100% Magyar",
+      "subtitle": "Hungarian Pop Music",
+      "location": "Romania",
+      "genre": "Hungarian Pop Music",
+      "countryCode": "RO",
+      "language": "hungarian",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://stream.igenbiza.com/hun"
+    },
+    {
+      "id": "r_di_gaga_h_romsz_k_ro_cd5b7cf9",
+      "title": "Rádió GaGa Háromszék",
+      "subtitle": "Local Radio",
+      "location": "Romania",
+      "genre": "Local Radio",
+      "countryCode": "RO",
+      "language": "hungarian",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://stream.igenbiza.com/sze"
+    },
+    {
+      "id": "naxi_90s_rs_453cfb23",
+      "title": "Naxi 90s",
+      "subtitle": "Pop",
+      "location": "Serbia",
+      "genre": "Pop",
+      "countryCode": "RS",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://naxidigital-90s128ssl.streaming.rs:8282/;stream.nsv"
+    },
+    {
+      "id": "radio_biblia_pt_3081f349",
+      "title": "Radio Biblia",
+      "subtitle": "Bible",
+      "location": "Portugal",
+      "genre": "Bible",
+      "countryCode": "PT",
+      "language": "portuguese",
+      "clickCount": 3,
+      "bitrate": 64,
+      "streamUrl": "https://servidor30-4.brlogic.com:7398/live?source=website"
+    },
+    {
+      "id": "r_di_gaga_rock_ro_eae3667e",
+      "title": "Rádió GaGa Rock",
+      "subtitle": "Classic Rock",
+      "location": "Romania",
+      "genre": "Classic Rock",
+      "countryCode": "RO",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 192,
+      "streamUrl": "https://stream.igenbiza.com/rck"
+    },
+    {
+      "id": "radio_pro_intens_buz_u_ro_e466c4cd",
+      "title": "Radio Pro Intens -Buzău",
+      "subtitle": "Dance",
+      "location": "Romania",
+      "genre": "Dance",
+      "countryCode": "RO",
+      "language": "română",
+      "clickCount": 3,
+      "bitrate": 64,
+      "streamUrl": "https://sonicssl.namehost.ro/8181/;"
+    },
+    {
+      "id": "radio_3_live_rs_5a66a24c",
+      "title": "Radio 3 LIVE",
+      "subtitle": "Radio",
+      "location": "Serbia",
+      "genre": "Radio",
+      "countryCode": "RS",
+      "language": "serbian",
+      "clickCount": 3,
+      "bitrate": 64,
+      "streamUrl": "https://radio3-64ssl.streaming.rs:9212/;stream.nsv"
+    },
+    {
+      "id": "rdp_internacional_main_pt_de71a2a0",
+      "title": "RDP Internacional - Main",
+      "subtitle": "Radio",
+      "location": "Portugal",
+      "genre": "Radio",
+      "countryCode": "PT",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 0,
+      "streamUrl": "https://radiocast.rtp.pt/rdpint80a.mp3"
+    },
+    {
+      "id": "clasic_radio_latino_bucure_ti_ro_9590e93b",
+      "title": "Clasic Radio_Latino -București",
+      "subtitle": "Latino",
+      "location": "Romania",
+      "genre": "Latino",
+      "countryCode": "RO",
+      "language": "română",
+      "clickCount": 2,
+      "bitrate": 192,
+      "streamUrl": "https://live.radioclasic.com/listen/radio_clasic_latino/live.mp3"
+    },
+    {
+      "id": "radio_mioveni_ro_1a4f1304",
+      "title": "Radio Mioveni",
+      "subtitle": "Populara",
+      "location": "Romania",
+      "genre": "Populara",
+      "countryCode": "RO",
+      "language": "româna",
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "http://argesmioveninr1.radi0.im:8000/stream"
+    },
+    {
+      "id": "radio_magnum_rs_23bb74d0",
+      "title": "Radio Magnum",
+      "subtitle": "Radio",
+      "location": "Serbia",
+      "genre": "Radio",
+      "countryCode": "RS",
+      "language": "serbian",
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "http://magnum.web-srbija.net:8121/;stream.nsv"
     }
   ]
 }

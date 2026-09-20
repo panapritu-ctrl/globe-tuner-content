@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-19T03:07:44Z",
+  "updated": "2026-09-20T03:23:33Z",
   "region": "asia",
   "part": 3,
   "of": 3,
@@ -7343,19 +7343,6 @@
       "bitrate": 127
     },
     {
-      "id": "rb2_gen_fm_4095df64",
-      "title": "Genç FM",
-      "subtitle": "Pop Music",
-      "imageUrl": "https://www.gencfm.com.tr/static/2022/05/18/logo1234-1652884523-699.png",
-      "streamUrl": "https://yayin1.canlitv.fun/radyo/gencfm/chunklist_w1257533803.m3u8",
-      "location": "Bandırma, Türkiye",
-      "genre": "Pop Music",
-      "countryCode": "TR",
-      "language": "turkish",
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_geva_sesi_radyosu_05780f0f",
       "title": "Gevaş Sesi Radyosu",
       "subtitle": "Radio",
@@ -13178,18 +13165,6 @@
       "streamUrl": "http://28093.live.streamtheworld.com:3690/MYXFM_SC"
     },
     {
-      "id": "talay_90_25fm_th_71a71f43",
-      "title": "talay 90.25FM",
-      "subtitle": "Radio",
-      "location": "Thailand",
-      "genre": "Radio",
-      "countryCode": "TH",
-      "language": "thai",
-      "clickCount": 6,
-      "bitrate": 96,
-      "streamUrl": "https://stream.talay.asia/talay"
-    },
-    {
       "id": "station_tw_c18801eb",
       "title": "警察廣播電台 - 台北台",
       "subtitle": "Local News",
@@ -15626,18 +15601,6 @@
       "streamUrl": "https://stream.zeno.fm/hf1yubc29heuv"
     },
     {
-      "id": "xfm_iloilo_ph_5e16c17a",
-      "title": "XFM Iloilo",
-      "subtitle": "Radio",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "language": null,
-      "clickCount": 3,
-      "bitrate": 64,
-      "streamUrl": "http://209.126.124.126:8696/stream"
-    },
-    {
       "id": "fm98_9_tw_fa54ecc7",
       "title": "人人電台 好事聯播網FM98.9",
       "subtitle": "Music",
@@ -16658,18 +16621,6 @@
       "streamUrl": "http://148.72.153.65:9247/stream"
     },
     {
-      "id": "tambayan_103_9_ph_9e3cba8e",
-      "title": "Tambayan 103.9",
-      "subtitle": "Radio",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 0,
-      "streamUrl": "https://tambayan1039.alwaysdata.net/stream.php?t=1769259796149"
-    },
-    {
       "id": "96_1_infinite_radio_panabo_city_ph_db8c7a3a",
       "title": "96.1 Infinite Radio Panabo City",
       "subtitle": "Radio",
@@ -16692,18 +16643,6 @@
       "clickCount": 11,
       "bitrate": 96,
       "streamUrl": "http://78.154.103.2:9326/stream"
-    },
-    {
-      "id": "radyo_bandera_sweet_fm_ph_444c1e2e",
-      "title": "Radyo Bandera Sweet FM",
-      "subtitle": "News",
-      "location": "The Philippines",
-      "genre": "News",
-      "countryCode": "PH",
-      "language": null,
-      "clickCount": 3,
-      "bitrate": 48,
-      "streamUrl": "https://us1.amfmph.com/ssl/sweetfmbacolod?mp=%2Fstream"
     },
     {
       "id": "fm_96_mhz_zaab_news_radio_th_1b6bcb0b",
@@ -16896,6 +16835,114 @@
       "clickCount": 2,
       "bitrate": 64,
       "streamUrl": "http://209.126.124.126:8855/stream"
+    },
+    {
+      "id": "nbt_central_digital_tv_channel_11_th_e4585bc4",
+      "title": "NBT Central: digital TV channel 11",
+      "subtitle": "Radio",
+      "location": "Thailand",
+      "genre": "Radio",
+      "countryCode": "TH",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 3128,
+      "streamUrl": "https://cdn-edge.iiptvcdn.com/live_event/smil:6ee0-5126-0cee-7ba2-18b7.smil/playlist.m3u8?null"
+    },
+    {
+      "id": "axr_manila_ph_7420a89f",
+      "title": "AXR Manila",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 96,
+      "streamUrl": "http://22283.live.streamtheworld.com:3690/AXR_MANILA_SC"
+    },
+    {
+      "id": "rhythm_101_fm_online_ph_e1492543",
+      "title": "Rhythm 101 FM Online",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://stream.zeno.fm/kpbamsatoqxtv"
+    },
+    {
+      "id": "9_mcot_hd_digital_tv_channel_30_th_1fbac3f1",
+      "title": "ช่อง 9 MCOT HD: digital TV channel 30",
+      "subtitle": "Radio",
+      "location": "Thailand",
+      "genre": "Radio",
+      "countryCode": "TH",
+      "language": "thai",
+      "clickCount": 3,
+      "bitrate": 3000,
+      "streamUrl": "https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/playlist.m3u8"
+    },
+    {
+      "id": "kkbn_internet_health_radio_ph_416e206c",
+      "title": "KKBN INTERNET HEALTH RADIO",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 0,
+      "streamUrl": "https://stream.zeno.fm/8qt5kzmh144vv"
+    },
+    {
+      "id": "xfm_bacolod_ph_70f12536",
+      "title": "XFM BACOLOD",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 64,
+      "streamUrl": "http://209.126.124.126:8684/stream"
+    },
+    {
+      "id": "axr_manila_ph_03f65abe",
+      "title": "AXR Manila",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 96,
+      "streamUrl": "http://27253.live.streamtheworld.com:3690/AXR_SC"
+    },
+    {
+      "id": "radyo_bandera_sweet_fm_iloilo_ph_11ac595b",
+      "title": "Radyo Bandera Sweet FM Iloilo",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 48,
+      "streamUrl": "https://us1.amfmph.com/ssl/sweetfmiloilo?mp=/stream"
+    },
+    {
+      "id": "nbt_south_digital_tv_channel_11_th_db634d92",
+      "title": "NBT South: digital tv channel 11",
+      "subtitle": "Radio",
+      "location": "Thailand",
+      "genre": "Radio",
+      "countryCode": "TH",
+      "language": "thai",
+      "clickCount": 2,
+      "bitrate": 3128,
+      "streamUrl": "https://cdn-edge.iiptvcdn.com/live_event/smil:a834-75a7-a662-db55-5fa3.smil/playlist.m3u8?null"
     }
   ]
 }

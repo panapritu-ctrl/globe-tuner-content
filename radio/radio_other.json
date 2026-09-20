@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-19T03:07:43Z",
+  "updated": "2026-09-20T03:23:33Z",
   "region": "other",
   "stations": [
     {
@@ -5994,18 +5994,6 @@
       "streamUrl": "https://ecmanager4.pro-fhi.net:2680/stream"
     },
     {
-      "id": "josema_retro_radio_es_a90f1359",
-      "title": "Josema Retro Radio",
-      "subtitle": "Msx",
-      "location": "Spain",
-      "genre": "Msx",
-      "countryCode": "ES",
-      "language": "spanish",
-      "clickCount": 5,
-      "bitrate": 0,
-      "streamUrl": "https://radio.josemalop.com/radio"
-    },
-    {
       "id": "vicecity_fr_fr_ea05ae1d",
       "title": "Vicecity.fr",
       "subtitle": "Lo-Fi / House",
@@ -6208,18 +6196,6 @@
       "clickCount": 6,
       "bitrate": 0,
       "streamUrl": "http://76.13.48.233/listen/dance_o_matic/radio.mp3"
-    },
-    {
-      "id": "one_station_fr_d2ecd788",
-      "title": "One Station",
-      "subtitle": "Funk",
-      "location": "France",
-      "genre": "Funk",
-      "countryCode": "FR",
-      "language": null,
-      "clickCount": 6,
-      "bitrate": 128,
-      "streamUrl": "https://stream.onestation.fr/128.mp3"
     },
     {
       "id": "ch_rie_fm_martinique_fr_5c578d2c",
@@ -6774,18 +6750,6 @@
       "streamUrl": "https://stream.radio1.ch/128k?utm_source=chatgpt.com"
     },
     {
-      "id": "sevilla_fc_radio_es_d1f7ea91",
-      "title": "Sevilla FC Radio",
-      "subtitle": "Radio",
-      "location": "Spain",
-      "genre": "Radio",
-      "countryCode": "ES",
-      "language": null,
-      "clickCount": 3,
-      "bitrate": 128,
-      "streamUrl": "https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_ye0b8tc0/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8"
-    },
-    {
       "id": "listnr_aussie_dance_au_19245566",
       "title": "LiSTNR - Aussie Dance",
       "subtitle": "Australian Music",
@@ -7060,18 +7024,6 @@
       "clickCount": 2,
       "bitrate": 33,
       "streamUrl": "https://legacy.scahw.com.au/6bun_32"
-    },
-    {
-      "id": "listnr_rnb_chill_au_c877936b",
-      "title": "LiSTNR - RnB Chill",
-      "subtitle": "Chill",
-      "location": "Australia",
-      "genre": "Chill",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 2,
-      "bitrate": 0,
-      "streamUrl": "http://worldradio.online/proxy/?q=http://wz0liw.scahw.com.au/live/rnb-chill.stream/playlist.m3u8"
     },
     {
       "id": "listnr_fans_of_lady_gaga_hls_au_33853eb7",
@@ -7444,18 +7396,6 @@
       "clickCount": 5,
       "bitrate": 128,
       "streamUrl": "http://uk2.internet-radio.com:8171/stream"
-    },
-    {
-      "id": "mystery_train_radio_gb_3e560e48",
-      "title": "Mystery Train Radio",
-      "subtitle": "Americana",
-      "location": "The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "Americana",
-      "countryCode": "GB",
-      "language": "english",
-      "clickCount": 5,
-      "bitrate": 192,
-      "streamUrl": "https://streamer.radio.co/sf662f27c0/listen"
     },
     {
       "id": "listnr_easy_office_vibes_hls_au_70f57317",
@@ -8404,6 +8344,210 @@
       "clickCount": 4,
       "bitrate": 192,
       "streamUrl": "https://stream3.themediasite.co.uk:8106/stream"
+    },
+    {
+      "id": "ch_rie_fm_2000_fr_3fbeb790",
+      "title": "Chérie FM 2000",
+      "subtitle": "Cherie Fm",
+      "location": "France",
+      "genre": "Cherie Fm",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 20,
+      "bitrate": 128,
+      "streamUrl": "https://streaming.nrjaudio.fm/ouf2ebtx4thg"
+    },
+    {
+      "id": "nrj_nouveaux_hits_2026_fr_7f6fa1c6",
+      "title": "NRJ Nouveaux Hits 2026",
+      "subtitle": "Hits",
+      "location": "France",
+      "genre": "Hits",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 9,
+      "bitrate": 128,
+      "streamUrl": "https://streaming.nrjaudio.fm/ouucqs5n3nje"
+    },
+    {
+      "id": "nrj_strasbourg_fr_cce863b8",
+      "title": "NRJ Strasbourg",
+      "subtitle": "Nrj",
+      "location": "France",
+      "genre": "Nrj",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 8,
+      "bitrate": 64,
+      "streamUrl": "https://streaming.nrjaudio.fm/outd4t6ubafg"
+    },
+    {
+      "id": "nostalgie_les_plus_grands_tubes_fran_ais_fr_49e9c3d0",
+      "title": "Nostalgie Les Plus Grands Tubes Français",
+      "subtitle": "Nostalgie",
+      "location": "France",
+      "genre": "Nostalgie",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 8,
+      "bitrate": 128,
+      "streamUrl": "https://streaming.nrjaudio.fm/out2xi6ubafg"
+    },
+    {
+      "id": "nrj_nouveaut_s_rap_fran_ais_fr_3169a07b",
+      "title": "NRJ Nouveautés Rap Français",
+      "subtitle": "Nrj",
+      "location": "France",
+      "genre": "Nrj",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://streaming.nrjaudio.fm/ouvfg4oarp52"
+    },
+    {
+      "id": "nrj_funky_fr_fb9686ed",
+      "title": "NRJ Funky",
+      "subtitle": "Funk",
+      "location": "France",
+      "genre": "Funk",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://streaming.nrjaudio.fm/oubqddj25zuw"
+    },
+    {
+      "id": "vibe25_radio_gb_b8014a50",
+      "title": "Vibe25 Radio",
+      "subtitle": "00S",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "00S",
+      "countryCode": "GB",
+      "language": "english",
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://streamer.radio.co/s7afcaa07d/listen"
+    },
+    {
+      "id": "nrj_voiron_tf_d0118e7f",
+      "title": "NRJ VOIRON",
+      "subtitle": "Radio",
+      "location": "The French Southern Territories",
+      "genre": "Radio",
+      "countryCode": "TF",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "http://cdn.nrjaudio.fm/adwz2/fr/30001/mp3_128.mp3"
+    },
+    {
+      "id": "soul_central_radio_gb_3ec32245",
+      "title": "Soul Central Radio",
+      "subtitle": "Radio",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Radio",
+      "countryCode": "GB",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 320,
+      "streamUrl": "http://65.21.202.84:8519/stream/"
+    },
+    {
+      "id": "indemand_decades_256kbps_aac_gb_0f83bc1a",
+      "title": "InDemand Decades (256Kbps AAC)",
+      "subtitle": "Radio",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Radio",
+      "countryCode": "GB",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "http://stream.indemandradio.com/station/IDR2/index.m3u8"
+    },
+    {
+      "id": "radio_2_be_430d3c96",
+      "title": "RADIO 2",
+      "subtitle": "Radio",
+      "location": "Belgium",
+      "genre": "Radio",
+      "countryCode": "BE",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://quantumcast.vrtcdn.be/ra2ant/mp3-128/quantumcast.vrtcdn.be/"
+    },
+    {
+      "id": "radio_zuidrand_be_668f22a3",
+      "title": "Radio Zuidrand",
+      "subtitle": "Radio",
+      "location": "Belgium",
+      "genre": "Radio",
+      "countryCode": "BE",
+      "language": "dutch",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://shoutcast2.wirelessbelgie.be/zuidrand/;audio.mp3."
+    },
+    {
+      "id": "sevilla_fc_radio_es_d1f7ea91",
+      "title": "Sevilla FC Radio",
+      "subtitle": "Deportes",
+      "location": "Spain",
+      "genre": "Deportes",
+      "countryCode": "ES",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_ye0b8tc0/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8"
+    },
+    {
+      "id": "abc_gippsland_au_f161030b",
+      "title": "ABC Gippsland",
+      "subtitle": "Radio",
+      "location": "Australia",
+      "genre": "Radio",
+      "countryCode": "AU",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://abc.streamguys1.com/live/localgippsland/icecast.audio"
+    },
+    {
+      "id": "christmas_radio_fm_ch_b603a2b6",
+      "title": "Christmas Radio FM",
+      "subtitle": "Radio",
+      "location": "Switzerland",
+      "genre": "Radio",
+      "countryCode": "CH",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://xmasfm1.dmd2streaming.com/christmasradiofm-128.mp3"
+    },
+    {
+      "id": "radio_bar_a_es_c85e0444",
+      "title": "Radio Barça",
+      "subtitle": "Barça",
+      "location": "Spain",
+      "genre": "Barça",
+      "countryCode": "ES",
+      "language": "spanish",
+      "clickCount": 3,
+      "bitrate": 167,
+      "streamUrl": "https://open.http.mp.streamamg.com/p/3000707/sp/300070700/playManifest/entryId/0_dej0sx5j/format/applehttp/protocol/https/uiConfId/30024000/a.m3u8"
+    },
+    {
+      "id": "vox_fm_wollongong_106_9_fm_aac_au_ecd8106c",
+      "title": "VOX FM - Wollongong - 106.9 FM (AAC)",
+      "subtitle": "1950S",
+      "location": "Australia",
+      "genre": "1950S",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 2,
+      "bitrate": 96,
+      "streamUrl": "http://s10.myradiostream.com/15272/;"
     }
   ]
 }

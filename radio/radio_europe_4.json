@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-19T03:07:44Z",
+  "updated": "2026-09-20T03:23:33Z",
   "region": "europe",
   "part": 4,
   "of": 8,
@@ -26585,18 +26585,6 @@
       "streamUrl": "https://n12.radiojar.com/0zs50dbr274tv?rj-ttl=5&rj-tok=AAABhP2aZowAREeJDqq73dSjNA"
     },
     {
-      "id": "greca_gr_2a5a9ef1",
-      "title": "Greca Έντεχνο",
-      "subtitle": "Greek Music",
-      "location": "Greece",
-      "genre": "Greek Music",
-      "countryCode": "GR",
-      "language": null,
-      "clickCount": 3,
-      "bitrate": 320,
-      "streamUrl": "https://one.cloudstreaming.eu/proxy/entexno/stream"
-    },
-    {
       "id": "radio_apopsi_gr_776d9362",
       "title": "Radio Apopsi",
       "subtitle": "Radio",
@@ -27519,6 +27507,66 @@
       "clickCount": 3,
       "bitrate": 128,
       "streamUrl": "https://metromedia.live24.gr/zoohitsthess"
+    },
+    {
+      "id": "station_gr_c42dbe50",
+      "title": "Νοσταλγία",
+      "subtitle": "Folk",
+      "location": "Greece",
+      "genre": "Folk",
+      "countryCode": "GR",
+      "language": "greek",
+      "clickCount": 2,
+      "bitrate": 192,
+      "streamUrl": "http://radionostalgiagr.dyndns.org:2314/stream?type=http&nocache=167"
+    },
+    {
+      "id": "hit_93_5_gr_d6e057f7",
+      "title": "Hit 93.5",
+      "subtitle": "Mainstream",
+      "location": "Greece",
+      "genre": "Mainstream",
+      "countryCode": "GR",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 320,
+      "streamUrl": "https://radio.escape-media.gr:8008/stream"
+    },
+    {
+      "id": "96_7_gr_1f180cb0",
+      "title": "Λάμψη 96.7",
+      "subtitle": "Greek Pop",
+      "location": "Greece",
+      "genre": "Greek Pop",
+      "countryCode": "GR",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 192,
+      "streamUrl": "https://sp.evostream.gr/8012/stream"
+    },
+    {
+      "id": "98_7_gr_41b2be4a",
+      "title": "Δημοτικό Ραδιόφωνο Ιωαννίνων 98.7",
+      "subtitle": "Municipal",
+      "location": "Greece",
+      "genre": "Municipal",
+      "countryCode": "GR",
+      "language": "greek",
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "https://tls-chrome.live24.gr/365?http://37.157.242.105:31127/stream"
+    },
+    {
+      "id": "super_fm_104_3_gr_0c012038",
+      "title": "Super FM 104.3",
+      "subtitle": "Sports News",
+      "location": "Greece",
+      "genre": "Sports News",
+      "countryCode": "GR",
+      "language": "greek",
+      "clickCount": 2,
+      "bitrate": 64,
+      "streamUrl": "https://stream1.rcast.net/73922"
     }
   ]
 }
