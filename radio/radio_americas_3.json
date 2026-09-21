@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-20T03:23:33Z",
+  "updated": "2026-09-21T03:19:50Z",
   "region": "americas",
   "part": 3,
   "of": 5,
@@ -10627,19 +10627,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_la_poderosa_rpl_1e94098a",
-      "title": "La Poderosa RPL",
-      "subtitle": "Banda, Grupera",
-      "imageUrl": "https://www.lapoderosa.com.mx/imagenes/logo_app.png",
-      "streamUrl": "https://streaming.servicioswebmx.com/8130/stream;",
-      "location": "Guanajuato, Mexico",
-      "genre": "Banda",
-      "countryCode": "MX",
-      "language": "spanish",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_la_primera_ojinaga_101_7_fm_xhog_fm_grup_2c9f3902",
       "title": "La Primera (Ojinaga) - 101.7 FM - XHOG-FM - Grupo BM Radio - Ojinaga, Chihuahua",
       "subtitle": "101.7 Fm, América",
@@ -10797,19 +10784,6 @@
       "streamUrl": "http://streamingcwsradio20.com:9410/stream"
     },
     {
-      "id": "rb2_la_ranchera_de_paquim_90_5_fm_540_am_xht_93658a96",
-      "title": "La Ranchera de Paquimé - 90.5 FM / 540 AM - XHTX-FM / XETX-AM - Grupo BM Radio - Nuevo Casas Grandes, Chihuahua",
-      "subtitle": "540 Am, 90.5 Fm",
-      "imageUrl": "",
-      "streamUrl": "https://stream.zeno.fm/8db4bm3xa84tv",
-      "location": "Chihuahua, Mexico",
-      "genre": "540 Am",
-      "countryCode": "MX",
-      "language": "spanish",
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_la_rancherita_106_3_fm_ciudad_guzm_n_5585467f",
       "title": "La Rancherita 106.3 FM Ciudad Guzmán",
       "subtitle": "Banda, Banda Norteña",
@@ -10921,19 +10895,6 @@
       "language": "spanish",
       "clickCount": 2,
       "bitrate": 48
-    },
-    {
-      "id": "rb2_la_se_al_del_progreso_97_5_fm_ciudad_con_f3e2c51e",
-      "title": "La Señal del Progreso 97.5 FM Ciudad Constitución.",
-      "subtitle": "Baja California Sur, Ciudad Constitución",
-      "imageUrl": "",
-      "streamUrl": "https://stream.zeno.fm/tcq74kgf9s8uv",
-      "location": "Baja California Sur, Mexico",
-      "genre": "Baja California Sur",
-      "countryCode": "MX",
-      "language": "español mexico",
-      "clickCount": 1,
-      "bitrate": 128
     },
     {
       "id": "rb2_la_suavecita_93_9_fm_kint_fm_entravision_6be4a354",
@@ -26393,18 +26354,6 @@
       "streamUrl": "https://rds3.desdeparaguay.net/movexclusiva/movexclusiva.stream/playlist.m3u8"
     },
     {
-      "id": "radio_vibras_92_7fm_py_3a850643",
-      "title": "Radio Vibras 92.7FM",
-      "subtitle": "Latino",
-      "location": "Paraguay",
-      "genre": "Latino",
-      "countryCode": "PY",
-      "language": "spanish",
-      "clickCount": 3,
-      "bitrate": 32,
-      "streamUrl": "https://rds3.desdeparaguay.net/movvibras/movvibras.stream/playlist.m3u8"
-    },
-    {
       "id": "emisoras_paraguay_106_1_fm_py_6c809248",
       "title": "Emisoras Paraguay 106.1 FM",
       "subtitle": "Cumbia",
@@ -27015,6 +26964,66 @@
       "clickCount": 2,
       "bitrate": 128,
       "streamUrl": "http://74.91.125.187:8028/stream"
+    },
+    {
+      "id": "radio_vibras_92_7fm_py_3a850643",
+      "title": "Radio Vibras 92.7FM",
+      "subtitle": "Latino",
+      "location": "Paraguay",
+      "genre": "Latino",
+      "countryCode": "PY",
+      "language": "spanish",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://rds3.desdeparaguay.net/movvibras/movvibras.stream/playlist.m3u8"
+    },
+    {
+      "id": "radio_nor_andina_101_9_mhz_fm_cajamarca_celend_n_pe_ea74572e",
+      "title": "Radio Nor Andina 101.9 MHz FM - Cajamarca, Celendín",
+      "subtitle": "Radio",
+      "location": "Peru",
+      "genre": "Radio",
+      "countryCode": "PE",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 320,
+      "streamUrl": "https://mediastreamm.com/8012/stream/1/"
+    },
+    {
+      "id": "radio_victor_music_per_pe_7114a118",
+      "title": "Radio Victor Music Perú",
+      "subtitle": "Cumbia Peruana",
+      "location": "Peru",
+      "genre": "Cumbia Peruana",
+      "countryCode": "PE",
+      "language": "español peruano",
+      "clickCount": 2,
+      "bitrate": 320,
+      "streamUrl": "https://radiostreaming.pro/8254/;"
+    },
+    {
+      "id": "bendici_n_divina_pe_17a68b0b",
+      "title": "Bendición Divina",
+      "subtitle": "Entretenimiento",
+      "location": "Peru",
+      "genre": "Entretenimiento",
+      "countryCode": "PE",
+      "language": "quechua",
+      "clickCount": 2,
+      "bitrate": 320,
+      "streamUrl": "https://sp.dattavolt.com:7073/stream"
+    },
+    {
+      "id": "radio_kebuena_pe_46983d5e",
+      "title": "Radio Kebuena",
+      "subtitle": "Cumbia",
+      "location": "Peru",
+      "genre": "Cumbia",
+      "countryCode": "PE",
+      "language": "quechua",
+      "clickCount": 2,
+      "bitrate": 192,
+      "streamUrl": "https://panel.innovatestream.pe:10970/stream"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-20T03:23:33Z",
+  "updated": "2026-09-21T03:19:49Z",
   "region": "europe",
   "part": 1,
   "of": 8,
@@ -6499,19 +6499,6 @@
       "language": "dutch",
       "clickCount": 0,
       "bitrate": 192
-    },
-    {
-      "id": "rb2_radio_air_libre_960d1cf5",
-      "title": "Radio Air Libre",
-      "subtitle": "Alternative",
-      "imageUrl": "",
-      "streamUrl": "http://streaming.domainepublic.net:8000/radioairlibre.ogg",
-      "location": "Brussels, Belgium",
-      "genre": "Alternative",
-      "countryCode": "BE",
-      "language": "french",
-      "clickCount": 0,
-      "bitrate": 128
     },
     {
       "id": "rb2_radio_alma_832e9054",
@@ -15747,19 +15734,6 @@
       "language": "czech",
       "clickCount": 0,
       "bitrate": 192
-    },
-    {
-      "id": "rb2_bojlerroom_a7febd85",
-      "title": "BojlerRoom",
-      "subtitle": "Club, Dance",
-      "imageUrl": "http://bojlerroom.cz/assets/images/bez-nzvu-1-220x218.png",
-      "streamUrl": "https://ice4.abradio.cz/bojler_room_128.aac",
-      "location": "Czechia",
-      "genre": "Club",
-      "countryCode": "CZ",
-      "language": "czech",
-      "clickCount": 0,
-      "bitrate": 320
     },
     {
       "id": "coop_tip_radio_cz",
@@ -27784,18 +27758,6 @@
       "streamUrl": "http://rozhlas.stream/radiozurnal_sport_adhoc_2_high.mp3"
     },
     {
-      "id": "pop_fm_slusaj_glasno_ba_fee41cde",
-      "title": "Pop FM - Slusaj glasno!!!",
-      "subtitle": "Radio",
-      "location": "Bosnia And Herzegovina",
-      "genre": "Radio",
-      "countryCode": "BA",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 192,
-      "streamUrl": "http://188.40.62.20:8032/;stream.nsv"
-    },
-    {
       "id": "gold_impuls_cz_ab78da88",
       "title": "Gold Impuls",
       "subtitle": "Radio",
@@ -28118,6 +28080,42 @@
       "clickCount": 3,
       "bitrate": 0,
       "streamUrl": "https://stream.zeno.fm/ec0tpqnxqsbvv"
+    },
+    {
+      "id": "radio_psr_sommerhits_de_8aaa3d3b",
+      "title": "RADIO PSR Sommerhits",
+      "subtitle": "2000Er",
+      "location": "Germany",
+      "genre": "2000Er",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 18,
+      "bitrate": 192,
+      "streamUrl": "https://streams.radiopsr.de/sommerhits/mp3-192/www.radio-browser.info/play.m3u8"
+    },
+    {
+      "id": "pop_fm_bosnia_and_herzegovina_ba_fee41cde",
+      "title": "Pop FM Bosnia and Herzegovina",
+      "subtitle": "Radio",
+      "location": "Bosnia And Herzegovina",
+      "genre": "Radio",
+      "countryCode": "BA",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "http://188.40.62.20:8032/;stream.nsv"
+    },
+    {
+      "id": "ai_revival_radio_cz_5608cd19",
+      "title": "AI REVIVAL Radio",
+      "subtitle": "80'S",
+      "location": "Czechia",
+      "genre": "80'S",
+      "countryCode": "CZ",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 256,
+      "streamUrl": "https://stream.airevival.eu/radio.mp3"
     }
   ]
 }

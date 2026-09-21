@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-20T03:23:33Z",
+  "updated": "2026-09-21T03:19:49Z",
   "region": "other",
   "stations": [
     {
@@ -2620,18 +2620,6 @@
       "clickCount": 5,
       "bitrate": 0,
       "streamUrl": "https://hls1.eu.peppermindmedia.com/xtrafm/south/XtraFMSouth.m3u8"
-    },
-    {
-      "id": "cope_gij_n_es_aa02e53e",
-      "title": "COPE Gijón",
-      "subtitle": "Talk Radio",
-      "location": "Spain",
-      "genre": "Talk Radio",
-      "countryCode": "ES",
-      "language": "spanish",
-      "clickCount": 5,
-      "bitrate": 96,
-      "streamUrl": "https://wecast22-o-cloud.flumotion.com/copesedes/gijon.mp3"
     },
     {
       "id": "xtra_fm_north_es_637095df",
@@ -5610,18 +5598,6 @@
       "streamUrl": "http://usa4.fastcast4u.com/proxy/4k1g?mp=/stream"
     },
     {
-      "id": "bbc_arabic_radio_gb_fdfbc1fe",
-      "title": "BBC Arabic Radio",
-      "subtitle": "Arabic",
-      "location": "The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "Arabic",
-      "countryCode": "GB",
-      "language": "arabic",
-      "clickCount": 16,
-      "bitrate": 101,
-      "streamUrl": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_arabic_radio.m3u8"
-    },
-    {
       "id": "megarock_radio_320k_us_5f662373",
       "title": "Megarock Radio 320k",
       "subtitle": "Classic Rock",
@@ -5680,18 +5656,6 @@
       "clickCount": 5,
       "bitrate": 128,
       "streamUrl": "https://control.streaming-pro.com:6006/durangoirratia.mp3"
-    },
-    {
-      "id": "listnr_chill_jazz_hls_au_712feb70",
-      "title": "LiSTNR - Chill Jazz (HLS)",
-      "subtitle": "Chill Jazz",
-      "location": "Australia",
-      "genre": "Chill Jazz",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 3,
-      "bitrate": 0,
-      "streamUrl": "http://wz0liw.scahw.com.au/live/chill-jazz.stream/playlist.m3u8"
     },
     {
       "id": "sorgintxu_irratia_es_a7c9eb87",
@@ -6942,30 +6906,6 @@
       "streamUrl": "https://radioserver11.profesionalhosting.com/proxy/pkg90177?mp=/stream"
     },
     {
-      "id": "listnr_caf_hls_au_13ab595c",
-      "title": "LiSTNR - Café (HLS)",
-      "subtitle": "Music",
-      "location": "Australia",
-      "genre": "Music",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 3,
-      "bitrate": 0,
-      "streamUrl": "http://wz0liw.scahw.com.au/live/cafe.stream/playlist.m3u8"
-    },
-    {
-      "id": "listnr_cooling_fan_white_noise_soundscapes_au_161fe3af",
-      "title": "LiSTNR - Cooling Fan (White Noise) [Soundscapes]",
-      "subtitle": "Cooling Fan",
-      "location": "Australia",
-      "genre": "Cooling Fan",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 3,
-      "bitrate": 0,
-      "streamUrl": "http://wz0liw.scahw.com.au/live/fan_128.stream/playlist.m3u8"
-    },
-    {
       "id": "listnr_pride_au_a9292183",
       "title": "LiSTNR - Pride",
       "subtitle": "Chart Hits",
@@ -7036,18 +6976,6 @@
       "clickCount": 2,
       "bitrate": 0,
       "streamUrl": "http://wz0liw.scahw.com.au/live/gaga.stream/playlist.m3u8"
-    },
-    {
-      "id": "listnr_afrobeats_hls_au_9a1abf99",
-      "title": "LiSTNR - Afrobeats (HLS)",
-      "subtitle": "Afrobeats",
-      "location": "Australia",
-      "genre": "Afrobeats",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 2,
-      "bitrate": 0,
-      "streamUrl": "http://wz0liw.scahw.com.au/live/afrobeats.stream/playlist.m3u8"
     },
     {
       "id": "grand_prix_radio_be_a941de89",
@@ -8238,18 +8166,6 @@
       "streamUrl": "https://icecast.radiofrance.fr/fipjazz-hifi.aac"
     },
     {
-      "id": "france24_arabic_fr_a2a63f6f",
-      "title": "France24 arabic",
-      "subtitle": "News",
-      "location": "France",
-      "genre": "News",
-      "countryCode": "FR",
-      "language": null,
-      "clickCount": 8,
-      "bitrate": 1095,
-      "streamUrl": "http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8"
-    },
-    {
       "id": "litt_live_70_s_us_48409979",
       "title": "LITT Live - 70's",
       "subtitle": "Radio",
@@ -8548,6 +8464,186 @@
       "clickCount": 2,
       "bitrate": 96,
       "streamUrl": "http://s10.myradiostream.com/15272/;"
+    },
+    {
+      "id": "wsm_us_02260e9e",
+      "title": "WSM",
+      "subtitle": "Americana",
+      "location": "The United States Of America",
+      "genre": "Americana",
+      "countryCode": "US",
+      "language": "english",
+      "clickCount": 11,
+      "bitrate": 96,
+      "streamUrl": "https://ais-sa8.cdnstream1.com/3666_96.aac"
+    },
+    {
+      "id": "michigan_don_oldies_us_bd031ddd",
+      "title": "Michigan Don Oldies",
+      "subtitle": "Radio",
+      "location": "The United States Of America",
+      "genre": "Radio",
+      "countryCode": "US",
+      "language": null,
+      "clickCount": 11,
+      "bitrate": 128,
+      "streamUrl": "http://listen1.outpostradio.com/mdo"
+    },
+    {
+      "id": "nostalgie_100_fran_ais_90_fr_4603fd2c",
+      "title": "Nostalgie 100% Français 90",
+      "subtitle": "Nostalgie",
+      "location": "France",
+      "genre": "Nostalgie",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 10,
+      "bitrate": 128,
+      "streamUrl": "https://streaming.nrjaudio.fm/oumvgz8fnozc"
+    },
+    {
+      "id": "bbc_arabic_radio_gb_fdfbc1fe",
+      "title": "BBC Arabic Radio",
+      "subtitle": "Arabic",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Arabic",
+      "countryCode": "GB",
+      "language": "arabic",
+      "clickCount": 9,
+      "bitrate": 101,
+      "streamUrl": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_arabic_radio.m3u8"
+    },
+    {
+      "id": "ch_rie_fm_g_n_ration_2000_fr_962bb586",
+      "title": "Chérie FM Génération 2000",
+      "subtitle": "Cherie Fm",
+      "location": "France",
+      "genre": "Cherie Fm",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 7,
+      "bitrate": 128,
+      "streamUrl": "https://streaming.nrjaudio.fm/out2zo6ubafg"
+    },
+    {
+      "id": "cope_granada_sta_fe_es_4bb1f043",
+      "title": "COPE Granada-Sta.Fe",
+      "subtitle": "Actualidad",
+      "location": "Spain",
+      "genre": "Actualidad",
+      "countryCode": "ES",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 56,
+      "streamUrl": "https://granada-copesedes-rrcast.flumotion.com/copesedes/granada-low.mp3"
+    },
+    {
+      "id": "jazz_radio_jazz_classique_fr_2f56c400",
+      "title": "JAZZ RADIO - Jazz & Classique",
+      "subtitle": "Radio",
+      "location": "France",
+      "genre": "Radio",
+      "countryCode": "FR",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "http://jazz-wr17.ice.infomaniak.ch/jazz-wr17-128.mp3"
+    },
+    {
+      "id": "radio_orbital_ch_ch_e62a9702",
+      "title": "Radio Orbital ch",
+      "subtitle": "Radio",
+      "location": "Switzerland",
+      "genre": "Radio",
+      "countryCode": "CH",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "http://orbital.ice.infomaniak.ch/orbital.mp3"
+    },
+    {
+      "id": "oui_fm_summertime_fr_626f6aca",
+      "title": "OUI FM SUMMERTIME",
+      "subtitle": "Rock",
+      "location": "France",
+      "genre": "Rock",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://ouifmsummertime.ice.infomaniak.ch/ouifmsummertime.mp3"
+    },
+    {
+      "id": "rire_chansons_blagues_fr_8b3a025a",
+      "title": "Rire & Chansons Blagues",
+      "subtitle": "Rire Et Chansons",
+      "location": "France",
+      "genre": "Rire Et Chansons",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://streaming.nrjaudio.fm/oug7y8rb92oc"
+    },
+    {
+      "id": "90s_2000s_more_gb_826d89e9",
+      "title": "90s 2000s & More",
+      "subtitle": "00S",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "00S",
+      "countryCode": "GB",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://lunar.citrus3.com:8162/stream"
+    },
+    {
+      "id": "bbc_radio_northampton_uk_only_gb_3b8e7de2",
+      "title": "BBC Radio Northampton (UK Only)",
+      "subtitle": "Information",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Information",
+      "countryCode": "GB",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 339,
+      "streamUrl": "http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/cfs/bbc_radio_northampton.m3u8"
+    },
+    {
+      "id": "rustralia_radio_mp3_au_3e371605",
+      "title": "RUSTRALIA Radio (MP3)",
+      "subtitle": "Music",
+      "location": "Australia",
+      "genre": "Music",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 2,
+      "bitrate": 0,
+      "streamUrl": "http://stream.zeno.fm/wure6q3q008uv"
+    },
+    {
+      "id": "rpp_fm_au_3257e928",
+      "title": "RPP FM",
+      "subtitle": "Radio",
+      "location": "Australia",
+      "genre": "Radio",
+      "countryCode": "AU",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "https://streaming.radio.co/sfbd79db12/listen"
+    },
+    {
+      "id": "c91_3fm_campbelltown_91_3_fm_aac_au_f20e4bee",
+      "title": "c91.3FM - Campbelltown - 91.3 FM (AAC)",
+      "subtitle": "Hot Adult Contemporary",
+      "location": "Australia",
+      "genre": "Hot Adult Contemporary",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 2,
+      "bitrate": 64,
+      "streamUrl": "http://ice9.securenetsystems.net/C913"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-20T03:23:33Z",
+  "updated": "2026-09-21T03:19:49Z",
   "region": "africa",
   "stations": [
     {
@@ -2819,15 +2819,6 @@
       "bitrate": 128
     },
     {
-      "id": "ghetto_kenya_ke_cde57b",
-      "title": "ghetto kenya",
-      "subtitle": "Classical",
-      "location": "Kenya",
-      "genre": "Classical",
-      "countryCode": "KE",
-      "streamUrl": "https://stream.zeno.fm/kvudezx1h2zuv"
-    },
-    {
       "id": "radio_chifa_km",
       "title": "Radio Chifa",
       "subtitle": "OGG 0kbps",
@@ -3733,15 +3724,6 @@
       "language": null,
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "radio_blau_leipzig_trocken_320kbps_ne",
-      "title": "Radio BLAU Leipzig (trocken 320kbps)",
-      "subtitle": "Amateurfunk / Bürgerradio",
-      "location": "Suisse Romande, The Niger",
-      "genre": "R&B",
-      "countryCode": "NE",
-      "streamUrl": "http://icecast.radioblau.de:8000/blau_320_dry"
     },
     {
       "id": "wadata_radio_107_4_niamey_ne",
@@ -9778,18 +9760,6 @@
       "streamUrl": "http://stream1.dimusic.club:11534/rw?type=.aac"
     },
     {
-      "id": "joy_hits_channel_ug_090aa0be",
-      "title": "Joy hits channel",
-      "subtitle": "Music",
-      "location": "Uganda",
-      "genre": "Music",
-      "countryCode": "UG",
-      "language": "english",
-      "clickCount": 3,
-      "bitrate": 320,
-      "streamUrl": "http://joyhits.online/joyhitshq.mp3"
-    },
-    {
       "id": "oman_fm_gh_210fbfa2",
       "title": "Oman Fm",
       "subtitle": "Variety",
@@ -10472,6 +10442,66 @@
       "clickCount": 6,
       "bitrate": 128,
       "streamUrl": "https://radio.yabiladi.com:9002/;stream.mp3"
+    },
+    {
+      "id": "radio_blau_leipzig_trocken_320kbps_ne_14aa870a",
+      "title": "Radio BLAU Leipzig (trocken 320kbps)",
+      "subtitle": "Amateurfunk",
+      "location": "The Niger",
+      "genre": "Amateurfunk",
+      "countryCode": "NE",
+      "language": "upper chinook",
+      "clickCount": 9,
+      "bitrate": 320,
+      "streamUrl": "http://icecast.radioblau.de:8000/blau_320_dry"
+    },
+    {
+      "id": "eagle_7_sports_radio_103_7_fm_ng_0caf6fbc",
+      "title": "EAGLE 7 SPORTS RADIO 103.7 FM",
+      "subtitle": "Afrobeats",
+      "location": "Nigeria",
+      "genre": "Afrobeats",
+      "countryCode": "NG",
+      "language": "english",
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://eagle7fm-atunwadigital.streamguys1.com/eagle7fm"
+    },
+    {
+      "id": "radio_fr_quence_3_93_8_bamako_ml_9b3ee76d",
+      "title": "Radio Fréquence 3 93.8 Bamako",
+      "subtitle": "Music",
+      "location": "Mali",
+      "genre": "Music",
+      "countryCode": "ML",
+      "language": "french",
+      "clickCount": 2,
+      "bitrate": 64,
+      "streamUrl": "http://ice.stream.frequence3.net/frequence3-64.aac"
+    },
+    {
+      "id": "1radio_oguta_community_ng_eb137708",
+      "title": "1Radio Oguta - Community",
+      "subtitle": "Radio",
+      "location": "Nigeria",
+      "genre": "Radio",
+      "countryCode": "NG",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 64,
+      "streamUrl": "https://fm.imediaport.com/1radio.oguta"
+    },
+    {
+      "id": "sodais_tn_9b6f1ee8",
+      "title": "Sodais",
+      "subtitle": "Classical",
+      "location": "Tunisia",
+      "genre": "Classical",
+      "countryCode": "TN",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "https://backup.qurango.net/radio/abdulrahman_alsudaes"
     }
   ]
 }

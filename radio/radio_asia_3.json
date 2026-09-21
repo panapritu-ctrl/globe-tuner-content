@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-20T03:23:33Z",
+  "updated": "2026-09-21T03:19:49Z",
   "region": "asia",
   "part": 3,
   "of": 3,
@@ -4218,15 +4218,6 @@
       "genre": "Music",
       "countryCode": "PS",
       "streamUrl": "https://streamer.mada.ps:8208/ajyal"
-    },
-    {
-      "id": "amen24_ps",
-      "title": "Amen24",
-      "subtitle": "MP3 128kbps",
-      "location": "State Of Palestine",
-      "genre": "Music",
-      "countryCode": "PS",
-      "streamUrl": "https://rstream.hadara.ps/proxy/amen24/stream"
     },
     {
       "id": "camp_radio_ps_1ae97e",
@@ -10543,19 +10534,6 @@
       "bitrate": 160
     },
     {
-      "id": "rb2_vi_be_stati_on_cb004a3a",
-      "title": "VİBE STATİON",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://stream.zeno.fm/528but9e7motv",
-      "location": "Türkiye",
-      "genre": "Radio",
-      "countryCode": "TR",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_vi_rgi_n_radyo_82c18698",
       "title": "VİRGİN RADYO",
       "subtitle": "Radio",
@@ -15457,18 +15435,6 @@
       "streamUrl": "https://stream.zeno.fm/h8xpcgffowluv"
     },
     {
-      "id": "vov1_vn_83f53484",
-      "title": "VOV1",
-      "subtitle": "Government",
-      "location": "Vietnam",
-      "genre": "Government",
-      "countryCode": "VN",
-      "language": "vietnamese",
-      "clickCount": 47,
-      "bitrate": 256,
-      "streamUrl": "https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/playlist.m3u8"
-    },
-    {
       "id": "am_891_khz_th_4d77f2f1",
       "title": "สถานีวิทยุกระจายเสียงแห่งประเทศไทย (AM 891 KHz)",
       "subtitle": "Radio",
@@ -15527,18 +15493,6 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "http://202.39.43.67:1935/live/RA000001/chunklist.m3u8"
-    },
-    {
-      "id": "heart_fm_92_7mhz_cdo_city_ph_403fa093",
-      "title": "Heart FM 92.7Mhz CDO City",
-      "subtitle": "Radio",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "language": null,
-      "clickCount": 3,
-      "bitrate": 64,
-      "streamUrl": "https://us1.amfmph.com/ssl/heartfmcdo?mp=/stream&1679730513324"
     },
     {
       "id": "amfmph_streams_demo_32k_mp3_ph_9d0c773b",
@@ -15983,18 +15937,6 @@
       "clickCount": 4,
       "bitrate": 48,
       "streamUrl": "http://209.126.124.126:8721/stream"
-    },
-    {
-      "id": "station_tw_2e3de465",
-      "title": "古都電台",
-      "subtitle": "Culture",
-      "location": "Taiwan, Republic Of China",
-      "genre": "Culture",
-      "countryCode": "TW",
-      "language": "hokkien",
-      "clickCount": 4,
-      "bitrate": 0,
-      "streamUrl": "http://n03.rcs.revma.com/8bpxy9a122hvv"
     },
     {
       "id": "radyong_sira_ph_b54541b0",
@@ -16943,6 +16885,150 @@
       "clickCount": 2,
       "bitrate": 3128,
       "streamUrl": "https://cdn-edge.iiptvcdn.com/live_event/smil:a834-75a7-a662-db55-5fa3.smil/playlist.m3u8?null"
+    },
+    {
+      "id": "vov1_vn_83f53484",
+      "title": "VOV1",
+      "subtitle": "Government",
+      "location": "Vietnam",
+      "genre": "Government",
+      "countryCode": "VN",
+      "language": "vietnamese",
+      "clickCount": 28,
+      "bitrate": 256,
+      "streamUrl": "https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/playlist.m3u8"
+    },
+    {
+      "id": "a_r_fm_diyarbak_r_tr_8be25d0e",
+      "title": "Çağrı FM Diyarbakır",
+      "subtitle": "Radio",
+      "location": "Türkiye",
+      "genre": "Radio",
+      "countryCode": "TR",
+      "language": "türkisch",
+      "clickCount": 10,
+      "bitrate": 192,
+      "streamUrl": "https://anadolu.liderhost.com.tr/8002/stream?/;stream.mp3"
+    },
+    {
+      "id": "requestradio_string_alt_th_a562c325",
+      "title": "RequestRadio String (Alt)",
+      "subtitle": "Regional Music",
+      "location": "Thailand",
+      "genre": "Regional Music",
+      "countryCode": "TH",
+      "language": "thai",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://ozone2.javmemory.com/Music.mp3"
+    },
+    {
+      "id": "radyo_mydonose_tr_5f86877c",
+      "title": "radyo mydonose",
+      "subtitle": "Radio",
+      "location": "Türkiye",
+      "genre": "Radio",
+      "countryCode": "TR",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_MYDONOSE128AAC.aac?/;stream.mp3"
+    },
+    {
+      "id": "bombo_radyo_naga_ph_41a2678e",
+      "title": "Bombo Radyo Naga",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 64,
+      "streamUrl": "http://stream.zenolive.com/a0zn713mz9duv"
+    },
+    {
+      "id": "radio_one_fm_91_gwadar_pk_745b9fd9",
+      "title": "Radio One FM 91 Gwadar",
+      "subtitle": "Music",
+      "location": "Pakistan",
+      "genre": "Music",
+      "countryCode": "PK",
+      "language": "urdu",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "http://cc.vmakerhost.com:8147/stream"
+    },
+    {
+      "id": "ria_897_sg_bea85486",
+      "title": "RIA 897",
+      "subtitle": "Melisten",
+      "location": "Singapore",
+      "genre": "Melisten",
+      "countryCode": "SG",
+      "language": "malay",
+      "clickCount": 3,
+      "bitrate": 64,
+      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/RIA897FM_PREM.aac"
+    },
+    {
+      "id": "requestradio_alt_th_9ee5db12",
+      "title": "RequestRadio เพื่อชีวิต (Alt)",
+      "subtitle": "Country Music",
+      "location": "Thailand",
+      "genre": "Country Music",
+      "countryCode": "TH",
+      "language": "thai",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://ozone2.javmemory.com/Forlife.mp3"
+    },
+    {
+      "id": "ria_897_sg_a0c70ac4",
+      "title": "RIA 897",
+      "subtitle": "Pop",
+      "location": "Singapore",
+      "genre": "Pop",
+      "countryCode": "SG",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 96,
+      "streamUrl": "https://22393.live.streamtheworld.com/RIA897FM_SC"
+    },
+    {
+      "id": "requestradio_inter_alt_th_e2afbf66",
+      "title": "RequestRadio Inter (Alt)",
+      "subtitle": "International Hits",
+      "location": "Thailand",
+      "genre": "International Hits",
+      "countryCode": "TH",
+      "language": "english",
+      "clickCount": 2,
+      "bitrate": 0,
+      "streamUrl": "https://ozone2.javmemory.com/Inter.mp3"
+    },
+    {
+      "id": "requestradio_alt_th_01beb55e",
+      "title": "RequestRadio ลูกทุ่ง (Alt)",
+      "subtitle": "Looktung",
+      "location": "Thailand",
+      "genre": "Looktung",
+      "countryCode": "TH",
+      "language": "thai",
+      "clickCount": 2,
+      "bitrate": 0,
+      "streamUrl": "https://ozone2.javmemory.com/Looktung.mp3"
+    },
+    {
+      "id": "nbt2hd_th_9a9146a2",
+      "title": "NBT2HD",
+      "subtitle": "Government",
+      "location": "Thailand",
+      "genre": "Government",
+      "countryCode": "TH",
+      "language": "english",
+      "clickCount": 2,
+      "bitrate": 3128,
+      "streamUrl": "https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/playlist.m3u8"
     }
   ]
 }

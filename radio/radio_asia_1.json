@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-20T03:23:33Z",
+  "updated": "2026-09-21T03:19:49Z",
   "region": "asia",
   "part": 1,
   "of": 3,
@@ -13070,19 +13070,6 @@
       "countryCode": "CN",
       "language": "chinese",
       "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_971_355b80f7",
-      "title": "临淄广播·公信971",
-      "subtitle": "Information, News",
-      "imageUrl": "https://pic.qtfm.cn/2018/1128/2018112810355677.jpg",
-      "streamUrl": "https://lhttp-hw.qtfm.cn/live/20212204/64k.mp3",
-      "location": "Shantung, China",
-      "genre": "Information",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 1,
       "bitrate": 128
     },
     {
@@ -26878,18 +26865,6 @@
       "streamUrl": "http://23.81.35.187:8054/stream"
     },
     {
-      "id": "station_cn_430dccdc",
-      "title": "湖南金鹰之声",
-      "subtitle": "Information",
-      "location": "China",
-      "genre": "Information",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 3,
-      "bitrate": 0,
-      "streamUrl": "http://a.live.hnradio.com/jypd/radio120k_jypd.m3u8?auth_key=1588751199-0-0-e412c6c15ca2bf1ad6f0833c2bd73bb2"
-    },
-    {
       "id": "1058_cn_51592c42",
       "title": "保定1058飞扬调频汽车音乐广播（清苑区融媒体中心）",
       "subtitle": "Music",
@@ -27632,6 +27607,18 @@
       "clickCount": 7,
       "bitrate": 637,
       "streamUrl": "https://admn-radio-cdn-lb.starzplayarabia.com/out/v1/admn_radio_enc/emarat_fm/emarat_fm_hls_nd/index.m3u8"
+    },
+    {
+      "id": "baku_jazz_radio_az_8c2802b4",
+      "title": "Baku Jazz Radio",
+      "subtitle": "Radio",
+      "location": "Azerbaijan",
+      "genre": "Radio",
+      "countryCode": "AZ",
+      "language": null,
+      "clickCount": 15,
+      "bitrate": 192,
+      "streamUrl": "https://a9.asurahosting.com/listen/bakujazzredio/radio.mp3"
     }
   ]
 }

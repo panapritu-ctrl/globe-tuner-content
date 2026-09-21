@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-20T03:23:04Z",
+  "updated": "2026-09-21T03:19:50Z",
   "region": "europe",
   "part": 5,
   "of": 8,
@@ -27558,18 +27558,6 @@
       "streamUrl": "http://proxima.shoutca.st:8559/stream"
     },
     {
-      "id": "ozone_fm_hu_693c5f18",
-      "title": "OZONE FM",
-      "subtitle": "Top Hits",
-      "location": "Hungary",
-      "genre": "Top Hits",
-      "countryCode": "HU",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 128,
-      "streamUrl": "https://oxygenmusic.hu:8000/ozonefm_128"
-    },
-    {
       "id": "kpop_radio_hu_fe2835e7",
       "title": "Kpop Radio",
       "subtitle": "Dance",
@@ -27928,6 +27916,30 @@
       "clickCount": 2,
       "bitrate": 128,
       "streamUrl": "http://142.132.158.102:8221/stream"
+    },
+    {
+      "id": "radio_skylab_salento_98_6_fm_it_868f31f7",
+      "title": "Radio Skylab Salento 98.6 FM",
+      "subtitle": "Various Music",
+      "location": "Italy",
+      "genre": "Various Music",
+      "countryCode": "IT",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://ns333420.ip-37-187-126.eu:8443/skylab.mp3"
+    },
+    {
+      "id": "oxygen_xmas_hu_e062403a",
+      "title": "Oxygen Xmas",
+      "subtitle": "Radio",
+      "location": "Hungary",
+      "genre": "Radio",
+      "countryCode": "HU",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 160,
+      "streamUrl": "http://oxygenmusic.hu:8000/xmas_320"
     }
   ]
 }

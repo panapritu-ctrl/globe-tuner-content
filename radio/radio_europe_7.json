@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-20T03:23:33Z",
+  "updated": "2026-09-21T03:19:50Z",
   "region": "europe",
   "part": 7,
   "of": 8,
@@ -1789,15 +1789,6 @@
       "language": null,
       "clickCount": 1,
       "bitrate": 128
-    },
-    {
-      "id": "radio_plus_pl_d6a5c0",
-      "title": "Radio Plus",
-      "subtitle": "Radio",
-      "location": "Poland",
-      "genre": "Radio",
-      "countryCode": "PL",
-      "streamUrl": "https://pl02.cdn.eurozet.pl/plu-waw.mp3?redirected=02"
     },
     {
       "id": "rb2_radio_plus_106_1_krak_w_2a3873b3",
@@ -4267,19 +4258,6 @@
       "genre": "Alternative",
       "streamUrl": "https://streaming-live.rtp.pt/liveradio/antena380a/playlist.m3u8?DVR",
       "countryCode": "PT"
-    },
-    {
-      "id": "rb2_antena_3_main_30c9039c",
-      "title": "Antena 3 - Main",
-      "subtitle": "Radio",
-      "imageUrl": "https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/1-143718101410.png?q=10&v=3&w=275",
-      "streamUrl": "https://radiocast.rtp.pt/antena380a.mp3",
-      "location": "Portugal",
-      "genre": "Radio",
-      "countryCode": "PT",
-      "language": null,
-      "clickCount": 3,
-      "bitrate": 128
     },
     {
       "id": "rb2_antena_3_madeira_portugal_070c21d8",
@@ -23852,18 +23830,6 @@
       "streamUrl": "https://live.radiooldies.ro:9200/stream"
     },
     {
-      "id": "super_fm_manele_prahova_ro_1e69d4bf",
-      "title": "Super Fm Manele Prahova",
-      "subtitle": "Manele",
-      "location": "Romania",
-      "genre": "Manele",
-      "countryCode": "RO",
-      "language": "romania",
-      "clickCount": 3,
-      "bitrate": 128,
-      "streamUrl": "https://asculta.superfmradio.ro/9720/stream"
-    },
-    {
       "id": "clasic_radio_relax_bucure_ti_ro_09c5af4d",
       "title": "Clasic Radio_Relax -București",
       "subtitle": "Ambiental",
@@ -24764,18 +24730,6 @@
       "streamUrl": "https://radio.losbandoleros.ro/listen/losbandoleros/radio.mp3"
     },
     {
-      "id": "radio_mackica_narodna_muzika_rs_53b5a0da",
-      "title": "Radio Mackica - Narodna Muzika",
-      "subtitle": "Radio",
-      "location": "Serbia",
-      "genre": "Radio",
-      "countryCode": "RS",
-      "language": "serbian",
-      "clickCount": 4,
-      "bitrate": 128,
-      "streamUrl": "http://cast2.name.ba:8153/;stream.nsv"
-    },
-    {
       "id": "radio_trstenik_94_2_rs_594ef003",
       "title": "Radio Trstenik 94.2",
       "subtitle": "Pop",
@@ -24894,18 +24848,6 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://naxidigital-blues128ssl.streaming.rs:8312/;stream.nsv"
-    },
-    {
-      "id": "naxi_jazz_radio_rs_5452c2c5",
-      "title": "Naxi Jazz Radio",
-      "subtitle": "Radio",
-      "location": "Serbia",
-      "genre": "Radio",
-      "countryCode": "RS",
-      "language": "serbian",
-      "clickCount": 4,
-      "bitrate": 128,
-      "streamUrl": "https://naxidigital-jazz128ssl.streaming.rs:8172/;stream.nsv"
     },
     {
       "id": "naxi_gold_radio_rs_8a99480e",
@@ -25520,18 +25462,6 @@
       "streamUrl": "http://mp3.radiohot.ro:8000/stream"
     },
     {
-      "id": "radio_pl_8be10ced",
-      "title": "radio",
-      "subtitle": "Musical",
-      "location": "Poland",
-      "genre": "Musical",
-      "countryCode": "PL",
-      "language": "polish",
-      "clickCount": 5,
-      "bitrate": 128,
-      "streamUrl": "https://c16.radioboss.fm:18014/stream"
-    },
-    {
       "id": "radio_baobab_pl_be59a3cd",
       "title": "Radio Baobab",
       "subtitle": "Radio",
@@ -25986,6 +25916,126 @@
       "clickCount": 2,
       "bitrate": 128,
       "streamUrl": "http://magnum.web-srbija.net:8121/;stream.nsv"
+    },
+    {
+      "id": "radio_romantic_modern_talking_blue_systems_ro_aab90374",
+      "title": "Radio Romantic Modern Talking - Blue Systems",
+      "subtitle": "Radio",
+      "location": "Romania",
+      "genre": "Radio",
+      "countryCode": "RO",
+      "language": "engilsh",
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://stream.zeno.fm/51tmunbbg18uv"
+    },
+    {
+      "id": "radio_mackica_narodna_muzika_rs_53b5a0da",
+      "title": "Radio Mackica - Narodna Muzika",
+      "subtitle": "Radio",
+      "location": "Serbia",
+      "genre": "Radio",
+      "countryCode": "RS",
+      "language": "serbian",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "http://cast2.name.ba:8153/;stream.nsv"
+    },
+    {
+      "id": "dj_canic_radio_rs_344fdb55",
+      "title": "dj canic radio",
+      "subtitle": "Radio",
+      "location": "Serbia",
+      "genre": "Radio",
+      "countryCode": "RS",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream.zeno.fm/5xbihv8cky7tv"
+    },
+    {
+      "id": "szabadkai_magyar_r_di_rs_140ce096",
+      "title": "Szabadkai Magyar Rádió",
+      "subtitle": "Local Radio",
+      "location": "Serbia",
+      "genre": "Local Radio",
+      "countryCode": "RS",
+      "language": "hungarian",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://stream.nmih.hu:4110/live.mp3"
+    },
+    {
+      "id": "radio_gryfice_ai_pl_49286d3f",
+      "title": "Radio Gryfice AI",
+      "subtitle": "Adult Contemporary",
+      "location": "Poland",
+      "genre": "Adult Contemporary",
+      "countryCode": "PL",
+      "language": "polish",
+      "clickCount": 3,
+      "bitrate": 192,
+      "streamUrl": "https://panel.radio.gryfice.net/listen/radio-gryfice/radio.mp3"
+    },
+    {
+      "id": "radio_safira_pl_004c00f6",
+      "title": "Radio Safira",
+      "subtitle": "Christian",
+      "location": "Poland",
+      "genre": "Christian",
+      "countryCode": "PL",
+      "language": "polish",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://ec1.yesstreaming.net:2340/stream"
+    },
+    {
+      "id": "radio_plus_pl_df5cd341",
+      "title": "Radio Plus",
+      "subtitle": "Classic Hits",
+      "location": "Poland",
+      "genre": "Classic Hits",
+      "countryCode": "PL",
+      "language": "polish",
+      "clickCount": 3,
+      "bitrate": 64,
+      "streamUrl": "http://waw.ic.smcdn.pl/4990-1.aac"
+    },
+    {
+      "id": "antena_3_main_pt_eb61b223",
+      "title": "Antena 3 - Main",
+      "subtitle": "Radio",
+      "location": "Portugal",
+      "genre": "Radio",
+      "countryCode": "PT",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://radiocast.rtp.pt/antena380a.mp3"
+    },
+    {
+      "id": "pannon_r_di_rs_0990ecc6",
+      "title": "Pannon Rádió",
+      "subtitle": "Local Radio",
+      "location": "Serbia",
+      "genre": "Local Radio",
+      "countryCode": "RS",
+      "language": "hungarian",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "http://stream2.nmih.hu:4120/live.mp3"
+    },
+    {
+      "id": "radio_zelengrad_milwaukee_usa_rs_657d8dac",
+      "title": "Radio Zelengrad - Milwaukee - USA",
+      "subtitle": "Radio",
+      "location": "Serbia",
+      "genre": "Radio",
+      "countryCode": "RS",
+      "language": "serbian",
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "http://usa5.fastcast4u.com:16276/;stream.nsv"
     }
   ]
 }

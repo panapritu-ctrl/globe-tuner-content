@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-20T03:23:33Z",
+  "updated": "2026-09-21T03:19:49Z",
   "region": "europe",
   "part": 8,
   "of": 8,
@@ -4101,19 +4101,6 @@
       "bitrate": 256
     },
     {
-      "id": "rb2_radio_dacha_5ba1d955",
-      "title": "Radio Dacha",
-      "subtitle": "Classic Hits, Hits",
-      "imageUrl": "",
-      "streamUrl": "https://stream.n340.com/14_dacha_64?type=aac&UID=AF2C3AB947218127F59F62740712F61D",
-      "location": "The Russian Federation",
-      "genre": "Classic Hits",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 0,
-      "bitrate": 28
-    },
-    {
       "id": "rb2_radio_deluxe_be296b4e",
       "title": "Radio Deluxe",
       "subtitle": "Radio",
@@ -7908,19 +7895,6 @@
       "language": null,
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_station_f0fe3606",
-      "title": "Восток ФМ",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://stream.n340.com:8443/18_vostok_28?type=.aac&UID=11A3846BF93ADC0825E11936B6338B7E",
-      "location": "The Russian Federation",
-      "genre": "Radio",
-      "countryCode": "RU",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 28
     },
     {
       "id": "rb2_94_0_fm_1e6103d8",
@@ -25346,6 +25320,54 @@
       "clickCount": 2,
       "bitrate": 128,
       "streamUrl": "https://online.radiokiks.sk:8000/kiks_big80s.mp3"
+    },
+    {
+      "id": "rock_irk_ru_main_mix_ru_1dac1b1a",
+      "title": "rock.irk.ru :: main-mix",
+      "subtitle": "Acoustic",
+      "location": "The Russian Federation",
+      "genre": "Acoustic",
+      "countryCode": "RU",
+      "language": "english",
+      "clickCount": 7,
+      "bitrate": 35,
+      "streamUrl": "https://live.rock.irk.ru/hls/main-mix/live.m3u8"
+    },
+    {
+      "id": "stockholm_fm_88_0_sweden_se_bcdf7b34",
+      "title": "Stockholm FM 88,0 Sweden",
+      "subtitle": "Church",
+      "location": "Sweden",
+      "genre": "Church",
+      "countryCode": "SE",
+      "language": "swedish",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://radiostreamone.mine.nu/18000"
+    },
+    {
+      "id": "ta3_sk_a9060b65",
+      "title": "TA3",
+      "subtitle": "Radio",
+      "location": "Slovakia",
+      "genre": "Radio",
+      "countryCode": "SK",
+      "language": "slovak",
+      "clickCount": 4,
+      "bitrate": 631,
+      "streamUrl": "https://n13.stv.livebox.sk/ta3/685d9a141bd846e8facf83bc378da26b/1.smil/chunklist_b2691072.m3u8"
+    },
+    {
+      "id": "radio_capris_number_1_s_si_d3b68797",
+      "title": "Radio Capris Number 1's",
+      "subtitle": "Radio",
+      "location": "Slovenia",
+      "genre": "Radio",
+      "countryCode": "SI",
+      "language": "slovenian",
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "http://stream02.exit.si:8000/NO1?"
     }
   ]
 }
