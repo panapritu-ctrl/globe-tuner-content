@@ -123,24 +123,46 @@ def pick_target_file(country_code, country_files, file_station_counts, index):
     return min(candidates, key=lambda f: file_station_counts[f])
 
 
-async def discover_candidates(session, country_code, timeout):
+PAGE_SIZE = 300
+
+
+async def discover_candidates(session, country_code, timeout, pages=1):
+    """Pull a country's stations from Radio Browser, paging past the first
+    PAGE_SIZE.
+
+    This used to request a flat limit=300 per country, which quietly capped
+    discovery: Radio Browser holds 8,206 US and 6,415 German stations, so
+    after the top 300 of each were added the script re-read those same 300
+    every day and found nothing new -- catalog growth had fallen to ~39/day
+    against a 500/day allowance, starved of candidates rather than capped
+    by them. 36 countries hold more than 300 stations. Paging with an
+    offset reaches the rest of the tail.
+    """
     url = f"{RB_BASE}/stations/bycountrycodeexact/{country_code}"
-    params = {
-        "hidebroken": "true",
-        "lastcheckok": "1",
-        "order": "clickcount",
-        "reverse": "true",
-        "limit": "300",
-    }
-    try:
-        async with session.get(
-            url, params=params, timeout=aiohttp.ClientTimeout(total=timeout), headers=HEADERS
-        ) as resp:
-            if resp.status != 200:
-                return []
-            data = await resp.json(content_type=None)
-    except Exception:
-        return []
+    data = []
+    for page in range(max(1, pages)):
+        params = {
+            "hidebroken": "true",
+            "lastcheckok": "1",
+            "order": "clickcount",
+            "reverse": "true",
+            "limit": str(PAGE_SIZE),
+            "offset": str(page * PAGE_SIZE),
+        }
+        try:
+            async with session.get(
+                url, params=params, timeout=aiohttp.ClientTimeout(total=timeout), headers=HEADERS
+            ) as resp:
+                if resp.status != 200:
+                    break
+                chunk = await resp.json(content_type=None)
+        except Exception:
+            break
+        if not chunk:
+            break
+        data.extend(chunk)
+        if len(chunk) < PAGE_SIZE:
+            break   # reached the end of this country's list
 
     out = []
     for s in data:
@@ -199,7 +221,7 @@ async def main_async(args) -> int:
 
         async def fetch(cc):
             async with sem:
-                return cc, await discover_candidates(session, cc, args.timeout)
+                return cc, await discover_candidates(session, cc, args.timeout, args.pages)
 
         results = await asyncio.gather(*(fetch(cc) for cc in covered_countries))
 
@@ -297,6 +319,10 @@ def main():
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     parser.add_argument("--dry-run", action="store_true")
     parser.add_argument("--max-new", type=int, default=500, help="Cap on new stations added per run")
+    parser.add_argument("--pages", type=int, default=4,
+                        help="Pages of 300 stations to pull per country. 1 reproduces "
+                             "the old top-300-only behaviour; higher reaches deeper "
+                             "into large countries' tails.")
     parser.add_argument("--concurrency", type=int, default=100)
     parser.add_argument("--timeout", type=float, default=8.0)
     args = parser.parse_args()
