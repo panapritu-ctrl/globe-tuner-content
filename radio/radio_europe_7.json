@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-21T03:19:50Z",
+  "updated": "2026-09-22T03:18:30Z",
   "region": "europe",
   "part": 7,
   "of": 8,
@@ -3152,19 +3152,6 @@
       "language": "polish",
       "clickCount": 0,
       "bitrate": 48
-    },
-    {
-      "id": "rb2_rock_fm_bydgoszcz_b2b79cbf",
-      "title": "Rock FM Bydgoszcz",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://217.182.76.63:8000/rfmweb",
-      "location": "Poland",
-      "genre": "Radio",
-      "countryCode": "PL",
-      "language": "polish",
-      "clickCount": 0,
-      "bitrate": 128
     },
     {
       "id": "rock_radio_pl_226238",
@@ -11536,19 +11523,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_radio_petrec_retzu_ac8fd250",
-      "title": "Radio Petrecăretzu",
-      "subtitle": "Etno, Muzică De Petrecere",
-      "imageUrl": "",
-      "streamUrl": "http://live.radiopetrecaretzu.ro:8383/;",
-      "location": "Romania",
-      "genre": "Etno",
-      "countryCode": "RO",
-      "language": "romanian",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_radio_pitesteanu_romania_0898dec2",
       "title": "Radio Pitesteanu Romania",
       "subtitle": "Etno, Manele",
@@ -11996,19 +11970,6 @@
       "genre": "Muzica Usoara Romaneasca",
       "countryCode": "RO",
       "language": "română",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_veselia_folclor_dccc2a60",
-      "title": "Radio Veselia Folclor",
-      "subtitle": "Folk, Muzică De Petrecere",
-      "imageUrl": "",
-      "streamUrl": "http://asculta.radioveseliafolclor.com:8232/;",
-      "location": "Romania",
-      "genre": "Folk",
-      "countryCode": "RO",
-      "language": "romanian",
       "clickCount": 0,
       "bitrate": 128
     },
@@ -24490,18 +24451,6 @@
       "streamUrl": "https://sonicssl.namehost.ro:8020/stream"
     },
     {
-      "id": "sona_fm_ro_a25c25bd",
-      "title": "Sona FM",
-      "subtitle": "Chill",
-      "location": "Romania",
-      "genre": "Chill",
-      "countryCode": "RO",
-      "language": null,
-      "clickCount": 3,
-      "bitrate": 128,
-      "streamUrl": "https://ssl.omegahost.ro/8026/stream"
-    },
-    {
       "id": "radio_s4_rs_770a47a5",
       "title": "Radio S4",
       "subtitle": "Dance",
@@ -24524,18 +24473,6 @@
       "clickCount": 3,
       "bitrate": 112,
       "streamUrl": "http://radio.dukahosting.com:8026/;"
-    },
-    {
-      "id": "naxi_radio_rock_rs_6bec2a16",
-      "title": "naxi radio - rock",
-      "subtitle": "Alternative Rock",
-      "location": "Serbia",
-      "genre": "Alternative Rock",
-      "countryCode": "RS",
-      "language": null,
-      "clickCount": 8,
-      "bitrate": 128,
-      "streamUrl": "http://naxidigital-rock128.streaming.rs:8180/;stream.nsv"
     },
     {
       "id": "radio_afera_98_6_mhz_pl_f8359da9",
@@ -25534,18 +25471,6 @@
       "streamUrl": "http://an.cdn.eurozet.pl/ANTMAK.mp3"
     },
     {
-      "id": "radio_super_manele_ro_955594bc",
-      "title": "Radio Super Manele",
-      "subtitle": "Manele",
-      "location": "Romania",
-      "genre": "Manele",
-      "countryCode": "RO",
-      "language": "romanian",
-      "clickCount": 2,
-      "bitrate": 128,
-      "streamUrl": "http://manele.capitalfm.ro:8020/stream"
-    },
-    {
       "id": "nicecream_fm_red_ro_68fa6d7e",
       "title": "Nicecream.fm RED",
       "subtitle": "Downtempo",
@@ -26036,6 +25961,30 @@
       "clickCount": 2,
       "bitrate": 128,
       "streamUrl": "http://usa5.fastcast4u.com:16276/;stream.nsv"
+    },
+    {
+      "id": "radio_zodiak_pl_7246add1",
+      "title": "Radio Zodiak",
+      "subtitle": "Love",
+      "location": "Poland",
+      "genre": "Love",
+      "countryCode": "PL",
+      "language": "polish",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://fire.doscast.com/8084/stream"
+    },
+    {
+      "id": "magic_tv_ro_4b528777",
+      "title": "Magic tv",
+      "subtitle": "Radio",
+      "location": "Romania",
+      "genre": "Radio",
+      "countryCode": "RO",
+      "language": "romanian",
+      "clickCount": 4,
+      "bitrate": 1408,
+      "streamUrl": "https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8"
     }
   ]
 }

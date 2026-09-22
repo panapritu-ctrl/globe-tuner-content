@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-21T03:19:50Z",
+  "updated": "2026-09-22T03:18:30Z",
   "region": "americas",
   "part": 2,
   "of": 5,
@@ -22628,19 +22628,6 @@
       "bitrate": 320
     },
     {
-      "id": "rb2_bravisima_fm_60e7e0eb",
-      "title": "Bravisima fm",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://radio.hostlagarto.com/9924/stream",
-      "location": "Santiago (Dominican Republic), The Dominican Republic",
-      "genre": "Radio",
-      "countryCode": "DO",
-      "language": "english",
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
       "id": "cdn_radio_do",
       "title": "CDN Radio",
       "subtitle": "Baseball / Beisbol",
@@ -26570,18 +26557,6 @@
       "streamUrl": "https://stream.statsradio.com:8040/stream"
     },
     {
-      "id": "ol_mpica_st_reo_92_1_barranquilla_co_3d26953a",
-      "title": "Olímpica Stéreo 92.1 Barranquilla",
-      "subtitle": "Champeta",
-      "location": "Colombia",
-      "genre": "Champeta",
-      "countryCode": "CO",
-      "language": "spanish",
-      "clickCount": 2,
-      "bitrate": 146,
-      "streamUrl": "https://master.letio.com/io/?gs=9102&type=live.mp3"
-    },
-    {
       "id": "arauquita_stereo_88_3fm_co_a34dc644",
       "title": "Arauquita Stereo 88.3fm",
       "subtitle": "Local Radio",
@@ -27204,18 +27179,6 @@
       "clickCount": 2,
       "bitrate": 2229,
       "streamUrl": "https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8"
-    },
-    {
-      "id": "beethovenfm_cl_9d9200b4",
-      "title": "BeethovenFM",
-      "subtitle": "Radio",
-      "location": "Chile",
-      "genre": "Radio",
-      "countryCode": "CL",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 128,
-      "streamUrl": "https://unlimited3-cl.dps.live/beethovenfm/go/audio/now/livestream1.m3u8"
     },
     {
       "id": "radio_nacional_san_jacinto_102_7_fm_co_a3ba713b",
@@ -28512,6 +28475,42 @@
       "clickCount": 2,
       "bitrate": 96,
       "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/CR_BARRANQ.mp3"
+    },
+    {
+      "id": "positiva_fm_cl_2e166305",
+      "title": "Positiva FM",
+      "subtitle": "Música",
+      "location": "Chile",
+      "genre": "Música",
+      "countryCode": "CL",
+      "language": "spanish",
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "http://unlimited4-us.dps.live/positiva/aac/icecast.audio"
+    },
+    {
+      "id": "stingray_smoot_jazz_ca_67d0742d",
+      "title": "Stingray Smoot Jazz",
+      "subtitle": "Smooth Jazz",
+      "location": "Canada",
+      "genre": "Smooth Jazz",
+      "countryCode": "CA",
+      "language": "engilsh",
+      "clickCount": 4,
+      "bitrate": 690,
+      "streamUrl": "https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8"
+    },
+    {
+      "id": "afri_caribe_radio_co_a2d6ac0b",
+      "title": "AFRI CARIBE RADIO",
+      "subtitle": "Radio",
+      "location": "Colombia",
+      "genre": "Radio",
+      "countryCode": "CO",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 96,
+      "streamUrl": "https://eu8.fastcast4u.com/proxy/eddie08?mp=/stream"
     }
   ]
 }

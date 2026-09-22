@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-21T03:19:49Z",
+  "updated": "2026-09-22T03:18:30Z",
   "region": "asia",
   "part": 3,
   "of": 3,
@@ -7657,19 +7657,6 @@
       "streamUrl": "http://22193.live.streamtheworld.com:3690/JOY_FMAAC_SC"
     },
     {
-      "id": "rb2_joyt_rk_akustik_a7dc38d4",
-      "title": "JoyTürk Akustik",
-      "subtitle": "Acustic, Pop",
-      "imageUrl": "",
-      "streamUrl": "http://playerservices.streamtheworld.com/api/livestream-redirect/JOYTURK_AKUSTIK128AAC.aac",
-      "location": "Türkiye",
-      "genre": "Acustic",
-      "countryCode": "TR",
-      "language": "tr",
-      "clickCount": 3,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_joyt_rk_rock_2d122ba2",
       "title": "JoyTürk Rock",
       "subtitle": "Classic Rock, Pop Rock",
@@ -15123,18 +15110,6 @@
       "streamUrl": "https://stream.zeno.fm/qd45x88q0y5tv.aac"
     },
     {
-      "id": "fmr_butuan_ph_e49e4c1c",
-      "title": "FMR Butuan",
-      "subtitle": "Radio",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "language": null,
-      "clickCount": 3,
-      "bitrate": 0,
-      "streamUrl": "https://stream.zeno.fm/rdnfm6z4ks7uv"
-    },
-    {
       "id": "dwdm_fm_95_5_ph_78002781",
       "title": "DWDM-fm 95.5",
       "subtitle": "Adult Contemporary",
@@ -15591,18 +15566,6 @@
       "streamUrl": "https://rx.amfm.link:8000/dearfm"
     },
     {
-      "id": "ok_fm_sorsogon_ph_fda97982",
-      "title": "OK-FM Sorsogon",
-      "subtitle": "Radio",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 170,
-      "streamUrl": "https://radio.garden/api/ara/content/listen/i5Au89ck/channel.mp3?1768232045244"
-    },
-    {
       "id": "aksyon_radyo_davao_ph_3424c3cb",
       "title": "Aksyon Radyo Davao",
       "subtitle": "Radio",
@@ -15661,18 +15624,6 @@
       "clickCount": 2,
       "bitrate": 0,
       "streamUrl": "https://stream.zeno.fm/vzrt2visttbvv"
-    },
-    {
-      "id": "94_5_k5_news_fm_kalibo_ph_3c24e9ab",
-      "title": "94.5 K5 NEWS FM KALIBO",
-      "subtitle": "Radio",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 48,
-      "streamUrl": "http://209.126.124.126:8730/stream"
     },
     {
       "id": "brigada_news_fm_bogo_ph_9f99abbc",
@@ -16311,18 +16262,6 @@
       "streamUrl": "https://stream.zeno.fm/sfaqs2c29heuv"
     },
     {
-      "id": "one_fm_palawan_ph_69a35b8f",
-      "title": "One FM Palawan",
-      "subtitle": "Radio",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 0,
-      "streamUrl": "https://stream.zeno.fm/yiqeykhjdw5uv"
-    },
-    {
       "id": "xfm_bayugan_ph_6f7d086c",
       "title": "XFM Bayugan",
       "subtitle": "Radio",
@@ -16803,18 +16742,6 @@
       "streamUrl": "http://22283.live.streamtheworld.com:3690/AXR_MANILA_SC"
     },
     {
-      "id": "rhythm_101_fm_online_ph_e1492543",
-      "title": "Rhythm 101 FM Online",
-      "subtitle": "Radio",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "language": null,
-      "clickCount": 3,
-      "bitrate": 0,
-      "streamUrl": "https://stream.zeno.fm/kpbamsatoqxtv"
-    },
-    {
       "id": "9_mcot_hd_digital_tv_channel_30_th_1fbac3f1",
       "title": "ช่อง 9 MCOT HD: digital TV channel 30",
       "subtitle": "Radio",
@@ -17029,6 +16956,42 @@
       "clickCount": 2,
       "bitrate": 3128,
       "streamUrl": "https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/playlist.m3u8"
+    },
+    {
+      "id": "radio_pakistan_karachi_mw_639_pk_ab781f8f",
+      "title": "Radio Pakistan Karachi MW 639",
+      "subtitle": "Public Radio",
+      "location": "Pakistan",
+      "genre": "Public Radio",
+      "countryCode": "PK",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://whmsonic.radio.gov.pk:7000/MW639khi"
+    },
+    {
+      "id": "mcot_100_5_th_2bf73158",
+      "title": "MCOT 100.5",
+      "subtitle": "Radio",
+      "location": "Thailand",
+      "genre": "Radio",
+      "countryCode": "TH",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 2000,
+      "streamUrl": "https://lcdn.mcot.net/RadioLive/smil:fm1005_live.smil/playlist.m3u8"
+    },
+    {
+      "id": "konya_i_sra_fm_tr_52818a29",
+      "title": "Konya İsra FM",
+      "subtitle": "Islam",
+      "location": "Türkiye",
+      "genre": "Islam",
+      "countryCode": "TR",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://yayin2.canliyayin.org:8210/;stream"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-21T03:19:49Z",
+  "updated": "2026-09-22T03:18:30Z",
   "region": "africa",
   "stations": [
     {
@@ -1563,15 +1563,6 @@
       "genre": "Radio",
       "countryCode": "ET",
       "streamUrl": "http://stream.zeno.fm/7tzrhrap7yzuv"
-    },
-    {
-      "id": "jazz_et_7ba493",
-      "title": "jazz",
-      "subtitle": "Jazz",
-      "location": "Ethiopia",
-      "genre": "Jazz",
-      "streamUrl": "http://mediaserv38.live-streams.nl:8006/live",
-      "countryCode": "ET"
     },
     {
       "id": "eben_radio_ga",
@@ -10048,18 +10039,6 @@
       "streamUrl": "https://radio.interspacemusic.com/stream.mp3"
     },
     {
-      "id": "mmuock_community_radio_cm_0d2b2935",
-      "title": "Mmuock Community Radio",
-      "subtitle": "Radio",
-      "location": "Cameroon",
-      "genre": "Radio",
-      "countryCode": "CM",
-      "language": null,
-      "clickCount": 5,
-      "bitrate": 128,
-      "streamUrl": "https://a7.asurahosting.com/listen/mmuock_community_radio_/radio.mp3"
-    },
-    {
       "id": "rcv_radio_cabo_verde_cv_dfe94f08",
       "title": "RCV Radio Cabo Verde",
       "subtitle": "Radio",
@@ -10502,6 +10481,66 @@
       "clickCount": 2,
       "bitrate": 128,
       "streamUrl": "https://backup.qurango.net/radio/abdulrahman_alsudaes"
+    },
+    {
+      "id": "bond_92_9_fm_ng_2986e51d",
+      "title": "Bond 92.9 FM",
+      "subtitle": "Radio",
+      "location": "Nigeria",
+      "genre": "Radio",
+      "countryCode": "NG",
+      "language": null,
+      "clickCount": 15,
+      "bitrate": 64,
+      "streamUrl": "https://go.webgateready.com/bondfm"
+    },
+    {
+      "id": "omniradio_quran_islamic_radio_eg_26672bd9",
+      "title": "OmniRadio - Quran & Islamic Radio (إذاعة القرآن الكريم)",
+      "subtitle": "Arabic",
+      "location": "Egypt",
+      "genre": "Arabic",
+      "countryCode": "EG",
+      "language": "ar",
+      "clickCount": 7,
+      "bitrate": 128,
+      "streamUrl": "https://radio.xecod.com/station/quran-cairo"
+    },
+    {
+      "id": "ghetto_kenya_ke_00223571",
+      "title": "ghetto kenya",
+      "subtitle": "Classical",
+      "location": "Kenya",
+      "genre": "Classical",
+      "countryCode": "KE",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://stream.zeno.fm/kvudezx1h2zuv"
+    },
+    {
+      "id": "mmuock_community_radio_cm_0d2b2935",
+      "title": "Mmuock Community Radio",
+      "subtitle": "Radio",
+      "location": "Cameroon",
+      "genre": "Radio",
+      "countryCode": "CM",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://a7.asurahosting.com/listen/mmuock_community_radio_/radio.mp3"
+    },
+    {
+      "id": "aswatalweb_ma_974a94d6",
+      "title": "aswatalweb",
+      "subtitle": "Film Talk",
+      "location": "Morocco",
+      "genre": "Film Talk",
+      "countryCode": "MA",
+      "language": "arabic",
+      "clickCount": 4,
+      "bitrate": 64,
+      "streamUrl": "http://78.129.252.13:24460/stream"
     }
   ]
 }
