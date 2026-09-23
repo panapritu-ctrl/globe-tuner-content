@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-22T03:18:30Z",
+  "updated": "2026-09-23T03:18:23Z",
   "region": "africa",
   "stations": [
     {
@@ -7522,19 +7522,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb_radio_786_68dee448",
-      "title": "Radio 786",
-      "subtitle": "Radio",
-      "imageUrl": "https://www.radio786.co.za/wp-content/uploads/2020/10/cropped-786icon-logo-180x180.png",
-      "streamUrl": "http://stream.krypton.co.za:8040/stream/",
-      "location": "South Africa",
-      "genre": "Radio",
-      "countryCode": "ZA",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 56
-    },
-    {
       "id": "rb2_radio_atlantis_107_9fm_7d1cd6bb",
       "title": "Radio Atlantis 107.9FM",
       "subtitle": "Radio",
@@ -10111,18 +10098,6 @@
       "streamUrl": "http://stream.zeno.fm/kvudezx1h2zuv"
     },
     {
-      "id": "godfrey_okoye_university_radio_106_9fm_ng_54c0b63c",
-      "title": "Godfrey Okoye University Radio 106.9fm",
-      "subtitle": "Radio",
-      "location": "Nigeria",
-      "genre": "Radio",
-      "countryCode": "NG",
-      "language": null,
-      "clickCount": 3,
-      "bitrate": 0,
-      "streamUrl": "https://us5new.listen2myradio.com:2199/stream.php?port=8178"
-    },
-    {
       "id": "lawson_radio_96_3_gh_f5d3d6e0",
       "title": "Lawson Radio 96.3",
       "subtitle": "Radio",
@@ -10541,6 +10516,30 @@
       "clickCount": 4,
       "bitrate": 64,
       "streamUrl": "http://78.129.252.13:24460/stream"
+    },
+    {
+      "id": "omniradio_sheikh_bandar_balila_eg_b92b6347",
+      "title": "OmniRadio - Sheikh Bandar Balila (الشيخ بندر بليلة)",
+      "subtitle": "Arabic",
+      "location": "Egypt",
+      "genre": "Arabic",
+      "countryCode": "EG",
+      "language": "ar",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://radio.xecod.com/station/bandar-balila"
+    },
+    {
+      "id": "omniradio_sheikh_ammar_al_mulla_eg_f6d78020",
+      "title": "OmniRadio - Sheikh Ammar Al-Mulla (الشيخ عمار الملا)",
+      "subtitle": "Arabic",
+      "location": "Egypt",
+      "genre": "Arabic",
+      "countryCode": "EG",
+      "language": "ar",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://radio.xecod.com/station/ammar-almulla"
     }
   ]
 }

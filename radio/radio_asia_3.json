@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-22T03:18:30Z",
+  "updated": "2026-09-23T03:18:23Z",
   "region": "asia",
   "part": 3,
   "of": 3,
@@ -15578,18 +15578,6 @@
       "streamUrl": "http://5.9.13.39:8140/stream"
     },
     {
-      "id": "sawt_al_farah_sy_12bb811f",
-      "title": "Sawt Al Farah",
-      "subtitle": "Radio",
-      "location": "Syrian Arab Republic",
-      "genre": "Radio",
-      "countryCode": "SY",
-      "language": "arabic",
-      "clickCount": 20,
-      "bitrate": 128,
-      "streamUrl": "https://radio.garden/api/ara/content/listen/TBbZ87vu/channel.mp3"
-    },
-    {
       "id": "shopen_anime_radio_pk_c771c017",
       "title": "Shopen Anime Radio",
       "subtitle": "Radio",
@@ -15876,18 +15864,6 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "http://111.125.87.226:8000/rjfm"
-    },
-    {
-      "id": "klick_fm_106_3_bacolod_ph_c15ab096",
-      "title": "Klick FM 106.3 Bacolod",
-      "subtitle": "Radio",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 48,
-      "streamUrl": "http://209.126.124.126:8721/stream"
     },
     {
       "id": "radyong_sira_ph_b54541b0",
@@ -16598,18 +16574,6 @@
       "streamUrl": "https://streaming.live365.com/a06369"
     },
     {
-      "id": "barangay_ls_107_1_bacolod_ph_720e3ca8",
-      "title": "Barangay LS 107.1 Bacolod",
-      "subtitle": "Radio",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 0,
-      "streamUrl": "http://78.129.150.207:39105/listen.pls"
-    },
-    {
       "id": "d_ultimate_105_5_fm_ph_765f917b",
       "title": "D' Ultimate 105.5 FM",
       "subtitle": "Hot Ac",
@@ -16992,6 +16956,66 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://yayin2.canliyayin.org:8210/;stream"
+    },
+    {
+      "id": "sawt_al_farah_sy_12bb811f",
+      "title": "Sawt Al Farah",
+      "subtitle": "Radio",
+      "location": "Syrian Arab Republic",
+      "genre": "Radio",
+      "countryCode": "SY",
+      "language": "arabic",
+      "clickCount": 13,
+      "bitrate": 128,
+      "streamUrl": "https://radio.garden/api/ara/content/listen/TBbZ87vu/channel.mp3"
+    },
+    {
+      "id": "k5_news_fm_antique_ph_26270047",
+      "title": "K5 News FM Antique",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 48,
+      "streamUrl": "http://209.126.124.126:8021/stream"
+    },
+    {
+      "id": "gv_am_792_ph_f3dee3ff",
+      "title": "GV AM 792",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://gvamaudio.tail160f79.ts.net/stream"
+    },
+    {
+      "id": "joyt_rk_akustik_tr_d89f9c52",
+      "title": "JoyTürk Akustik",
+      "subtitle": "Acustic",
+      "location": "Türkiye",
+      "genre": "Acustic",
+      "countryCode": "TR",
+      "language": "tr",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://playerservices.streamtheworld.com/api/livestream-redirect/JOYTURK_AKUSTIK128AAC.aac"
+    },
+    {
+      "id": "tempo_fm_101_5_tr_90c8b772",
+      "title": "Tempo FM 101.5",
+      "subtitle": "Radio",
+      "location": "Türkiye",
+      "genre": "Radio",
+      "countryCode": "TR",
+      "language": "turkish",
+      "clickCount": 4,
+      "bitrate": 96,
+      "streamUrl": "https://live.radyo.in/8062/stream"
     }
   ]
 }

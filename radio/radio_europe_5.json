@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-22T03:17:58Z",
+  "updated": "2026-09-23T03:18:23Z",
   "region": "europe",
   "part": 5,
   "of": 8,
@@ -8031,19 +8031,6 @@
       "bitrate": 256
     },
     {
-      "id": "rb2_open_106_7_3a61c052",
-      "title": "ΕΡΤ Open 106.7",
-      "subtitle": "News",
-      "imageUrl": "https://www.ertopen.com/templates/ertopen/favicon.ico",
-      "streamUrl": "https://netradio.live24.gr/erasport",
-      "location": "Greece",
-      "genre": "News",
-      "countryCode": "GR",
-      "language": "greek",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "_gr_51fe4c",
       "title": "ΕΡΤ Πρώτο Πρόγραμμα",
       "subtitle": "Ert",
@@ -15058,15 +15045,6 @@
       "bitrate": 160
     },
     {
-      "id": "mercy_r_di_kabar_hu_963787",
-      "title": "Mercy Rádió - Kabaré",
-      "subtitle": "Comedy",
-      "location": "Hungary",
-      "genre": "News/Talk",
-      "countryCode": "HU",
-      "streamUrl": "http://stream.mercyradio.eu/kabare.mp3"
-    },
-    {
       "id": "rb2_mercy_r_di_mulat_s_96386e28",
       "title": "Mercy Rádió - Mulatós",
       "subtitle": "Radio",
@@ -15126,19 +15104,6 @@
       "language": null,
       "clickCount": 0,
       "bitrate": 192
-    },
-    {
-      "id": "rb2_must_r_r_di_9637cb12",
-      "title": "Mustár Rádió",
-      "subtitle": "Local Radio, Non-Profit",
-      "imageUrl": "",
-      "streamUrl": "http://193.138.125.14:8500/;",
-      "location": "Szabolcs-Szatmár-Bereg, Hungary",
-      "genre": "Local Radio",
-      "countryCode": "HU",
-      "language": "hungarian",
-      "clickCount": 0,
-      "bitrate": 128
     },
     {
       "id": "rb2_m_ria_r_di_9627fc3e",
@@ -27902,6 +27867,18 @@
       "clickCount": 2,
       "bitrate": 160,
       "streamUrl": "http://oxygenmusic.hu:8000/xmas_320"
+    },
+    {
+      "id": "mercy_r_di_kabar_hu_04d86632",
+      "title": "Mercy Rádió - Kabaré",
+      "subtitle": "Comedy",
+      "location": "Hungary",
+      "genre": "Comedy",
+      "countryCode": "HU",
+      "language": "hungarian",
+      "clickCount": 17,
+      "bitrate": 160,
+      "streamUrl": "http://stream.mercyradio.eu/kabare.mp3"
     }
   ]
 }

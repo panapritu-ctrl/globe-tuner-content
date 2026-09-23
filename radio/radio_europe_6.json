@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-22T03:18:30Z",
+  "updated": "2026-09-23T03:18:24Z",
   "region": "europe",
   "part": 6,
   "of": 8,
@@ -4851,19 +4851,6 @@
       "imageUrl": "",
       "streamUrl": "https://listen.soulradio.it/it",
       "location": "Emilia-Romagna, Italy",
-      "genre": "Radio",
-      "countryCode": "IT",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 192
-    },
-    {
-      "id": "rb2_saurosoft_radio_fe16df1c",
-      "title": "Saurosoft Radio",
-      "subtitle": "Radio",
-      "imageUrl": "http://www.saurosoftradio.it/wp-content/uploads/2022/03/dinotrasparente.png",
-      "streamUrl": "http://nr11.newradio.it:9373/stream",
-      "location": "Italy",
       "genre": "Radio",
       "countryCode": "IT",
       "language": null,
@@ -12977,19 +12964,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_jazz_de_ville_groove_6c391a02",
-      "title": "Jazz de Ville - Groove",
-      "subtitle": "Grooves",
-      "imageUrl": "https://www.jazzdeville.com/favicon/jazzdeville/apple-touch-icon.png",
-      "streamUrl": "https://onair22.xdevel.com/proxy/xautocloud_1kha_423?mp=/stream",
-      "location": "The Netherlands",
-      "genre": "Grooves",
-      "countryCode": "NL",
-      "language": "english",
-      "clickCount": 2,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_jinglegek_627c1466",
       "title": "Jinglegek",
       "subtitle": "Radio",
@@ -16838,19 +16812,6 @@
       "language": "english",
       "clickCount": 1,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_sputnik_underground_65043368",
-      "title": "Radio Sputnik Underground!",
-      "subtitle": "Radio",
-      "imageUrl": "http://www.radiosputnik.nl/assets/images/android-icon-192x192.png",
-      "streamUrl": "http://radiosputnik.nl:8002/",
-      "location": "The Netherlands",
-      "genre": "Radio",
-      "countryCode": "NL",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 192
     },
     {
       "id": "rb2_radio_stad_centraal_6ab34fd1",
@@ -26860,18 +26821,6 @@
       "streamUrl": "https://gyvai.ursrv.eu/stream"
     },
     {
-      "id": "npo_radio_6_nl_9f9906fe",
-      "title": "NPO Radio 6",
-      "subtitle": "Radio",
-      "location": "The Netherlands",
-      "genre": "Radio",
-      "countryCode": "NL",
-      "language": null,
-      "clickCount": 3,
-      "bitrate": 64,
-      "streamUrl": "https://icecast.omroep.nl/radio6-bb-aac"
-    },
-    {
       "id": "christelijke_omroep_nl_fea9bcb1",
       "title": "Christelijke Omroep",
       "subtitle": "Classical",
@@ -26882,30 +26831,6 @@
       "clickCount": 3,
       "bitrate": 192,
       "streamUrl": "https://stream.christelijkeomroep.nl/192?_gl=1*tymsna*_ga*MTEwODM5OTM1MC4xNjgxMDcyNjUx*_ga_1717X15JX8*MTY4MTEwMjQ5OC4yLjAuMTY4MTEwMjQ5OC4wLjAuMA.."
-    },
-    {
-      "id": "radijo_musikii_lt_26dd207b",
-      "title": "Radijo Musikii",
-      "subtitle": "Radio",
-      "location": "Lithuania",
-      "genre": "Radio",
-      "countryCode": "LT",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 128,
-      "streamUrl": "https://stream.radijo-musikii.net/radio/8000/radio.mp3"
-    },
-    {
-      "id": "estakada99_lt_c79d098c",
-      "title": "estakada99",
-      "subtitle": "24/7",
-      "location": "Lithuania",
-      "genre": "24/7",
-      "countryCode": "LT",
-      "language": "english",
-      "clickCount": 2,
-      "bitrate": 128,
-      "streamUrl": "https://live.e99.live/main"
     },
     {
       "id": "glowwave_fm_md_52da6098",
@@ -27542,6 +27467,114 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://radio.celodex.com/stream/ossido.mp3"
+    },
+    {
+      "id": "rtl_102_5_groove_it_77fa59c8",
+      "title": "RTL 102.5 - Groove",
+      "subtitle": "Dance",
+      "location": "Italy",
+      "genre": "Dance",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 4,
+      "bitrate": 256,
+      "streamUrl": "https://streamingv2.shoutcast.com/rtl-1025-broandsis"
+    },
+    {
+      "id": "rtl_102_5_disco_mobile_48kbps_it_babdbdd6",
+      "title": "RTL 102.5 Disco [Mobile 48kbps]",
+      "subtitle": "Dance",
+      "location": "Italy",
+      "genre": "Dance",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 4,
+      "bitrate": 96,
+      "streamUrl": "https://streamingv2.shoutcast.com/rtl-1025-doc_48.aac"
+    },
+    {
+      "id": "jolene_country_radio_nl_73d4fc6e",
+      "title": "Jolene Country Radio",
+      "subtitle": "Country Music",
+      "location": "The Netherlands",
+      "genre": "Country Music",
+      "countryCode": "NL",
+      "language": "dutch",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://22713.live.streamtheworld.com/SERVICE07.mp3"
+    },
+    {
+      "id": "radio_105_coldplay_it_0f1e2e4c",
+      "title": "Radio 105 - Coldplay",
+      "subtitle": "Radio",
+      "location": "Italy",
+      "genre": "Radio",
+      "countryCode": "IT",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "http://icy.unitedradio.it/ColdPlay.mp3"
+    },
+    {
+      "id": "virgin_radio_rockstar_acdc_it_af8f8b6c",
+      "title": "Virgin Radio Rockstar Acdc",
+      "subtitle": "Radio",
+      "location": "Italy",
+      "genre": "Radio",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://icy.unitedradio.it/um1026.mp3"
+    },
+    {
+      "id": "fm_classic_siracusa_it_3d9f4851",
+      "title": "FM Classic Siracusa",
+      "subtitle": "Oldies",
+      "location": "Italy",
+      "genre": "Oldies",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://stream1.xdevel.com/audio0s975817-359/stream/icecast.audio"
+    },
+    {
+      "id": "radio_inblu2000_it_fe7ccfdd",
+      "title": "Radio InBlu2000",
+      "subtitle": "Religious",
+      "location": "Italy",
+      "genre": "Religious",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://www.radioinblu.it/live-stream/inblu2000-playlist.m3u8"
+    },
+    {
+      "id": "audiomastering_lt_lt_41670640",
+      "title": "Audiomastering.lt",
+      "subtitle": "Radio",
+      "location": "Lithuania",
+      "genre": "Radio",
+      "countryCode": "LT",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 320,
+      "streamUrl": "http://radio.audiomastering.lt:8000/hq"
+    },
+    {
+      "id": "estakada99_lt_c79d098c",
+      "title": "estakada99",
+      "subtitle": "24/7",
+      "location": "Lithuania",
+      "genre": "24/7",
+      "countryCode": "LT",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://live.e99.live/main"
     }
   ]
 }
