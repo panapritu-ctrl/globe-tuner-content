@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-23T03:18:24Z",
+  "updated": "2026-09-24T03:11:03Z",
   "region": "europe",
   "part": 6,
   "of": 8,
@@ -3595,19 +3595,6 @@
       "language": "english",
       "clickCount": 5,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_taranto_uno_3a3b2e2b",
-      "title": "Radio Taranto Uno",
-      "subtitle": "Pop, Taranto",
-      "imageUrl": "",
-      "streamUrl": "http://s16.myradiostream.com:5626/;",
-      "location": "Puglia, Italy",
-      "genre": "Pop",
-      "countryCode": "IT",
-      "language": "italian",
-      "clickCount": 0,
-      "bitrate": 96
     },
     {
       "id": "rb2_radio_tele_trentino_96262b3f",
@@ -7306,19 +7293,6 @@
       "countryCode": "LV",
       "language": "latvian",
       "clickCount": 0,
-      "bitrate": 112
-    },
-    {
-      "id": "rb2_ehr_darbam_eb8f210a",
-      "title": "EHR Darbam",
-      "subtitle": "Dziesmas Produktīvam Noskaņojumam",
-      "imageUrl": "",
-      "streamUrl": "http://stream.ehrhiti.lv:8000/Stream_23.mp3",
-      "location": "Riga, Latvia",
-      "genre": "Dziesmas Produktīvam Noskaņojumam",
-      "countryCode": "LV",
-      "language": "latvian",
-      "clickCount": 1,
       "bitrate": 112
     },
     {
@@ -27575,6 +27549,18 @@
       "clickCount": 3,
       "bitrate": 128,
       "streamUrl": "https://live.e99.live/main"
+    },
+    {
+      "id": "piratenkanon_suriname_nl_a9095ab0",
+      "title": "PiratenKanon Suriname",
+      "subtitle": "Radio",
+      "location": "The Netherlands",
+      "genre": "Radio",
+      "countryCode": "NL",
+      "language": null,
+      "clickCount": 7,
+      "bitrate": 320,
+      "streamUrl": "https://streams.piratenkanon.nl:10400/MP3-320"
     }
   ]
 }

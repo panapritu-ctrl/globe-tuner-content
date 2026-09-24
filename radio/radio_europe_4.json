@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-23T03:18:24Z",
+  "updated": "2026-09-24T03:11:03Z",
   "region": "europe",
   "part": 4,
   "of": 8,
@@ -27035,18 +27035,6 @@
       "streamUrl": "https://audio-edge-5bkfj.fra.h.radiomast.io/f166df84-c91c-4b1d-b2b2-798776af0aed"
     },
     {
-      "id": "studio_254_gr_2d6a5904",
-      "title": "Studio 254",
-      "subtitle": "Greek Pop",
-      "location": "Greece",
-      "genre": "Greek Pop",
-      "countryCode": "GR",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 96,
-      "streamUrl": "https://eu8.fastcast4u.com/proxy/s254?mp=/1"
-    },
-    {
       "id": "arion_gr_e5952aec",
       "title": "Arion Στιγμές",
       "subtitle": "Greek Music",
@@ -27527,16 +27515,40 @@
       "streamUrl": "http://stream.kncdn.net:7512/1/?1671793270131"
     },
     {
-      "id": "99_8_gr_21805e82",
-      "title": "Σκάι Αιγαίου 99.8",
-      "subtitle": "Greek Music",
+      "id": "92_5_gr_d4ee244f",
+      "title": "ΕΡΤ Πάτρας 92.5",
+      "subtitle": "Radio",
       "location": "Greece",
-      "genre": "Greek Music",
+      "genre": "Radio",
       "countryCode": "GR",
-      "language": "greek",
+      "language": null,
       "clickCount": 3,
-      "bitrate": 96,
-      "streamUrl": "http://live.isol.biz:8500/;stream.nsv"
+      "bitrate": 256,
+      "streamUrl": "https://radiostreaming.ert.gr/ert-patra"
+    },
+    {
+      "id": "92_1_gr_bee6ea48",
+      "title": "Γαλαξίας 92.1 Σέρρες",
+      "subtitle": "Greek Folk",
+      "location": "Greece",
+      "genre": "Greek Folk",
+      "countryCode": "GR",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://tls-chrome.live24.gr/4072?http://cast.streams.ovh:12059/stream/"
+    },
+    {
+      "id": "tamilaruvifm_in_fb7c0e97",
+      "title": "tamilaruvifm",
+      "subtitle": "Radio",
+      "location": "India",
+      "genre": "Radio",
+      "countryCode": "IN",
+      "language": "tamil",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://servidor18-4.brlogic.com:7740/live"
     }
   ]
 }

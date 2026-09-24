@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-23T03:18:23Z",
+  "updated": "2026-09-24T03:11:03Z",
   "region": "americas",
   "part": 1,
   "of": 5,
@@ -27368,18 +27368,6 @@
       "streamUrl": "https://stm10.virtualcast.com.br:8012/massapresidentevenceslau"
     },
     {
-      "id": "ckcu_93_1_fm_ca_0fcbc145",
-      "title": "CKCU 93.1 FM",
-      "subtitle": "Radio",
-      "location": "Canada",
-      "genre": "Radio",
-      "countryCode": "CA",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 256,
-      "streamUrl": "https://stream2.statsradio.com:8124/stream"
-    },
-    {
       "id": "j_pop_powerplay_kawaii_http_ca_d72d5de1",
       "title": "J-Pop Powerplay Kawaii (http)",
       "subtitle": "Idol",
@@ -28266,6 +28254,54 @@
       "clickCount": 4,
       "bitrate": 64,
       "streamUrl": "https://cdn.instream.audio:9068/stream"
+    },
+    {
+      "id": "radio_gospel_life_br_c2ba1c0d",
+      "title": "Radio Gospel Life",
+      "subtitle": "Radio",
+      "location": "Brazil",
+      "genre": "Radio",
+      "countryCode": "BR",
+      "language": null,
+      "clickCount": 7,
+      "bitrate": 128,
+      "streamUrl": "https://s11.maxcast.com.br:9165/live"
+    },
+    {
+      "id": "93fm_br_504530af",
+      "title": "93FM",
+      "subtitle": "Radio",
+      "location": "Brazil",
+      "genre": "Radio",
+      "countryCode": "BR",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 48,
+      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/FM93AAC.aac?dist=RadiosNet"
+    },
+    {
+      "id": "r_dio_nova_fm_an_polis_br_d9968982",
+      "title": "Rádio Nova FM Anápolis",
+      "subtitle": "Radio",
+      "location": "Brazil",
+      "genre": "Radio",
+      "countryCode": "BR",
+      "language": "brazilian portuguese",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://player.g2play.com.br/proxy/27362"
+    },
+    {
+      "id": "bandnews_salvador_br_3a15efad",
+      "title": "BandNews Salvador",
+      "subtitle": "News",
+      "location": "Brazil",
+      "genre": "News",
+      "countryCode": "BR",
+      "language": "portugues brasil",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://server23.srvsh.com.br:7918/live.mp3"
     }
   ]
 }

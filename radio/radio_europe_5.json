@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-23T03:18:23Z",
+  "updated": "2026-09-24T03:11:03Z",
   "region": "europe",
   "part": 5,
   "of": 8,
@@ -10355,19 +10355,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_news_98_64585be1",
-      "title": "Ρούμελη News 98",
-      "subtitle": "Ethnic, News Talk",
-      "imageUrl": "https://resources.live24.gr/resources/images/stations/d909495f-3f08-4d0a-99f9-b96c549add5c.jpg",
-      "streamUrl": "https://radio.webhosting4u.gr/stream/radioroumelinews",
-      "location": "Lamia, Greece",
-      "genre": "Ethnic",
-      "countryCode": "GR",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 160
-    },
-    {
       "id": "rb2_101_9_b391400a",
       "title": "Ρυθμός 101.9",
       "subtitle": "Greek, Mainstream",
@@ -16606,19 +16593,6 @@
       "genre": "Electronic",
       "countryCode": "IE",
       "streamUrl": "http://stream.audioxi.com/BEATAAC"
-    },
-    {
-      "id": "rb2_biggest_disco_radio_6991b326",
-      "title": "Biggest Disco Radio",
-      "subtitle": "Radio",
-      "imageUrl": "https://www.biggestdiscoradio.com/apple-touch-icon.png",
-      "streamUrl": "https://s5.radio.co/s823d25743/low",
-      "location": "Ireland",
-      "genre": "Radio",
-      "countryCode": "IE",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 64
     },
     {
       "id": "rb2_c103_north_e4e13330",
@@ -23918,19 +23892,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_radio_allegria_962a4ad6",
-      "title": "Radio Allegria",
-      "subtitle": "Italian Pop, Local Music",
-      "imageUrl": "http://cdn-radiotime-logos.tunein.com/s256193q.png",
-      "streamUrl": "http://audio.nemostream.tv:8110/live",
-      "location": "Veneto, Italy",
-      "genre": "Italian Pop",
-      "countryCode": "IT",
-      "language": "italian",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_radio_alta_italy_6a10e6e7",
       "title": "Radio Alta Italy",
       "subtitle": "Radio",
@@ -27879,6 +27840,42 @@
       "clickCount": 17,
       "bitrate": 160,
       "streamUrl": "http://stream.mercyradio.eu/kabare.mp3"
+    },
+    {
+      "id": "vcr_classica_hi_fi_venice_classic_radio_italia_it_8b2dc6ab",
+      "title": "VCR Classica+ Hi-Fi | Venice Classic Radio Italia",
+      "subtitle": "Classical",
+      "location": "Italy",
+      "genre": "Classical",
+      "countryCode": "IT",
+      "language": null,
+      "clickCount": 8,
+      "bitrate": 192,
+      "streamUrl": "http://vcr2gra.ondastreaming.eu/stream2"
+    },
+    {
+      "id": "vcr_auditorium_hi_fi_venice_classic_radio_italia_it_4a70baad",
+      "title": "VCR Auditorium Hi-Fi | Venice Classic Radio Italia",
+      "subtitle": "Classical",
+      "location": "Italy",
+      "genre": "Classical",
+      "countryCode": "IT",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "http://vcr1gra.ondastreaming.eu/stream2"
+    },
+    {
+      "id": "rtl_102_5_mobile_48kbps_it_b718dd99",
+      "title": "RTL 102.5 [Mobile 48kbps]",
+      "subtitle": "Radio",
+      "location": "Italy",
+      "genre": "Radio",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 4,
+      "bitrate": 96,
+      "streamUrl": "https://streamingv2.shoutcast.com/rtl-1025_48.aac"
     }
   ]
 }

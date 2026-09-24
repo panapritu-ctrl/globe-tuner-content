@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-23T03:18:23Z",
+  "updated": "2026-09-24T03:11:03Z",
   "region": "asia",
   "part": 1,
   "of": 3,
@@ -12366,19 +12366,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_station_80179b3e",
-      "title": "七星关人民广播电台",
-      "subtitle": "News",
-      "imageUrl": "",
-      "streamUrl": "https://lhttp.qingting.fm/live/5021866/64k.mp3",
-      "location": "Kweichow, China",
-      "genre": "News",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_station_c46297d0",
       "title": "万宁综合广播",
       "subtitle": "Full Service",
@@ -18377,19 +18364,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_station_e6759706",
-      "title": "庆阳新闻综合广播",
-      "subtitle": "Full Service",
-      "imageUrl": "https://nginx-qys.xgsyun.com/qys/site1/resource/tv/qys/202404/08/5ba7723f-ec26-43f7-a7d4-f878cda1a940.jpg",
-      "streamUrl": "https://play.kankanlive.com/live/1712564707088949.m3u8",
-      "location": "Kansu, China",
-      "genre": "Full Service",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 0,
-      "bitrate": 2560
-    },
-    {
       "id": "rb2_105_4df3d030",
       "title": "廊坊戏曲广播·飞扬105",
       "subtitle": "Music",
@@ -20369,19 +20343,6 @@
       "streamUrl": "https://lhttp.qtfm.cn/live/5021942/64k.mp3",
       "location": "Kwangtung, China",
       "genre": "5G智慧电台",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_station_6561ee7d",
-      "title": "梅州交通广播",
-      "subtitle": "Full Service",
-      "imageUrl": "https://pic.qtfm.cn/2024/0821/20240821111520.jpeg",
-      "streamUrl": "https://lhttp-hw.qtfm.cn/live/1258/64k.mp3",
-      "location": "Kwangtung, China",
-      "genre": "Full Service",
       "countryCode": "CN",
       "language": "chinese",
       "clickCount": 0,
@@ -24535,19 +24496,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_station_c93d1995",
-      "title": "茂名交通广播",
-      "subtitle": "Traffic",
-      "imageUrl": "",
-      "streamUrl": "https://lhttp.qingting.fm/live/20211574/64k.mp3",
-      "location": "Kwangtung, China",
-      "genre": "Traffic",
-      "countryCode": "CN",
-      "language": "cantonese",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_station_5575e2a0",
       "title": "茂名综合广播",
       "subtitle": "News",
@@ -26726,18 +26674,6 @@
       "streamUrl": "http://lhttp.qingting.fm/live/4923/64k.mp3"
     },
     {
-      "id": "hong_kong_fantastic_tv_cn_2e3c0d4a",
-      "title": "Hong Kong Fantastic TV",
-      "subtitle": "Hls Video",
-      "location": "China",
-      "genre": "Hls Video",
-      "countryCode": "CN",
-      "language": "cantonese",
-      "clickCount": 2,
-      "bitrate": 0,
-      "streamUrl": "http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8"
-    },
-    {
       "id": "radio_aurora_am_1215c398",
       "title": "Radio Aurora",
       "subtitle": "Radio",
@@ -27612,6 +27548,18 @@
       "clickCount": 3,
       "bitrate": 0,
       "streamUrl": "https://media.xyzcdn.net/nnkLT7Qx1QNOjB362KOst5vwjYzl.mp3"
+    },
+    {
+      "id": "zoeyrrmusic_cn_0ad9352a",
+      "title": "zoeyrrmusic",
+      "subtitle": "Radio",
+      "location": "China",
+      "genre": "Radio",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://stream.zeno.fm/oedlk517cufvv"
     }
   ]
 }

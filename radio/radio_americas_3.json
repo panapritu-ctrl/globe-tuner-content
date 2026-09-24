@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-23T03:18:23Z",
+  "updated": "2026-09-24T03:11:03Z",
   "region": "americas",
   "part": 3,
   "of": 5,
@@ -18289,19 +18289,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_radio_100_73ef6663",
-      "title": "Radio 100",
-      "subtitle": "Baladas, Love Songs",
-      "imageUrl": "https://lh3.googleusercontent.com/a/ACg8ocL_1uvRG0coFZzBq2GeanZjb3D0E9yktATr2UnFV1qAmtdzOQ=s45-c",
-      "streamUrl": "https://cast6.asurahosting.com/proxy/xezar/;",
-      "location": "Peru",
-      "genre": "Baladas",
-      "countryCode": "PE",
-      "language": "spanish",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "radio_1160_peru_pe_95d071",
       "title": "Radio 1160 Peru",
       "subtitle": "Musica Variada",
@@ -26184,18 +26171,6 @@
       "streamUrl": "https://server7.servistreaming.com/proxy/fidelity?_=1&mp=/stream?type=.mp3"
     },
     {
-      "id": "emisoras_paraguay_106_1_fm_py_6c809248",
-      "title": "Emisoras Paraguay 106.1 FM",
-      "subtitle": "Cumbia",
-      "location": "Paraguay",
-      "genre": "Cumbia",
-      "countryCode": "PY",
-      "language": "spanish",
-      "clickCount": 3,
-      "bitrate": 0,
-      "streamUrl": "https://rds3.desdeparaguay.net/movemisoras/movemisoras.stream/playlist.m3u8"
-    },
-    {
       "id": "futura_92_3_gt_f630ca12",
       "title": "Futura 92.3",
       "subtitle": "Radio",
@@ -26902,6 +26877,18 @@
       "clickCount": 5,
       "bitrate": 128,
       "streamUrl": "https://api.condoristream.com/stream/radioglobo"
+    },
+    {
+      "id": "la_bestia_radio_mx_7540e3bc",
+      "title": "La Bestia Radio",
+      "subtitle": "Alternative",
+      "location": "Mexico",
+      "genre": "Alternative",
+      "countryCode": "MX",
+      "language": "español - latinoamerica",
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "https://streams.radio.co/s4aaec47cd/listen"
     }
   ]
 }

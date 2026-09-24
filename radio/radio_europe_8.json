@@ -1,23 +1,10 @@
 {
   "version": 3,
-  "updated": "2026-09-23T03:18:23Z",
+  "updated": "2026-09-24T03:11:03Z",
   "region": "europe",
   "part": 8,
   "of": 8,
   "stations": [
-    {
-      "id": "rb2_radcap_groove_metal_469f0bea",
-      "title": "RadCap - Groove Metal",
-      "subtitle": "Groove Metal, Metal",
-      "imageUrl": "",
-      "streamUrl": "http://79.120.39.202:8004/groovemetal",
-      "location": "Moscow (Russia), The Russian Federation",
-      "genre": "Groove Metal",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 0,
-      "bitrate": 320
-    },
     {
       "id": "rb2_radcap_hardcore_melodic_e818a035",
       "title": "RadCap - Hardcore Melodic",
@@ -237,19 +224,6 @@
       "countryCode": "RU",
       "language": "russian",
       "clickCount": 0,
-      "bitrate": 320
-    },
-    {
-      "id": "rb2_radcap_post_metal_2a6e4234",
-      "title": "RadCap - Post Metal",
-      "subtitle": "Metal, Post Metal",
-      "imageUrl": "",
-      "streamUrl": "http://79.120.39.202:8004/postmetal",
-      "location": "Moscow (Russia), The Russian Federation",
-      "genre": "Metal",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 1,
       "bitrate": 320
     },
     {
@@ -758,19 +732,6 @@
       "countryCode": "RU",
       "language": null,
       "clickCount": 0,
-      "bitrate": 48
-    },
-    {
-      "id": "rb2_radio_caprice_atmospheric_ambient_black__ff122908",
-      "title": "Radio Caprice - Atmospheric/Ambient Black Metal",
-      "subtitle": "Atmospheric Black Metal, Black Metal",
-      "imageUrl": "http://radcap.ru/stylegraf/abm4.jpg",
-      "streamUrl": "http://79.120.39.202:8002/aabmds",
-      "location": "The Russian Federation",
-      "genre": "Atmospheric Black Metal",
-      "countryCode": "RU",
-      "language": "english",
-      "clickCount": 1,
       "bitrate": 48
     },
     {
@@ -1542,19 +1503,6 @@
       "bitrate": 48
     },
     {
-      "id": "rb2_radio_caprice_electro_electro_funk_2_a3dde78a",
-      "title": "Radio Caprice - Electro / Electro Funk [2]",
-      "subtitle": "Electro, Electro Funk",
-      "imageUrl": "http://radcap.ru/apple-touch-icon.png",
-      "streamUrl": "http://79.111.119.111:8000/electro",
-      "location": "The Russian Federation",
-      "genre": "Electro",
-      "countryCode": "RU",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 320
-    },
-    {
       "id": "rb2_radio_caprice_electro_electro_funk_3_ca317de1",
       "title": "Radio Caprice - Electro / Electro Funk [3]",
       "subtitle": "Electro, Electro Funk",
@@ -1748,32 +1696,6 @@
       "language": null,
       "clickCount": 1,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_caprice_folk_black_metal_9f402596",
-      "title": "Radio Caprice - Folk Black Metal",
-      "subtitle": "Black Metal, Folk Metal",
-      "imageUrl": "",
-      "streamUrl": "http://79.120.12.130:8002/folkblackmet",
-      "location": "The Russian Federation",
-      "genre": "Black Metal",
-      "countryCode": "RU",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 48
-    },
-    {
-      "id": "rb2_radio_caprice_folk_death_metal_9db21bfa",
-      "title": "Radio Caprice - Folk Death Metal",
-      "subtitle": "Death Metal, Folk",
-      "imageUrl": "",
-      "streamUrl": "http://79.120.12.130:8000/folkdeathmet",
-      "location": "The Russian Federation",
-      "genre": "Death Metal",
-      "countryCode": "RU",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 320
     },
     {
       "id": "rb2_radio_caprice_folk_metal_8dff953e",
@@ -2071,19 +1993,6 @@
       "bitrate": 48
     },
     {
-      "id": "rb2_radio_caprice_groove_metal_128_ee71c37c",
-      "title": "Radio Caprice - Groove Metal (128)",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://79.120.39.202:8000/groovemetal",
-      "location": "The Russian Federation",
-      "genre": "Radio",
-      "countryCode": "RU",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 320
-    },
-    {
       "id": "rb2_radio_caprice_grunge_e4a3cd42",
       "title": "Radio Caprice - Grunge",
       "subtitle": "Caprice, Grunge",
@@ -2108,19 +2017,6 @@
       "language": null,
       "clickCount": 2,
       "bitrate": 48
-    },
-    {
-      "id": "rb2_radio_caprice_hard_bob_896a7b65",
-      "title": "Radio Caprice - Hard Bob",
-      "subtitle": "Bebop, Hard Bop",
-      "imageUrl": "http://radcap.ru/apple-touch-icon.png",
-      "streamUrl": "http://79.111.14.76:8000/hardbop",
-      "location": "The Russian Federation",
-      "genre": "Bebop",
-      "countryCode": "RU",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 320
     },
     {
       "id": "rb2_radio_caprice_hard_bop_2c2a1002",
@@ -2461,32 +2357,6 @@
       "bitrate": 48
     },
     {
-      "id": "rb2_radio_caprice_love_songs_a1c29ddb",
-      "title": "Radio Caprice - LOVE SONGS",
-      "subtitle": "Love Songs",
-      "imageUrl": "http://radcap.ru/graf2/radcaplogo.png",
-      "streamUrl": "http://213.141.131.10:8002/lovesongs",
-      "location": "The Russian Federation",
-      "genre": "Love Songs",
-      "countryCode": "RU",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 48
-    },
-    {
-      "id": "rb2_radio_caprice_latin_afro_cuban_jazz_af625f9a",
-      "title": "Radio Caprice - Latin / Afro-Cuban Jazz",
-      "subtitle": "Bolero, Cuban Music",
-      "imageUrl": "",
-      "streamUrl": "http://79.111.119.111:8002/latinjazz",
-      "location": "The Russian Federation",
-      "genre": "Bolero",
-      "countryCode": "RU",
-      "language": "brazilian portuguese",
-      "clickCount": 0,
-      "bitrate": 48
-    },
-    {
       "id": "rb2_radio_caprice_liquid_funk_3dd63f93",
       "title": "Radio Caprice - Liquid Funk",
       "subtitle": "Drum And Bass, Liquid Funk",
@@ -2756,19 +2626,6 @@
       "bitrate": 320
     },
     {
-      "id": "rb2_radio_caprice_modern_classical_d015b2c3",
-      "title": "Radio Caprice - Modern Classical",
-      "subtitle": "Classical, Modern Classical",
-      "imageUrl": "http://radcap.ru/apple-touch-icon.png",
-      "streamUrl": "http://79.120.39.202:8002/modernclassical",
-      "location": "The Russian Federation",
-      "genre": "Classical",
-      "countryCode": "RU",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 48
-    },
-    {
       "id": "rb2_radio_caprice_music_of_siberia_mongolia_702eca2f",
       "title": "Radio Caprice - Music of Siberia & Mongolia",
       "subtitle": "Ethnic, Spiritual",
@@ -2975,19 +2832,6 @@
       "language": null,
       "clickCount": 0,
       "bitrate": 320
-    },
-    {
-      "id": "rb2_radio_caprice_organ_music_ac737e16",
-      "title": "Radio Caprice - Organ Music",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://79.120.77.11:8002/organ",
-      "location": "The Russian Federation",
-      "genre": "Radio",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 1,
-      "bitrate": 48
     },
     {
       "id": "rb2_radio_caprice_organic_house_1_b3448e40",
@@ -3268,19 +3112,6 @@
       "bitrate": 48
     },
     {
-      "id": "rb2_radio_caprice_russian_club_dance_music_2_800fa270",
-      "title": "Radio Caprice - Russian Club Dance Music [2]",
-      "subtitle": "Club, Club Dance",
-      "imageUrl": "http://radcap.ru/apple-touch-icon.png",
-      "streamUrl": "http://79.120.77.11:8000/clubru",
-      "location": "The Russian Federation",
-      "genre": "Club",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 0,
-      "bitrate": 320
-    },
-    {
       "id": "rb2_radio_caprice_russian_club_dance_music_3_8918ea01",
       "title": "Radio Caprice - Russian Club Dance Music [3]",
       "subtitle": "Club, Club Dance",
@@ -3318,19 +3149,6 @@
       "language": null,
       "clickCount": 0,
       "bitrate": 320
-    },
-    {
-      "id": "rb2_radio_caprice_russian_pop_music_80_90_s_8a5a0bc8",
-      "title": "Radio Caprice - Russian Pop music 80-90's",
-      "subtitle": "Decades",
-      "imageUrl": "",
-      "streamUrl": "http://79.120.77.11:8002/80ru",
-      "location": "The Russian Federation",
-      "genre": "Decades",
-      "countryCode": "RU",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 48
     },
     {
       "id": "rb2_radio_caprice_saxophone_0915063c",
@@ -3496,19 +3314,6 @@
       "streamUrl": "http://213.141.131.10:8000/ecmrecords",
       "location": "The Russian Federation",
       "genre": "Radio",
-      "countryCode": "RU",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 320
-    },
-    {
-      "id": "rb2_radio_caprice_suomisaundi_freeform_psytr_a2dbcc72",
-      "title": "Radio Caprice - Suomisaundi / Freeform Psytrance / Spugedelic Trance [2]",
-      "subtitle": "Electronic, Freeform Psytrance",
-      "imageUrl": "",
-      "streamUrl": "http://79.120.77.11:8000/suomisaundi",
-      "location": "The Russian Federation",
-      "genre": "Electronic",
       "countryCode": "RU",
       "language": null,
       "clickCount": 0,
@@ -3723,19 +3528,6 @@
       "bitrate": 320
     },
     {
-      "id": "rb2_radio_caprice_west_coast_hip_hop_gangsta_1357e1fd",
-      "title": "Radio Caprice - West Coast Hip-Hop, Gangsta Rap, G-Funk 320k",
-      "subtitle": "G-Funk, Gangsta Rap",
-      "imageUrl": "http://radcap.ru/favicon.ico",
-      "streamUrl": "http://79.120.39.202:8004/gangstarap",
-      "location": "The Russian Federation",
-      "genre": "G-Funk",
-      "countryCode": "RU",
-      "language": "english",
-      "clickCount": 3,
-      "bitrate": 320
-    },
-    {
       "id": "rb2_radio_caprice_grime_d716df3e",
       "title": "Radio Caprice - grime",
       "subtitle": "Electronic, Grime",
@@ -3924,19 +3716,6 @@
       "countryCode": "RU",
       "language": null,
       "clickCount": 0,
-      "bitrate": 48
-    },
-    {
-      "id": "rb2_radio_caprice_piano_blues_boogie_woogie_4ec98386",
-      "title": "Radio Caprice Piano Blues Boogie Woogie",
-      "subtitle": "Blues, Boogie Woogie",
-      "imageUrl": "",
-      "streamUrl": "http://79.111.14.76:8002/pianoblues",
-      "location": "The Russian Federation",
-      "genre": "Blues",
-      "countryCode": "RU",
-      "language": null,
-      "clickCount": 1,
       "bitrate": 48
     },
     {
@@ -5475,15 +5254,6 @@
       "countryCode": "RU"
     },
     {
-      "id": "relax_fm_chillout_ru_95eff2",
-      "title": "Relax FM Chillout",
-      "subtitle": "Chill",
-      "location": "The Russian Federation",
-      "genre": "Chillout",
-      "countryCode": "RU",
-      "streamUrl": "https://pub0201.101.ru/stream/trust/mp3/128/24?"
-    },
-    {
       "id": "rb2_relax_fm_gold_ce5d14a7",
       "title": "Relax FM Gold",
       "subtitle": "Relax, Relaxation Music",
@@ -6323,19 +6093,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_symphony_3bff999e",
-      "title": "Symphony",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://79.111.14.76:8000/symphony",
-      "location": "The Russian Federation",
-      "genre": "Radio",
-      "countryCode": "RU",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 320
-    },
-    {
       "id": "rb2_synthway_radio_4bc13da2",
       "title": "SynthWay Radio",
       "subtitle": "Radio",
@@ -6605,19 +6362,6 @@
       "bitrate": 192
     },
     {
-      "id": "rb2_violin_radio_caprice_08a6111b",
-      "title": "Violin - Radio Caprice",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://213.141.131.10:8004/violin",
-      "location": "The Russian Federation",
-      "genre": "Radio",
-      "countryCode": "RU",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 320
-    },
-    {
       "id": "rb2_visual_nagoya_oshare_angura_kei_caprice__cfc96ffe",
       "title": "Visual / Nagoya / Oshare / Angura Kei - Caprice Radio",
       "subtitle": "Angura Kei, Nagoya Kei",
@@ -6863,19 +6607,6 @@
       "language": "english/russian",
       "clickCount": 1,
       "bitrate": 192
-    },
-    {
-      "id": "rb2_caprice_indian_folk_043ca8f3",
-      "title": "caprice indian folk",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://79.111.14.76:8002/indianfolk",
-      "location": "The Russian Federation",
-      "genre": "Radio",
-      "countryCode": "RU",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 48
     },
     {
       "id": "rb2_datamosh_6e2e12b2",
@@ -7154,19 +6885,6 @@
       "streamUrl": "http://online2.gkvr.ru:8000/avtoradio_klg_64.aac",
       "location": "The Russian Federation",
       "genre": "Music",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_107_7_fm_431acd35",
-      "title": "Авторадио Тихвин 107.7 FM",
-      "subtitle": "47, Auto",
-      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241102_174642351.jpg?alt=media&token=43814588-ce10-4c24-9547-ab8dc4f63c5b",
-      "streamUrl": "http://79.173.124.23:1121/Avtotih",
-      "location": "The Russian Federation",
-      "genre": "47",
       "countryCode": "RU",
       "language": "russian",
       "clickCount": 0,
@@ -10645,19 +10363,6 @@
       "bitrate": 192
     },
     {
-      "id": "rb2_90_8_fm_3990545a",
-      "title": "Новое радио Кингисепп 90.8 FM",
-      "subtitle": "Kingisepp, Leningrad Region",
-      "imageUrl": "",
-      "streamUrl": "http://79.173.124.23:1121/Novoeking",
-      "location": "The Russian Federation",
-      "genre": "Kingisepp",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_90_0_fm_aed22d9f",
       "title": "Новое радио Киров 90.0 FM",
       "subtitle": "Kirov, Music",
@@ -10903,19 +10608,6 @@
       "language": "english/russian",
       "clickCount": 3,
       "bitrate": 256
-    },
-    {
-      "id": "rb2_station_73d4ad20",
-      "title": "Пионер ФМ",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://myradio24.org/pionerro",
-      "location": "Perm region, The Russian Federation",
-      "genre": "Radio",
-      "countryCode": "RU",
-      "language": "english/russian",
-      "clickCount": 0,
-      "bitrate": 128
     },
     {
       "id": "rb2_fm_100_9_ae048365",
@@ -12291,19 +11983,6 @@
       "countryCode": "RU",
       "language": "russian",
       "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_station_dd52a222",
-      "title": "Радио Монте-Карло омск",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://radio.mediacdn.ru/shanson_omsk.mp3",
-      "location": "Omsk (Russia), The Russian Federation",
-      "genre": "Radio",
-      "countryCode": "RU",
-      "language": null,
-      "clickCount": 1,
       "bitrate": 128
     },
     {
@@ -22718,19 +22397,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_fm_a4834c23",
-      "title": "Стильне радіо \"Перець FM\"",
-      "subtitle": "Information, Music",
-      "imageUrl": "",
-      "streamUrl": "http://radio.stilnoe.fm:8080/radio-stilnoe",
-      "location": "Ukraine",
-      "genre": "Information",
-      "countryCode": "UA",
-      "language": "ukrainian",
-      "clickCount": 2,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_fm_2aa1620a",
       "title": "Стрий FM",
       "subtitle": "Information, Local News",
@@ -24986,18 +24652,6 @@
       "streamUrl": "https://radio.kyivstar.ua/stream/gold/master.m3u8"
     },
     {
-      "id": "radio_caprice_vocal_trance_ru_d62f8722",
-      "title": "Radio Caprice - Vocal Trance",
-      "subtitle": "Trance",
-      "location": "The Russian Federation",
-      "genre": "Trance",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 5,
-      "bitrate": 320,
-      "streamUrl": "http://79.120.39.202:8000/vocaltrance"
-    },
-    {
       "id": "sveriges_radio_p4_uppland_se_9319f9c2",
       "title": "Sveriges Radio P4 Uppland",
       "subtitle": "Radio",
@@ -25358,18 +25012,6 @@
       "streamUrl": "http://stream02.exit.si:8000/NO1?"
     },
     {
-      "id": "radio_caprice_dungeon_synth_ru_fd0e7c8c",
-      "title": "Radio Caprice - Dungeon Synth",
-      "subtitle": "Dungeon Synth",
-      "location": "The Russian Federation",
-      "genre": "Dungeon Synth",
-      "countryCode": "RU",
-      "language": null,
-      "clickCount": 5,
-      "bitrate": 48,
-      "streamUrl": "http://79.120.12.130:8002/dungeonsynth"
-    },
-    {
       "id": "club_hits_2000s_ru_acea57b1",
       "title": "Club Hits 2000s",
       "subtitle": "Beachclub",
@@ -25430,16 +25072,28 @@
       "streamUrl": "https://moygid.online/radio.mp3"
     },
     {
-      "id": "radio_caprice_power_metal_ru_4201092d",
-      "title": "Radio Caprice - Power Metal",
-      "subtitle": "Heavy Metal",
+      "id": "m_deep_radio_ru_d6ef22c5",
+      "title": "M.Deep Radio",
+      "subtitle": "Chillout",
       "location": "The Russian Federation",
-      "genre": "Heavy Metal",
+      "genre": "Chillout",
       "countryCode": "RU",
-      "language": "english",
+      "language": "russian",
+      "clickCount": 6,
+      "bitrate": 192,
+      "streamUrl": "https://deephousex.ru/live"
+    },
+    {
+      "id": "station_ru_9e0db831",
+      "title": "Дигравиль ФМ",
+      "subtitle": "Alternative",
+      "location": "The Russian Federation",
+      "genre": "Alternative",
+      "countryCode": "RU",
+      "language": "russian",
       "clickCount": 4,
-      "bitrate": 320,
-      "streamUrl": "http://79.120.77.11:8000/powermetal"
+      "bitrate": 0,
+      "streamUrl": "https://jecarchive.ru/radio.mp3"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-23T03:18:23Z",
+  "updated": "2026-09-24T03:11:03Z",
   "region": "asia",
   "part": 3,
   "of": 3,
@@ -5989,19 +5989,6 @@
       "countryCode": "TH",
       "language": "thai",
       "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_fm99_3cb26271",
-      "title": "fm99",
-      "subtitle": "Classical",
-      "imageUrl": "",
-      "streamUrl": "https://northernlive.mcot.net/fm99/voice.m3u8",
-      "location": "Thailand",
-      "genre": "Classical",
-      "countryCode": "TH",
-      "language": null,
-      "clickCount": 1,
       "bitrate": 128
     },
     {
@@ -15686,18 +15673,6 @@
       "streamUrl": "https://bloomberghtradyo.radyotvonline.net/bloomberghtradyo"
     },
     {
-      "id": "abuzer_fm_tr_82b2cf03",
-      "title": "Abuzer FM",
-      "subtitle": "Comedy",
-      "location": "Türkiye",
-      "genre": "Comedy",
-      "countryCode": "TR",
-      "language": "turkish",
-      "clickCount": 6,
-      "bitrate": 128,
-      "streamUrl": "http://live.radyotvonline.com:9030/;stream.nsv"
-    },
-    {
       "id": "radyo_deva_adana_tr_a59e9dd5",
       "title": "Radyo Deva Adana",
       "subtitle": "Local",
@@ -16238,18 +16213,6 @@
       "streamUrl": "https://stream.zeno.fm/sfaqs2c29heuv"
     },
     {
-      "id": "xfm_bayugan_ph_6f7d086c",
-      "title": "XFM Bayugan",
-      "subtitle": "Radio",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 64,
-      "streamUrl": "http://209.126.124.126:8742/stream"
-    },
-    {
       "id": "insaf_radio_pk_03822bf2",
       "title": "Insaf Radio",
       "subtitle": "Radio",
@@ -16380,18 +16343,6 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "https://lazuri.app/radyo.m3u8"
-    },
-    {
-      "id": "k5_news_fm_capiz_ph_5ce27c8c",
-      "title": "K5 News FM Capiz",
-      "subtitle": "Radio",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "language": null,
-      "clickCount": 3,
-      "bitrate": 48,
-      "streamUrl": "http://209.126.124.126:8584/stream"
     },
     {
       "id": "dada_fm_erzurum_tr_584e0168",
@@ -17016,6 +16967,30 @@
       "clickCount": 4,
       "bitrate": 96,
       "streamUrl": "https://live.radyo.in/8062/stream"
+    },
+    {
+      "id": "abuzer_fm_tr_82b2cf03",
+      "title": "Abuzer FM",
+      "subtitle": "Comedy",
+      "location": "Türkiye",
+      "genre": "Comedy",
+      "countryCode": "TR",
+      "language": "turkish",
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "http://live.radyotvonline.com:9030/;stream.nsv"
+    },
+    {
+      "id": "radyo_bandera_sweet_fm_bacolod_ph_444c1e2e",
+      "title": "Radyo Bandera Sweet FM Bacolod",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 48,
+      "streamUrl": "https://us1.amfmph.com/ssl/sweetfmbacolod?mp=%2Fstream"
     }
   ]
 }

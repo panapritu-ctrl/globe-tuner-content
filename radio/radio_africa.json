@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-23T03:18:23Z",
+  "updated": "2026-09-24T03:11:03Z",
   "region": "africa",
   "stations": [
     {
@@ -1510,15 +1510,6 @@
       "language": null,
       "clickCount": 3,
       "bitrate": 128
-    },
-    {
-      "id": "jazz_ethopia_world_et_367724",
-      "title": "Jazz Ethopia World",
-      "subtitle": "Radio",
-      "location": "Amharic,Engilsh, Ethiopia",
-      "genre": "Radio",
-      "streamUrl": "http://mediaserv38.live-streams.nl:8006/",
-      "countryCode": "ET"
     },
     {
       "id": "rb_mirt_internet_radio_c945d723",
@@ -10050,18 +10041,6 @@
       "streamUrl": "https://bisratfm-atunwadigital.streamguys1.com/bisratfm"
     },
     {
-      "id": "pikine_diaspora_radio_sn_368c735a",
-      "title": "Pikine Diaspora Radio",
-      "subtitle": "Radio",
-      "location": "Senegal",
-      "genre": "Radio",
-      "countryCode": "SN",
-      "language": null,
-      "clickCount": 3,
-      "bitrate": 0,
-      "streamUrl": "http://cdn.voscast.com/resources/?key=563fcd75f43e77334d6fb664b7358f9e&c=winamp"
-    },
-    {
       "id": "metro_fm_za_fa8eecda",
       "title": "Metro FM",
       "subtitle": "Radio",
@@ -10540,6 +10519,30 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://radio.xecod.com/station/ammar-almulla"
+    },
+    {
+      "id": "innovation_fm_cd_0ebed197",
+      "title": "Innovation FM",
+      "subtitle": "African Music",
+      "location": "The Democratic Republic Of The Congo",
+      "genre": "African Music",
+      "countryCode": "CD",
+      "language": "french",
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://radio.fdvi.org/live"
+    },
+    {
+      "id": "secret_of_future_sd_e710e3e9",
+      "title": "SECRET OF FUTURE",
+      "subtitle": "Radio",
+      "location": "The Sudan",
+      "genre": "Radio",
+      "countryCode": "SD",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://panel.radiocast.net/listen/secret_of_future/radio.mp3"
     }
   ]
 }
