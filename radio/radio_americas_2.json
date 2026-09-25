@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-24T03:11:03Z",
+  "updated": "2026-09-25T03:27:26Z",
   "region": "americas",
   "part": 2,
   "of": 5,
@@ -472,19 +472,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_cbc_radio_one_sudbury_on_mp3_stream_9b55a8d7",
-      "title": "CBC Radio One - Sudbury, ON (MP3 stream)",
-      "subtitle": "Features, News",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/CBCRadioOne.svg/320px-CBCRadioOne.svg.png",
-      "streamUrl": "https://26283.live.streamtheworld.com/CBCSFM_CBC_SC",
-      "location": "Ontario, Canada",
-      "genre": "Features",
-      "countryCode": "CA",
-      "language": "english",
-      "clickCount": 2,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_cbc_radio_one_sydney_ns_mp3_stream_2d626d4c",
       "title": "CBC Radio One - Sydney, NS (MP3 stream)",
       "subtitle": "Features, News",
@@ -540,19 +527,6 @@
       "streamUrl": "https://26373.live.streamtheworld.com/CFWH_CBC_SC",
       "location": "Yukon Territory, Canada",
       "genre": "Radio",
-      "countryCode": "CA",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_cbc_radio_one_windsor_on_mp3_stream_1a9e381f",
-      "title": "CBC Radio One - Windsor, ON (MP3 stream)",
-      "subtitle": "Features, News",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/CBCRadioOne.svg/320px-CBCRadioOne.svg.png",
-      "streamUrl": "https://26283.live.streamtheworld.com/CBEWFM_CBC_SC",
-      "location": "Ontario, Canada",
-      "genre": "Features",
       "countryCode": "CA",
       "language": "english",
       "clickCount": 0,
@@ -12812,19 +12786,6 @@
       "bitrate": 56
     },
     {
-      "id": "rb2_femenina_fm_4fcfaa13",
-      "title": "Femenina FM",
-      "subtitle": "Musica Romantica, News",
-      "imageUrl": "",
-      "streamUrl": "http://archi-us.digitalproserver.com/femenina.aac",
-      "location": "Concepción, Chile",
-      "genre": "Musica Romantica",
-      "countryCode": "CL",
-      "language": "spanish",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_festival_04c74563",
       "title": "Festival",
       "subtitle": "Bailable, News",
@@ -23046,19 +23007,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_radio_fm_103_103_5_18792fc1",
-      "title": "Radio FM-103 - 103.5",
-      "subtitle": "Baladas, Entretenimiento",
-      "imageUrl": "https://www.fm103.com.do/wp-content/themes/fm103/images/logo.png",
-      "streamUrl": "https://radio.radiord.net/8008/;",
-      "location": "The Dominican Republic",
-      "genre": "Baladas",
-      "countryCode": "DO",
-      "language": "spanish",
-      "clickCount": 0,
-      "bitrate": 36
-    },
-    {
       "id": "rb2_radio_renuevo_89_7_5f58c1c9",
       "title": "Radio Renuevo 89.7",
       "subtitle": "Christian, Christian Music",
@@ -27318,18 +27266,6 @@
       "streamUrl": "https://radio.yaservers.com:6060/stream/1/"
     },
     {
-      "id": "edward_ortega_radio_mas_popular_co_45da2514",
-      "title": "Edward Ortega Radio - Mas + Popular",
-      "subtitle": "Boleros",
-      "location": "Colombia",
-      "genre": "Boleros",
-      "countryCode": "CO",
-      "language": "spanish",
-      "clickCount": 2,
-      "bitrate": 128,
-      "streamUrl": "https://cloud11.vsgtech.co/proxy/maspopular/stream"
-    },
-    {
       "id": "digital_fm_cl_64ec60c1",
       "title": "Digital FM",
       "subtitle": "Pop",
@@ -27340,18 +27276,6 @@
       "clickCount": 5,
       "bitrate": 128,
       "streamUrl": "https://unlimited11-cl.dps.live/digitalfm/aac/icecast.audio"
-    },
-    {
-      "id": "cfny_102_1_toronto_on_aac_ca_417b0c87",
-      "title": "CFNY 102.1 Toronto, ON (AAC+)",
-      "subtitle": "Commercial",
-      "location": "Canada",
-      "genre": "Commercial",
-      "countryCode": "CA",
-      "language": "english",
-      "clickCount": 3,
-      "bitrate": 57,
-      "streamUrl": "http://live.leanstream.co/CFNYFM"
     },
     {
       "id": "w_radio_fm_bogot_co_6b09f5e7",
@@ -28384,6 +28308,42 @@
       "clickCount": 3,
       "bitrate": 48,
       "streamUrl": "https://icy.jpbgdigital.com/CHPQ.aac"
+    },
+    {
+      "id": "cfmi_101_1_rock_101_new_westminster_bc_ca_08cb9b4d",
+      "title": "CFMI 101.1 \"Rock 101\" New Westminster, BC",
+      "subtitle": "Classic Rock",
+      "location": "Canada",
+      "genre": "Classic Rock",
+      "countryCode": "CA",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://live.leanstream.co/CFMIFM-MP3"
+    },
+    {
+      "id": "radio_tiempo_96_1_fm_co_3602a298",
+      "title": "Radio Tiempo 96.1 FM",
+      "subtitle": "Radio",
+      "location": "Colombia",
+      "genre": "Radio",
+      "countryCode": "CO",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 64,
+      "streamUrl": "https://radio.garden/api/ara/content/listen/bQueuUi0/channel.mp3?1721304580410"
+    },
+    {
+      "id": "bravisima_fm_do_29608ff1",
+      "title": "Bravisima fm",
+      "subtitle": "Radio",
+      "location": "The Dominican Republic",
+      "genre": "Radio",
+      "countryCode": "DO",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "http://radio.hostlagarto.com/9924/stream"
     }
   ]
 }

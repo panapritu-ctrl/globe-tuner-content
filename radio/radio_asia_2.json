@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-24T03:11:03Z",
+  "updated": "2026-09-25T03:27:26Z",
   "region": "asia",
   "part": 2,
   "of": 3,
@@ -2942,19 +2942,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb_pik_sat_tv_be20711a",
-      "title": "PIK Sat TV",
-      "subtitle": "Radio",
-      "imageUrl": "https://control.divio.com/static/favicon.png",
-      "streamUrl": "http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8",
-      "location": "Nicosia, Cyprus",
-      "genre": "Radio",
-      "countryCode": "CY",
-      "language": "greek",
-      "clickCount": 0,
-      "bitrate": 2443
-    },
-    {
       "id": "rb_proto_live_52bde6b1",
       "title": "Proto Live",
       "subtitle": "Radio",
@@ -3018,19 +3005,6 @@
       "language": "greek",
       "clickCount": 1,
       "bitrate": 128
-    },
-    {
-      "id": "rb_super_sport_fm_104_0_6c543391",
-      "title": "Super Sport FM 104.0",
-      "subtitle": "Greek, Sports",
-      "imageUrl": "https://sport-fm.com.cy/wp-content/themes/dm-sportfm/images/favicons/apple-icon-114x114.png",
-      "streamUrl": "https://r1.cloudskep.com/radio3/supersportfm/icecast.audio",
-      "location": "Cyprus",
-      "genre": "Greek",
-      "countryCode": "CY",
-      "language": "greek",
-      "clickCount": 1,
-      "bitrate": 56
     },
     {
       "id": "rb2_tetarto_live_8e24da89",
@@ -3118,19 +3092,6 @@
       "language": "greek",
       "clickCount": 1,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_93_3_971985c2",
-      "title": "Ο Αληθινός Λόγος 93.3 Λευκωσία - Ιερά Αρχιεπισκοπή Κύπρου",
-      "subtitle": "Christian, Christian Orthodox",
-      "imageUrl": "https://logosradio.com.cy/assets/images/o-alithinos-logos-1.png",
-      "streamUrl": "http://r1.cloudskep.com/radio/agiosdemetrios/icecast.audio",
-      "location": "Nicosia, Cyprus",
-      "genre": "Christian",
-      "countryCode": "CY",
-      "language": "greek",
-      "clickCount": 1,
-      "bitrate": 56
     },
     {
       "id": "rb_fm_95_0_32b7a6bb",
@@ -16324,15 +16285,6 @@
       "bitrate": 96
     },
     {
-      "id": "nhk_world_radio_jp_39a326",
-      "title": "NHK WORLD RADIO",
-      "subtitle": "International",
-      "location": "tokyo, Japan",
-      "genre": "International",
-      "streamUrl": "https://b-nhkworld-radio.nhkworld.jp/hls/live/nhkworld-radio-rs1/index_rs1.m3u8",
-      "countryCode": "JP"
-    },
-    {
       "id": "rb2_nhk_world_radio_11_813c17ee",
       "title": "NHK WORLD RADIO 11",
       "subtitle": "International",
@@ -20770,18 +20722,6 @@
       "streamUrl": "https://lhttp.qtfm.cn/live/20500215/64k.mp3"
     },
     {
-      "id": "afn_go_tokyo_jp_6688399c",
-      "title": "AFN GO TOKYO",
-      "subtitle": "Military",
-      "location": "Japan",
-      "genre": "Military",
-      "countryCode": "JP",
-      "language": "english",
-      "clickCount": 6,
-      "bitrate": 96,
-      "streamUrl": "http://22963.live.streamtheworld.com/AFNP_TKO_SC"
-    },
-    {
       "id": "tel_aviv_102fm_il_11756644",
       "title": "Tel Aviv 102FM רדיו תל אביב",
       "subtitle": "Contenmporary",
@@ -21044,18 +20984,6 @@
       "clickCount": 6,
       "bitrate": 0,
       "streamUrl": "https://macaofm995.com/hls1/fm995.m3u8"
-    },
-    {
-      "id": "station_cn_bc7855d9",
-      "title": "呼和浩特综合广播",
-      "subtitle": "Radio",
-      "location": "China",
-      "genre": "Radio",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 4,
-      "bitrate": 0,
-      "streamUrl": "https://lhttp-hw.qtfm.cn/live/5021543/64k.mp3"
     },
     {
       "id": "station_cn_ad6ef3cc",
@@ -24454,30 +24382,6 @@
       "streamUrl": "https://asv.alhastream.com:4070/rbtfm"
     },
     {
-      "id": "station_cn_48c1cbfd",
-      "title": "天籁之音 - 经典正流行",
-      "subtitle": "Music",
-      "location": "China",
-      "genre": "Music",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 20,
-      "bitrate": 0,
-      "streamUrl": "http://play-radio-stream3.hndt.com/now/WUBA5hW2/chunklist.m3u8"
-    },
-    {
-      "id": "v_radio_id_5747dbcc",
-      "title": "V Radio",
-      "subtitle": "80S",
-      "location": "Indonesia",
-      "genre": "80S",
-      "countryCode": "ID",
-      "language": "indonesian",
-      "clickCount": 8,
-      "bitrate": 256,
-      "streamUrl": "http://202.147.199.100:8000/;stream.nsv"
-    },
-    {
       "id": "oreo_chii_jp_62ffc4e4",
       "title": "Oreo Chii",
       "subtitle": "Chiikawa",
@@ -24886,18 +24790,6 @@
       "streamUrl": "https://i.klikhost.com:8892/stream"
     },
     {
-      "id": "kbs_classic_kr_d2ffa904",
-      "title": "KBS CLASSIC",
-      "subtitle": "Radio",
-      "location": "The Republic Of Korea",
-      "genre": "Radio",
-      "countryCode": "KR",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 0,
-      "streamUrl": "https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODkzMDE5OTl9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=CDyGlfvOgbfBHtG5I5HnACaRfAk5UgBrQZWkcV9tb~xgjK7f9Sh6SslVqaOYm-ZVVuJKW8OfkmfYnLPQtosrvUEjNm8GRT9FcZPwnMrlC9mHWASbfHHy5Qp0rPQSk69frQaGOq4fvbuLhzyqe~BECm05xSqU2Xpq3U4sWkoe~3uSv-vobNd4wURDtPU5kSsan7duG4ocvNYy~jh1b2SAErzK6gbQ0sg2zmpXSR2enmiRsCadmRORK6hAMPBiAA704YscYTcecNx2eL-oMtFK2uzAUyRuFfDq6kMFFgfHFNRroU6S6VhN17LqM2xFcqzjkkbCQEMwNG62AjiVUTcWZQ__"
-    },
-    {
       "id": "ananda_marga_pracharaka_samgha_in_54bb929b",
       "title": "Ananda Marga Pracharaka Samgha",
       "subtitle": "Kiirtan",
@@ -25030,18 +24922,6 @@
       "streamUrl": "http://119.28.21.93/radio/cctv10.mp3"
     },
     {
-      "id": "love_fm_cy_3b3bb5df",
-      "title": "Love FM",
-      "subtitle": "Radio",
-      "location": "Cyprus",
-      "genre": "Radio",
-      "countryCode": "CY",
-      "language": null,
-      "clickCount": 3,
-      "bitrate": 250,
-      "streamUrl": "http://eradio.networksolutions.com.cy:1935/LoveRadio/Loveradio.stream/playlist.m3u8"
-    },
-    {
       "id": "radio_suara_lumajang_id_a98829f9",
       "title": "Radio Suara Lumajang",
       "subtitle": "Radio",
@@ -25064,18 +24944,6 @@
       "clickCount": 2,
       "bitrate": 0,
       "streamUrl": "http://119.28.21.93/radio/cctv11.mp3"
-    },
-    {
-      "id": "cnr_7_cn_16de6f64",
-      "title": "CNR-7 神州之声伴音",
-      "subtitle": "Audio",
-      "location": "China",
-      "genre": "Audio",
-      "countryCode": "CN",
-      "language": "zh",
-      "clickCount": 2,
-      "bitrate": 0,
-      "streamUrl": "http://119.28.21.93/radio/cnr7.mp3"
     },
     {
       "id": "zucca_cy_d704982a",
@@ -25762,18 +25630,6 @@
       "streamUrl": "https://lhttp-hw.qtfm.cn/live/20324/64k.mp3"
     },
     {
-      "id": "shangyu_new_commercial_city_tv_cn_9fe0484e",
-      "title": "Shangyu New Commercial City TV",
-      "subtitle": "Chekiang",
-      "location": "China",
-      "genre": "Chekiang",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 3,
-      "bitrate": 0,
-      "streamUrl": "http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8"
-    },
-    {
       "id": "hang106fm_id_dba5e6e1",
       "title": "HANG106FM",
       "subtitle": "Radio",
@@ -26120,6 +25976,78 @@
       "clickCount": 3,
       "bitrate": 64,
       "streamUrl": "https://ice7.securenetsystems.net/WWTR?"
+    },
+    {
+      "id": "nhk_world_radio_jp_877b1177",
+      "title": "NHK WORLD RADIO",
+      "subtitle": "International",
+      "location": "Japan",
+      "genre": "International",
+      "countryCode": "JP",
+      "language": "chinese",
+      "clickCount": 25,
+      "bitrate": 0,
+      "streamUrl": "https://nhkworld-radio.nhkworld.jp/hls/live/nhkworld-radio-media2/index.m3u8"
+    },
+    {
+      "id": "v_radio_id_5747dbcc",
+      "title": "V Radio",
+      "subtitle": "80S",
+      "location": "Indonesia",
+      "genre": "80S",
+      "countryCode": "ID",
+      "language": "indonesian",
+      "clickCount": 10,
+      "bitrate": 256,
+      "streamUrl": "http://202.147.199.100:8000/;stream.nsv"
+    },
+    {
+      "id": "s_janaki_in_f9ef8afd",
+      "title": "S Janaki",
+      "subtitle": "Janaki",
+      "location": "India",
+      "genre": "Janaki",
+      "countryCode": "IN",
+      "language": "tamil",
+      "clickCount": 4,
+      "bitrate": 64,
+      "streamUrl": "https://psrlive2.listenon.in/janaki?station=janakiradio"
+    },
+    {
+      "id": "fm_air_punjabi_in_0b85a497",
+      "title": "FM AIR Punjabi",
+      "subtitle": "Radio",
+      "location": "India",
+      "genre": "Radio",
+      "countryCode": "IN",
+      "language": "punjabi",
+      "clickCount": 3,
+      "bitrate": 126,
+      "streamUrl": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio138/playlist.m3u8"
+    },
+    {
+      "id": "bhaktiworld_media_sai_baba_in_fee15b6b",
+      "title": "Bhaktiworld Media Sai Baba",
+      "subtitle": "Radio",
+      "location": "India",
+      "genre": "Radio",
+      "countryCode": "IN",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 64,
+      "streamUrl": "https://iskon2b.out.airtime.pro:8000/iskon2b_a"
+    },
+    {
+      "id": "vanavilfm_arr_radio_in_6b8a5d89",
+      "title": "Vanavilfm - ARR Radio",
+      "subtitle": "Tamil Cinema Music",
+      "location": "India",
+      "genre": "Tamil Cinema Music",
+      "countryCode": "IN",
+      "language": "tamil",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://s7.yesstreaming.net:8038/stream"
     }
   ]
 }

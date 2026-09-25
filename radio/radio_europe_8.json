@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-24T03:11:03Z",
+  "updated": "2026-09-25T03:27:26Z",
   "region": "europe",
   "part": 8,
   "of": 8,
@@ -16580,19 +16580,6 @@
       "bitrate": 192
     },
     {
-      "id": "rb2_melancholy_36ec31f7",
-      "title": "Melancholy",
-      "subtitle": "Alternative, Emotional",
-      "imageUrl": "https://madmix.se/images/logo.jpg",
-      "streamUrl": "https://mml2.prostream.se/listen/melancholy/radio.mp3",
-      "location": "Sweden",
-      "genre": "Alternative",
-      "countryCode": "SE",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_metal_mayhem_53dac0bd",
       "title": "Metal Mayhem",
       "subtitle": "Hard Rock, Heavy Metal",
@@ -24556,18 +24543,6 @@
       "streamUrl": "https://radio.kyivstar.ua/stream/rock/master.m3u8"
     },
     {
-      "id": "europa_plus_ua_47a595c7",
-      "title": "Europa Plus",
-      "subtitle": "Dance",
-      "location": "Ukraine",
-      "genre": "Dance",
-      "countryCode": "UA",
-      "language": "ukrainian",
-      "clickCount": 10,
-      "bitrate": 128,
-      "streamUrl": "https://s5.radioforge.com:7908/live?n=77357"
-    },
-    {
       "id": "256kbps_ru_65bbd1be",
       "title": "Радио Орфей - Популярная классика 256kbps",
       "subtitle": "Classical",
@@ -24698,18 +24673,6 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "http://c22.radioboss.fm:8144/GamePlay"
-    },
-    {
-      "id": "station_ru_3c868601",
-      "title": "Радио дача",
-      "subtitle": "Radio",
-      "location": "The Russian Federation",
-      "genre": "Radio",
-      "countryCode": "RU",
-      "language": "язык: русский",
-      "clickCount": 21,
-      "bitrate": 128,
-      "streamUrl": "http://listen13.vdfm.ru:8000/dacha"
     },
     {
       "id": "station_ru_f1a88291",
@@ -24964,18 +24927,6 @@
       "streamUrl": "https://online.radiokiks.sk:8000/kiks_big80s.mp3"
     },
     {
-      "id": "rock_irk_ru_main_mix_ru_1dac1b1a",
-      "title": "rock.irk.ru :: main-mix",
-      "subtitle": "Acoustic",
-      "location": "The Russian Federation",
-      "genre": "Acoustic",
-      "countryCode": "RU",
-      "language": "english",
-      "clickCount": 7,
-      "bitrate": 35,
-      "streamUrl": "https://live.rock.irk.ru/hls/main-mix/live.m3u8"
-    },
-    {
       "id": "stockholm_fm_88_0_sweden_se_bcdf7b34",
       "title": "Stockholm FM 88,0 Sweden",
       "subtitle": "Church",
@@ -25094,6 +25045,138 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "https://jecarchive.ru/radio.mp3"
+    },
+    {
+      "id": "relax_fm_chillout_ru_62dacda7",
+      "title": "Relax FM Chillout",
+      "subtitle": "Chill",
+      "location": "The Russian Federation",
+      "genre": "Chill",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 154,
+      "bitrate": 0,
+      "streamUrl": "https://pub0201.101.ru/stream/trust/mp3/128/24?"
+    },
+    {
+      "id": "station_ru_3c868601",
+      "title": "Радио дача",
+      "subtitle": "Radio",
+      "location": "The Russian Federation",
+      "genre": "Radio",
+      "countryCode": "RU",
+      "language": "язык: русский",
+      "clickCount": 12,
+      "bitrate": 128,
+      "streamUrl": "http://listen13.vdfm.ru:8000/dacha"
+    },
+    {
+      "id": "dancehits80_ru_5b04b6f7",
+      "title": "DanceHits80",
+      "subtitle": "80-90",
+      "location": "The Russian Federation",
+      "genre": "80-90",
+      "countryCode": "RU",
+      "language": "english",
+      "clickCount": 7,
+      "bitrate": 0,
+      "streamUrl": "http://dancehits80.denvs.ru:8080/index.m3u8"
+    },
+    {
+      "id": "real_drift_phonk_ru_a940200a",
+      "title": "Real Drift - Phonk",
+      "subtitle": "Radio",
+      "location": "The Russian Federation",
+      "genre": "Radio",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "http://radio.real-drift.com/stream"
+    },
+    {
+      "id": "c_pop_chinese_popular_music_ru_2cdfdf73",
+      "title": "C-Pop (Chinese Popular Music)",
+      "subtitle": "Chinese Pop",
+      "location": "The Russian Federation",
+      "genre": "Chinese Pop",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 320,
+      "streamUrl": "http://213.141.131.10:8000/cpop"
+    },
+    {
+      "id": "station_ru_8b2ecb50",
+      "title": "Радио Монте Карло Песни оЛюбви",
+      "subtitle": "Radio",
+      "location": "The Russian Federation",
+      "genre": "Radio",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 5,
+      "bitrate": 96,
+      "streamUrl": "https://mc-pesniolyubvi.hostingradio.ru/pesniolyubvi96.aacp?95a0"
+    },
+    {
+      "id": "radio_caprice_atmospheric_ambient_black_metal_ru_54e937b1",
+      "title": "Radio Caprice - Atmospheric/Ambient Black Metal",
+      "subtitle": "Atmospheric Black Metal",
+      "location": "The Russian Federation",
+      "genre": "Atmospheric Black Metal",
+      "countryCode": "RU",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 48,
+      "streamUrl": "http://79.120.39.202:8002/aabmds"
+    },
+    {
+      "id": "radio_caprice_vocal_trance_ru_d62f8722",
+      "title": "Radio Caprice - Vocal Trance",
+      "subtitle": "Trance",
+      "location": "The Russian Federation",
+      "genre": "Trance",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 4,
+      "bitrate": 320,
+      "streamUrl": "http://79.120.39.202:8000/vocaltrance"
+    },
+    {
+      "id": "rock_irk_ru_main_mix_ru_1dac1b1a",
+      "title": "rock.irk.ru :: main-mix",
+      "subtitle": "Acoustic",
+      "location": "The Russian Federation",
+      "genre": "Acoustic",
+      "countryCode": "RU",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 35,
+      "streamUrl": "https://live.rock.irk.ru/hls/main-mix/live.m3u8"
+    },
+    {
+      "id": "radio_caprice_dungeon_synth_ru_fd0e7c8c",
+      "title": "Radio Caprice - Dungeon Synth",
+      "subtitle": "Dungeon Synth",
+      "location": "The Russian Federation",
+      "genre": "Dungeon Synth",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 48,
+      "streamUrl": "http://79.120.12.130:8002/dungeonsynth"
+    },
+    {
+      "id": "classical_guitar_radio_caprice_ru_7027a5cb",
+      "title": "Classical guitar - Radio Caprice",
+      "subtitle": "Radio",
+      "location": "The Russian Federation",
+      "genre": "Radio",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 320,
+      "streamUrl": "http://213.141.131.10:8004/classguitar"
     }
   ]
 }

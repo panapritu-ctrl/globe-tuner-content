@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-24T03:11:03Z",
+  "updated": "2026-09-25T03:27:26Z",
   "region": "europe",
   "part": 5,
   "of": 8,
@@ -7931,19 +7931,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_station_8bb62103",
-      "title": "Διαίρεση",
-      "subtitle": "Folk, Greek",
-      "imageUrl": "https://el-gr.facebook.com/favicon.ico",
-      "streamUrl": "https://i4.streams.ovh:8234/live",
-      "location": "Greece",
-      "genre": "Folk",
-      "countryCode": "GR",
-      "language": "greek",
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_station_8bd18337",
       "title": "Διαχρονικό Ταξίδι",
       "subtitle": "Folk, Greek",
@@ -8297,19 +8284,6 @@
       "countryCode": "GR",
       "language": "greek",
       "clickCount": 2,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_101_9_0cfb81ff",
-      "title": "Εύδιος Λιμήν 101.9",
-      "subtitle": "Orthodox Christian, Religion",
-      "imageUrl": "https://resources.live24.gr/resources/images/stations/353f306a-9da5-4b81-9d27-a265096dbcdf.png",
-      "streamUrl": "https://eco.onestreaming.com/proxy/imga/stream",
-      "location": "Heraclion, Greece",
-      "genre": "Orthodox Christian",
-      "countryCode": "GR",
-      "language": "greek",
-      "clickCount": 0,
       "bitrate": 128
     },
     {
@@ -26750,18 +26724,6 @@
       "streamUrl": "https://rebetis.duckdns.org:8545/live"
     },
     {
-      "id": "station_gr_70432f3b",
-      "title": "Ορθοδοξία Ύμνοι",
-      "subtitle": "Ύμνοι",
-      "location": "Greece",
-      "genre": "Ύμνοι",
-      "countryCode": "GR",
-      "language": "greek",
-      "clickCount": 5,
-      "bitrate": 128,
-      "streamUrl": "https://rasp35.ddnsfree.com:3535/ymnoi"
-    },
-    {
       "id": "hrt_radio_split_hr_7484133e",
       "title": "HRT Radio Split",
       "subtitle": "Hrt",
@@ -27458,18 +27420,6 @@
       "streamUrl": "https://s5.radio.co/s078df1838/listen"
     },
     {
-      "id": "rai_isoradio_it_7dc1e834",
-      "title": "Rai Isoradio",
-      "subtitle": "Public Radio",
-      "location": "Italy",
-      "genre": "Public Radio",
-      "countryCode": "IT",
-      "language": "italian",
-      "clickCount": 15,
-      "bitrate": 256,
-      "streamUrl": "http://icestreaming.rai.it/6.mp3"
-    },
-    {
       "id": "midlands_103_ie_a471aeda",
       "title": "Midlands 103",
       "subtitle": "Radio",
@@ -27482,30 +27432,6 @@
       "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/MIDLANDS_103.mp3"
     },
     {
-      "id": "radio_ciccio_riccio_it_d00ba74b",
-      "title": "Radio Ciccio Riccio",
-      "subtitle": "Varied",
-      "location": "Italy",
-      "genre": "Varied",
-      "countryCode": "IT",
-      "language": "italian",
-      "clickCount": 7,
-      "bitrate": 0,
-      "streamUrl": "https://stream5.xdevel.com/audio0s975942-758/stream/icecast.audio"
-    },
-    {
-      "id": "gem_radio_new_wave_ie_61592c3c",
-      "title": "Gem Radio New Wave",
-      "subtitle": "70'S",
-      "location": "Ireland",
-      "genre": "70'S",
-      "countryCode": "IE",
-      "language": null,
-      "clickCount": 6,
-      "bitrate": 128,
-      "streamUrl": "https://gemradionw.radioca.st/;stream.nsv"
-    },
-    {
       "id": "mixlive_net_psybient_sunset_ie_69a7507c",
       "title": "MixLive.net - Psybient Sunset",
       "subtitle": "Darkpsy",
@@ -27516,18 +27442,6 @@
       "clickCount": 5,
       "bitrate": 192,
       "streamUrl": "https://listen.openstream.co/6517/audio"
-    },
-    {
-      "id": "kiss_kiss_italia_it_d829d624",
-      "title": "Kiss kiss italia",
-      "subtitle": "Radio",
-      "location": "Italy",
-      "genre": "Radio",
-      "countryCode": "IT",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 128,
-      "streamUrl": "http://wma07.fluidstream.net:3616/;stream.nsv"
     },
     {
       "id": "reteunonetwork_it_cbccfab2",
@@ -27876,6 +27790,102 @@
       "clickCount": 4,
       "bitrate": 96,
       "streamUrl": "https://streamingv2.shoutcast.com/rtl-1025_48.aac"
+    },
+    {
+      "id": "rai_isoradio_it_7dc1e834",
+      "title": "Rai Isoradio",
+      "subtitle": "Public Radio",
+      "location": "Italy",
+      "genre": "Public Radio",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 10,
+      "bitrate": 256,
+      "streamUrl": "http://icestreaming.rai.it/6.mp3"
+    },
+    {
+      "id": "gem_radio_new_wave_ie_61592c3c",
+      "title": "Gem Radio New Wave",
+      "subtitle": "70'S",
+      "location": "Ireland",
+      "genre": "70'S",
+      "countryCode": "IE",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://gemradionw.radioca.st/;stream.nsv"
+    },
+    {
+      "id": "free_radio_jolly_international_it_22466d09",
+      "title": "Free Radio Jolly International",
+      "subtitle": "Radio",
+      "location": "Italy",
+      "genre": "Radio",
+      "countryCode": "IT",
+      "language": "lithuanian",
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "https://a13.asurahosting.com/listen/free_radio_jolly/radio.mp3"
+    },
+    {
+      "id": "radio_jazeen_jazz_it_06200a5f",
+      "title": "Radio Jazeen Jazz",
+      "subtitle": "Instrumental",
+      "location": "Italy",
+      "genre": "Instrumental",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 5,
+      "bitrate": 320,
+      "streamUrl": "https://nr15.newradio.it:9168/stream"
+    },
+    {
+      "id": "radio_ciccio_riccio_it_d00ba74b",
+      "title": "Radio Ciccio Riccio",
+      "subtitle": "Varied",
+      "location": "Italy",
+      "genre": "Varied",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://stream5.xdevel.com/audio0s975942-758/stream/icecast.audio"
+    },
+    {
+      "id": "kiss_kiss_italia_it_d829d624",
+      "title": "Kiss kiss italia",
+      "subtitle": "Radio",
+      "location": "Italy",
+      "genre": "Radio",
+      "countryCode": "IT",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "http://wma07.fluidstream.net:3616/;stream.nsv"
+    },
+    {
+      "id": "rai_isoradio_it_1802e92f",
+      "title": "Rai Isoradio",
+      "subtitle": "Pop Music",
+      "location": "Italy",
+      "genre": "Pop Music",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 3,
+      "bitrate": 256,
+      "streamUrl": "https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S3822289/9T4F68Q3TT4m/icecast"
+    },
+    {
+      "id": "free_radio_jolly_it_c166cd50",
+      "title": "Free Radio Jolly",
+      "subtitle": "Italiana",
+      "location": "Italy",
+      "genre": "Italiana",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://a3.asurahosting.com/listen/freeradiojolly.it/radio.mp3"
     }
   ]
 }

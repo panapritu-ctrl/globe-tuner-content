@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-24T03:11:03Z",
+  "updated": "2026-09-25T03:27:26Z",
   "region": "asia",
   "part": 1,
   "of": 3,
@@ -10020,15 +10020,6 @@
       "streamUrl": "https://play.thestreamtech.com:7038/"
     },
     {
-      "id": "r_dio_gua_azul_bn",
-      "title": "Rádio Água Azul",
-      "subtitle": "AAC+ 64kbps",
-      "location": "PA, Brunei Darussalam",
-      "genre": "Music",
-      "countryCode": "BN",
-      "streamUrl": "https://stm4.srvif.com:8460/stream"
-    },
-    {
       "id": "la_ochentera_91_9_fm_cc",
       "title": "LA OCHENTERA 91.9 FM",
       "subtitle": "1980S / 80S",
@@ -19690,15 +19681,6 @@
       "bitrate": 128
     },
     {
-      "id": "star_radio_cn_85bd17",
-      "title": "星空电台 STAR RADIO",
-      "subtitle": "Music",
-      "location": "China",
-      "genre": "Music",
-      "countryCode": "CN",
-      "streamUrl": "https://lhttp-hw.qtfm.cn/live/5022379/64k.mp3"
-    },
-    {
       "id": "rb2_station_5005b479",
       "title": "昭通乌蒙之声新闻综合广播",
       "subtitle": "Radio",
@@ -24223,19 +24205,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_station_1e7e3b41",
-      "title": "肇庆综合广播",
-      "subtitle": "Music, News",
-      "imageUrl": "https://imagev2.xmcdn.com/storages/3fdd-audiofreehighqps/7E/E7/GAqhm44LAMySAAFN8AMqxZ8C.png",
-      "streamUrl": "https://live.ximalaya.com/radio-first-page-app/live/2892/64.m3u8?transcode=ts",
-      "location": "China",
-      "genre": "Music",
-      "countryCode": "CN",
-      "language": "cantonese",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_station_64e5cc8f",
       "title": "肇庆高新之声",
       "subtitle": "Information",
@@ -27560,6 +27529,42 @@
       "clickCount": 3,
       "bitrate": 128,
       "streamUrl": "https://stream.zeno.fm/oedlk517cufvv"
+    },
+    {
+      "id": "star_radio_cn_1484ac1a",
+      "title": "星空电台 STAR RADIO",
+      "subtitle": "Music",
+      "location": "China",
+      "genre": "Music",
+      "countryCode": "CN",
+      "language": "cantonese",
+      "clickCount": 17,
+      "bitrate": 0,
+      "streamUrl": "https://lhttp-hw.qtfm.cn/live/5022379/64k.mp3"
+    },
+    {
+      "id": "891_cn_787f1a6a",
+      "title": "891线上音乐台",
+      "subtitle": "Radio",
+      "location": "China",
+      "genre": "Radio",
+      "countryCode": "CN",
+      "language": null,
+      "clickCount": 14,
+      "bitrate": 96,
+      "streamUrl": "https://live.fm891.net/96k.aac"
+    },
+    {
+      "id": "station_cn_4bf82d84",
+      "title": "嘉峪关综合广播",
+      "subtitle": "Information",
+      "location": "China",
+      "genre": "Information",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 3,
+      "bitrate": 2560,
+      "streamUrl": "https://play.kankanlive.com/live/1677655624984920.m3u8"
     }
   ]
 }
