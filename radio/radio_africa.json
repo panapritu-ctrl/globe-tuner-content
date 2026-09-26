@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-25T03:27:26Z",
+  "updated": "2026-09-26T03:33:34Z",
   "region": "africa",
   "stations": [
     {
@@ -10209,18 +10209,6 @@
       "streamUrl": "https://stream-176.surfernetwork.com/7u8xbck3v7zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI3dTh4YmNrM3Y3enV2IiwiaG9zdCI6InN0cmVhbS0xNzYuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJVa2syYm9STFRjbUlYQWR6MXh3NWR3IiwiaWF0IjoxNzg5MjI4NTI4LCJleHAiOjE3ODkyMjg1ODh9.R3IJRMouYPA3v8QgxdGVW3xG312xLrXnEfYwhtl6em0"
     },
     {
-      "id": "express_106_6fm_za_f5527aaf",
-      "title": "Express 106.6FM",
-      "subtitle": "Christian",
-      "location": "South Africa",
-      "genre": "Christian",
-      "countryCode": "ZA",
-      "language": "afrikaans",
-      "clickCount": 3,
-      "bitrate": 128,
-      "streamUrl": "http://198.7.59.28:34235/stream"
-    },
-    {
       "id": "kudu_fm_za_060e4c97",
       "title": "Kudu FM",
       "subtitle": "Afrikaans",
@@ -10591,6 +10579,54 @@
       "clickCount": 3,
       "bitrate": 0,
       "streamUrl": "https://us5new.listen2myradio.com:2199/stream.php?port=8178"
+    },
+    {
+      "id": "express_106_6fm_za_f5527aaf",
+      "title": "Express 106.6FM",
+      "subtitle": "Christian",
+      "location": "South Africa",
+      "genre": "Christian",
+      "countryCode": "ZA",
+      "language": "afrikaans",
+      "clickCount": 8,
+      "bitrate": 128,
+      "streamUrl": "http://198.7.59.28:34235/stream"
+    },
+    {
+      "id": "jazz_et_0041db41",
+      "title": "jazz",
+      "subtitle": "Jazz",
+      "location": "Ethiopia",
+      "genre": "Jazz",
+      "countryCode": "ET",
+      "language": "engilsh",
+      "clickCount": 5,
+      "bitrate": 320,
+      "streamUrl": "http://mediaserv38.live-streams.nl:8006/live"
+    },
+    {
+      "id": "glory_entertainment_radio_ng_86bfb490",
+      "title": "GLORY ENTERTAINMENT RADIO",
+      "subtitle": "General",
+      "location": "Nigeria",
+      "genre": "General",
+      "countryCode": "NG",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://radiohost.ifastekpanel.com/listen/glory-entertainment-radio/live"
+    },
+    {
+      "id": "christian_life_radio_ug_0425df4a",
+      "title": "Christian life radio",
+      "subtitle": "Christian",
+      "location": "Uganda",
+      "genre": "Christian",
+      "countryCode": "UG",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://ice64.securenetsystems.net/CLR1MP3"
     }
   ]
 }

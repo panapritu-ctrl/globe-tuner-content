@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-25T03:27:26Z",
+  "updated": "2026-09-26T03:33:34Z",
   "region": "americas",
   "part": 1,
   "of": 5,
@@ -5947,19 +5947,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_radio_bar_96_9_fm_fdd73599",
-      "title": "Radio Bar 96.9 FM",
-      "subtitle": "Radio",
-      "imageUrl": "https://radiobar969.com/wp-content/uploads/2025/08/App-Radio-Bar2aa.png",
-      "streamUrl": "https://streaming01.shockmedia.com.ar/9420/stream",
-      "location": "Argentina",
-      "genre": "Radio",
-      "countryCode": "AR",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 64
-    },
-    {
       "id": "rb2_radio_beat_fm_97_5_2322ba15",
       "title": "Radio Beat FM 97.5",
       "subtitle": "Radio",
@@ -10602,19 +10589,6 @@
       "language": null,
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_apenas_marchinha_2ee0766f",
-      "title": "Apenas Marchinha",
-      "subtitle": "Carnaval, Mpb",
-      "imageUrl": "",
-      "streamUrl": "https://server02.ouvir.radio.br:8003/stream",
-      "location": "Web, Brazil",
-      "genre": "Carnaval",
-      "countryCode": "BR",
-      "language": "brazilian portuguese",
-      "clickCount": 0,
-      "bitrate": 48
     },
     {
       "id": "rb2_arara_azul_fm_c94ac0e8",
@@ -25228,18 +25202,6 @@
       "streamUrl": "https://stream4.305stream.com:7258/stream"
     },
     {
-      "id": "rock_and_pop_tucum_n_106_9_fm_ar_ddff3835",
-      "title": "Rock and Pop Tucumán 106.9 FM",
-      "subtitle": "Radio",
-      "location": "Argentina",
-      "genre": "Radio",
-      "countryCode": "AR",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 128,
-      "streamUrl": "https://streaming.tucumanradio.com.ar:7066/stream"
-    },
-    {
       "id": "radio1_electriccircus_ar_1790d130",
       "title": "Radio1: ElectricCircus",
       "subtitle": "Dance",
@@ -26764,18 +26726,6 @@
       "streamUrl": "https://fm.trix.quest/desu"
     },
     {
-      "id": "ckwx_news_1130_vancouver_bc_ca_430331a2",
-      "title": "CKWX \"News 1130\" Vancouver, BC",
-      "subtitle": "News Radio",
-      "location": "Canada",
-      "genre": "News Radio",
-      "countryCode": "CA",
-      "language": "english",
-      "clickCount": 3,
-      "bitrate": 0,
-      "streamUrl": "https://rogers-hls.leanstream.co/rogers/van1130.stream/playlist.m3u8"
-    },
-    {
       "id": "cnn_radio_salta_94_7_fm_ar_1904fdf5",
       "title": "CNN Radio Salta 94.7 FM",
       "subtitle": "Radio",
@@ -28214,6 +28164,30 @@
       "clickCount": 3,
       "bitrate": 96,
       "streamUrl": "https://streamradio.novotempo.com/CDN-RADIO-PT/smil:radionovotempo.smil/playlist.m3u8"
+    },
+    {
+      "id": "radio_patagonia_carmen_de_patagones_ar_4eac727b",
+      "title": "Radio Patagonia Carmen De Patagones",
+      "subtitle": "Musica Variada",
+      "location": "Argentina",
+      "genre": "Musica Variada",
+      "countryCode": "AR",
+      "language": "español argentina",
+      "clickCount": 3,
+      "bitrate": 32,
+      "streamUrl": "https://radiosar.com/8162/stream"
+    },
+    {
+      "id": "cfmk_big_96_3_kingston_on_ca_6d61c8ac",
+      "title": "CFMK \"Big 96.3\" Kingston, ON",
+      "subtitle": "Classic Rock",
+      "location": "Canada",
+      "genre": "Classic Rock",
+      "countryCode": "CA",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "http://live.leanstream.co/CFMKFM-MP3"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-25T03:27:26Z",
+  "updated": "2026-09-26T03:33:34Z",
   "region": "europe",
   "part": 7,
   "of": 8,
@@ -2252,19 +2252,6 @@
       "streamUrl": "https://s1.slotex.pl/shoutcast/7556/stream",
       "location": "Poland",
       "genre": "Disco Polo",
-      "countryCode": "PL",
-      "language": "polish",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_sfera_e8b6ca20",
-      "title": "Radio Sfera",
-      "subtitle": "Pop, Rock",
-      "imageUrl": "https://www.sfera.umk.pl/wp-content/uploads/2025/01/cropped-favic_bright1_nobg-192x192.png",
-      "streamUrl": "http://158.75.34.231:8000/sfera.mp3",
-      "location": "Kujawsko-pomorskie, Poland",
-      "genre": "Pop",
       "countryCode": "PL",
       "language": "polish",
       "clickCount": 0,
@@ -7324,19 +7311,6 @@
       "genre": "Student Radio",
       "countryCode": "RO",
       "language": "română",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_capital_fm_dance_e49db061",
-      "title": "Capital FM - Dance",
-      "subtitle": "Dance, Fresh",
-      "imageUrl": "",
-      "streamUrl": "https://ssl.omegahost.ro:8020/stream",
-      "location": "Romania",
-      "genre": "Dance",
-      "countryCode": "RO",
-      "language": "romanian",
       "clickCount": 0,
       "bitrate": 128
     },
@@ -17534,19 +17508,6 @@
       "bitrate": 320
     },
     {
-      "id": "rb2_bolshoe_radio_11454653",
-      "title": "Bolshoe Radio",
-      "subtitle": "Classic Hits, Russian Hits",
-      "imageUrl": "",
-      "streamUrl": "https://listen2.myradio24.com/8286",
-      "location": "The Russian Federation",
-      "genre": "Classic Hits",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_borneo_96111df3",
       "title": "Borneo",
       "subtitle": "Radio",
@@ -20670,19 +20631,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_megapolisnight_98a80feb",
-      "title": "MegapolisNight",
-      "subtitle": "Megapolisfm 89.5",
-      "imageUrl": "",
-      "streamUrl": "https://a4.radioheart.ru:9042/MegaNightRadio",
-      "location": "The Russian Federation",
-      "genre": "Megapolisfm 89.5",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_mestnoye_radio_58388dfe",
       "title": "Mestnoye Radio",
       "subtitle": "Classic Hits, Hits",
@@ -23415,18 +23363,6 @@
       "streamUrl": "https://live.radioclasic.com/listen/radio_clasic_opera/live.mp3"
     },
     {
-      "id": "radio_party_bucure_ti_ro_a3e2197b",
-      "title": "Radio Party București",
-      "subtitle": "Manele",
-      "location": "Romania",
-      "genre": "Manele",
-      "countryCode": "RO",
-      "language": "romanian",
-      "clickCount": 3,
-      "bitrate": 128,
-      "streamUrl": "http://asculta.radiopartybucuresti.ro:8050/;"
-    },
-    {
       "id": "tdi_radio_love_rs_8fae2c1f",
       "title": "TDI Radio - Love",
       "subtitle": "Love Songs",
@@ -24507,18 +24443,6 @@
       "streamUrl": "https://rs103-krk-cyfronet.rmfstream.pl/MAXXXOLE"
     },
     {
-      "id": "naxi_lounge_radio_rs_98aa0eb8",
-      "title": "Naxi Lounge Radio",
-      "subtitle": "Radio",
-      "location": "Serbia",
-      "genre": "Radio",
-      "countryCode": "RS",
-      "language": "serbian",
-      "clickCount": 6,
-      "bitrate": 128,
-      "streamUrl": "https://naxidigital-lounge128ssl.streaming.rs:8252/;stream.nsv"
-    },
-    {
       "id": "radio_fraszka_pl_121849b4",
       "title": "Radio Fraszka",
       "subtitle": "Fm",
@@ -24565,30 +24489,6 @@
       "clickCount": 3,
       "bitrate": 128,
       "streamUrl": "https://s4.ssl-stream.com:7880/live"
-    },
-    {
-      "id": "naxi_r_n_b_radio_rs_3bcdc796",
-      "title": "Naxi R'n'B Radio",
-      "subtitle": "Radio",
-      "location": "Serbia",
-      "genre": "Radio",
-      "countryCode": "RS",
-      "language": "serbian",
-      "clickCount": 3,
-      "bitrate": 128,
-      "streamUrl": "https://naxidigital-rnb128ssl.streaming.rs:8122/;stream.nsv"
-    },
-    {
-      "id": "antena_krusevac_rs_793f27dd",
-      "title": "Antena Krusevac",
-      "subtitle": "Radio",
-      "location": "Serbia",
-      "genre": "Radio",
-      "countryCode": "RS",
-      "language": "serbian",
-      "clickCount": 3,
-      "bitrate": 320,
-      "streamUrl": "http://antenaradio.org:4560/;stream.nsv"
     },
     {
       "id": "polymia_radio_rs_d65afd8c",
@@ -25729,6 +25629,138 @@
       "clickCount": 4,
       "bitrate": 320,
       "streamUrl": "https://radiocolor.radioca.st/stream"
+    },
+    {
+      "id": "rdp_internacional_portugal_pt_fafc7b7d",
+      "title": "RDP Internacional (Portugal)",
+      "subtitle": "Antena 1",
+      "location": "Portugal",
+      "genre": "Antena 1",
+      "countryCode": "PT",
+      "language": "portuguese",
+      "clickCount": 7,
+      "bitrate": 185,
+      "streamUrl": "https://streaming-live.rtp.pt/liveradio/rdpint80a/playlist.m3u8"
+    },
+    {
+      "id": "naxi_gold_radio_rs_8a99480e",
+      "title": "Naxi Gold Radio",
+      "subtitle": "Radio",
+      "location": "Serbia",
+      "genre": "Radio",
+      "countryCode": "RS",
+      "language": "serbian",
+      "clickCount": 7,
+      "bitrate": 128,
+      "streamUrl": "https://naxidigital-gold128ssl.streaming.rs:8062/;stream.nsv"
+    },
+    {
+      "id": "antena_1_main_pt_1689b001",
+      "title": "Antena 1 - Main",
+      "subtitle": "Radio",
+      "location": "Portugal",
+      "genre": "Radio",
+      "countryCode": "PT",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "https://radiocast.rtp.pt/antena180a.mp3"
+    },
+    {
+      "id": "affi_radio_pl_0df91cf2",
+      "title": "Affi Radio",
+      "subtitle": "Radio",
+      "location": "Poland",
+      "genre": "Radio",
+      "countryCode": "PL",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "https://affiradio.pl/listen/radio-browser/stream.mp3"
+    },
+    {
+      "id": "antyradio_katowice_pl_f5714b57",
+      "title": "Antyradio Katowice",
+      "subtitle": "Radio",
+      "location": "Poland",
+      "genre": "Radio",
+      "countryCode": "PL",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://ml02.cdn.eurozet.pl/ant-kat.mp3"
+    },
+    {
+      "id": "naxi_fresh_radio_rs_5d51b6ba",
+      "title": "Naxi Fresh Radio",
+      "subtitle": "Radio",
+      "location": "Serbia",
+      "genre": "Radio",
+      "countryCode": "RS",
+      "language": "serbian",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://naxidigital-fresh128ssl.streaming.rs:8212/;stream.nsv"
+    },
+    {
+      "id": "siculus_r_di_k_zdiv_s_rhely_t_rgu_secuiesc_95_0_fm_ro_341d232f",
+      "title": "Siculus Rádió -Kézdivásárhely/Târgu Secuiesc 95.0 FM",
+      "subtitle": "Etnic",
+      "location": "Romania",
+      "genre": "Etnic",
+      "countryCode": "RO",
+      "language": "hungarian",
+      "clickCount": 4,
+      "bitrate": 64,
+      "streamUrl": "http://46.214.17.202:8000/radioac3"
+    },
+    {
+      "id": "radio_pejpal_pl_cf4b11cc",
+      "title": "Radio pejpal",
+      "subtitle": "Chill",
+      "location": "Poland",
+      "genre": "Chill",
+      "countryCode": "PL",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 320,
+      "streamUrl": "https://radio.pejpal.cloud/stream"
+    },
+    {
+      "id": "chilli_zet_covers_pl_d0357274",
+      "title": "Chilli ZET Covers",
+      "subtitle": "Covers",
+      "location": "Poland",
+      "genre": "Covers",
+      "countryCode": "PL",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://ch02.cdn.eurozet.pl/CHICOV.mp3"
+    },
+    {
+      "id": "radio_noise_eurodance_ro_50dda405",
+      "title": "Radio Noise Eurodance",
+      "subtitle": "Radio",
+      "location": "Romania",
+      "genre": "Radio",
+      "countryCode": "RO",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://eurodancelive.radionoise.ro:9128/stream"
+    },
+    {
+      "id": "naxi_adore_rs_d24050be",
+      "title": "Naxi Adore",
+      "subtitle": "Chansons",
+      "location": "Serbia",
+      "genre": "Chansons",
+      "countryCode": "RS",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://naxidigital-adore128ssl.streaming.rs:8332/;stream.nsv"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-25T03:27:26Z",
+  "updated": "2026-09-26T03:33:34Z",
   "region": "europe",
   "part": 2,
   "of": 8,
@@ -28152,18 +28152,6 @@
       "streamUrl": "https://knr.gl/radiolivestream"
     },
     {
-      "id": "dr_p5_syd_aac_dk_a856bcfb",
-      "title": "DR P5 Syd (AAC)",
-      "subtitle": "Regional Radio",
-      "location": "Denmark",
-      "genre": "Regional Radio",
-      "countryCode": "DK",
-      "language": "danish",
-      "clickCount": 2,
-      "bitrate": 324,
-      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p5syd/masterab.m3u8"
-    },
-    {
       "id": "dr_p5_sj_lland_dk_784d7d70",
       "title": "dr p5 sjælland",
       "subtitle": "Radio",
@@ -29328,18 +29316,6 @@
       "streamUrl": "https://stream.rpr1.de/90erpop/mp3-128/radiobrowser"
     },
     {
-      "id": "br_bayern_4_klassik_de_48b42f38",
-      "title": "BR Bayern 4 Klassik",
-      "subtitle": "Radio",
-      "location": "Germany",
-      "genre": "Radio",
-      "countryCode": "DE",
-      "language": null,
-      "clickCount": 3,
-      "bitrate": 0,
-      "streamUrl": "http://streams.br.de/br-klassik_2.m3u"
-    },
-    {
       "id": "ilovedance_history_dancefloor_anthems_all_time_classics_de_55a31315",
       "title": "ILOVEDANCE HISTORY | Dancefloor Anthems & All-time-Classics",
       "subtitle": "History",
@@ -30046,6 +30022,210 @@
       "clickCount": 3,
       "bitrate": 0,
       "streamUrl": "https://streams.deltaradio.de/101/mp3-192/streams.deltaradio.de/"
+    },
+    {
+      "id": "goa_world_de_820e891a",
+      "title": "GoA World",
+      "subtitle": "Comedy",
+      "location": "Germany",
+      "genre": "Comedy",
+      "countryCode": "DE",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "https://a11.asurahosting.com:8350/radio.mp3"
+    },
+    {
+      "id": "technolovers_fm_trance_de_83f7ac48",
+      "title": "Technolovers.fm - Trance",
+      "subtitle": "Electro",
+      "location": "Germany",
+      "genre": "Electro",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://stream.technolovers.fm/trance"
+    },
+    {
+      "id": "vipe_fm_de_6aa2254d",
+      "title": "VIPE FM",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream.laut.fm/vipefm"
+    },
+    {
+      "id": "antenne_bayern_italo_hits_de_3b68a21c",
+      "title": "Antenne Bayern Italo Hits",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream.antenne.de/antenne-bayern-italo-hits/stream/mp3"
+    },
+    {
+      "id": "rockland_98_3_fm_de_e690d679",
+      "title": "ROCKLAND 98.3 FM",
+      "subtitle": "Alternative",
+      "location": "Germany",
+      "genre": "Alternative",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://stream.rockland-digital.de/rockland/mp3-192/"
+    },
+    {
+      "id": "br_bayern_4_klassik_de_48b42f38",
+      "title": "BR Bayern 4 Klassik",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "http://streams.br.de/br-klassik_2.m3u"
+    },
+    {
+      "id": "89_0_rtl_deutsch_rap_de_9beec9b5",
+      "title": "89.0 RTL Deutsch Rap",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://stream.89.0rtl.de/deutsch-rap/mp3-256"
+    },
+    {
+      "id": "world_radio_de_e82bab4a",
+      "title": "World Radio",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 320,
+      "streamUrl": "http://mediaserv38.live-streams.nl:8027/live"
+    },
+    {
+      "id": "denge_cudi_de_1a129821",
+      "title": "Denge Cudi",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": "kurdish",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://denge-cudi.stream.laut.fm/denge-cudi"
+    },
+    {
+      "id": "vogtland_radio_de_547f0f60",
+      "title": "Vogtland Radio",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://edge16.streamonkey.net/vr-vogtland"
+    },
+    {
+      "id": "omaneo_kaffeewissen_english_de_b3aa202b",
+      "title": "omaneo Kaffeewissen (English)",
+      "subtitle": "Barista",
+      "location": "Germany",
+      "genre": "Barista",
+      "countryCode": "DE",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 192,
+      "streamUrl": "https://radio.omaneo.de/listen/kaffeewissen_en/radio.mp3"
+    },
+    {
+      "id": "rentnerradio_de_dd39ae98",
+      "title": "Rentnerradio",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://rentnerradio.stream.laut.fm/rentnerradio?t302=2026-09-25_20-48-58&uuid=8fbb44ad-e60b-f41a-8316-81641cbc978b"
+    },
+    {
+      "id": "1_4_1_jazz_de_501b4716",
+      "title": "1 4 1 Jazz",
+      "subtitle": "Jazz",
+      "location": "Germany",
+      "genre": "Jazz",
+      "countryCode": "DE",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "http://1-4-1.stream.laut.fm/1-4-1?uuid=0a5a5cc9-2963-3dc6-faef-c49abbaad450&t302=2026-09-21_06-51-24"
+    },
+    {
+      "id": "leipzig_beatzz_de_b4a27414",
+      "title": "Leipzig Beatzz",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 192,
+      "streamUrl": "https://play.radioking.io/leipzig-beatz/407257"
+    },
+    {
+      "id": "radio_leipzig_wir_lieben_leipzig_de_91f553c6",
+      "title": "Radio Leipzig - Wir lieben Leipzig",
+      "subtitle": "Pop",
+      "location": "Germany",
+      "genre": "Pop",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://hermes.bcs-systems.de/radio-leipzig_simulcast_64k_aac"
+    },
+    {
+      "id": "radio_horeb_de_2fc4630c",
+      "title": "Radio Horeb",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://rs16.stream24.net/horeb.mp3?nocache=98454583515328281"
+    },
+    {
+      "id": "omaneo_instrumental_de_36e65820",
+      "title": "omaneo Instrumental",
+      "subtitle": "Acoustic",
+      "location": "Germany",
+      "genre": "Acoustic",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 3,
+      "bitrate": 192,
+      "streamUrl": "https://radio.omaneo.de/listen/instrumental/radio.mp3"
     }
   ]
 }

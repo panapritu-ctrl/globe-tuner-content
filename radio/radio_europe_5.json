@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-25T03:27:26Z",
+  "updated": "2026-09-26T03:33:34Z",
   "region": "europe",
   "part": 5,
   "of": 8,
@@ -750,19 +750,6 @@
       "language": "greek",
       "clickCount": 0,
       "bitrate": 192
-    },
-    {
-      "id": "rb2_prime_103_7_f5ab925d",
-      "title": "Prime 103.7",
-      "subtitle": "News Talk, Sports News",
-      "imageUrl": "https://resources.live24.gr/resources/images/stations/b1d34ccd-d683-4f13-86b4-135de14f31d1.png",
-      "streamUrl": "https://radio.prime1037.gr/radio/prime",
-      "location": "Rhodes, Greece",
-      "genre": "News Talk",
-      "countryCode": "GR",
-      "language": "greek",
-      "clickCount": 0,
-      "bitrate": 128
     },
     {
       "id": "rb2_prisma_91_8_6d4b4585",
@@ -8948,19 +8935,6 @@
       "language": null,
       "clickCount": 0,
       "bitrate": 96
-    },
-    {
-      "id": "rb2_105_5_4a6bc1e4",
-      "title": "Λευκίμμη 105.5",
-      "subtitle": "Radio",
-      "imageUrl": "http://www.e-radio.gr/_img/ico/favico.ico",
-      "streamUrl": "http://i3.streams.ovh:12006/live",
-      "location": "Corfu, Greece",
-      "genre": "Radio",
-      "countryCode": "GR",
-      "language": "greek",
-      "clickCount": 0,
-      "bitrate": 224
     },
     {
       "id": "rb2_94_2_516a0830",
@@ -27732,18 +27706,6 @@
       "streamUrl": "https://ns333420.ip-37-187-126.eu:8443/skylab.mp3"
     },
     {
-      "id": "oxygen_xmas_hu_e062403a",
-      "title": "Oxygen Xmas",
-      "subtitle": "Radio",
-      "location": "Hungary",
-      "genre": "Radio",
-      "countryCode": "HU",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 160,
-      "streamUrl": "http://oxygenmusic.hu:8000/xmas_320"
-    },
-    {
       "id": "mercy_r_di_kabar_hu_04d86632",
       "title": "Mercy Rádió - Kabaré",
       "subtitle": "Comedy",
@@ -27886,6 +27848,42 @@
       "clickCount": 3,
       "bitrate": 128,
       "streamUrl": "https://a3.asurahosting.com/listen/freeradiojolly.it/radio.mp3"
+    },
+    {
+      "id": "radio_italia_anni_60_sicilia_trapani_it_bdc0863d",
+      "title": "Radio Italia Anni 60 (Sicilia-Trapani)",
+      "subtitle": "Oldies",
+      "location": "Italy",
+      "genre": "Oldies",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 4,
+      "bitrate": 64,
+      "streamUrl": "https://ice12.fluidstream.net/ria60_tp.aac"
+    },
+    {
+      "id": "rai_radio_live_it_1ef26a07",
+      "title": "Rai Radio Live",
+      "subtitle": "Public Radio",
+      "location": "Italy",
+      "genre": "Public Radio",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 3,
+      "bitrate": 256,
+      "streamUrl": "http://icestreaming.rai.it/10.mp3"
+    },
+    {
+      "id": "rai_1_friuli_venezia_giulia_it_9cef15d5",
+      "title": "Rai 1 Friuli Venezia Giulia",
+      "subtitle": "Friuli",
+      "location": "Italy",
+      "genre": "Friuli",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 3,
+      "bitrate": 256,
+      "streamUrl": "https://icestreaming.rai.it/1.mp3"
     }
   ]
 }
