@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-26T03:33:34Z",
+  "updated": "2026-09-27T03:40:59Z",
   "region": "asia",
   "part": 3,
   "of": 3,
@@ -677,19 +677,6 @@
       "countryCode": "PH",
       "language": "cebuano",
       "clickCount": 1,
-      "bitrate": 64
-    },
-    {
-      "id": "rb2_dxgp_89_7_agusan_radio_746dcf0b",
-      "title": "DXGP 89.7 Agusan Radio",
-      "subtitle": "Radio",
-      "imageUrl": "https://apk.radyoph.com/upload/1772169743_dxgpagusan.png",
-      "streamUrl": "https://ph.amfm.link:8020/dxgp",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "language": null,
-      "clickCount": 2,
       "bitrate": 64
     },
     {
@@ -14878,18 +14865,6 @@
       "streamUrl": "https://stream.pbs.gov.tw/live/TNS/playlist.m3u8"
     },
     {
-      "id": "x_fm_naga_city_philippines_new_ph_656d2e3d",
-      "title": "X FM Naga City, Philippines (NEW)",
-      "subtitle": "Radio",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "language": null,
-      "clickCount": 3,
-      "bitrate": 32,
-      "streamUrl": "https://listen.imjinteractive.net:8028/stream"
-    },
-    {
       "id": "win_radio_cebu_ph_c1eec89b",
       "title": "Win Radio Cebu",
       "subtitle": "Radio",
@@ -15164,18 +15139,6 @@
       "clickCount": 3,
       "bitrate": 0,
       "streamUrl": "https://flv.ccdntech.com/live/_definst_/mp4:vod117_Live/live1/chunklist_w872521607.m3u8"
-    },
-    {
-      "id": "bolsa_radio_vn_vn_a22373b7",
-      "title": "Bolsa Radio VN",
-      "subtitle": "News",
-      "location": "Vietnam",
-      "genre": "News",
-      "countryCode": "VN",
-      "language": null,
-      "clickCount": 3,
-      "bitrate": 0,
-      "streamUrl": "http://stream.zenolive.com/ueychbrzv9duv"
     },
     {
       "id": "hector_sa_7daa329b",
@@ -15802,18 +15765,6 @@
       "streamUrl": "http://channels.dinamo.fm/discotheque-mp3"
     },
     {
-      "id": "90_5_th_b3b7c4fe",
-      "title": "มิติข่าว 90.5",
-      "subtitle": "News",
-      "location": "Thailand",
-      "genre": "News",
-      "countryCode": "TH",
-      "language": "thai",
-      "clickCount": 9,
-      "bitrate": 0,
-      "streamUrl": "http://live3.smartbomb.co.th:8624/;stream.mp3"
-    },
-    {
       "id": "radio_olive_106_3_fm_qa_f70d27a9",
       "title": "Radio Olive 106.3 FM",
       "subtitle": "Radio",
@@ -16124,18 +16075,6 @@
       "clickCount": 2,
       "bitrate": 64,
       "streamUrl": "http://148.72.153.65:9268/stream"
-    },
-    {
-      "id": "k5_news_fm_bacolod_ph_1811d0cc",
-      "title": "K5 News FM Bacolod",
-      "subtitle": "Radio",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 48,
-      "streamUrl": "http://209.126.124.126:8572/stream"
     },
     {
       "id": "star_fm_zamboanga_ph_65ba05e7",
@@ -16546,18 +16485,6 @@
       "streamUrl": "http://209.126.124.126:8855/stream"
     },
     {
-      "id": "nbt_central_digital_tv_channel_11_th_e4585bc4",
-      "title": "NBT Central: digital TV channel 11",
-      "subtitle": "Radio",
-      "location": "Thailand",
-      "genre": "Radio",
-      "countryCode": "TH",
-      "language": null,
-      "clickCount": 5,
-      "bitrate": 3128,
-      "streamUrl": "https://cdn-edge.iiptvcdn.com/live_event/smil:6ee0-5126-0cee-7ba2-18b7.smil/playlist.m3u8?null"
-    },
-    {
       "id": "axr_manila_ph_7420a89f",
       "title": "AXR Manila",
       "subtitle": "Radio",
@@ -16822,18 +16749,6 @@
       "streamUrl": "https://radio.garden/api/ara/content/listen/TBbZ87vu/channel.mp3"
     },
     {
-      "id": "k5_news_fm_antique_ph_26270047",
-      "title": "K5 News FM Antique",
-      "subtitle": "Radio",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "language": null,
-      "clickCount": 5,
-      "bitrate": 48,
-      "streamUrl": "http://209.126.124.126:8021/stream"
-    },
-    {
       "id": "gv_am_792_ph_f3dee3ff",
       "title": "GV AM 792",
       "subtitle": "Radio",
@@ -17024,6 +16939,66 @@
       "clickCount": 6,
       "bitrate": 128,
       "streamUrl": "https://stream.damasradio.fm/radio"
+    },
+    {
+      "id": "90_5_th_b3b7c4fe",
+      "title": "มิติข่าว 90.5",
+      "subtitle": "News",
+      "location": "Thailand",
+      "genre": "News",
+      "countryCode": "TH",
+      "language": "thai",
+      "clickCount": 10,
+      "bitrate": 0,
+      "streamUrl": "http://live3.smartbomb.co.th:8624/;stream.mp3"
+    },
+    {
+      "id": "89_1_love_fm_ph_a00128db",
+      "title": "89.1 LOVE FM",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 96,
+      "streamUrl": "https://eu8.fastcast4u.com/proxy/lovefmradio?mp=/1&1729057858413"
+    },
+    {
+      "id": "k5_news_fm_bacolod_ph_1811d0cc",
+      "title": "K5 News FM Bacolod",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 48,
+      "streamUrl": "http://209.126.124.126:8572/stream"
+    },
+    {
+      "id": "durak_t_rk_radyo_tv_tr_442cb929",
+      "title": "Durak Türk Radyo TV",
+      "subtitle": "Karma",
+      "location": "Türkiye",
+      "genre": "Karma",
+      "countryCode": "TR",
+      "language": "türkish",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://live.sinirsizhost.com.tr/8046/stream"
+    },
+    {
+      "id": "star_fm_95_5_tr_0b004cce",
+      "title": "Star FM 95.5",
+      "subtitle": "Radio",
+      "location": "Türkiye",
+      "genre": "Radio",
+      "countryCode": "TR",
+      "language": "kurdi",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://anadolu.liderhost.com.tr/9078/stream"
     }
   ]
 }

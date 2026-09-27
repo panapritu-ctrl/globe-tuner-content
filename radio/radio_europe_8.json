@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-26T03:33:34Z",
+  "updated": "2026-09-27T03:40:59Z",
   "region": "europe",
   "part": 8,
   "of": 8,
@@ -13360,19 +13360,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_station_25bd605d",
-      "title": "Радио Станция",
-      "subtitle": "Разная Музыка",
-      "imageUrl": "https://top-radio.ru/assets/image/radio/180/Radio-stancia.png",
-      "streamUrl": "https://misato.ru-hoster.com:8027/stream",
-      "location": "Пенза, The Russian Federation",
-      "genre": "Разная Музыка",
-      "countryCode": "RU",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_station_6860af1c",
       "title": "Радио Старого Полковника",
       "subtitle": "Рок",
@@ -13513,19 +13500,6 @@
       "countryCode": "RU",
       "language": null,
       "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_fm_105_6_7583f366",
-      "title": "Радио Хит-FM Ярославль 105.6",
-      "subtitle": "Music, Pop",
-      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240814_224151168.jpg?alt=media&token=bcd91854-c1e8-45b8-8ff0-52d63395f012",
-      "streamUrl": "http://gtk.tv/hitfmhls/hitfm.m3u8",
-      "location": "The Russian Federation",
-      "genre": "Music",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 1,
       "bitrate": 128
     },
     {
@@ -21580,19 +21554,6 @@
       "countryCode": "UA"
     },
     {
-      "id": "rb2_32_ef67d1bb",
-      "title": "Львівська хвиля (32 кбіт/с)",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://onair.lviv.fm:8000/lviv32.fm",
-      "location": "Lviv, Ukraine",
-      "genre": "Radio",
-      "countryCode": "UA",
-      "language": "ukrainian",
-      "clickCount": 8,
-      "bitrate": 96
-    },
-    {
       "id": "rb2_104_7_77460a68",
       "title": "Люкс 104.7",
       "subtitle": "Pop",
@@ -25293,6 +25254,90 @@
       "clickCount": 3,
       "bitrate": 64,
       "streamUrl": "http://icecast.vgtrk.cdnvideo.ru/vestifm_aac_64kbps"
+    },
+    {
+      "id": "station_ru_1fc738b3",
+      "title": "Дождь ТВ (Звук)",
+      "subtitle": "News",
+      "location": "The Russian Federation",
+      "genre": "News",
+      "countryCode": "RU",
+      "language": "russian/",
+      "clickCount": 8,
+      "bitrate": 128,
+      "streamUrl": "https://wl.tvrain.tv/transcode/ses_audio_only/playlist.m3u8"
+    },
+    {
+      "id": "r_dio_sebasti_n_sk_93266d4b",
+      "title": "Rádio Sebastián",
+      "subtitle": "Pop",
+      "location": "Slovakia",
+      "genre": "Pop",
+      "countryCode": "SK",
+      "language": "slovak",
+      "clickCount": 7,
+      "bitrate": 320,
+      "streamUrl": "https://s2.ssl-stream.com/listen/radiosebastian/radio.mp3"
+    },
+    {
+      "id": "station_ru_ded7f082",
+      "title": "Радио Орфей - Классика джаза",
+      "subtitle": "Classical",
+      "location": "The Russian Federation",
+      "genre": "Classical",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "https://channels.fonotron.ru:8000/Chan_12_192.mp3"
+    },
+    {
+      "id": "radio_caprice_jazz_fusion_ru_f3985fa3",
+      "title": "Radio Caprice - Jazz Fusion",
+      "subtitle": "Jazz",
+      "location": "The Russian Federation",
+      "genre": "Jazz",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 48,
+      "streamUrl": "http://79.111.119.111:8002/jazzfusion"
+    },
+    {
+      "id": "radio_caprice_hard_bob_ru_86c4e40a",
+      "title": "Radio Caprice - Hard Bob",
+      "subtitle": "Bebop",
+      "location": "The Russian Federation",
+      "genre": "Bebop",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 320,
+      "streamUrl": "http://79.111.14.76:8000/hardbop"
+    },
+    {
+      "id": "avtoradio_balakovo_ru_841dec4c",
+      "title": "Avtoradio-Balakovo",
+      "subtitle": "Pop Rock",
+      "location": "The Russian Federation",
+      "genre": "Pop Rock",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "http://control1.craftradio.ru:8000/153_328f858f"
+    },
+    {
+      "id": "station_ru_2fe053ae",
+      "title": "Радио Монте-Карло омск",
+      "subtitle": "Radio",
+      "location": "The Russian Federation",
+      "genre": "Radio",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://radio.mediacdn.ru/shanson_omsk.mp3"
     }
   ]
 }

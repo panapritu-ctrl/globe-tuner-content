@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-26T03:33:34Z",
+  "updated": "2026-09-27T03:40:59Z",
   "region": "europe",
   "part": 5,
   "of": 8,
@@ -8088,19 +8088,6 @@
       "genre": "Greek Folk",
       "countryCode": "GR",
       "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_102_fm_6d04b19d",
-      "title": "Ελληνάδικο 102 FM",
-      "subtitle": "Greek Pop, Mainstream",
-      "imageUrl": "http://resources.live24.gr/resources/images/stations/ca728aea-c5f6-4f86-b510-102f00fce8fd.jpg",
-      "streamUrl": "https://webradios.stream:8000/radio.mp3",
-      "location": "Greece",
-      "genre": "Greek Pop",
-      "countryCode": "GR",
-      "language": "greek",
       "clickCount": 0,
       "bitrate": 128
     },
@@ -27034,18 +27021,6 @@
       "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/SOUTH_EAST_RADIO.mp3"
     },
     {
-      "id": "takk_r_hu_5119cf26",
-      "title": "Takk-r",
-      "subtitle": "Electronic",
-      "location": "Hungary",
-      "genre": "Electronic",
-      "countryCode": "HU",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 128,
-      "streamUrl": "https://radio.takk-r.com/radio/8000/radio.mp3"
-    },
-    {
       "id": "civil_r_di_hu_18e26271",
       "title": "Civil Rádió",
       "subtitle": "Community Radio",
@@ -27884,6 +27859,30 @@
       "clickCount": 3,
       "bitrate": 256,
       "streamUrl": "https://icestreaming.rai.it/1.mp3"
+    },
+    {
+      "id": "radio_c1_it_1eff93da",
+      "title": "Radio C1",
+      "subtitle": "Folk Music",
+      "location": "Italy",
+      "genre": "Folk Music",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "http://intercast.max73.ovh:9030/stream"
+    },
+    {
+      "id": "telstar_hu_c5e277a5",
+      "title": "TelStar",
+      "subtitle": "Oldies",
+      "location": "Hungary",
+      "genre": "Oldies",
+      "countryCode": "HU",
+      "language": "hungarian",
+      "clickCount": 4,
+      "bitrate": 48,
+      "streamUrl": "http://79.139.60.24:8000/telstar"
     }
   ]
 }

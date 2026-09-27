@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-26T03:33:34Z",
+  "updated": "2026-09-27T03:40:59Z",
   "region": "africa",
   "stations": [
     {
@@ -1651,15 +1651,6 @@
       "language": null,
       "clickCount": 0,
       "bitrate": 192
-    },
-    {
-      "id": "asaase_radio_99_5fm_accra_gh",
-      "title": "Asaase Radio 99.5FM Accra",
-      "subtitle": "Cape Coast / Entertainment",
-      "location": "Accra, Ghana",
-      "genre": "Talk",
-      "countryCode": "GH",
-      "streamUrl": "http://stream.radiojar.com/cyg76xcvp0hvv"
     },
     {
       "id": "rb2_asempa_fm_68dd5238",
@@ -8613,18 +8604,6 @@
       "streamUrl": "https://freedomice.streamakaci.com/freedom2.mp3"
     },
     {
-      "id": "nana_fm_togo_tg_f7ef9778",
-      "title": "Nana FM Togo",
-      "subtitle": "Radio",
-      "location": "Togo",
-      "genre": "Radio",
-      "countryCode": "TG",
-      "language": "french",
-      "clickCount": 4,
-      "bitrate": 64,
-      "streamUrl": "https://srv1269271.hstgr.cloud/;?type=http&nocache=16"
-    },
-    {
       "id": "afrobeats_fm_za_5ecb8082",
       "title": "AFROBEATS FM",
       "subtitle": "Radio",
@@ -10627,6 +10606,30 @@
       "clickCount": 5,
       "bitrate": 128,
       "streamUrl": "https://ice64.securenetsystems.net/CLR1MP3"
+    },
+    {
+      "id": "pikine_diaspora_radio_sn_368c735a",
+      "title": "Pikine Diaspora Radio",
+      "subtitle": "Radio",
+      "location": "Senegal",
+      "genre": "Radio",
+      "countryCode": "SN",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "http://cdn.voscast.com/resources/?key=563fcd75f43e77334d6fb664b7358f9e&c=winamp"
+    },
+    {
+      "id": "jazz_ethopia_world_et_290e90f9",
+      "title": "Jazz Ethopia World",
+      "subtitle": "Radio",
+      "location": "Ethiopia",
+      "genre": "Radio",
+      "countryCode": "ET",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 320,
+      "streamUrl": "http://mediaserv38.live-streams.nl:8006/"
     }
   ]
 }

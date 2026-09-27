@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-26T03:33:34Z",
+  "updated": "2026-09-27T03:40:59Z",
   "region": "europe",
   "part": 6,
   "of": 8,
@@ -7292,32 +7292,6 @@
       "streamUrl": "http://stream.europeanhitradio.com:8000/Stream_25.aac"
     },
     {
-      "id": "rb2_ehr_gold_6f1ed812",
-      "title": "EHR Gold",
-      "subtitle": "90'To Gadu Zelta Hiti",
-      "imageUrl": "",
-      "streamUrl": "http://stream.ehrhiti.lv:8000/Stream_64.mp3",
-      "location": "Riga, Latvia",
-      "genre": "90'To Gadu Zelta Hiti",
-      "countryCode": "LV",
-      "language": "latvian",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_ehr_ice_ice_party_aa64093e",
-      "title": "EHR Ice Ice Party",
-      "subtitle": "Labākie Deju Superhiti",
-      "imageUrl": "",
-      "streamUrl": "http://stream.ehrhiti.lv:8000/Stream_67.mp3",
-      "location": "Riga, Latvia",
-      "genre": "Labākie Deju Superhiti",
-      "countryCode": "LV",
-      "language": "latvian",
-      "clickCount": 0,
-      "bitrate": 112
-    },
-    {
       "id": "rb2_ehr_remixes_f49b84d0",
       "title": "EHR Remixes",
       "subtitle": "Eiropas Hitu Remiksi",
@@ -9477,19 +9451,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_radiobar_01119f64",
-      "title": "RadioBar",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://visual.shoutca.st:8122/stream",
-      "location": "Republic Of North Macedonia",
-      "genre": "Radio",
-      "countryCode": "MK",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 320
-    },
-    {
       "id": "rb2_retro_sky_radio_102_5_fm_macedonia_mp3_1_a0aed8e2",
       "title": "Retro Sky Radio 102.5 FM Macedonia (MP3 128 kbps)",
       "subtitle": "Radio",
@@ -9684,15 +9645,6 @@
       "language": null,
       "clickCount": 1,
       "bitrate": 320
-    },
-    {
-      "id": "maltin_biss_mt",
-      "title": "MALTIN BISS",
-      "subtitle": "Country",
-      "location": "Malta",
-      "genre": "Country",
-      "countryCode": "MT",
-      "streamUrl": "https://s4.voscast.com:8837/default"
     },
     {
       "id": "rb_one_radio_86d48e9f",
@@ -15045,19 +14997,6 @@
       "streamUrl": "http://mscp4.live-streams.nl:8140/flac.ogg"
     },
     {
-      "id": "rb2_pureclassix_fe9fa868",
-      "title": "Pureclassix",
-      "subtitle": "Classic Hits, New Classics 80´S",
-      "imageUrl": "",
-      "streamUrl": "http://server5.radio-streams.net:8001/live",
-      "location": "The Netherlands",
-      "genre": "Classic Hits",
-      "countryCode": "NL",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 320
-    },
-    {
       "id": "rb2_pyro_tec_radio_06479c7e",
       "title": "Pyro-Tec Radio",
       "subtitle": "Dance, Edm",
@@ -17003,19 +16942,6 @@
       "language": null,
       "clickCount": 0,
       "bitrate": 192
-    },
-    {
-      "id": "rb2_radio_extra_a8aaafa7",
-      "title": "Radio eXtra",
-      "subtitle": "1990S Pop Music, 90S Dance",
-      "imageUrl": "https://radioextra.net/extra.png",
-      "streamUrl": "http://91.227.77.124/extra",
-      "location": "Amsterdam, The Netherlands",
-      "genre": "1990S Pop Music",
-      "countryCode": "NL",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 320
     },
     {
       "id": "rb2_radio_goldenwave_aa7e3fcb",
@@ -26697,18 +26623,6 @@
       "streamUrl": "https://nlpo.stream.vip/vughtseomroep/mp3-192/nlpo.stream.vip/"
     },
     {
-      "id": "ehr_party_service_lv_7a5b9a4f",
-      "title": "EHR Party Service",
-      "subtitle": "Eiropas Klubu Atmosfēra Un Pasaules Jaudīgāko Dj Remixi",
-      "location": "Latvia",
-      "genre": "Eiropas Klubu Atmosfēra Un Pasaules Jaudīgāko Dj Remixi",
-      "countryCode": "LV",
-      "language": "latvian",
-      "clickCount": 2,
-      "bitrate": 112,
-      "streamUrl": "http://stream.ehrhiti.lv:8000/Stream_12.mp3"
-    },
-    {
       "id": "smile_fm_md_9fb1761a",
       "title": "Smile FM",
       "subtitle": "Chr",
@@ -27619,6 +27533,54 @@
       "clickCount": 3,
       "bitrate": 0,
       "streamUrl": "http://radio.grooveline.org:8000/auto"
+    },
+    {
+      "id": "rdf_102_7_it_84f89594",
+      "title": "RDF 102.7",
+      "subtitle": "Radio",
+      "location": "Italy",
+      "genre": "Radio",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://stream12.xdevel.com/audio4s977583-3056/stream/icecast.audio"
+    },
+    {
+      "id": "radio_kiss_kiss_lounge_it_afc4c371",
+      "title": "Radio Kiss Kiss Lounge",
+      "subtitle": "Radio",
+      "location": "Italy",
+      "genre": "Radio",
+      "countryCode": "IT",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://kk.fluidstream.eu/kk_history_lounge.mp3?FLID=1?id=svK23kYW68&FLID=1"
+    },
+    {
+      "id": "star_radio_ex_yu_retro_skopje_macedonia_mk_4e482530",
+      "title": "Star Radio (Ex-YU Retro) Skopje, Macedonia",
+      "subtitle": "Exyu",
+      "location": "Republic Of North Macedonia",
+      "genre": "Exyu",
+      "countryCode": "MK",
+      "language": "macedonian",
+      "clickCount": 4,
+      "bitrate": 320,
+      "streamUrl": "https://radiostar.pro/stream/exyuretro.php"
+    },
+    {
+      "id": "star_radio_boemi_skopje_macedonia_mk_f72f20ec",
+      "title": "Star Radio (Boemi) Skopje, Macedonia",
+      "subtitle": "Exyu",
+      "location": "Republic Of North Macedonia",
+      "genre": "Exyu",
+      "countryCode": "MK",
+      "language": "macedonian",
+      "clickCount": 4,
+      "bitrate": 320,
+      "streamUrl": "https://radiostar.pro/stream/boemi.php"
     }
   ]
 }

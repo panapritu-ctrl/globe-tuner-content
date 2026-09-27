@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-26T03:33:34Z",
+  "updated": "2026-09-27T03:40:59Z",
   "region": "europe",
   "part": 7,
   "of": 8,
@@ -24539,18 +24539,6 @@
       "streamUrl": "https://naxidigital-exyu128ssl.streaming.rs:8242/;stream.nsv"
     },
     {
-      "id": "radio_manele_romania_ro_ee1ca243",
-      "title": "Radio Manele Romania",
-      "subtitle": "Radio",
-      "location": "Romania",
-      "genre": "Radio",
-      "countryCode": "RO",
-      "language": null,
-      "clickCount": 7,
-      "bitrate": 128,
-      "streamUrl": "http://petrecere.fmradiomanele.ro:8123/;stream.nsv"
-    },
-    {
       "id": "r_dio_onbouge_portugu_s_pt_f182235a",
       "title": "Rádio OnBouge Português",
       "subtitle": "Community",
@@ -25761,6 +25749,66 @@
       "clickCount": 3,
       "bitrate": 128,
       "streamUrl": "https://naxidigital-adore128ssl.streaming.rs:8332/;stream.nsv"
+    },
+    {
+      "id": "radio_sound_tm_ro_7e7553b5",
+      "title": "Radio Sound TM",
+      "subtitle": "Drum And Bass",
+      "location": "Romania",
+      "genre": "Drum And Bass",
+      "countryCode": "RO",
+      "language": null,
+      "clickCount": 15,
+      "bitrate": 256,
+      "streamUrl": "https://radio.radiosoundtm.online/listen/radio_sound_tm/radio.mp3"
+    },
+    {
+      "id": "music_for_life_ro_65a4da0c",
+      "title": "Music for Life",
+      "subtitle": "90'S",
+      "location": "Romania",
+      "genre": "90'S",
+      "countryCode": "RO",
+      "language": null,
+      "clickCount": 8,
+      "bitrate": 320,
+      "streamUrl": "https://listen.blacklotusmusic.life/stream/main"
+    },
+    {
+      "id": "naxi_lounge_radio_rs_98aa0eb8",
+      "title": "Naxi Lounge Radio",
+      "subtitle": "Radio",
+      "location": "Serbia",
+      "genre": "Radio",
+      "countryCode": "RS",
+      "language": "serbian",
+      "clickCount": 8,
+      "bitrate": 128,
+      "streamUrl": "https://naxidigital-lounge128ssl.streaming.rs:8252/;stream.nsv"
+    },
+    {
+      "id": "hoid_radio_pl_8ed2cadc",
+      "title": "HOID RADIO",
+      "subtitle": "Club",
+      "location": "Poland",
+      "genre": "Club",
+      "countryCode": "PL",
+      "language": "polish",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://s3.slotex.pl/shoutcast/7476/stream?sid=1"
+    },
+    {
+      "id": "antyradio_greatest_pl_4874ed27",
+      "title": "Antyradio Greatest",
+      "subtitle": "Greatest Hits",
+      "location": "Poland",
+      "genre": "Greatest Hits",
+      "countryCode": "PL",
+      "language": "polish",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://an02.cdn.eurozet.pl/ANTGRE.mp3"
     }
   ]
 }
