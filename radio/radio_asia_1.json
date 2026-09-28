@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-27T03:40:59Z",
+  "updated": "2026-09-28T03:39:09Z",
   "region": "asia",
   "part": 1,
   "of": 3,
@@ -19174,19 +19174,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_station_27442bbe",
-      "title": "新余综合广播",
-      "subtitle": "Entertainment, Full Service",
-      "imageUrl": "https://pic.qtfm.cn/2019/0130/20190130101528481.jpg",
-      "streamUrl": "https://lhttp-hw.qtfm.cn/live/20178/64k.mp3",
-      "location": "China",
-      "genre": "Entertainment",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_station_d140c306",
       "title": "新兴电台",
       "subtitle": "Music",
@@ -26697,18 +26684,6 @@
       "streamUrl": "http://drive.uber.radio/uber/crshostakovich/icecast.audio"
     },
     {
-      "id": "station_cn_3614ad3e",
-      "title": "蒙古之声",
-      "subtitle": "International",
-      "location": "China",
-      "genre": "International",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 3,
-      "bitrate": 0,
-      "streamUrl": "https://api.xmgspace.me/api/vom-latest/"
-    },
-    {
       "id": "harbin_music_radio_cn_89b9cd12",
       "title": "Harbin Music Radio",
       "subtitle": "Radio",
@@ -26827,18 +26802,6 @@
       "clickCount": 3,
       "bitrate": 0,
       "streamUrl": "https://lhttp.qtfm.cn/live/5022385/64k.mp3"
-    },
-    {
-      "id": "cctv_9_cn_7ab7179f",
-      "title": "CCTV-9 纪录伴音",
-      "subtitle": "Audio",
-      "location": "China",
-      "genre": "Audio",
-      "countryCode": "CN",
-      "language": "zh",
-      "clickCount": 3,
-      "bitrate": 0,
-      "streamUrl": "http://119.28.21.93/radio/cctv9.mp3"
     },
     {
       "id": "cctv_14_cn_8a6a9700",
@@ -27535,6 +27498,42 @@
       "clickCount": 3,
       "bitrate": 0,
       "streamUrl": "http://a.live.hnradio.com/jtpd/radio120k_jtpd.m3u8?auth_key=1588751155-0-0-301d7e28868eff70a72edf5e4569b546"
+    },
+    {
+      "id": "station_cn_3614ad3e",
+      "title": "蒙古之声",
+      "subtitle": "International",
+      "location": "China",
+      "genre": "International",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://api.xmgspace.me/api/vom-latest/"
+    },
+    {
+      "id": "station_cn_f9270d11",
+      "title": "龙山综合广播龙凤之声",
+      "subtitle": "5G智慧电台",
+      "location": "China",
+      "genre": "5G智慧电台",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://liveplay-srs.voc.com.cn/hls/broadcast/146_80a15b.m3u8"
+    },
+    {
+      "id": "station_cn_274f0f74",
+      "title": "榆林综合广播",
+      "subtitle": "Radio",
+      "location": "China",
+      "genre": "Radio",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 3,
+      "bitrate": 2560,
+      "streamUrl": "https://hplayer1.juyun.tv/camera/115987102.m3u8"
     }
   ]
 }

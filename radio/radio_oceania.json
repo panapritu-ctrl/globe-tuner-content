@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-27T03:40:30Z",
+  "updated": "2026-09-28T03:39:09Z",
   "region": "oceania",
   "stations": [
     {
@@ -5023,19 +5023,6 @@
       "countryCode": "AU",
       "language": "english",
       "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_australian_digital_radio_network_drum_n__611fd82a",
-      "title": "Australian Digital Radio Network - Drum N Bass (MP3)",
-      "subtitle": "Drum N Bass",
-      "imageUrl": "http://www.australiandigitalradio.com/favicon.ico",
-      "streamUrl": "http://abm22.com.au:8000/CONTAINER22",
-      "location": "Sydney NSW, Australia",
-      "genre": "Drum N Bass",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 1,
       "bitrate": 128
     },
     {
@@ -18230,6 +18217,18 @@
       "clickCount": 4,
       "bitrate": 320,
       "streamUrl": "https://a6.asurahosting.com:8920/radio.mp3"
+    },
+    {
+      "id": "fox_news_as_b1da3236",
+      "title": "Fox news",
+      "subtitle": "Radio",
+      "location": "American Samoa",
+      "genre": "Radio",
+      "countryCode": "AS",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 311,
+      "streamUrl": "https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8"
     }
   ]
 }

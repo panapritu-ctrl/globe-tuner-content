@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-27T03:40:59Z",
+  "updated": "2026-09-28T03:39:09Z",
   "region": "europe",
   "part": 7,
   "of": 8,
@@ -20218,19 +20218,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_love_radio_105_3_fm_2639261d",
-      "title": "Love Radio Владикавказ 105.3 FM",
-      "subtitle": "Love Radio, Music",
-      "imageUrl": "",
-      "streamUrl": "http://stream.loveradio.ru/12_love_28?type=.aac&U",
-      "location": "The Russian Federation",
-      "genre": "Love Radio",
-      "countryCode": "RU",
-      "language": "язык: русский",
-      "clickCount": 1,
-      "bitrate": 28
-    },
-    {
       "id": "rb2_love_radio_96_4_fm_1dc15af4",
       "title": "Love Radio Вологда 96.4 FM",
       "subtitle": "Music",
@@ -23567,18 +23554,6 @@
       "streamUrl": "https://2010slive.radionoise.ro:9124/stream"
     },
     {
-      "id": "tequila_rom_nia_radio_dance_ro_bfa82f4f",
-      "title": "Tequila România -Radio Dance",
-      "subtitle": "Dance",
-      "location": "Romania",
-      "genre": "Dance",
-      "countryCode": "RO",
-      "language": "romania",
-      "clickCount": 3,
-      "bitrate": 128,
-      "streamUrl": "https://dance.radiotequila.ro/7000/stream"
-    },
-    {
       "id": "zlatiborski_106_kosjeri_rs_95484ad7",
       "title": "Zlatiborski 106 Kosjerić",
       "subtitle": "Folk",
@@ -24527,18 +24502,6 @@
       "streamUrl": "https://radio.sonicpanel.ro/8102/stream"
     },
     {
-      "id": "naxi_exyu_radio_rs_cd758bf6",
-      "title": "Naxi ExYu Radio",
-      "subtitle": "Radio",
-      "location": "Serbia",
-      "genre": "Radio",
-      "countryCode": "RS",
-      "language": "serbian",
-      "clickCount": 20,
-      "bitrate": 128,
-      "streamUrl": "https://naxidigital-exyu128ssl.streaming.rs:8242/;stream.nsv"
-    },
-    {
       "id": "r_dio_onbouge_portugu_s_pt_f182235a",
       "title": "Rádio OnBouge Português",
       "subtitle": "Community",
@@ -24597,18 +24560,6 @@
       "clickCount": 3,
       "bitrate": 64,
       "streamUrl": "https://stream.radios.rs:9076/stream"
-    },
-    {
-      "id": "naxi_latino_radio_rs_4f7caa9f",
-      "title": "Naxi Latino Radio",
-      "subtitle": "Radio",
-      "location": "Serbia",
-      "genre": "Radio",
-      "countryCode": "RS",
-      "language": "serbian",
-      "clickCount": 3,
-      "bitrate": 128,
-      "streamUrl": "https://naxidigital-latino128ssl.streaming.rs:8232/;stream.nsv"
     },
     {
       "id": "4fun_tv_pl_66dc4665",
@@ -24753,18 +24704,6 @@
       "clickCount": 3,
       "bitrate": 128,
       "streamUrl": "http://asculta.muzicaok.de:8046/stream"
-    },
-    {
-      "id": "stil_rom_nia_radio_stil_popular_ro_91fa607e",
-      "title": "Stil România -Radio Stil Popular",
-      "subtitle": "Petrecere",
-      "location": "Romania",
-      "genre": "Petrecere",
-      "countryCode": "RO",
-      "language": "romania",
-      "clickCount": 3,
-      "bitrate": 128,
-      "streamUrl": "https://popular.radiostill.ro/8176/stream"
     },
     {
       "id": "nas_radio_107_80_zabalj_rs_dae5ab8b",
@@ -25269,18 +25208,6 @@
       "clickCount": 3,
       "bitrate": 64,
       "streamUrl": "https://sonicssl.namehost.ro/8181/;"
-    },
-    {
-      "id": "radio_3_live_rs_5a66a24c",
-      "title": "Radio 3 LIVE",
-      "subtitle": "Radio",
-      "location": "Serbia",
-      "genre": "Radio",
-      "countryCode": "RS",
-      "language": "serbian",
-      "clickCount": 3,
-      "bitrate": 64,
-      "streamUrl": "https://radio3-64ssl.streaming.rs:9212/;stream.nsv"
     },
     {
       "id": "rdp_internacional_main_pt_de71a2a0",
@@ -25809,6 +25736,138 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://an02.cdn.eurozet.pl/ANTGRE.mp3"
+    },
+    {
+      "id": "naxi_exyu_radio_rs_cd758bf6",
+      "title": "Naxi ExYu Radio",
+      "subtitle": "Radio",
+      "location": "Serbia",
+      "genre": "Radio",
+      "countryCode": "RS",
+      "language": "serbian",
+      "clickCount": 17,
+      "bitrate": 128,
+      "streamUrl": "https://naxidigital-exyu128ssl.streaming.rs:8242/;stream.nsv"
+    },
+    {
+      "id": "naxi_chillwave_rs_b49f4885",
+      "title": "Naxi Chillwave",
+      "subtitle": "Pop",
+      "location": "Serbia",
+      "genre": "Pop",
+      "countryCode": "RS",
+      "language": null,
+      "clickCount": 10,
+      "bitrate": 128,
+      "streamUrl": "https://naxidigital-chillwave128ssl.streaming.rs:8322/;stream.nsv"
+    },
+    {
+      "id": "beat_city_wroc_aw_pl_516fc241",
+      "title": "Beat City Wrocław",
+      "subtitle": "City Radio",
+      "location": "Poland",
+      "genre": "City Radio",
+      "countryCode": "PL",
+      "language": "polish",
+      "clickCount": 7,
+      "bitrate": 192,
+      "streamUrl": "https://radio.beatcity.pl/listen/beat_city_wroclaw/radio.mp3"
+    },
+    {
+      "id": "naxi_latino_radio_rs_4f7caa9f",
+      "title": "Naxi Latino Radio",
+      "subtitle": "Radio",
+      "location": "Serbia",
+      "genre": "Radio",
+      "countryCode": "RS",
+      "language": "serbian",
+      "clickCount": 7,
+      "bitrate": 128,
+      "streamUrl": "https://naxidigital-latino128ssl.streaming.rs:8232/;stream.nsv"
+    },
+    {
+      "id": "beat_city_ole_nica_pl_1276a61f",
+      "title": "Beat City Oleśnica",
+      "subtitle": "City Radio",
+      "location": "Poland",
+      "genre": "City Radio",
+      "countryCode": "PL",
+      "language": "polish",
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "https://olesnica.beatcity.pl/listen/radio/radio.mp3"
+    },
+    {
+      "id": "radio_nowy_wiat_128kbit_no_https_pl_191e92e6",
+      "title": "Radio Nowy Świat (128kbit no https)",
+      "subtitle": "Radio",
+      "location": "Poland",
+      "genre": "Radio",
+      "countryCode": "PL",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "http://stream.rcs.revma.com/ypqt40u0x1zuv"
+    },
+    {
+      "id": "beat_city_krak_w_pl_eba3cc89",
+      "title": "Beat City Kraków",
+      "subtitle": "City Radio",
+      "location": "Poland",
+      "genre": "City Radio",
+      "countryCode": "PL",
+      "language": "polish",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://radio.beatcity.pl/listen/beat_city_krakow/radio.mp3"
+    },
+    {
+      "id": "rca_r_dio_clube_de_armamar_pt_1c976314",
+      "title": "RCA - Rádio Clube de Armamar",
+      "subtitle": "Folk",
+      "location": "Portugal",
+      "genre": "Folk",
+      "countryCode": "PT",
+      "language": "portuguese",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://radios2.justweb.pt/8054/stream"
+    },
+    {
+      "id": "r_dio_us_nelas_pt_743e8043",
+      "title": "Rádio US Nelas",
+      "subtitle": "Local",
+      "location": "Portugal",
+      "genre": "Local",
+      "countryCode": "PT",
+      "language": "portuguese",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://sp0.redeaudio.com/8054/stream"
+    },
+    {
+      "id": "radialistas_de_viseu_pt_23dd062a",
+      "title": "Radialistas de Viseu",
+      "subtitle": "Local",
+      "location": "Portugal",
+      "genre": "Local",
+      "countryCode": "PT",
+      "language": "portuguese",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream.zeno.fm/77r7ufhaz98uv"
+    },
+    {
+      "id": "antena_krusevac_rs_793f27dd",
+      "title": "Antena Krusevac",
+      "subtitle": "Radio",
+      "location": "Serbia",
+      "genre": "Radio",
+      "countryCode": "RS",
+      "language": "serbian",
+      "clickCount": 4,
+      "bitrate": 320,
+      "streamUrl": "http://antenaradio.org:4560/;stream.nsv"
     }
   ]
 }

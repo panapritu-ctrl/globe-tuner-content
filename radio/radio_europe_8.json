@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-27T03:40:59Z",
+  "updated": "2026-09-28T03:39:09Z",
   "region": "europe",
   "part": 8,
   "of": 8,
@@ -20518,28 +20518,6 @@
       "countryCode": "UA"
     },
     {
-      "id": "rb2_magic_radio_523cf9da",
-      "title": "MAGIC Radio",
-      "subtitle": "Information, Music",
-      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250111_141451443.jpg?alt=media&token=858cfad1-7c80-441a-8618-124b7875bf6f",
-      "streamUrl": "https://cast.brg.ua/business_main_public_mp3_hq",
-      "location": "Ukraine",
-      "genre": "Information",
-      "countryCode": "UA",
-      "language": "ukrainian",
-      "clickCount": 1,
-      "bitrate": 256
-    },
-    {
-      "id": "mfm_station_ua_db8a32",
-      "title": "MFM STATION",
-      "subtitle": "Dance",
-      "location": "Kharkiv, Ukraine",
-      "genre": "Dance",
-      "streamUrl": "https://radio.mfm.ua/online128",
-      "countryCode": "UA"
-    },
-    {
       "id": "rb2_megapolis_fm_105_2_kryvyi_rih_c063268d",
       "title": "Megapolis FM 105.2 Kryvyi Rih",
       "subtitle": "Pop",
@@ -20650,19 +20628,6 @@
       "countryCode": "UA",
       "language": "ukrainian",
       "clickCount": 0,
-      "bitrate": 256
-    },
-    {
-      "id": "rb2_powerfm_d4faa904",
-      "title": "PowerFM",
-      "subtitle": "Information, Music",
-      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240301_202312521.jpg?alt=media&token=d82961af-32fe-4520-a0db-2b9984f55a57",
-      "streamUrl": "https://cast.brg.ua/powerfm_main_public_mp3_hq",
-      "location": "Ukraine",
-      "genre": "Information",
-      "countryCode": "UA",
-      "language": "ukrainian",
-      "clickCount": 2,
       "bitrate": 256
     },
     {
@@ -22267,19 +22232,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_station_0bda5445",
-      "title": "Радіоточка",
-      "subtitle": "Retro Fm, Retro Hits",
-      "imageUrl": "",
-      "streamUrl": "http://radio.ukr.radio:8000/ur5-mp3",
-      "location": "Kyiv, Ukraine",
-      "genre": "Retro Fm",
-      "countryCode": "UA",
-      "language": "ukrainian",
-      "clickCount": 1,
-      "bitrate": 192
-    },
-    {
       "id": "rb2_station_35816aca",
       "title": "Світле Радіо Еммануїл",
       "subtitle": "Classic, Music",
@@ -22369,19 +22321,6 @@
       "language": null,
       "clickCount": 1,
       "bitrate": 192
-    },
-    {
-      "id": "rb2_aac_d2561d39",
-      "title": "Українське радіо: Казки AAC",
-      "subtitle": "Tales, Ukrainian",
-      "imageUrl": "",
-      "streamUrl": "http://radio.ukr.radio:8000/urkazka-aacplus",
-      "location": "Kyiv, Ukraine",
-      "genre": "Tales",
-      "countryCode": "UA",
-      "language": "ukrainian",
-      "clickCount": 1,
-      "bitrate": 52
     },
     {
       "id": "rb2_station_9a627ab5",
@@ -24416,18 +24355,6 @@
       "streamUrl": "https://stream.blits-fm.ua/stream64"
     },
     {
-      "id": "anima_amoris_deep_tech_house_ru_1c9bcb95",
-      "title": "Anima Amoris Deep Tech House",
-      "subtitle": "Radio",
-      "location": "The Russian Federation",
-      "genre": "Radio",
-      "countryCode": "RU",
-      "language": null,
-      "clickCount": 5,
-      "bitrate": 0,
-      "streamUrl": "https://amoris.sknt.ru/deeptech.mp3"
-    },
-    {
       "id": "kuzbass_fm_ru_c5b67a85",
       "title": "Kuzbass FM",
       "subtitle": "Classic Hits",
@@ -25338,6 +25265,42 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "https://radio.mediacdn.ru/shanson_omsk.mp3"
+    },
+    {
+      "id": "garage_fm_ru_5e911ed0",
+      "title": "Garage FM",
+      "subtitle": "Radio",
+      "location": "The Russian Federation",
+      "genre": "Radio",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://garagefm.ru/streaming/Garagefm128"
+    },
+    {
+      "id": "mineplay_fm_ru_2af943a1",
+      "title": "Mineplay FM",
+      "subtitle": "Mineplaytv",
+      "location": "The Russian Federation",
+      "genre": "Mineplaytv",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://radio.nedodev.ru/stream"
+    },
+    {
+      "id": "anima_amoris_dt_ru_4bfe1708",
+      "title": "Anima Amoris DT",
+      "subtitle": "Dub Techno",
+      "location": "The Russian Federation",
+      "genre": "Dub Techno",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://amoris.sknt.ru/dubtechno.mp3"
     }
   ]
 }

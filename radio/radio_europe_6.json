@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-27T03:40:59Z",
+  "updated": "2026-09-28T03:39:09Z",
   "region": "europe",
   "part": 6,
   "of": 8,
@@ -2809,19 +2809,6 @@
       "language": "italian",
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_saurosoft_f274ca78",
-      "title": "Radio Saurosoft",
-      "subtitle": "80S, 90S",
-      "imageUrl": "",
-      "streamUrl": "http://nr1.newradio.it:9373/stream",
-      "location": "Italy",
-      "genre": "80S",
-      "countryCode": "IT",
-      "language": "italian",
-      "clickCount": 1,
-      "bitrate": 192
     },
     {
       "id": "rb2_radio_savona_international_fd3dfc55",
@@ -16419,19 +16406,6 @@
       "bitrate": 192
     },
     {
-      "id": "rb2_radio_obelix_6e83dab8",
-      "title": "Radio Obelix",
-      "subtitle": "Radio",
-      "imageUrl": "http://radioobelix.nl/.cm4all/uproc.php/0/Obelix%20Logo_1.png?_=16437ab42c0",
-      "streamUrl": "http://mediaserv30.live-streams.nl:8043/live",
-      "location": "The Netherlands",
-      "genre": "Radio",
-      "countryCode": "NL",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 320
-    },
-    {
       "id": "rb2_radio_olympia_100_piratenhits_en_nederla_a66ad866",
       "title": "Radio Olympia - 100% Piratenhits en Nederlandstalige muziek",
       "subtitle": "Radio",
@@ -26971,18 +26945,6 @@
       "streamUrl": "https://mediacp.audiostreamen.nl:8168/stream"
     },
     {
-      "id": "radio_parsifal_it_cc974803",
-      "title": "Radio Parsifal",
-      "subtitle": "Italian Pop",
-      "location": "Italy",
-      "genre": "Italian Pop",
-      "countryCode": "IT",
-      "language": "italian",
-      "clickCount": 4,
-      "bitrate": 0,
-      "streamUrl": "http://onair11.xdevel.com:10044/;stream.mp3"
-    },
-    {
       "id": "orbita24_it_c2b49003",
       "title": "ORBITA24",
       "subtitle": "24/7",
@@ -27379,18 +27341,6 @@
       "streamUrl": "https://icy.unitedradio.it/um1026.mp3"
     },
     {
-      "id": "fm_classic_siracusa_it_3d9f4851",
-      "title": "FM Classic Siracusa",
-      "subtitle": "Oldies",
-      "location": "Italy",
-      "genre": "Oldies",
-      "countryCode": "IT",
-      "language": "italian",
-      "clickCount": 3,
-      "bitrate": 0,
-      "streamUrl": "https://stream1.xdevel.com/audio0s975817-359/stream/icecast.audio"
-    },
-    {
       "id": "radio_inblu2000_it_fe7ccfdd",
       "title": "Radio InBlu2000",
       "subtitle": "Religious",
@@ -27581,6 +27531,30 @@
       "clickCount": 4,
       "bitrate": 320,
       "streamUrl": "https://radiostar.pro/stream/boemi.php"
+    },
+    {
+      "id": "truckers_rave_lt_3804763a",
+      "title": "Truckers Rave",
+      "subtitle": "Gabber",
+      "location": "Lithuania",
+      "genre": "Gabber",
+      "countryCode": "LT",
+      "language": "english",
+      "clickCount": 7,
+      "bitrate": 128,
+      "streamUrl": "https://myradio24.org/eugenijus"
+    },
+    {
+      "id": "european_hit_radio_russkie_hiti_lv_ecf27de3",
+      "title": "European Hit Radio - Russkie Hiti",
+      "subtitle": "Ehr",
+      "location": "Latvia",
+      "genre": "Ehr",
+      "countryCode": "LV",
+      "language": "russian",
+      "clickCount": 4,
+      "bitrate": 96,
+      "streamUrl": "http://stream.europeanhitradio.com:8000/khr.aac"
     }
   ]
 }

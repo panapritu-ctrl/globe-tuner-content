@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-27T03:40:59Z",
+  "updated": "2026-09-28T03:39:09Z",
   "region": "asia",
   "part": 3,
   "of": 3,
@@ -12051,19 +12051,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_station_8609e7be",
-      "title": "海峽之聲廣播電台",
-      "subtitle": "Information, News",
-      "imageUrl": "https://wx2.sinaimg.cn/mw2000/0061xXpZly8h8w3icmaygj30hs0hsdgj.jpg",
-      "streamUrl": "http://ls.qingting.fm/live/1744.m3u8",
-      "location": "Taiwan, Republic Of China",
-      "genre": "Information",
-      "countryCode": "TW",
-      "language": "chinese",
-      "clickCount": 2,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_station_36170e6f",
       "title": "漁業廣播電台",
       "subtitle": "Agriculture",
@@ -15273,18 +15260,6 @@
       "streamUrl": "https://cdn-edge.iiptvcdn.com/radio_edge/45d4-d521-cbfc-d686-0123/playlist.m3u8"
     },
     {
-      "id": "andromeda_radio_tr_732a6b8d",
-      "title": "andromeda radio",
-      "subtitle": "Radio",
-      "location": "Türkiye",
-      "genre": "Radio",
-      "countryCode": "TR",
-      "language": null,
-      "clickCount": 3,
-      "bitrate": 128,
-      "streamUrl": "https://radyo1.radyo-dinle.tc/andromedaradio/stream"
-    },
-    {
       "id": "mcbs_tw_14d1f9f7",
       "title": "MCBS 銘傳廣播電台",
       "subtitle": "Full Service",
@@ -15837,18 +15812,6 @@
       "streamUrl": "https://stream.zeno.fm/hqjssdugsydvv"
     },
     {
-      "id": "y101_cebu_ph_6cf6a35a",
-      "title": "Y101 Cebu",
-      "subtitle": "Radio",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "language": null,
-      "clickCount": 3,
-      "bitrate": 64,
-      "streamUrl": "http://us1.amfmph.com:8849/live"
-    },
-    {
       "id": "94_5_bigfm_davao_region_ph_99cf62bb",
       "title": "94.5 BIGFM - DAVAO REGION",
       "subtitle": "Radio",
@@ -16159,18 +16122,6 @@
       "clickCount": 4,
       "bitrate": 64,
       "streamUrl": "http://148.72.153.65:9232/stream"
-    },
-    {
-      "id": "brigada_news_fm_legazpi_ph_ed8433d2",
-      "title": "Brigada News FM Legazpi",
-      "subtitle": "Radio",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 128,
-      "streamUrl": "http://18.141.67.248:8048/stream/1/"
     },
     {
       "id": "aksyon_radyo_catarman_ph_4a29e076",
@@ -16999,6 +16950,150 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://anadolu.liderhost.com.tr/9078/stream"
+    },
+    {
+      "id": "station_tw_6700bd13",
+      "title": "海峽之聲廣播電台",
+      "subtitle": "Information",
+      "location": "Taiwan, Republic Of China",
+      "genre": "Information",
+      "countryCode": "TW",
+      "language": "chinese",
+      "clickCount": 14,
+      "bitrate": 0,
+      "streamUrl": "http://ls.qingting.fm/live/1744.m3u8"
+    },
+    {
+      "id": "radiotedu_tr_928a058a",
+      "title": "RadioTEDU",
+      "subtitle": "Ankara",
+      "location": "Türkiye",
+      "genre": "Ankara",
+      "countryCode": "TR",
+      "language": "turkish",
+      "clickCount": 10,
+      "bitrate": 192,
+      "streamUrl": "https://stream.radiotedu.com/radio"
+    },
+    {
+      "id": "radiotedu_jazz_tr_2de8ae38",
+      "title": "RadioTEDU Jazz",
+      "subtitle": "Ankara",
+      "location": "Türkiye",
+      "genre": "Ankara",
+      "countryCode": "TR",
+      "language": "turkish",
+      "clickCount": 9,
+      "bitrate": 192,
+      "streamUrl": "https://stream.radiotedu.com/cazz"
+    },
+    {
+      "id": "radiotedu_energize_tr_31b4f346",
+      "title": "RadioTEDU Energize",
+      "subtitle": "Ankara",
+      "location": "Türkiye",
+      "genre": "Ankara",
+      "countryCode": "TR",
+      "language": "turkish",
+      "clickCount": 9,
+      "bitrate": 192,
+      "streamUrl": "https://stream.radiotedu.com/energize"
+    },
+    {
+      "id": "radiotedu_classic_tr_dea0bb36",
+      "title": "RadioTEDU Classic",
+      "subtitle": "Ankara",
+      "location": "Türkiye",
+      "genre": "Ankara",
+      "countryCode": "TR",
+      "language": "turkish",
+      "clickCount": 8,
+      "bitrate": 192,
+      "streamUrl": "https://stream.radiotedu.com/classic"
+    },
+    {
+      "id": "radiotedu_lo_fi_tr_f3eb6429",
+      "title": "RadioTEDU Lo-Fi",
+      "subtitle": "Ankara",
+      "location": "Türkiye",
+      "genre": "Ankara",
+      "countryCode": "TR",
+      "language": "turkish",
+      "clickCount": 8,
+      "bitrate": 192,
+      "streamUrl": "https://stream.radiotedu.com/lofi"
+    },
+    {
+      "id": "radiotedu_rock_tr_d4c36b4c",
+      "title": "RadioTEDU Rock",
+      "subtitle": "Alternative",
+      "location": "Türkiye",
+      "genre": "Alternative",
+      "countryCode": "TR",
+      "language": "turkish",
+      "clickCount": 8,
+      "bitrate": 192,
+      "streamUrl": "https://stream.radiotedu.com/rock"
+    },
+    {
+      "id": "radiotedu_classic_flac_tr_701b20a4",
+      "title": "RadioTEDU Classic FLAC",
+      "subtitle": "Ankara",
+      "location": "Türkiye",
+      "genre": "Ankara",
+      "countryCode": "TR",
+      "language": "turkish",
+      "clickCount": 7,
+      "bitrate": 320,
+      "streamUrl": "https://stream.radiotedu.com/classic-flac"
+    },
+    {
+      "id": "radiotedu_jazz_flac_tr_6008ea5e",
+      "title": "RadioTEDU Jazz FLAC",
+      "subtitle": "Ankara",
+      "location": "Türkiye",
+      "genre": "Ankara",
+      "countryCode": "TR",
+      "language": "turkish",
+      "clickCount": 7,
+      "bitrate": 320,
+      "streamUrl": "https://stream.radiotedu.com/cazz-flac"
+    },
+    {
+      "id": "brigada_news_fm_legazpi_ph_ed8433d2",
+      "title": "Brigada News FM Legazpi",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "http://18.141.67.248:8048/stream/1/"
+    },
+    {
+      "id": "radyo_bi_tli_s_eren_tr_f0a737ef",
+      "title": "Radyo Bi̇tli̇s Eren",
+      "subtitle": "Radio",
+      "location": "Türkiye",
+      "genre": "Radio",
+      "countryCode": "TR",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 36,
+      "streamUrl": "https://sslyayin.netyayin.net/1313/stream"
+    },
+    {
+      "id": "semerkand_radyo_tr_893a8f38",
+      "title": "Semerkand Radyo",
+      "subtitle": "Radio",
+      "location": "Türkiye",
+      "genre": "Radio",
+      "countryCode": "TR",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://canliyayin.semerkandradyo.com.tr/hls/Radyo/playlist.m3u8"
     }
   ]
 }
