@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-28T03:39:09Z",
+  "updated": "2026-09-29T04:15:19Z",
   "region": "europe",
   "part": 8,
   "of": 8,
@@ -19797,19 +19797,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_r_dio_vlna_oldies_party_2fb5eb01",
-      "title": "Rádio Vlna Oldies Party",
-      "subtitle": "Oldies",
-      "imageUrl": "https://cdn.radiovlna.sk/img/logo/apple-touch-icon.png?v=2023-10-09-10-40",
-      "streamUrl": "https://stream.radiovlna.sk/party-hi.mp3",
-      "location": "Slovakia",
-      "genre": "Oldies",
-      "countryCode": "SK",
-      "language": "slovak",
-      "clickCount": 3,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_sky_r_dio_9633f1f6",
       "title": "SKY Rádio",
       "subtitle": "Local News, News",
@@ -21954,19 +21941,6 @@
       "bitrate": 281
     },
     {
-      "id": "rb2_radio_culture_9789f823",
-      "title": "Радіо Культура / Radio Culture",
-      "subtitle": "Classical Music, Culture",
-      "imageUrl": "",
-      "streamUrl": "http://radio.ukr.radio:8000/ur3-mp3",
-      "location": "Ukraine",
-      "genre": "Classical Music",
-      "countryCode": "UA",
-      "language": "ukrainian",
-      "clickCount": 0,
-      "bitrate": 192
-    },
-    {
       "id": "rb2_station_81c9a275",
       "title": "Радіо Магніт",
       "subtitle": "Information, Local News",
@@ -22191,19 +22165,6 @@
       "language": null,
       "clickCount": 1,
       "bitrate": 320
-    },
-    {
-      "id": "rb2_fm_705a8179",
-      "title": "Радіо Шлягер FM",
-      "subtitle": "Information, Music",
-      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250111_141908308.jpg?alt=media&token=5b476f2f-6a30-4b8b-8d70-96c135e82ca8",
-      "streamUrl": "https://cast.brg.ua/shanson_main_public_mp3_hq",
-      "location": "Ukraine",
-      "genre": "Information",
-      "countryCode": "UA",
-      "language": "ukrainian",
-      "clickCount": 3,
-      "bitrate": 224
     },
     {
       "id": "rb2_103_7_44d8387f",
@@ -25301,6 +25262,102 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "https://amoris.sknt.ru/dubtechno.mp3"
+    },
+    {
+      "id": "caprice_indian_folk_ru_c3bfce0c",
+      "title": "caprice indian folk",
+      "subtitle": "Radio",
+      "location": "The Russian Federation",
+      "genre": "Radio",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 48,
+      "streamUrl": "http://79.111.14.76:8002/indianfolk"
+    },
+    {
+      "id": "promodj_too_deep_ru_877395c8",
+      "title": "PromoDJ - Too Deep",
+      "subtitle": "Deep House",
+      "location": "The Russian Federation",
+      "genre": "Deep House",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "http://radio.promodj.com:8000/toodeep-192"
+    },
+    {
+      "id": "100_7_fm_ru_3f41528e",
+      "title": "Радио Юнитон Новосибирск 100.7 FM",
+      "subtitle": "Pop Music",
+      "location": "The Russian Federation",
+      "genre": "Pop Music",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://online.uniton.ru/mp3/uniton"
+    },
+    {
+      "id": "fm_ru_75c20da4",
+      "title": "Салют Fm Мелодия",
+      "subtitle": "50",
+      "location": "The Russian Federation",
+      "genre": "50",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream.salyutfm.ru:4020/stream"
+    },
+    {
+      "id": "radio_sputnik_volgograd_105_1fm_ru_1801704c",
+      "title": "Radio Sputnik Volgograd 105.1FM",
+      "subtitle": "2000S",
+      "location": "The Russian Federation",
+      "genre": "2000S",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://online.sputnikfm.ru/sputnik_mp3"
+    },
+    {
+      "id": "anima_amoris_idm_ru_d5d3d725",
+      "title": "Anima Amoris IDM",
+      "subtitle": "Radio",
+      "location": "The Russian Federation",
+      "genre": "Radio",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://amoris.sknt.ru/idm.mp3"
+    },
+    {
+      "id": "atmosfera_48_ru_5fee0225",
+      "title": "Atmosfera 48",
+      "subtitle": "Radio",
+      "location": "The Russian Federation",
+      "genre": "Radio",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 47,
+      "streamUrl": "https://listen10.myradio24.com/atmo_48"
+    },
+    {
+      "id": "256kbps_ru_3f238619",
+      "title": "Радио Орфей - Хоры из опер 256kbps",
+      "subtitle": "Choir",
+      "location": "The Russian Federation",
+      "genre": "Choir",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 3,
+      "bitrate": 256,
+      "streamUrl": "https://channels.fonotron.ru:8000/Chan_62_256.mp3"
     }
   ]
 }

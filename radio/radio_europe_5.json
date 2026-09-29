@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-28T03:39:09Z",
+  "updated": "2026-09-29T04:15:19Z",
   "region": "europe",
   "part": 5,
   "of": 8,
@@ -15076,19 +15076,6 @@
       "countryCode": "HU"
     },
     {
-      "id": "rb2_n_ta_fm_48k_aac_6697d4ae",
-      "title": "Nóta FM - 48k AAC+",
-      "subtitle": "Folk",
-      "imageUrl": "",
-      "streamUrl": "http://live.notafm.hu:8000/notafm",
-      "location": "Hungary",
-      "genre": "Folk",
-      "countryCode": "HU",
-      "language": "hungarian",
-      "clickCount": 1,
-      "bitrate": 48
-    },
-    {
       "id": "rb2_only1_electro_63c29edb",
       "title": "ONLY1 - Electro",
       "subtitle": "Electro, Electro House",
@@ -27843,6 +27830,54 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://stream.laut.fm/soloanni80"
+    },
+    {
+      "id": "clubflashh_radio_hu_76d6934a",
+      "title": "CLUBFLASHH RADIO",
+      "subtitle": "Dance",
+      "location": "Hungary",
+      "genre": "Dance",
+      "countryCode": "HU",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 320,
+      "streamUrl": "https://clubflashh.streammachine.co.uk/stream/clubflashh"
+    },
+    {
+      "id": "radio_futura_station_it_82f0b68b",
+      "title": "Radio Futura Station",
+      "subtitle": "Radio",
+      "location": "Italy",
+      "genre": "Radio",
+      "countryCode": "IT",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://nr14.newradio.it:8767/stream?ext=.mp3"
+    },
+    {
+      "id": "il_camillofono_it_0e36e8db",
+      "title": "Il Camillofono",
+      "subtitle": "Ambient",
+      "location": "Italy",
+      "genre": "Ambient",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://radio.celodex.com/stream/camillofono.mp3"
+    },
+    {
+      "id": "radioluna_dj_it_064d1f25",
+      "title": "Radioluna DJ",
+      "subtitle": "Dance",
+      "location": "Italy",
+      "genre": "Dance",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "http://radioluna.no-ip.info:8000/luna"
     }
   ]
 }

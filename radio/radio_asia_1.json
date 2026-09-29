@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-28T03:39:09Z",
+  "updated": "2026-09-29T04:15:19Z",
   "region": "asia",
   "part": 1,
   "of": 3,
@@ -26756,18 +26756,6 @@
       "streamUrl": "http://119.28.21.93/radio/cctv12.mp3"
     },
     {
-      "id": "cctv1_cn_7f462224",
-      "title": "CCTV1",
-      "subtitle": "Radio",
-      "location": "China",
-      "genre": "Radio",
-      "countryCode": "CN",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 8200,
-      "streamUrl": "http://8.138.7.223/%E3%80%90%E5%85%AC%E4%BC%97%E5%8F%B7%EF%BC%9A%E6%A6%B4%E8%8A%92%E7%94%B5%E8%A7%86%E3%80%91/cctv1.m3u8"
-    },
-    {
       "id": "station_cn_97d1b186",
       "title": "吉林新闻综合广播",
       "subtitle": "Information",
@@ -27006,18 +26994,6 @@
       "clickCount": 4,
       "bitrate": 637,
       "streamUrl": "https://admn-radio-cdn-lb.starzplayarabia.com/out/v1/admn_radio_enc/abudhabi_fm/abudhabi_fm_hls_nd/index.m3u8"
-    },
-    {
-      "id": "2_cn_3d81e96e",
-      "title": "上虞广播-2",
-      "subtitle": "Radio",
-      "location": "China",
-      "genre": "Radio",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 3,
-      "bitrate": 0,
-      "streamUrl": "https://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8"
     },
     {
       "id": "station_cn_d5011d99",
@@ -27534,6 +27510,30 @@
       "clickCount": 3,
       "bitrate": 2560,
       "streamUrl": "https://hplayer1.juyun.tv/camera/115987102.m3u8"
+    },
+    {
+      "id": "araz_supermarket_radio_az_31a64f7c",
+      "title": "Araz Supermarket Radio",
+      "subtitle": "Radio",
+      "location": "Azerbaijan",
+      "genre": "Radio",
+      "countryCode": "AZ",
+      "language": "azerbaijani",
+      "clickCount": 3,
+      "bitrate": 64,
+      "streamUrl": "http://5.191.241.101:8000/arazmarket"
+    },
+    {
+      "id": "station_cn_9e9ec942",
+      "title": "呼和浩特综合广播",
+      "subtitle": "News",
+      "location": "China",
+      "genre": "News",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://lhttp.qingting.fm/live/5021543/64k.mp3"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-28T03:39:09Z",
+  "updated": "2026-09-29T04:15:19Z",
   "region": "europe",
   "part": 6,
   "of": 8,
@@ -7570,19 +7570,6 @@
       "bitrate": 128000
     },
     {
-      "id": "rb2_radio_pik_100_fm_c604cca3",
-      "title": "Radio Pik 100 FM",
-      "subtitle": "Radio",
-      "imageUrl": "https://pik.lv/wp-content/uploads/2019/03/cropped-fav_pik-180x180.jpg",
-      "streamUrl": "http://91.90.255.85:8000/01",
-      "location": "Рига, Latvia",
-      "genre": "Radio",
-      "countryCode": "LV",
-      "language": "russian",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_radio_roks_51774bc8",
       "title": "Radio Roks",
       "subtitle": "Radio",
@@ -11138,19 +11125,6 @@
       "language": "dutch",
       "clickCount": 0,
       "bitrate": 256
-    },
-    {
-      "id": "rb2_den_haag_fm_4fbc46d8",
-      "title": "Den Haag FM",
-      "subtitle": "Radio",
-      "imageUrl": "https://s.regiogroei.cloud/img/brand-logos/resized/logo_denhaagfm.jpg",
-      "streamUrl": "http://server3.radio-streams.net:8012/denhaagfm",
-      "location": "The Netherlands",
-      "genre": "Radio",
-      "countryCode": "NL",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 192
     },
     {
       "id": "rb2_deventer_radio_c760634f",
@@ -18516,19 +18490,6 @@
       "language": "dutch",
       "clickCount": 0,
       "bitrate": 192
-    },
-    {
-      "id": "rb2_vivamixradio_997c9083",
-      "title": "VivamixRadio",
-      "subtitle": "Radio",
-      "imageUrl": "https://vivamixradio.com/wp-content/uploads/2026/02/cropped-headervivamix-768x146.png",
-      "streamUrl": "https://a7.asurahosting.com:9080/radio.mp3?1773614001950",
-      "location": "The Netherlands",
-      "genre": "Radio",
-      "countryCode": "NL",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
     },
     {
       "id": "rb2_vlietstad_f506e423",
@@ -27555,6 +27516,66 @@
       "clickCount": 4,
       "bitrate": 96,
       "streamUrl": "http://stream.europeanhitradio.com:8000/khr.aac"
+    },
+    {
+      "id": "zlv_zuid_limburg_vandaag_nl_102a1b30",
+      "title": "ZLV Zuid-Limburg Vandaag",
+      "subtitle": "Radio",
+      "location": "The Netherlands",
+      "genre": "Radio",
+      "countryCode": "NL",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "https://audiostream.easy-point.nl/proxy/heuvelland/stream"
+    },
+    {
+      "id": "star_radio_urban_folk_skopje_macedonia_mk_b975b8e4",
+      "title": "Star Radio (Urban Folk) Skopje, Macedonia",
+      "subtitle": "Macedonian Folk",
+      "location": "Republic Of North Macedonia",
+      "genre": "Macedonian Folk",
+      "countryCode": "MK",
+      "language": "macedonian",
+      "clickCount": 4,
+      "bitrate": 320,
+      "streamUrl": "https://radiostar.pro/stream/narodna.php"
+    },
+    {
+      "id": "radio_45_giri_it_a946698a",
+      "title": "Radio 45 Giri",
+      "subtitle": "Radio",
+      "location": "Italy",
+      "genre": "Radio",
+      "countryCode": "IT",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://sp3.server89.com/8096/;"
+    },
+    {
+      "id": "bang_bang_radio_it_d20f8cc6",
+      "title": "Bang Bang Radio",
+      "subtitle": "Radio",
+      "location": "Italy",
+      "genre": "Radio",
+      "countryCode": "IT",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://nr7.newradio.it/proxy/danfoi00?mp=/stream?1731681345731"
+    },
+    {
+      "id": "nrk_radio_super_no_516dcdcd",
+      "title": "NRK Radio_Super",
+      "subtitle": "Radio",
+      "location": "Norway",
+      "genre": "Radio",
+      "countryCode": "NO",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 192,
+      "streamUrl": "https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/radio_super"
     }
   ]
 }

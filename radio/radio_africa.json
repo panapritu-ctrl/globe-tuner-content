@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-28T03:39:09Z",
+  "updated": "2026-09-29T04:15:19Z",
   "region": "africa",
   "stations": [
     {
@@ -3475,15 +3475,6 @@
       "language": "tamil",
       "clickCount": 1,
       "bitrate": 192
-    },
-    {
-      "id": "amaryllis_e_radio_mw",
-      "title": "Amaryllis E-Radio",
-      "subtitle": "MP3 64kbps",
-      "location": "Malawi",
-      "genre": "Music",
-      "countryCode": "MW",
-      "streamUrl": "https://s4.radio.co/s40c05d6b1/low"
     },
     {
       "id": "groove100_fm_mw",
@@ -8784,18 +8775,6 @@
       "streamUrl": "https://medinafm.ice.infomaniak.ch/medinafm-128.mp3"
     },
     {
-      "id": "happy_fm_gh_021125f4",
-      "title": "Happy Fm",
-      "subtitle": "News",
-      "location": "Ghana",
-      "genre": "News",
-      "countryCode": "GH",
-      "language": "akan",
-      "clickCount": 4,
-      "bitrate": 128,
-      "streamUrl": "https://atunwadigital.streamguys1.com/happyfm989accra"
-    },
-    {
       "id": "fresh_105_9_fm_ibadan_ng_b7af4fb7",
       "title": "Fresh 105.9 FM Ibadan",
       "subtitle": "Ibadan",
@@ -10642,6 +10621,42 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://radio.legenduganda.com/live"
+    },
+    {
+      "id": "nana_fm_togo_tg_f7ef9778",
+      "title": "Nana FM Togo",
+      "subtitle": "Radio",
+      "location": "Togo",
+      "genre": "Radio",
+      "countryCode": "TG",
+      "language": "french",
+      "clickCount": 6,
+      "bitrate": 64,
+      "streamUrl": "https://srv1269271.hstgr.cloud/;?type=http&nocache=16"
+    },
+    {
+      "id": "capital_radio_604_za_ec5770f3",
+      "title": "Capital Radio 604",
+      "subtitle": "The Best Of 80'S",
+      "location": "South Africa",
+      "genre": "The Best Of 80'S",
+      "countryCode": "ZA",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://streaming.galaxywebsolutions.com/proxy/capitalradio604?mp=/stream"
+    },
+    {
+      "id": "nehestrat_fm_tz_406b18c9",
+      "title": "Nehestrat FM",
+      "subtitle": "Radio",
+      "location": "United Republic Of Tanzania",
+      "genre": "Radio",
+      "countryCode": "TZ",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 96,
+      "streamUrl": "https://eu8.fastcast4u.com/proxy/nehestratfm?mp=/1"
     }
   ]
 }

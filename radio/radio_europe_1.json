@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-28T03:39:09Z",
+  "updated": "2026-09-29T04:15:19Z",
   "region": "europe",
   "part": 1,
   "of": 8,
@@ -3300,19 +3300,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_yu_radio_70c4ccac",
-      "title": "Yu Radio",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://stream.radiotechnikum.at:80/YURADIO",
-      "location": "Austria",
-      "genre": "Radio",
-      "countryCode": "AT",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 96
-    },
-    {
       "id": "rb2_yves_joseph_9e7be5b3",
       "title": "Yves Joseph",
       "subtitle": "Radio",
@@ -5169,15 +5156,6 @@
       "language": "french",
       "clickCount": 0,
       "bitrate": 64
-    },
-    {
-      "id": "instrumental_radio_be_be_c12a04",
-      "title": "Instrumental Radio, Be",
-      "subtitle": "Entertainment",
-      "location": "Belgium",
-      "genre": "Entertainment",
-      "countryCode": "BE",
-      "streamUrl": "http://streams.shoutcastsolutions.com:8599/stream"
     },
     {
       "id": "instrumentals_forever_be_1f7dad",
@@ -27801,18 +27779,6 @@
       "streamUrl": "https://sophiecafferadio.live/sophie.mp3"
     },
     {
-      "id": "imperia_radio_ba_253b00c7",
-      "title": "Imperia Radio",
-      "subtitle": "Radio",
-      "location": "Bosnia And Herzegovina",
-      "genre": "Radio",
-      "countryCode": "BA",
-      "language": "bosnian",
-      "clickCount": 2,
-      "bitrate": 128,
-      "streamUrl": "https://webtvstream.bhtelecom.ba/imperia_radio.m3u8"
-    },
-    {
       "id": "radio_steiermark_at_d03f3f27",
       "title": "Radio Steiermark",
       "subtitle": "Radio",
@@ -30667,6 +30633,186 @@
       "clickCount": 3,
       "bitrate": 128,
       "streamUrl": "https://radio.jump.bg/proxy/feed82?mp=/coda"
+    },
+    {
+      "id": "egofm_pure_de_e4cd357d",
+      "title": "EgoFM Pure",
+      "subtitle": "Alternative",
+      "location": "Germany",
+      "genre": "Alternative",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://cast.egofm.de/egopure.mp3?ar-distributor=ffa0&aw_0_req.gdpr=true"
+    },
+    {
+      "id": "easy_radio_flac_bg_592f88fa",
+      "title": "Easy Radio FLAC",
+      "subtitle": "Relaxation Music",
+      "location": "Bulgaria",
+      "genre": "Relaxation Music",
+      "countryCode": "BG",
+      "language": "bulgarian",
+      "clickCount": 4,
+      "bitrate": 1536,
+      "streamUrl": "https://c30.radioboss.fm:8758/autodj"
+    },
+    {
+      "id": "star_fm_maximum_rock_country_rock_de_53992d9b",
+      "title": "Star FM Maximum Rock | Country Rock",
+      "subtitle": "Country Rock",
+      "location": "Germany",
+      "genre": "Country Rock",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://stream.starfm.de/country/aac-64/iradio"
+    },
+    {
+      "id": "rt1_chillout_lounge_de_18dc7117",
+      "title": "RT1 Chillout Lounge",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://edge18.streamonkey.net/rt1-ch20/stream/mp3?aggregator=rt1_web&aw_0_1st.playerid=rt1_web&aw_0_1st.source=imsuden_web&aw_0_req.gdpr=false"
+    },
+    {
+      "id": "radio_regenbogen_90er_dance_de_b0cf67cf",
+      "title": "Radio Regenbogen 90er Dance",
+      "subtitle": "90Er",
+      "location": "Germany",
+      "genre": "90Er",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://stream.regenbogen.de/90erdance/mp3-128/radiobrowser"
+    },
+    {
+      "id": "radio_bob_southern_rock_aac_64_kbps_de_b3d62791",
+      "title": "RADIO BOB - Southern Rock [aac | 64 kbps]",
+      "subtitle": "Alternative",
+      "location": "Germany",
+      "genre": "Alternative",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://streams.radiobob.de/southernrock/aac-64/streams.radiobob.de/"
+    },
+    {
+      "id": "89_0_rtl_2010er_de_ca1134d0",
+      "title": "89.0 RTL 2010er",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://stream.89.0rtl.de/2010er/mp3-256"
+    },
+    {
+      "id": "popwelle_w_rthersee_autodj_at_73cf893a",
+      "title": "Popwelle Wörthersee,AutoDJ",
+      "subtitle": "Musik Der 90Er",
+      "location": "Austria",
+      "genre": "Musik Der 90Er",
+      "countryCode": "AT",
+      "language": "german",
+      "clickCount": 3,
+      "bitrate": 320,
+      "streamUrl": "https://popwellezwei.sp.radio.fm/stream"
+    },
+    {
+      "id": "antenne_bayern_in_the_mix_de_c08403b4",
+      "title": "Antenne Bayern In the mix",
+      "subtitle": "Pop Music",
+      "location": "Germany",
+      "genre": "Pop Music",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://stream.antenne.de/in-the-mix/stream/mp3"
+    },
+    {
+      "id": "89_0_rtl_90er_de_75e8bf54",
+      "title": "89.0 RTL 90er",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://stream.89.0rtl.de/90er/mp3-256"
+    },
+    {
+      "id": "rt1_coffee_de_fea77ba1",
+      "title": "RT1 Coffee",
+      "subtitle": "Coffee",
+      "location": "Germany",
+      "genre": "Coffee",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://frontend.streamonkey.net/rt1-ch28/stream/mp3"
+    },
+    {
+      "id": "ella_radio_late_night_jazz_de_02f431d8",
+      "title": "Ella Radio - Late Night Jazz",
+      "subtitle": "Jazz",
+      "location": "Germany",
+      "genre": "Jazz",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 3,
+      "bitrate": 192,
+      "streamUrl": "https://stream.ella-radio.de/ella-late-night-jazz/mp3-192/?ref=radio-browser"
+    },
+    {
+      "id": "freie_radios_berlin_brandenburg_de_964b195f",
+      "title": "Freie Radios Berlin Brandenburg",
+      "subtitle": "88Vier",
+      "location": "Germany",
+      "genre": "88Vier",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 3,
+      "bitrate": 320,
+      "streamUrl": "https://streaming.fueralle.org/fr-bb"
+    },
+    {
+      "id": "radio_nordseewelle_de_ae46e298",
+      "title": "Radio Nordseewelle",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://nsw.streamabc.net/nsw-radionswlive-mp3-192-5305115?sABC=6553rs55%230%23761n8r0r980r33n36p5n8or875p093oq%23enqvbcynlre&rp_source=1&___cb=985703115692634&aw_0_1st.playerid=radioplayer&amsparams=playerid:radioplayer;skey:1699999573"
+    },
+    {
+      "id": "europa_radio_de_4cc3cb3f",
+      "title": "Europa Radio",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://frontend.streamonkey.net/fho-europaradio/stream/mp3"
     }
   ]
 }

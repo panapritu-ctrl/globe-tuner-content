@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-28T03:39:09Z",
+  "updated": "2026-09-29T04:15:19Z",
   "region": "europe",
   "part": 7,
   "of": 8,
@@ -5104,15 +5104,6 @@
       "bitrate": 128
     },
     {
-      "id": "radio_cantinho_da_madeira_pt_4433ce",
-      "title": "Radio Cantinho da Madeira",
-      "subtitle": "Local Music",
-      "location": "Madeira, Portugal",
-      "genre": "Local Music",
-      "streamUrl": "http://109.71.41.6:8129/stream",
-      "countryCode": "PT"
-    },
-    {
       "id": "radio_comercial_portugal_pt_44cb20",
       "title": "Radio Comercial Portugal",
       "subtitle": "Radio",
@@ -9273,19 +9264,6 @@
       "language": null,
       "clickCount": 0,
       "bitrate": 224
-    },
-    {
-      "id": "rb2_nova_fm_bra_ov_98_2_fm_86106526",
-      "title": "Nova FM -Brașov 98,2 FM",
-      "subtitle": "Local, Music",
-      "imageUrl": "https://scontent.fotp3-1.fna.fbcdn.net/v/t39.30808-1/305299281_442743904546194_6317419174417381296_n.png?stp=dst-png_s200x200&_nc_cat=111&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=JtnW4aMdKtwQ7kNvwG3XnkK&_nc_oc=AdqK96Y8gEbT4QfD7Sb7Y3-yp8vRsPKm-PyuVSdeoTlDML8GIEaJEhPUmSNnYbAmWHdiWJsdgIcvJveACjGRLpdF&_nc_zt=24&_nc_ht=scontent.fotp3-1.fna&_nc_gid=aDzLOzjUqmfP7Gph8_HFJQ&_nc_ss=7b289&oh=00_Af7V-Drd7Mq2Fd47BLCzE04iq8pAHK9dIWcpALHoVFJaMw&oe=69FF8654",
-      "streamUrl": "http://86.125.106.34:8000/live",
-      "location": "Romania",
-      "genre": "Local",
-      "countryCode": "RO",
-      "language": "română",
-      "clickCount": 0,
-      "bitrate": 96
     },
     {
       "id": "rb2_ok_music_radio_boto_ani_2d1c0692",
@@ -25868,6 +25846,114 @@
       "clickCount": 4,
       "bitrate": 320,
       "streamUrl": "http://antenaradio.org:4560/;stream.nsv"
+    },
+    {
+      "id": "fiorda_fm_pl_808df131",
+      "title": "Fiorda.fm",
+      "subtitle": "Disco",
+      "location": "Poland",
+      "genre": "Disco",
+      "countryCode": "PL",
+      "language": "polish",
+      "clickCount": 5,
+      "bitrate": 320,
+      "streamUrl": "http://cast1.torontocast.com:2280/;?type=http&nocache=42"
+    },
+    {
+      "id": "ebs_radio_blues_cluj_napoca_ro_ebbb74ca",
+      "title": "EBS Radio Blues -Cluj Napoca",
+      "subtitle": "Blues",
+      "location": "Romania",
+      "genre": "Blues",
+      "countryCode": "RO",
+      "language": "română",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://azura.ebsmedia.ro/listen/blues/blues128.mp3?refresh=1779028682377"
+    },
+    {
+      "id": "radio_ingrid_pl_f1370e11",
+      "title": "Radio Ingrid",
+      "subtitle": "Radio",
+      "location": "Poland",
+      "genre": "Radio",
+      "countryCode": "PL",
+      "language": "polish",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://radio-ingrid.radiocult.fm/stream"
+    },
+    {
+      "id": "lecymbal_l_aperitivo_ro_52f7f8e9",
+      "title": "LECYMBAL L'Aperitivo",
+      "subtitle": "Radio",
+      "location": "Romania",
+      "genre": "Radio",
+      "countryCode": "RO",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 320,
+      "streamUrl": "https://radio.lecymbal.ro/listen/aperitivo/radio.mp3"
+    },
+    {
+      "id": "antena_3_aac_pt_8add5ee5",
+      "title": "Antena 3 (AAC)",
+      "subtitle": "Alternative",
+      "location": "Portugal",
+      "genre": "Alternative",
+      "countryCode": "PT",
+      "language": "portuguese",
+      "clickCount": 3,
+      "bitrate": 168,
+      "streamUrl": "http://streaming-live-app.rtp.pt/liveradio/antena380a/playlist.m3u8"
+    },
+    {
+      "id": "shamanu_ro_15f46cb1",
+      "title": "SHAMANU",
+      "subtitle": "Deep Techno",
+      "location": "Romania",
+      "genre": "Deep Techno",
+      "countryCode": "RO",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://shamanu.live/stream"
+    },
+    {
+      "id": "ebs_radio_electro_cluj_napoca_ro_b59eeb27",
+      "title": "EBS Radio Electro -Cluj Napoca",
+      "subtitle": "Electro",
+      "location": "Romania",
+      "genre": "Electro",
+      "countryCode": "RO",
+      "language": "română",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://azura.ebsmedia.ro/listen/electro/electro128.mp3?refresh=1779028296999"
+    },
+    {
+      "id": "sona_fm_ro_a25c25bd",
+      "title": "Sona FM",
+      "subtitle": "Chill",
+      "location": "Romania",
+      "genre": "Chill",
+      "countryCode": "RO",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://ssl.omegahost.ro/8026/stream"
+    },
+    {
+      "id": "superfm_brasov_93_8_fm_ro_bdd5f01e",
+      "title": "SuperFM Brasov 93.8 FM",
+      "subtitle": "Radio",
+      "location": "Romania",
+      "genre": "Radio",
+      "countryCode": "RO",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 192,
+      "streamUrl": "https://live.superfm.ro/stream.mp3?nocache=0.19023860954617056"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-28T03:39:09Z",
+  "updated": "2026-09-29T04:15:19Z",
   "region": "americas",
   "part": 3,
   "of": 5,
@@ -21128,19 +21128,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb_music_radio_97_1_fm_83df748f",
-      "title": "Music Radio 97.1 FM",
-      "subtitle": "Radio",
-      "imageUrl": "https://www.musicradio97.com/favicon.ico",
-      "streamUrl": "https://ice42.securenetsystems.net/MR97?playSessionID=C3852F04-F653-4223-80E2177BC1CE1988",
-      "location": "Port of Spain, Trinidad And Tobago",
-      "genre": "Radio",
-      "countryCode": "TT",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 32
-    },
-    {
       "id": "radio_tambrin_92_7_scarborough_tt",
       "title": "Radio Tambrin 92.7 - Scarborough",
       "subtitle": "Caribbean Music / Local News",
@@ -26467,18 +26454,6 @@
       "streamUrl": "https://copaco.desdeparaguay.net/movamor/movamor.stream/playlist.m3u8"
     },
     {
-      "id": "sin_fronteras_98_5_fm_py_d0bf1bb9",
-      "title": "Sin Fronteras 98.5 FM",
-      "subtitle": "Disco",
-      "location": "Paraguay",
-      "genre": "Disco",
-      "countryCode": "PY",
-      "language": "spanish",
-      "clickCount": 2,
-      "bitrate": 250,
-      "streamUrl": "http://tigocloud.desdeparaguay.net/movsinfronteras/movsinfronteras.stream/playlist.m3u8"
-    },
-    {
       "id": "arielfmeza_mx_1de5b02d",
       "title": "arielfmeza",
       "subtitle": "Radio",
@@ -26825,6 +26800,30 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "https://rds3.desdeparaguay.net/movemisoras/movemisoras.stream/chunklist_w1882715633.m3u8?k=90ba439d59a58390e5abac95530dd4becd61b4e573b237e6fe0bf9eb4a529caf&exp=1693084452"
+    },
+    {
+      "id": "102_1_vive_fm_sv_e2d939af",
+      "title": "102.1 VIVE FM",
+      "subtitle": "102.1 Fm",
+      "location": "El Salvador",
+      "genre": "102.1 Fm",
+      "countryCode": "SV",
+      "language": "english",
+      "clickCount": 9,
+      "bitrate": 128,
+      "streamUrl": "https://jfm1.hostingradio.ru:14536/rock80.mp3"
+    },
+    {
+      "id": "107_7_fuego_fm_sv_99f923bb",
+      "title": "107.7 Fuego FM",
+      "subtitle": "107.7 Fm",
+      "location": "El Salvador",
+      "genre": "107.7 Fm",
+      "countryCode": "SV",
+      "language": "english",
+      "clickCount": 7,
+      "bitrate": 0,
+      "streamUrl": "https://mgvfuego-ioriver-cdn.encoders.immergo.tv/0/streamPlaylist.m3u8"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-28T03:39:09Z",
+  "updated": "2026-09-29T04:15:19Z",
   "region": "americas",
   "part": 1,
   "of": 5,
@@ -2231,19 +2231,6 @@
       "bitrate": 64
     },
     {
-      "id": "rb2_fm_digital_100_1_a9d96e2a",
-      "title": "FM Digital 100.1",
-      "subtitle": "70S, 80S",
-      "imageUrl": "https://www.fmdigital.onlineradio.com.ar/img/logo.jpg?16095",
-      "streamUrl": "https://streaming01.radiosenlinea.com.ar:10346/stream",
-      "location": "Argentina",
-      "genre": "70S",
-      "countryCode": "AR",
-      "language": "spanish",
-      "clickCount": 0,
-      "bitrate": 48
-    },
-    {
       "id": "rb2_fm_dimension_100_3_0c626033",
       "title": "FM Dimension 100.3",
       "subtitle": "Entretenimiento, Hits",
@@ -2470,19 +2457,6 @@
       "subtitle": "Radio",
       "imageUrl": "https://radioarg.net/storage/radios/7736/9858/conversions/redonda-fm-1003-lg.webp",
       "streamUrl": "https://01.solumedia.com.ar:8290/stream?icy=http",
-      "location": "Argentina",
-      "genre": "Radio",
-      "countryCode": "AR",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 48
-    },
-    {
-      "id": "rb2_fm_la_ruta_95_7_c9f814ec",
-      "title": "FM La Ruta 95.7",
-      "subtitle": "Radio",
-      "imageUrl": "https://radioarg.net/storage/radios/7956/10078/conversions/la-ruta-fm-957-lg.webp",
-      "streamUrl": "https://server4.hostradios.com:7085/live",
       "location": "Argentina",
       "genre": "Radio",
       "countryCode": "AR",
@@ -22705,19 +22679,6 @@
       "bitrate": 320
     },
     {
-      "id": "rb2_bpm_sport_91_9_4b3578d5",
-      "title": "BPM Sport 91.9",
-      "subtitle": "Radio",
-      "imageUrl": "https://media.bpmsports.ca/2023/05/BPM_Sports_logo_main.svg",
-      "streamUrl": "https://stream.bpmsports.ca/cklx.mp3",
-      "location": "Canada",
-      "genre": "Radio",
-      "countryCode": "CA",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 64
-    },
-    {
       "id": "energia_fm_97_fm_br_d8bbd660",
       "title": "Energia FM (97 FM)",
       "subtitle": "Radio",
@@ -26966,18 +26927,6 @@
       "streamUrl": "https://streaming.radio.co/s735df8c1c/listen"
     },
     {
-      "id": "cjoy_1460_greatest_hits_guelph_on_ca_6a0c7c52",
-      "title": "CJOY 1460 \"Greatest Hits\" Guelph, ON",
-      "subtitle": "Commercial",
-      "location": "Canada",
-      "genre": "Commercial",
-      "countryCode": "CA",
-      "language": "english",
-      "clickCount": 2,
-      "bitrate": 57,
-      "streamUrl": "http://live.leanstream.co/CJOYAM"
-    },
-    {
       "id": "89_net_radio_ar_6ece42cb",
       "title": "89 Net Radio",
       "subtitle": "Pop Rock",
@@ -28140,6 +28089,30 @@
       "clickCount": 3,
       "bitrate": 128,
       "streamUrl": "http://live.leanstream.co/CINGFM-MP3"
+    },
+    {
+      "id": "radio_do_jhoninho_br_c663f9c3",
+      "title": "Radio do Jhoninho",
+      "subtitle": "Radio",
+      "location": "Brazil",
+      "genre": "Radio",
+      "countryCode": "BR",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://radio.joao.tec.br:8443/radio"
+    },
+    {
+      "id": "creators_club_br_9cf9c63f",
+      "title": "CREATORS CLUB",
+      "subtitle": "Radio",
+      "location": "Brazil",
+      "genre": "Radio",
+      "countryCode": "BR",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://jpradios.com.br/stream/creators-club"
     }
   ]
 }
