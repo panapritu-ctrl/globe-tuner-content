@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-29T04:15:19Z",
+  "updated": "2026-09-30T04:01:03Z",
   "region": "africa",
   "stations": [
     {
@@ -5327,15 +5327,6 @@
       "countryCode": "TZ"
     },
     {
-      "id": "104_1_favour_fm_gulu_104_1_fm_ug",
-      "title": "104.1 Favour FM - Gulu - 104.1 FM",
-      "subtitle": "Christian / Gospel",
-      "location": "Uganda",
-      "genre": "Devotional",
-      "countryCode": "UG",
-      "streamUrl": "http://us5new.listen2myradio.com:2199/listen.php?port=8138&type=ice&mount=stream"
-    },
-    {
       "id": "107_3_bbc_radio_uganda_ug_1647ef",
       "title": "107.3 BBC Radio Uganda",
       "subtitle": "News",
@@ -10657,6 +10648,18 @@
       "clickCount": 4,
       "bitrate": 96,
       "streamUrl": "https://eu8.fastcast4u.com/proxy/nehestratfm?mp=/1"
+    },
+    {
+      "id": "waterberg_stereo_za_f48c7971",
+      "title": "Waterberg Stereo",
+      "subtitle": "Community Radio",
+      "location": "South Africa",
+      "genre": "Community Radio",
+      "countryCode": "ZA",
+      "language": "afrikaans",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://116.202.241.212:8048/stream?type=http&nocache=6887"
     }
   ]
 }

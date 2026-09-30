@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-29T04:15:19Z",
+  "updated": "2026-09-30T04:01:03Z",
   "region": "europe",
   "part": 2,
   "of": 8,
@@ -5432,19 +5432,6 @@
       "genre": "Radio",
       "countryCode": "DE",
       "streamUrl": "http://mdr-284330-0.cast.mdr.de/mdr/284330/0/mp3/high/stream.mp3"
-    },
-    {
-      "id": "rb2_mdr_sputnik_black_low_963b7137",
-      "title": "MDR Sputnik Black (low)",
-      "subtitle": "Black, Hiphop",
-      "imageUrl": "",
-      "streamUrl": "http://f111.rndfnk.com/ard/mdr/284331/0/mp3/128/stream.mp3?cid=01FBQ15ZQ4PGV7DZJKP1FC52RW&sid=38HF7gLZXjjw5GcBwvP36AMxq84&token=rCVyZyevCYwuVnzPpAJizD0CDT4YeE9SqihkRw8qTGE&tvf=XWHm7x3eihhmMTExLnJuZGZuay5jb20",
-      "location": "Germany",
-      "genre": "Black",
-      "countryCode": "DE",
-      "language": "german",
-      "clickCount": 1,
-      "bitrate": 128
     },
     {
       "id": "rb2_mdr_sputnik_club_9606baf5",
@@ -23314,15 +23301,6 @@
       "streamUrl": "http://wecast19-h-cloud.flumotion.com/copesedes/cartagena.mp3"
     },
     {
-      "id": "cope_santander_es_49b2b4",
-      "title": "COPE Santander",
-      "subtitle": "Entertainment",
-      "location": "Cantabria, Spain",
-      "genre": "News",
-      "countryCode": "ES",
-      "streamUrl": "http://wecast01-h-cloud.flumotion.com/copesedes/santander.mp3"
-    },
-    {
       "id": "rb2_cuac_fm_mp3_035dee5f",
       "title": "CUAC FM (MP3)",
       "subtitle": "Radio",
@@ -28078,30 +28056,6 @@
       "streamUrl": "https://radio.globalexport.ee/stream.mp3"
     },
     {
-      "id": "dr_p3_aac_dk_c42bfd7b",
-      "title": "DR P3 (AAC)",
-      "subtitle": "Pop",
-      "location": "Denmark",
-      "genre": "Pop",
-      "countryCode": "DK",
-      "language": "danish",
-      "clickCount": 5,
-      "bitrate": 324,
-      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p3/masterab.m3u8"
-    },
-    {
-      "id": "dr_p8_jazz_aac_dk_5a5bf838",
-      "title": "DR P8 JAZZ (AAC)",
-      "subtitle": "Jazz",
-      "location": "Denmark",
-      "genre": "Jazz",
-      "countryCode": "DK",
-      "language": "danish",
-      "clickCount": 3,
-      "bitrate": 324,
-      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p8jazz/masterab.m3u8"
-    },
-    {
       "id": "kalaallit_nunaata_radioa_dk_81560ca3",
       "title": "Kalaallit Nunaata Radioa",
       "subtitle": "Greenlandic Broadcasting Corporation",
@@ -28184,18 +28138,6 @@
       "clickCount": 3,
       "bitrate": 324,
       "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4sjaelland/masterab.m3u8"
-    },
-    {
-      "id": "dr_p4_fyn_aac_dk_50d1da47",
-      "title": "DR P4 Fyn (AAC)",
-      "subtitle": "Regional Radio",
-      "location": "Denmark",
-      "genre": "Regional Radio",
-      "countryCode": "DK",
-      "language": "danish",
-      "clickCount": 2,
-      "bitrate": 324,
-      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4fyn/masterab.m3u8"
     },
     {
       "id": "dr_p6_beat_aac_dk_29e901b6",
@@ -31124,6 +31066,222 @@
       "clickCount": 3,
       "bitrate": 324,
       "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p5kobenhavn/masterab.m3u8"
+    },
+    {
+      "id": "dr_p3_aac_dk_c42bfd7b",
+      "title": "DR P3 (AAC)",
+      "subtitle": "Pop",
+      "location": "Denmark",
+      "genre": "Pop",
+      "countryCode": "DK",
+      "language": "danish",
+      "clickCount": 13,
+      "bitrate": 324,
+      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p3/masterab.m3u8"
+    },
+    {
+      "id": "aymeva_deep_de_a69882b5",
+      "title": "AYMEVA Deep",
+      "subtitle": "Chillout",
+      "location": "Germany",
+      "genre": "Chillout",
+      "countryCode": "DE",
+      "language": "american english",
+      "clickCount": 7,
+      "bitrate": 128,
+      "streamUrl": "https://live.aymeva.com/listen/aymeva/deep.aac"
+    },
+    {
+      "id": "ella_radio_cocktail_jazz_de_49183316",
+      "title": "Ella Radio - Cocktail Jazz",
+      "subtitle": "Jazz",
+      "location": "Germany",
+      "genre": "Jazz",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "https://stream.ella-radio.de/ella-cocktail-jazz/mp3-192/?ref=radio-browser"
+    },
+    {
+      "id": "antenne_brandenburg_frankfurt_oder_aac_de_1f7a917a",
+      "title": "Antenne Brandenburg Frankfurt Oder (AAC)",
+      "subtitle": "70'S",
+      "location": "Germany",
+      "genre": "70'S",
+      "countryCode": "DE",
+      "language": "norddeutsch",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://antbrb-frankfurt.akamaized.net/hls/live/2017000-b/rbb_antbrb-frankfurt/192/seglist.m3u8"
+    },
+    {
+      "id": "89_0_rtl_chill_zone_de_8bcf35b7",
+      "title": "89.0 RTL Chill-Zone",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://stream.89.0rtl.de/chill-zone/mp3-256"
+    },
+    {
+      "id": "dr_p8_jazz_aac_dk_5a5bf838",
+      "title": "DR P8 JAZZ (AAC)",
+      "subtitle": "Jazz",
+      "location": "Denmark",
+      "genre": "Jazz",
+      "countryCode": "DK",
+      "language": "danish",
+      "clickCount": 5,
+      "bitrate": 324,
+      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p8jazz/masterab.m3u8"
+    },
+    {
+      "id": "fluxfm_listen_to_berlin_320k_aac_de_d50c633a",
+      "title": "FluxFM Listen To Berlin | 320k AAC",
+      "subtitle": "Contemporary",
+      "location": "Germany",
+      "genre": "Contemporary",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://fluxmusic.api.radiosphere.io/channels/listen-to-berlin/stream.aac?quality=10"
+    },
+    {
+      "id": "i_love_radio_harder_music_de_ed18cd8c",
+      "title": "i love radio - harder music",
+      "subtitle": "By Lost Identity",
+      "location": "Germany",
+      "genre": "By Lost Identity",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "http://ilm.stream27.radiohost.de/ilm_ilovechillhop_mp3-192?upd-meta&upd-scheme=http&_art=dD0xNzkwNDM2NzI2JmQ9NmFkZDM1YmZkMDk4YzI2NDA3NzU"
+    },
+    {
+      "id": "i_love_mashup_de_ba5c7a85",
+      "title": "I love mashup",
+      "subtitle": "Mashup",
+      "location": "Germany",
+      "genre": "Mashup",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "http://ilm.stream35.radiohost.de/ilm_ilovemashup_mp3-192?upd-meta&upd-scheme=http&_art=dD0xNzkwMzgzODMxJmQ9YjY0NjRhMzdhN2RlMDc1NTY0Mzc"
+    },
+    {
+      "id": "metropol_fm_koblenz_de_6fd651aa",
+      "title": "Metropol FM Koblenz",
+      "subtitle": "Folk",
+      "location": "Germany",
+      "genre": "Folk",
+      "countryCode": "DE",
+      "language": "türkisch",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://streams.metropolfm.de/METROPOLFMKoblenz/stream.aac"
+    },
+    {
+      "id": "dr_p4_trekanten_aac_dk_a030938a",
+      "title": "DR P4 Trekanten (AAC)",
+      "subtitle": "Regional Radio",
+      "location": "Denmark",
+      "genre": "Regional Radio",
+      "countryCode": "DK",
+      "language": "danish",
+      "clickCount": 4,
+      "bitrate": 324,
+      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4trekanten/masterab.m3u8"
+    },
+    {
+      "id": "radio_souvenir_1_schlager_1950_bis_1989_de_58b4b19b",
+      "title": "Radio Souvenir 1 - Schlager 1950 bis 1989",
+      "subtitle": "1950",
+      "location": "Germany",
+      "genre": "1950",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 3,
+      "bitrate": 320,
+      "streamUrl": "https://souvenir.spcast.eu:443/stream?time=1790438545"
+    },
+    {
+      "id": "mdr_sachsen_anhalt_magdeburg_de_d8d011bd",
+      "title": "MDR SACHSEN-ANHALT Magdeburg",
+      "subtitle": "2000Er",
+      "location": "Germany",
+      "genre": "2000Er",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 3,
+      "bitrate": 102,
+      "streamUrl": "https://radio-hls.mdr.de/hls/live/2112893/mdr-284290-0-hls/index.m3u8"
+    },
+    {
+      "id": "egofm_jazz_de_4228a549",
+      "title": "egoFM jazz",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://cast.egofm.de/egofmjazz.mp3?ar-distributor=ffa0&aw_0_req.gdpr=true"
+    },
+    {
+      "id": "radio_dance_90er_de_9d3218ab",
+      "title": "RADIO DANCE 90er",
+      "subtitle": "90S",
+      "location": "Germany",
+      "genre": "90S",
+      "countryCode": "DE",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 320,
+      "streamUrl": "https://radiodance.streamingmedia.it/de.aac"
+    },
+    {
+      "id": "radio_galaxy_mittelfranken_de_987caeb9",
+      "title": "Radio Galaxy Mittelfranken",
+      "subtitle": "Charts",
+      "location": "Germany",
+      "genre": "Charts",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://live.galaxy-mittelfranken.de/galaxy-mittelfranken.mp3"
+    },
+    {
+      "id": "br24_hls_192_de_a3ce6891",
+      "title": "BR24 (HLS 192)",
+      "subtitle": "News",
+      "location": "Germany",
+      "genre": "News",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://br-radio.ard-mcdn.de/br/radio/br24/hls/192/seglist.m3u8"
+    },
+    {
+      "id": "dr_p4_stjylland_aac_dk_86d978b1",
+      "title": "DR P4 Østjylland (AAC)",
+      "subtitle": "Regional Radio",
+      "location": "Denmark",
+      "genre": "Regional Radio",
+      "countryCode": "DK",
+      "language": "danish",
+      "clickCount": 3,
+      "bitrate": 324,
+      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4ostjylland/masterab.m3u8"
     }
   ]
 }

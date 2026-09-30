@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-29T04:15:19Z",
+  "updated": "2026-09-30T04:01:03Z",
   "region": "americas",
   "part": 1,
   "of": 5,
@@ -10828,15 +10828,6 @@
       "language": "português (br)",
       "clickCount": 1,
       "bitrate": 48
-    },
-    {
-      "id": "bons_tempos_fm_br_345cc0",
-      "title": "Bons Tempos FM",
-      "subtitle": "Nostalgia",
-      "location": "Brazil",
-      "genre": "Rock",
-      "countryCode": "BR",
-      "streamUrl": "https://server02.ouvir.radio.br:8050/stream?1609720768800"
     },
     {
       "id": "bossa_jazz_brasil_br_7ada8a",
@@ -27311,18 +27302,6 @@
       "streamUrl": "https://24383.live.streamtheworld.com:443/ATL_FLO.mp3"
     },
     {
-      "id": "chom_97_7_montr_al_ca_3de6b46c",
-      "title": "CHOM 97.7 Montréal",
-      "subtitle": "Radio",
-      "location": "Canada",
-      "genre": "Radio",
-      "countryCode": "CA",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 0,
-      "streamUrl": "https://rogers-hls.leanstream.co/rogers/chomfm.stream/playlist.m3u8"
-    },
-    {
       "id": "radio_municipal_fm_97_5_san_pedro_de_jujuy_ar_7e535f5c",
       "title": "Radio Municipal FM 97.5 - San Pedro de Jujuy",
       "subtitle": "Radio",
@@ -28079,18 +28058,6 @@
       "streamUrl": "https://ohradio.cc/8092/stream%22%20type=%22audio/mpeg"
     },
     {
-      "id": "cing_fm_energy_95_3_hamilton_on_mp3_stream_ca_a7a02ebb",
-      "title": "CING-FM \"Energy 95.3\" Hamilton, ON (MP3 Stream)",
-      "subtitle": "Corus Media",
-      "location": "Canada",
-      "genre": "Corus Media",
-      "countryCode": "CA",
-      "language": "english",
-      "clickCount": 3,
-      "bitrate": 128,
-      "streamUrl": "http://live.leanstream.co/CINGFM-MP3"
-    },
-    {
       "id": "radio_do_jhoninho_br_c663f9c3",
       "title": "Radio do Jhoninho",
       "subtitle": "Radio",
@@ -28113,6 +28080,126 @@
       "clickCount": 3,
       "bitrate": 128,
       "streamUrl": "https://jpradios.com.br/stream/creators-club"
+    },
+    {
+      "id": "play_fm_103_3_ar_dddc53b6",
+      "title": "Play FM 103.3",
+      "subtitle": "Radio",
+      "location": "Argentina",
+      "genre": "Radio",
+      "countryCode": "AR",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 96,
+      "streamUrl": "http://cdn.instream.audio:9170/stream"
+    },
+    {
+      "id": "cfmk_big_96_3_kingston_on_ca_6d61c8ac",
+      "title": "CFMK \"Big 96.3\" Kingston, ON",
+      "subtitle": "Classic Rock",
+      "location": "Canada",
+      "genre": "Classic Rock",
+      "countryCode": "CA",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://live.leanstream.co/CFMKFM-MP3"
+    },
+    {
+      "id": "radio_rivadavia_necochea_97_3_fm_ar_e1400e98",
+      "title": "Radio Rivadavia Necochea 97.3 FM",
+      "subtitle": "Radio",
+      "location": "Argentina",
+      "genre": "Radio",
+      "countryCode": "AR",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 48,
+      "streamUrl": "https://cdn.instream.audio:9542/stream"
+    },
+    {
+      "id": "rock_pop_c_rdoba_fm_87_9_ar_b3deb8be",
+      "title": "Rock & Pop Córdoba FM 87.9",
+      "subtitle": "Radio",
+      "location": "Argentina",
+      "genre": "Radio",
+      "countryCode": "AR",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 32,
+      "streamUrl": "https://streaming.gostreaming.com.ar:10985/stream"
+    },
+    {
+      "id": "radio_retroativa_br_fc273db9",
+      "title": "Radio Retroativa",
+      "subtitle": "70S",
+      "location": "Brazil",
+      "genre": "70S",
+      "countryCode": "BR",
+      "language": "brazilian portuguese",
+      "clickCount": 3,
+      "bitrate": 112,
+      "streamUrl": "https://stream.radioretroativa.com/radio"
+    },
+    {
+      "id": "cjxy_107_9_y108_burlington_on_ca_1acfd065",
+      "title": "CJXY 107.9 \"Y108\" Burlington, ON",
+      "subtitle": "Burlington",
+      "location": "Canada",
+      "genre": "Burlington",
+      "countryCode": "CA",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "http://live.leanstream.co/CJXYFM-MP3"
+    },
+    {
+      "id": "cfmk_fm_96_3_big_fm_kingston_on_aac_stream_ca_7a1c28ae",
+      "title": "CFMK-FM 96.3 \"Big FM\" Kingston, ON (AAC Stream)",
+      "subtitle": "Classic Hits",
+      "location": "Canada",
+      "genre": "Classic Hits",
+      "countryCode": "CA",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 57,
+      "streamUrl": "http://live.leanstream.co/CFMKFM"
+    },
+    {
+      "id": "ckac_730_radio_circulation_montreal_ca_631ed9f1",
+      "title": "CKAC 730 \"Radio Circulation\"  Montreal",
+      "subtitle": "Traffic Information",
+      "location": "Canada",
+      "genre": "Traffic Information",
+      "countryCode": "CA",
+      "language": "french",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://17563.live.streamtheworld.com/CKACAMAAC_SC"
+    },
+    {
+      "id": "cjrb_1220_boissevain_mb_ca_22e8c109",
+      "title": "CJRB 1220 Boissevain, MB",
+      "subtitle": "Classic Hits",
+      "location": "Canada",
+      "genre": "Classic Hits",
+      "countryCode": "CA",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 64,
+      "streamUrl": "https://goldenwest.leanstream.co/CJRBAM"
+    },
+    {
+      "id": "cjgv_peggy_99_1_winnipeg_mb_ca_8a35a888",
+      "title": "CJGV \"Peggy @ 99.1\" Winnipeg, MB",
+      "subtitle": "Adult Contemporary",
+      "location": "Canada",
+      "genre": "Adult Contemporary",
+      "countryCode": "CA",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "http://live.leanstream.co/CJGVFM-MP3"
     }
   ]
 }

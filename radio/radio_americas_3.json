@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-29T04:15:19Z",
+  "updated": "2026-09-30T04:01:03Z",
   "region": "americas",
   "part": 3,
   "of": 5,
@@ -3543,19 +3543,6 @@
       "streamUrl": "https://server2.sit-mexico.com:2199/proxy/acustik?mp=/stream&1769272990469",
       "location": "Ciudad de México, Mexico",
       "genre": "1150 Am",
-      "countryCode": "MX",
-      "language": "spanish",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_adn_92_1_fm_fcc412a8",
-      "title": "ADN 92.1 FM",
-      "subtitle": "Entretenimiento, Hits",
-      "imageUrl": "https://static.wixstatic.com/media/6d3b50_217693c18f4243ed830607f42f35e4ca~mv2.png/v1/fill/w_697,h_428,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/6d3b50_217693c18f4243ed830607f42f35e4ca~mv2.png",
-      "streamUrl": "https://streamingcwsradio30.com/8322/stream",
-      "location": "Coahuila, Mexico",
-      "genre": "Entretenimiento",
       "countryCode": "MX",
       "language": "spanish",
       "clickCount": 0,
@@ -13407,19 +13394,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_radio_f_rmula_torre_n_105_9_fm_torre_n_c_e2d2df5e",
-      "title": "Radio Fórmula (Torreón) - 105.9 FM [Torreón, Coahuila]",
-      "subtitle": "Music, News",
-      "imageUrl": "https://i.iheart.com/v3/re/new_assets/5ec8497716ae36fb1eabb14f",
-      "streamUrl": "https://stream.radiojar.com/bfews6ef3p8uv",
-      "location": "Coahuila, Mexico",
-      "genre": "Music",
-      "countryCode": "MX",
-      "language": "spanish",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "radio_f_rmula_104_1_fm_xerfr_fm_grupo_f__mx_3e50c7",
       "title": "Radio Fórmula - 104.1 FM - XERFR-FM - Grupo Fórmula - Ciudad de México",
       "subtitle": "104.1",
@@ -18679,19 +18653,6 @@
       "language": null,
       "clickCount": 0,
       "bitrate": 32
-    },
-    {
-      "id": "rb2_radio_la_vaca_56b1c63d",
-      "title": "Radio La Vaca",
-      "subtitle": "2000S, 80S",
-      "imageUrl": "https://www.radiolavaca.com/assets/img/logo-f.png",
-      "streamUrl": "https://radio.streamingnacional.online/8168/stream",
-      "location": "Peru",
-      "genre": "2000S",
-      "countryCode": "PE",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 112
     },
     {
       "id": "rb2_radio_la_voz_del_nor_oriente_utcubamba_2c482c3c",
@@ -26334,30 +26295,6 @@
       "streamUrl": "https://maxxi.studio/listen/cheriefmmq/radio.mp3"
     },
     {
-      "id": "kq_105_pr_7bf5fb24",
-      "title": "KQ 105",
-      "subtitle": "Top 40",
-      "location": "Puerto Rico",
-      "genre": "Top 40",
-      "countryCode": "PR",
-      "language": "spanish",
-      "clickCount": 7,
-      "bitrate": 64,
-      "streamUrl": "https://televicentro.streamguys1.com/wkaqfm/playlist.m3u8"
-    },
-    {
-      "id": "tropicalia_93_9fm_py_4eb46942",
-      "title": "Tropicalia 93.9FM",
-      "subtitle": "Cumbia",
-      "location": "Paraguay",
-      "genre": "Cumbia",
-      "countryCode": "PY",
-      "language": "spanish",
-      "clickCount": 7,
-      "bitrate": 0,
-      "streamUrl": "https://rds3.desdeparaguay.net/movtropicalia/movtropicalia.stream/playlist.m3u8"
-    },
-    {
       "id": "la_x_100_7_fm_pr_ee94cabc",
       "title": "La X 100.7 FM",
       "subtitle": "Pop",
@@ -26824,6 +26761,42 @@
       "clickCount": 7,
       "bitrate": 0,
       "streamUrl": "https://mgvfuego-ioriver-cdn.encoders.immergo.tv/0/streamPlaylist.m3u8"
+    },
+    {
+      "id": "radio_techno_mix_90_s_y_m_s_pe_c772a9b9",
+      "title": "Radio Techno mix, 90's y más",
+      "subtitle": "Radio",
+      "location": "Peru",
+      "genre": "Radio",
+      "countryCode": "PE",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 80,
+      "streamUrl": "https://servistream.info:8386/stream"
+    },
+    {
+      "id": "full_techno_com_solo_cl_sico_del_techno_pe_e164b7be",
+      "title": "Full Techno.com solo clásico del techno",
+      "subtitle": "Radio",
+      "location": "Peru",
+      "genre": "Radio",
+      "countryCode": "PE",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 80,
+      "streamUrl": "https://servistream.info:8320/;%20/full%20techno.com"
+    },
+    {
+      "id": "tropicalia_93_9fm_py_4eb46942",
+      "title": "Tropicalia 93.9FM",
+      "subtitle": "Cumbia",
+      "location": "Paraguay",
+      "genre": "Cumbia",
+      "countryCode": "PY",
+      "language": "spanish",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://rds3.desdeparaguay.net/movtropicalia/movtropicalia.stream/playlist.m3u8"
     }
   ]
 }

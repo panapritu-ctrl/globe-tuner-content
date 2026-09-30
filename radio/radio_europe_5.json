@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-29T04:15:19Z",
+  "updated": "2026-09-30T04:01:03Z",
   "region": "europe",
   "part": 5,
   "of": 8,
@@ -9716,19 +9716,6 @@
       "language": "greek",
       "clickCount": 0,
       "bitrate": 96
-    },
-    {
-      "id": "rb2_live_3f7bc647",
-      "title": "Παύλος Βασιλείου Live",
-      "subtitle": "Greek Music",
-      "imageUrl": "https://resources.live24.gr/resources/images/stations/54b14e4a-60ae-40cc-a173-62806932b6b9.png",
-      "streamUrl": "https://azuracast.streams.gr/listen/paulosvasileioulive/radio.mp3",
-      "location": "Thessaloniki, Greece",
-      "genre": "Greek Music",
-      "countryCode": "GR",
-      "language": "greek",
-      "clickCount": 2,
-      "bitrate": 128
     },
     {
       "id": "rb2_1_8cb11062",
@@ -27878,6 +27865,42 @@
       "clickCount": 3,
       "bitrate": 128,
       "streamUrl": "http://radioluna.no-ip.info:8000/luna"
+    },
+    {
+      "id": "radio_parsifal_it_cc974803",
+      "title": "Radio Parsifal",
+      "subtitle": "Italian Pop",
+      "location": "Italy",
+      "genre": "Italian Pop",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "http://onair11.xdevel.com:10044/;stream.mp3"
+    },
+    {
+      "id": "fm_italia_it_0e0622c5",
+      "title": "FM Italia",
+      "subtitle": "News",
+      "location": "Italy",
+      "genre": "News",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://stream5.xdevel.com/audio1s975817-360/stream/icecast.audio"
+    },
+    {
+      "id": "radio_volere_e_volare_it_9c16e8d9",
+      "title": "Radio volere e volare",
+      "subtitle": "Radio",
+      "location": "Italy",
+      "genre": "Radio",
+      "countryCode": "IT",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 64,
+      "streamUrl": "https://bay1.streamfm.it:8010/aacp"
     }
   ]
 }

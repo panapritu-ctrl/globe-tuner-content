@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-29T04:15:19Z",
+  "updated": "2026-09-30T04:01:03Z",
   "region": "europe",
   "part": 8,
   "of": 8,
@@ -4921,19 +4921,6 @@
       "language": "russian",
       "clickCount": 1,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_russkiy_hit_69d38722",
-      "title": "Radio Russkiy Hit",
-      "subtitle": "Hits",
-      "imageUrl": "",
-      "streamUrl": "https://stream.n340.com/19_ruhit_24",
-      "location": "The Russian Federation",
-      "genre": "Hits",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 0,
-      "bitrate": 28
     },
     {
       "id": "rb2_radio_salyut_4cedd02c",
@@ -12825,19 +12812,6 @@
       "language": "russian",
       "clickCount": 0,
       "bitrate": 64
-    },
-    {
-      "id": "rb2_104_9_fm_91bc5abd",
-      "title": "Радио Рекорд Кириши 104.9 FM",
-      "subtitle": "Dance Radio, Kirishi",
-      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241225_211219683.jpg?alt=media&token=1642b2ae-5549-4acf-93fd-499068f4b77c",
-      "streamUrl": "http://79.173.124.23:1121/Recordkir",
-      "location": "The Russian Federation",
-      "genre": "Dance Radio",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 0,
-      "bitrate": 128
     },
     {
       "id": "rb2_station_256c4873",
@@ -20871,19 +20845,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_radio_shanson_e2e83370",
-      "title": "Radio Shanson",
-      "subtitle": "Music, Oldies",
-      "imageUrl": "",
-      "streamUrl": "https://cast.brg.ua/newshanson_main_public_mp3_hq",
-      "location": "Ukraine",
-      "genre": "Music",
-      "countryCode": "UA",
-      "language": "ukrainian",
-      "clickCount": 1,
-      "bitrate": 256
-    },
-    {
       "id": "rb2_radio_social_net_ua_70ad54cd",
       "title": "Radio Social.net.ua",
       "subtitle": "Mixed",
@@ -21306,19 +21267,6 @@
       "countryCode": "UA"
     },
     {
-      "id": "rb2_station_c67c1183",
-      "title": "Авторадіо",
-      "subtitle": "Information, Music",
-      "imageUrl": "",
-      "streamUrl": "https://cast.mediaonline.net.ua/avtoradio320",
-      "location": "Ukraine",
-      "genre": "Information",
-      "countryCode": "UA",
-      "language": "ukrainian",
-      "clickCount": 1,
-      "bitrate": 320
-    },
-    {
       "id": "rb2_fm_0cc0f9d4",
       "title": "Армия FM",
       "subtitle": "Военно-Патриотическая",
@@ -21408,15 +21356,6 @@
       "language": null,
       "clickCount": 5,
       "bitrate": 192
-    },
-    {
-      "id": "hromadske_radio_ua_961f37",
-      "title": "Громадське радіо / Hromadske radio",
-      "subtitle": "News",
-      "location": "Ukraine",
-      "genre": "News",
-      "streamUrl": "http://91.218.212.67:8000/stream",
-      "countryCode": "UA"
     },
     {
       "id": "rb2_station_8a6e95dc",
@@ -23992,18 +23931,6 @@
       "streamUrl": "https://cast108372.customer.uar.net/live320"
     },
     {
-      "id": "ax_radio_ua_a3b5832c",
-      "title": "Ax Radio!",
-      "subtitle": "Dance",
-      "location": "Ukraine",
-      "genre": "Dance",
-      "countryCode": "UA",
-      "language": "english",
-      "clickCount": 3,
-      "bitrate": 0,
-      "streamUrl": "https://m.axradio.net/stream.mp3"
-    },
-    {
       "id": "rtfm_fm_ru_2910e39c",
       "title": "RTFM.fm",
       "subtitle": "Alternative Rock",
@@ -25358,6 +25285,42 @@
       "clickCount": 3,
       "bitrate": 256,
       "streamUrl": "https://channels.fonotron.ru:8000/Chan_62_256.mp3"
+    },
+    {
+      "id": "anima_amoris_deep_tech_house_ru_1c9bcb95",
+      "title": "Anima Amoris Deep Tech House",
+      "subtitle": "Radio",
+      "location": "The Russian Federation",
+      "genre": "Radio",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://amoris.sknt.ru/deeptech.mp3"
+    },
+    {
+      "id": "radio_caprice_russian_pop_music_80_90_s_ru_29ce51a9",
+      "title": "Radio Caprice - Russian Pop music 80-90's",
+      "subtitle": "Decades",
+      "location": "The Russian Federation",
+      "genre": "Decades",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 48,
+      "streamUrl": "http://79.120.77.11:8002/80ru"
+    },
+    {
+      "id": "goose_hypertechno_ru_3ae18705",
+      "title": "GOOSE-HYPERTECHNO",
+      "subtitle": "Bigroom",
+      "location": "The Russian Federation",
+      "genre": "Bigroom",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://stream5.radiogoose.ru/listen/hypertechno/play"
     }
   ]
 }

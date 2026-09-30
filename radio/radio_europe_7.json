@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-29T04:15:19Z",
+  "updated": "2026-09-30T04:01:03Z",
   "region": "europe",
   "part": 7,
   "of": 8,
@@ -5586,19 +5586,6 @@
       "bitrate": 64
     },
     {
-      "id": "rb2_r_dio_calheta_37bb28eb",
-      "title": "Rádio Calheta",
-      "subtitle": "Radio",
-      "imageUrl": "https://player.radiocalheta.pt/static/uploads/radiocalheta/album_art.1762951317.png",
-      "streamUrl": "https://player.radiocalheta.pt/listen/radiocalheta/live",
-      "location": "Madeira, Portugal",
-      "genre": "Radio",
-      "countryCode": "PT",
-      "language": "portuguese",
-      "clickCount": 2,
-      "bitrate": 192
-    },
-    {
       "id": "rb2_r_dio_castrense_9619317f",
       "title": "Rádio Castrense",
       "subtitle": "Adult Contemporary, Local Music",
@@ -6730,19 +6717,6 @@
       "streamUrl": "https://nigga.pt/doom.ogg",
       "location": "Lisboa, Portugal",
       "genre": "Radio",
-      "countryCode": "PT",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_jovembsk_6c1ef496",
-      "title": "jovembsk",
-      "subtitle": "Pop",
-      "imageUrl": "",
-      "streamUrl": "https://stream-42.zeno.fm/ppgb4k7vhqztv?zs=c_kj97VBTyuKVVdB2EEdEg",
-      "location": "Portugal",
-      "genre": "Pop",
       "countryCode": "PT",
       "language": null,
       "clickCount": 0,
@@ -10310,19 +10284,6 @@
       "language": "romanian",
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_damblagii_3cb57040",
-      "title": "Radio Damblagii",
-      "subtitle": "Damblagii, Entertainment",
-      "imageUrl": "https://radiodamblagii.com/logo.png",
-      "streamUrl": "http://stream.radiodamblagii.co.uk:8010/radio.mp3",
-      "location": "Romania",
-      "genre": "Damblagii",
-      "countryCode": "RO",
-      "language": "romanian",
-      "clickCount": 0,
-      "bitrate": 192
     },
     {
       "id": "rb2_radio_deep_df0eedb3",
@@ -24036,18 +23997,6 @@
       "streamUrl": "https://astreaming.edi.ro:8443/EuropaFM_aac"
     },
     {
-      "id": "radio_macabrismix_pl_d97adbeb",
-      "title": "Radio Macabrismix",
-      "subtitle": "Dancehall",
-      "location": "Poland",
-      "genre": "Dancehall",
-      "countryCode": "PL",
-      "language": "polish",
-      "clickCount": 5,
-      "bitrate": 192,
-      "streamUrl": "https://panel.macabrismix.com.pl/listen/macabris_mix_radio_station_1-2c6_ghz/autodj.mp3"
-    },
-    {
       "id": "radio_bra_ov_ro_68acb1a5",
       "title": "Radio Brașov",
       "subtitle": "Radio",
@@ -25954,6 +25903,90 @@
       "clickCount": 3,
       "bitrate": 192,
       "streamUrl": "https://live.superfm.ro/stream.mp3?nocache=0.19023860954617056"
+    },
+    {
+      "id": "radio_one_live_80_s_90_s_pl_80212f2a",
+      "title": "Radio One Live 80's & 90's",
+      "subtitle": "Radio",
+      "location": "Poland",
+      "genre": "Radio",
+      "countryCode": "PL",
+      "language": null,
+      "clickCount": 7,
+      "bitrate": 256,
+      "streamUrl": "https://stream.rcast.net/10214"
+    },
+    {
+      "id": "trance_energy_ro_0e17e163",
+      "title": "TRANCE ENERGY",
+      "subtitle": "Trance",
+      "location": "Romania",
+      "genre": "Trance",
+      "countryCode": "RO",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 320,
+      "streamUrl": "https://fra-pioneer01.dedicateware.com:2990/;/stream"
+    },
+    {
+      "id": "deep_house_energy_ro_b71dfb26",
+      "title": "DEEP HOUSE ENERGY",
+      "subtitle": "Deep House",
+      "location": "Romania",
+      "genre": "Deep House",
+      "countryCode": "RO",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "https://fra-pioneer01.dedicateware.com:2930//stream"
+    },
+    {
+      "id": "eska_2_pl_06be1fe1",
+      "title": "ESKA 2",
+      "subtitle": "Radio",
+      "location": "Poland",
+      "genre": "Radio",
+      "countryCode": "PL",
+      "language": "polish",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://ic1.smcdn.pl/1530-1.mp3"
+    },
+    {
+      "id": "radio_ten_pl_253eb3ea",
+      "title": "Radio TEN",
+      "subtitle": "Radio",
+      "location": "Poland",
+      "genre": "Radio",
+      "countryCode": "PL",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "https://s5.radio.co/s96abd7aaf/listen"
+    },
+    {
+      "id": "meloradio_opole_pl_662f3bd0",
+      "title": "Meloradio Opole",
+      "subtitle": "Radio",
+      "location": "Poland",
+      "genre": "Radio",
+      "countryCode": "PL",
+      "language": "polish",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://ml02.cdn.eurozet.pl/mel-opl.mp3"
+    },
+    {
+      "id": "antena_2_pera_pt_cd668dbe",
+      "title": "Antena 2 Ópera",
+      "subtitle": "Antena 2",
+      "location": "Portugal",
+      "genre": "Antena 2",
+      "countryCode": "PT",
+      "language": "portuguese",
+      "clickCount": 4,
+      "bitrate": 170,
+      "streamUrl": "https://streaming-live.rtp.pt/liveradio/antena2opera80a/playlist.m3u8"
     }
   ]
 }
