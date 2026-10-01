@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-30T04:00:29Z",
+  "updated": "2026-10-01T04:09:49Z",
   "region": "oceania",
   "stations": [
     {
@@ -10215,19 +10215,6 @@
       "bitrate": 63
     },
     {
-      "id": "rb2_listnr_crooners_swooners_hls_ab7190bc",
-      "title": "LiSTNR - Crooners & Swooners (HLS)",
-      "subtitle": "Crooners, Swooners",
-      "imageUrl": "https://i.ibb.co/9Hm2Pm2x/Li-STNR-Square-Tile-3000x3000-SWOONERS-AND-CROONERS.jpg",
-      "streamUrl": "http://wz0liw.scahw.com.au/live/crooners-n-swooners.stream/playlist.m3u8",
-      "location": "Australia",
-      "genre": "Crooners",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 2,
-      "bitrate": 64
-    },
-    {
       "id": "rb2_listnr_deep_calm_hls_6630088d",
       "title": "LiSTNR - Deep Calm (HLS)",
       "subtitle": "Calm, Electronic",
@@ -17027,19 +17014,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_radio_burgerfuel_a511378d",
-      "title": "Radio BurgerFuel",
-      "subtitle": "Alt Rock, Alternative Rock",
-      "imageUrl": "https://images.radio.co/station_logos/s9909bd65f.20200505033228.jpg",
-      "streamUrl": "https://s3.radio.co/s9909bd65f/listen",
-      "location": "Auckland, New Zealand",
-      "genre": "Alt Rock",
-      "countryCode": "NZ",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_radio_chinese_fm90_6_7156f7c4",
       "title": "Radio Chinese FM90.6",
       "subtitle": "Radio",
@@ -18177,6 +18151,18 @@
       "clickCount": 4,
       "bitrate": 311,
       "streamUrl": "https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8"
+    },
+    {
+      "id": "listnr_aussie_dance_au_a21fae74",
+      "title": "LiSTNR - Aussie Dance",
+      "subtitle": "Australian Music",
+      "location": "Australia",
+      "genre": "Australian Music",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://wz0liw.scahw.com.au/live/aussiedance_128.stream/playlist.m3u8"
     }
   ]
 }

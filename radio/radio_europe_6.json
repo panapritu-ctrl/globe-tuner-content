@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-30T04:01:03Z",
+  "updated": "2026-10-01T04:09:49Z",
   "region": "europe",
   "part": 6,
   "of": 8,
@@ -26963,18 +26963,6 @@
       "streamUrl": "https://radio.thijnvansummeren.nl/listen/alblasserdam/radio.mp3"
     },
     {
-      "id": "radio_rai_1_it_7bafd43f",
-      "title": "Radio Rai 1",
-      "subtitle": "General",
-      "location": "Italy",
-      "genre": "General",
-      "countryCode": "IT",
-      "language": "italian",
-      "clickCount": 25,
-      "bitrate": 256,
-      "streamUrl": "http://icestreaming.rai.it/1.mp3"
-    },
-    {
       "id": "radio_zeta_it_3edc2fe9",
       "title": "Radio Zeta",
       "subtitle": "Radio",
@@ -27573,6 +27561,30 @@
       "clickCount": 3,
       "bitrate": 192,
       "streamUrl": "https://ice09.fluidstream.net/lm_cagliari.mp3?FLID=8"
+    },
+    {
+      "id": "xxl_stenders_nl_3522dd0e",
+      "title": "XXL Stenders",
+      "subtitle": "Radio",
+      "location": "The Netherlands",
+      "genre": "Radio",
+      "countryCode": "NL",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "https://mcp-1.streampanel.nl:8020/bonanza_mp3"
+    },
+    {
+      "id": "radiobar_mk_a8ecb6fa",
+      "title": "RadioBar",
+      "subtitle": "Radio",
+      "location": "Republic Of North Macedonia",
+      "genre": "Radio",
+      "countryCode": "MK",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 320,
+      "streamUrl": "https://visual.shoutca.st:8122/stream"
     }
   ]
 }

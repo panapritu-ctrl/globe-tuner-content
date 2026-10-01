@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-30T04:01:03Z",
+  "updated": "2026-10-01T04:09:48Z",
   "region": "europe",
   "part": 8,
   "of": 8,
@@ -21750,19 +21750,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_svoboda_fm_c6d61009",
-      "title": "Радіо Svoboda FM",
-      "subtitle": "192 Kbit/S, Https",
-      "imageUrl": "https://radio.svoboda.fm/upload/design/661e642956fa25.49541093.png",
-      "streamUrl": "https://listen.radioking.com/radio/623869/stream/686722",
-      "location": "Ukraine",
-      "genre": "192 Kbit/S",
-      "countryCode": "UA",
-      "language": "ukranian",
-      "clickCount": 2,
-      "bitrate": 192
-    },
-    {
       "id": "rb2_ua_efe499e7",
       "title": "Радіо Інді.UA",
       "subtitle": "Pop, Rnb",
@@ -24183,18 +24170,6 @@
       "streamUrl": "https://online.nasheradio.ua/NasheRadio_HD"
     },
     {
-      "id": "holos_fm_ua_7af9010d",
-      "title": "Holos.FM",
-      "subtitle": "Holos",
-      "location": "Ukraine",
-      "genre": "Holos",
-      "countryCode": "UA",
-      "language": "ukrainian",
-      "clickCount": 5,
-      "bitrate": 128,
-      "streamUrl": "http://holos.fm:8000/holos"
-    },
-    {
       "id": "fm_ua_199698f6",
       "title": "Богуслав FM",
       "subtitle": "Information",
@@ -25321,6 +25296,42 @@
       "clickCount": 4,
       "bitrate": 192,
       "streamUrl": "https://stream5.radiogoose.ru/listen/hypertechno/play"
+    },
+    {
+      "id": "hromadske_radio_ua_59df4c21",
+      "title": "Громадське радіо / Hromadske radio",
+      "subtitle": "News",
+      "location": "Ukraine",
+      "genre": "News",
+      "countryCode": "UA",
+      "language": "russian",
+      "clickCount": 14,
+      "bitrate": 192,
+      "streamUrl": "http://91.218.212.67:8000/stream"
+    },
+    {
+      "id": "mfm_station_ua_4ca961e3",
+      "title": "MFM STATION",
+      "subtitle": "Dance",
+      "location": "Ukraine",
+      "genre": "Dance",
+      "countryCode": "UA",
+      "language": "ukrainian",
+      "clickCount": 7,
+      "bitrate": 320,
+      "streamUrl": "https://globalic.stream:1305/stream"
+    },
+    {
+      "id": "mfm_ukraine_ua_d48ecae5",
+      "title": "MFM Ukraine",
+      "subtitle": "Radio",
+      "location": "Ukraine",
+      "genre": "Radio",
+      "countryCode": "UA",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 320,
+      "streamUrl": "https://radio.mfm.ua/online128"
     }
   ]
 }

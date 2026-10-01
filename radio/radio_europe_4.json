@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-30T04:01:03Z",
+  "updated": "2026-10-01T04:09:48Z",
   "region": "europe",
   "part": 4,
   "of": 8,
@@ -3065,19 +3065,6 @@
       "language": "english",
       "clickCount": 1,
       "bitrate": 192
-    },
-    {
-      "id": "rb2_black_country_xtra_9f498d19",
-      "title": "Black Country Xtra",
-      "subtitle": "Community Radio, Hits",
-      "imageUrl": "https://mmo.aiircdn.com/117/63601327d7c3d.png",
-      "streamUrl": "https://edge-audio-08-thn.sharp-stream.com/bcrxtra.mp3",
-      "location": "West Midlands, The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "Community Radio",
-      "countryCode": "GB",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
     },
     {
       "id": "rb2_black_metal_radio_117587c0",
@@ -13216,19 +13203,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_radio_hillingdon_b07b356e",
-      "title": "Radio Hillingdon",
-      "subtitle": "Classic Hits, Hospital Radio",
-      "imageUrl": "https://www.radiohillingdon.com/images/RH%20Logo%202023%20website_footer.png",
-      "streamUrl": "https://uksoutha.streaming.broadcast.radio/hrhillingdonmp3",
-      "location": "London, The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "Classic Hits",
-      "countryCode": "GB",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_radio_imaan_one_1bc2eb42",
       "title": "Radio Imaan One",
       "subtitle": "Islamic, Religious",
@@ -17278,19 +17252,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_wbls_radio_0f0d8658",
-      "title": "WBLS Radio",
-      "subtitle": "Classic Hits, Hits",
-      "imageUrl": "",
-      "streamUrl": "http://s2.myradiostream.com:3604/;",
-      "location": "The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "Classic Hits",
-      "countryCode": "GB",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_what_radio_0b0c2062",
       "title": "WHAT?! Radio",
       "subtitle": "Radio",
@@ -20805,19 +20766,6 @@
       "language": "english",
       "clickCount": 2,
       "bitrate": 192
-    },
-    {
-      "id": "rb2_diva_106_1_87e31710",
-      "title": "Diva 106.1",
-      "subtitle": "Greek, Mainstream",
-      "imageUrl": "",
-      "streamUrl": "http://divafm.yourstreaming.gr:9996/;",
-      "location": "Tripoli, Greece",
-      "genre": "Greek",
-      "countryCode": "GR",
-      "language": "greek",
-      "clickCount": 0,
-      "bitrate": 320
     },
     {
       "id": "rb2_diva_91_6_2b5b166b",
@@ -27600,6 +27548,54 @@
       "clickCount": 3,
       "bitrate": 128,
       "streamUrl": "https://play.streams.gr/ic/flashkritis/stream"
+    },
+    {
+      "id": "102_gr_45f0f52c",
+      "title": "Ι.Μ. Τρίκκης Γαρδικίου και Πύλης 102",
+      "subtitle": "Orthodox Christian",
+      "location": "Greece",
+      "genre": "Orthodox Christian",
+      "countryCode": "GR",
+      "language": "greek",
+      "clickCount": 5,
+      "bitrate": 96,
+      "streamUrl": "http://s5.onweb.gr:8508/;"
+    },
+    {
+      "id": "station_gr_7392f023",
+      "title": "Ρίζες",
+      "subtitle": "Folk",
+      "location": "Greece",
+      "genre": "Folk",
+      "countryCode": "GR",
+      "language": "greek",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://rdst.win:59670/stream"
+    },
+    {
+      "id": "91_5_gr_4f2ea303",
+      "title": "Δημοτική Ραδιοφωνία Τρίπολης 91.5",
+      "subtitle": "Greek Pop",
+      "location": "Greece",
+      "genre": "Greek Pop",
+      "countryCode": "GR",
+      "language": "greek",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://eco.onestreaming.com/proxy/drtice/stream"
+    },
+    {
+      "id": "94_9_gr_389685b0",
+      "title": "Ρυθμός Αχαΐας 94.9",
+      "subtitle": "Greek",
+      "location": "Greece",
+      "genre": "Greek",
+      "countryCode": "GR",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://netradio.live24.gr/rythmospatras949"
     }
   ]
 }

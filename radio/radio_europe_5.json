@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-30T04:01:03Z",
+  "updated": "2026-10-01T04:09:48Z",
   "region": "europe",
   "part": 5,
   "of": 8,
@@ -16443,19 +16443,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_brian_daly_1944c914",
-      "title": "BRIAN DALY",
-      "subtitle": "Community Radio, Religious",
-      "imageUrl": "",
-      "streamUrl": "https://uksoutha.streaming.broadcast.radio:28140/lifefm",
-      "location": "IRELAND, Ireland",
-      "genre": "Community Radio",
-      "countryCode": "IE",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_beat_102_103_acabb60f",
       "title": "Beat 102 103",
       "subtitle": "Radio",
@@ -24562,19 +24549,6 @@
       "bitrate": 192
     },
     {
-      "id": "rb2_radio_caf_96410861",
-      "title": "Radio Café",
-      "subtitle": "Padova, Soft Music",
-      "imageUrl": "http://www.radiocafe.it/wp-content/uploads/2021/07/cropped-cafe-180x180.png",
-      "streamUrl": "http://onair11.xdevel.com:8000/;stream.mp3",
-      "location": "Veneto, Italy",
-      "genre": "Padova",
-      "countryCode": "IT",
-      "language": "italian",
-      "clickCount": 2,
-      "bitrate": 96
-    },
-    {
       "id": "rb2_radio_calabria_27_cf7ab587",
       "title": "Radio Calabria 27",
       "subtitle": "Folk, Pop",
@@ -27901,6 +27875,30 @@
       "clickCount": 3,
       "bitrate": 64,
       "streamUrl": "https://bay1.streamfm.it:8010/aacp"
+    },
+    {
+      "id": "radio_rai_1_it_7bafd43f",
+      "title": "Radio Rai 1",
+      "subtitle": "General",
+      "location": "Italy",
+      "genre": "General",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 14,
+      "bitrate": 256,
+      "streamUrl": "http://icestreaming.rai.it/1.mp3"
+    },
+    {
+      "id": "radio_brunetti_it_c12f18ea",
+      "title": "Radio Brunetti",
+      "subtitle": "Calabria",
+      "location": "Italy",
+      "genre": "Calabria",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://radio.riccardobrunetti.it/listen/cantus_radioweb_brunetti_/radio.mp3"
     }
   ]
 }

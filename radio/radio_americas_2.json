@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-09-30T04:01:03Z",
+  "updated": "2026-10-01T04:09:48Z",
   "region": "americas",
   "part": 2,
   "of": 5,
@@ -2740,19 +2740,6 @@
       "bitrate": 48
     },
     {
-      "id": "rb2_chtg_fm_92_9_the_grand_caledonia_on_fc326aaa",
-      "title": "CHTG-FM 92.9 \"The Grand\" Caledonia, ON",
-      "subtitle": "Classic Hits",
-      "imageUrl": "",
-      "streamUrl": "http://26283.live.streamtheworld.com:3690/CHTGFMAAC_SC",
-      "location": "Ontario, Canada",
-      "genre": "Classic Hits",
-      "countryCode": "CA",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 32
-    },
-    {
       "id": "rb2_chtm_102_9_fm_610_am_arctic_radio_thomps_1302889b",
       "title": "CHTM 102.9 FM & 610 AM \"Arctic Radio\" Thompson, MB",
       "subtitle": "Adult Contemporary",
@@ -3592,19 +3579,6 @@
       "language": "english",
       "clickCount": 0,
       "bitrate": 130
-    },
-    {
-      "id": "rb2_cirv_hd3_88_9_thaalam_fm_tamil_stream_to_815d6dcd",
-      "title": "CIRV-HD3 88.9 \"Thaalam FM\"(Tamil Stream) Toronto, ON",
-      "subtitle": "Multicultural",
-      "imageUrl": "",
-      "streamUrl": "http://ec4.yesstreaming.net:1990/stream",
-      "location": "Ontario, Canada",
-      "genre": "Multicultural",
-      "countryCode": "CA",
-      "language": "tamil",
-      "clickCount": 1,
-      "bitrate": 128
     },
     {
       "id": "rb2_cirx_fm_94_3_the_goat_prince_george_bc_7edef892",
@@ -25473,18 +25447,6 @@
       "streamUrl": "http://live.leanstream.co/CKDJFM-MP3?tunein"
     },
     {
-      "id": "chin_radio_100_7_ca_c6d80525",
-      "title": "CHIN Radio 100.7",
-      "subtitle": "Radio",
-      "location": "Canada",
-      "genre": "Radio",
-      "countryCode": "CA",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 32,
-      "streamUrl": "https://ice7.securenetsystems.net/CHINFM"
-    },
-    {
       "id": "106_1_exitos_san_vicente_cl_e1c994bd",
       "title": "106.1 Exitos San Vicente",
       "subtitle": "Radio",
@@ -27117,18 +27079,6 @@
       "streamUrl": "http://178.obj.netromedia.com:8000/6?type=http"
     },
     {
-      "id": "faith_99_9_chjx_ca_6bc6b94e",
-      "title": "FAITH 99.9 CHJX",
-      "subtitle": "Christian",
-      "location": "Canada",
-      "genre": "Christian",
-      "countryCode": "CA",
-      "language": "english",
-      "clickCount": 2,
-      "bitrate": 32,
-      "streamUrl": "https://ice7.securenetsystems.net/CHJXFM"
-    },
-    {
       "id": "k_rock_105_7_kingston_s_rock_station_ca_32665fd3",
       "title": "K-Rock 105.7 Kingston's Rock Station",
       "subtitle": "Radio",
@@ -28125,18 +28075,6 @@
       "streamUrl": "http://fr.ah.fm:8000/mobile"
     },
     {
-      "id": "cisl_sportsnet_650_richmond_bc_ca_986c778e",
-      "title": "CISL \"Sportsnet 650\" Richmond, BC",
-      "subtitle": "Commercial",
-      "location": "Canada",
-      "genre": "Commercial",
-      "countryCode": "CA",
-      "language": "english",
-      "clickCount": 3,
-      "bitrate": 46,
-      "streamUrl": "http://radioamd-i.akamaihd.net/hls/live/562166/cisl/master.m3u8"
-    },
-    {
       "id": "cbc_music_atlantic_halifax_mp3_stream_ca_3541a565",
       "title": "CBC Music Atlantic (Halifax) MP3 Stream",
       "subtitle": "Blues",
@@ -28399,6 +28337,42 @@
       "clickCount": 3,
       "bitrate": 146,
       "streamUrl": "https://r90.letio.com/io/?gs=7000&type=master.m3u8"
+    },
+    {
+      "id": "cbc_radio_one_sudbury_on_mp3_stream_ca_6fd75b88",
+      "title": "CBC Radio One - Sudbury, ON (MP3 stream)",
+      "subtitle": "Features",
+      "location": "Canada",
+      "genre": "Features",
+      "countryCode": "CA",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://26183.live.streamtheworld.com/CBCSFM_CBC_SC"
+    },
+    {
+      "id": "96_5_the_ranch_olds_ab_ca_1457b6dd",
+      "title": "96.5 \"The Ranch\" Olds, AB",
+      "subtitle": "Country",
+      "location": "Canada",
+      "genre": "Country",
+      "countryCode": "CA",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 57,
+      "streamUrl": "https://vistaradio.streamb.live/SB00385"
+    },
+    {
+      "id": "exaltaci_n_fm_do_8aec905d",
+      "title": "Exaltación FM",
+      "subtitle": "Religioso Católico",
+      "location": "The Dominican Republic",
+      "genre": "Religioso Católico",
+      "countryCode": "DO",
+      "language": "castellano. español",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://exaltacionfm.net:8070/stream"
     }
   ]
 }
