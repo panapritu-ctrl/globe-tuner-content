@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-01T04:09:48Z",
+  "updated": "2026-10-02T04:04:26Z",
   "region": "americas",
   "part": 2,
   "of": 5,
@@ -3930,15 +3930,6 @@
       "language": "english",
       "clickCount": 1,
       "bitrate": 132
-    },
-    {
-      "id": "cjad_800_ca_d8275c",
-      "title": "CJAD 800",
-      "subtitle": "Local News",
-      "location": "Quebec, Canada",
-      "genre": "News/Talk",
-      "streamUrl": "https://27243.live.streamtheworld.com/CJADAM_SC",
-      "countryCode": "CA"
     },
     {
       "id": "rb2_cjam_74ec6702",
@@ -11141,19 +11132,6 @@
       "language": null,
       "clickCount": 0,
       "bitrate": 192
-    },
-    {
-      "id": "rb2_thugzone_2869d990",
-      "title": "Thugzone",
-      "subtitle": "Radio",
-      "imageUrl": "https://thugzone.ca/gallery/DFCBD05D-2FC5-458C-B5D9-BD568EC100B6.jpg?ts=1722184608",
-      "streamUrl": "https://ingold.thugzone.ca/proxy/thugzone5/stream",
-      "location": "Toronto, Canada",
-      "genre": "Radio",
-      "countryCode": "CA",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
     },
     {
       "id": "rb2_tits_fm_0b3201eb",
@@ -21816,19 +21794,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_tamarindo_radio_d87d2461",
-      "title": "Tamarindo Radio",
-      "subtitle": "80S Rock, Classic Rock",
-      "imageUrl": "",
-      "streamUrl": "http://s1.voscast.com:11392/stream",
-      "location": "Costa Rica",
-      "genre": "80S Rock",
-      "countryCode": "CR",
-      "language": "spanish",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb_teletica_radio_9f41f5e7",
       "title": "Teletica Radio",
       "subtitle": "Información, Local News",
@@ -27487,18 +27452,6 @@
       "streamUrl": "http://178.obj.netromedia.com:8000/6"
     },
     {
-      "id": "duna_cl_68648ea7",
-      "title": "Duna",
-      "subtitle": "Business News",
-      "location": "Chile",
-      "genre": "Business News",
-      "countryCode": "CL",
-      "language": "español chile",
-      "clickCount": 2,
-      "bitrate": 128,
-      "streamUrl": "https://hls-audio-cl-1-isp.dps.live/duna/gotardis/audio/now/livestream1.m3u8"
-    },
-    {
       "id": "radio_la_movida_cl_043aba94",
       "title": "Radio La Movida",
       "subtitle": "Cumbia",
@@ -27605,18 +27558,6 @@
       "clickCount": 2,
       "bitrate": 0,
       "streamUrl": "https://stream.zeno.fm/vkancadp2v8uv"
-    },
-    {
-      "id": "radio_ipiales_caracol_hjjj_1400_khz_am_co_f382f10d",
-      "title": "Radio Ipiales Caracol (HJJJ, 1400 kHz AM)",
-      "subtitle": "Culture",
-      "location": "Colombia",
-      "genre": "Culture",
-      "countryCode": "CO",
-      "language": "spanish",
-      "clickCount": 2,
-      "bitrate": 128,
-      "streamUrl": "http://radiolatina.info:9456/;stream.nsv"
     },
     {
       "id": "cilq_107_1_q107_toronto_ca_3599b2e5",
@@ -28303,18 +28244,6 @@
       "streamUrl": "http://live.leanstream.co/CKWFFM-MP3"
     },
     {
-      "id": "ckdk_103_9_country_104_woodstock_on_ca_cf4f8800",
-      "title": "CKDK 103.9 \"Country 104\" Woodstock, ON",
-      "subtitle": "Commercial",
-      "location": "Canada",
-      "genre": "Commercial",
-      "countryCode": "CA",
-      "language": "english",
-      "clickCount": 3,
-      "bitrate": 128,
-      "streamUrl": "http://live.leanstream.co/CKDKFM-MP3"
-    },
-    {
       "id": "cbc_radio_one_fredericton_nb_mp3_stream_ca_359a179f",
       "title": "CBC Radio One - Fredericton, NB (MP3 stream)",
       "subtitle": "Features",
@@ -28373,6 +28302,90 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://exaltacionfm.net:8070/stream"
+    },
+    {
+      "id": "radio_progreso_90_3_fm_cu_6cc544ba",
+      "title": "Radio Progreso 90.3 FM",
+      "subtitle": "90.3 Fm",
+      "location": "Cuba",
+      "genre": "90.3 Fm",
+      "countryCode": "CU",
+      "language": "spanish",
+      "clickCount": 9,
+      "bitrate": 64,
+      "streamUrl": "https://securestreams7.autopo.st/?uri=https://icecast.teveo.cu/XjfW7qWN"
+    },
+    {
+      "id": "cflg_104_5_fresh_radio_cornwall_on_ca_f0e9973d",
+      "title": "CFLG 104.5 \"Fresh Radio\" Cornwall, ON",
+      "subtitle": "Commercial",
+      "location": "Canada",
+      "genre": "Commercial",
+      "countryCode": "CA",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "http://live.leanstream.co/CFLGFM-MP3"
+    },
+    {
+      "id": "ckyr_fm_106_7_red_fm_calgary_ab_ca_95aa6633",
+      "title": "CKYR-FM 106.7 \"Red FM\" Calgary, AB",
+      "subtitle": "20 Languages",
+      "location": "Canada",
+      "genre": "20 Languages",
+      "countryCode": "CA",
+      "language": "17 addtional languages",
+      "clickCount": 3,
+      "bitrate": 32,
+      "streamUrl": "https://ice10.securenetsystems.net/CKYR"
+    },
+    {
+      "id": "ckdo_1580_107_7_oshawa_on_ca_f11b4e65",
+      "title": "CKDO 1580 & 107.7 Oshawa, ON",
+      "subtitle": "Classic Hits",
+      "location": "Canada",
+      "genre": "Classic Hits",
+      "countryCode": "CA",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "http://26733.live.streamtheworld.com:3690/CKDOFMAAC_SC"
+    },
+    {
+      "id": "cktp_95_7_the_wolf_fredericton_nb_ca_f0733646",
+      "title": "CKTP 95.7 \"The Wolf\" Fredericton, NB",
+      "subtitle": "Blues",
+      "location": "Canada",
+      "genre": "Blues",
+      "countryCode": "CA",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "http://149.56.234.138:8173/stream"
+    },
+    {
+      "id": "chom_97_7_montr_al_ca_3de6b46c",
+      "title": "CHOM 97.7 Montréal",
+      "subtitle": "Radio",
+      "location": "Canada",
+      "genre": "Radio",
+      "countryCode": "CA",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://rogers-hls.leanstream.co/rogers/chomfm.stream/playlist.m3u8"
+    },
+    {
+      "id": "beethovenfm_cl_9d9200b4",
+      "title": "BeethovenFM",
+      "subtitle": "Radio",
+      "location": "Chile",
+      "genre": "Radio",
+      "countryCode": "CL",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://unlimited3-cl.dps.live/beethovenfm/go/audio/now/livestream1.m3u8"
     }
   ]
 }

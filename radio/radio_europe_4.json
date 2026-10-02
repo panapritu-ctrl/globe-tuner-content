@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-01T04:09:48Z",
+  "updated": "2026-10-02T04:04:26Z",
   "region": "europe",
   "part": 4,
   "of": 8,
@@ -8567,19 +8567,6 @@
       "bitrate": 96
     },
     {
-      "id": "rb2_ilr_network_69662dd5",
-      "title": "ILR Network",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://stream2.hippynet.co.uk:8222/stream",
-      "location": "Nottinghamshire, The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "Radio",
-      "countryCode": "GB",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_itv_b35b6004",
       "title": "ITV",
       "subtitle": "Tv Audio",
@@ -10210,19 +10197,6 @@
       "streamUrl": "http://stream1.themediasite.co.uk:8038/stream",
       "location": "Greater Manchester, The United Kingdom Of Great Britain And Northern Ireland",
       "genre": "1980S",
-      "countryCode": "GB",
-      "language": "english",
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_love_da_beat_radio_2258c05c",
-      "title": "Love Da Beat Radio",
-      "subtitle": "Dance, Folk",
-      "imageUrl": "",
-      "streamUrl": "http://streaming.shoutcast.com/love-da-beat-radio",
-      "location": "London, England, The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "Dance",
       "countryCode": "GB",
       "language": "english",
       "clickCount": 1,
@@ -27596,6 +27570,78 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://netradio.live24.gr/rythmospatras949"
+    },
+    {
+      "id": "1st_greek_classical_flac_radio_128kbps_mp3_gr_a50ab7ec",
+      "title": "1st Greek Classical FLAC Radio 128kbps MP3",
+      "subtitle": "Radio",
+      "location": "Greece",
+      "genre": "Radio",
+      "countryCode": "GR",
+      "language": null,
+      "clickCount": 9,
+      "bitrate": 128,
+      "streamUrl": "https://stream.newageradio.gr/listen/classical/radio.mp3"
+    },
+    {
+      "id": "1st_greek_classical_flac_radio_lossless_gr_34f593f0",
+      "title": "1st Greek Classical FLAC Radio  Lossless",
+      "subtitle": "Classical",
+      "location": "Greece",
+      "genre": "Classical",
+      "countryCode": "GR",
+      "language": "english",
+      "clickCount": 8,
+      "bitrate": 128,
+      "streamUrl": "https://stream.newageradio.gr/listen/classical/radio.flac"
+    },
+    {
+      "id": "1st_greek_folk_flac_radio_aac_gr_0cec8f4a",
+      "title": "1st Greek Folk FLAC Radio AAC+",
+      "subtitle": "Folk",
+      "location": "Greece",
+      "genre": "Folk",
+      "countryCode": "GR",
+      "language": "english.",
+      "clickCount": 7,
+      "bitrate": 320,
+      "streamUrl": "https://stream.newageradio.gr/listen/folk_gr/radio.aac"
+    },
+    {
+      "id": "1st_greek_classical_flac_radio_aac_320k_gr_3335c84b",
+      "title": "1st Greek Classical FLAC Radio AAC+ 320k",
+      "subtitle": "Classical",
+      "location": "Greece",
+      "genre": "Classical",
+      "countryCode": "GR",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 320,
+      "streamUrl": "https://stream.newageradio.gr/listen/classical/radio.aac"
+    },
+    {
+      "id": "1st_greek_folk_flac_radio_mp3_128k_gr_ba4a3b99",
+      "title": "1st Greek Folk FLAC Radio MP3 128k",
+      "subtitle": "Folk",
+      "location": "Greece",
+      "genre": "Folk",
+      "countryCode": "GR",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream.newageradio.gr/listen/folk_gr/radio.mp3"
+    },
+    {
+      "id": "1st_greek_folk_flac_radio_lossless_gr_a68e97c5",
+      "title": "1st Greek Folk FLAC Radio Lossless",
+      "subtitle": "Folk",
+      "location": "Greece",
+      "genre": "Folk",
+      "countryCode": "GR",
+      "language": "english.",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream.newageradio.gr/listen/folk_gr/radio.flac"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-01T04:09:48Z",
+  "updated": "2026-10-02T04:04:26Z",
   "region": "asia",
   "part": 3,
   "of": 3,
@@ -14226,18 +14226,6 @@
       "streamUrl": "http://phate.io/listen"
     },
     {
-      "id": "thai_tv_5_hd_th_58af2d62",
-      "title": "Thai TV 5 HD",
-      "subtitle": "Radio",
-      "location": "Thailand",
-      "genre": "Radio",
-      "countryCode": "TH",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 2760,
-      "streamUrl": "https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8"
-    },
-    {
       "id": "haber_t_rk_radyo_tr_6ed09e3c",
       "title": "Haber Türk Radyo",
       "subtitle": "News",
@@ -16050,18 +16038,6 @@
       "streamUrl": "http://comet.shoutca.st:8165/stream"
     },
     {
-      "id": "dzmm_radyo_patrol_630_ph_0f1b5a34",
-      "title": "DZMM Radyo Patrol 630",
-      "subtitle": "Radio",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "language": null,
-      "clickCount": 24,
-      "bitrate": 64,
-      "streamUrl": "http://209.126.124.126:8852/stream"
-    },
-    {
       "id": "lazuri_radyo_tr_302cdd87",
       "title": "Lazuri Radyo",
       "subtitle": "Arhavi",
@@ -16468,18 +16444,6 @@
       "clickCount": 2,
       "bitrate": 0,
       "streamUrl": "https://ozone2.javmemory.com/Looktung.mp3"
-    },
-    {
-      "id": "mcot_100_5_th_2bf73158",
-      "title": "MCOT 100.5",
-      "subtitle": "Radio",
-      "location": "Thailand",
-      "genre": "Radio",
-      "countryCode": "TH",
-      "language": null,
-      "clickCount": 5,
-      "bitrate": 2000,
-      "streamUrl": "https://lcdn.mcot.net/RadioLive/smil:fm1005_live.smil/playlist.m3u8"
     },
     {
       "id": "konya_i_sra_fm_tr_52818a29",
@@ -17116,6 +17080,78 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "https://cdn.voscast.com/resources/?key=4e1e2d7ac97ea7ad9493c529df2ab16c&c=wmp"
+    },
+    {
+      "id": "dzmm_radyo_patrol_630_ph_0f1b5a34",
+      "title": "DZMM Radyo Patrol 630",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 19,
+      "bitrate": 64,
+      "streamUrl": "http://209.126.124.126:8852/stream"
+    },
+    {
+      "id": "sawt_el_ghad_tarab_ps_5d3eed9e",
+      "title": "Sawt El Ghad - Tarab",
+      "subtitle": "Oldies",
+      "location": "State Of Palestine",
+      "genre": "Oldies",
+      "countryCode": "PS",
+      "language": "arabic",
+      "clickCount": 10,
+      "bitrate": 128,
+      "streamUrl": "https://sawtelghad.org:7007/;"
+    },
+    {
+      "id": "radyo_mega_tr_55e90ef0",
+      "title": "RADYO MEGA",
+      "subtitle": "Radio",
+      "location": "Türkiye",
+      "genre": "Radio",
+      "countryCode": "TR",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://megaradyoiskenderun.ozelip.com/8024/stream"
+    },
+    {
+      "id": "radyo_kaibigan_valencia_ph_1734449b",
+      "title": "Radyo Kaibigan Valencia",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 48,
+      "streamUrl": "http://148.72.153.65:8119/high"
+    },
+    {
+      "id": "radyo_bagting_756_ph_6a0da4e8",
+      "title": "RADYO BAGTING 756",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 64,
+      "streamUrl": "http://209.126.124.126:8901/stream"
+    },
+    {
+      "id": "radyo_devrek_tr_cfa15d2f",
+      "title": "Radyo Devrek",
+      "subtitle": "Radio",
+      "location": "Türkiye",
+      "genre": "Radio",
+      "countryCode": "TR",
+      "language": "turkçe",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://live.sinirsizhost.com.tr/8008/stream"
     }
   ]
 }

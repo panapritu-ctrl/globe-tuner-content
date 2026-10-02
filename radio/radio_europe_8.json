@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-01T04:09:48Z",
+  "updated": "2026-10-02T04:04:26Z",
   "region": "europe",
   "part": 8,
   "of": 8,
@@ -14805,19 +14805,6 @@
       "bitrate": 256
     },
     {
-      "id": "rb2_station_fe1138b9",
-      "title": "Старый Маяк",
-      "subtitle": "Ретро",
-      "imageUrl": "https://i.etsystatic.com/34399975/r/il/46739a/5733038281/il_fullxfull.5733038281_i9e4.jpg",
-      "streamUrl": "https://yacht-radio.lv:1175/stream",
-      "location": "Москва, The Russian Federation",
-      "genre": "Ретро",
-      "countryCode": "RU",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 320
-    },
-    {
       "id": "rb2_station_303e3d9b",
       "title": "Старый портфель",
       "subtitle": "Radio",
@@ -21306,19 +21293,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_station_5538ea54",
-      "title": "Бізнес Радіо",
-      "subtitle": "Music, National",
-      "imageUrl": "",
-      "streamUrl": "https://cast.brg.ua/businessradio_main_public_mp3_hq",
-      "location": "Ukraine",
-      "genre": "Music",
-      "countryCode": "UA",
-      "language": "ukrainian",
-      "clickCount": 0,
-      "bitrate": 256
-    },
-    {
       "id": "rb2_khvylia_shchastia_3884fc2b",
       "title": "Волна счастья Khvylia Shchastia",
       "subtitle": "Christian, Religious",
@@ -25154,18 +25128,6 @@
       "streamUrl": "https://radio.nedodev.ru/stream"
     },
     {
-      "id": "anima_amoris_dt_ru_4bfe1708",
-      "title": "Anima Amoris DT",
-      "subtitle": "Dub Techno",
-      "location": "The Russian Federation",
-      "genre": "Dub Techno",
-      "countryCode": "RU",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 0,
-      "streamUrl": "https://amoris.sknt.ru/dubtechno.mp3"
-    },
-    {
       "id": "caprice_indian_folk_ru_c3bfce0c",
       "title": "caprice indian folk",
       "subtitle": "Radio",
@@ -25332,6 +25294,66 @@
       "clickCount": 5,
       "bitrate": 320,
       "streamUrl": "https://radio.mfm.ua/online128"
+    },
+    {
+      "id": "eurohit_russia_classics_ru_3423b9cf",
+      "title": "EuroHit Russia Classics",
+      "subtitle": "2000S",
+      "location": "The Russian Federation",
+      "genre": "2000S",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "http://aska.ru-hoster.com:8019/stream"
+    },
+    {
+      "id": "deep_fm_ru_c253f4ab",
+      "title": "Deep FM",
+      "subtitle": "Deep",
+      "location": "The Russian Federation",
+      "genre": "Deep",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://deep.amgradio.ru/deepfm.aacp"
+    },
+    {
+      "id": "radcap_female_vocal_in_metal_ru_80fec19d",
+      "title": "RadCap - Female Vocal in Metal",
+      "subtitle": "Female Vocal In Metal",
+      "location": "The Russian Federation",
+      "genre": "Female Vocal In Metal",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 4,
+      "bitrate": 320,
+      "streamUrl": "http://79.111.14.76:8004/femalemetal"
+    },
+    {
+      "id": "fm_business_fm_moscow_ru_f3918cb1",
+      "title": "Бизнес FM —  Business Fm (Moscow)",
+      "subtitle": "News",
+      "location": "The Russian Federation",
+      "genre": "News",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 256,
+      "streamUrl": "https://bfm.hostingradio.ru/bfm256.mp3?radiostatistica=bfmru"
+    },
+    {
+      "id": "32_ua_e0865c52",
+      "title": "Львівська хвиля (32 кбіт/с)",
+      "subtitle": "Radio",
+      "location": "Ukraine",
+      "genre": "Radio",
+      "countryCode": "UA",
+      "language": "ukrainian",
+      "clickCount": 4,
+      "bitrate": 96,
+      "streamUrl": "http://onair.lviv.fm:8000/lviv32.fm"
     }
   ]
 }

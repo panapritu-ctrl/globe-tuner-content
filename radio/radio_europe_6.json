@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-01T04:09:49Z",
+  "updated": "2026-10-02T04:04:26Z",
   "region": "europe",
   "part": 6,
   "of": 8,
@@ -10506,19 +10506,6 @@
       "bitrate": 192
     },
     {
-      "id": "rb2_brasstime_radio_05e6ca7d",
-      "title": "Brasstime Radio",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://stream-10.pmteurope.com:8032/stream",
-      "location": "Netherlands, The Netherlands",
-      "genre": "Radio",
-      "countryCode": "NL",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 192
-    },
-    {
       "id": "rb2_bredanu_1b3649c7",
       "title": "BredaNu",
       "subtitle": "Pop",
@@ -11290,19 +11277,6 @@
       "language": "dutch",
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_elvismatters_radio_84510be8",
-      "title": "ElvisMatters Radio",
-      "subtitle": "Radio",
-      "imageUrl": "https://elvismatters.com/headers/default/logo_links.gif",
-      "streamUrl": "http://mediaserv30.live-streams.nl:8049/stream",
-      "location": "The Netherlands",
-      "genre": "Radio",
-      "countryCode": "NL",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 192
     },
     {
       "id": "rb2_epic_prog_radio_628fbe3f",
@@ -17347,19 +17321,6 @@
       "bitrate": 320
     },
     {
-      "id": "rb2_samen_1_74d55125",
-      "title": "SAMEN 1",
-      "subtitle": "Local News, Local Radio",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Samen1_Logo.png/250px-Samen1_Logo.png",
-      "streamUrl": "https://server-67.stream-server.nl:8754/stream",
-      "location": "Gelderland, Apeldoorn, The Netherlands",
-      "genre": "Local News",
-      "countryCode": "NL",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_slam_2b552aa7",
       "title": "SLAM",
       "subtitle": "Radio",
@@ -22319,19 +22280,6 @@
       "bitrate": 64
     },
     {
-      "id": "rb2_rmf_beatlemania_fakty_1093bea5",
-      "title": "RMF Beatlemania + FAKTY",
-      "subtitle": "Beatles",
-      "imageUrl": "http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
-      "streamUrl": "http://195.150.20.8/BEATLEMANIAF",
-      "location": "Krakow, Poland",
-      "genre": "Beatles",
-      "countryCode": "PL",
-      "language": "polish",
-      "clickCount": 0,
-      "bitrate": 64
-    },
-    {
       "id": "rb2_rmf_blues_960dc3a5",
       "title": "RMF Blues",
       "subtitle": "Blues",
@@ -23117,19 +23065,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_rmf_michael_jackson_96432874",
-      "title": "RMF Michael Jackson",
-      "subtitle": "Jackson",
-      "imageUrl": "http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
-      "streamUrl": "http://195.150.20.9/MICHALEJACKSON",
-      "location": "Krakow, Poland",
-      "genre": "Jackson",
-      "countryCode": "PL",
-      "language": "polish",
-      "clickCount": 4,
-      "bitrate": 64
-    },
-    {
       "id": "rb2_rmf_michael_jackson_fakty_11cb6339",
       "title": "RMF Michael Jackson + FAKTY",
       "subtitle": "Jackson",
@@ -23457,19 +23392,6 @@
       "countryCode": "PL",
       "language": "polish",
       "clickCount": 3,
-      "bitrate": 64
-    },
-    {
-      "id": "rb2_rmf_reggae_fakty_3e953305",
-      "title": "RMF Reggae + FAKTY",
-      "subtitle": "Reggae",
-      "imageUrl": "http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
-      "streamUrl": "http://195.150.20.7/REGGAEF",
-      "location": "Krakow, Poland",
-      "genre": "Reggae",
-      "countryCode": "PL",
-      "language": "polish",
-      "clickCount": 2,
       "bitrate": 64
     },
     {
@@ -27585,6 +27507,66 @@
       "clickCount": 4,
       "bitrate": 320,
       "streamUrl": "https://visual.shoutca.st:8122/stream"
+    },
+    {
+      "id": "80s_remix_radio_it_b8961f1b",
+      "title": "80s Remix Radio",
+      "subtitle": "80'S",
+      "location": "Italy",
+      "genre": "80'S",
+      "countryCode": "IT",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://a10.asurahosting.com:8350/radio.mp3"
+    },
+    {
+      "id": "ehr_festiv_lu_hiti_lv_ca06d099",
+      "title": "EHR Festivālu Hiti",
+      "subtitle": "Skaļāko Festivālu Mūzikas Izlase",
+      "location": "Latvia",
+      "genre": "Skaļāko Festivālu Mūzikas Izlase",
+      "countryCode": "LV",
+      "language": "latvian",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "http://stream.ehrhiti.lv:8000/Stream_73.mp3"
+    },
+    {
+      "id": "fm_italia_it_0e0622c5",
+      "title": "FM Italia",
+      "subtitle": "News",
+      "location": "Italy",
+      "genre": "News",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://stream5.xdevel.com/audio1s975817-360/stream/icecast.audio"
+    },
+    {
+      "id": "radijo_musikii_lt_26dd207b",
+      "title": "Radijo Musikii",
+      "subtitle": "Radio",
+      "location": "Lithuania",
+      "genre": "Radio",
+      "countryCode": "LT",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream.radijo-musikii.net/radio/8000/radio.mp3"
+    },
+    {
+      "id": "ehr_ice_ice_party_lv_2f020694",
+      "title": "EHR Ice Ice Party",
+      "subtitle": "Labākie Deju Superhiti",
+      "location": "Latvia",
+      "genre": "Labākie Deju Superhiti",
+      "countryCode": "LV",
+      "language": "latvian",
+      "clickCount": 4,
+      "bitrate": 112,
+      "streamUrl": "http://stream.ehrhiti.lv:8000/Stream_67.mp3"
     }
   ]
 }
