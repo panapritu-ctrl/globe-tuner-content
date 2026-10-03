@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-02T04:04:26Z",
+  "updated": "2026-10-03T03:49:27Z",
   "region": "europe",
   "part": 6,
   "of": 8,
@@ -22909,19 +22909,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_rmf_maxx_sunrise_2425c1e5",
-      "title": "RMF MAXX SUNRISE",
-      "subtitle": "Dance",
-      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20231127_192138563.png?alt=media&token=4f1adf1e-9e8d-46ac-96d2-ff553803f46a",
-      "streamUrl": "http://195.150.20.7/MAXXSUNF",
-      "location": "Poland",
-      "genre": "Dance",
-      "countryCode": "PL",
-      "language": "polish",
-      "clickCount": 0,
-      "bitrate": 64
-    },
-    {
       "id": "rb2_rmf_maxx_l_sk_09f6a91a",
       "title": "RMF MAXX ŚLĄSK",
       "subtitle": "Pop",
@@ -26981,18 +26968,6 @@
       "streamUrl": "https://intergalactic.tv/live/smil:tv.smil/playlist.m3u8"
     },
     {
-      "id": "radio_puls_luxembourg_lu_6e9bf34e",
-      "title": "Radio Puls Luxembourg",
-      "subtitle": "Folk",
-      "location": "Luxembourg",
-      "genre": "Folk",
-      "countryCode": "LU",
-      "language": "serbian",
-      "clickCount": 3,
-      "bitrate": 0,
-      "streamUrl": "https://uk1.listen2myradio.com:2199/listen.php?port=8312&type=s2&mount=/stream"
-    },
-    {
       "id": "radio_peiteng_on_air_lu_e4b7adc4",
       "title": "Radio Peiteng on Air",
       "subtitle": "Radio",
@@ -27567,6 +27542,30 @@
       "clickCount": 4,
       "bitrate": 112,
       "streamUrl": "http://stream.ehrhiti.lv:8000/Stream_67.mp3"
+    },
+    {
+      "id": "l_fm_de_gezelligste_zender_van_brabant_nl_30f75183",
+      "title": "L-FM - De gezelligste zender van Brabant",
+      "subtitle": "60S",
+      "location": "The Netherlands",
+      "genre": "60S",
+      "countryCode": "NL",
+      "language": "brabants",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream.l-fm.nl:8443/;"
+    },
+    {
+      "id": "noderunners_radio_nl_d7234af8",
+      "title": "Noderunners Radio",
+      "subtitle": "Bitcoin",
+      "location": "The Netherlands",
+      "genre": "Bitcoin",
+      "countryCode": "NL",
+      "language": "dutch",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://stream.noderunnersradio.com/stream"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-02T04:04:26Z",
+  "updated": "2026-10-03T03:49:27Z",
   "region": "oceania",
   "stations": [
     {
@@ -5296,19 +5296,6 @@
       "countryCode": "AU",
       "language": "english",
       "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_australian_digital_radio_network_folk_mp_b0881706",
-      "title": "Australian Digital Radio Network - Folk (MP3)",
-      "subtitle": "Folk",
-      "imageUrl": "http://www.australiandigitalradio.com/favicon.ico",
-      "streamUrl": "http://abm21.com.au:8000/CONTAINER123",
-      "location": "Sydney NSW, Australia",
-      "genre": "Folk",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 1,
       "bitrate": 128
     },
     {
@@ -10894,19 +10881,6 @@
       "language": "english",
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_light_fm_89_9_bf6a3357",
-      "title": "Light FM 89.9",
-      "subtitle": "Cristian, Positive",
-      "imageUrl": "",
-      "streamUrl": "http://stream.thelight.com.au:8138/;",
-      "location": "VIC, Australia",
-      "genre": "Cristian",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 64
     },
     {
       "id": "rb2_loving_life_fm_grafton_103_1_fm_aac_a7a9eb42",
@@ -17079,19 +17053,6 @@
       "bitrate": 192
     },
     {
-      "id": "rb2_radio_kidnappers_3c5bb36b",
-      "title": "Radio Kidnappers",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://live.accessmedia.nz/Kidnappers.stream_aac/playlist.m3u8",
-      "location": "Hawkes Bay, New Zealand",
-      "genre": "Radio",
-      "countryCode": "NZ",
-      "language": "english",
-      "clickCount": 1,
-      "bitrate": 151
-    },
-    {
       "id": "radio_one_91fm_nz_b56298",
       "title": "Radio One 91FM",
       "subtitle": "Community Radio",
@@ -18165,18 +18126,6 @@
       "streamUrl": "https://wz0liw.scahw.com.au/live/aussiedance_128.stream/playlist.m3u8"
     },
     {
-      "id": "listnr_waterfall_soundscapes_au_58f4d0c8",
-      "title": "LiSTNR - Waterfall [Soundscapes]",
-      "subtitle": "Soundscape",
-      "location": "Australia",
-      "genre": "Soundscape",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 3,
-      "bitrate": 0,
-      "streamUrl": "http://wz0liw.scahw.com.au/live/waterfall_128.stream/playlist.m3u8"
-    },
-    {
       "id": "listnr_cooling_fan_white_noise_soundscapes_au_161fe3af",
       "title": "LiSTNR - Cooling Fan (White Noise) [Soundscapes]",
       "subtitle": "Cooling Fan",
@@ -18187,6 +18136,18 @@
       "clickCount": 3,
       "bitrate": 0,
       "streamUrl": "http://wz0liw.scahw.com.au/live/fan_128.stream/playlist.m3u8"
+    },
+    {
+      "id": "listnr_sleep_hls_au_51872f43",
+      "title": "LiSTNR - Sleep (HLS)",
+      "subtitle": "Sleep",
+      "location": "Australia",
+      "genre": "Sleep",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "http://wz0lic.scahw.com.au/live/sleep.stream/playlist.m3u8"
     }
   ]
 }

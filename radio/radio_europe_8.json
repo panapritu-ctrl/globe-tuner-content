@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-02T04:04:26Z",
+  "updated": "2026-10-03T03:49:27Z",
   "region": "europe",
   "part": 8,
   "of": 8,
@@ -20171,19 +20171,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_espreso_tv_audiostream_15071367",
-      "title": "Espreso tv (audiostream)",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://89.184.66.93:8000/EspresoTV",
-      "location": "Ukraine",
-      "genre": "Radio",
-      "countryCode": "UA",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_fm_disco_melody_70f82553",
       "title": "FM Disco Melody",
       "subtitle": "Disco, Pop",
@@ -24408,18 +24395,6 @@
       "streamUrl": "https://online.radiokiks.sk:8000/kiks_big90s.mp3"
     },
     {
-      "id": "897_sk_4e6d891b",
-      "title": "897",
-      "subtitle": "Club",
-      "location": "Slovakia",
-      "genre": "Club",
-      "countryCode": "SK",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 128,
-      "streamUrl": "https://c34.radioboss.fm:8106/stream"
-    },
-    {
       "id": "omega_radio_ru_39be939c",
       "title": "Ω  Omega - Radio",
       "subtitle": "Radio",
@@ -25354,6 +25329,90 @@
       "clickCount": 4,
       "bitrate": 96,
       "streamUrl": "http://onair.lviv.fm:8000/lviv32.fm"
+    },
+    {
+      "id": "deep_one_ru_68ff36ee",
+      "title": "Deep One",
+      "subtitle": "Deep House",
+      "location": "The Russian Federation",
+      "genre": "Deep House",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 12,
+      "bitrate": 128,
+      "streamUrl": "https://stream.deep1.ru/deep1mp3"
+    },
+    {
+      "id": "station_ru_1f21226f",
+      "title": "Старый Маяк",
+      "subtitle": "Ретро",
+      "location": "The Russian Federation",
+      "genre": "Ретро",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 320,
+      "streamUrl": "https://yacht-radio.lv:1175/stream"
+    },
+    {
+      "id": "new_age_radio_ru_7e14d5b2",
+      "title": "New Age Radio",
+      "subtitle": "Radio",
+      "location": "The Russian Federation",
+      "genre": "Radio",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "http://a7.radioheart.ru:8044/newageradio?_ga=2.255684622.769977034.1646991967-126118534.1646991967"
+    },
+    {
+      "id": "station_ru_922f79c2",
+      "title": "Елена ФМ",
+      "subtitle": "Radio",
+      "location": "The Russian Federation",
+      "genre": "Radio",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://listen7.myradio24.com/radioelena"
+    },
+    {
+      "id": "andean_south_american_music_radio_caprice_ru_103a6035",
+      "title": "ANDEAN / SOUTH AMERICAN MUSIC - Radio Caprice",
+      "subtitle": "Radio",
+      "location": "The Russian Federation",
+      "genre": "Radio",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 320,
+      "streamUrl": "http://213.141.131.10:8000/andean"
+    },
+    {
+      "id": "r_dio_vlna_oldies_party_sk_b3d36bf5",
+      "title": "Rádio Vlna Oldies Party",
+      "subtitle": "Oldies",
+      "location": "Slovakia",
+      "genre": "Oldies",
+      "countryCode": "SK",
+      "language": "slovak",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://stream.radiovlna.sk/party-hi.mp3"
+    },
+    {
+      "id": "alternative_insurgent_country_music_caprice_radio_ru_33bda0eb",
+      "title": "Alternative / Insurgent Country Music - Caprice Radio",
+      "subtitle": "Alternative Country",
+      "location": "The Russian Federation",
+      "genre": "Alternative Country",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 320,
+      "streamUrl": "http://79.111.119.111:8000/altcountry"
     }
   ]
 }
