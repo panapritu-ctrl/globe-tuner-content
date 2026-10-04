@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-03T03:49:27Z",
+  "updated": "2026-10-04T04:20:27Z",
   "region": "asia",
   "part": 3,
   "of": 3,
@@ -4059,15 +4059,6 @@
       "genre": "Radio",
       "countryCode": "PK",
       "streamUrl": "https://whmsonic.radio.gov.pk:7003/stream"
-    },
-    {
-      "id": "radio_pakistan_lahore_pk_cab938",
-      "title": "Radio Pakistan Lahore",
-      "subtitle": "🌀",
-      "location": "Pakistan",
-      "genre": "🌀",
-      "streamUrl": "https://whmsonic.radio.gov.pk:8026/relay?type=http&nocache=9",
-      "countryCode": "PK"
     },
     {
       "id": "radio_pakistan_lahore_news_and_current_a_pk_34cdd9",
@@ -11890,19 +11881,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_station_c17de880",
-      "title": "新竹勞工之聲",
-      "subtitle": "Music",
-      "imageUrl": "https://www.pulse899.com/storage/2023/12/pulse-logo.png",
-      "streamUrl": "http://202.39.43.67:1935/live/RA000101/chunklist.m3u8",
-      "location": "Taiwan, Republic Of China",
-      "genre": "Music",
-      "countryCode": "TW",
-      "language": "chinese",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_station_550d2edb",
       "title": "新竹好聽廣播電台",
       "subtitle": "Music",
@@ -15660,18 +15638,6 @@
       "streamUrl": "http://111.125.87.226:8000/rjfm"
     },
     {
-      "id": "radyong_sira_ph_b54541b0",
-      "title": "Radyong Sira!",
-      "subtitle": "Radio",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "language": "english",
-      "clickCount": 3,
-      "bitrate": 192,
-      "streamUrl": "https://a7.asurahosting.com:9110/radio.mp3"
-    },
-    {
       "id": "dinamo_fm_discotheque_tr_694a4cfe",
       "title": "dinamo.fm discotheque",
       "subtitle": "70S",
@@ -17122,6 +17088,54 @@
       "clickCount": 4,
       "bitrate": 48,
       "streamUrl": "http://209.126.124.126:8647/stream"
+    },
+    {
+      "id": "radiotedu_jazz_flac_tr_6008ea5e",
+      "title": "RadioTEDU Jazz FLAC",
+      "subtitle": "Ankara",
+      "location": "Türkiye",
+      "genre": "Ankara",
+      "countryCode": "TR",
+      "language": "turkish",
+      "clickCount": 4,
+      "bitrate": 320,
+      "streamUrl": "https://stream.radiotedu.com/cazz-flac"
+    },
+    {
+      "id": "rpn_dykb_bacolod_ph_1b45a4f1",
+      "title": "RPN DYKB Bacolod",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 64,
+      "streamUrl": "http://88.198.70.25:8251/stream"
+    },
+    {
+      "id": "top_news_th_2c8bc281",
+      "title": "Top News",
+      "subtitle": "Hls Video",
+      "location": "Thailand",
+      "genre": "Hls Video",
+      "countryCode": "TH",
+      "language": "thai",
+      "clickCount": 3,
+      "bitrate": 300,
+      "streamUrl": "https://live.topnews.co.th/hls/topnews.m3u8"
+    },
+    {
+      "id": "nbt_central_digital_tv_channel_11_th_e4585bc4",
+      "title": "NBT Central: digital TV channel 11",
+      "subtitle": "Radio",
+      "location": "Thailand",
+      "genre": "Radio",
+      "countryCode": "TH",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 3128,
+      "streamUrl": "https://cdn-edge.iiptvcdn.com/live_event/smil:6ee0-5126-0cee-7ba2-18b7.smil/playlist.m3u8?null"
     }
   ]
 }

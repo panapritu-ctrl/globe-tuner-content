@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-03T03:48:52Z",
+  "updated": "2026-10-04T04:20:27Z",
   "region": "africa",
   "stations": [
     {
@@ -364,15 +364,6 @@
       "streamUrl": "https://icecast.skyrock.net/s/abidjan_aac_64k"
     },
     {
-      "id": "trace_fm_c_te_d_ivoire_ci_962292",
-      "title": "Trace FM Côte d’Ivoire",
-      "subtitle": "African Music",
-      "location": "Coted Ivoire",
-      "genre": "Hip Hop",
-      "countryCode": "CI",
-      "streamUrl": "http://stream.trace.tv/trace_fm_ci-midfi.aac"
-    },
-    {
       "id": "balla_radio_cm",
       "title": "Balla Radio",
       "subtitle": "African Music",
@@ -582,15 +573,6 @@
       "genre": "Radio",
       "countryCode": "DZ",
       "streamUrl": "https://radiochaine2.ice.infomaniak.ch/chaine2.mp3"
-    },
-    {
-      "id": "alg_rie_cha_ne_3_dz",
-      "title": "Algérie Chaîne 3",
-      "subtitle": "Culture / Music",
-      "location": "Algeria",
-      "genre": "News",
-      "countryCode": "DZ",
-      "streamUrl": "https://radiochaine3.ice.infomaniak.ch/chaine3.mp3"
     },
     {
       "id": "rb_beur_fm_8cd4aff2",
@@ -3436,15 +3418,6 @@
       "genre": "Hip-Hop",
       "countryCode": "MW",
       "streamUrl": "https://stream.zeno.fm/0r0xa792kwzuv"
-    },
-    {
-      "id": "mbc_radio_2fm_mw",
-      "title": "MBC Radio 2FM",
-      "subtitle": "MP3 0kbps",
-      "location": "Malawi",
-      "genre": "Music",
-      "countryCode": "MW",
-      "streamUrl": "http://radiostream.mbc.mw:86/broadwavehigh.mp3?src=1"
     },
     {
       "id": "rb_mdubs_entertainment_c0c4fe2e",
@@ -8484,18 +8457,6 @@
       "streamUrl": "https://uradio-aac.ice.infomaniak.ch/uradio.aac"
     },
     {
-      "id": "memories_96_5fm_uyo_ng_ac22e6a1",
-      "title": "MEMORIES 96.5FM UYO",
-      "subtitle": "Radio",
-      "location": "Nigeria",
-      "genre": "Radio",
-      "countryCode": "NG",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 0,
-      "streamUrl": "https://a5.asurahosting.com:6670/radio.mp3"
-    },
-    {
       "id": "passion_tropical_re_23db3b42",
       "title": "Passion Tropical",
       "subtitle": "Créole",
@@ -9588,18 +9549,6 @@
       "streamUrl": "https://a13.asurahosting.com/listen/audio_lounge_247/radio.mp3"
     },
     {
-      "id": "dimusic_trance_club_bj_5a428319",
-      "title": "DIMusic Trance Club  🇧🇯",
-      "subtitle": "Dance",
-      "location": "Benin",
-      "genre": "Dance",
-      "countryCode": "BJ",
-      "language": "english",
-      "clickCount": 2,
-      "bitrate": 64,
-      "streamUrl": "http://stream1.dimusic.club:11534/rw?type=.aac"
-    },
-    {
       "id": "oman_fm_gh_210fbfa2",
       "title": "Oman Fm",
       "subtitle": "Variety",
@@ -9814,18 +9763,6 @@
       "clickCount": 3,
       "bitrate": 128,
       "streamUrl": "http://media-ice.musicradio.com/CapitalLiverpoolMP3"
-    },
-    {
-      "id": "blu_radiio_za_dda6a629",
-      "title": "BLU RADIIO",
-      "subtitle": "Radio",
-      "location": "South Africa",
-      "genre": "Radio",
-      "countryCode": "ZA",
-      "language": null,
-      "clickCount": 3,
-      "bitrate": 0,
-      "streamUrl": "https://app.radiio.link/stream.mp3"
     },
     {
       "id": "radio_tunisie_kef_tn_1457449e",
@@ -10368,18 +10305,6 @@
       "streamUrl": "https://radio.xecod.com/station/bandar-balila"
     },
     {
-      "id": "omniradio_sheikh_ammar_al_mulla_eg_f6d78020",
-      "title": "OmniRadio - Sheikh Ammar Al-Mulla (الشيخ عمار الملا)",
-      "subtitle": "Arabic",
-      "location": "Egypt",
-      "genre": "Arabic",
-      "countryCode": "EG",
-      "language": "ar",
-      "clickCount": 4,
-      "bitrate": 128,
-      "streamUrl": "https://radio.xecod.com/station/ammar-almulla"
-    },
-    {
       "id": "innovation_fm_cd_0ebed197",
       "title": "Innovation FM",
       "subtitle": "African Music",
@@ -10702,6 +10627,30 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://radio.eclipse-streaming.co.za/listen/zoibi_fm/zoibifm.mp3"
+    },
+    {
+      "id": "omniradio_sheikh_ammar_al_mulla_eg_f6d78020",
+      "title": "OmniRadio - Sheikh Ammar Al-Mulla (الشيخ عمار الملا)",
+      "subtitle": "Arabic",
+      "location": "Egypt",
+      "genre": "Arabic",
+      "countryCode": "EG",
+      "language": "ar",
+      "clickCount": 9,
+      "bitrate": 64,
+      "streamUrl": "https://radio.xecod.com/station/ammar-almulla"
+    },
+    {
+      "id": "good_news_radio_ug_c59d6fdf",
+      "title": "Good News Radio",
+      "subtitle": "Christian",
+      "location": "Uganda",
+      "genre": "Christian",
+      "countryCode": "UG",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "http://node-01.zeno.fm/km203bn6qnruv"
     }
   ]
 }

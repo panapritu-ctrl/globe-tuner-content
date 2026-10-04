@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-03T03:49:27Z",
+  "updated": "2026-10-04T04:20:27Z",
   "region": "europe",
   "part": 8,
   "of": 8,
@@ -20149,15 +20149,6 @@
       "bitrate": 256
     },
     {
-      "id": "djfm_ua_mp3_256k_ua_44ad08",
-      "title": "DJFM.UA [MP3 256k]",
-      "subtitle": "Radio",
-      "location": "Ukraine",
-      "genre": "Radio",
-      "countryCode": "UA",
-      "streamUrl": "https://cast.fex.net/djfm_x"
-    },
-    {
       "id": "rb2_eqve_radio_0d788e6e",
       "title": "EQVE Radio - Экве Радио",
       "subtitle": "Radio",
@@ -22643,18 +22634,6 @@
       "streamUrl": "http://online.radiorelax.ua/RadioRelax"
     },
     {
-      "id": "station_ua_8a483ea6",
-      "title": "Українське радіо",
-      "subtitle": "News",
-      "location": "Ukraine",
-      "genre": "News",
-      "countryCode": "UA",
-      "language": "ukrainian",
-      "clickCount": 8,
-      "bitrate": 128,
-      "streamUrl": "http://91.218.213.49:8000/ur1-mp3"
-    },
-    {
       "id": "radio_record_lo_fi_ru_6919a7c7",
       "title": "Radio Record Lo-Fi",
       "subtitle": "Chill",
@@ -24839,18 +24818,6 @@
       "streamUrl": "http://79.120.39.202:8004/gangstarap"
     },
     {
-      "id": "anima_amoris_dub_techno_mix_ru_0e2c3d6c",
-      "title": "Anima Amoris Dub Techno Mix",
-      "subtitle": "Dub",
-      "location": "The Russian Federation",
-      "genre": "Dub",
-      "countryCode": "RU",
-      "language": null,
-      "clickCount": 6,
-      "bitrate": 0,
-      "streamUrl": "http://amoris.sknt.ru/dubtechnomix.mp3"
-    },
-    {
       "id": "musical_decadence_radio_ru_771ba021",
       "title": "Musical Decadence Radio",
       "subtitle": "#Electro",
@@ -24945,18 +24912,6 @@
       "clickCount": 3,
       "bitrate": 128,
       "streamUrl": "https://radio.dewoq.ru/listen/dewoq_radio/radio.mp3"
-    },
-    {
-      "id": "anima_amoris_bible_ru_b4c3a31a",
-      "title": "Anima Amoris Bible",
-      "subtitle": "Bible",
-      "location": "The Russian Federation",
-      "genre": "Bible",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 3,
-      "bitrate": 0,
-      "streamUrl": "https://amoris.sknt.ru/bible.mp3"
     },
     {
       "id": "glam_rock_metal_caprice_radio_ru_63ace717",
@@ -25413,6 +25368,126 @@
       "clickCount": 4,
       "bitrate": 320,
       "streamUrl": "http://79.111.119.111:8000/altcountry"
+    },
+    {
+      "id": "fun_radio_ru_8df3cc27",
+      "title": "Fun!Radio",
+      "subtitle": "Radio",
+      "location": "The Russian Federation",
+      "genre": "Radio",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 192,
+      "streamUrl": "http://kuznets.su:8001/1"
+    },
+    {
+      "id": "station_ru_bee2cdc6",
+      "title": "Радио России / ГТРК \"Орел\"",
+      "subtitle": "Radio",
+      "location": "The Russian Federation",
+      "genre": "Radio",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://vestiorel.ru/radio-rossii"
+    },
+    {
+      "id": "station_ru_a1200bd5",
+      "title": "Матур Радио",
+      "subtitle": "Pop",
+      "location": "The Russian Federation",
+      "genre": "Pop",
+      "countryCode": "RU",
+      "language": "bashkir",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "http://radio.matur-tv.ru/radio/radio-mp3-128k"
+    },
+    {
+      "id": "popfm_dance_ru_feb4fc21",
+      "title": "POPFM DANCE",
+      "subtitle": "Radio",
+      "location": "The Russian Federation",
+      "genre": "Radio",
+      "countryCode": "RU",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://stream.popfm-bir.ru:1135/stream"
+    },
+    {
+      "id": "news_ai_ru_0ea85387",
+      "title": "News AI",
+      "subtitle": "Radio",
+      "location": "The Russian Federation",
+      "genre": "Radio",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "http://178.236.17.229:8000/radio"
+    },
+    {
+      "id": "dinamit_fm_ru_9efcf2c4",
+      "title": "Dinamit FM",
+      "subtitle": "Forever",
+      "location": "The Russian Federation",
+      "genre": "Forever",
+      "countryCode": "RU",
+      "language": "ру",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://listen9.myradio24.com/76923"
+    },
+    {
+      "id": "anima_amoris_minimal_deep_techno_ru_dbc08017",
+      "title": "Anima Amoris Minimal Deep Techno",
+      "subtitle": "Minimal",
+      "location": "The Russian Federation",
+      "genre": "Minimal",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://amoris.sknt.ru/minimal.mp3"
+    },
+    {
+      "id": "urban_flow_se_e51fa12b",
+      "title": "Urban Flow",
+      "subtitle": "Hip-Hop",
+      "location": "Sweden",
+      "genre": "Hip-Hop",
+      "countryCode": "SE",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://mml2.prostream.se/listen/urban_flow/radio.mp3"
+    },
+    {
+      "id": "ax_radio_ua_a3b5832c",
+      "title": "Ax Radio!",
+      "subtitle": "Dance",
+      "location": "Ukraine",
+      "genre": "Dance",
+      "countryCode": "UA",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://m.axradio.net/stream.mp3"
+    },
+    {
+      "id": "station_ua_f03e6db0",
+      "title": "Авторадіо",
+      "subtitle": "Information",
+      "location": "Ukraine",
+      "genre": "Information",
+      "countryCode": "UA",
+      "language": "ukrainian",
+      "clickCount": 3,
+      "bitrate": 320,
+      "streamUrl": "https://cast.mediaonline.net.ua/avtoradio320"
     }
   ]
 }

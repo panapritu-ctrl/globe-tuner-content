@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-03T03:49:27Z",
+  "updated": "2026-10-04T04:20:27Z",
   "region": "oceania",
   "stations": [
     {
@@ -7717,19 +7717,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_big_hits_radio_qld_townsville_north_quee_1cf68d54",
-      "title": "Big Hits Radio QLD Townsville North Queensland 20220701",
-      "subtitle": "Ballad, Classic Rock",
-      "imageUrl": "",
-      "streamUrl": "https://onlineradiobox.com/json/au/bighits/play?platform=web",
-      "location": "Queensland Townsville, Australia",
-      "genre": "Ballad",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 320
-    },
-    {
       "id": "rb2_biloela_4brz_89_7mhz_fm_the_breeze_centr_a00fbcc2",
       "title": "Biloela 4BRZ 89.7MHz FM The Breeze Central Queensland",
       "subtitle": "Ballads, Country",
@@ -9838,19 +9825,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_lake_macquarie_fm_lake_macquarie_97_3_fm_32415224",
-      "title": "Lake Macquarie FM - Lake Macquarie - 97.3 FM (AAC+)",
-      "subtitle": "Community Radio, Rock",
-      "imageUrl": "https://images.squarespace-cdn.com/content/v1/6267927e8f4f0912c0c2eb5c/7fa0bf8a-4dda-457c-ba2e-a6ef4bee7867/favicon.ico",
-      "streamUrl": "http://lmfm.f1.net.au:10768/;",
-      "location": "New South Wales, Australia",
-      "genre": "Community Radio",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 32
-    },
-    {
       "id": "rb2_latinos_fm_752bb2f4",
       "title": "Latinos FM",
       "subtitle": "Radio",
@@ -9940,19 +9914,6 @@
       "language": "english",
       "clickCount": 0,
       "bitrate": 65
-    },
-    {
-      "id": "rb2_listnr_50s_hits_hls_56a6e3d6",
-      "title": "LiSTNR - 50s Hits (HLS)",
-      "subtitle": "1950S, Hits",
-      "imageUrl": "https://i.ibb.co/g8JTkHM/Li-STNR-Square-Tile-3000x3000-50s-HITS.jpg",
-      "streamUrl": "http://wz0liw.scahw.com.au/live/50s-hits.stream/playlist.m3u8",
-      "location": "Australia",
-      "genre": "1950S",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 63
     },
     {
       "id": "rb2_listnr_80s_new_wave_hls_032e1063",
@@ -10970,19 +10931,6 @@
       "genre": "Radio",
       "countryCode": "AU",
       "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_mtm_fm_coonamble_91_9_fm_aac_dfcaada2",
-      "title": "MTM FM - Coonamble - 91.9 FM (AAC)",
-      "subtitle": "Community Radio, Music",
-      "imageUrl": "",
-      "streamUrl": "http://playerservices.streamtheworld.com/api/livestream-redirect/2MTMAAC.aac",
-      "location": "New South Wales, Australia",
-      "genre": "Community Radio",
-      "countryCode": "AU",
-      "language": "english",
       "clickCount": 0,
       "bitrate": 128
     },
@@ -18148,6 +18096,30 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "http://wz0lic.scahw.com.au/live/sleep.stream/playlist.m3u8"
+    },
+    {
+      "id": "listnr_50s_hits_hls_au_ee3ffb90",
+      "title": "LiSTNR - 50s Hits (HLS)",
+      "subtitle": "1950S",
+      "location": "Australia",
+      "genre": "1950S",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "http://wz0liw.scahw.com.au/live/50s-hits.stream/playlist.m3u8"
+    },
+    {
+      "id": "radio_burgerfuel_nz_f0722182",
+      "title": "Radio BurgerFuel",
+      "subtitle": "Alt Rock",
+      "location": "New Zealand",
+      "genre": "Alt Rock",
+      "countryCode": "NZ",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://s3.radio.co/s9909bd65f/listen"
     }
   ]
 }
