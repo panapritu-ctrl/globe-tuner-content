@@ -1,6 +1,6 @@
 {
-  "version": 53,
-  "updated": "2026-10-03T09:07:26Z",
+  "version": 54,
+  "updated": "2026-10-04T09:38:59Z",
   "stations": [
     {
       "id": "80s80s_radio_de_9adaa6e1",
@@ -4130,15 +4130,6 @@
       "countryCode": "ES"
     },
     {
-      "id": "massa_fm_101_1_ponta_grossa_pr_br_2215cb4e",
-      "title": "Massa FM 101,1 (Ponta Grossa - PR)",
-      "subtitle": "AAC+",
-      "location": "PR, Brazil",
-      "genre": "Pop Music",
-      "streamUrl": "https://stm01.virtualcast.com.br:8160/massapontagrossa",
-      "countryCode": "BR"
-    },
-    {
       "id": "somafm_poptron_128k_mp3_us_c7f1e4c0",
       "title": "SomaFM PopTron (128k MP3)",
       "subtitle": "MP3",
@@ -7282,6 +7273,157 @@
       "location": "Unknown",
       "genre": "Radio",
       "streamUrl": "http://regiocast.streamabc.net/regc-80s80sdm4383853-mp3-192-4947593?sABC=6noqq2os%230%23r30o443r1929r059s085628511796n57%23fgernzf.80f80f.qr&aw_0_1st.playerid=streams.80s80s.de&amsparams=playerid:streams.80s80s.de;skey:1790825151"
+    },
+    {
+      "id": "somafm_metal_detector_128k_aac_us_9e092c87",
+      "title": "SomaFM Metal Detector (128k AAC)",
+      "subtitle": "AAC",
+      "location": "California, The United States Of America",
+      "genre": "Black Metal",
+      "streamUrl": "https://ice5.somafm.com/metal-128-aac",
+      "countryCode": "US"
+    },
+    {
+      "id": "virgin_radio_romania_ro_785bc172",
+      "title": "Virgin Radio Romania",
+      "subtitle": "AAC",
+      "location": "Bucuresti, Romania",
+      "genre": "Hip Hop",
+      "streamUrl": "https://astreaming.edi.ro:8443/VirginRadio_aac",
+      "countryCode": "RO"
+    },
+    {
+      "id": "fluxfm_techno_underground_de_b8725246",
+      "title": "FluxFM - Techno Underground",
+      "subtitle": "MP3",
+      "location": "Berlin, Germany",
+      "genre": "Techno",
+      "streamUrl": "http://fluxfm.streamabc.net/flx-technounderground-mp3-128-7228171?sABC=6noro635%230%23r30o443r1929r059s085628511796n57%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1790883381",
+      "countryCode": "DE"
+    },
+    {
+      "id": "radio_pakistan_lahore_pk_ed98da65",
+      "title": "Radio Pakistan Lahore",
+      "subtitle": "MP3",
+      "location": "Pakistan",
+      "genre": "🌀",
+      "streamUrl": "https://whmsonic.radio.gov.pk:8026/relay?type=http&nocache=9",
+      "countryCode": "PK"
+    },
+    {
+      "id": "ewtn_catholic_radio_xx_87622fdb",
+      "title": "EWTN Catholic Radio",
+      "subtitle": "AAC",
+      "location": "Unknown",
+      "genre": "Catholic",
+      "streamUrl": "https://ewtn-ice.streamguys1.com/english-aac"
+    },
+    {
+      "id": "mbc_radio_2fm_mw_3d5701f7",
+      "title": "MBC Radio 2FM",
+      "subtitle": "MP3",
+      "location": "Malawi",
+      "genre": "Radio",
+      "streamUrl": "http://radiostream.mbc.mw:86/broadwavehigh.mp3?src=1",
+      "countryCode": "MW"
+    },
+    {
+      "id": "fip_jazz_fr_6e2bf73c",
+      "title": "Fip Jazz",
+      "subtitle": "AAC",
+      "location": "France",
+      "genre": "Radio",
+      "streamUrl": "http://direct.fipradio.fr/live/fipjazz-hifi.aac",
+      "countryCode": "FR"
+    },
+    {
+      "id": "classic_fm_gb_0189999d",
+      "title": "Classic FM",
+      "subtitle": "MP3",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Radio",
+      "streamUrl": "http://ice-sov.musicradio.com/ClassicFMMP3",
+      "countryCode": "GB"
+    },
+    {
+      "id": "exclusively_cat_stevens_ae_ac19bddd",
+      "title": "Exclusively Cat Stevens",
+      "subtitle": "MP3",
+      "location": "The United Arab Emirates",
+      "genre": "Singer-Songwriter",
+      "streamUrl": "http://2.mystreaming.net/er/catstevens/icecast.audio",
+      "countryCode": "AE"
+    },
+    {
+      "id": "rockfm_es_f3f50bd8",
+      "title": "RockFM",
+      "subtitle": "MP3",
+      "location": "Spain",
+      "genre": "Rock",
+      "streamUrl": "https://rockfm-cope-rrcast.flumotion.com/cope/rockfm.mp3",
+      "countryCode": "ES"
+    },
+    {
+      "id": "0_n_disco_on_radio_de_d82a4b5c",
+      "title": "- 0 N - Disco on Radio",
+      "subtitle": "MP3",
+      "location": "Bayern, Germany",
+      "genre": "70Er",
+      "streamUrl": "https://0n-disco.radionetz.de/0n-disco.mp3",
+      "countryCode": "DE"
+    },
+    {
+      "id": "avant_garde_jazz_free_improvisation_radi_xx_e1dcc88f",
+      "title": "Avant-Garde Jazz/Free Improvisation - Radio Caprice",
+      "subtitle": "AAC+",
+      "location": "Unknown",
+      "genre": "Avant-Garde",
+      "streamUrl": "http://79.111.119.111:8004/avantgardejazz"
+    },
+    {
+      "id": "funk2disco_gb_8ea394b5",
+      "title": "Funk2Disco",
+      "subtitle": "MP3",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Disco",
+      "streamUrl": "http://funk2disco.stream.laut.fm/funk2disco?t302=2019-10-08_17-09-47&uuid=242e4734-ae25-4995-bf64-11ae6ab5a169",
+      "countryCode": "GB"
+    },
+    {
+      "id": "exclusively_ella_fitzgerald_ae_348c2f87",
+      "title": "Exclusively Ella Fitzgerald",
+      "subtitle": "MP3",
+      "location": "The United Arab Emirates",
+      "genre": "Bebop",
+      "streamUrl": "https://nl4.mystreaming.net/er/ellafitzgerald/icecast.audio",
+      "countryCode": "AE"
+    },
+    {
+      "id": "kiss_fm_es_5dd4a405",
+      "title": "KISS FM",
+      "subtitle": "MP3",
+      "location": "Spain",
+      "genre": "Radio",
+      "streamUrl": "https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbkissfm.kissfmradio.cires21.com/bbkissfm.mp3&lang=es&gdpr=0&gdpr_consent=null",
+      "countryCode": "ES"
+    },
+    {
+      "id": "egofm_de_f41537ca",
+      "title": "egoFM",
+      "subtitle": "MP3",
+      "location": "Bavaria, Germany",
+      "genre": "Indie",
+      "streamUrl": "http://cast.egofm.de/egofm.mp3?ar-distributor=ffa0&aw_0_req.gdpr=true",
+      "countryCode": "DE"
+    },
+    {
+      "id": "positively_stress_relief_om_ae_2ebf77b3",
+      "title": "Positively Stress Relief -om",
+      "subtitle": "MP3",
+      "location": "The United Arab Emirates",
+      "genre": "Ambient",
+      "streamUrl": "https://streaming.positivity.radio/pr/stressrelief/icecast.audio",
+      "countryCode": "AE"
     }
   ]
 }
