@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-04T04:20:27Z",
+  "updated": "2026-10-05T04:03:46Z",
   "region": "americas",
   "part": 1,
   "of": 5,
@@ -4637,19 +4637,6 @@
       "bitrate": 96
     },
     {
-      "id": "rb2_lola_5659c0b5",
-      "title": "Lola",
-      "subtitle": "Radio",
-      "imageUrl": "https://irp.cdn-website.com/70181fda/site_favicon_16_1740152349929.ico",
-      "streamUrl": "https://cdn.instream.audio/:9081/stream",
-      "location": "Argentina",
-      "genre": "Radio",
-      "countryCode": "AR",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 48
-    },
-    {
       "id": "rb2_lu_17_am_540_1646624b",
       "title": "Lu 17 AM 540",
       "subtitle": "Radio",
@@ -5594,19 +5581,6 @@
       "language": null,
       "clickCount": 0,
       "bitrate": 64
-    },
-    {
-      "id": "rb2_radio_10_rosario_fm_89_7_c38979a0",
-      "title": "Radio 10 Rosario FM 89.7",
-      "subtitle": "Radio",
-      "imageUrl": "https://radioarg.net/storage/radios/27448/83849/conversions/hdLa8YCVGLXwpj7CHR40tdDZowBd95-metacmFkaW8tMTAtcm9zYXJpby53ZWJw--lg.webp",
-      "streamUrl": "https://server4.hostradios.com:7028/stream",
-      "location": "Argentina",
-      "genre": "Radio",
-      "countryCode": "AR",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 32
     },
     {
       "id": "rb2_radio_2_a8cefe0a",
@@ -9461,15 +9435,6 @@
       "language": null,
       "clickCount": 2,
       "bitrate": 96
-    },
-    {
-      "id": "radio_monumental_bolivia_bo_3d208e",
-      "title": "Radio Monumental Bolivia",
-      "subtitle": "Deporte",
-      "location": "La Paz (Nuestra Señora de), Bolivia",
-      "genre": "Deporte",
-      "countryCode": "BO",
-      "streamUrl": "http://streaming2.locucionar.com:9149/stream"
     },
     {
       "id": "rb2_radio_oldies_red_uyuni_e8e66954",
@@ -26849,18 +26814,6 @@
       "streamUrl": "https://9595.brasilstream.com.br/stream?identifica=6604881056089703000"
     },
     {
-      "id": "r_dio_lance_oficial_br_952d8577",
-      "title": "Rádio Lance Oficial",
-      "subtitle": "Radio",
-      "location": "Brazil",
-      "genre": "Radio",
-      "countryCode": "BR",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 128,
-      "streamUrl": "https://stm23.xcast.com.br:9952/stream"
-    },
-    {
       "id": "antena_1_rio_de_janeiro_rj_zyd_463_103_7_mhz_fm_br_2c6b9413",
       "title": "Antena 1 Rio de Janeiro, RJ (ZYD 463, 103,7 MHz FM)",
       "subtitle": "Adult Contemporary",
@@ -28191,6 +28144,78 @@
       "clickCount": 3,
       "bitrate": 56,
       "streamUrl": "https://server.laradio.online/proxy/abdel_ortega?mp=/stream"
+    },
+    {
+      "id": "city_fm_90_0_pehuajo_ar_b5f34249",
+      "title": "City FM 90.0 Pehuajo",
+      "subtitle": "Frecuencia Studio",
+      "location": "Argentina",
+      "genre": "Frecuencia Studio",
+      "countryCode": "AR",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://ssl.radiosnethosting.com/index.php?port=9862"
+    },
+    {
+      "id": "fm_del_sur_103_7_ar_35cbe861",
+      "title": "FM del Sur 103.7",
+      "subtitle": "Entretenimiento",
+      "location": "Argentina",
+      "genre": "Entretenimiento",
+      "countryCode": "AR",
+      "language": "spanish",
+      "clickCount": 3,
+      "bitrate": 96,
+      "streamUrl": "http://streaming.radiosenlinea.com.ar:8450/;"
+    },
+    {
+      "id": "full_radio_br_65e27ee1",
+      "title": "Full Radio",
+      "subtitle": "Brazilian Music",
+      "location": "Brazil",
+      "genre": "Brazilian Music",
+      "countryCode": "BR",
+      "language": "brazilian portuguese",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://radio.referencias.xyz/listen/full_radio/radio.mp3"
+    },
+    {
+      "id": "massa_fm_maring_br_e5ffbd55",
+      "title": "Massa FM Maringá",
+      "subtitle": "Brazilian",
+      "location": "Brazil",
+      "genre": "Brazilian",
+      "countryCode": "BR",
+      "language": "brazilian portuguese",
+      "clickCount": 3,
+      "bitrate": 64,
+      "streamUrl": "https://stm01.virtualcast.com.br:8116/massamaringa"
+    },
+    {
+      "id": "r_dio_reprise_br_42ef3f73",
+      "title": "Rádio Reprise",
+      "subtitle": "Gospel",
+      "location": "Brazil",
+      "genre": "Gospel",
+      "countryCode": "BR",
+      "language": "português",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://usa10.fastcast4u.com:1890/;?type=http&nocache=1791042940"
+    },
+    {
+      "id": "conecta_brasil_br_b7bfa62e",
+      "title": "Conecta Brasil",
+      "subtitle": "Classic Rock",
+      "location": "Brazil",
+      "genre": "Classic Rock",
+      "countryCode": "BR",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 64,
+      "streamUrl": "https://radio.conectaweb.tech/listen/conecta_brasil/radio.mp3"
     }
   ]
 }

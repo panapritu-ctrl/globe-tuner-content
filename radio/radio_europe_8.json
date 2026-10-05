@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-04T04:20:27Z",
+  "updated": "2026-10-05T04:03:46Z",
   "region": "europe",
   "part": 8,
   "of": 8,
@@ -13178,19 +13178,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_radio_sputnik_961bb746",
-      "title": "Радио СПУТНИК / Radio Sputnik",
-      "subtitle": "Russian Pop, Russian Programming",
-      "imageUrl": "",
-      "streamUrl": "http://online.sputnikfm.ru:8000/sputnik_mp3",
-      "location": "Volgograd, The Russian Federation",
-      "genre": "Russian Pop",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_station_784b72df",
       "title": "Радио Самара-Максимум",
       "subtitle": "Radio",
@@ -17066,19 +17053,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_redback_radio_3d5cedea",
-      "title": "Redback Radio",
-      "subtitle": "Eclectic, Experimental",
-      "imageUrl": "",
-      "streamUrl": "https://redback.mywire.org/stream.mp3",
-      "location": "Select state, Sweden",
-      "genre": "Eclectic",
-      "countryCode": "SE",
-      "language": "english",
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_reggae_2ba48445",
       "title": "Reggae",
       "subtitle": "Dancehall, Island",
@@ -20134,19 +20108,6 @@
       "genre": "Atmospheric",
       "countryCode": "UA",
       "streamUrl": "https://stream.brokenbeats.net/tune"
-    },
-    {
-      "id": "rb2_djfm_dance_44a503e9",
-      "title": "DJFM DANCE",
-      "subtitle": "Dance, Music",
-      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241110_104536688.jpg?alt=media&token=283f1a5c-c8df-4193-9771-9c85a3e09078",
-      "streamUrl": "https://cast.brg.ua/djfmdance_main_public_mp3_hq",
-      "location": "Ukraine",
-      "genre": "Dance",
-      "countryCode": "UA",
-      "language": "ukrainian",
-      "clickCount": 4,
-      "bitrate": 256
     },
     {
       "id": "rb2_eqve_radio_0d788e6e",
@@ -25488,6 +25449,42 @@
       "clickCount": 3,
       "bitrate": 320,
       "streamUrl": "https://cast.mediaonline.net.ua/avtoradio320"
+    },
+    {
+      "id": "popfm_ru_c1b4aa0f",
+      "title": "POPFM Рок",
+      "subtitle": "Rock",
+      "location": "The Russian Federation",
+      "genre": "Rock",
+      "countryCode": "RU",
+      "language": "english",
+      "clickCount": 6,
+      "bitrate": 256,
+      "streamUrl": "https://stream.popfm-bir.ru:1115/stream"
+    },
+    {
+      "id": "radio_caprice_soul_neo_soul_ru_38ffbcad",
+      "title": "Radio Caprice - Soul/Neo Soul",
+      "subtitle": "Soul",
+      "location": "The Russian Federation",
+      "genre": "Soul",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "http://79.120.39.202:8000/soul"
+    },
+    {
+      "id": "top_radio_from_ukraine_to_spain_ua_bb7c5f6e",
+      "title": "Top Radio FROM UKRAINE TO SPAIN",
+      "subtitle": "Radio",
+      "location": "Ukraine",
+      "genre": "Radio",
+      "countryCode": "UA",
+      "language": "castellano. español",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://laut.fm/topradio"
     }
   ]
 }

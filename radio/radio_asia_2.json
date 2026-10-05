@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-04T04:20:27Z",
+  "updated": "2026-10-05T04:03:46Z",
   "region": "asia",
   "part": 2,
   "of": 3,
@@ -25214,18 +25214,6 @@
       "streamUrl": "https://stream.denger.in/"
     },
     {
-      "id": "mbc_fm_kr_b226d96a",
-      "title": "MBC FM",
-      "subtitle": "Radio",
-      "location": "The Republic Of Korea",
-      "genre": "Radio",
-      "countryCode": "KR",
-      "language": "korean",
-      "clickCount": 5,
-      "bitrate": 65,
-      "streamUrl": "https://minisw.imbc.com/dsfm/_definst_/sfm.stream/playlist.m3u8?_lsu_sa_=60514C1BA3EB33C42D4525A53CB1704D65F83BD50A0D42F73A90EEaE46E53D069DaF430A34120E40307D3831FAb2219C105EDA095DD55BBC75F24E27120D11CE0F58D93499A264D660706588F4EAB8CB223B6C610A7484CA104433DDA3BB5CF0E7810F6DFA9E356D98627626A762F076"
-    },
-    {
       "id": "93_3_cy_ddffae37",
       "title": "Ο Αληθινός Λόγος 93.3 Λευκωσία - Ιερά Αρχιεπισκοπή Κύπρου",
       "subtitle": "Christian",
@@ -25956,6 +25944,42 @@
       "clickCount": 3,
       "bitrate": 66,
       "streamUrl": "https://master.nhkworld.jp/nhkworld-radio/playlist/kai/live.m3u8"
+    },
+    {
+      "id": "mahakatha_radio_in_956c62f3",
+      "title": "Mahakatha Radio",
+      "subtitle": "Mantra",
+      "location": "India",
+      "genre": "Mantra",
+      "countryCode": "IN",
+      "language": "sanskrit",
+      "clickCount": 7,
+      "bitrate": 0,
+      "streamUrl": "https://mahakatharadio.com/api/station/live.mp3"
+    },
+    {
+      "id": "nhk_world_radio_korean_jp_4102a9df",
+      "title": "NHK World Radio (Korean)",
+      "subtitle": "Education",
+      "location": "Japan",
+      "genre": "Education",
+      "countryCode": "JP",
+      "language": "korean",
+      "clickCount": 7,
+      "bitrate": 66,
+      "streamUrl": "https://master.nhkworld.jp/nhkworld-radio/playlist/rs1/live.m3u8"
+    },
+    {
+      "id": "ndtvprofit_in_d758a18c",
+      "title": "ndtvProfit",
+      "subtitle": "India",
+      "location": "India",
+      "genre": "India",
+      "countryCode": "IN",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 5882,
+      "streamUrl": "https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/master.m3u8"
     }
   ]
 }

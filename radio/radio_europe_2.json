@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-04T04:19:53Z",
+  "updated": "2026-10-05T04:03:46Z",
   "region": "europe",
   "part": 2,
   "of": 8,
@@ -29206,18 +29206,6 @@
       "streamUrl": "https://stream.laut.fm/funky"
     },
     {
-      "id": "dr_p2_aac_dk_0aeeaf1d",
-      "title": "DR P2 (AAC)",
-      "subtitle": "Radio",
-      "location": "Denmark",
-      "genre": "Radio",
-      "countryCode": "DK",
-      "language": "danish",
-      "clickCount": 3,
-      "bitrate": 324,
-      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p2/masterab.m3u8"
-    },
-    {
       "id": "dr_p4_nordjylland_aac_dk_412ae0ef",
       "title": "DR P4 Nordjylland (AAC)",
       "subtitle": "Regional Radio",
@@ -29240,18 +29228,6 @@
       "clickCount": 3,
       "bitrate": 324,
       "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4midtvest/masterab.m3u8"
-    },
-    {
-      "id": "dr_p4_syd_aac_dk_74eaa8c5",
-      "title": "DR P4 Syd (AAC)",
-      "subtitle": "Regional Radio",
-      "location": "Denmark",
-      "genre": "Regional Radio",
-      "countryCode": "DK",
-      "language": "danish",
-      "clickCount": 3,
-      "bitrate": 324,
-      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4syd/masterab.m3u8"
     },
     {
       "id": "90s90s_eurodance_de_f06bd93e",
@@ -31748,6 +31724,174 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://buglecallradio.stream.laut.fm/buglecallradio"
+    },
+    {
+      "id": "radio_3_rbb_lq_de_8d00f2c0",
+      "title": "radio 3 | rbb | LQ",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 6,
+      "bitrate": 64,
+      "streamUrl": "http://www.rbbkultur.de/livemp3_s"
+    },
+    {
+      "id": "ella_radio_mellow_smooth_jazz_de_3661d696",
+      "title": "Ella Radio - Mellow Smooth Jazz",
+      "subtitle": "Jazz",
+      "location": "Germany",
+      "genre": "Jazz",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "https://stream.ella-radio.de/ella-mellow-smooth-jazz/mp3-192/?ref=radio-browser"
+    },
+    {
+      "id": "104_6_rtl_dj_mix_de_4bc61b35",
+      "title": "104.6 RTL DJ MIX",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://rtlberlin.streamabc.net/rtlb-rtlelektro-mp3-128-8241899"
+    },
+    {
+      "id": "radio_bob_bobs_live_stream_hessen_de_2f3749fc",
+      "title": "RADIO BOB! BOBs Live-Stream Hessen",
+      "subtitle": "Hessen",
+      "location": "Germany",
+      "genre": "Hessen",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "http://streams.radiobob.de/bob-live/mp3-192/mediaplayer"
+    },
+    {
+      "id": "radio_psr_sachsensongs_de_2d794650",
+      "title": "RADIO PSR Sachsensongs",
+      "subtitle": "Charts",
+      "location": "Germany",
+      "genre": "Charts",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://regiocast.streamabc.net/regc-psrsachsensongs9259034-mp3-192-5039974?sABC=6noqq70n%230%23q280o0r09ns9qpq3889p9qqn13p5753s%23fgernzf.enqvbcfe.qr&aw_0_1st.playerid=streams.radiopsr.de&amsparams=playerid:streams.radiopsr.de;skey:1790826250"
+    },
+    {
+      "id": "radio_zett_de_ff4cecbf",
+      "title": "Radio Zett",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://zett-stream.de/hls/radio_zett/aac_super_hifi.m3u8"
+    },
+    {
+      "id": "energy_saxony_de_52384dc1",
+      "title": "Energy (Saxony)",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://regiocast.streamabc.net/regc_nren36tvre_bunk-mp3-192-6739542?sABC=69n8n79s%230%237714q36p7s5253q38p7p746223636q3r%23ubzrcntr&aw_0_1st.playerid=homepage&amsparams=playerid:homepage;skey:1772660639"
+    },
+    {
+      "id": "radio_brocken_region_magdeburg_harz_de_28e99d48",
+      "title": "Radio Brocken Region Magdeburg/Harz",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://stream.radiobrocken.de/live-md-harz/mp3-256"
+    },
+    {
+      "id": "radio_cult_play_de_9aedaa94",
+      "title": "Radio Cult Play",
+      "subtitle": "2000'S",
+      "location": "Germany",
+      "genre": "2000'S",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 320,
+      "streamUrl": "https://stream.radiocultplay.de/live"
+    },
+    {
+      "id": "r_sa_1_000_achtziger_de_d2eb0bc8",
+      "title": "R.SA 1.000 Achtziger",
+      "subtitle": "1.000",
+      "location": "Germany",
+      "genre": "1.000",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "http://rsa.streamabc.net/regc-rsasachsen80er10007201078-mp3-192-1213115?sABC=6nor0906%230%23r30o443r1929r059s085628511796n57%23fgernzf.efn-fnpufra.qr&aw_0_1st.playerid=streams.rsa-sachsen.de&amsparams=playerid:streams.rsa-sachsen.de;skey:1790839046"
+    },
+    {
+      "id": "sunshine_live_aac_64_kbps_de_ba1d0879",
+      "title": "Sunshine Live (aac 64 kbps)",
+      "subtitle": "Dance",
+      "location": "Germany",
+      "genre": "Dance",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "http://stream.sunshine-live.de/live/aac-64/stream.sunshine-live.de"
+    },
+    {
+      "id": "toggo_radio_wachmach_songs_de_a11d614a",
+      "title": "TOGGO Radio – Wachmach Songs",
+      "subtitle": "Hits",
+      "location": "Germany",
+      "genre": "Hits",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://radio.toggo.de/wachmachen/mp3-128/"
+    },
+    {
+      "id": "ostseeplatt_de_cbf247ee",
+      "title": "Ostseeplatt",
+      "subtitle": "Plattdeutsche Kinderlieder",
+      "location": "Germany",
+      "genre": "Plattdeutsche Kinderlieder",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream.laut.fm/ostseeplatt"
+    },
+    {
+      "id": "metropol_fm_berlin_de_4fdf3593",
+      "title": "Metropol FM (Berlin)",
+      "subtitle": "Turkish Music",
+      "location": "Germany",
+      "genre": "Turkish Music",
+      "countryCode": "DE",
+      "language": "turkish",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://metropolfm.streamabc.net/77_8dsw7gc1qgz6_lc0t-mp3-256-6796112?sABC=69n35qp0%230%23759014699s404754o2p8p1q4q62r578p%23enqvbfcurer&aw_0_1st.playerid=radiosphere&amsparams=playerid:radiosphere;skey:1772314048"
     }
   ]
 }

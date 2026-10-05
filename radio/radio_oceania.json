@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-04T04:20:27Z",
+  "updated": "2026-10-05T04:03:46Z",
   "region": "oceania",
   "stations": [
     {
@@ -18062,18 +18062,6 @@
       "streamUrl": "https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8"
     },
     {
-      "id": "listnr_aussie_dance_au_a21fae74",
-      "title": "LiSTNR - Aussie Dance",
-      "subtitle": "Australian Music",
-      "location": "Australia",
-      "genre": "Australian Music",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 3,
-      "bitrate": 0,
-      "streamUrl": "https://wz0liw.scahw.com.au/live/aussiedance_128.stream/playlist.m3u8"
-    },
-    {
       "id": "listnr_cooling_fan_white_noise_soundscapes_au_161fe3af",
       "title": "LiSTNR - Cooling Fan (White Noise) [Soundscapes]",
       "subtitle": "Cooling Fan",
@@ -18120,6 +18108,102 @@
       "clickCount": 3,
       "bitrate": 128,
       "streamUrl": "https://s3.radio.co/s9909bd65f/listen"
+    },
+    {
+      "id": "abc_radio_alice_springs_au_1169a8b8",
+      "title": "ABC Radio Alice Springs",
+      "subtitle": "Local",
+      "location": "Australia",
+      "genre": "Local",
+      "countryCode": "AU",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://streaming.abc-cdn.net.au/audio/hls/localalicesprings.m3u8?source=web"
+    },
+    {
+      "id": "equinox_radio_au_f0e85c69",
+      "title": "Equinox Radio",
+      "subtitle": "70S",
+      "location": "Australia",
+      "genre": "70S",
+      "countryCode": "AU",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://equinoxradio.app/stream.mp3"
+    },
+    {
+      "id": "listnr_pop_101_hls_au_971bce1f",
+      "title": "LiSTNR - Pop 101 (HLS)",
+      "subtitle": "Hits",
+      "location": "Australia",
+      "genre": "Hits",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "http://wz0liw.scahw.com.au/live/pop-101.stream/playlist.m3u8"
+    },
+    {
+      "id": "listnr_kids_hits_hls_au_fb1179a4",
+      "title": "LiSTNR - Kids Hits (HLS)",
+      "subtitle": "Kids Hits",
+      "location": "Australia",
+      "genre": "Kids Hits",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "http://wz0liw.scahw.com.au/live/kids-hits.stream/playlist.m3u8"
+    },
+    {
+      "id": "listnr_happy_hits_hls_au_1c1c68cf",
+      "title": "LiSTNR - Happy Hits (HLS)",
+      "subtitle": "Happy Hits",
+      "location": "Australia",
+      "genre": "Happy Hits",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "http://wz0liw.scahw.com.au/live/happy-hits.stream/playlist.m3u8"
+    },
+    {
+      "id": "listnr_chill_electronic_au_009629fd",
+      "title": "LiSTNR - Chill Electronic",
+      "subtitle": "Chill",
+      "location": "Australia",
+      "genre": "Chill",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "http://wz0liw.scahw.com.au/live/chill-electronic.stream/playlist.m3u8"
+    },
+    {
+      "id": "albayan_radio_au_5eca3568",
+      "title": "Albayan Radio",
+      "subtitle": "Radio",
+      "location": "Australia",
+      "genre": "Radio",
+      "countryCode": "AU",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 96,
+      "streamUrl": "http://s9.viastreaming.net:9645/listen.mp3"
+    },
+    {
+      "id": "abc_radio_broken_hill_au_b7a03155",
+      "title": "ABC Radio Broken Hill",
+      "subtitle": "Local",
+      "location": "Australia",
+      "genre": "Local",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://streaming.abc-cdn.net.au/audio/hls/localbrokenhill.m3u8?source=web"
     }
   ]
 }

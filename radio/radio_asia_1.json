@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-04T04:19:53Z",
+  "updated": "2026-10-05T04:03:46Z",
   "region": "asia",
   "part": 1,
   "of": 3,
@@ -11814,19 +11814,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_siaoshan_fm_radio_b5928a85",
-      "title": "Siaoshan FM Radio",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://l.cztvcloud.com/channels/lantian/SXxiaoshanaud1/128k.m3u8",
-      "location": "Chekiang, China",
-      "genre": "Radio",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_siaoshan_life_tv_9825a6ac",
       "title": "Siaoshan Life TV",
       "subtitle": "Radio",
@@ -12106,19 +12093,6 @@
       "countryCode": "CN",
       "language": "chinese",
       "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_wukin_metro_radio_ed46c417",
-      "title": "Wukin Metro Radio",
-      "subtitle": "Kiangsu",
-      "imageUrl": "",
-      "streamUrl": "http://live.wjyanghu.com/live/CH6.m3u8",
-      "location": "Kiangsu, China",
-      "genre": "Kiangsu",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 1,
       "bitrate": 128
     },
     {
@@ -18968,19 +18942,6 @@
       "language": "chinese",
       "clickCount": 0,
       "bitrate": 75
-    },
-    {
-      "id": "rb2_station_70a044b3",
-      "title": "文成广播",
-      "subtitle": "News",
-      "imageUrl": "",
-      "streamUrl": "http://l.cztvcloud.com/channels/lantian/SXwenchengaud/128k.m3u8",
-      "location": "Chekiang, China",
-      "genre": "News",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 0,
-      "bitrate": 128
     },
     {
       "id": "rb2_station_e993196a",
@@ -26469,18 +26430,6 @@
       "streamUrl": "http://live.ximalaya.com/radio-first-page-app/live/2775/64.m3u8"
     },
     {
-      "id": "cctv_1_cn_773bccc4",
-      "title": "CCTV-1 综合伴音",
-      "subtitle": "Audio",
-      "location": "China",
-      "genre": "Audio",
-      "countryCode": "CN",
-      "language": "zh",
-      "clickCount": 5,
-      "bitrate": 0,
-      "streamUrl": "http://119.28.21.93/radio/cctv1.mp3"
-    },
-    {
       "id": "cctv_12_cn_c0e768b5",
       "title": "CCTV-12 社会与法伴音",
       "subtitle": "Audio",
@@ -26697,18 +26646,6 @@
       "streamUrl": "https://vod.bsyjrb.cn/live/9cb859019bb6.m3u8"
     },
     {
-      "id": "emarat_fm_ae_e07ea665",
-      "title": "Emarat fm",
-      "subtitle": "Arabic",
-      "location": "The United Arab Emirates",
-      "genre": "Arabic",
-      "countryCode": "AE",
-      "language": null,
-      "clickCount": 7,
-      "bitrate": 637,
-      "streamUrl": "https://admn-radio-cdn-lb.starzplayarabia.com/out/v1/admn_radio_enc/emarat_fm/emarat_fm_hls_nd/index.m3u8"
-    },
-    {
       "id": "baku_jazz_radio_az_8c2802b4",
       "title": "Baku Jazz Radio",
       "subtitle": "Radio",
@@ -26899,18 +26836,6 @@
       "clickCount": 5,
       "bitrate": 0,
       "streamUrl": "http://ls.qingting.fm/live/1753.m3u8"
-    },
-    {
-      "id": "station_cn_b6ce0336",
-      "title": "青岛文艺广播",
-      "subtitle": "Lifestyle",
-      "location": "China",
-      "genre": "Lifestyle",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 4,
-      "bitrate": 0,
-      "streamUrl": "http://video10.qtv.com.cn/zhibosjcgb/manifest.m3u8"
     },
     {
       "id": "station_cn_a7742be6",
@@ -27403,6 +27328,54 @@
       "clickCount": 3,
       "bitrate": 0,
       "streamUrl": "https://lhttp-hw.qtfm.cn/live/2792/64k.mp3"
+    },
+    {
+      "id": "1_cn_3f78d666",
+      "title": "上虞广播-1",
+      "subtitle": "China",
+      "location": "China",
+      "genre": "China",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8"
+    },
+    {
+      "id": "station_cn_9d4db0e5",
+      "title": "吉木萨尔综合广播",
+      "subtitle": "Full Service",
+      "location": "China",
+      "genre": "Full Service",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "http://218.31.201.189:9000/api/material/local/mnt/yinping1/prog_index.m3u8"
+    },
+    {
+      "id": "lratvakan_radio_am_ee4f2e7f",
+      "title": "Lratvakan Radio",
+      "subtitle": "Armenian",
+      "location": "Armenia",
+      "genre": "Armenian",
+      "countryCode": "AM",
+      "language": "armenian",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "http://212.34.233.78:8000/live"
+    },
+    {
+      "id": "2_cn_3d81e96e",
+      "title": "上虞广播-2",
+      "subtitle": "Radio",
+      "location": "China",
+      "genre": "Radio",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-04T04:20:27Z",
+  "updated": "2026-10-05T04:03:46Z",
   "region": "africa",
   "stations": [
     {
@@ -1036,19 +1036,6 @@
       "genre": "Local Radio",
       "streamUrl": "https://radiotlemcen.ice.infomaniak.ch/tlemcen.mp3",
       "countryCode": "DZ"
-    },
-    {
-      "id": "rb2_zaman_fm_5c8e306e",
-      "title": "Zaman FM",
-      "subtitle": "Radio",
-      "imageUrl": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2023-06/logo_zmen_fm.png",
-      "streamUrl": "https://radiozamen.ice.infomaniak.ch/zamen.mp3",
-      "location": "Algeria",
-      "genre": "Radio",
-      "countryCode": "DZ",
-      "language": "arabic",
-      "clickCount": 5,
-      "bitrate": 128
     },
     {
       "id": "ygg_dz_f22c37",
@@ -2670,19 +2657,6 @@
       "countryCode": "KE",
       "language": null,
       "clickCount": 2,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_waumini_88_3fm_21578fe9",
-      "title": "Radio Waumini 88.3FM",
-      "subtitle": "Radio",
-      "imageUrl": "https://radiowaumini.co.ke/wp-content/uploads/2020/07/Logo-horizontal-large-light-1.png",
-      "streamUrl": "http://stream.zeno.fm/gvk894g072quv",
-      "location": "Kenya",
-      "genre": "Radio",
-      "countryCode": "KE",
-      "language": null,
-      "clickCount": 0,
       "bitrate": 128
     },
     {
@@ -10651,6 +10625,162 @@
       "clickCount": 3,
       "bitrate": 128,
       "streamUrl": "http://node-01.zeno.fm/km203bn6qnruv"
+    },
+    {
+      "id": "trace_fm_c_te_d_ivoire_ci_c2dcfbbc",
+      "title": "Trace FM Côte d’Ivoire",
+      "subtitle": "African Music",
+      "location": "Coted Ivoire",
+      "genre": "African Music",
+      "countryCode": "CI",
+      "language": "french",
+      "clickCount": 9,
+      "bitrate": 256,
+      "streamUrl": "http://stream.trace.tv/trace_fm_ci-midfi.aac"
+    },
+    {
+      "id": "adrar_dz_ce65d32c",
+      "title": "Adrar أدرار",
+      "subtitle": "Radio",
+      "location": "Algeria",
+      "genre": "Radio",
+      "countryCode": "DZ",
+      "language": null,
+      "clickCount": 9,
+      "bitrate": 0,
+      "streamUrl": "https://webradio1.tda.dz:8001/Adrar_64K.mp3"
+    },
+    {
+      "id": "alg_rie_internationale_dz_a6753699",
+      "title": "Algérie Internationale الجزائر الدولية",
+      "subtitle": "Local Radio",
+      "location": "Algeria",
+      "genre": "Local Radio",
+      "countryCode": "DZ",
+      "language": "arabic",
+      "clickCount": 9,
+      "bitrate": 0,
+      "streamUrl": "https://webradio3.tda.dz:8001/Internationale_64K.mp3"
+    },
+    {
+      "id": "heart_fm_za_a96e8d50",
+      "title": "Heart FM",
+      "subtitle": "Radio",
+      "location": "South Africa",
+      "genre": "Radio",
+      "countryCode": "ZA",
+      "language": null,
+      "clickCount": 7,
+      "bitrate": 0,
+      "streamUrl": "https://streaming.fabrik.fm/heartfm/echocast/audio/low/index.m3u8"
+    },
+    {
+      "id": "coran_dz_fce4339a",
+      "title": "Coran القرآن الكريم",
+      "subtitle": "News",
+      "location": "Algeria",
+      "genre": "News",
+      "countryCode": "DZ",
+      "language": "arabic",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://webradio1.tda.dz:8001/Coran_64K.mp3"
+    },
+    {
+      "id": "inanda_fm_za_9bc0b993",
+      "title": "Inanda FM",
+      "subtitle": "Radio",
+      "location": "South Africa",
+      "genre": "Radio",
+      "countryCode": "ZA",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://streaming.fabrik.fm/inandafm/echocast/audio/low/index.m3u8?session_id=F7QhCzr5lwhLx6D&device_id=gCWDK0co"
+    },
+    {
+      "id": "radio_alfa_cv_cv_16424060",
+      "title": "RADIO ALFA - CV",
+      "subtitle": "Radio",
+      "location": "Cabo Verde",
+      "genre": "Radio",
+      "countryCode": "CV",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "http://uk6freenew.listen2myradio.com:10110/stream"
+    },
+    {
+      "id": "el_bahdja_dz_9ef2e359",
+      "title": "El Bahdja - الجزائر العاصمة",
+      "subtitle": "Local",
+      "location": "Algeria",
+      "genre": "Local",
+      "countryCode": "DZ",
+      "language": "arabic",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://webradio3.tda.dz:8001/ElBahdja_64K.mp3"
+    },
+    {
+      "id": "el_bayadh_dz_fe398452",
+      "title": "El Bayadh البيض",
+      "subtitle": "Local",
+      "location": "Algeria",
+      "genre": "Local",
+      "countryCode": "DZ",
+      "language": "arabic",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://webradio2.tda.dz:8001/ElBayedh_64K.mp3"
+    },
+    {
+      "id": "oum_bouaghi_dz_940b5ebb",
+      "title": "Oum Bouaghi  أم البواقي",
+      "subtitle": "Local",
+      "location": "Algeria",
+      "genre": "Local",
+      "countryCode": "DZ",
+      "language": "arabic",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://webradio3.tda.dz:8001/OumBouaghi_64K.mp3"
+    },
+    {
+      "id": "annaba_dz_b16995d5",
+      "title": "Annaba عنابة",
+      "subtitle": "Local Radio",
+      "location": "Algeria",
+      "genre": "Local Radio",
+      "countryCode": "DZ",
+      "language": "arabic",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://webradio1.tda.dz:8001/Annaba_64K.mp3"
+    },
+    {
+      "id": "b_char_dz_3a5a2557",
+      "title": "Béchar بشار",
+      "subtitle": "Local Radio",
+      "location": "Algeria",
+      "genre": "Local Radio",
+      "countryCode": "DZ",
+      "language": "arabic.",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://webradio1.tda.dz:8001/Bechar_64K.mp3"
+    },
+    {
+      "id": "kariega_online_radio_za_165c642c",
+      "title": "Kariega Online Radio",
+      "subtitle": "Variety",
+      "location": "South Africa",
+      "genre": "Variety",
+      "countryCode": "ZA",
+      "language": "isixhosa",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://stream.zeno.fm/uoscm48onclvv"
     }
   ]
 }
