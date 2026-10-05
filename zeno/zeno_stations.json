@@ -1,6 +1,6 @@
 {
-  "version": 54,
-  "updated": "2026-10-04T09:38:59Z",
+  "version": 55,
+  "updated": "2026-10-05T10:20:57Z",
   "stations": [
     {
       "id": "80s80s_radio_de_9adaa6e1",
@@ -154,15 +154,6 @@
       "genre": "Radio",
       "streamUrl": "https://ice.leviracloud.eu/star96-aac",
       "countryCode": "EE"
-    },
-    {
-      "id": "gx_radio_ar_a66c0b76",
-      "title": "GX Radio",
-      "subtitle": "AAC+",
-      "location": "Rosario, Argentina",
-      "genre": "00S",
-      "streamUrl": "https://streaming01.radiosenlinea.com.ar:10961/;",
-      "countryCode": "AR"
     },
     {
       "id": "slobodn_vysiela_sk_44bf7f45",
@@ -1630,15 +1621,6 @@
       "genre": "Alternative",
       "streamUrl": "http://mr-stream.mediaconnect.hu/4737/mr2.aac",
       "countryCode": "HU"
-    },
-    {
-      "id": "radio_club_80_cl_9a165ff7",
-      "title": "Radio Club 80",
-      "subtitle": "OGG",
-      "location": "Chile",
-      "genre": "Other",
-      "streamUrl": "https://stream.radioclub80.cl:8002/clasicos80.flac",
-      "countryCode": "CL"
     },
     {
       "id": "mix4_me_uplifitng_trance_web_radio_cy_a3839e45",
@@ -3170,15 +3152,6 @@
       "countryCode": "CH"
     },
     {
-      "id": "station_cn_747de34b",
-      "title": "江苏经典流行音乐广播",
-      "subtitle": "UNKNOWN",
-      "location": "Kiangsu, China",
-      "genre": "Radio",
-      "streamUrl": "http://lzlive.vojs.cn/2wtSfrS/92/live.m3u8?",
-      "countryCode": "CN"
-    },
-    {
       "id": "svobodn_vys_la_cz_ed22d0f5",
       "title": "Svobodný vysílač",
       "subtitle": "OGG",
@@ -4217,15 +4190,6 @@
       "genre": "Radio",
       "streamUrl": "http://142.44.212.114:9071/stream",
       "countryCode": "PH"
-    },
-    {
-      "id": "nova_brasil_fm_bras_lia_df_zyc476_97_5_m_br_89dd3306",
-      "title": "Nova Brasil FM Brasília, DF (ZYC476, 97,5 MHz)",
-      "subtitle": "AAC+",
-      "location": "Distrito Federal, Brazil",
-      "genre": "Brasilia",
-      "streamUrl": "http://27323.live.streamtheworld.com:3690/NOVABRASIL_BSBAAC_SC",
-      "countryCode": "BR"
     },
     {
       "id": "slow_radio_be_0467484a",
@@ -6758,15 +6722,6 @@
       "countryCode": "AT"
     },
     {
-      "id": "radio_carve_uy_127bafff",
-      "title": "Radio Carve",
-      "subtitle": "MP3",
-      "location": "Uruguay",
-      "genre": "Radio",
-      "streamUrl": "https://icecast13.innovanexo.com:9000/radiocarve850.mp3",
-      "countryCode": "UY"
-    },
-    {
       "id": "radio_swiss_pop_ch_912ab7cd",
       "title": "Radio Swiss Pop",
       "subtitle": "MP3",
@@ -7355,15 +7310,6 @@
       "countryCode": "AE"
     },
     {
-      "id": "rockfm_es_f3f50bd8",
-      "title": "RockFM",
-      "subtitle": "MP3",
-      "location": "Spain",
-      "genre": "Rock",
-      "streamUrl": "https://rockfm-cope-rrcast.flumotion.com/cope/rockfm.mp3",
-      "countryCode": "ES"
-    },
-    {
       "id": "0_n_disco_on_radio_de_d82a4b5c",
       "title": "- 0 N - Disco on Radio",
       "subtitle": "MP3",
@@ -7424,6 +7370,210 @@
       "genre": "Ambient",
       "streamUrl": "https://streaming.positivity.radio/pr/stressrelief/icecast.audio",
       "countryCode": "AE"
+    },
+    {
+      "id": "radio_america_94_7_tegucigalpa_hn_e3a2e260",
+      "title": "Radio America  94.7 Tegucigalpa",
+      "subtitle": "MP3",
+      "location": "Honduras",
+      "genre": "Noticias",
+      "streamUrl": "http://26653.live.streamtheworld.com:3690/AMERICA_SC",
+      "countryCode": "HN"
+    },
+    {
+      "id": "r_dio_itatiaia_bh_xx_0f3da6e1",
+      "title": "Rádio Itatiaia BH",
+      "subtitle": "AAC",
+      "location": "Unknown",
+      "genre": "Radio",
+      "streamUrl": "http://8903.brasilstream.com.br:8903/stream?1556404996680"
+    },
+    {
+      "id": "coolfm_funky_soul_hu_0f5388bd",
+      "title": "COOLFM Funky&Soul",
+      "subtitle": "MP3",
+      "location": "Hungary",
+      "genre": "Funky",
+      "streamUrl": "https://mediagw.e-tiger.net/stream/zc25",
+      "countryCode": "HU"
+    },
+    {
+      "id": "0_n_70s_on_radio_de_f519003c",
+      "title": "- 0 N - 70s on Radio",
+      "subtitle": "AAC+",
+      "location": "Bayern, Germany",
+      "genre": "70Er",
+      "streamUrl": "https://0n-70s.radionetz.de/0n-70s.aac",
+      "countryCode": "DE"
+    },
+    {
+      "id": "hrt_radio_split_hr_1fd5bbff",
+      "title": "HRT Radio Split",
+      "subtitle": "AAC+",
+      "location": "Croatia",
+      "genre": "Hrt",
+      "streamUrl": "http://25643.live.streamtheworld.com:3690/SPLITAAC_SC",
+      "countryCode": "HR"
+    },
+    {
+      "id": "exclusively_daft_punk_ae_fa579c01",
+      "title": "Exclusively Daft Punk",
+      "subtitle": "MP3",
+      "location": "The United Arab Emirates",
+      "genre": "Techno",
+      "streamUrl": "https://streaming.exclusive.radio/er/daftpunk/icecast.audio",
+      "countryCode": "AE"
+    },
+    {
+      "id": "myhits_ee_03a180df",
+      "title": "MyHits",
+      "subtitle": "AAC",
+      "location": "Estonia",
+      "genre": "Hits",
+      "streamUrl": "http://le303.euddn.net/ba87f5c67b3928db3989bcb0bec2276edad8b28533d222ea6783319be6b19aa5ecad54564244b134fb0c3fddea434ac8364e64114316ceb31c08b8b80d0ebfc0d0470fa1ed06aaccc576675371119a79f84db82a1006db9937fbf0d74a64c6fa2391902cd8b68d13868ed7ca8427699b7fa367e9388c01200232bd3400876532ff18b06cf67eb95cc3410183906e29b14fe2742bb605c136762960a066b4776e6560e07e7311c4e96e25dd5f9264c99a/myhits.aac",
+      "countryCode": "EE"
+    },
+    {
+      "id": "radio_meuh_fr_a0a8e6d3",
+      "title": "Radio Meuh",
+      "subtitle": "MP3",
+      "location": "France",
+      "genre": "Radio",
+      "streamUrl": "https://radiomeuh2.ice.infomaniak.ch/radiomeuh2-128.mp3",
+      "countryCode": "FR"
+    },
+    {
+      "id": "chum_tsn_1050_toronto_ca_f6b62723",
+      "title": "CHUM TSN 1050 Toronto",
+      "subtitle": "AAC+",
+      "location": "Ontario, Canada",
+      "genre": "Sports",
+      "streamUrl": "http://26103.live.streamtheworld.com:3690/CHUMAMAAC_SC",
+      "countryCode": "CA"
+    },
+    {
+      "id": "rockfm_es_4dfcd312",
+      "title": "RockFM",
+      "subtitle": "AAC+",
+      "location": "Madrid, Spain",
+      "genre": "Radio",
+      "streamUrl": "http://flucast20-h-cloud.flumotion.com/cope/rockfm.aac",
+      "countryCode": "ES"
+    },
+    {
+      "id": "massa_fm_101_1_ponta_grossa_pr_br_2215cb4e",
+      "title": "Massa FM 101,1 (Ponta Grossa - PR)",
+      "subtitle": "AAC+",
+      "location": "PR, Brazil",
+      "genre": "Pop Music",
+      "streamUrl": "https://stm01.virtualcast.com.br:8160/massapontagrossa",
+      "countryCode": "BR"
+    },
+    {
+      "id": "rsr_option_musique_ch_9b0fae08",
+      "title": "RSR Option Musique",
+      "subtitle": "AAC",
+      "location": "Suisse Romande, Switzerland",
+      "genre": "Radio",
+      "streamUrl": "http://stream.srg-ssr.ch/srgssr/option-musique/aac/96",
+      "countryCode": "CH"
+    },
+    {
+      "id": "dakar_musique_sn_ee55fc2f",
+      "title": "Dakar Musique",
+      "subtitle": "MP3",
+      "location": "Senegal",
+      "genre": "Radio",
+      "streamUrl": "https://stream.dakarmusique.com/",
+      "countryCode": "SN"
+    },
+    {
+      "id": "jil_fm_dz_0bc06b6b",
+      "title": "Jil FM",
+      "subtitle": "Radio",
+      "location": "Algeria",
+      "genre": "Local Radio",
+      "streamUrl": "https://webradio1.tda.dz:8001/Jeunesse_64K.mp3",
+      "countryCode": "DZ"
+    },
+    {
+      "id": "2town_radio_dk_aec11ab3",
+      "title": "2town Radio",
+      "subtitle": "MP3",
+      "location": "Denmark",
+      "genre": "Radio",
+      "streamUrl": "https://streaming.radio.co/sd9d980ff0/listen",
+      "countryCode": "DK"
+    },
+    {
+      "id": "athens_deejay_95_2_gr_d1b36e6a",
+      "title": "Athens Deejay 95.2",
+      "subtitle": "MP3",
+      "location": "Athens, Greece",
+      "genre": "Radio",
+      "streamUrl": "https://stream.rcs.revma.com/f663xvvehkcwv",
+      "countryCode": "GR"
+    },
+    {
+      "id": "latina_stereo_co_7ba4dcea",
+      "title": "Latina Stereo",
+      "subtitle": "MP3",
+      "location": "Medellín, Colombia",
+      "genre": "Radio",
+      "streamUrl": "http://stream.latinastereo.com:8000/stream/1/",
+      "countryCode": "CO"
+    },
+    {
+      "id": "90s90s_clubhits_xx_ee2e18ef",
+      "title": "90s90s Clubhits",
+      "subtitle": "AAC",
+      "location": "Germany",
+      "genre": "Radio",
+      "streamUrl": "http://regiocast.streamabc.net/regc-90s90smain4920117-aacplus-64-9187460?sABC=6nor0n0n%230%23r30o443r1929r059s085628511796n57%23fgernzf.90f90f.qr&aw_0_1st.playerid=streams.90s90s.de&amsparams=playerid:streams.90s90s.de;skey:1790839306"
+    },
+    {
+      "id": "hr2_kultur_de_795e5f90",
+      "title": "hr2-kultur",
+      "subtitle": "MP3",
+      "location": "Hessen, Germany",
+      "genre": "Radio",
+      "streamUrl": "https://dispatcher.rndfnk.com/hr/hr2/live/mp3/high",
+      "countryCode": "DE"
+    },
+    {
+      "id": "duo_gold_estonia_ee_4ff349ce",
+      "title": "Duo Gold (Estonia)",
+      "subtitle": "AAC",
+      "location": "Estonia",
+      "genre": "Gold",
+      "streamUrl": "https://le301.euddn.net/d46360f496b80b1eea453b146fd57e626d5ed9703b86238bf7f4d74f5efe09bd5b634060af8f4ecc71229a37f9092da0eb3c4a97eb0d539ca89ab4a70f0323852d4242ea050a877adf713339626ef5b89c4eb91e9e6ac03b513cd92be7463af12a510fdd1deea3ef48365a9fd35bc8c660b8def87d899b7372b949a916005a1ce71b04c0c715f88e1f2311263a6b62b1e035e655fed91bb23334a0ff0878f2729f30ae2137cd97a93a2a2028a3fe4a53/kuld.aac",
+      "countryCode": "EE"
+    },
+    {
+      "id": "beachgrooves_radio_es_566a7734",
+      "title": "BeachGrooves Radio",
+      "subtitle": "MP3",
+      "location": "Spain",
+      "genre": "Deep House",
+      "streamUrl": "https://stream.beachgrooves.com:9000/stream.mp3",
+      "countryCode": "ES"
+    },
+    {
+      "id": "radio_swiss_pop_ch_b4a7e100",
+      "title": "Radio Swiss Pop",
+      "subtitle": "MP3",
+      "location": "Switzerland",
+      "genre": "Pop",
+      "streamUrl": "https://livestreaming-node-2.srg-ssr.ch/srgssr/rsp/mp3/128",
+      "countryCode": "CH"
+    },
+    {
+      "id": "bigfm_oldschool_rap_hip_hop_xx_495b5f72",
+      "title": "bigFM Oldschool Rap & Hip-Hop",
+      "subtitle": "MP3",
+      "location": "Unknown",
+      "genre": "Radio",
+      "streamUrl": "http://streams.bigfm.de/bigfm-oldschool-128-mp3"
     }
   ]
 }
