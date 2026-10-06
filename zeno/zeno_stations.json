@@ -1,6 +1,6 @@
 {
-  "version": 55,
-  "updated": "2026-10-05T10:20:57Z",
+  "version": 56,
+  "updated": "2026-10-06T10:06:12Z",
   "stations": [
     {
       "id": "80s80s_radio_de_9adaa6e1",
@@ -5310,15 +5310,6 @@
       "countryCode": "GB"
     },
     {
-      "id": "radio_club_80_trance_flac_cl_8ebdbec9",
-      "title": "Radio Club 80 Trance FLAC",
-      "subtitle": "OGG",
-      "location": "Chile",
-      "genre": "Trance",
-      "streamUrl": "https://stream.radioclub80.cl:8052/trance80.flac",
-      "countryCode": "CL"
-    },
-    {
       "id": "exclusively_neil_young_ae_4ac574f7",
       "title": "Exclusively Neil Young",
       "subtitle": "MP3",
@@ -7257,15 +7248,6 @@
       "countryCode": "DE"
     },
     {
-      "id": "radio_pakistan_lahore_pk_ed98da65",
-      "title": "Radio Pakistan Lahore",
-      "subtitle": "MP3",
-      "location": "Pakistan",
-      "genre": "🌀",
-      "streamUrl": "https://whmsonic.radio.gov.pk:8026/relay?type=http&nocache=9",
-      "countryCode": "PK"
-    },
-    {
       "id": "ewtn_catholic_radio_xx_87622fdb",
       "title": "EWTN Catholic Radio",
       "subtitle": "AAC",
@@ -7379,14 +7361,6 @@
       "genre": "Noticias",
       "streamUrl": "http://26653.live.streamtheworld.com:3690/AMERICA_SC",
       "countryCode": "HN"
-    },
-    {
-      "id": "r_dio_itatiaia_bh_xx_0f3da6e1",
-      "title": "Rádio Itatiaia BH",
-      "subtitle": "AAC",
-      "location": "Unknown",
-      "genre": "Radio",
-      "streamUrl": "http://8903.brasilstream.com.br:8903/stream?1556404996680"
     },
     {
       "id": "coolfm_funky_soul_hu_0f5388bd",
@@ -7574,6 +7548,129 @@
       "location": "Unknown",
       "genre": "Radio",
       "streamUrl": "http://streams.bigfm.de/bigfm-oldschool-128-mp3"
+    },
+    {
+      "id": "radyo_fenomen_tr_33e7148e",
+      "title": "Radyo Fenomen",
+      "subtitle": "AAC+",
+      "location": "Türkiye",
+      "genre": "Turkey",
+      "streamUrl": "https://live.radyofenomen.com/fenomen/128/icecast.audio",
+      "countryCode": "TR"
+    },
+    {
+      "id": "r_dio_itatiaia_bh_xx_0f3da6e1",
+      "title": "Rádio Itatiaia BH",
+      "subtitle": "AAC",
+      "location": "Unknown",
+      "genre": "Radio",
+      "streamUrl": "http://8903.brasilstream.com.br:8903/stream?1556404996680"
+    },
+    {
+      "id": "inforadio_vom_rbb_de_4d745040",
+      "title": "Inforadio vom rbb",
+      "subtitle": "MP3",
+      "location": "Germany",
+      "genre": "Radio",
+      "streamUrl": "http://dispatcher.rndfnk.com/rbb/inforadio/live/mp3/mid?aggregator=tunein",
+      "countryCode": "DE"
+    },
+    {
+      "id": "la_grosse_radio_reggae_fr_640648b9",
+      "title": "La Grosse Radio Reggae",
+      "subtitle": "MP3",
+      "location": "Paris, France",
+      "genre": "Radio",
+      "streamUrl": "https://hd.lagrosseradio.info/lagrosseradio-reggae-192.mp3",
+      "countryCode": "FR"
+    },
+    {
+      "id": "dandelion_radio_gb_3ada3e3c",
+      "title": "Dandelion Radio",
+      "subtitle": "MP3",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Alternative",
+      "streamUrl": "http://solid41.streamupsolutions.com:9414/stream",
+      "countryCode": "GB"
+    },
+    {
+      "id": "afn_go_tokyo_jp_f5bf69a2",
+      "title": "AFN GO TOKYO",
+      "subtitle": "MP3",
+      "location": "tokyo, Japan",
+      "genre": "Military",
+      "streamUrl": "http://17633.live.streamtheworld.com:3690/AFNP_TKO_SC",
+      "countryCode": "JP"
+    },
+    {
+      "id": "exclusively_bob_marley_hits_ae_303ee8d7",
+      "title": "Exclusively - Bob Marley Hits",
+      "subtitle": "MP3",
+      "location": "Dubai, The United Arab Emirates",
+      "genre": "Bob Marley Hits",
+      "streamUrl": "https://streaming.exclusive.radio/er/bobmarleyhits/icecast.audio",
+      "countryCode": "AE"
+    },
+    {
+      "id": "rock_fm_es_9a729e6a",
+      "title": "ROCK FM",
+      "subtitle": "AAC",
+      "location": "Spain",
+      "genre": "Rock",
+      "streamUrl": "https://rockfm-cope.flumotion.com/playlist.m3u8",
+      "countryCode": "ES"
+    },
+    {
+      "id": "radio47_ke_57926d07",
+      "title": "Radio47",
+      "subtitle": "MP3",
+      "location": "Kenya",
+      "genre": "Radio",
+      "streamUrl": "https://streaming.shoutcast.com/radio-47?ver=690109",
+      "countryCode": "KE"
+    },
+    {
+      "id": "cadena_dial_xx_42ba87b6",
+      "title": "Cadena Dial",
+      "subtitle": "MP3",
+      "location": "Unknown",
+      "genre": "Radio",
+      "streamUrl": "http://25533.live.streamtheworld.com:3690/CADENADIAL_SC"
+    },
+    {
+      "id": "ndr_90_3_de_ddab46d0",
+      "title": "NDR 90,3",
+      "subtitle": "MP3",
+      "location": "Germany",
+      "genre": "Undefined",
+      "streamUrl": "http://icecast.ndr.de/ndr/ndr903/hamburg/mp3/128/stream.mp3",
+      "countryCode": "DE"
+    },
+    {
+      "id": "alouette_fr_58c3cd12",
+      "title": "Alouette",
+      "subtitle": "MP3",
+      "location": "France",
+      "genre": "Radio",
+      "streamUrl": "https://alouette.ice.infomaniak.ch/alouette-high.mp3",
+      "countryCode": "FR"
+    },
+    {
+      "id": "ultra_dark_radio_xx_181f947f",
+      "title": "Ultra Dark Radio",
+      "subtitle": "MP3",
+      "location": "Unknown",
+      "genre": "Radio",
+      "streamUrl": "https://ultradarkradio.stream.laut.fm/ultradarkradio?t302=2019-10-08_21-01-39&uuid=6479098c-11a4-467b-8afc-25b88465c1af"
+    },
+    {
+      "id": "89_0_rtl_in_the_mix_de_7141def9",
+      "title": "89.0 RTL - In The Mix",
+      "subtitle": "MP3",
+      "location": "Germany",
+      "genre": "Radio",
+      "streamUrl": "http://fhhalle.streamabc.net/fhhal-rtlinthemix-mp3-256-1489633?sABC=6nor5521%230%23r30o443r1929r059s085628511796n57%23qverxgyvaxUC&aw_0_1st.playerid=direktlinkHP&amsparams=playerid:direktlinkHP;skey:1790858529",
+      "countryCode": "DE"
     }
   ]
 }
