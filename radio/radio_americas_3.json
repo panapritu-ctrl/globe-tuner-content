@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-05T04:03:46Z",
+  "updated": "2026-10-06T04:52:37Z",
   "region": "americas",
   "part": 3,
   "of": 5,
@@ -26325,18 +26325,6 @@
       "streamUrl": "http://74.91.125.187:8028/stream"
     },
     {
-      "id": "radio_vibras_92_7fm_py_3a850643",
-      "title": "Radio Vibras 92.7FM",
-      "subtitle": "Latino",
-      "location": "Paraguay",
-      "genre": "Latino",
-      "countryCode": "PY",
-      "language": "spanish",
-      "clickCount": 3,
-      "bitrate": 0,
-      "streamUrl": "https://rds3.desdeparaguay.net/movvibras/movvibras.stream/playlist.m3u8"
-    },
-    {
       "id": "radio_nor_andina_101_9_mhz_fm_cajamarca_celend_n_pe_ea74572e",
       "title": "Radio Nor Andina 101.9 MHz FM - Cajamarca, Celendín",
       "subtitle": "Radio",
@@ -26791,6 +26779,30 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://streaming.soyradioinc.com/la103/stream"
+    },
+    {
+      "id": "music_radio_97_1_fm_tt_3b8875a9",
+      "title": "Music Radio 97.1 FM",
+      "subtitle": "Radio",
+      "location": "Trinidad And Tobago",
+      "genre": "Radio",
+      "countryCode": "TT",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 32,
+      "streamUrl": "https://ice42.securenetsystems.net/MR97?playSessionID=C3852F04-F653-4223-80E2177BC1CE1988"
+    },
+    {
+      "id": "xemia_am_850_san_pedro_tlaquepaque_ja_mx_790653cd",
+      "title": "XEMIA-AM 850 San Pedro Tlaquepaque, JA",
+      "subtitle": "News Talk",
+      "location": "Mexico",
+      "genre": "News Talk",
+      "countryCode": "MX",
+      "language": "spanish",
+      "clickCount": 3,
+      "bitrate": 56,
+      "streamUrl": "http://18533.live.streamtheworld.com:3690/XEMIAAAC_SC"
     }
   ]
 }

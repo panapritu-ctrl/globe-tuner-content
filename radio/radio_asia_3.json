@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-05T04:03:46Z",
+  "updated": "2026-10-06T04:52:37Z",
   "region": "asia",
   "part": 3,
   "of": 3,
@@ -9210,19 +9210,6 @@
       "bitrate": 64
     },
     {
-      "id": "rb2_radyo_en_c16f41f7",
-      "title": "Radyo EN",
-      "subtitle": "Ilahi, Islam",
-      "imageUrl": "https://www.radyoen.com.tr/images/radyo-en-logo.png",
-      "streamUrl": "https://yayin2.canliyayin.org:7222/;",
-      "location": "Konya, Türkiye",
-      "genre": "Ilahi",
-      "countryCode": "TR",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 64
-    },
-    {
       "id": "rb2_radyo_eksen_123cba9a",
       "title": "Radyo Eksen",
       "subtitle": "Rock",
@@ -9247,15 +9234,6 @@
       "language": "turkish",
       "clickCount": 5,
       "bitrate": 224
-    },
-    {
-      "id": "radyo_fenomen_tr_b3e632",
-      "title": "Radyo Fenomen",
-      "subtitle": "Turkey",
-      "location": "Türkiye",
-      "genre": "Turkey",
-      "countryCode": "TR",
-      "streamUrl": "https://live.radyofenomen.com/fenomen/128/icecast.audio"
     },
     {
       "id": "radyo_fenomen_clubbin_tr_6f3d34",
@@ -14666,18 +14644,6 @@
       "streamUrl": "http://xradio.zone:9420/stream.mp3"
     },
     {
-      "id": "fm_100_5_mhz_mcot_news_network_th_40713c16",
-      "title": "FM 100.5 MHz MCOT news network",
-      "subtitle": "Radio",
-      "location": "Thailand",
-      "genre": "Radio",
-      "countryCode": "TH",
-      "language": "thai",
-      "clickCount": 3,
-      "bitrate": 128,
-      "streamUrl": "https://ymqaf8yp.mcot.net/FM1005/fm1005.stream_aac/playlist.m3u8"
-    },
-    {
       "id": "fm_94_3_tw_9c7b64bc",
       "title": "警察廣播電臺 - 花蓮分臺 FM 94.3",
       "subtitle": "Emergency & Public Safety",
@@ -16226,18 +16192,6 @@
       "streamUrl": "http://27253.live.streamtheworld.com:3690/AXR_SC"
     },
     {
-      "id": "vov1_vn_83f53484",
-      "title": "VOV1",
-      "subtitle": "Government",
-      "location": "Vietnam",
-      "genre": "Government",
-      "countryCode": "VN",
-      "language": "vietnamese",
-      "clickCount": 28,
-      "bitrate": 256,
-      "streamUrl": "https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/playlist.m3u8"
-    },
-    {
       "id": "a_r_fm_diyarbak_r_tr_8be25d0e",
       "title": "Çağrı FM Diyarbakır",
       "subtitle": "Radio",
@@ -16430,18 +16384,6 @@
       "streamUrl": "http://live.radyotvonline.com:9030/;stream.nsv"
     },
     {
-      "id": "radyo_bandera_sweet_fm_bacolod_ph_444c1e2e",
-      "title": "Radyo Bandera Sweet FM Bacolod",
-      "subtitle": "Radio",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "language": null,
-      "clickCount": 3,
-      "bitrate": 48,
-      "streamUrl": "https://us1.amfmph.com/ssl/sweetfmbacolod?mp=%2Fstream"
-    },
-    {
       "id": "pop_90_turkiye_tr_bff170c9",
       "title": "POP 90 Turkiye",
       "subtitle": "90S Pop",
@@ -16478,18 +16420,6 @@
       "streamUrl": "https://moondigitalmaster.radyotvonline.net/90lar/playlist.m3u8"
     },
     {
-      "id": "therockradio_tr_748781e6",
-      "title": "TheRockRadio",
-      "subtitle": "Radio",
-      "location": "Türkiye",
-      "genre": "Radio",
-      "countryCode": "TR",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 250,
-      "streamUrl": "https://ssl4.radyotvonline.com/radyohome/therockradio.stream/playlist.m3u8"
-    },
-    {
       "id": "danceland_anthems_tr_a7e9ecb3",
       "title": "DanceLand Anthems",
       "subtitle": "Radio",
@@ -16512,18 +16442,6 @@
       "clickCount": 4,
       "bitrate": 96,
       "streamUrl": "https://radyo.slmbilisim.net/8004/stream"
-    },
-    {
-      "id": "station_tw_2e3de465",
-      "title": "古都電台",
-      "subtitle": "Culture",
-      "location": "Taiwan, Republic Of China",
-      "genre": "Culture",
-      "countryCode": "TW",
-      "language": "hokkien",
-      "clickCount": 4,
-      "bitrate": 0,
-      "streamUrl": "http://n03.rcs.revma.com/8bpxy9a122hvv"
     },
     {
       "id": "powerturk_r_b_hip_hop_tr_b37dcc70",
@@ -17148,6 +17066,54 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "https://stream.coraxonline.com/rdcx128.mp3"
+    },
+    {
+      "id": "vov1_vn_83f53484",
+      "title": "VOV1",
+      "subtitle": "Government",
+      "location": "Vietnam",
+      "genre": "Government",
+      "countryCode": "VN",
+      "language": "vietnamese",
+      "clickCount": 32,
+      "bitrate": 256,
+      "streamUrl": "https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/playlist.m3u8"
+    },
+    {
+      "id": "fm_100_5_mhz_mcot_news_network_th_eed6feda",
+      "title": "FM 100.5 MHz MCOT news network",
+      "subtitle": "News",
+      "location": "Thailand",
+      "genre": "News",
+      "countryCode": "TH",
+      "language": "thai",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://play-fm1005.mcot.net/fm1005/fm1005.m3u8"
+    },
+    {
+      "id": "bolsa_radio_vn_vn_a22373b7",
+      "title": "Bolsa Radio VN",
+      "subtitle": "News",
+      "location": "Vietnam",
+      "genre": "News",
+      "countryCode": "VN",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://stream.zenolive.com/ueychbrzv9duv"
+    },
+    {
+      "id": "bombo_radyo_tacloban_ph_3cdefa05",
+      "title": "Bombo Radyo Tacloban",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 64,
+      "streamUrl": "https://stream.zeno.fm/e8zw1dg0xy5tv"
     }
   ]
 }

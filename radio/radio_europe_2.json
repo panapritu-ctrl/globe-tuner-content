@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-05T04:03:46Z",
+  "updated": "2026-10-06T04:52:37Z",
   "region": "europe",
   "part": 2,
   "of": 8,
@@ -15335,19 +15335,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_sunshine_live_charts_aac_64_0e66a64e",
-      "title": "Sunshine Live Charts AAC 64",
-      "subtitle": "Charts, Dance",
-      "imageUrl": "",
-      "streamUrl": "https://sunsl.streamabc.net/sunsl-charts-aacplus-64-4965210?sABC=6968691q%230%23q280o0r09ns9qpq3889p9qqn13p5753s%23fgernz.fhafuvar-yvir.qr&aw_0_1st.playerid=stream.sunshine-live.de&amsparams=playerid:stream.sunshine-live.de;skey:1768450333",
-      "location": "Baden-Württemberg, Germany",
-      "genre": "Charts",
-      "countryCode": "DE",
-      "language": "german",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_sunshine_live_house_aac_64_kbps_fd391e3c",
       "title": "Sunshine Live House (aac 64 kbps)",
       "subtitle": "Dance, House",
@@ -28102,30 +28089,6 @@
       "streamUrl": "https://stream.rockantenne.bayern/rockantenne-bayern/stream/mp3"
     },
     {
-      "id": "dr_p4_sj_lland_aac_dk_760081a0",
-      "title": "DR P4 Sjælland (AAC)",
-      "subtitle": "Regional Radio",
-      "location": "Denmark",
-      "genre": "Regional Radio",
-      "countryCode": "DK",
-      "language": "danish",
-      "clickCount": 3,
-      "bitrate": 324,
-      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4sjaelland/masterab.m3u8"
-    },
-    {
-      "id": "b5_aktuell_de_49936996",
-      "title": "B5 aktuell",
-      "subtitle": "Ard",
-      "location": "Germany",
-      "genre": "Ard",
-      "countryCode": "DE",
-      "language": "german",
-      "clickCount": 11,
-      "bitrate": 0,
-      "streamUrl": "http://streams.br.de/b5aktuell_2.m3u"
-    },
-    {
       "id": "sunshine_live_afro_house_de_47952c43",
       "title": "Sunshine Live - Afro House",
       "subtitle": "Afro House",
@@ -29804,18 +29767,6 @@
       "clickCount": 3,
       "bitrate": 0,
       "streamUrl": "https://br-radio.ard-mcdn.de/br/radio/b2/hls/192/seglist.m3u8"
-    },
-    {
-      "id": "euer_radio_www_euer_radio_de_de_724cb555",
-      "title": "euer-radio (www.Euer - Radio.DE)",
-      "subtitle": "Dance",
-      "location": "Germany",
-      "genre": "Dance",
-      "countryCode": "DE",
-      "language": "german",
-      "clickCount": 3,
-      "bitrate": 320,
-      "streamUrl": "http://s2.euer.tv/audio320"
     },
     {
       "id": "radio_psr_partymix_de_53645967",
@@ -31892,6 +31843,66 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "https://metropolfm.streamabc.net/77_8dsw7gc1qgz6_lc0t-mp3-256-6796112?sABC=69n35qp0%230%23759014699s404754o2p8p1q4q62r578p%23enqvbfcurer&aw_0_1st.playerid=radiosphere&amsparams=playerid:radiosphere;skey:1772314048"
+    },
+    {
+      "id": "b5_aktuell_de_16063a52",
+      "title": "B5 aktuell",
+      "subtitle": "Ard",
+      "location": "Germany",
+      "genre": "Ard",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "http://dispatcher.rndfnk.com/br/br24/live/mp3/mid"
+    },
+    {
+      "id": "rapradio24_de_99f40c90",
+      "title": "RapRadio24",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://rapradio24.stream.laut.fm/rapradio24?t302=2026-10-01_01-18-47&uuid=875bffa9-2264-0407-faa6-db3d1d480357"
+    },
+    {
+      "id": "ella_radio_soul_de_8047b6c8",
+      "title": "Ella Radio - Soul",
+      "subtitle": "Jazz",
+      "location": "Germany",
+      "genre": "Jazz",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 3,
+      "bitrate": 192,
+      "streamUrl": "https://stream.ella-radio.de/ella-soul/mp3-192?ref=radio-browser"
+    },
+    {
+      "id": "ella_radio_christmas_jazz_de_a11fa11c",
+      "title": "Ella Radio - Christmas Jazz",
+      "subtitle": "Christian",
+      "location": "Germany",
+      "genre": "Christian",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 3,
+      "bitrate": 192,
+      "streamUrl": "https://stream.ella-radio.de/ella-christmas-jazz/mp3-192?ref=radio-browser"
+    },
+    {
+      "id": "station_ee_5f435576",
+      "title": "Суперрадио",
+      "subtitle": "Radio",
+      "location": "Estonia",
+      "genre": "Radio",
+      "countryCode": "EE",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://edge04.cdn.bitflip.ee:8888/RR_AAC?_i=88a9ec47"
     }
   ]
 }

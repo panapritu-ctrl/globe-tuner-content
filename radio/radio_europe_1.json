@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-05T04:03:46Z",
+  "updated": "2026-10-06T04:52:37Z",
   "region": "europe",
   "part": 1,
   "of": 8,
@@ -29661,18 +29661,6 @@
       "streamUrl": "https://radio.digitalhandwerk.rocks/hls/live.m3u8"
     },
     {
-      "id": "pop_fm_slusaj_glasno_ba_fee41cde",
-      "title": "Pop FM - Slusaj glasno!!!",
-      "subtitle": "Radio",
-      "location": "Bosnia And Herzegovina",
-      "genre": "Radio",
-      "countryCode": "BA",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 192,
-      "streamUrl": "http://188.40.62.20:8032/;stream.nsv"
-    },
-    {
       "id": "r_sa_70er_oldies_de_8f1237ee",
       "title": "R.SA 70er Oldies",
       "subtitle": "Radio",
@@ -31603,6 +31591,30 @@
       "clickCount": 4,
       "bitrate": 320,
       "streamUrl": "http://mirror.secondradio.de:7070/dab-sr?ref=emil.marche@rundfunkkombinat.de"
+    },
+    {
+      "id": "ai_revival_radio_cz_5608cd19",
+      "title": "AI REVIVAL Radio",
+      "subtitle": "80'S",
+      "location": "Czechia",
+      "genre": "80'S",
+      "countryCode": "CZ",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 256,
+      "streamUrl": "https://stream.airevival.eu/radio.mp3"
+    },
+    {
+      "id": "bojlerroom_cz_7bce0745",
+      "title": "BojlerRoom",
+      "subtitle": "Club",
+      "location": "Czechia",
+      "genre": "Club",
+      "countryCode": "CZ",
+      "language": "czech",
+      "clickCount": 3,
+      "bitrate": 320,
+      "streamUrl": "https://ice4.abradio.cz/bojler_room_128.aac"
     }
   ]
 }

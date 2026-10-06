@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-05T04:03:46Z",
+  "updated": "2026-10-06T04:52:37Z",
   "region": "asia",
   "part": 2,
   "of": 3,
@@ -1482,19 +1482,6 @@
       "streamUrl": "http://lhttp.qingting.fm/live/4237/64k.mp3",
       "location": "Hunan, China",
       "genre": "Music",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_station_6cca27c2",
-      "title": "长沙新闻广播",
-      "subtitle": "Classic Hits, Hits",
-      "imageUrl": "https://pic.qtfm.cn/2022/0121/20220121062312.jpeg",
-      "streamUrl": "https://lhttp.qtfm.cn/live/4877/64k.mp3",
-      "location": "Hunan, China",
-      "genre": "Classic Hits",
       "countryCode": "CN",
       "language": "chinese",
       "clickCount": 0,
@@ -20918,18 +20905,6 @@
       "streamUrl": "https://svara-stream.radioddns.net/rasikafm_stereo"
     },
     {
-      "id": "air_bhuj_in_8eada531",
-      "title": "AIR Bhuj",
-      "subtitle": "Air",
-      "location": "India",
-      "genre": "Air",
-      "countryCode": "IN",
-      "language": null,
-      "clickCount": 6,
-      "bitrate": 128,
-      "streamUrl": "http://117.254.199.9:8081/source"
-    },
-    {
       "id": "voa_macau_mo_90687f3d",
       "title": "VOA Macau",
       "subtitle": "News",
@@ -23078,18 +23053,6 @@
       "streamUrl": "https://kzradio.mediacast.co.il/kzradio_live/kzradio/icecast.audio"
     },
     {
-      "id": "prambors_fm_jakarta_102_2_id_46a646af",
-      "title": "Prambors FM Jakarta 102.2",
-      "subtitle": "Hits",
-      "location": "Indonesia",
-      "genre": "Hits",
-      "countryCode": "ID",
-      "language": "english",
-      "clickCount": 40,
-      "bitrate": 128,
-      "streamUrl": "http://103.24.105.90:9300/pjkt"
-    },
-    {
       "id": "hi_fi_radio_cn_debd30c0",
       "title": "天籁之音 - Hi-Fi Radio",
       "subtitle": "Instrumental",
@@ -24722,18 +24685,6 @@
       "streamUrl": "https://lhttp-hw.qtfm.cn/live/15318194/64k.mp3"
     },
     {
-      "id": "diverse_fm_in_7ef41197",
-      "title": "Diverse FM",
-      "subtitle": "Radio",
-      "location": "India",
-      "genre": "Radio",
-      "countryCode": "IN",
-      "language": "hindi",
-      "clickCount": 86,
-      "bitrate": 128,
-      "streamUrl": "https://carol.epichosts.co.uk:8570/;"
-    },
-    {
       "id": "pyongyang_fm_radio_kp_2438122d",
       "title": "Pyongyang FM Radio",
       "subtitle": "Folk Music",
@@ -24888,18 +24839,6 @@
       "clickCount": 4,
       "bitrate": 96,
       "streamUrl": "https://internetradio.gupshupradio.com:8080/?type=mp3"
-    },
-    {
-      "id": "yarmouk_university_fm_jo_10be34c3",
-      "title": "Yarmouk University FM",
-      "subtitle": "Radio",
-      "location": "Jordan",
-      "genre": "Radio",
-      "countryCode": "JO",
-      "language": "arabic",
-      "clickCount": 4,
-      "bitrate": 0,
-      "streamUrl": "https://yufm.yu.edu.jo/broadwave.mp3"
     },
     {
       "id": "air_jeypore_in_ff1b0bd1",
@@ -25428,18 +25367,6 @@
       "clickCount": 3,
       "bitrate": 0,
       "streamUrl": "http://live.yumentv.cn:30600/hls/_GuBFRBNR/playlist.m3u8"
-    },
-    {
-      "id": "station_cn_a7c73d3f",
-      "title": "青岛故事广播",
-      "subtitle": "Old Age",
-      "location": "China",
-      "genre": "Old Age",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 3,
-      "bitrate": 0,
-      "streamUrl": "http://video10.qtv.com.cn/zhibogsgb/manifest.m3u8"
     },
     {
       "id": "cnn_indonesia_id_4a9d0831",
@@ -25980,6 +25907,66 @@
       "clickCount": 4,
       "bitrate": 5882,
       "streamUrl": "https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/master.m3u8"
+    },
+    {
+      "id": "diverse_fm_in_7ef41197",
+      "title": "Diverse FM",
+      "subtitle": "Radio",
+      "location": "India",
+      "genre": "Radio",
+      "countryCode": "IN",
+      "language": "hindi",
+      "clickCount": 172,
+      "bitrate": 128,
+      "streamUrl": "https://carol.epichosts.co.uk:8570/;"
+    },
+    {
+      "id": "tamil_80_s_radio_in_92991e92",
+      "title": "Tamil 80's Radio",
+      "subtitle": "South India",
+      "location": "India",
+      "genre": "South India",
+      "countryCode": "IN",
+      "language": "tamil",
+      "clickCount": 17,
+      "bitrate": 64,
+      "streamUrl": "https://psrlive2.listenon.in/80?station=tamil80shitsradio"
+    },
+    {
+      "id": "yarmouk_university_fm_jo_10be34c3",
+      "title": "Yarmouk University FM",
+      "subtitle": "Radio",
+      "location": "Jordan",
+      "genre": "Radio",
+      "countryCode": "JO",
+      "language": "arabic",
+      "clickCount": 9,
+      "bitrate": 0,
+      "streamUrl": "https://yufm.yu.edu.jo/broadwave.mp3"
+    },
+    {
+      "id": "sangeet_radio_usa_in_003b376f",
+      "title": "Sangeet Radio USA",
+      "subtitle": "Radio",
+      "location": "India",
+      "genre": "Radio",
+      "countryCode": "IN",
+      "language": "hindi",
+      "clickCount": 6,
+      "bitrate": 32,
+      "streamUrl": "https://ice8.securenetsystems.net/SGTRADIO"
+    },
+    {
+      "id": "sonora_fm_bandung_id_75202ed0",
+      "title": "Sonora FM Bandung",
+      "subtitle": "Misc",
+      "location": "Indonesia",
+      "genre": "Misc",
+      "countryCode": "ID",
+      "language": "indonesian",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://streamingv2.shoutcast.com/sonora-bandung"
     }
   ]
 }

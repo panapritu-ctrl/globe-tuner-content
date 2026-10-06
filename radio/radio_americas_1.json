@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-05T04:03:46Z",
+  "updated": "2026-10-06T04:52:37Z",
   "region": "americas",
   "part": 1,
   "of": 5,
@@ -6949,19 +6949,6 @@
       "bitrate": 64
     },
     {
-      "id": "rb2_radio_metropolitana_95_3_0df8c8e2",
-      "title": "Radio Metropolitana 95.3",
-      "subtitle": "Pop",
-      "imageUrl": "",
-      "streamUrl": "https://masservidor.net:7176/;",
-      "location": "Mendoza, Argentina",
-      "genre": "Pop",
-      "countryCode": "AR",
-      "language": "spanish",
-      "clickCount": 0,
-      "bitrate": 64
-    },
-    {
       "id": "radio_mitre_ar_c0cf2d",
       "title": "Radio Mitre",
       "subtitle": "News",
@@ -9134,19 +9121,6 @@
       "genre": "Caporal",
       "streamUrl": "http://stream.zeno.fm/cb4zhgss538uv",
       "countryCode": "BO"
-    },
-    {
-      "id": "rb2_classica_fm_fb939ceb",
-      "title": "Classica FM",
-      "subtitle": "Classics, Music",
-      "imageUrl": "http://classicafm.com/v2/wp-content/uploads/2020/08/logopaginicio.png",
-      "streamUrl": "http://classicafm.scbbs.net:8000/;",
-      "location": "Santa Cruz de la Sierra, Bolivia",
-      "genre": "Classics",
-      "countryCode": "BO",
-      "language": "español internacional",
-      "clickCount": 1,
-      "bitrate": 48
     },
     {
       "id": "rb2_cristo_viene_la_red_743d7547",
@@ -27258,18 +27232,6 @@
       "streamUrl": "https://shout25.crossradio.com.br:24030//1"
     },
     {
-      "id": "eldorado_fm_s_o_paulo_br_2325e844",
-      "title": "Eldorado FM - São Paulo",
-      "subtitle": "Adult Contemporary",
-      "location": "Brazil",
-      "genre": "Adult Contemporary",
-      "countryCode": "BR",
-      "language": "brazilian portuguese",
-      "clickCount": 3,
-      "bitrate": 0,
-      "streamUrl": "https://eldoradolive01.akamaized.net/hls/live/2041487/eldorado/master.m3u8"
-    },
-    {
       "id": "radio_uno_fm_101_3_ar_77c2c6c7",
       "title": "Radio Uno Fm 101.3",
       "subtitle": "Radio",
@@ -28216,6 +28178,18 @@
       "clickCount": 3,
       "bitrate": 64,
       "streamUrl": "https://radio.conectaweb.tech/listen/conecta_brasil/radio.mp3"
+    },
+    {
+      "id": "nuevos_aires_fm_99_7_ar_4ab15d8c",
+      "title": "Nuevos Aires FM 99.7",
+      "subtitle": "Deportes",
+      "location": "Argentina",
+      "genre": "Deportes",
+      "countryCode": "AR",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "http://streamingv2.shoutcast.com/NuevosAiresFM997_192.mp3"
     }
   ]
 }

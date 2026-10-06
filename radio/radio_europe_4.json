@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-05T04:03:46Z",
+  "updated": "2026-10-06T04:52:37Z",
   "region": "europe",
   "part": 4,
   "of": 8,
@@ -17317,19 +17317,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_wey_valley_e5daba4f",
-      "title": "Wey Valley",
-      "subtitle": "Easy Listening, Pop",
-      "imageUrl": "https://www.weyvalleyradio.uk/favicon.ico",
-      "streamUrl": "https://stream.readyformed.com:8443/wey1",
-      "location": "Surrey, The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "Easy Listening",
-      "countryCode": "GB",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 64
-    },
-    {
       "id": "rb2_weymouth_rocks_medium_bitrate_62ef2552",
       "title": "Weymouth Rocks (Medium Bitrate)",
       "subtitle": "Punk, Rock",
@@ -27601,6 +27588,30 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://stream.myip.gr/proxy/alpha1047?mp=/stream"
+    },
+    {
+      "id": "drs_fm_95_3_gr_ea019c86",
+      "title": "DRS FM 95.3",
+      "subtitle": "Radio",
+      "location": "Greece",
+      "genre": "Radio",
+      "countryCode": "GR",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://drs953.live24.gr/drs953"
+    },
+    {
+      "id": "planet_radio_gr_36498d30",
+      "title": "PLANET RADIO",
+      "subtitle": "Pop",
+      "location": "Greece",
+      "genre": "Pop",
+      "countryCode": "GR",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://stream.bestgreek.info/planetradio"
     }
   ]
 }

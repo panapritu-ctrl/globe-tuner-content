@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-05T04:03:46Z",
+  "updated": "2026-10-06T04:52:37Z",
   "region": "africa",
   "stations": [
     {
@@ -557,15 +557,6 @@
       "streamUrl": "https://listen.radioking.com/radio/6640/stream/347"
     },
     {
-      "id": "alg_rie_chaine_1_dz",
-      "title": "Algérie Chaine 1",
-      "subtitle": "AAC 0kbps",
-      "location": "Algeria",
-      "genre": "Music",
-      "countryCode": "DZ",
-      "streamUrl": "https://radiochaine1.ice.infomaniak.ch/chaine1.mp3"
-    },
-    {
       "id": "alg_rie_chaine_2_dz_d5c5a4",
       "title": "Algérie Chaine 2",
       "subtitle": "Radio",
@@ -626,19 +617,6 @@
       "genre": "Music",
       "countryCode": "DZ",
       "streamUrl": "https://radiojeunesse.ice.infomaniak.ch/jeunesse.mp3"
-    },
-    {
-      "id": "rb2_radio_adrar_26f17374",
-      "title": "Radio Adrar",
-      "subtitle": "Local News, Local Radio",
-      "imageUrl": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---001.png",
-      "streamUrl": "https://radioadrar.ice.infomaniak.ch/adrar.mp3",
-      "location": "Algeria",
-      "genre": "Local News",
-      "countryCode": "DZ",
-      "language": "arabic",
-      "clickCount": 4,
-      "bitrate": 128
     },
     {
       "id": "radio_alg_rie_internationale_dz_b7e5f6",
@@ -2658,15 +2636,6 @@
       "language": null,
       "clickCount": 2,
       "bitrate": 128
-    },
-    {
-      "id": "radio47_ke_87583a",
-      "title": "Radio47",
-      "subtitle": "Radio",
-      "location": "Kenya",
-      "genre": "Radio",
-      "streamUrl": "https://streaming.shoutcast.com/radio-47?ver=690109",
-      "countryCode": "KE"
     },
     {
       "id": "taach_fm_ke_f72158",
@@ -9091,18 +9060,6 @@
       "streamUrl": "https://stream.zeno.fm/1mr8wdywz68uv"
     },
     {
-      "id": "hod_radio_ng_2197c8a5",
-      "title": "HOD RADIO",
-      "subtitle": "Radio",
-      "location": "Nigeria",
-      "genre": "Radio",
-      "countryCode": "NG",
-      "language": null,
-      "clickCount": 5,
-      "bitrate": 96,
-      "streamUrl": "https://servidor21.brlogic.com:7766/live"
-    },
-    {
       "id": "usaku_fm_90_5_ng_8e56d655",
       "title": "Usaku FM 90.5",
       "subtitle": "Fm Yola",
@@ -9785,18 +9742,6 @@
       "clickCount": 6,
       "bitrate": 0,
       "streamUrl": "https://edge.iono.fm/xhls/279_medium.m3u8?ref=https%3A%2F%2Fradio-browser.info&adToken=&pofToken="
-    },
-    {
-      "id": "interspace_sound_system_ng_233ca018",
-      "title": "InterSpace Sound System",
-      "subtitle": "African",
-      "location": "Nigeria",
-      "genre": "African",
-      "countryCode": "NG",
-      "language": "english",
-      "clickCount": 4,
-      "bitrate": 0,
-      "streamUrl": "https://radio.interspacemusic.com/stream.mp3"
     },
     {
       "id": "rcv_radio_cabo_verde_cv_dfe94f08",
@@ -10781,6 +10726,186 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "https://stream.zeno.fm/uoscm48onclvv"
+    },
+    {
+      "id": "sports_radio_brila_fm_ng_fa173a1c",
+      "title": "Sports Radio Brila FM",
+      "subtitle": "Radio",
+      "location": "Nigeria",
+      "genre": "Radio",
+      "countryCode": "NG",
+      "language": null,
+      "clickCount": 6390,
+      "bitrate": 128,
+      "streamUrl": "https://atunwadigital.streamguys1.com/brilafm"
+    },
+    {
+      "id": "mbc_radio_2fm_mw_3d5701f7",
+      "title": "MBC Radio 2FM",
+      "subtitle": "Radio",
+      "location": "Malawi",
+      "genre": "Radio",
+      "countryCode": "MW",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "http://radiostream.mbc.mw:86/broadwavehigh.mp3?src=1"
+    },
+    {
+      "id": "guelma_dz_3a57faac",
+      "title": "Guelma قالمة",
+      "subtitle": "Local",
+      "location": "Algeria",
+      "genre": "Local",
+      "countryCode": "DZ",
+      "language": "arabic",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://webradio1.tda.dz:8001/Guelma_64K.mp3"
+    },
+    {
+      "id": "illizi_dz_6dbe2796",
+      "title": "Illizi اليزي",
+      "subtitle": "Local",
+      "location": "Algeria",
+      "genre": "Local",
+      "countryCode": "DZ",
+      "language": "arabic",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://webradio2.tda.dz:8001/Illizi_64K.mp3"
+    },
+    {
+      "id": "jijel_dz_348ca6bd",
+      "title": "Jijel جيجل",
+      "subtitle": "Local",
+      "location": "Algeria",
+      "genre": "Local",
+      "countryCode": "DZ",
+      "language": "arabic",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://webradio2.tda.dz:8001/Jijel_64K.mp3"
+    },
+    {
+      "id": "mascara_dz_9da9975b",
+      "title": "Mascara معسكر",
+      "subtitle": "Local",
+      "location": "Algeria",
+      "genre": "Local",
+      "countryCode": "DZ",
+      "language": "arabic",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://webradio1.tda.dz:8001/Mascara_64K.mp3"
+    },
+    {
+      "id": "oran_dz_16d0dc78",
+      "title": "Oran وهران",
+      "subtitle": "Local",
+      "location": "Algeria",
+      "genre": "Local",
+      "countryCode": "DZ",
+      "language": "arabic",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://webradio2.tda.dz:8001/Oran_64K.mp3"
+    },
+    {
+      "id": "ouargla_dz_80e366ec",
+      "title": "Ouargla ورقلة",
+      "subtitle": "Local",
+      "location": "Algeria",
+      "genre": "Local",
+      "countryCode": "DZ",
+      "language": "arabic",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://webradio1.tda.dz:8001/Ouargla_64K.mp3"
+    },
+    {
+      "id": "sa_da_dz_fa22cd22",
+      "title": "Saïda سعيدة",
+      "subtitle": "Local",
+      "location": "Algeria",
+      "genre": "Local",
+      "countryCode": "DZ",
+      "language": "arabic",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://webradio1.tda.dz:8001/Saida_64K.mp3"
+    },
+    {
+      "id": "skikda_dz_b9197d0b",
+      "title": "Skikda سكيكدة",
+      "subtitle": "Local",
+      "location": "Algeria",
+      "genre": "Local",
+      "countryCode": "DZ",
+      "language": "arabic",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://webradio1.tda.dz:8001/Skikda_64K.mp3"
+    },
+    {
+      "id": "batna_dz_13f9f30f",
+      "title": "Batna باتنة",
+      "subtitle": "Local Radio",
+      "location": "Algeria",
+      "genre": "Local Radio",
+      "countryCode": "DZ",
+      "language": "arabic",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://webradio2.tda.dz:8001/Batna_64K.mp3"
+    },
+    {
+      "id": "beja_a_dz_32610546",
+      "title": "Bejaïa بجاية",
+      "subtitle": "Local",
+      "location": "Algeria",
+      "genre": "Local",
+      "countryCode": "DZ",
+      "language": "arabic",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://webradio1.tda.dz:8001/Bejaia_64K.mp3"
+    },
+    {
+      "id": "bouira_dz_0771175a",
+      "title": "Bouira البويرة",
+      "subtitle": "Local",
+      "location": "Algeria",
+      "genre": "Local",
+      "countryCode": "DZ",
+      "language": "arabic",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://webradio1.tda.dz:8001/Bouira_64K.mp3"
+    },
+    {
+      "id": "djelfa_dz_60c47416",
+      "title": "Djelfa الجلفة",
+      "subtitle": "Local",
+      "location": "Algeria",
+      "genre": "Local",
+      "countryCode": "DZ",
+      "language": "arabic",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://webradio2.tda.dz:8001/Djelfa_64K.mp3"
+    },
+    {
+      "id": "radio_waumini_88_3fm_ke_4e683420",
+      "title": "Radio Waumini 88.3FM",
+      "subtitle": "Radio",
+      "location": "Kenya",
+      "genre": "Radio",
+      "countryCode": "KE",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "http://stream.zeno.fm/gvk894g072quv"
     }
   ]
 }
