@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-06T04:52:37Z",
+  "updated": "2026-10-07T04:18:26Z",
   "region": "asia",
   "part": 1,
   "of": 3,
@@ -11453,19 +11453,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_mianyang_traffic_radio_a2aa158a",
-      "title": "Mianyang Traffic Radio",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://ls.qingting.fm/live/4026.m3u8",
-      "location": "Szechuan, China",
-      "genre": "Radio",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_nugs_china_radio_d701a19f",
       "title": "NUGS-China Radio",
       "subtitle": "Radio",
@@ -11945,19 +11932,6 @@
       "subtitle": "Radio",
       "imageUrl": "http://www.qtv.com.cn/favicon.ico",
       "streamUrl": "http://ls.qingting.fm/live/4956.m3u8",
-      "location": "Shantung, China",
-      "genre": "Radio",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_tsingtao_traffic_radio_8c85fe7c",
-      "title": "Tsingtao Traffic Radio",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://ls.qingting.fm/live/1676.m3u8",
       "location": "Shantung, China",
       "genre": "Radio",
       "countryCode": "CN",
@@ -25421,18 +25395,6 @@
       "streamUrl": "http://lhttp.qingting.fm/live/5022285/64k.mp3"
     },
     {
-      "id": "station_cn_fe3c278b",
-      "title": "宣城交通文艺广播",
-      "subtitle": "Entertainment",
-      "location": "China",
-      "genre": "Entertainment",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 2,
-      "bitrate": 0,
-      "streamUrl": "https://lhttp-hw.qtfm.cn/live/5023/64k.mp3"
-    },
-    {
       "id": "station_cn_d3bfb308",
       "title": "湖南音乐之声",
       "subtitle": "89.3",
@@ -26681,18 +26643,6 @@
       "streamUrl": "https://lhttp-hw.qtfm.cn/live/20211562/64k.mp3"
     },
     {
-      "id": "station_af_488270ce",
-      "title": ".إذاعة ماهر المعيقلي",
-      "subtitle": "Classical",
-      "location": "Afghanistan",
-      "genre": "Classical",
-      "countryCode": "AF",
-      "language": null,
-      "clickCount": 13,
-      "bitrate": 128,
-      "streamUrl": "https://backup.qurango.net/radio/maher"
-    },
-    {
       "id": "station_cn_574990bc",
       "title": "南宁故事广播",
       "subtitle": "Culture",
@@ -27363,6 +27313,18 @@
       "clickCount": 3,
       "bitrate": 0,
       "streamUrl": "https://lhttp-hw.qtfm.cn/live/20500064/64k.mp3"
+    },
+    {
+      "id": "station_af_488270ce",
+      "title": ".إذاعة ماهر المعيقلي",
+      "subtitle": "Classical",
+      "location": "Afghanistan",
+      "genre": "Classical",
+      "countryCode": "AF",
+      "language": null,
+      "clickCount": 10,
+      "bitrate": 128,
+      "streamUrl": "https://backup.qurango.net/radio/maher"
     }
   ]
 }

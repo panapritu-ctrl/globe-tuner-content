@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-06T04:52:37Z",
+  "updated": "2026-10-07T04:18:26Z",
   "region": "americas",
   "part": 3,
   "of": 5,
@@ -13607,19 +13607,6 @@
       "bitrate": 64
     },
     {
-      "id": "rb2_radio_ranchito_san_luis_107_1_fm_1460_am_703021e7",
-      "title": "Radio Ranchito San Luis 107.1 FM/1460 AM",
-      "subtitle": "Banda, Grupera",
-      "imageUrl": "",
-      "streamUrl": "https://radios.blumhost.es/8134/;",
-      "location": "Sonora, Mexico",
-      "genre": "Banda",
-      "countryCode": "MX",
-      "language": "español mexico",
-      "clickCount": 0,
-      "bitrate": 64
-    },
-    {
       "id": "rb2_radio_san_luis_7142ab37",
       "title": "Radio San Luis",
       "subtitle": "Classical",
@@ -16189,19 +16176,6 @@
       "countryCode": "MX",
       "language": "spanish",
       "clickCount": 1,
-      "bitrate": 32
-    },
-    {
-      "id": "rb2_xered_radio_red_1110_am_mexico_city_df_963366be",
-      "title": "XERED \"Radio RED\" 1110 AM Mexico City, DF",
-      "subtitle": "Ciudad Mexico, News",
-      "imageUrl": "",
-      "streamUrl": "http://14553.live.streamtheworld.com:3690/XERED_AMAAC_SC",
-      "location": "Distrito Federal, Mexico",
-      "genre": "Ciudad Mexico",
-      "countryCode": "MX",
-      "language": "spanish",
-      "clickCount": 0,
       "bitrate": 32
     },
     {
@@ -25965,18 +25939,6 @@
       "streamUrl": "https://stream.zeno.fm/fh8qfg75puquv"
     },
     {
-      "id": "nexohits_radio_mx_00d780ab",
-      "title": "Nexohits Radio",
-      "subtitle": "Corridos Tumbados",
-      "location": "Mexico",
-      "genre": "Corridos Tumbados",
-      "countryCode": "MX",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 96,
-      "streamUrl": "https://a5.asurahosting.com/listen/nexohits_radio/live"
-    },
-    {
       "id": "tambrin_tt_cae5b995",
       "title": "TAMBRIN",
       "subtitle": "Pop",
@@ -26457,18 +26419,6 @@
       "streamUrl": "https://stream-178.surfernetwork.com/txnx98nzng8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0eG54OThuem5nOHV2IiwiaG9zdCI6InN0cmVhbS0xNzguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImlKS0tpV2pNU3FpdTV6Y01GS0pwQ1EiLCJpYXQiOjE3ODU3MTIyMzksImV4cCI6MTc4NTcxMjI5OX0.XjCaoDKl5ewuTmjwRx1zt0hh_CoJ1e75hemtuFW2sRo"
     },
     {
-      "id": "exclusiva_fm_103_7_py_08feb429",
-      "title": "Exclusiva FM 103.7",
-      "subtitle": "Music",
-      "location": "Paraguay",
-      "genre": "Music",
-      "countryCode": "PY",
-      "language": "español paraguay",
-      "clickCount": 4,
-      "bitrate": 0,
-      "streamUrl": "https://rds3.desdeparaguay.net/movexclusiva/movexclusiva.stream/playlist.m3u8"
-    },
-    {
       "id": "stereo_ceiba_99_9_la_ceiba_hn_9e6783d5",
       "title": "Stereo Ceiba 99.9 - La Ceiba",
       "subtitle": "80S",
@@ -26803,6 +26753,54 @@
       "clickCount": 3,
       "bitrate": 56,
       "streamUrl": "http://18533.live.streamtheworld.com:3690/XEMIAAAC_SC"
+    },
+    {
+      "id": "waba_pr_08fa0114",
+      "title": "WABA",
+      "subtitle": "Radio",
+      "location": "Puerto Rico",
+      "genre": "Radio",
+      "countryCode": "PR",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 32,
+      "streamUrl": "https://stream.eleden.com/waba.aac/waba.aac.stream/playlist.m3u8"
+    },
+    {
+      "id": "exclusiva_fm_103_7_fm_py_08feb429",
+      "title": "Exclusiva FM 103.7 FM",
+      "subtitle": "Folclore",
+      "location": "Paraguay",
+      "genre": "Folclore",
+      "countryCode": "PY",
+      "language": "guarani",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://rds3.desdeparaguay.net/movexclusiva/movexclusiva.stream/playlist.m3u8"
+    },
+    {
+      "id": "radio_vibras_92_7fm_py_3a850643",
+      "title": "Radio Vibras 92.7FM",
+      "subtitle": "Latino",
+      "location": "Paraguay",
+      "genre": "Latino",
+      "countryCode": "PY",
+      "language": "spanish",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://rds3.desdeparaguay.net/movvibras/movvibras.stream/playlist.m3u8"
+    },
+    {
+      "id": "emisoras_paraguay_106_1_fm_py_6c809248",
+      "title": "Emisoras Paraguay 106.1 FM",
+      "subtitle": "Cumbia",
+      "location": "Paraguay",
+      "genre": "Cumbia",
+      "countryCode": "PY",
+      "language": "spanish",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://rds3.desdeparaguay.net/movemisoras/movemisoras.stream/playlist.m3u8"
     }
   ]
 }

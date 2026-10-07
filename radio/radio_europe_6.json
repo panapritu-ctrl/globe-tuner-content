@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-06T04:52:37Z",
+  "updated": "2026-10-07T04:18:26Z",
   "region": "europe",
   "part": 6,
   "of": 8,
@@ -6669,15 +6669,6 @@
       "streamUrl": "https://stream1.relaxfm.lt/relaxfm128.mp3"
     },
     {
-      "id": "radijo_stotis_lietus_lt_ef8bef",
-      "title": "Radijo stotis Lietus",
-      "subtitle": "Radio",
-      "location": "Lithuania",
-      "genre": "Radio",
-      "countryCode": "LT",
-      "streamUrl": "https://radio.m-1.fm/LIETUS"
-    },
-    {
       "id": "rb2_radio_fiesta_f4ad2cb4",
       "title": "Radio Fiesta",
       "subtitle": "Radio",
@@ -11663,19 +11654,6 @@
       "language": "dutch",
       "clickCount": 0,
       "bitrate": 192
-    },
-    {
-      "id": "rb2_gay_radio_europe_online_30010c90",
-      "title": "Gay Radio Europe Online",
-      "subtitle": "Afro, Deep",
-      "imageUrl": "",
-      "streamUrl": "https://azura.svr6.drechthosting.nl/listen/gay_radio_netherlands/radio.mp3",
-      "location": "Limburg, Roermond, Kasteel osenstraat 12, The Netherlands",
-      "genre": "Afro",
-      "countryCode": "NL",
-      "language": "dutch",
-      "clickCount": 0,
-      "bitrate": 320
     },
     {
       "id": "rb2_gigant_fm_cbfe4c77",
@@ -17893,19 +17871,6 @@
       "bitrate": 96
     },
     {
-      "id": "rb2_subline_bass_tech_house_2820436b",
-      "title": "Subline – Bass & Tech House",
-      "subtitle": "Bass House, Dance",
-      "imageUrl": "",
-      "streamUrl": "https://r.bgp.rodeo/listen/subline/radio.mp3",
-      "location": "The Netherlands",
-      "genre": "Bass House",
-      "countryCode": "NL",
-      "language": "english",
-      "clickCount": 2,
-      "bitrate": 320
-    },
-    {
       "id": "rb2_sunset_radio_db790a09",
       "title": "Sunset Radio",
       "subtitle": "Internet Radio, Song Requests",
@@ -22384,19 +22349,6 @@
       "bitrate": 64
     },
     {
-      "id": "rb2_rmf_depeche_mode_fakty_72fb93b4",
-      "title": "RMF Depeche Mode + FAKTY",
-      "subtitle": "Depeche Mode",
-      "imageUrl": "http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
-      "streamUrl": "http://31.192.216.7/DEPECHEMODEF",
-      "location": "Krakow, Poland",
-      "genre": "Depeche Mode",
-      "countryCode": "PL",
-      "language": "polish",
-      "clickCount": 1,
-      "bitrate": 64
-    },
-    {
       "id": "rb2_rmf_disco_polo_1c0f423c",
       "title": "RMF Disco polo",
       "subtitle": "Radio",
@@ -22598,19 +22550,6 @@
       "countryCode": "PL",
       "language": "polish",
       "clickCount": 4,
-      "bitrate": 64
-    },
-    {
-      "id": "rb2_rmf_grunge_fakty_312f45dc",
-      "title": "RMF Grunge + FAKTY",
-      "subtitle": "Grunge",
-      "imageUrl": "",
-      "streamUrl": "http://195.150.20.7/GRUNGEF",
-      "location": "Krakow, Poland",
-      "genre": "Grunge",
-      "countryCode": "PL",
-      "language": "polish",
-      "clickCount": 0,
       "bitrate": 64
     },
     {
@@ -27485,6 +27424,42 @@
       "clickCount": 3,
       "bitrate": 0,
       "streamUrl": "https://stream.radioretrovibe.com/stream192"
+    },
+    {
+      "id": "radio_energy_is_on_flac_it_1ef3b58d",
+      "title": "Radio Energy Is On (Flac)",
+      "subtitle": "Radio",
+      "location": "Italy",
+      "genre": "Radio",
+      "countryCode": "IT",
+      "language": null,
+      "clickCount": 9,
+      "bitrate": 1536,
+      "streamUrl": "https://stream.radioenergy.to/stream"
+    },
+    {
+      "id": "subline_bass_tech_house_nl_6c90dc46",
+      "title": "Subline – Bass & Tech House",
+      "subtitle": "Bass House",
+      "location": "The Netherlands",
+      "genre": "Bass House",
+      "countryCode": "NL",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 320,
+      "streamUrl": "https://r.bgp.rodeo/listen/subline/radio.mp3"
+    },
+    {
+      "id": "rai_1_friuli_venezia_giulia_it_9cef15d5",
+      "title": "Rai 1 Friuli Venezia Giulia",
+      "subtitle": "Friuli",
+      "location": "Italy",
+      "genre": "Friuli",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 3,
+      "bitrate": 256,
+      "streamUrl": "https://icestreaming.rai.it/1.mp3"
     }
   ]
 }

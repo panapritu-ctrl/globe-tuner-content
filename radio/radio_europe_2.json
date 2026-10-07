@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-06T04:52:37Z",
+  "updated": "2026-10-07T04:18:26Z",
   "region": "europe",
   "part": 2,
   "of": 8,
@@ -5266,19 +5266,6 @@
       "genre": "Youth",
       "countryCode": "DE",
       "streamUrl": "http://mdr-284320-0.cast.mdr.de/mdr/284320/0/mp3/high/stream.mp3"
-    },
-    {
-      "id": "rb2_mdr_jump_in_the_mix_9639b393",
-      "title": "MDR Jump In The Mix",
-      "subtitle": "Black, Dance",
-      "imageUrl": "https://cdn.mdrjump.de/resources/jump/img/favicons/apple-icon-120x120.png",
-      "streamUrl": "http://mdr-284321-2.cast.mdr.de/mdr/284321/2/mp3/high/stream.mp3",
-      "location": "Germany",
-      "genre": "Black",
-      "countryCode": "DE",
-      "language": "german",
-      "clickCount": 1,
-      "bitrate": 128
     },
     {
       "id": "mdr_klassik_de_960536",
@@ -29181,18 +29168,6 @@
       "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4nordjylland/masterab.m3u8"
     },
     {
-      "id": "dr_p4_midt_vest_aac_dk_ed0c0d93",
-      "title": "DR P4 Midt-Vest (AAC)",
-      "subtitle": "Regional Radio",
-      "location": "Denmark",
-      "genre": "Regional Radio",
-      "countryCode": "DK",
-      "language": "danish",
-      "clickCount": 3,
-      "bitrate": 324,
-      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4midtvest/masterab.m3u8"
-    },
-    {
       "id": "90s90s_eurodance_de_f06bd93e",
       "title": "90s90s Eurodance",
       "subtitle": "90S Dance",
@@ -31903,6 +31878,30 @@
       "clickCount": 3,
       "bitrate": 0,
       "streamUrl": "https://edge04.cdn.bitflip.ee:8888/RR_AAC?_i=88a9ec47"
+    },
+    {
+      "id": "hirschmilch_radio_techno_de_f60cfc71",
+      "title": "Hirschmilch Radio Techno",
+      "subtitle": "Techno",
+      "location": "Germany",
+      "genre": "Techno",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://hirschmilch.de:7501/techno.mp3"
+    },
+    {
+      "id": "skamusic_m_nster_de_0241bf31",
+      "title": "Skamusic Münster",
+      "subtitle": "Ska",
+      "location": "Germany",
+      "genre": "Ska",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://laut.fm/skamusic"
     }
   ]
 }

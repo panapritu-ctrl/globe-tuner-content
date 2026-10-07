@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-06T04:52:37Z",
+  "updated": "2026-10-07T04:18:26Z",
   "region": "other",
   "stations": [
     {
@@ -2728,18 +2728,6 @@
       "clickCount": 8,
       "bitrate": 64,
       "streamUrl": "https://live.amperwave.net/direct/alphacorporate-kinkfmmp3-ibc4"
-    },
-    {
-      "id": "kkgk_fox_sports_98_9_1340_us_9410f799",
-      "title": "KKGK Fox Sports 98.9/1340",
-      "subtitle": "Live Sports",
-      "location": "The United States Of America",
-      "genre": "Live Sports",
-      "countryCode": "US",
-      "language": "english",
-      "clickCount": 7,
-      "bitrate": 32,
-      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/KKGKAMAAC.aac"
     },
     {
       "id": "beatles_181_fm_usa_us_daf8610e",
@@ -6186,18 +6174,6 @@
       "streamUrl": "http://stream.zeno.fm/2wvf2v34ekhvv"
     },
     {
-      "id": "coral_coast_radio_bundaberg_94_7_fm_mp3_au_d6321cef",
-      "title": "Coral Coast Radio - Bundaberg - 94.7 FM (MP3)",
-      "subtitle": "Community Radio",
-      "location": "Australia",
-      "genre": "Community Radio",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 3,
-      "bitrate": 0,
-      "streamUrl": "http://165.228.147.198:88/broadwave.mp3"
-    },
-    {
       "id": "radio_vrw_104_9_fm_wellen_be_be_b67cd512",
       "title": "Radio VRW 104.9 FM -Wellen, be",
       "subtitle": "Community",
@@ -7902,18 +7878,6 @@
       "streamUrl": "https://net1-cope-rrcast.flumotion.com/cope/net1-low.mp3"
     },
     {
-      "id": "bbc_radio_5_live_uk_hls_akamai_gb_27714514",
-      "title": "BBC Radio 5 Live (UK-HLS-Akamai)",
-      "subtitle": "Radio",
-      "location": "The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "Radio",
-      "countryCode": "GB",
-      "language": null,
-      "clickCount": 16,
-      "bitrate": 339,
-      "streamUrl": "http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/audio_syndication_high_sbr_v1/ak/bbc_radio_five_live.m3u8"
-    },
-    {
       "id": "groove_salad_2_us_83b722bd",
       "title": "Groove Salad 2",
       "subtitle": "Radio",
@@ -8488,18 +8452,6 @@
       "clickCount": 4,
       "bitrate": 80000,
       "streamUrl": "https://yellowtealpurple.net/radio/stream"
-    },
-    {
-      "id": "bbc_afrique_radio_gb_bd80f7c9",
-      "title": "BBC Afrique Radio",
-      "subtitle": "Africa",
-      "location": "The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "Africa",
-      "countryCode": "GB",
-      "language": "english",
-      "clickCount": 4,
-      "bitrate": 101,
-      "streamUrl": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_afrique_radio.m3u8"
     },
     {
       "id": "mpr_classical_24_7_us_22351cf4",
@@ -9304,18 +9256,6 @@
       "clickCount": 4,
       "bitrate": 96,
       "streamUrl": "https://19273.live.streamtheworld.com/CC1_S01AAC_96_SC"
-    },
-    {
-      "id": "bloomberg_tv_us_90320a08",
-      "title": "Bloomberg TV",
-      "subtitle": "Tv",
-      "location": "The United States Of America",
-      "genre": "Tv",
-      "countryCode": "US",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 0,
-      "streamUrl": "https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8"
     },
     {
       "id": "rugged_cross_radio_us_e74b6a58",
@@ -19624,6 +19564,66 @@
       "clickCount": 3,
       "bitrate": 128,
       "streamUrl": "http://eclipse.galaxywebsolutions.com:7722/stream"
+    },
+    {
+      "id": "bbc_radio_5_live_uk_hls_akamai_gb_27714514",
+      "title": "BBC Radio 5 Live (UK-HLS-Akamai)",
+      "subtitle": "Radio",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Radio",
+      "countryCode": "GB",
+      "language": null,
+      "clickCount": 27,
+      "bitrate": 339,
+      "streamUrl": "http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/audio_syndication_high_sbr_v1/ak/bbc_radio_five_live.m3u8"
+    },
+    {
+      "id": "bbc_afrique_radio_gb_bd80f7c9",
+      "title": "BBC Afrique Radio",
+      "subtitle": "Africa",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Africa",
+      "countryCode": "GB",
+      "language": "english",
+      "clickCount": 10,
+      "bitrate": 101,
+      "streamUrl": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_afrique_radio.m3u8"
+    },
+    {
+      "id": "yes_fm_toledo_oh_89_7_us_35453f42",
+      "title": "Yes.fm (Toledo,oh) 89.7",
+      "subtitle": "Christian",
+      "location": "The United States Of America",
+      "genre": "Christian",
+      "countryCode": "US",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 32,
+      "streamUrl": "http://ice24.securenetsystems.net/YESFM"
+    },
+    {
+      "id": "bananavision_us_6517fbc2",
+      "title": "Bananavision",
+      "subtitle": "Talk",
+      "location": "The United States Of America",
+      "genre": "Talk",
+      "countryCode": "US",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "http://bananavision.tv:8000/bananavision.mp3"
+    },
+    {
+      "id": "infinite_baseball_radio_network_us_73390e29",
+      "title": "Infinite Baseball Radio Network",
+      "subtitle": "Radio",
+      "location": "The United States Of America",
+      "genre": "Radio",
+      "countryCode": "US",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 320,
+      "streamUrl": "https://a1.asurahosting.com/listen/infinitebaseball.ai/radio.mp3"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-06T04:52:37Z",
+  "updated": "2026-10-07T04:18:26Z",
   "region": "asia",
   "part": 3,
   "of": 3,
@@ -3893,15 +3893,6 @@
       "countryCode": "PK"
     },
     {
-      "id": "fm_101_larkana_pk_4ff924",
-      "title": "FM 101 Larkana",
-      "subtitle": "Radio",
-      "location": "Sindh, Pakistan",
-      "genre": "Radio",
-      "countryCode": "PK",
-      "streamUrl": "https://whmsonic.radio.gov.pk:8050/stream"
-    },
-    {
       "id": "rb2_fm_101_mithi_d41946b4",
       "title": "FM 101 Mithi",
       "subtitle": "Radio",
@@ -3926,19 +3917,6 @@
       "language": null,
       "clickCount": 2,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_fm_93_chitral_abb391a9",
-      "title": "FM 93 Chitral",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://whmsonic.radio.gov.pk:8066/relay",
-      "location": "Khyber Pakhtunkhwa, Pakistan",
-      "genre": "Radio",
-      "countryCode": "PK",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 64
     },
     {
       "id": "fm_93_faisalabad_pk_441f71",
@@ -5785,19 +5763,6 @@
       "language": "thai",
       "clickCount": 1,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_krb_radio_2_2a2fdb06",
-      "title": "KRB Radio 2",
-      "subtitle": "Blind Radio, Country Music",
-      "imageUrl": "https://nmab.or.th/wp-content/uploads/2025/03/%E0%B9%82%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89-KRB-Radio-768x768.png",
-      "streamUrl": "https://nontawat3664.i234.me:8443/stream",
-      "location": "กรุงเทพมหานคร, Thailand",
-      "genre": "Blind Radio",
-      "countryCode": "TH",
-      "language": "thai",
-      "clickCount": 1,
-      "bitrate": 320
     },
     {
       "id": "rb2_krb_radio_3_a9da7a8b",
@@ -17114,6 +17079,54 @@
       "clickCount": 3,
       "bitrate": 64,
       "streamUrl": "https://stream.zeno.fm/e8zw1dg0xy5tv"
+    },
+    {
+      "id": "radyo_fenomen_tr_33e7148e",
+      "title": "Radyo Fenomen",
+      "subtitle": "Turkey",
+      "location": "Türkiye",
+      "genre": "Turkey",
+      "countryCode": "TR",
+      "language": "turkish",
+      "clickCount": 68,
+      "bitrate": 56,
+      "streamUrl": "https://live.radyofenomen.com/fenomen/128/icecast.audio"
+    },
+    {
+      "id": "nbt2hd_th_9a9146a2",
+      "title": "NBT2HD",
+      "subtitle": "Government",
+      "location": "Thailand",
+      "genre": "Government",
+      "countryCode": "TH",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 3128,
+      "streamUrl": "https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/playlist.m3u8"
+    },
+    {
+      "id": "radyo_en_tr_4c182240",
+      "title": "Radyo EN",
+      "subtitle": "Ilahi",
+      "location": "Türkiye",
+      "genre": "Ilahi",
+      "countryCode": "TR",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 64,
+      "streamUrl": "https://yayin2.canliyayin.org:7222/;"
+    },
+    {
+      "id": "k_y_caz_tr_e8c824dc",
+      "title": "Kıyı Caz",
+      "subtitle": "Jazz",
+      "location": "Türkiye",
+      "genre": "Jazz",
+      "countryCode": "TR",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://caz.radioca.st/stream"
     }
   ]
 }

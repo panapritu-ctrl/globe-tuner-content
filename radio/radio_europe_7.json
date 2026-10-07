@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-06T04:52:38Z",
+  "updated": "2026-10-07T04:18:26Z",
   "region": "europe",
   "part": 7,
   "of": 8,
@@ -5039,19 +5039,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_rua_fm_f683a45f",
-      "title": "RUA FM",
-      "subtitle": "Electric, Groove",
-      "imageUrl": "https://rua.pt/wp-content/uploads/2021/10/cropped-favicon-270x270.png",
-      "streamUrl": "https://centova.radio.com.pt/proxy/037?mp=/stream",
-      "location": "Faro, Portugal",
-      "genre": "Electric",
-      "countryCode": "PT",
-      "language": "portuguese",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_ruc_r_dio_universidade_de_coimbra_53ef1268",
       "title": "RUC Rádio Universidade de Coimbra",
       "subtitle": "Alternative, College Radio",
@@ -6678,19 +6665,6 @@
       "streamUrl": "https://nigga.pt/doom.ogg",
       "location": "Lisboa, Portugal",
       "genre": "Radio",
-      "countryCode": "PT",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_jovembsk_dance_67759513",
-      "title": "jovembsk dance",
-      "subtitle": "Electronic",
-      "imageUrl": "",
-      "streamUrl": "https://stream.zeno.fm/1wux17cbfkcuv",
-      "location": "Portugal",
-      "genre": "Electronic",
       "countryCode": "PT",
       "language": null,
       "clickCount": 0,
@@ -21117,19 +21091,6 @@
       "bitrate": 192
     },
     {
-      "id": "rb2_promodj_nu_906797b4",
-      "title": "Promodj Nu",
-      "subtitle": "Radio",
-      "imageUrl": "https://cdn.promodj.com/legacy/i/favicon/favicon_180.png",
-      "streamUrl": "http://radio.promodj.com/nu-192",
-      "location": "The Russian Federation",
-      "genre": "Radio",
-      "countryCode": "RU",
-      "language": "english",
-      "clickCount": 1,
-      "bitrate": 192
-    },
-    {
       "id": "rb2_psy_radio_c5d1acbc",
       "title": "Psy Radio",
       "subtitle": "Radio",
@@ -23987,18 +23948,6 @@
       "streamUrl": "http://ic2.smcdn.pl/2030-1.mp3"
     },
     {
-      "id": "r_dio_marinahais_pt_33cc4601",
-      "title": "Rádio Marinahais",
-      "subtitle": "Radio",
-      "location": "Portugal",
-      "genre": "Radio",
-      "countryCode": "PT",
-      "language": "portuguêsa",
-      "clickCount": 3,
-      "bitrate": 128,
-      "streamUrl": "https://radios2.justweb.pt/8052/stream"
-    },
-    {
       "id": "radio_m_plus_targu_neamt_ro_51f9bf3f",
       "title": "Radio M Plus - Targu Neamt",
       "subtitle": "Radio",
@@ -24803,18 +24752,6 @@
       "streamUrl": "https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8"
     },
     {
-      "id": "naxi_radio_rock_rs_6bec2a16",
-      "title": "naxi radio - rock",
-      "subtitle": "Alternative Rock",
-      "location": "Serbia",
-      "genre": "Alternative Rock",
-      "countryCode": "RS",
-      "language": null,
-      "clickCount": 5,
-      "bitrate": 128,
-      "streamUrl": "http://naxidigital-rock128.streaming.rs:8180/;stream.nsv"
-    },
-    {
       "id": "radio_noise_opera_ro_f5beec88",
       "title": "Radio Noise Opera",
       "subtitle": "Radio",
@@ -25307,30 +25244,6 @@
       "streamUrl": "https://shamanu.live/stream"
     },
     {
-      "id": "ebs_radio_electro_cluj_napoca_ro_b59eeb27",
-      "title": "EBS Radio Electro -Cluj Napoca",
-      "subtitle": "Electro",
-      "location": "Romania",
-      "genre": "Electro",
-      "countryCode": "RO",
-      "language": "română",
-      "clickCount": 3,
-      "bitrate": 128,
-      "streamUrl": "https://azura.ebsmedia.ro/listen/electro/electro128.mp3?refresh=1779028296999"
-    },
-    {
-      "id": "sona_fm_ro_a25c25bd",
-      "title": "Sona FM",
-      "subtitle": "Chill",
-      "location": "Romania",
-      "genre": "Chill",
-      "countryCode": "RO",
-      "language": null,
-      "clickCount": 3,
-      "bitrate": 128,
-      "streamUrl": "https://ssl.omegahost.ro/8026/stream"
-    },
-    {
       "id": "radio_one_live_80_s_90_s_pl_80212f2a",
       "title": "Radio One Live 80's & 90's",
       "subtitle": "Radio",
@@ -25701,6 +25614,90 @@
       "clickCount": 3,
       "bitrate": 192,
       "streamUrl": "https://s3.slotex.pl/shoutcast/7016/stream"
+    },
+    {
+      "id": "naxi_radio_rock_rs_6bec2a16",
+      "title": "naxi radio - rock",
+      "subtitle": "Alternative Rock",
+      "location": "Serbia",
+      "genre": "Alternative Rock",
+      "countryCode": "RS",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "http://naxidigital-rock128.streaming.rs:8180/;stream.nsv"
+    },
+    {
+      "id": "aripi_spre_cer_instrumental_ro_3abcd63a",
+      "title": "Aripi Spre Cer Instrumental",
+      "subtitle": "Instrumental",
+      "location": "Romania",
+      "genre": "Instrumental",
+      "countryCode": "RO",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 64,
+      "streamUrl": "https://instrumental.aac.aripisprecer.ro/radio.mp3;"
+    },
+    {
+      "id": "sonic_rom_nia_ro_a1400e5f",
+      "title": "Sonic România",
+      "subtitle": "Contemporary",
+      "location": "Romania",
+      "genre": "Contemporary",
+      "countryCode": "RO",
+      "language": "romania",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://ssl.omegahost.ro:10958/;"
+    },
+    {
+      "id": "clasic_radio_summerhits_bucure_ti_ro_09595c04",
+      "title": "Clasic Radio_SummerHits -București",
+      "subtitle": "Pop",
+      "location": "Romania",
+      "genre": "Pop",
+      "countryCode": "RO",
+      "language": "română",
+      "clickCount": 3,
+      "bitrate": 192,
+      "streamUrl": "https://live.radioclasic.com/listen/radio_clasic_summerhits/live.mp3"
+    },
+    {
+      "id": "naxi_max_rs_53a4d018",
+      "title": "Naxi MAX",
+      "subtitle": "Radio",
+      "location": "Serbia",
+      "genre": "Radio",
+      "countryCode": "RS",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 96,
+      "streamUrl": "http://max96-naxinacional.streaming.rs:8530/;stream.nsv"
+    },
+    {
+      "id": "naxi_jazz_radio_rs_5452c2c5",
+      "title": "Naxi Jazz Radio",
+      "subtitle": "Radio",
+      "location": "Serbia",
+      "genre": "Radio",
+      "countryCode": "RS",
+      "language": "serbian",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://naxidigital-jazz128ssl.streaming.rs:8172/;stream.nsv"
+    },
+    {
+      "id": "kragujevac_plaza_radio_rs_34480a14",
+      "title": "Kragujevac Plaza Radio",
+      "subtitle": "Radio",
+      "location": "Serbia",
+      "genre": "Radio",
+      "countryCode": "RS",
+      "language": "serbian",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "http://109.206.96.18:8020/;stream.nsv"
     }
   ]
 }

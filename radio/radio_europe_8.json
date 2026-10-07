@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-06T04:52:07Z",
+  "updated": "2026-10-07T04:18:26Z",
   "region": "europe",
   "part": 8,
   "of": 8,
@@ -24068,18 +24068,6 @@
       "streamUrl": "https://complex.in.ua/yantarne"
     },
     {
-      "id": "fm_ua_430e822c",
-      "title": "Бліц-FM (Фастів)",
-      "subtitle": "Entertainment",
-      "location": "Ukraine",
-      "genre": "Entertainment",
-      "countryCode": "UA",
-      "language": "ukrainian",
-      "clickCount": 3,
-      "bitrate": 320,
-      "streamUrl": "https://stream.blits-fm.ua/stream64"
-    },
-    {
       "id": "kuzbass_fm_ru_c5b67a85",
       "title": "Kuzbass FM",
       "subtitle": "Classic Hits",
@@ -25446,6 +25434,102 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://laut.fm/topradio"
+    },
+    {
+      "id": "maximum_ru_ee1b6aad",
+      "title": "MAXIMUM!",
+      "subtitle": "Alternative",
+      "location": "The Russian Federation",
+      "genre": "Alternative",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 3,
+      "bitrate": 100,
+      "streamUrl": "https://hls-01-maximum.hostingradio.ru/maximum/playlist.m3u8"
+    },
+    {
+      "id": "anima_amoris_dub_techno_mix_ru_0e2c3d6c",
+      "title": "Anima Amoris Dub Techno Mix",
+      "subtitle": "Dub",
+      "location": "The Russian Federation",
+      "genre": "Dub",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "http://amoris.sknt.ru/dubtechnomix.mp3"
+    },
+    {
+      "id": "radio_cultura_moscow_ru_b96bcd5c",
+      "title": "Radio «Cultura» - Moscow",
+      "subtitle": "Talk",
+      "location": "The Russian Federation",
+      "genre": "Talk",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 192,
+      "streamUrl": "https://icecast-vgtrk.cdnvideo.ru/kulturafm_mp3_192kbps"
+    },
+    {
+      "id": "station_ru_52cb269a",
+      "title": "Любовь Успенская",
+      "subtitle": "Discography",
+      "location": "The Russian Federation",
+      "genre": "Discography",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://stream02.pcradio.app/Ljubov_Uspenskaja-hi"
+    },
+    {
+      "id": "volosatoe_radio_eurodance_ru_555221bf",
+      "title": "VOLOSATOE RADIO (Eurodance)",
+      "subtitle": "Radio",
+      "location": "The Russian Federation",
+      "genre": "Radio",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "http://93.92.207.107:8008/euro.opus"
+    },
+    {
+      "id": "station_ru_c7a07325",
+      "title": "Радио Орфей - Классика киномузыки",
+      "subtitle": "Cinema",
+      "location": "The Russian Federation",
+      "genre": "Cinema",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 3,
+      "bitrate": 256,
+      "streamUrl": "https://channels.fonotron.ru:8000/Chan_9_192.mp3"
+    },
+    {
+      "id": "anima_amoris_electronic_styles_ru_9bb51049",
+      "title": "Anima Amoris Electronic Styles",
+      "subtitle": "Radio",
+      "location": "The Russian Federation",
+      "genre": "Radio",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://amoris.sknt.ru/electronic.mp3"
+    },
+    {
+      "id": "station_ru_e821a898",
+      "title": "Юлдаш",
+      "subtitle": "Music",
+      "location": "The Russian Federation",
+      "genre": "Music",
+      "countryCode": "RU",
+      "language": "bashkir",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://radio.mediacdn.ru/uldash.mp3"
     }
   ]
 }
