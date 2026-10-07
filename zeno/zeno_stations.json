@@ -1,6 +1,6 @@
 {
-  "version": 56,
-  "updated": "2026-10-06T10:06:12Z",
+  "version": 57,
+  "updated": "2026-10-07T10:09:57Z",
   "stations": [
     {
       "id": "80s80s_radio_de_9adaa6e1",
@@ -5266,15 +5266,6 @@
       "countryCode": "NL"
     },
     {
-      "id": "latina_reggaeton_fr_46fb4590",
-      "title": "Latina reggaeton",
-      "subtitle": "MP3",
-      "location": "France",
-      "genre": "Reggaeton",
-      "streamUrl": "https://latinareggaeton.ice.infomaniak.ch/latinareggaeton.mp3",
-      "countryCode": "FR"
-    },
-    {
       "id": "reyfm_chillout_xx_9b578116",
       "title": "REYFM - #chillout",
       "subtitle": "MP3",
@@ -7670,6 +7661,85 @@
       "location": "Germany",
       "genre": "Radio",
       "streamUrl": "http://fhhalle.streamabc.net/fhhal-rtlinthemix-mp3-256-1489633?sABC=6nor5521%230%23r30o443r1929r059s085628511796n57%23qverxgyvaxUC&aw_0_1st.playerid=direktlinkHP&amsparams=playerid:direktlinkHP;skey:1790858529",
+      "countryCode": "DE"
+    },
+    {
+      "id": "fm_101_larkana_pk_b56b06b3",
+      "title": "FM 101 Larkana",
+      "subtitle": "MP3",
+      "location": "Sindh, Pakistan",
+      "genre": "Radio",
+      "streamUrl": "https://whmsonic.radio.gov.pk:8050/stream",
+      "countryCode": "PK"
+    },
+    {
+      "id": "schwarzwaldradio_de_5fff39fc",
+      "title": "Schwarzwaldradio",
+      "subtitle": "MP3",
+      "location": "Baden-Württemberg, Germany",
+      "genre": "60Er",
+      "streamUrl": "https://edge13.streamonkey.net/fho-schwarzwaldradiolive/stream/mp3?aggregator=smk-m3u-mp3",
+      "countryCode": "DE"
+    },
+    {
+      "id": "radio_club_80_trance_flac_cl_8ebdbec9",
+      "title": "Radio Club 80 Trance FLAC",
+      "subtitle": "OGG",
+      "location": "Chile",
+      "genre": "Trance",
+      "streamUrl": "https://stream.radioclub80.cl:8052/trance80.flac",
+      "countryCode": "CL"
+    },
+    {
+      "id": "fip_monde_xx_81b82121",
+      "title": "FIP Monde",
+      "subtitle": "MP3",
+      "location": "ici",
+      "genre": "Fip",
+      "streamUrl": "http://direct.fipradio.fr/live/fip-webradio4.mp3"
+    },
+    {
+      "id": "arirang_radio_kr_6fc8a036",
+      "title": "Arirang Radio",
+      "subtitle": "UNKNOWN",
+      "location": "The Republic Of Korea",
+      "genre": "Radio",
+      "streamUrl": "http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8",
+      "countryCode": "KR"
+    },
+    {
+      "id": "bbc_radio_2_gb_d2b028e9",
+      "title": "BBC Radio 2",
+      "subtitle": "AAC+",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Pop",
+      "streamUrl": "http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_two.m3u8",
+      "countryCode": "GB"
+    },
+    {
+      "id": "0_n_80s_on_radio_de_acf22a15",
+      "title": "- 0 N - 80s on Radio",
+      "subtitle": "AAC+",
+      "location": "Bayern, Germany",
+      "genre": "80Er",
+      "streamUrl": "https://0n-80s.radionetz.de/0n-80s.aac",
+      "countryCode": "DE"
+    },
+    {
+      "id": "hitradio_rtl_sachsen_live_xx_6d757143",
+      "title": "Hitradio RTL Sachsen - Live",
+      "subtitle": "AAC",
+      "location": "Unknown",
+      "genre": "Radio",
+      "streamUrl": "https://hermes.bcs-systems.de/hitradio-rtl_simulcast__dresden_192k_mp3"
+    },
+    {
+      "id": "80s80s_maxis_de_7f1454d0",
+      "title": "80s80s Maxis",
+      "subtitle": "MP3",
+      "location": "Germany",
+      "genre": "Radio",
+      "streamUrl": "http://streams.80s80s.de/maxis/mp3-192",
       "countryCode": "DE"
     }
   ]
