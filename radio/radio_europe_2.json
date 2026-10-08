@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-07T04:18:26Z",
+  "updated": "2026-10-08T04:31:32Z",
   "region": "europe",
   "part": 2,
   "of": 8,
@@ -24513,19 +24513,6 @@
       "bitrate": 32
     },
     {
-      "id": "rb2_chanquete_fm_102_5_0b0e07d4",
-      "title": "Chanquete FM 102.5",
-      "subtitle": "Entretenimiento, Hits",
-      "imageUrl": "http://www.chanquetefm.com/imagenes/para-escuchar-online.png",
-      "streamUrl": "http://185.23.192.118:8014/;",
-      "location": "Spain",
-      "genre": "Entretenimiento",
-      "countryCode": "ES",
-      "language": "spanish",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_chanquete_fm_99_5_2f481907",
       "title": "Chanquete FM 99.5",
       "subtitle": "Entretenimiento, Hits",
@@ -28904,18 +28891,6 @@
       "streamUrl": "https://regiocast.streamabc.net/regc-80s80smweb2517500-mp3-192-1672667"
     },
     {
-      "id": "dr_p4_k_benhavn_aac_dk_b9ea5518",
-      "title": "DR P4 København (AAC)",
-      "subtitle": "Regional Radio",
-      "location": "Denmark",
-      "genre": "Regional Radio",
-      "countryCode": "DK",
-      "language": "danish",
-      "clickCount": 4,
-      "bitrate": 324,
-      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4kobenhavn/masterab.m3u8"
-    },
-    {
       "id": "radio_diabolus_de_a6980e6e",
       "title": "Radio Diabolus",
       "subtitle": "Aor",
@@ -29154,18 +29129,6 @@
       "clickCount": 3,
       "bitrate": 128,
       "streamUrl": "https://stream.laut.fm/funky"
-    },
-    {
-      "id": "dr_p4_nordjylland_aac_dk_412ae0ef",
-      "title": "DR P4 Nordjylland (AAC)",
-      "subtitle": "Regional Radio",
-      "location": "Denmark",
-      "genre": "Regional Radio",
-      "countryCode": "DK",
-      "language": "danish",
-      "clickCount": 3,
-      "bitrate": 324,
-      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4nordjylland/masterab.m3u8"
     },
     {
       "id": "90s90s_eurodance_de_f06bd93e",
@@ -29660,18 +29623,6 @@
       "streamUrl": "https://stream.kissfm.de/kissfm-germanbeats/mp3-192/internetradio"
     },
     {
-      "id": "dr_p1_aac_dk_5bbf616a",
-      "title": "DR P1 (AAC)",
-      "subtitle": "Radio",
-      "location": "Denmark",
-      "genre": "Radio",
-      "countryCode": "DK",
-      "language": "danish",
-      "clickCount": 4,
-      "bitrate": 324,
-      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p1/masterab.m3u8"
-    },
-    {
       "id": "i_dance_jahrescharts_ilovemusic_de_da5acef0",
       "title": "I♥DANCE - Jahrescharts - ILoveMusic",
       "subtitle": "Radio",
@@ -29982,18 +29933,6 @@
       "clickCount": 3,
       "bitrate": 192,
       "streamUrl": "https://radio.omaneo.de/listen/instrumental/radio.mp3"
-    },
-    {
-      "id": "bayern_klassik_256_de_3f33a9ba",
-      "title": "Bayern Klassik 256",
-      "subtitle": "Classical",
-      "location": "Germany",
-      "genre": "Classical",
-      "countryCode": "DE",
-      "language": null,
-      "clickCount": 6,
-      "bitrate": 0,
-      "streamUrl": "https://streams.br.de/br-klassik_3.m3u"
     },
     {
       "id": "radio_bob_deutsch_rock_de_0aa4ae25",
@@ -31902,6 +31841,30 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://laut.fm/skamusic"
+    },
+    {
+      "id": "dr_p1_aac_dk_5bbf616a",
+      "title": "DR P1 (AAC)",
+      "subtitle": "Radio",
+      "location": "Denmark",
+      "genre": "Radio",
+      "countryCode": "DK",
+      "language": "danish",
+      "clickCount": 3,
+      "bitrate": 324,
+      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p1/masterab.m3u8"
+    },
+    {
+      "id": "dr_p4_k_benhavn_aac_dk_b9ea5518",
+      "title": "DR P4 København (AAC)",
+      "subtitle": "Regional Radio",
+      "location": "Denmark",
+      "genre": "Regional Radio",
+      "countryCode": "DK",
+      "language": "danish",
+      "clickCount": 3,
+      "bitrate": 324,
+      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4kobenhavn/masterab.m3u8"
     }
   ]
 }

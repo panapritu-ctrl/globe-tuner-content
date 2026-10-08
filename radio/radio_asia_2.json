@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-07T04:18:26Z",
+  "updated": "2026-10-08T04:31:32Z",
   "region": "asia",
   "part": 2,
   "of": 3,
@@ -355,19 +355,6 @@
       "language": "chinese",
       "clickCount": 0,
       "bitrate": 500
-    },
-    {
-      "id": "rb2_station_7f0f5089",
-      "title": "连云港交通广播",
-      "subtitle": "Traffic Radio Broadcast",
-      "imageUrl": "http://pic.qingting.fm/2021/0714/20210714033025.jpeg",
-      "streamUrl": "https://livenew.lyg1.com/JTGB927/playlist.m3u8",
-      "location": "Kiangsu, China",
-      "genre": "Traffic Radio Broadcast",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 0,
-      "bitrate": 100
     },
     {
       "id": "rb2_station_d7db905d",
@@ -2805,19 +2792,6 @@
       "language": "greek",
       "clickCount": 2,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_lugaradio_4ca94892",
-      "title": "Lugaradio",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://91.200.41.23:8000/192.mp3",
-      "location": "Limassol, Cyprus",
-      "genre": "Radio",
-      "countryCode": "CY",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 192
     },
     {
       "id": "rb2_mix_fm_cyprus_552fde98",
@@ -9603,15 +9577,6 @@
       "bitrate": 32
     },
     {
-      "id": "all_india_radio_news_24x7_in_de87b1",
-      "title": "All India Radio News 24X7",
-      "subtitle": "Radio",
-      "location": "India",
-      "genre": "Radio",
-      "countryCode": "IN",
-      "streamUrl": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio002/hlspbaudio002_Auto.m3u8"
-    },
-    {
       "id": "rb2_amlisten_radio_c77430eb",
       "title": "Amlisten radio",
       "subtitle": "Music",
@@ -15196,19 +15161,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb_bollywood_radio_4fde7228",
-      "title": "Bollywood Radio",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://stream.zeno.fm/t961q1d0vp6vv",
-      "location": "bombay, British Indian Ocean Territory",
-      "genre": "Radio",
-      "countryCode": "IO",
-      "language": "english hindi",
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
       "id": "tick_tock_radio_1992_io",
       "title": "Tick Tock Radio - 1992",
       "subtitle": "Music / Oldies",
@@ -20674,18 +20626,6 @@
       "streamUrl": "http://stream3.hndt.com/now/XWfN89gh/playlist.m3u8"
     },
     {
-      "id": "bimasakti_fm_kebumen_id_ad80f2ac",
-      "title": "BIMASAKTI FM KEBUMEN",
-      "subtitle": "Pop",
-      "location": "Indonesia",
-      "genre": "Pop",
-      "countryCode": "ID",
-      "language": "indonesian",
-      "clickCount": 4,
-      "bitrate": 64,
-      "streamUrl": "https://i.klikhost.com:9622/stream"
-    },
-    {
       "id": "asia_dream_radio_japan_hits_jp_08736f3f",
       "title": "asia DREAM radio - Japan Hits",
       "subtitle": "J-Pop",
@@ -24166,18 +24106,6 @@
       "streamUrl": "http://119.28.21.93/radio/cnr2.mp3"
     },
     {
-      "id": "cnr_5_cn_de23f093",
-      "title": "CNR-5 老年之声伴音",
-      "subtitle": "Audio",
-      "location": "China",
-      "genre": "Audio",
-      "countryCode": "CN",
-      "language": "zh",
-      "clickCount": 4,
-      "bitrate": 0,
-      "streamUrl": "http://119.28.21.93/radio/cnr5.mp3"
-    },
-    {
       "id": "nur_fm_rembang_id_9912c0fb",
       "title": "Nur FM Rembang",
       "subtitle": "Religious",
@@ -25916,6 +25844,18 @@
       "clickCount": 3,
       "bitrate": 66,
       "streamUrl": "https://master.nhkworld.jp/nhkworld-radio/playlist/sin/live.m3u8"
+    },
+    {
+      "id": "all_india_radio_news_24x7_in_eeeed976",
+      "title": "All India Radio News 24X7",
+      "subtitle": "Radio",
+      "location": "India",
+      "genre": "Radio",
+      "countryCode": "IN",
+      "language": "hindi",
+      "clickCount": 44,
+      "bitrate": 32,
+      "streamUrl": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio002/hlspbaudio002_Auto.m3u8"
     }
   ]
 }

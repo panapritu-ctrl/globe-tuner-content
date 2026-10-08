@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-07T04:17:55Z",
+  "updated": "2026-10-08T04:31:32Z",
   "region": "americas",
   "part": 2,
   "of": 5,
@@ -11486,19 +11486,6 @@
       "bitrate": 32
     },
     {
-      "id": "rb2_radio_classique_quebec_4cf0c172",
-      "title": "radio classique quebec",
-      "subtitle": "Music",
-      "imageUrl": "https://www.radioclassique.ca/upload/5d7f91e07dcae6.18591349.ico",
-      "streamUrl": "https://www.radioking.com/play/radio-classique-quebec-92-7/301510",
-      "location": "Canada",
-      "genre": "Music",
-      "countryCode": "CA",
-      "language": null,
-      "clickCount": 3,
-      "bitrate": 320
-    },
-    {
       "id": "rb2_scifi_radio_1caced3d",
       "title": "scifi.radio",
       "subtitle": "Radio",
@@ -22194,19 +22181,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_disco_106_1_d2e66a7e",
-      "title": "Disco 106.1",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://radiordomi.com/8118/stream",
-      "location": "The Dominican Republic",
-      "genre": "Radio",
-      "countryCode": "DO",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_disco_89_88_9_fm_dc499572",
       "title": "Disco 89 88.9 FM",
       "subtitle": "Baladas En Español, Music",
@@ -22270,19 +22244,6 @@
       "language": "spanish",
       "clickCount": 1,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_estelar_106_0ee314f3",
-      "title": "Estelar 106",
-      "subtitle": "Radio",
-      "imageUrl": "https://admin.nexotuner.net/nexopro/nexo/public/images/favicons/16/favicon.png",
-      "streamUrl": "https://nexostream.net:8060/live",
-      "location": "Tropical, The Dominican Republic",
-      "genre": "Radio",
-      "countryCode": "DO",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 112
     },
     {
       "id": "rb2_estelar_106_d4e61a49",
@@ -24367,18 +24328,6 @@
       "streamUrl": "https://servidor25-3.brlogic.com:7110/live"
     },
     {
-      "id": "genial_fm_do_595dfc85",
-      "title": "Genial FM",
-      "subtitle": "Radio",
-      "location": "The Dominican Republic",
-      "genre": "Radio",
-      "countryCode": "DO",
-      "language": null,
-      "clickCount": 3,
-      "bitrate": 112,
-      "streamUrl": "https://nexostream.net:8040/live"
-    },
-    {
       "id": "la_main_street_radios_ecuador_online_ec_d7c70b4d",
       "title": "La Main Street (Radios Ecuador Online)",
       "subtitle": "Chicha Ecuatoriana",
@@ -25951,18 +25900,6 @@
       "streamUrl": "http://26563.live.streamtheworld.com/ACTIVA_SC"
     },
     {
-      "id": "radio_diferencia_cl_9e9738c3",
-      "title": "Radio Diferencia",
-      "subtitle": "Local News",
-      "location": "Chile",
-      "genre": "Local News",
-      "countryCode": "CL",
-      "language": "spanish",
-      "clickCount": 2,
-      "bitrate": 128,
-      "streamUrl": "https://sp002.servidoresph.com:8026/stream"
-    },
-    {
       "id": "radio_violeta_la_m_sica_de_ayer_y_hoy_las_24_h_d_cl_06198166",
       "title": "Radio Violeta - La música de ayer y hoy las 24 h/d",
       "subtitle": "Radio",
@@ -27499,18 +27436,6 @@
       "streamUrl": "https://london-dedicated.myautodj.com:3199/proxy/freestyle/stream"
     },
     {
-      "id": "ckry_105_1_country_105_calgary_ab_ca_00cf3f60",
-      "title": "CKRY 105.1 \"Country 105\" Calgary, AB",
-      "subtitle": "Calgary",
-      "location": "Canada",
-      "genre": "Calgary",
-      "countryCode": "CA",
-      "language": "english",
-      "clickCount": 3,
-      "bitrate": 128,
-      "streamUrl": "http://live.leanstream.co/CKRYFM-MP3"
-    },
-    {
       "id": "ol_mpica_st_reo_92_1_barranquilla_co_3d26953a",
       "title": "Olímpica Stéreo 92.1 Barranquilla",
       "subtitle": "Champeta",
@@ -28229,6 +28154,30 @@
       "clickCount": 3,
       "bitrate": 64,
       "streamUrl": "https://c13.radioboss.fm:18187/stream"
+    },
+    {
+      "id": "disco_106_1_do_1991be2d",
+      "title": "Disco 106.1",
+      "subtitle": "Radio",
+      "location": "The Dominican Republic",
+      "genre": "Radio",
+      "countryCode": "DO",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://radiordomi.com/8118/stream"
+    },
+    {
+      "id": "ckry_105_1_country_105_calgary_ab_ca_00cf3f60",
+      "title": "CKRY 105.1 \"Country 105\" Calgary, AB",
+      "subtitle": "Calgary",
+      "location": "Canada",
+      "genre": "Calgary",
+      "countryCode": "CA",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://live.leanstream.co/CKRYFM-MP3"
     }
   ]
 }

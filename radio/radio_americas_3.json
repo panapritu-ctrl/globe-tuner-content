@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-07T04:18:26Z",
+  "updated": "2026-10-08T04:31:32Z",
   "region": "americas",
   "part": 3,
   "of": 5,
@@ -8514,19 +8514,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_los40_nayarit_tepic_104_9_fm_xherk_fm_gr_ed69549a",
-      "title": "LOS40 Nayarit (Tepic) - 104.9 FM - XHERK-FM - Grupo Radio Korita - Tepic, NA",
-      "subtitle": "104.9, 104.9 Fm",
-      "imageUrl": "https://static.wixstatic.com/media/33d5cb_812945904f4f455aa35a9d6f500a8123%7emv2.png/v1/fill/w_32%2ch_32%2clg_1%2cusm_0.66_1.00_0.01/33d5cb_812945904f4f455aa35a9d6f500a8123%7emv2.png",
-      "streamUrl": "http://www.icecasthd.net:25660/xherk",
-      "location": "Nayarit, Mexico",
-      "genre": "104.9",
-      "countryCode": "MX",
-      "language": "spanish",
-      "clickCount": 1,
-      "bitrate": 64
-    },
-    {
       "id": "rb2_los40_oaxaca_89_7_fm_xhoca_fm_grupo_radi_82e6c9de",
       "title": "LOS40 Oaxaca - 89.7 FM - XHOCA-FM - Grupo Radio Cañón - Oaxaca, Oaxaca",
       "subtitle": "89.7 Fm, América",
@@ -13802,19 +13789,6 @@
       "bitrate": 80
     },
     {
-      "id": "rb2_radio_udeg_50f0956a",
-      "title": "Radio UdeG",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://streamingv2.shoutcast.com/radio-udg-guadalajara-1043",
-      "location": "Jalisco, Mexico",
-      "genre": "Radio",
-      "countryCode": "MX",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_radio_universidad_uadec_104_1_fm_saltill_8d0b98a0",
       "title": "Radio Universidad (UAdeC) - 104.1 FM [Saltillo, Coahuila]",
       "subtitle": "Music, News",
@@ -17895,19 +17869,6 @@
       "countryCode": "PE",
       "language": "español ecuador",
       "clickCount": 4,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_coral_97_5_fm_94550397",
-      "title": "RADIO CORAL 97.5 FM",
-      "subtitle": "Cumbia Peruana",
-      "imageUrl": "",
-      "streamUrl": "https://maximacenterdata.com/8052/stream",
-      "location": "Arequipa, Peru",
-      "genre": "Cumbia Peruana",
-      "countryCode": "PE",
-      "language": "espanish",
-      "clickCount": 1,
       "bitrate": 128
     },
     {
@@ -24403,18 +24364,6 @@
       "streamUrl": "http://peridot.streamguys.com:5660/live"
     },
     {
-      "id": "radio_armon_a_pe_5175d830",
-      "title": "Radio Armonía",
-      "subtitle": "Local Radio",
-      "location": "Peru",
-      "genre": "Local Radio",
-      "countryCode": "PE",
-      "language": "spanish",
-      "clickCount": 5,
-      "bitrate": 64,
-      "streamUrl": "https://radio.sistemasandinos.org:10978/;"
-    },
-    {
       "id": "z93_fm_pr_83e9b671",
       "title": "Z93 FM",
       "subtitle": "Latin Salsa",
@@ -26191,18 +26140,6 @@
       "streamUrl": "http://arielfmeza.live:8010/radio.mp3"
     },
     {
-      "id": "radio_rqp_94_3_fm_py_2cde93c5",
-      "title": "Radio RQP 94.3 FM",
-      "subtitle": "Pop",
-      "location": "Paraguay",
-      "genre": "Pop",
-      "countryCode": "PY",
-      "language": "asunción",
-      "clickCount": 3,
-      "bitrate": 33,
-      "streamUrl": "http://rds3.desdeparaguay.net/transrqp/transrqp/playlist.m3u"
-    },
-    {
       "id": "rci_dancehall_mq_cce38783",
       "title": "RCI Dancehall",
       "subtitle": "Radio",
@@ -26477,18 +26414,6 @@
       "clickCount": 11,
       "bitrate": 128,
       "streamUrl": "https://stream.laut.fm/radiolineaderefugio"
-    },
-    {
-      "id": "emisoras_paraguay_106_1_py_837922cd",
-      "title": "Emisoras Paraguay 106.1",
-      "subtitle": "Music",
-      "location": "Paraguay",
-      "genre": "Music",
-      "countryCode": "PY",
-      "language": "español paraguay",
-      "clickCount": 4,
-      "bitrate": 0,
-      "streamUrl": "https://rds3.desdeparaguay.net/movemisoras/movemisoras.stream/chunklist_w1882715633.m3u8?k=90ba439d59a58390e5abac95530dd4becd61b4e573b237e6fe0bf9eb4a529caf&exp=1693084452"
     },
     {
       "id": "102_1_vive_fm_sv_e2d939af",
@@ -26801,6 +26726,30 @@
       "clickCount": 3,
       "bitrate": 0,
       "streamUrl": "https://rds3.desdeparaguay.net/movemisoras/movemisoras.stream/playlist.m3u8"
+    },
+    {
+      "id": "chililines_radio_mx_0b536421",
+      "title": "Chililines Radio",
+      "subtitle": "Música Retro",
+      "location": "Mexico",
+      "genre": "Música Retro",
+      "countryCode": "MX",
+      "language": "american english",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://radios.yanapak.org/Chililines%20Radio"
+    },
+    {
+      "id": "emisoras_paraguay_106_1_py_837922cd",
+      "title": "Emisoras Paraguay 106.1",
+      "subtitle": "Music",
+      "location": "Paraguay",
+      "genre": "Music",
+      "countryCode": "PY",
+      "language": "español paraguay",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://rds3.desdeparaguay.net/movemisoras/movemisoras.stream/chunklist_w1882715633.m3u8?k=90ba439d59a58390e5abac95530dd4becd61b4e573b237e6fe0bf9eb4a529caf&exp=1693084452"
     }
   ]
 }

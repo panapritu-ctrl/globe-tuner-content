@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-07T04:17:55Z",
+  "updated": "2026-10-08T04:31:32Z",
   "region": "oceania",
   "stations": [
     {
@@ -16988,19 +16988,6 @@
       "bitrate": 134
     },
     {
-      "id": "rb2_radio_hydra_88de303b",
-      "title": "Radio Hydra",
-      "subtitle": "Classic Hits, Piha",
-      "imageUrl": "",
-      "streamUrl": "https://streaming.radio.co/sed9109681/listen",
-      "location": "Auckland, New Zealand",
-      "genre": "Classic Hits",
-      "countryCode": "NZ",
-      "language": "english",
-      "clickCount": 3,
-      "bitrate": 192
-    },
-    {
       "id": "radio_one_91fm_nz_b56298",
       "title": "Radio One 91FM",
       "subtitle": "Community Radio",
@@ -18038,18 +18025,6 @@
       "streamUrl": "http://203.118.136.79:88/broadwave.mp3"
     },
     {
-      "id": "93_5_eagle_radio_the_true_alternative_nz_c4c0f9ba",
-      "title": "93 5 Eagle Radio - The True Alternative",
-      "subtitle": "Radio",
-      "location": "New Zealand",
-      "genre": "Radio",
-      "countryCode": "NZ",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 320,
-      "streamUrl": "https://a6.asurahosting.com:8920/radio.mp3"
-    },
-    {
       "id": "fox_news_as_b1da3236",
       "title": "Fox news",
       "subtitle": "Radio",
@@ -18192,6 +18167,18 @@
       "clickCount": 3,
       "bitrate": 0,
       "streamUrl": "https://streaming.abc-cdn.net.au/audio/hls/localbrokenhill.m3u8?source=web"
+    },
+    {
+      "id": "listnr_drum_bass_au_882f9d58",
+      "title": "LiSTNR - Drum & Bass",
+      "subtitle": "Dance",
+      "location": "Australia",
+      "genre": "Dance",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://wz0liw.scahw.com.au/live/drumnbass_128.stream/playlist.m3u8"
     }
   ]
 }
