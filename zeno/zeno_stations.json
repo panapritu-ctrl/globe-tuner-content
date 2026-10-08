@@ -1,6 +1,6 @@
 {
-  "version": 57,
-  "updated": "2026-10-07T10:09:57Z",
+  "version": 58,
+  "updated": "2026-10-08T10:24:16Z",
   "stations": [
     {
       "id": "80s80s_radio_de_9adaa6e1",
@@ -1947,15 +1947,6 @@
       "countryCode": "FR"
     },
     {
-      "id": "station_ru_ab399b90",
-      "title": "Русское радио",
-      "subtitle": "MP3",
-      "location": "cremea, The Russian Federation",
-      "genre": "Pop",
-      "streamUrl": "https://radio.promedia.ru/rr-simf",
-      "countryCode": "RU"
-    },
-    {
       "id": "eska_rock_pl_0bafd727",
       "title": "ESKA ROCK",
       "subtitle": "MP3",
@@ -2377,15 +2368,6 @@
       "genre": "Radio",
       "streamUrl": "https://stream.radiofrance.fr/franceculture/franceculture_hifi.m3u8",
       "countryCode": "FR"
-    },
-    {
-      "id": "radio_zet_pl_fb918395",
-      "title": "Radio ZET",
-      "subtitle": "AAC+",
-      "location": "Poland",
-      "genre": "Radio",
-      "streamUrl": "https://hub.radiostream.pl/stream.pls?radio=8400&type=none&dist=zet&app=none&coding=aac&redirect=true",
-      "countryCode": "PL"
     },
     {
       "id": "radio_subasio_it_5d43826d",
@@ -7740,6 +7722,68 @@
       "location": "Germany",
       "genre": "Radio",
       "streamUrl": "http://streams.80s80s.de/maxis/mp3-192",
+      "countryCode": "DE"
+    },
+    {
+      "id": "latina_reggaeton_fr_46fb4590",
+      "title": "Latina reggaeton",
+      "subtitle": "MP3",
+      "location": "France",
+      "genre": "Reggaeton",
+      "streamUrl": "https://latinareggaeton.ice.infomaniak.ch/latinareggaeton.mp3",
+      "countryCode": "FR"
+    },
+    {
+      "id": "planet_radio_de_25f25114",
+      "title": "planet radio",
+      "subtitle": "MP3",
+      "location": "Hessen, Germany",
+      "genre": "Radio",
+      "streamUrl": "http://mp3.planetradio.de/planetradio/livestream.mp3?aw_0_req.gdpr=true",
+      "countryCode": "DE"
+    },
+    {
+      "id": "radio_manele_petrecere_ro_654ca63d",
+      "title": "RADIO MANELE PETRECERE",
+      "subtitle": "MP3",
+      "location": "Romania",
+      "genre": "Manele",
+      "streamUrl": "https://ssl.servereradio.ro/8123/stream",
+      "countryCode": "RO"
+    },
+    {
+      "id": "japannext_radio_xx_226f991a",
+      "title": "Japannext Radio",
+      "subtitle": "MP3",
+      "location": "Unknown",
+      "genre": "Radio",
+      "streamUrl": "http://192.99.17.104:8803/stream"
+    },
+    {
+      "id": "fip_electro_fr_a3eea67b",
+      "title": "Fip Electro",
+      "subtitle": "AAC",
+      "location": "France",
+      "genre": "Radio",
+      "streamUrl": "http://direct.fipradio.fr/live/fipelectro-hifi.aac",
+      "countryCode": "FR"
+    },
+    {
+      "id": "kinderlieder_123_de_17c5fd71",
+      "title": "Kinderlieder-123",
+      "subtitle": "MP3",
+      "location": "Rhineland-Palatinate, Germany",
+      "genre": "Children",
+      "streamUrl": "http://kinderlieder-123.stream.laut.fm/kinderlieder-123?t302=2026-09-30_18-06-37&uuid=4a737960-28e7-ecd9-aaac-c15bbc8b906e",
+      "countryCode": "DE"
+    },
+    {
+      "id": "80s80s_dark_wave_de_9dbf422a",
+      "title": "80s80s Dark Wave",
+      "subtitle": "MP3",
+      "location": "Germany",
+      "genre": "Dark Wave",
+      "streamUrl": "http://streams.80s80s.de/darkwave/mp3-192",
       "countryCode": "DE"
     }
   ]
