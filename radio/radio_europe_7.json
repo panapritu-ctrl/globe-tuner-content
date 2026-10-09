@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-08T04:31:32Z",
+  "updated": "2026-10-09T04:34:42Z",
   "region": "europe",
   "part": 7,
   "of": 8,
@@ -7822,19 +7822,6 @@
       "countryCode": "RO",
       "language": "română",
       "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_ebs_alternative_0f2c59bb",
-      "title": "EBS | Alternative",
-      "subtitle": "Alternative / Indie",
-      "imageUrl": "https://ebsradio.ro/stream/img/stream-alternative.png",
-      "streamUrl": "https://azura.ebsmedia.ro/listen/alternative/alternative128.mp3",
-      "location": "Romania",
-      "genre": "Alternative / Indie",
-      "countryCode": "RO",
-      "language": null,
-      "clickCount": 1,
       "bitrate": 128
     },
     {
@@ -22566,18 +22553,6 @@
       "streamUrl": "https://radiorecord.hostingradio.ru/mf96.aacp"
     },
     {
-      "id": "radio_gaga_ro_41ada6bb",
-      "title": "Radio Gaga",
-      "subtitle": "Radio",
-      "location": "Romania",
-      "genre": "Radio",
-      "countryCode": "RO",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 128,
-      "streamUrl": "http://rc.radiogaga.ro:8000/live"
-    },
-    {
       "id": "pr_przeboje_prl_pl_2c932d24",
       "title": "PR PRZEBOJE PRL",
       "subtitle": "Music",
@@ -23236,18 +23211,6 @@
       "clickCount": 3,
       "bitrate": 128,
       "streamUrl": "https://hiphoplive.radionoise.ro:9110/stream"
-    },
-    {
-      "id": "radio_nnl_ro_90774469",
-      "title": "Radio-NNL",
-      "subtitle": "House",
-      "location": "Romania",
-      "genre": "House",
-      "countryCode": "RO",
-      "language": "românä",
-      "clickCount": 3,
-      "bitrate": 48,
-      "streamUrl": "https://s54.radiolize.com/radio/8030/radio.mp3"
     },
     {
       "id": "radio_blue_romania_ro_f9adacff",
@@ -24762,18 +24725,6 @@
       "streamUrl": "https://default.benficaplay.cdn.videokit.cloud/out/v1/benficaplay-default/benficaplay_benficaplay-radio_08de155dbd06_audio/benficaplay_benficaplay-radio_08de155dbd06_hls/benficaplay-radio-hls.m3u8"
     },
     {
-      "id": "radio_tequila_dance_romania_ro_6af324bf",
-      "title": "Radio Tequila Dance Romania",
-      "subtitle": "Pop",
-      "location": "Romania",
-      "genre": "Pop",
-      "countryCode": "RO",
-      "language": null,
-      "clickCount": 6,
-      "bitrate": 128,
-      "streamUrl": "http://dance.radiotequila.ro:7000/;stream.nsv"
-    },
-    {
       "id": "radio_oiom_pl_dc772f8e",
       "title": "Radio OIOM",
       "subtitle": "Blues",
@@ -25624,6 +25575,30 @@
       "clickCount": 3,
       "bitrate": 128,
       "streamUrl": "http://109.206.96.18:8020/;stream.nsv"
+    },
+    {
+      "id": "radio_manele_petrecere_ro_654ca63d",
+      "title": "RADIO MANELE PETRECERE",
+      "subtitle": "Manele",
+      "location": "Romania",
+      "genre": "Manele",
+      "countryCode": "RO",
+      "language": "romanian",
+      "clickCount": 10,
+      "bitrate": 128,
+      "streamUrl": "https://ssl.servereradio.ro/8123/stream"
+    },
+    {
+      "id": "radio_tequila_dance_romania_ro_6af324bf",
+      "title": "Radio Tequila Dance Romania",
+      "subtitle": "Pop",
+      "location": "Romania",
+      "genre": "Pop",
+      "countryCode": "RO",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "http://dance.radiotequila.ro:7000/;stream.nsv"
     }
   ]
 }

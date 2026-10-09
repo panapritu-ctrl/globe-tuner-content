@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-08T04:31:32Z",
+  "updated": "2026-10-09T04:34:42Z",
   "region": "oceania",
   "stations": [
     {
@@ -3100,19 +3100,6 @@
       "language": "english",
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_alpine_fm_kiewa_valley_ovens_valley_moun_ea8cb112",
-      "title": "Alpine FM - Kiewa Valley / Ovens Valley - Mount Beauty - 96.5 FM / 92.9 FM (MP3)",
-      "subtitle": "Community Radio",
-      "imageUrl": "https://i.ibb.co/Yp2SpHq/340488530-754014252891938-142133724837237345-n.jpg",
-      "streamUrl": "https://stream.sigile.net/3vkv-128-mp3",
-      "location": "Victoria, Australia",
-      "genre": "Community Radio",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 96
     },
     {
       "id": "rb2_am_listen_radio_a2f87f51",
@@ -18179,6 +18166,42 @@
       "clickCount": 5,
       "bitrate": 0,
       "streamUrl": "https://wz0liw.scahw.com.au/live/drumnbass_128.stream/playlist.m3u8"
+    },
+    {
+      "id": "fraser_coast_fm_107_5_hervey_bay_au_aa32d32a",
+      "title": "Fraser Coast FM 107.5 Hervey Bay",
+      "subtitle": "Community",
+      "location": "Australia",
+      "genre": "Community",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/4FCRAAC.aac"
+    },
+    {
+      "id": "koori_radio_au_205b8342",
+      "title": "Koori Radio",
+      "subtitle": "Radio",
+      "location": "Australia",
+      "genre": "Radio",
+      "countryCode": "AU",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 128,
+      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/2LNDAAC.aac?dist=2LNDwebsite"
+    },
+    {
+      "id": "kids_hits_au_62fa80df",
+      "title": "Kids Hits",
+      "subtitle": "Radio",
+      "location": "Australia",
+      "genre": "Radio",
+      "countryCode": "AU",
+      "language": null,
+      "clickCount": 2,
+      "bitrate": 0,
+      "streamUrl": "https://wz0liw.scahw.com.au/live/kids-hits.stream/playlist.m3u8?"
     }
   ]
 }

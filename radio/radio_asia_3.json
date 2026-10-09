@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-08T04:31:32Z",
+  "updated": "2026-10-09T04:34:42Z",
   "region": "asia",
   "part": 3,
   "of": 3,
@@ -3838,19 +3838,6 @@
       "genre": "Talk",
       "countryCode": "PK",
       "streamUrl": "http://162.244.80.118:4900/;stream.mp3"
-    },
-    {
-      "id": "rb_fm_100_pakistan_abbottabad_9312c071",
-      "title": "FM 100 Pakistan Abbottabad",
-      "subtitle": "Radio",
-      "imageUrl": "http://fm100pakistan.com/favicon.ico",
-      "streamUrl": "http://162.244.80.118:4900/stream.mp3",
-      "location": "KPK, Pakistan",
-      "genre": "Radio",
-      "countryCode": "PK",
-      "language": "pashto",
-      "clickCount": 5,
-      "bitrate": 32
     },
     {
       "id": "fm_100_pakistan_karachi_pk_6f46ab",
@@ -12494,19 +12481,6 @@
       "streamUrl": "https://vnno-ne-2-tf-multi-playlist-zmp3.zmdcdn.me/j20SDlO5EQk/zhls/playback-realtime/audio/59a2ee0ed24b3b15625a/audio.m3u8"
     },
     {
-      "id": "rb2_cri_ti_ng_vi_t_72aba108",
-      "title": "CRI Tiếng Việt",
-      "subtitle": "News",
-      "imageUrl": "",
-      "streamUrl": "https://ice5.securenetsystems.net:80/KALI",
-      "location": "Vietnam",
-      "genre": "News",
-      "countryCode": "VN",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 32
-    },
-    {
       "id": "cherry_radio_music_247_vn",
       "title": "Cherry Radio Music 247",
       "subtitle": "Pop",
@@ -15220,18 +15194,6 @@
       "streamUrl": "http://202.39.43.67:1935/live/RA000013/chunklist.m3u8"
     },
     {
-      "id": "james_spider_kaka_webfm_internet_radio_ph_cc5b5db0",
-      "title": "James Spider Kaka WebFM Internet Radio",
-      "subtitle": "Radio",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 80,
-      "streamUrl": "http://136.243.44.41:8033/stream"
-    },
-    {
       "id": "dear_fm_kabacan_ph_a60a3b9a",
       "title": "Dear FM Kabacan",
       "subtitle": "Radio",
@@ -16168,18 +16130,6 @@
       "streamUrl": "http://stream.zenolive.com/a0zn713mz9duv"
     },
     {
-      "id": "radio_one_fm_91_gwadar_pk_745b9fd9",
-      "title": "Radio One FM 91 Gwadar",
-      "subtitle": "Music",
-      "location": "Pakistan",
-      "genre": "Music",
-      "countryCode": "PK",
-      "language": "urdu",
-      "clickCount": 3,
-      "bitrate": 128,
-      "streamUrl": "http://cc.vmakerhost.com:8147/stream"
-    },
-    {
       "id": "ria_897_sg_bea85486",
       "title": "RIA 897",
       "subtitle": "Melisten",
@@ -16286,18 +16236,6 @@
       "clickCount": 4,
       "bitrate": 96,
       "streamUrl": "https://live.radyo.in/8062/stream"
-    },
-    {
-      "id": "abuzer_fm_tr_82b2cf03",
-      "title": "Abuzer FM",
-      "subtitle": "Comedy",
-      "location": "Türkiye",
-      "genre": "Comedy",
-      "countryCode": "TR",
-      "language": "turkish",
-      "clickCount": 6,
-      "bitrate": 128,
-      "streamUrl": "http://live.radyotvonline.com:9030/;stream.nsv"
     },
     {
       "id": "pop_90_turkiye_tr_bff170c9",
@@ -17114,6 +17052,30 @@
       "clickCount": 3,
       "bitrate": 48,
       "streamUrl": "http://209.126.124.126:8721/stream"
+    },
+    {
+      "id": "abuzer_fm_tr_82b2cf03",
+      "title": "Abuzer FM",
+      "subtitle": "Comedy",
+      "location": "Türkiye",
+      "genre": "Comedy",
+      "countryCode": "TR",
+      "language": "turkish",
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "http://live.radyotvonline.com:9030/;stream.nsv"
+    },
+    {
+      "id": "mega_radyo_fm_97_7_tr_f1375fab",
+      "title": "Mega Radyo FM 97.7",
+      "subtitle": "Radio",
+      "location": "Türkiye",
+      "genre": "Radio",
+      "countryCode": "TR",
+      "language": "turkish",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://dinle.megaradyoiskenderun.com/8024/stream"
     }
   ]
 }

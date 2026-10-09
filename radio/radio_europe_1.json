@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-08T04:31:01Z",
+  "updated": "2026-10-09T04:34:42Z",
   "region": "europe",
   "part": 1,
   "of": 8,
@@ -3765,19 +3765,6 @@
       "language": "bosnian",
       "clickCount": 3,
       "bitrate": 64
-    },
-    {
-      "id": "rb2_radio_vitez_7b6756aa",
-      "title": "RADIO VITEZ",
-      "subtitle": "Classical",
-      "imageUrl": "",
-      "streamUrl": "https://radio.iti.hr/listen/radio_vitez/radio.mp3",
-      "location": "Bosnia And Herzegovina",
-      "genre": "Classical",
-      "countryCode": "BA",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
     },
     {
       "id": "rb2_radio_zenit_11c5f24d",
@@ -26375,18 +26362,6 @@
       "streamUrl": "https://icecast.lider-fm.by/liderfm"
     },
     {
-      "id": "roks_by_533713d9",
-      "title": "Радио ROKS",
-      "subtitle": "Rock",
-      "location": "Belarus",
-      "genre": "Rock",
-      "countryCode": "BY",
-      "language": "belarusian",
-      "clickCount": 4,
-      "bitrate": 160,
-      "streamUrl": "https://stream.roks.com:8443/live256"
-    },
-    {
       "id": "wgfm_trance_by_82951dde",
       "title": "WGFM-Trance",
       "subtitle": "Radio",
@@ -31569,6 +31544,42 @@
       "clickCount": 3,
       "bitrate": 320,
       "streamUrl": "https://ice4.abradio.cz/bojler_room_128.aac"
+    },
+    {
+      "id": "roks_by_533713d9",
+      "title": "Радио ROKS",
+      "subtitle": "Rock",
+      "location": "Belarus",
+      "genre": "Rock",
+      "countryCode": "BY",
+      "language": "belarusian",
+      "clickCount": 15,
+      "bitrate": 160,
+      "streamUrl": "https://stream.roks.com:8443/live256"
+    },
+    {
+      "id": "laut_fm_nightcore_de_fb0e8725",
+      "title": "Laut.FM | Nightcore",
+      "subtitle": "Nightcore",
+      "location": "Germany",
+      "genre": "Nightcore",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://laut.fm/nightcoremusic"
+    },
+    {
+      "id": "kronehit_hardstyle_at_60523eaf",
+      "title": "Kronehit Hardstyle",
+      "subtitle": "Hardstyle",
+      "location": "Austria",
+      "genre": "Hardstyle",
+      "countryCode": "AT",
+      "language": "german",
+      "clickCount": 2,
+      "bitrate": 0,
+      "streamUrl": "https://kronehit.streamabc.net/50-fschannel2-aac-128-1016557"
     }
   ]
 }
