@@ -1,6 +1,6 @@
 {
-  "version": 58,
-  "updated": "2026-10-08T10:24:16Z",
+  "version": 59,
+  "updated": "2026-10-09T10:25:19Z",
   "stations": [
     {
       "id": "80s80s_radio_de_9adaa6e1",
@@ -4764,15 +4764,6 @@
       "countryCode": "US"
     },
     {
-      "id": "iran_on_air_ir_6c0f7fb3",
-      "title": "Iran On Air",
-      "subtitle": "AAC+",
-      "location": "Tehran, Islamic Republic Of Iran",
-      "genre": "Radio",
-      "streamUrl": "http://ice41.securenetsystems.net/KIRN",
-      "countryCode": "IR"
-    },
-    {
       "id": "rock_fm_es_2bfdcbc2",
       "title": "Rock FM",
       "subtitle": "MP3",
@@ -5704,15 +5695,6 @@
       "countryCode": "MX"
     },
     {
-      "id": "music_radio_97_1_fm_tt_3b8875a9",
-      "title": "Music Radio 97.1 FM",
-      "subtitle": "AAC+",
-      "location": "Port of Spain, Trinidad And Tobago",
-      "genre": "Radio",
-      "streamUrl": "https://ice42.securenetsystems.net/MR97?playSessionID=C3852F04-F653-4223-80E2177BC1CE1988",
-      "countryCode": "TT"
-    },
-    {
       "id": "love_972_sg_a1752f52",
       "title": "LOVE 972",
       "subtitle": "AAC+",
@@ -5782,15 +5764,6 @@
       "genre": "Entertainment",
       "streamUrl": "http://wecast03-o-cloud.flumotion.com/copesedes/santander.mp3",
       "countryCode": "ES"
-    },
-    {
-      "id": "cina_1650_am_mississauga_on_ca_90142523",
-      "title": "CINA 1650 AM Mississauga, ON",
-      "subtitle": "AAC",
-      "location": "Ontario, Canada",
-      "genre": "Bollywood",
-      "streamUrl": "http://ice8.securenetsystems.net/CINA",
-      "countryCode": "CA"
     },
     {
       "id": "radio_srf_1_basel_baselland_ch_442109e4",
@@ -6237,15 +6210,6 @@
       "genre": "Classic Rock",
       "streamUrl": "http://s8-webradio.webradio.de/rockantenne-oesterreich",
       "countryCode": "AT"
-    },
-    {
-      "id": "vob_92_9_fm_bb_9a52958c",
-      "title": "VOB 92.9 FM",
-      "subtitle": "AAC+",
-      "location": "River road, st Micheal, Bridgetown, Barbados",
-      "genre": "Radio",
-      "streamUrl": "https://ice66.securenetsystems.net/VOB929",
-      "countryCode": "BB"
     },
     {
       "id": "rsr_couleur_3_ch_0ecfff9f",
@@ -7785,6 +7749,50 @@
       "genre": "Dark Wave",
       "streamUrl": "http://streams.80s80s.de/darkwave/mp3-192",
       "countryCode": "DE"
+    },
+    {
+      "id": "radio_bob_ac_dc_de_707876fb",
+      "title": "RADIO BOB AC/DC",
+      "subtitle": "MP3",
+      "location": "Germany",
+      "genre": "Rock",
+      "streamUrl": "https://streams.radiobob.de/bob-acdc/mp3-192/homepage/?mode=preroll&aw_0_1st.skey=1671324640&cb=215511618&aw_0_1st.playerid=radiobob_web&aw_0_req.userConsentV2=CPkIkEAPkIkEAAFADBDECvCsAP_AAEPAAAYgI9td_H__bW9j-f5_aft0eY1P9_rz7uQzDhfNk-4F3L_W_LwX52E7NF36tq4KmR4ku1LBIQNlHMHUDUmwaokVryHsak2cpSNKJ7BEknMZOydYGF9Pmxtj-QKY5v5_d3bx2D-t_9v-39z338VXn3d53-_02PDdV599Dfn9fR_b89KP9958v4v8_____3_e__3_74I9gEmGrcQBdmWODNoGEUCIEYVhIRQKACCgGFogIAHBwU7KwCfWECABAKAIwIgQ4AowIBAAAJAEhEAEgRYIAAARAIAAQAIAEIAGBgEFgBYGAQAAgGgYohQACBIAZEBEUpgQFQJBAS2VCCUFUhphAFWWAFAIjYKABEEgIpAAEBYOAYIkBKxYIEmKN8gBGCFAKJUIAgaADAAEEexEAGAAII9ioAMAAQR7GQAYAAgj2AAA.YAAAAAAAAAAA&aw_0_1st.kuid=kppidff_PQ5ovBN7&aw_0_1st.ksg=%5B%22vz9c46692%22%5D&listenerid=c47683ff451bdf8ebe068dea8a897b50",
+      "countryCode": "DE"
+    },
+    {
+      "id": "flux_fm_70s_der_70er_channel_xx_4a6ad769",
+      "title": "FLUX FM 70s – Der 70er Channel",
+      "subtitle": "MP3",
+      "location": "Unknown",
+      "genre": "Radio",
+      "streamUrl": "http://streams.fluxfm.de/70er/mp3-320"
+    },
+    {
+      "id": "france_inter_fr_83e25de7",
+      "title": "france inter",
+      "subtitle": "MP3",
+      "location": "France",
+      "genre": "Radio",
+      "streamUrl": "http://icecast.radiofrance.fr/franceinter-midfi.mp3",
+      "countryCode": "FR"
+    },
+    {
+      "id": "radio_brocken_de_90d5a5c3",
+      "title": "Radio Brocken",
+      "subtitle": "MP3",
+      "location": "Saxony-Anhalt, Germany",
+      "genre": "Pop",
+      "streamUrl": "http://fhhalle.streamabc.net/fhhal-rblive-mp3-256-3654873?sABC=6nor0o62%230%23r30o443r1929r059s085628511796n57%23qverxgyvaxUC&aw_0_1st.playerid=direktlinkHP&amsparams=playerid:direktlinkHP;skey:1790839650",
+      "countryCode": "DE"
+    },
+    {
+      "id": "fip_fr_ed01d883",
+      "title": "FIP",
+      "subtitle": "AAC",
+      "location": "France",
+      "genre": "Hls",
+      "streamUrl": "https://stream.radiofrance.fr/fip/fip.m3u8",
+      "countryCode": "FR"
     }
   ]
 }
