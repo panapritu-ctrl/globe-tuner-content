@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-09T04:34:10Z",
+  "updated": "2026-10-10T04:20:01Z",
   "region": "europe",
   "part": 5,
   "of": 8,
@@ -27377,18 +27377,6 @@
       "streamUrl": "https://wg.cdn.tibus.net/Live95fm?aw_0_1st.playerId=wireless-website&listenerid=48213c18339e02bbc93dc6ed298c2192&awparams=companionAds%3Atrue&aw_0_req.gdpr=false&aw_0_req.userConsentV2=undefined&_=796350"
     },
     {
-      "id": "radio_gamma_magic_it_8bf95d64",
-      "title": "Radio Gamma Magic",
-      "subtitle": "80S",
-      "location": "Italy",
-      "genre": "80S",
-      "countryCode": "IT",
-      "language": "english",
-      "clickCount": 5,
-      "bitrate": 128,
-      "streamUrl": "http://95.110.186.253:8020/magic.mp3"
-    },
-    {
       "id": "community_radio_youghal_ie_3af8a1ea",
       "title": "Community Radio Youghal",
       "subtitle": "Radio",
@@ -27461,30 +27449,6 @@
       "streamUrl": "https://streamingv2.shoutcast.com/rtl-1025_48.aac"
     },
     {
-      "id": "rai_isoradio_it_7dc1e834",
-      "title": "Rai Isoradio",
-      "subtitle": "Public Radio",
-      "location": "Italy",
-      "genre": "Public Radio",
-      "countryCode": "IT",
-      "language": "italian",
-      "clickCount": 10,
-      "bitrate": 256,
-      "streamUrl": "http://icestreaming.rai.it/6.mp3"
-    },
-    {
-      "id": "gem_radio_new_wave_ie_61592c3c",
-      "title": "Gem Radio New Wave",
-      "subtitle": "70'S",
-      "location": "Ireland",
-      "genre": "70'S",
-      "countryCode": "IE",
-      "language": null,
-      "clickCount": 5,
-      "bitrate": 128,
-      "streamUrl": "https://gemradionw.radioca.st/;stream.nsv"
-    },
-    {
       "id": "free_radio_jolly_international_it_22466d09",
       "title": "Free Radio Jolly International",
       "subtitle": "Radio",
@@ -27507,30 +27471,6 @@
       "clickCount": 5,
       "bitrate": 320,
       "streamUrl": "https://nr15.newradio.it:9168/stream"
-    },
-    {
-      "id": "radio_ciccio_riccio_it_d00ba74b",
-      "title": "Radio Ciccio Riccio",
-      "subtitle": "Varied",
-      "location": "Italy",
-      "genre": "Varied",
-      "countryCode": "IT",
-      "language": "italian",
-      "clickCount": 3,
-      "bitrate": 0,
-      "streamUrl": "https://stream5.xdevel.com/audio0s975942-758/stream/icecast.audio"
-    },
-    {
-      "id": "kiss_kiss_italia_it_d829d624",
-      "title": "Kiss kiss italia",
-      "subtitle": "Radio",
-      "location": "Italy",
-      "genre": "Radio",
-      "countryCode": "IT",
-      "language": null,
-      "clickCount": 3,
-      "bitrate": 128,
-      "streamUrl": "http://wma07.fluidstream.net:3616/;stream.nsv"
     },
     {
       "id": "rai_isoradio_it_1802e92f",
@@ -27759,6 +27699,18 @@
       "clickCount": 3,
       "bitrate": 128,
       "streamUrl": "https://mediagw.e-tiger.net/stream/zc04?ver=209775"
+    },
+    {
+      "id": "gem_radio_new_wave_ie_61592c3c",
+      "title": "Gem Radio New Wave",
+      "subtitle": "70'S",
+      "location": "Ireland",
+      "genre": "70'S",
+      "countryCode": "IE",
+      "language": null,
+      "clickCount": 8,
+      "bitrate": 128,
+      "streamUrl": "https://gemradionw.radioca.st/;stream.nsv"
     }
   ]
 }

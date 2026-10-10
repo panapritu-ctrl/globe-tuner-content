@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-09T04:34:42Z",
+  "updated": "2026-10-10T04:20:01Z",
   "region": "other",
   "stations": [
     {
@@ -7074,18 +7074,6 @@
       "streamUrl": "https://server7.radio-streams.net/proxy/rowynamu/stream"
     },
     {
-      "id": "cope_m_laga_es_747e1ecb",
-      "title": "COPE Málaga",
-      "subtitle": "Radio",
-      "location": "Spain",
-      "genre": "Radio",
-      "countryCode": "ES",
-      "language": null,
-      "clickCount": 63,
-      "bitrate": 96,
-      "streamUrl": "http://flucast-bl04.flumotion.com/cope/net1.mp3"
-    },
-    {
       "id": "noaa_weather_radio_dallas_texas_kec56_us_31045ca5",
       "title": "NOAA Weather Radio - Dallas, Texas (KEC56)",
       "subtitle": "Local Weather",
@@ -10686,18 +10674,6 @@
       "streamUrl": "https://stations.radioclapas.fr/radio/8130/radio.mp3"
     },
     {
-      "id": "bbc_6_indie_forever_gb_8a9e79f8",
-      "title": "BBC 6 Indie Forever",
-      "subtitle": "Alternative / Indie",
-      "location": "The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "Alternative / Indie",
-      "countryCode": "GB",
-      "language": null,
-      "clickCount": 11,
-      "bitrate": 135,
-      "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/mobile_wifi_main_hd_abr_v2/aks/bbc_radio_six_indie_forever.m3u8"
-    },
-    {
       "id": "wcsp_90_1_c_span_radio_washington_dc_us_75663eeb",
       "title": "WCSP 90.1 \"C-SPAN Radio\" Washington, DC",
       "subtitle": "Current Affairs",
@@ -11536,18 +11512,6 @@
       "clickCount": 5,
       "bitrate": 128,
       "streamUrl": "https://streaming.nrjaudio.fm/oufdxmtx4thg"
-    },
-    {
-      "id": "apple_music_country_us_1d6183f7",
-      "title": "Apple Music Country",
-      "subtitle": "Radio",
-      "location": "The United States Of America",
-      "genre": "Radio",
-      "countryCode": "US",
-      "language": null,
-      "clickCount": 5,
-      "bitrate": 64,
-      "streamUrl": "https://itsliveradio.apple.com/streams/live/1498157166/master_web.m3u8"
     },
     {
       "id": "wxxq_q98_5_fm_rockford_il_us_e0bc0b86",
@@ -16278,18 +16242,6 @@
       "streamUrl": "https://prod-54-158-170-239.amperwave.net/unionbroadcasting-whbeammp3-ibc2?session-id=beea136dde39f45c107c9774baa03e3e"
     },
     {
-      "id": "mystery_science_theater_3000_mst3k_bananavision_us_d0c23993",
-      "title": "Mystery Science Theater 3000, MST3K, Bananavision",
-      "subtitle": "Radio",
-      "location": "The United States Of America",
-      "genre": "Radio",
-      "countryCode": "US",
-      "language": "english",
-      "clickCount": 4,
-      "bitrate": 128,
-      "streamUrl": "http://bananavision.tv:8000/mst3k.mp3"
-    },
-    {
       "id": "dclm_radio_ewe_us_34d61c72",
       "title": "DCLM Radio - Ewe",
       "subtitle": "Christian",
@@ -18786,18 +18738,6 @@
       "streamUrl": "https://wobc.stream/main?nocache=0.49054499791387174"
     },
     {
-      "id": "bananavision_educational_us_cac78afe",
-      "title": "Bananavision Educational",
-      "subtitle": "Educational",
-      "location": "The United States Of America",
-      "genre": "Educational",
-      "countryCode": "US",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 128,
-      "streamUrl": "http://bananavision.tv:8000/educational.mp3"
-    },
-    {
       "id": "strobefm_us_a53d205f",
       "title": "StrobeFM",
       "subtitle": "Chr",
@@ -20056,6 +19996,54 @@
       "clickCount": 3,
       "bitrate": 64,
       "streamUrl": "http://149.56.185.59:8000/;&type=mp3"
+    },
+    {
+      "id": "cope_m_laga_es_c74f3bc3",
+      "title": "COPE Málaga",
+      "subtitle": "Radio",
+      "location": "Spain",
+      "genre": "Radio",
+      "countryCode": "ES",
+      "language": null,
+      "clickCount": 43,
+      "bitrate": 96,
+      "streamUrl": "http://flucast-rb04-02.flumotion.com/cope/net1.mp3"
+    },
+    {
+      "id": "bbc_6_indie_forever_gb_8a9e79f8",
+      "title": "BBC 6 Indie Forever",
+      "subtitle": "Alternative / Indie",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Alternative / Indie",
+      "countryCode": "GB",
+      "language": null,
+      "clickCount": 16,
+      "bitrate": 135,
+      "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/mobile_wifi_main_hd_abr_v2/aks/bbc_radio_six_indie_forever.m3u8"
+    },
+    {
+      "id": "apple_music_country_us_1d6183f7",
+      "title": "Apple Music Country",
+      "subtitle": "Radio",
+      "location": "The United States Of America",
+      "genre": "Radio",
+      "countryCode": "US",
+      "language": null,
+      "clickCount": 7,
+      "bitrate": 64,
+      "streamUrl": "https://itsliveradio.apple.com/streams/live/1498157166/master_web.m3u8"
+    },
+    {
+      "id": "bananavision_educational_us_cac78afe",
+      "title": "Bananavision Educational",
+      "subtitle": "Educational",
+      "location": "The United States Of America",
+      "genre": "Educational",
+      "countryCode": "US",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://bananavision.tv:8000/educational.mp3"
     }
   ]
 }

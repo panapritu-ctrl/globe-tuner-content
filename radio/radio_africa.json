@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-09T04:34:10Z",
+  "updated": "2026-10-10T04:20:01Z",
   "region": "africa",
   "stations": [
     {
@@ -601,15 +601,6 @@
       "bitrate": 128
     },
     {
-      "id": "jil_fm_dz_7de246",
-      "title": "Jil FM",
-      "subtitle": "Music",
-      "location": "Algeria",
-      "genre": "Music",
-      "countryCode": "DZ",
-      "streamUrl": "https://radiojeunesse.ice.infomaniak.ch/jeunesse.mp3"
-    },
-    {
       "id": "rb2_radio_annaba_1facaa81",
       "title": "Radio Annaba",
       "subtitle": "Local Radio",
@@ -832,19 +823,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_radio_sa_da_e9d8ca2b",
-      "title": "Radio Saïda",
-      "subtitle": "Local Radio",
-      "imageUrl": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---020.png",
-      "streamUrl": "https://radiosaida.ice.infomaniak.ch/saida.mp3",
-      "location": "Algeria",
-      "genre": "Local Radio",
-      "countryCode": "DZ",
-      "language": "arabic",
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_radio_setif_8791da95",
       "title": "Radio Setif",
       "subtitle": "Local Radio",
@@ -878,19 +856,6 @@
       "genre": "Local Radio",
       "streamUrl": "https://radiotamanrasset.ice.infomaniak.ch/tamanrasset.mp3",
       "countryCode": "DZ"
-    },
-    {
-      "id": "rb2_radio_tiaret_9171513f",
-      "title": "Radio Tiaret",
-      "subtitle": "Local News",
-      "imageUrl": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---014.png",
-      "streamUrl": "https://radiotiaret.ice.infomaniak.ch/tiaret.mp3",
-      "location": "Algeria",
-      "genre": "Local News",
-      "countryCode": "DZ",
-      "language": "arabic",
-      "clickCount": 2,
-      "bitrate": 128
     },
     {
       "id": "radio_tizi_ouzou_dz_029d41",
@@ -4076,19 +4041,6 @@
       "countryCode": "RE",
       "language": "creole",
       "clickCount": 1,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_top_fm_maxi_dance_a71d51fc",
-      "title": "Top Fm Maxi Dance",
-      "subtitle": "974, Créole",
-      "imageUrl": "https://static2.mytuner.mobi/media/tvos_radios/bnzjbtbqfqbv.png",
-      "streamUrl": "https://streamingv2.shoutcast.com/-TopFm-Maxidance",
-      "location": "Reunion",
-      "genre": "974",
-      "countryCode": "RE",
-      "language": "french",
-      "clickCount": 0,
       "bitrate": 128
     },
     {
@@ -10912,6 +10864,18 @@
       "clickCount": 3,
       "bitrate": 0,
       "streamUrl": "https://streaming.fabrik.fm/radyo-sesel/echocast/audio/index.m3u8"
+    },
+    {
+      "id": "jil_fm_dz_0bc06b6b",
+      "title": "Jil FM",
+      "subtitle": "Local Radio",
+      "location": "Algeria",
+      "genre": "Local Radio",
+      "countryCode": "DZ",
+      "language": "arabic",
+      "clickCount": 10,
+      "bitrate": 0,
+      "streamUrl": "https://webradio1.tda.dz:8001/Jeunesse_64K.mp3"
     }
   ]
 }

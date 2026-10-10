@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-09T04:34:42Z",
+  "updated": "2026-10-10T04:20:01Z",
   "region": "americas",
   "part": 3,
   "of": 5,
@@ -14283,19 +14283,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_retro_fm_c_rdoba_88_1_fm_xhdz_grupo_audi_a4e126db",
-      "title": "Retro FM (Córdoba) - 88.1 FM - XHDZ - Grupo Audiorama Comunicaciones - Córdoba, Veracruz",
-      "subtitle": "80S, 88.1 Fm",
-      "imageUrl": "https://www.audiorama.mx/contenidos/logos/48-logo-retro-fm-cordoba-20230523181030.png",
-      "streamUrl": "https://ss1.audiorama.com.mx:6658/;",
-      "location": "Córdoba, Veracruz, Mexico",
-      "genre": "80S",
-      "countryCode": "MX",
-      "language": "spanish",
-      "clickCount": 1,
-      "bitrate": 64
-    },
-    {
       "id": "rb2_retro_fm_m_rida_103_1_fm_xhpym_fm_cadena_53d9fd12",
       "title": "Retro FM (Mérida) - 103.1 FM - XHPYM-FM - Cadena RASA - Mérida, Yucatán",
       "subtitle": "00'S, 00S",
@@ -26717,6 +26704,30 @@
       "clickCount": 3,
       "bitrate": 0,
       "streamUrl": "https://rds3.desdeparaguay.net/movemisoras/movemisoras.stream/playlist.m3u8"
+    },
+    {
+      "id": "caraibes_fm_ht_650b1609",
+      "title": "Caraibes FM",
+      "subtitle": "Radio",
+      "location": "Haiti",
+      "genre": "Radio",
+      "countryCode": "HT",
+      "language": null,
+      "clickCount": 9,
+      "bitrate": 128,
+      "streamUrl": "https://stream.zeno.fm/54k0v7x14neuv"
+    },
+    {
+      "id": "radio_ranchito_san_luis_107_1_fm_1460_am_mx_e7d60622",
+      "title": "Radio Ranchito San Luis 107.1 FM/1460 AM",
+      "subtitle": "Banda",
+      "location": "Mexico",
+      "genre": "Banda",
+      "countryCode": "MX",
+      "language": "español mexico",
+      "clickCount": 3,
+      "bitrate": 64,
+      "streamUrl": "https://radios.blumhost.es/8134/;"
     }
   ]
 }

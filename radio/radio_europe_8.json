@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-09T04:34:10Z",
+  "updated": "2026-10-10T04:20:01Z",
   "region": "europe",
   "part": 8,
   "of": 8,
@@ -24546,18 +24546,6 @@
       "streamUrl": "https://pub0201.101.ru/stream/trust/mp3/128/24?"
     },
     {
-      "id": "station_ru_3c868601",
-      "title": "Радио дача",
-      "subtitle": "Radio",
-      "location": "The Russian Federation",
-      "genre": "Radio",
-      "countryCode": "RU",
-      "language": "язык: русский",
-      "clickCount": 12,
-      "bitrate": 128,
-      "streamUrl": "http://listen13.vdfm.ru:8000/dacha"
-    },
-    {
       "id": "dancehits80_ru_5b04b6f7",
       "title": "DanceHits80",
       "subtitle": "80-90",
@@ -24630,18 +24618,6 @@
       "streamUrl": "http://79.120.39.202:8000/vocaltrance"
     },
     {
-      "id": "rock_irk_ru_main_mix_ru_1dac1b1a",
-      "title": "rock.irk.ru :: main-mix",
-      "subtitle": "Acoustic",
-      "location": "The Russian Federation",
-      "genre": "Acoustic",
-      "countryCode": "RU",
-      "language": "english",
-      "clickCount": 4,
-      "bitrate": 35,
-      "streamUrl": "https://live.rock.irk.ru/hls/main-mix/live.m3u8"
-    },
-    {
       "id": "radio_caprice_dungeon_synth_ru_fd0e7c8c",
       "title": "Radio Caprice - Dungeon Synth",
       "subtitle": "Dungeon Synth",
@@ -24688,18 +24664,6 @@
       "clickCount": 10,
       "bitrate": 320,
       "streamUrl": "http://79.120.39.202:8004/gangstarap"
-    },
-    {
-      "id": "musical_decadence_radio_ru_771ba021",
-      "title": "Musical Decadence Radio",
-      "subtitle": "#Electro",
-      "location": "The Russian Federation",
-      "genre": "#Electro",
-      "countryCode": "RU",
-      "language": "english",
-      "clickCount": 6,
-      "bitrate": 128,
-      "streamUrl": "https://stream.musicaldecadence.ru/live"
     },
     {
       "id": "radio_record_russian_hits_ru_4bb429f9",
@@ -25314,18 +25278,6 @@
       "streamUrl": "https://listen9.myradio24.com/76923"
     },
     {
-      "id": "anima_amoris_minimal_deep_techno_ru_dbc08017",
-      "title": "Anima Amoris Minimal Deep Techno",
-      "subtitle": "Minimal",
-      "location": "The Russian Federation",
-      "genre": "Minimal",
-      "countryCode": "RU",
-      "language": null,
-      "clickCount": 3,
-      "bitrate": 0,
-      "streamUrl": "https://amoris.sknt.ru/minimal.mp3"
-    },
-    {
       "id": "urban_flow_se_e51fa12b",
       "title": "Urban Flow",
       "subtitle": "Hip-Hop",
@@ -25470,18 +25422,6 @@
       "streamUrl": "https://channels.fonotron.ru:8000/Chan_9_192.mp3"
     },
     {
-      "id": "anima_amoris_electronic_styles_ru_9bb51049",
-      "title": "Anima Amoris Electronic Styles",
-      "subtitle": "Radio",
-      "location": "The Russian Federation",
-      "genre": "Radio",
-      "countryCode": "RU",
-      "language": null,
-      "clickCount": 3,
-      "bitrate": 0,
-      "streamUrl": "https://amoris.sknt.ru/electronic.mp3"
-    },
-    {
       "id": "station_ru_e821a898",
       "title": "Юлдаш",
       "subtitle": "Music",
@@ -25492,6 +25432,54 @@
       "clickCount": 3,
       "bitrate": 0,
       "streamUrl": "https://radio.mediacdn.ru/uldash.mp3"
+    },
+    {
+      "id": "station_ru_3c868601",
+      "title": "Радио дача",
+      "subtitle": "Radio",
+      "location": "The Russian Federation",
+      "genre": "Radio",
+      "countryCode": "RU",
+      "language": "язык: русский",
+      "clickCount": 29,
+      "bitrate": 128,
+      "streamUrl": "http://listen13.vdfm.ru:8000/dacha"
+    },
+    {
+      "id": "rock_irk_ru_main_mix_ru_1dac1b1a",
+      "title": "rock.irk.ru :: main-mix",
+      "subtitle": "Acoustic",
+      "location": "The Russian Federation",
+      "genre": "Acoustic",
+      "countryCode": "RU",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 35,
+      "streamUrl": "https://live.rock.irk.ru/hls/main-mix/live.m3u8"
+    },
+    {
+      "id": "anima_amoris_minimal_deep_techno_ru_dbc08017",
+      "title": "Anima Amoris Minimal Deep Techno",
+      "subtitle": "Minimal",
+      "location": "The Russian Federation",
+      "genre": "Minimal",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://amoris.sknt.ru/minimal.mp3"
+    },
+    {
+      "id": "anima_amoris_electronic_styles_ru_9bb51049",
+      "title": "Anima Amoris Electronic Styles",
+      "subtitle": "Radio",
+      "location": "The Russian Federation",
+      "genre": "Radio",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://amoris.sknt.ru/electronic.mp3"
     }
   ]
 }

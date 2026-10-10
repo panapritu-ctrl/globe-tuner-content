@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-09T04:34:10Z",
+  "updated": "2026-10-10T04:20:01Z",
   "region": "europe",
   "part": 6,
   "of": 8,
@@ -4402,15 +4402,6 @@
       "language": "italian",
       "clickCount": 1,
       "bitrate": 256
-    },
-    {
-      "id": "rai_news_24_it_eb10fc",
-      "title": "Rai News 24",
-      "subtitle": "News",
-      "location": "Italy",
-      "genre": "News",
-      "countryCode": "IT",
-      "streamUrl": "https://streamcdnb3-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_2400/chunklist.m3u8"
     },
     {
       "id": "rb2_rai_radio_1_calcio_df3a63d4",
@@ -11003,19 +10994,6 @@
       "language": "english",
       "clickCount": 3,
       "bitrate": 320
-    },
-    {
-      "id": "rb2_de_hollandse_piraten_gigant_b3df8c46",
-      "title": "De Hollandse Piraten Gigant",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://dhpgstreaming.nl/proxy/dhpg/stream",
-      "location": "Overijssel, The Netherlands",
-      "genre": "Radio",
-      "countryCode": "NL",
-      "language": "nethe",
-      "clickCount": 0,
-      "bitrate": 192
     },
     {
       "id": "rb2_dedimusic_715446b8",
@@ -22149,32 +22127,6 @@
       "bitrate": 64
     },
     {
-      "id": "rb2_rmf_celtic_960dc45b",
-      "title": "RMF Celtic",
-      "subtitle": "Celtic",
-      "imageUrl": "http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
-      "streamUrl": "http://31.192.216.7/CELTIC",
-      "location": "Krakow, Poland",
-      "genre": "Celtic",
-      "countryCode": "PL",
-      "language": "polish",
-      "clickCount": 3,
-      "bitrate": 64
-    },
-    {
-      "id": "rb2_rmf_celtic_fakty_07f70f65",
-      "title": "RMF Celtic + FAKTY",
-      "subtitle": "Celtic",
-      "imageUrl": "",
-      "streamUrl": "http://31.192.216.7/CELTICF",
-      "location": "Krakow, Poland",
-      "genre": "Celtic",
-      "countryCode": "PL",
-      "language": "polish",
-      "clickCount": 0,
-      "bitrate": 64
-    },
-    {
       "id": "rb2_rmf_chillout_960faf64",
       "title": "RMF Chillout",
       "subtitle": "Chillout",
@@ -22259,19 +22211,6 @@
       "countryCode": "PL",
       "language": "polish",
       "clickCount": 0,
-      "bitrate": 64
-    },
-    {
-      "id": "rb2_rmf_cuba_fakty_3379cdb1",
-      "title": "RMF Cuba + FAKTY",
-      "subtitle": "Cuban Music",
-      "imageUrl": "http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
-      "streamUrl": "http://31.192.216.8/CUBAF",
-      "location": "Krakow, Poland",
-      "genre": "Cuban Music",
-      "countryCode": "PL",
-      "language": "polish",
-      "clickCount": 2,
       "bitrate": 64
     },
     {
@@ -23262,19 +23201,6 @@
       "language": "polish",
       "clickCount": 0,
       "bitrate": 64
-    },
-    {
-      "id": "rb2_rmf_top_30_pop_a57e7ba2",
-      "title": "RMF TOP 30 POP",
-      "subtitle": "Rmf Top 30 Pop",
-      "imageUrl": "",
-      "streamUrl": "http://195.150.20.245/rmf_top_5_pop",
-      "location": "Warszawa, Poland",
-      "genre": "Rmf Top 30 Pop",
-      "countryCode": "PL",
-      "language": "polish",
-      "clickCount": 1,
-      "bitrate": 128
     },
     {
       "id": "rb2_rmf_top2_e5bca94e",
@@ -24433,18 +24359,6 @@
       "clickCount": 8,
       "bitrate": 64,
       "streamUrl": "https://play.radioking.io/nordic-chillout-radio/736489"
-    },
-    {
-      "id": "station_lt_615a9a20",
-      "title": "Радио Сигнал",
-      "subtitle": "Radio",
-      "location": "Lithuania",
-      "genre": "Radio",
-      "countryCode": "LT",
-      "language": "russian",
-      "clickCount": 6,
-      "bitrate": 0,
-      "streamUrl": "https://media-edge2.hostin.live/radio-singnal.mp3"
     },
     {
       "id": "1fm_rock_no_f17bac0b",
@@ -27349,6 +27263,30 @@
       "clickCount": 5,
       "bitrate": 0,
       "streamUrl": "https://stream.rcs.revma.com/rqh8st7he5uvv"
+    },
+    {
+      "id": "kiss_kiss_italia_it_d829d624",
+      "title": "Kiss kiss italia",
+      "subtitle": "Radio",
+      "location": "Italy",
+      "genre": "Radio",
+      "countryCode": "IT",
+      "language": null,
+      "clickCount": 8,
+      "bitrate": 128,
+      "streamUrl": "http://wma07.fluidstream.net:3616/;stream.nsv"
+    },
+    {
+      "id": "radio_ciccio_riccio_it_d00ba74b",
+      "title": "Radio Ciccio Riccio",
+      "subtitle": "Varied",
+      "location": "Italy",
+      "genre": "Varied",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://stream5.xdevel.com/audio0s975942-758/stream/icecast.audio"
     }
   ]
 }

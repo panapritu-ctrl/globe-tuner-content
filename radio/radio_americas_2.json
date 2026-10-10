@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-09T04:34:42Z",
+  "updated": "2026-10-10T04:20:01Z",
   "region": "americas",
   "part": 2,
   "of": 5,
@@ -4862,19 +4862,6 @@
       "language": "english",
       "clickCount": 0,
       "bitrate": 64
-    },
-    {
-      "id": "rb2_cjsq_fm_92_7_radio_classique_quebec_city_5f651c17",
-      "title": "CJSQ-FM 92.7 \"Radio Classique\" Quebec City, QC  (128K MP3 Stream)",
-      "subtitle": "Classical",
-      "imageUrl": "http://www.radioclassique.ca/upload/design/5d1cc4fcaad749.59987287.png",
-      "streamUrl": "https://listen.radioking.com/radio/256885/stream/301504",
-      "location": "Quebec, Canada",
-      "genre": "Classical",
-      "countryCode": "CA",
-      "language": "french",
-      "clickCount": 0,
-      "bitrate": 128
     },
     {
       "id": "rb2_cjsr_88_5_university_of_alberta_edmonton_961a1782",
@@ -27433,18 +27420,6 @@
       "streamUrl": "https://play14.tikast.com:20075/stream?type=http&nocache=9"
     },
     {
-      "id": "cfny_102_1_the_edge_toronto_on_mp3_ca_2916ff27",
-      "title": "CFNY 102.1 \"The Edge\" Toronto, ON (MP3)",
-      "subtitle": "Commercial",
-      "location": "Canada",
-      "genre": "Commercial",
-      "countryCode": "CA",
-      "language": "english",
-      "clickCount": 4,
-      "bitrate": 128,
-      "streamUrl": "http://live.leanstream.co/CFNYFM-MP3"
-    },
-    {
       "id": "jazu_japanese_jazz_ca_82e2b3bf",
       "title": "JAZU - Japanese Jazz",
       "subtitle": "Japanese",
@@ -27719,18 +27694,6 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "https://stream.zeno.fm/4nky4dtvqp8uv"
-    },
-    {
-      "id": "cing_95_3_fresh_radio_hamilton_on_ca_a7a02ebb",
-      "title": "CING 95.3 \"Fresh Radio\" Hamilton, ON",
-      "subtitle": "Commercial",
-      "location": "Canada",
-      "genre": "Commercial",
-      "countryCode": "CA",
-      "language": "english",
-      "clickCount": 3,
-      "bitrate": 128,
-      "streamUrl": "http://live.leanstream.co/CINGFM-MP3"
     },
     {
       "id": "cktp_fm_95_7_the_wolf_fredericton_nb_ca_7a6a5136",
@@ -28115,6 +28078,18 @@
       "clickCount": 8,
       "bitrate": 64,
       "streamUrl": "https://radio.garden/api/ara/content/listen/bQueuUi0/channel.mp3?1721304580410"
+    },
+    {
+      "id": "cfny_102_1_the_edge_toronto_on_mp3_ca_2916ff27",
+      "title": "CFNY 102.1 \"The Edge\" Toronto, ON (MP3)",
+      "subtitle": "Commercial",
+      "location": "Canada",
+      "genre": "Commercial",
+      "countryCode": "CA",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://live.leanstream.co/CFNYFM-MP3"
     }
   ]
 }

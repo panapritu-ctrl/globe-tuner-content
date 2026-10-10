@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-09T04:34:42Z",
+  "updated": "2026-10-10T04:20:01Z",
   "region": "asia",
   "part": 1,
   "of": 3,
@@ -7764,19 +7764,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_tick_tock_radio_1975_cd6b712e",
-      "title": "Tick Tock Radio - 1975",
-      "subtitle": "1970S, 1975S",
-      "imageUrl": "",
-      "streamUrl": "https://streaming.ticktock.radio/tt/1975/icecast.audio",
-      "location": "Dubai, The United Arab Emirates",
-      "genre": "1970S",
-      "countryCode": "AE",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_tick_tock_radio_1976_d03f25b6",
       "title": "Tick Tock Radio - 1976",
       "subtitle": "1970S, 1976S",
@@ -7899,19 +7886,6 @@
       "subtitle": "1980S",
       "imageUrl": "",
       "streamUrl": "https://nl4.mystreaming.net/tt/1985/icecast.audio",
-      "location": "Dubai, The United Arab Emirates",
-      "genre": "1980S",
-      "countryCode": "AE",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_tick_tock_radio_1986_7fd92fa9",
-      "title": "Tick Tock Radio - 1986",
-      "subtitle": "1980S",
-      "imageUrl": "",
-      "streamUrl": "https://streaming.ticktock.radio/tt/1986/icecast.audio",
       "location": "Dubai, The United Arab Emirates",
       "genre": "1980S",
       "countryCode": "AE",
@@ -13560,19 +13534,6 @@
       "language": "chinese",
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_station_6678ee03",
-      "title": "全国党员干部现代远程教育",
-      "subtitle": "Public Radio",
-      "imageUrl": "",
-      "streamUrl": "https://12371wbndks.v.kcdnvip.com/12371wbnd/dangyuanwang_2/index.m3u8",
-      "location": "China",
-      "genre": "Public Radio",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 0,
-      "bitrate": 900
     },
     {
       "id": "rb2_station_108b5a92",
@@ -19315,19 +19276,6 @@
       "streamUrl": "https://lhttp-hw.qtfm.cn/live/21249/64k.mp3",
       "location": "China",
       "genre": "Radio",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_station_2e4e4cab",
-      "title": "昭通交通旅游广播",
-      "subtitle": "Music",
-      "imageUrl": "https://v.qq.com/favicon.ico",
-      "streamUrl": "http://lhttp.qingting.fm/live/21247/64k.mp3",
-      "location": "Yunnan, China",
-      "genre": "Music",
       "countryCode": "CN",
       "language": "chinese",
       "clickCount": 0,
@@ -27235,6 +27183,18 @@
       "clickCount": 2,
       "bitrate": 874,
       "streamUrl": "http://web.archive.org/web/20201128202306if_/https://live-cdn.pbskids.org/out/u/est.m3u8"
+    },
+    {
+      "id": "station_cn_a8ec4062",
+      "title": "全国党员干部现代远程教育",
+      "subtitle": "Public Radio",
+      "location": "China",
+      "genre": "Public Radio",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 3,
+      "bitrate": 900,
+      "streamUrl": "https://12371wbndks.v.kcdnvip.com/12371wbnd/dangyuanwang_2/index.m3u8"
     }
   ]
 }
