@@ -1,6 +1,6 @@
 {
-  "version": 59,
-  "updated": "2026-10-09T10:25:19Z",
+  "version": 60,
+  "updated": "2026-10-10T09:44:36Z",
   "stations": [
     {
       "id": "80s80s_radio_de_9adaa6e1",
@@ -325,15 +325,6 @@
       "genre": "Folk Music",
       "streamUrl": "http://myradio24.org/69366",
       "countryCode": "KP"
-    },
-    {
-      "id": "radio_okapi_cd_d4ada5d0",
-      "title": "Radio Okapi",
-      "subtitle": "MP3",
-      "location": "The Democratic Republic Of The Congo",
-      "genre": "Informations",
-      "streamUrl": "http://rs1.radiostreamer.com:8000/listen.pls;?type=http&nocache=1353",
-      "countryCode": "CD"
     },
     {
       "id": "cliamp_lofi_hip_hop_radio_no_d0a17fd6",
@@ -2242,15 +2233,6 @@
       "genre": "Radio",
       "streamUrl": "http://streams.extrafm.hr:8110/stream?2701",
       "countryCode": "HR"
-    },
-    {
-      "id": "jovem_pan_fm_curitiba_103_9_br_00e5d016",
-      "title": "Jovem pan FM Curitiba 103,9",
-      "subtitle": "AAC+",
-      "location": "Parana, Brazil",
-      "genre": "Jovem",
-      "streamUrl": "https://f108.fabricahost.com.br/jpcuritiba?f=1789554840N01M2MWFNCVA9BETPJSJCJCBYXP&tid=01M2MWFNCVFFB8XAWYFMFB0AVN",
-      "countryCode": "BR"
     },
     {
       "id": "love_radio_bacolod_ph_f88db876",
@@ -5427,15 +5409,6 @@
       "countryCode": "TH"
     },
     {
-      "id": "cope_albacete_es_655ea347",
-      "title": "COPE Albacete",
-      "subtitle": "MP3",
-      "location": "Spain",
-      "genre": "Albacete",
-      "streamUrl": "https://wecast02-o-cloud.flumotion.com/copesedes/albacete.mp3",
-      "countryCode": "ES"
-    },
-    {
       "id": "90s90s_in_the_mix_de_f83518d5",
       "title": "90s90s In The Mix",
       "subtitle": "MP3",
@@ -5755,15 +5728,6 @@
       "location": "Unknown",
       "genre": "Metal",
       "streamUrl": "http://79.111.14.76:8002/numetal"
-    },
-    {
-      "id": "cope_santander_es_87226671",
-      "title": "COPE Santander",
-      "subtitle": "MP3",
-      "location": "Cantabria, Spain",
-      "genre": "Entertainment",
-      "streamUrl": "http://wecast03-o-cloud.flumotion.com/copesedes/santander.mp3",
-      "countryCode": "ES"
     },
     {
       "id": "radio_srf_1_basel_baselland_ch_442109e4",
@@ -6282,15 +6246,6 @@
       "genre": "Dance",
       "streamUrl": "http://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/62d81cfbbfbcee0837ba1b60",
       "countryCode": "PY"
-    },
-    {
-      "id": "94_8_xfm_kampala_ug_7023d58e",
-      "title": "94.8 XFM Kampala",
-      "subtitle": "MP3",
-      "location": "Kampala, Uganda",
-      "genre": "Hits",
-      "streamUrl": "http://stream.hydeinnovations.com:2020/stream/xfm/stream",
-      "countryCode": "UG"
     },
     {
       "id": "q_foute_radio_be_f5841a54",
@@ -6854,15 +6809,6 @@
       "genre": "Dance",
       "streamUrl": "https://le303.euddn.net/c49b12fd0afbb66fd47f0acc7ce5248d59bee242ea8ab3f7b3502e22ef0b8dbd4323dcebd5cdd7a12ed2bc4a5c4ab18a4902b767b677cd2bc69874994c95486902df73e7988cb8c774077b8df1eac85d67c164cccd7a7ab22302190b8d7ff9b0675583f41b12a774c779bbb7c258e97d6eb236e0e37a732ff56347c702fbd241c3569fd4cf59630ec0470e36e1486de7b777d5c97807343a37a47cf9114168bffdf2e56f9559aa14d81d423621dea7db/duodance.aac",
       "countryCode": "EE"
-    },
-    {
-      "id": "cope_santander_es_9fa2aabb",
-      "title": "COPE Santander",
-      "subtitle": "MP3",
-      "location": "Cantabria, Spain",
-      "genre": "Entertainment",
-      "streamUrl": "http://wecast08-o-cloud.flumotion.com/copesedes/santander.mp3",
-      "countryCode": "ES"
     },
     {
       "id": "rfi_xx_e0b50717",
@@ -7792,6 +7738,68 @@
       "location": "France",
       "genre": "Hls",
       "streamUrl": "https://stream.radiofrance.fr/fip/fip.m3u8",
+      "countryCode": "FR"
+    },
+    {
+      "id": "iran_on_air_ir_6c0f7fb3",
+      "title": "Iran On Air",
+      "subtitle": "AAC+",
+      "location": "Tehran, Islamic Republic Of Iran",
+      "genre": "Radio",
+      "streamUrl": "http://ice41.securenetsystems.net/KIRN",
+      "countryCode": "IR"
+    },
+    {
+      "id": "rai_isoradio_it_7dc1e834",
+      "title": "Rai Isoradio",
+      "subtitle": "MP3",
+      "location": "Lazio, Italy",
+      "genre": "Public Radio",
+      "streamUrl": "http://icestreaming.rai.it/6.mp3",
+      "countryCode": "IT"
+    },
+    {
+      "id": "radio_bob_livestream_hessen_de_3e11437f",
+      "title": "Radio Bob! Livestream Hessen",
+      "subtitle": "MP3",
+      "location": "Germany",
+      "genre": "Radio",
+      "streamUrl": "http://regiocast.streamabc.net/regc-boblivehessen-mp3-192-4115873?sABC=6noqo957%230%23r30o443r1929r059s085628511796n57%23fgernzf.enqvbobo.qr&aw_0_1st.playerid=streams.radiobob.de&amsparams=playerid:streams.radiobob.de;skey:1790818647",
+      "countryCode": "DE"
+    },
+    {
+      "id": "lbc_uk_xx_f2a43ea3",
+      "title": "LBC - UK",
+      "subtitle": "AAC",
+      "location": "London",
+      "genre": "Radio",
+      "streamUrl": "http://media-sov.musicradio.com/LBCUK?"
+    },
+    {
+      "id": "chante_france_80_s_fr_00ffcdf2",
+      "title": "Chante France 80's",
+      "subtitle": "MP3",
+      "location": "France",
+      "genre": "Chansons Françaises",
+      "streamUrl": "https://chantefrance80s.ice.infomaniak.ch/chantefrance80s-128.mp3",
+      "countryCode": "FR"
+    },
+    {
+      "id": "i_love_hardstyle_de_53e5b6ed",
+      "title": "I love Hardstyle",
+      "subtitle": "MP3",
+      "location": "Germany",
+      "genre": "Radio",
+      "streamUrl": "https://ilm.stream12.radiohost.de/ilm_ilovehardstyle_mp3-192?upd-meta&upd-scheme=https&_art=dD0xNzkwODI3MTE4JmQ9ZDcyNmZkMmNiZWI3MDk0NTQ3Y2Q",
+      "countryCode": "DE"
+    },
+    {
+      "id": "fip_rock_fr_9d5c04ed",
+      "title": "FIP Rock",
+      "subtitle": "AAC",
+      "location": "France",
+      "genre": "Rock",
+      "streamUrl": "https://stream.radiofrance.fr/fiprock/fiprock.m3u8?id=radiofrance",
       "countryCode": "FR"
     }
   ]
