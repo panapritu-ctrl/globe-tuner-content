@@ -1,6 +1,6 @@
 {
-  "version": 60,
-  "updated": "2026-10-10T09:44:36Z",
+  "version": 61,
+  "updated": "2026-10-11T09:57:39Z",
   "stations": [
     {
       "id": "80s80s_radio_de_9adaa6e1",
@@ -82,15 +82,6 @@
       "genre": "Radio",
       "streamUrl": "http://25703.live.streamtheworld.com/PROGRAM1AAC_SC",
       "countryCode": "HR"
-    },
-    {
-      "id": "kalika_fm_95_2_fm_np_1ed45adf",
-      "title": "Kalika FM 95.2 FM",
-      "subtitle": "MP3",
-      "location": "Nepal",
-      "genre": "Radio",
-      "streamUrl": "https://streaming.softnep.net:10828/stream",
-      "countryCode": "NP"
     },
     {
       "id": "dr_p3_dk_6f6463e6",
@@ -5917,15 +5908,6 @@
       "countryCode": "EE"
     },
     {
-      "id": "radiks_fm_semarang_id_b7bc1fd8",
-      "title": "RADIKS FM SEMARANG",
-      "subtitle": "AAC+",
-      "location": "Semarang, Indonesia",
-      "genre": "Dangdut",
-      "streamUrl": "https://i.klikhost.com:9620/stream",
-      "countryCode": "ID"
-    },
-    {
       "id": "el_fon_grafo_m_sica_las_24_horas_mx_ab794a6a",
       "title": "EL FONÓGRAFO: Música las 24 Horas",
       "subtitle": "AAC+",
@@ -7800,6 +7782,50 @@
       "location": "France",
       "genre": "Rock",
       "streamUrl": "https://stream.radiofrance.fr/fiprock/fiprock.m3u8?id=radiofrance",
+      "countryCode": "FR"
+    },
+    {
+      "id": "toggo_radio_de_4593fed6",
+      "title": "TOGGO Radio",
+      "subtitle": "MP3",
+      "location": "Germany",
+      "genre": "Children",
+      "streamUrl": "http://radio.toggo.de/live/mp3-192",
+      "countryCode": "DE"
+    },
+    {
+      "id": "fip_cultes_fr_b9931ef6",
+      "title": "Fip Cultes",
+      "subtitle": "UNKNOWN",
+      "location": "France",
+      "genre": "Radio",
+      "streamUrl": "https://stream.radiofrance.fr/fipcultes/fipcultes_hifi.m3u8",
+      "countryCode": "FR"
+    },
+    {
+      "id": "bigfm_xx_197cc600",
+      "title": "BigFM",
+      "subtitle": "MP3",
+      "location": "Unknown",
+      "genre": "Radio",
+      "streamUrl": "http://stream02.iloveradio.de/iloveradio1.mp3"
+    },
+    {
+      "id": "h_rtalk_h_rspiel_radio_de_34ea22e8",
+      "title": "Hörtalk Hörspiel Radio",
+      "subtitle": "MP3",
+      "location": "Germany",
+      "genre": "Hörspiel",
+      "streamUrl": "http://hoerspiel.stream.laut.fm/hoerspiel?t302=2026-10-01_03-25-11&uuid=f1ad3316-74a9-d6d1-661b-bdbca03a204c",
+      "countryCode": "DE"
+    },
+    {
+      "id": "fip_fr_b0606bd3",
+      "title": "FIP",
+      "subtitle": "AAC",
+      "location": "France",
+      "genre": "Fip",
+      "streamUrl": "https://stream.radiofrance.fr/fip/fip.m3u8?id=radiofrance",
       "countryCode": "FR"
     }
   ]
