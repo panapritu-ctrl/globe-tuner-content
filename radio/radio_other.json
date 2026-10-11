@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-10T04:20:01Z",
+  "updated": "2026-10-11T03:57:58Z",
   "region": "other",
   "stations": [
     {
@@ -604,18 +604,6 @@
       "clickCount": 0,
       "language": null,
       "curated": true
-    },
-    {
-      "id": "jazz24_aac_64_kbit_us_aee52971",
-      "title": "Jazz24 [AAC/64 kbit]",
-      "subtitle": "Jazz",
-      "location": "The United States Of America",
-      "genre": "Jazz",
-      "countryCode": "US",
-      "language": "english",
-      "clickCount": 8,
-      "bitrate": 64,
-      "streamUrl": "https://knkx-live-a.edge.audiocdn.com/6285_64k"
     },
     {
       "id": "trustfm_au_5bf0127a",
@@ -4782,18 +4770,6 @@
       "streamUrl": "https://icecast.apps.dj/freetechno"
     },
     {
-      "id": "ai_global_news_es_d6ac3c35",
-      "title": "AI Global News",
-      "subtitle": "Radio",
-      "location": "Spain",
-      "genre": "Radio",
-      "countryCode": "ES",
-      "language": null,
-      "clickCount": 5,
-      "bitrate": 0,
-      "streamUrl": "https://aiglobalnewsradio.com/stream.mp3"
-    },
-    {
       "id": "sound_of_hope_australia_cantonese_au_298992ab",
       "title": "Sound of Hope Australia Cantonese",
       "subtitle": "Radio",
@@ -6124,18 +6100,6 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://streaming.radio.co/sea45037f6/listen"
-    },
-    {
-      "id": "essex_estuary_radio_gb_d7dbc337",
-      "title": "Essex estuary radio",
-      "subtitle": "Radio",
-      "location": "The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "Radio",
-      "countryCode": "GB",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 0,
-      "streamUrl": "https://a5.asurahosting.com:9000/radio.mp3"
     },
     {
       "id": "obsradio_mp3_au_50cdc37b",
@@ -11142,18 +11106,6 @@
       "streamUrl": "https://s6.autopo.st/proxy/simplyradio5?mp=/stream"
     },
     {
-      "id": "kcsn_us_3cfe0e23",
-      "title": "KCSN",
-      "subtitle": "Rock",
-      "location": "The United States Of America",
-      "genre": "Rock",
-      "countryCode": "US",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 96,
-      "streamUrl": "https://stream.885fm.org/1"
-    },
-    {
       "id": "freaks_only_fm_us_3da9a496",
       "title": "FREAKS ONLY FM",
       "subtitle": "Disco",
@@ -11656,18 +11608,6 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://streaming.nrjaudio.fm/ou8ovpgk7oiu"
-    },
-    {
-      "id": "france24_fran_ais_fr_1ab4e9e9",
-      "title": "France24 Français",
-      "subtitle": "Information",
-      "location": "France",
-      "genre": "Information",
-      "countryCode": "FR",
-      "language": "french",
-      "clickCount": 4,
-      "bitrate": 105,
-      "streamUrl": "http://static.france24.com/live/F24_FR_LO_HLS/live_audio.m3u8"
     },
     {
       "id": "wrsi_93_9_the_river_us_2dab0e3f",
@@ -20044,6 +19984,30 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "http://bananavision.tv:8000/educational.mp3"
+    },
+    {
+      "id": "mpr_the_current_us_eb84f7f3",
+      "title": "MPR The Current",
+      "subtitle": "Music",
+      "location": "The United States Of America",
+      "genre": "Music",
+      "countryCode": "US",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://current.stream.publicradio.org/kcmp.mp3"
+    },
+    {
+      "id": "salsa_787_el_sabor_de_la_clave_us_d33606fe",
+      "title": "Salsa 787 — El Sabor de la Clave",
+      "subtitle": "Radio",
+      "location": "The United States Of America",
+      "genre": "Radio",
+      "countryCode": "US",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 320,
+      "streamUrl": "https://crowpr-music.ddns.net/listen/salsa_clasica/radio.mp3"
     }
   ]
 }

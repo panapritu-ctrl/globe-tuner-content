@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-10T04:20:01Z",
+  "updated": "2026-10-11T03:57:58Z",
   "region": "africa",
   "stations": [
     {
@@ -697,19 +697,6 @@
       "streamUrl": "https://radioelbahdja.ice.infomaniak.ch/elbahdja.mp3"
     },
     {
-      "id": "rb2_radio_illizi_03680503",
-      "title": "Radio Illizi",
-      "subtitle": "Local Radio",
-      "imageUrl": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---033.png",
-      "streamUrl": "https://radioillizi.ice.infomaniak.ch/illizi.mp3",
-      "location": "Algeria",
-      "genre": "Local Radio",
-      "countryCode": "DZ",
-      "language": "arabic",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_radio_jijel_7a8071ba",
       "title": "Radio Jijel",
       "subtitle": "Local Radio",
@@ -733,19 +720,6 @@
       "countryCode": "DZ",
       "language": "arabic",
       "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_m_sila_d0897199",
-      "title": "Radio M'sila",
-      "subtitle": "Local Radio",
-      "imageUrl": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---028.png",
-      "streamUrl": "https://radiomsila.ice.infomaniak.ch/msila.mp3",
-      "location": "Algeria",
-      "genre": "Local Radio",
-      "countryCode": "DZ",
-      "language": "arabic",
-      "clickCount": 1,
       "bitrate": 128
     },
     {
@@ -802,19 +776,6 @@
       "subtitle": "Local Radio",
       "imageUrl": "https://my.radioalgerie.dz/sites/default/files/2021-10/wilaya---030.png",
       "streamUrl": "https://radioouargla.ice.infomaniak.ch/ouargla.mp3",
-      "location": "Algeria",
-      "genre": "Local Radio",
-      "countryCode": "DZ",
-      "language": "arabic",
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_oum_bouaghi_8de6fbdd",
-      "title": "Radio Oum Bouaghi",
-      "subtitle": "Local Radio",
-      "imageUrl": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---004.png",
-      "streamUrl": "https://radiooumbouaghi.ice.infomaniak.ch/oumbouaghi.mp3",
       "location": "Algeria",
       "genre": "Local Radio",
       "countryCode": "DZ",
@@ -10062,18 +10023,6 @@
       "streamUrl": "https://panel.radiocast.net/listen/secret_of_future/radio.mp3"
     },
     {
-      "id": "omniradio_sheikh_adelrayan_eg_a5af3052",
-      "title": "OmniRadio - SHEIKH AdelRayan (الشيخ عادل ريان)",
-      "subtitle": "Arabic",
-      "location": "Egypt",
-      "genre": "Arabic",
-      "countryCode": "EG",
-      "language": "ar",
-      "clickCount": 7,
-      "bitrate": 128,
-      "streamUrl": "https://radio.xecod.com/station/AdelRayan"
-    },
-    {
       "id": "radio_786_za_62bd3ab8",
       "title": "Radio 786",
       "subtitle": "Radio",
@@ -10096,18 +10045,6 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://radio.xecod.com/station/local-library"
-    },
-    {
-      "id": "express_106_6fm_za_f5527aaf",
-      "title": "Express 106.6FM",
-      "subtitle": "Christian",
-      "location": "South Africa",
-      "genre": "Christian",
-      "countryCode": "ZA",
-      "language": "afrikaans",
-      "clickCount": 8,
-      "bitrate": 128,
-      "streamUrl": "http://198.7.59.28:34235/stream"
     },
     {
       "id": "jazz_et_0041db41",
@@ -10876,6 +10813,18 @@
       "clickCount": 10,
       "bitrate": 0,
       "streamUrl": "https://webradio1.tda.dz:8001/Jeunesse_64K.mp3"
+    },
+    {
+      "id": "express_fm_digital_za_f5527aaf",
+      "title": "Express-FM Digital",
+      "subtitle": "Christian",
+      "location": "South Africa",
+      "genre": "Christian",
+      "countryCode": "ZA",
+      "language": "afrikaans",
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "http://198.7.59.28:34235/stream"
     }
   ]
 }
