@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-11T03:57:24Z",
+  "updated": "2026-10-12T04:20:48Z",
   "region": "europe",
   "part": 5,
   "of": 8,
@@ -10056,19 +10056,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_station_4fa3c805",
-      "title": "Ραδιοφράγματα",
-      "subtitle": "Pop, Rock",
-      "imageUrl": "",
-      "streamUrl": "http://185.86.150.52:8000/live",
-      "location": "Greece",
-      "genre": "Pop",
-      "countryCode": "GR",
-      "language": "greek",
-      "clickCount": 2,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_97_8_f8d081db",
       "title": "Ραδιοφωνία Κισσάβου 97.8",
       "subtitle": "Folk, Greek",
@@ -14155,19 +14142,6 @@
       "language": "hungarian",
       "clickCount": 1,
       "bitrate": 320
-    },
-    {
-      "id": "rb2_euphonic_moments_7f8c2b16",
-      "title": "Euphonic Moments",
-      "subtitle": "Radio",
-      "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_m2M8stb2L_OLmi4fhIKalcjwO2pXXfHSuizY8Fukjc4Q=s900-c-k-c0x00ffffff-no-rj",
-      "streamUrl": "http://5.189.174.137:8000/Euphonicmoments_radio256kbps.mp3",
-      "location": "Budapest, Hungary",
-      "genre": "Radio",
-      "countryCode": "HU",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 256
     },
     {
       "id": "rb2_eur_pa_r_di_miskolc_2b4c964d",
@@ -27685,6 +27659,30 @@
       "clickCount": 8,
       "bitrate": 128,
       "streamUrl": "https://gemradionw.radioca.st/;stream.nsv"
+    },
+    {
+      "id": "christmas_fm_hungary_hu_3d430a5a",
+      "title": "Christmas FM Hungary",
+      "subtitle": "Christmas Music",
+      "location": "Hungary",
+      "genre": "Christmas Music",
+      "countryCode": "HU",
+      "language": "hungarian",
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "https://stream1.christmasfm.hu/live.mp3"
+    },
+    {
+      "id": "n_ta_fm_48k_aac_hu_24f740f6",
+      "title": "Nóta FM - 48k AAC+",
+      "subtitle": "Folk",
+      "location": "Hungary",
+      "genre": "Folk",
+      "countryCode": "HU",
+      "language": "hungarian",
+      "clickCount": 3,
+      "bitrate": 48,
+      "streamUrl": "http://live.notafm.hu:8000/notafm"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-11T03:57:58Z",
+  "updated": "2026-10-12T04:20:48Z",
   "region": "europe",
   "part": 8,
   "of": 8,
@@ -19353,19 +19353,6 @@
       "bitrate": 160
     },
     {
-      "id": "rb2_r_dio_beta_esk_a_slovensk_hity_9121c583",
-      "title": "RÁDIO BETA - České a Slovenské hity",
-      "subtitle": "Cz-Sk",
-      "imageUrl": "https://i.imgur.com/sBlLhc2.png",
-      "streamUrl": "http://109.71.67.102:8000/beta_cspop.mp3",
-      "location": "Slovakia",
-      "genre": "Cz-Sk",
-      "countryCode": "SK",
-      "language": "slovak",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_r_dio_beta_80_90_6a8becdf",
       "title": "RÁDIO BETA 80-90",
       "subtitle": "Radio",
@@ -24882,18 +24869,6 @@
       "streamUrl": "http://79.111.14.76:8002/indianfolk"
     },
     {
-      "id": "promodj_too_deep_ru_877395c8",
-      "title": "PromoDJ - Too Deep",
-      "subtitle": "Deep House",
-      "location": "The Russian Federation",
-      "genre": "Deep House",
-      "countryCode": "RU",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 192,
-      "streamUrl": "http://radio.promodj.com:8000/toodeep-192"
-    },
-    {
       "id": "100_7_fm_ru_3f41528e",
       "title": "Радио Юнитон Новосибирск 100.7 FM",
       "subtitle": "Pop Music",
@@ -24928,18 +24903,6 @@
       "clickCount": 3,
       "bitrate": 0,
       "streamUrl": "https://online.sputnikfm.ru/sputnik_mp3"
-    },
-    {
-      "id": "anima_amoris_idm_ru_d5d3d725",
-      "title": "Anima Amoris IDM",
-      "subtitle": "Radio",
-      "location": "The Russian Federation",
-      "genre": "Radio",
-      "countryCode": "RU",
-      "language": null,
-      "clickCount": 3,
-      "bitrate": 0,
-      "streamUrl": "https://amoris.sknt.ru/idm.mp3"
     },
     {
       "id": "atmosfera_48_ru_5fee0225",
@@ -25480,6 +25443,210 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "https://e10-ll.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/hls_live/index.m3u8"
+    },
+    {
+      "id": "lounge_fm_chill_out_ua_ea2e92e6",
+      "title": "Lounge FM Chill Out",
+      "subtitle": "Chillout",
+      "location": "Ukraine",
+      "genre": "Chillout",
+      "countryCode": "UA",
+      "language": null,
+      "clickCount": 10,
+      "bitrate": 320,
+      "streamUrl": "https://cast.mediaonline.net.ua/chillout320"
+    },
+    {
+      "id": "station_ru_e73dabcf",
+      "title": "Радио СССР",
+      "subtitle": "Ретро",
+      "location": "The Russian Federation",
+      "genre": "Ретро",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 9,
+      "bitrate": 128,
+      "streamUrl": "https://listen2.myradio24.com/ussr"
+    },
+    {
+      "id": "101_ru_modern_talking_ru_805064ca",
+      "title": "101.ru Modern Talking",
+      "subtitle": "Radio",
+      "location": "The Russian Federation",
+      "genre": "Radio",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 8,
+      "bitrate": 0,
+      "streamUrl": "https://srv01.gpmradio.ru/stream/pro/aac/64/115"
+    },
+    {
+      "id": "radio_vibe_ru_e723864d",
+      "title": "Radio Vibe",
+      "subtitle": "Dance",
+      "location": "The Russian Federation",
+      "genre": "Dance",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 7,
+      "bitrate": 0,
+      "streamUrl": "http://live.lofiradio.ru:8000/vibe_mp3_320"
+    },
+    {
+      "id": "lofi_ru_9febedc8",
+      "title": "loFi Радио",
+      "subtitle": "Chill",
+      "location": "The Russian Federation",
+      "genre": "Chill",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 5,
+      "bitrate": 320,
+      "streamUrl": "http://live.lofiradio.ru:8000/lofi_mp3_320"
+    },
+    {
+      "id": "bri_dge_tv_ru_10da3caf",
+      "title": "BRİDGE TV",
+      "subtitle": "Pop Music",
+      "location": "The Russian Federation",
+      "genre": "Pop Music",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "http://stream.mcquack.net/318/index.m3u8"
+    },
+    {
+      "id": "retro_ru_2868f429",
+      "title": "retro",
+      "subtitle": "Pop",
+      "location": "The Russian Federation",
+      "genre": "Pop",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://retro.hostingradio.ru:8043/retro256.mp3"
+    },
+    {
+      "id": "asmr_ru_17a2c5c0",
+      "title": "Радио ASMR - Массаж для ваших ушей!😍",
+      "subtitle": "Asmr",
+      "location": "The Russian Federation",
+      "genre": "Asmr",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 4,
+      "bitrate": 320,
+      "streamUrl": "http://live.lofiradio.ru:8000/asmr_mp3_320"
+    },
+    {
+      "id": "bri_dge_classi_c_tv_ru_264306cf",
+      "title": "BRİDGE CLASSİC TV",
+      "subtitle": "Classic Hits",
+      "location": "The Russian Federation",
+      "genre": "Classic Hits",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "http://stream.mcquack.net/272/index.m3u8"
+    },
+    {
+      "id": "101_ru_enigma_ru_0a83140b",
+      "title": "101.ru Enigma",
+      "subtitle": "Discography",
+      "location": "The Russian Federation",
+      "genre": "Discography",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 4,
+      "bitrate": 64,
+      "streamUrl": "https://srv01.gpmradio.ru/stream/pro/aac/64/175"
+    },
+    {
+      "id": "101_ru_ennio_morricone_ru_1fb6afb8",
+      "title": "101.ru Ennio Morricone",
+      "subtitle": "Discography",
+      "location": "The Russian Federation",
+      "genre": "Discography",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 4,
+      "bitrate": 64,
+      "streamUrl": "https://srv01.gpmradio.ru/stream/pro/aac/64/395"
+    },
+    {
+      "id": "101_ru_michael_jackson_ru_ed381483",
+      "title": "101.ru Michael Jackson",
+      "subtitle": "Discography",
+      "location": "The Russian Federation",
+      "genre": "Discography",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 4,
+      "bitrate": 64,
+      "streamUrl": "https://srv01.gpmradio.ru/stream/pro/aac/64/52"
+    },
+    {
+      "id": "radio_caprice_progressive_heavy_metal_ru_77c076b0",
+      "title": "Radio Caprice - Progressive Heavy Metal",
+      "subtitle": "Heavy Metal",
+      "location": "The Russian Federation",
+      "genre": "Heavy Metal",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 48,
+      "streamUrl": "http://213.141.131.10:8002/progheavy"
+    },
+    {
+      "id": "naxihouse_hq_ru_492a16ac",
+      "title": "NaxiHouse HQ",
+      "subtitle": "Electronic",
+      "location": "The Russian Federation",
+      "genre": "Electronic",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://naxidigital-house128ssl.streaming.rs:8002/;stream.nsv"
+    },
+    {
+      "id": "lounge_fm_acoustic_ua_5ef1112b",
+      "title": "Lounge FM Acoustic",
+      "subtitle": "Acoustic",
+      "location": "Ukraine",
+      "genre": "Acoustic",
+      "countryCode": "UA",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 320,
+      "streamUrl": "https://cast.mediaonline.net.ua/acoustic320"
+    },
+    {
+      "id": "djfm_dance_ua_b4cc0079",
+      "title": "DJFM DANCE",
+      "subtitle": "Dance",
+      "location": "Ukraine",
+      "genre": "Dance",
+      "countryCode": "UA",
+      "language": "ukrainian",
+      "clickCount": 4,
+      "bitrate": 256,
+      "streamUrl": "https://cast.brg.ua/djfmdance_main_public_mp3_hq"
+    },
+    {
+      "id": "station_ua_8a483ea6",
+      "title": "Українське радіо",
+      "subtitle": "News",
+      "location": "Ukraine",
+      "genre": "News",
+      "countryCode": "UA",
+      "language": "ukrainian",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "http://91.218.213.49:8000/ur1-mp3"
     }
   ]
 }

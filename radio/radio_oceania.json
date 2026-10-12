@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-11T03:57:24Z",
+  "updated": "2026-10-12T04:20:49Z",
   "region": "oceania",
   "stations": [
     {
@@ -17973,18 +17973,6 @@
       "streamUrl": "http://203.118.136.79:88/broadwave.mp3"
     },
     {
-      "id": "fox_news_as_b1da3236",
-      "title": "Fox news",
-      "subtitle": "Radio",
-      "location": "American Samoa",
-      "genre": "Radio",
-      "countryCode": "AS",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 311,
-      "streamUrl": "https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8"
-    },
-    {
       "id": "listnr_sleep_hls_au_51872f43",
       "title": "LiSTNR - Sleep (HLS)",
       "subtitle": "Sleep",
@@ -18163,6 +18151,18 @@
       "clickCount": 3,
       "bitrate": 0,
       "streamUrl": "http://wz0liw.scahw.com.au/live/kids-hits.stream/playlist.m3u8"
+    },
+    {
+      "id": "abc_kids_listen_au_f4b18b9c",
+      "title": "ABC Kids listen",
+      "subtitle": "Children",
+      "location": "Australia",
+      "genre": "Children",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://streaming.abc-cdn.net.au/audio/hls/abcextra.m3u8?source=web"
     }
   ]
 }

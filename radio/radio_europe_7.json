@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-11T03:57:58Z",
+  "updated": "2026-10-12T04:20:48Z",
   "region": "europe",
   "part": 7,
   "of": 8,
@@ -6710,19 +6710,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_oceano_pacifico_3dc62a25",
-      "title": "oceano Pacifico",
-      "subtitle": "Adult Contemporary",
-      "imageUrl": "",
-      "streamUrl": "https://stm7.xradios.com.br:6944/live",
-      "location": "Portugal",
-      "genre": "Adult Contemporary",
-      "countryCode": "PT",
-      "language": "inglés/portugués/español",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_radio_orbital_cea4c68f",
       "title": "radio orbital",
       "subtitle": "Radio",
@@ -7832,19 +7819,6 @@
       "streamUrl": "https://azura.ebsmedia.ro/listen/blues/blues128.mp3",
       "location": "Romania",
       "genre": "Blues",
-      "countryCode": "RO",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_ebs_movie_soundtracks_db61d84c",
-      "title": "EBS | Movie Soundtracks",
-      "subtitle": "Movie Scores, Movie Soundtracks",
-      "imageUrl": "https://ebsradio.ro/stream/img/stream-movies-soundtrack.png",
-      "streamUrl": "https://azura.ebsmedia.ro/listen/movies/movies128.mp3",
-      "location": "Romania",
-      "genre": "Movie Scores",
       "countryCode": "RO",
       "language": null,
       "clickCount": 0,
@@ -24227,18 +24201,6 @@
       "streamUrl": "http://playerservices.streamtheworld.com/api/livestream-redirect/RFM.mp3"
     },
     {
-      "id": "radio_crasna_ro_ee1c1c4c",
-      "title": "Radio Crasna",
-      "subtitle": "Latin Pop",
-      "location": "Romania",
-      "genre": "Latin Pop",
-      "countryCode": "RO",
-      "language": "româna",
-      "clickCount": 2,
-      "bitrate": 128,
-      "streamUrl": "https://radio.ascultatare.ro/8028/stream"
-    },
-    {
       "id": "radio_resita_ro_47662a6d",
       "title": "Radio Resita",
       "subtitle": "Radio",
@@ -25007,18 +24969,6 @@
       "streamUrl": "https://fra-pioneer01.dedicateware.com:2990/;/stream"
     },
     {
-      "id": "deep_house_energy_ro_b71dfb26",
-      "title": "DEEP HOUSE ENERGY",
-      "subtitle": "Deep House",
-      "location": "Romania",
-      "genre": "Deep House",
-      "countryCode": "RO",
-      "language": null,
-      "clickCount": 6,
-      "bitrate": 0,
-      "streamUrl": "https://fra-pioneer01.dedicateware.com:2930//stream"
-    },
-    {
       "id": "eska_2_pl_06be1fe1",
       "title": "ESKA 2",
       "subtitle": "Radio",
@@ -25065,18 +25015,6 @@
       "clickCount": 4,
       "bitrate": 170,
       "streamUrl": "https://streaming-live.rtp.pt/liveradio/antena2opera80a/playlist.m3u8"
-    },
-    {
-      "id": "radio_manele_romania_ro_ee1ca243",
-      "title": "Radio Manele Romania",
-      "subtitle": "Radio",
-      "location": "Romania",
-      "genre": "Radio",
-      "countryCode": "RO",
-      "language": null,
-      "clickCount": 7,
-      "bitrate": 128,
-      "streamUrl": "http://petrecere.fmradiomanele.ro:8123/;stream.nsv"
     },
     {
       "id": "radio_party_bucure_ti_ro_a3e2197b",
@@ -25485,6 +25423,90 @@
       "clickCount": 3,
       "bitrate": 320,
       "streamUrl": "http://antenaradio.org:4560/;stream.nsv"
+    },
+    {
+      "id": "deep_house_energy_ro_bbf780e2",
+      "title": "Deep House Energy",
+      "subtitle": "Deep House",
+      "location": "Romania",
+      "genre": "Deep House",
+      "countryCode": "RO",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "https://fra-pioneer01.dedicateware.com:3410/stream"
+    },
+    {
+      "id": "mind_fuel_radio_ambient_ro_f385887b",
+      "title": "Mind Fuel Radio · Ambient",
+      "subtitle": "24/7",
+      "location": "Romania",
+      "genre": "24/7",
+      "countryCode": "RO",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://141-144-200-199.nip.io/radio.mp3"
+    },
+    {
+      "id": "radio_veselia_folclor_ro_85c48f32",
+      "title": "Radio Veselia Folclor",
+      "subtitle": "Folk",
+      "location": "Romania",
+      "genre": "Folk",
+      "countryCode": "RO",
+      "language": "romanian",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://asculta.radioveseliafolclor.com:8232/;"
+    },
+    {
+      "id": "radio_mackica_narodna_muzika_rs_53b5a0da",
+      "title": "Radio Mackica - Narodna Muzika",
+      "subtitle": "Radio",
+      "location": "Serbia",
+      "genre": "Radio",
+      "countryCode": "RS",
+      "language": "serbian",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://cast2.name.ba:8153/;stream.nsv"
+    },
+    {
+      "id": "naxi_blues_rs_1cabca89",
+      "title": "Naxi Blues",
+      "subtitle": "Rock",
+      "location": "Serbia",
+      "genre": "Rock",
+      "countryCode": "RS",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://naxidigital-blues128ssl.streaming.rs:8312/;stream.nsv"
+    },
+    {
+      "id": "naxi_gold_radio_rs_8a99480e",
+      "title": "Naxi Gold Radio",
+      "subtitle": "Radio",
+      "location": "Serbia",
+      "genre": "Radio",
+      "countryCode": "RS",
+      "language": "serbian",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://naxidigital-gold128ssl.streaming.rs:8062/;stream.nsv"
+    },
+    {
+      "id": "naxi_mix_radio_rs_81201507",
+      "title": "Naxi Mix Radio",
+      "subtitle": "Radio",
+      "location": "Serbia",
+      "genre": "Radio",
+      "countryCode": "RS",
+      "language": "serbian",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://naxidigital-mix128ssl.streaming.rs:8222/;stream.nsv"
     }
   ]
 }

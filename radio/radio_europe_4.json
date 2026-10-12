@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-11T03:57:24Z",
+  "updated": "2026-10-12T04:20:49Z",
   "region": "europe",
   "part": 4,
   "of": 8,
@@ -1447,19 +1447,6 @@
       "language": null,
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_arystation_beyond_reality_f9c3a3e4",
-      "title": "AryStation - Beyond Reality",
-      "subtitle": "All Genres, Country",
-      "imageUrl": "",
-      "streamUrl": "https://a11.asurahosting.com:8740/radio.mp3",
-      "location": "The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "All Genres",
-      "countryCode": "GB",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 192
     },
     {
       "id": "rb2_ashdown_radio_24afa5b0",
@@ -4380,19 +4367,6 @@
       "genre": "Classical",
       "countryCode": "GB",
       "streamUrl": "https://media-ice.musicradio.com/ClassicFMMoviesMP3"
-    },
-    {
-      "id": "rb2_classic_fm_music_for_pets_3485c69f",
-      "title": "Classic FM Music For Pets",
-      "subtitle": "Classic",
-      "imageUrl": "",
-      "streamUrl": "https://media-ssl.musicradio.com/ClassicFM-M-Pets",
-      "location": "The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "Classic",
-      "countryCode": "GB",
-      "language": "english uk",
-      "clickCount": 1,
-      "bitrate": 48
     },
     {
       "id": "classic_fm_relax_gb_ba093e",
@@ -20881,19 +20855,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_ert_christmas_radio_476f290c",
-      "title": "ERT Christmas Radio",
-      "subtitle": "Christmas Music",
-      "imageUrl": "https://www.ertecho.gr/wp-content/uploads/2023/11/Radio-Christmas-358.png",
-      "streamUrl": "https://radiostreaming.ert.gr/ert-seasonal",
-      "location": "Athens, Greece",
-      "genre": "Christmas Music",
-      "countryCode": "GR",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 256
-    },
-    {
       "id": "rb2_ert_florina_96_6_99_1_557f910c",
       "title": "ERT Florina 96.6 99.1",
       "subtitle": "Ert, Public Radio",
@@ -27497,6 +27458,42 @@
       "clickCount": 3,
       "bitrate": 0,
       "streamUrl": "https://stream.bestgreek.info/planetradio"
+    },
+    {
+      "id": "106_8_gr_f5cbee2c",
+      "title": "Γοητεία 106.8",
+      "subtitle": "Greek Traditional",
+      "location": "Greece",
+      "genre": "Greek Traditional",
+      "countryCode": "GR",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://usa8.fastcast4u.com/proxy/billraf/stream:26066/;?download=false"
+    },
+    {
+      "id": "studio_19_gr_1089ee90",
+      "title": "Studio 19",
+      "subtitle": "Greek Hellenic Music",
+      "location": "Greece",
+      "genre": "Greek Hellenic Music",
+      "countryCode": "GR",
+      "language": "greek",
+      "clickCount": 3,
+      "bitrate": 32,
+      "streamUrl": "https://stream.crete.ovh:8443/1"
+    },
+    {
+      "id": "106_9_gr_d0f36952",
+      "title": "Μελωδία 106.9",
+      "subtitle": "Pentecostal",
+      "location": "Greece",
+      "genre": "Pentecostal",
+      "countryCode": "GR",
+      "language": "greek",
+      "clickCount": 3,
+      "bitrate": 80,
+      "streamUrl": "https://sh.onweb.gr/8610/stream"
     }
   ]
 }

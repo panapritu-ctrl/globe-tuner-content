@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-11T03:57:58Z",
+  "updated": "2026-10-12T04:20:48Z",
   "region": "africa",
   "stations": [
     {
@@ -614,32 +614,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_radio_bechar_a9f0abae",
-      "title": "Radio Bechar",
-      "subtitle": "Local Radio",
-      "imageUrl": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---008.png",
-      "streamUrl": "https://radiobechar.ice.infomaniak.ch/bechar.mp3",
-      "location": "Algeria",
-      "genre": "Local Radio",
-      "countryCode": "DZ",
-      "language": "arabic",
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_biskra_ef7af6cd",
-      "title": "Radio Biskra",
-      "subtitle": "Local Radio",
-      "imageUrl": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---007.png",
-      "streamUrl": "https://radiobiskra.ice.infomaniak.ch/biskra.mp3",
-      "location": "Algeria",
-      "genre": "Local Radio",
-      "countryCode": "DZ",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_radio_blida_2800c2aa",
       "title": "Radio Blida",
       "subtitle": "Local News",
@@ -664,15 +638,6 @@
       "language": "arabic",
       "clickCount": 3,
       "bitrate": 128
-    },
-    {
-      "id": "radio_coran_dz_664680",
-      "title": "Radio Coran",
-      "subtitle": "Coran",
-      "location": "Algeria",
-      "genre": "Coran",
-      "streamUrl": "https://radiocoran.ice.infomaniak.ch/coran.mp3",
-      "countryCode": "DZ"
     },
     {
       "id": "rb2_radio_culture_23ae90b4",
@@ -769,19 +734,6 @@
       "genre": "Local Radio",
       "streamUrl": "https://radiooran.ice.infomaniak.ch/oran.mp3",
       "countryCode": "DZ"
-    },
-    {
-      "id": "rb2_radio_ouargla_27101918",
-      "title": "Radio Ouargla",
-      "subtitle": "Local Radio",
-      "imageUrl": "https://my.radioalgerie.dz/sites/default/files/2021-10/wilaya---030.png",
-      "streamUrl": "https://radioouargla.ice.infomaniak.ch/ouargla.mp3",
-      "location": "Algeria",
-      "genre": "Local Radio",
-      "countryCode": "DZ",
-      "language": "arabic",
-      "clickCount": 1,
-      "bitrate": 128
     },
     {
       "id": "rb2_radio_setif_8791da95",
@@ -1545,19 +1497,6 @@
       "language": null,
       "clickCount": 2,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_hello_fm_9e5d55f9",
-      "title": "Hello Fm",
-      "subtitle": "Entertainment, Music",
-      "imageUrl": "https://www.despitemedia.com/images/hello.jpg",
-      "streamUrl": "https://atunwadigital.streamguys1.com/hellofm",
-      "location": "Ghana",
-      "genre": "Entertainment",
-      "countryCode": "GH",
-      "language": "akan",
-      "clickCount": 3,
-      "bitrate": 64
     },
     {
       "id": "rb2_hitz_103_9_fm_4ce69ae9",
@@ -10825,6 +10764,90 @@
       "clickCount": 6,
       "bitrate": 128,
       "streamUrl": "http://198.7.59.28:34235/stream"
+    },
+    {
+      "id": "radio_chaine_3_dz_b5512cd5",
+      "title": "Radio Chaine 3",
+      "subtitle": "Radio",
+      "location": "Algeria",
+      "genre": "Radio",
+      "countryCode": "DZ",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "https://webradio1.tda.dz:8001/Chaine3_64K.mp3"
+    },
+    {
+      "id": "tlemcen_dz_34d277df",
+      "title": "Tlemcen تلمسان",
+      "subtitle": "Local",
+      "location": "Algeria",
+      "genre": "Local",
+      "countryCode": "DZ",
+      "language": "arabic",
+      "clickCount": 5,
+      "bitrate": 64,
+      "streamUrl": "https://webradio1.tda.dz:8001/Tlemcen_64K.mp3"
+    },
+    {
+      "id": "relizane_dz_2b18576d",
+      "title": "Relizane غليزان",
+      "subtitle": "Local",
+      "location": "Algeria",
+      "genre": "Local",
+      "countryCode": "DZ",
+      "language": "arabic",
+      "clickCount": 4,
+      "bitrate": 64,
+      "streamUrl": "https://webradio1.tda.dz:8001/Relizan_64K.mp3"
+    },
+    {
+      "id": "zaman_fm_dz_d5c2695c",
+      "title": "Zaman FM زمان",
+      "subtitle": "Local",
+      "location": "Algeria",
+      "genre": "Local",
+      "countryCode": "DZ",
+      "language": "arabic",
+      "clickCount": 3,
+      "bitrate": 64,
+      "streamUrl": "https://webradio2.tda.dz:8001/Zamen_64K.mp3"
+    },
+    {
+      "id": "bordj_bou_arreridj_dz_4776e11d",
+      "title": "Bordj Bou Arreridj  برج بوعريريج",
+      "subtitle": "Local",
+      "location": "Algeria",
+      "genre": "Local",
+      "countryCode": "DZ",
+      "language": "arabic",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://webradio3.tda.dz:8001/BordjBouArreridj_64K.mp3"
+    },
+    {
+      "id": "tissemsilt_dz_f3bb5db9",
+      "title": "Tissemsilt تسمسيلت",
+      "subtitle": "Local",
+      "location": "Algeria",
+      "genre": "Local",
+      "countryCode": "DZ",
+      "language": "arabic",
+      "clickCount": 3,
+      "bitrate": 64,
+      "streamUrl": "https://webradio2.tda.dz:8001/Tissemssilt_64K.mp3"
+    },
+    {
+      "id": "souk_ahras_dz_0483cab8",
+      "title": "Souk Ahras سوق أهراس",
+      "subtitle": "Local",
+      "location": "Algeria",
+      "genre": "Local",
+      "countryCode": "DZ",
+      "language": "arabic",
+      "clickCount": 3,
+      "bitrate": 64,
+      "streamUrl": "https://webradio2.tda.dz:8001/SoukAhras_64K.mp3"
     }
   ]
 }

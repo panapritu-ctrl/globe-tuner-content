@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-11T03:57:58Z",
+  "updated": "2026-10-12T04:20:48Z",
   "region": "americas",
   "part": 1,
   "of": 5,
@@ -1813,19 +1813,6 @@
       "language": "spanish",
       "clickCount": 0,
       "bitrate": 64
-    },
-    {
-      "id": "rb2_fm_armon_a_105_1_291b48ec",
-      "title": "FM Armonía 105.1",
-      "subtitle": "2000S, 70S",
-      "imageUrl": "https://fmarmonia1051.com/img/logo.png",
-      "streamUrl": "https://radiosar.com:9346/stream",
-      "location": "Argentina",
-      "genre": "2000S",
-      "countryCode": "AR",
-      "language": "spanish",
-      "clickCount": 0,
-      "bitrate": 32
     },
     {
       "id": "rb2_fm_atlantic_105_9_3c74fde5",
@@ -27221,18 +27208,6 @@
       "streamUrl": "https://stm1.glaudiotecnology.uk:7008/stream"
     },
     {
-      "id": "r_dio_biritiba_mirim_br_952c003f",
-      "title": "Rádio Biritiba Mirim",
-      "subtitle": "Brega",
-      "location": "Brazil",
-      "genre": "Brega",
-      "countryCode": "BR",
-      "language": "brazilian portuguese",
-      "clickCount": 4,
-      "bitrate": 128,
-      "streamUrl": "https://stream-177.surfernetwork.com/tfyqrqasfngtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0ZnlxcnFhc2ZuZ3R2IiwiaG9zdCI6InN0cmVhbS0xNzcuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InRVRzRaVURFUXJpZlA3UWJaX2RWYnciLCJpYXQiOjE3OTAwMDMzOTQsImV4cCI6MTc5MDAwMzQ1NH0.3aIVY2fwKN-nd7k0HQpf5dtR5yKPOAUJ7jiP5VtgNYc"
-    },
-    {
       "id": "jovem_pan_fm_salvador_ba_91_3_br_c38d1f52",
       "title": "Jovem Pan FM - Salvador - BA - 91.3",
       "subtitle": "Contemporary Hits Radio",
@@ -27411,18 +27386,6 @@
       "clickCount": 4,
       "bitrate": 96,
       "streamUrl": "http://cdn.instream.audio:9170/stream"
-    },
-    {
-      "id": "cfmk_big_96_3_kingston_on_ca_6d61c8ac",
-      "title": "CFMK \"Big 96.3\" Kingston, ON",
-      "subtitle": "Classic Rock",
-      "location": "Canada",
-      "genre": "Classic Rock",
-      "countryCode": "CA",
-      "language": "english",
-      "clickCount": 4,
-      "bitrate": 128,
-      "streamUrl": "http://live.leanstream.co/CFMKFM-MP3"
     },
     {
       "id": "rock_pop_c_rdoba_fm_87_9_ar_b3deb8be",
@@ -28047,6 +28010,78 @@
       "clickCount": 2,
       "bitrate": 128,
       "streamUrl": "http://centova1.veemesoft.com.ar:8170/live"
+    },
+    {
+      "id": "fresh_fm_1043_aw_b19e1f52",
+      "title": "Fresh FM 1043",
+      "subtitle": "Radio",
+      "location": "Aruba",
+      "genre": "Radio",
+      "countryCode": "AW",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "http://www.coolaruba.com:8006/stream/;"
+    },
+    {
+      "id": "antena_libre_89_1_fm_ar_af81fbcb",
+      "title": "Antena Libre 89.1 FM",
+      "subtitle": "Alternative",
+      "location": "Argentina",
+      "genre": "Alternative",
+      "countryCode": "AR",
+      "language": "spanish",
+      "clickCount": 4,
+      "bitrate": 64,
+      "streamUrl": "https://cdn.instream.audio/:9140/stream"
+    },
+    {
+      "id": "radio_fides_la_paz_bo_e9530f9a",
+      "title": "Radio Fides La Paz",
+      "subtitle": "Noticias",
+      "location": "Bolivia",
+      "genre": "Noticias",
+      "countryCode": "BO",
+      "language": "spanish",
+      "clickCount": 4,
+      "bitrate": 96,
+      "streamUrl": "http://192.95.23.89:6358/stream"
+    },
+    {
+      "id": "vorterix_bah_a_blanca_99_1_fm_ar_617ed979",
+      "title": "Vorterix Bahía Blanca 99.1 FM",
+      "subtitle": "Radio",
+      "location": "Argentina",
+      "genre": "Radio",
+      "countryCode": "AR",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 64,
+      "streamUrl": "https://masservidor.net:7192/stream"
+    },
+    {
+      "id": "eldorado_fm_s_o_paulo_br_2325e844",
+      "title": "Eldorado FM - São Paulo",
+      "subtitle": "Adult Contemporary",
+      "location": "Brazil",
+      "genre": "Adult Contemporary",
+      "countryCode": "BR",
+      "language": "brazilian portuguese",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://eldoradolive01.akamaized.net/hls/live/2041487/eldorado/master.m3u8"
+    },
+    {
+      "id": "dumont_fm_br_20e49d4a",
+      "title": "Dumont FM",
+      "subtitle": "Radio",
+      "location": "Brazil",
+      "genre": "Radio",
+      "countryCode": "BR",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 64,
+      "streamUrl": "https://8402.brasilstream.com.br/stream?origem=cadenaandroid"
     }
   ]
 }
