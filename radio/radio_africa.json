@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-12T04:20:48Z",
+  "updated": "2026-10-13T05:29:36Z",
   "region": "africa",
   "stations": [
     {
@@ -736,19 +736,6 @@
       "countryCode": "DZ"
     },
     {
-      "id": "rb2_radio_setif_8791da95",
-      "title": "Radio Setif",
-      "subtitle": "Local Radio",
-      "imageUrl": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---019.png",
-      "streamUrl": "https://radiosetif.ice.infomaniak.ch/setif.mp3",
-      "location": "Algeria",
-      "genre": "Local Radio",
-      "countryCode": "DZ",
-      "language": "arabic",
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_radio_sidi_bel_abbes_3e440bf8",
       "title": "Radio Sidi Bel Abbes",
       "subtitle": "Local Radio",
@@ -768,15 +755,6 @@
       "location": "Algeria",
       "genre": "Local Radio",
       "streamUrl": "https://radiotamanrasset.ice.infomaniak.ch/tamanrasset.mp3",
-      "countryCode": "DZ"
-    },
-    {
-      "id": "radio_tizi_ouzou_dz_029d41",
-      "title": "Radio Tizi Ouzou",
-      "subtitle": "Radio",
-      "location": "Tizi-Ouzou, Algeria",
-      "genre": "Radio",
-      "streamUrl": "https://radiotiziouzou.ice.infomaniak.ch/tiziouzou.mp3",
       "countryCode": "DZ"
     },
     {
@@ -8930,18 +8908,6 @@
       "streamUrl": "https://live.munir.ly/proxy/almunirtip/stream"
     },
     {
-      "id": "radio_daspoort_za_04182f81",
-      "title": "Radio Daspoort",
-      "subtitle": "Pop Music",
-      "location": "South Africa",
-      "genre": "Pop Music",
-      "countryCode": "ZA",
-      "language": null,
-      "clickCount": 9,
-      "bitrate": 128,
-      "streamUrl": "https://c44.radioboss.fm:8174/stream"
-    },
-    {
       "id": "rcv_radio_cabo_verde_direct_cv_65039499",
       "title": "RCV Radio Cabo Verde direct",
       "subtitle": "Radio",
@@ -9974,18 +9940,6 @@
       "streamUrl": "http://stream.krypton.co.za:8040/stream/"
     },
     {
-      "id": "omniradio_islamic_audio_library_uploads_eg_28e526c8",
-      "title": "OmniRadio - Islamic Audio Library (Uploads) (متنوع)",
-      "subtitle": "Arabic",
-      "location": "Egypt",
-      "genre": "Arabic",
-      "countryCode": "EG",
-      "language": "ar",
-      "clickCount": 4,
-      "bitrate": 128,
-      "streamUrl": "https://radio.xecod.com/station/local-library"
-    },
-    {
       "id": "jazz_et_0041db41",
       "title": "jazz",
       "subtitle": "Jazz",
@@ -10848,6 +10802,150 @@
       "clickCount": 3,
       "bitrate": 64,
       "streamUrl": "https://webradio2.tda.dz:8001/SoukAhras_64K.mp3"
+    },
+    {
+      "id": "nrg_uganda_106_5_ug_34a4e9a5",
+      "title": "NRG Uganda 106.5",
+      "subtitle": "Hiphop",
+      "location": "Uganda",
+      "genre": "Hiphop",
+      "countryCode": "UG",
+      "language": "english",
+      "clickCount": 32,
+      "bitrate": 128,
+      "streamUrl": "https://dc4.serverse.com/proxy/nrgugstream/stream"
+    },
+    {
+      "id": "chaine_1_dz_652056a2",
+      "title": "Chaine 1 القناة الأولى",
+      "subtitle": "Local",
+      "location": "Algeria",
+      "genre": "Local",
+      "countryCode": "DZ",
+      "language": "arabic",
+      "clickCount": 10,
+      "bitrate": 64,
+      "streamUrl": "https://webradio1.tda.dz:8001/Chaine1_64K.mp3"
+    },
+    {
+      "id": "peace_fm_gh_0492beb5",
+      "title": "Peace FM",
+      "subtitle": "Entertainment",
+      "location": "Ghana",
+      "genre": "Entertainment",
+      "countryCode": "GH",
+      "language": "akan",
+      "clickCount": 10,
+      "bitrate": 128,
+      "streamUrl": "https://peacefm-atunwadigital.streamguys1.com/peacefm?amsparams=playerid%3ASGplayer%3Bskey%3A1611468493100%3B&awparams=playerid%3ASGplayer%3Bplayerid%3ASGplayer%3Bplayerid%3ASGplayer%3B&us_privacy=1YNN&us_privacy=1YNN&us_privacy=1YNN"
+    },
+    {
+      "id": "tizi_ouzou_dz_575dc9bd",
+      "title": "Tizi Ouzou  تيزي وزو",
+      "subtitle": "Local",
+      "location": "Algeria",
+      "genre": "Local",
+      "countryCode": "DZ",
+      "language": "arabic",
+      "clickCount": 8,
+      "bitrate": 64,
+      "streamUrl": "https://webradio2.tda.dz:8001/TiziOuzou_64K.mp3"
+    },
+    {
+      "id": "memories_96_5fm_uyo_ng_ac22e6a1",
+      "title": "MEMORIES 96.5FM UYO",
+      "subtitle": "Radio",
+      "location": "Nigeria",
+      "genre": "Radio",
+      "countryCode": "NG",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "https://a5.asurahosting.com:6670/radio.mp3"
+    },
+    {
+      "id": "mila_dz_bf139e81",
+      "title": "Mila ميلة",
+      "subtitle": "Local",
+      "location": "Algeria",
+      "genre": "Local",
+      "countryCode": "DZ",
+      "language": "arabic",
+      "clickCount": 5,
+      "bitrate": 64,
+      "streamUrl": "https://webradio3.tda.dz:8001/Mila_64K.mp3"
+    },
+    {
+      "id": "atl_fm_100_5mhz_gh_a2b4759b",
+      "title": "ATL FM 100.5MHz",
+      "subtitle": "Afrobeats",
+      "location": "Ghana",
+      "genre": "Afrobeats",
+      "countryCode": "GH",
+      "language": "akan",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://atlfm1005.radioca.st/stream?type=http&nocache=231"
+    },
+    {
+      "id": "tindouf_dz_e5a6cdf3",
+      "title": "Tindouf تندوف",
+      "subtitle": "Local",
+      "location": "Algeria",
+      "genre": "Local",
+      "countryCode": "DZ",
+      "language": "arabic",
+      "clickCount": 4,
+      "bitrate": 64,
+      "streamUrl": "https://webradio2.tda.dz:8001/Tindouf_64K.mp3"
+    },
+    {
+      "id": "corleone_radio_eg_ab9ae0da",
+      "title": "Corleone Radio",
+      "subtitle": "Music",
+      "location": "Egypt",
+      "genre": "Music",
+      "countryCode": "EG",
+      "language": "arabic",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "http://198.244.189.86:8000/listen/corleone"
+    },
+    {
+      "id": "godfrey_okoye_university_radio_106_9fm_ng_54c0b63c",
+      "title": "Godfrey Okoye University Radio 106.9fm",
+      "subtitle": "Radio",
+      "location": "Nigeria",
+      "genre": "Radio",
+      "countryCode": "NG",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://us5new.listen2myradio.com:2199/stream.php?port=8178"
+    },
+    {
+      "id": "glow_99_1_fm_akure_ng_e2e7dc2c",
+      "title": "Glow 99.1 FM Akure",
+      "subtitle": "Entertainment",
+      "location": "Nigeria",
+      "genre": "Entertainment",
+      "countryCode": "NG",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream-176.zeno.fm/mwam2yirv1pvv"
+    },
+    {
+      "id": "salazes_fm_re_78ab2362",
+      "title": "Salazes FM",
+      "subtitle": "Créole",
+      "location": "Reunion",
+      "genre": "Créole",
+      "countryCode": "RE",
+      "language": "french",
+      "clickCount": 4,
+      "bitrate": 64,
+      "streamUrl": "https://radiosalazesfm.ice.infomaniak.ch/radiosalazesfm-64.aac"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-12T04:20:14Z",
+  "updated": "2026-10-13T05:29:36Z",
   "region": "europe",
   "part": 3,
   "of": 8,
@@ -6188,15 +6188,6 @@
       "bitrate": 128
     },
     {
-      "id": "tick_tock_radio_1950_fi_ab909b",
-      "title": "Tick Tock Radio - 1950",
-      "subtitle": "1950",
-      "location": "Finland",
-      "genre": "1950",
-      "countryCode": "FI",
-      "streamUrl": "https://streaming.ticktock.radio/tt/1950/icecast.audio"
-    },
-    {
       "id": "rb2_yle_radio_suomi_h_meenlinna_9d79fe27",
       "title": "YLE Radio Suomi Hämeenlinna",
       "subtitle": "Radio",
@@ -7041,19 +7032,6 @@
       "countryCode": "FR",
       "language": null,
       "clickCount": 4,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_abc_loungr_70f16fcd",
-      "title": "ABC-Loungr",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://streaming.radionomy.com/ABC-Lounge",
-      "location": "France",
-      "genre": "Radio",
-      "countryCode": "FR",
-      "language": "french",
-      "clickCount": 2,
       "bitrate": 128
     },
     {
@@ -18421,19 +18399,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_rcf_sud_bretagne_9613a867",
-      "title": "RCF Sud Bretagne",
-      "subtitle": "Christian",
-      "imageUrl": "",
-      "streamUrl": "http://rcf.streamakaci.com/rcf56v.mp3",
-      "location": "Bretagne, France",
-      "genre": "Christian",
-      "countryCode": "FR",
-      "language": "french",
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_rcf_vend_e_9612ab55",
       "title": "RCF Vendée",
       "subtitle": "Christian",
@@ -21421,19 +21386,6 @@
       "language": "french",
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_orca_aad8a5f0",
-      "title": "Radio ORCA",
-      "subtitle": "Radio",
-      "imageUrl": "https://www.radioorca.com/favicon.ico",
-      "streamUrl": "http://radioorca.com/stream",
-      "location": "France",
-      "genre": "Radio",
-      "countryCode": "FR",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 192
     },
     {
       "id": "rb2_radio_octopus_364b1c3c",
@@ -24965,19 +24917,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_la_note_picking_9041efa9",
-      "title": "la note picking",
-      "subtitle": "Guitare",
-      "imageUrl": "https://la-note-picking-radio-05.webself.net/favicon.ico",
-      "streamUrl": "http://streaming.radionomy.com/Acoustic-Guitar",
-      "location": "France",
-      "genre": "Guitare",
-      "countryCode": "FR",
-      "language": "french",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_la_radio_de_jet_0727b188",
       "title": "la radio de Jet",
       "subtitle": "Radio",
@@ -25180,19 +25119,6 @@
       "language": "french",
       "clickCount": 0,
       "bitrate": 320
-    },
-    {
-      "id": "rb2_rjfm_club_80_7e5c14a7",
-      "title": "rjfm club 80",
-      "subtitle": "1980S, 80'S",
-      "imageUrl": "",
-      "streamUrl": "https://listen.radioking.com/radio/2725/stream/72647",
-      "location": "France",
-      "genre": "1980S",
-      "countryCode": "FR",
-      "language": "french",
-      "clickCount": 1,
-      "bitrate": 192
     },
     {
       "id": "rb2_sensuelle_radio_5f8c23d9",
@@ -26134,6 +26060,18 @@
       "clickCount": 5,
       "bitrate": 128,
       "streamUrl": "https://stream.zeno.fm/qgeotx9vzpluv"
+    },
+    {
+      "id": "mtv_uutiset_fi_0f3c712f",
+      "title": "MTV Uutiset",
+      "subtitle": "News",
+      "location": "Finland",
+      "genre": "News",
+      "countryCode": "FI",
+      "language": "finnish",
+      "clickCount": 8,
+      "bitrate": 500,
+      "streamUrl": "https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-12T04:20:48Z",
+  "updated": "2026-10-13T05:29:36Z",
   "region": "europe",
   "part": 8,
   "of": 8,
@@ -8157,19 +8157,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_station_2b1539d8",
-      "title": "Доброе старое радио",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://91.189.162.134:8008/;stream",
-      "location": "The Russian Federation",
-      "genre": "Radio",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 1,
-      "bitrate": 256
-    },
-    {
       "id": "rb2_station_d985390d",
       "title": "Дорожное Радио Танцы по-русски",
       "subtitle": "Поп-Музыка, Танцевальная",
@@ -9143,19 +9130,6 @@
       "language": null,
       "clickCount": 0,
       "bitrate": 160
-    },
-    {
-      "id": "rb2_station_2e2efc6d",
-      "title": "Карибу Арт",
-      "subtitle": "Информационное, Поп-Музыка",
-      "imageUrl": "https://top-radio.ru/assets/image/radio/180/radio-karibu.jpg",
-      "streamUrl": "https://online.karibu.ru/Karibu-Art",
-      "location": "Магадан, The Russian Federation",
-      "genre": "Информационное",
-      "countryCode": "RU",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 192
     },
     {
       "id": "rb2_station_46bdd0b5",
@@ -13991,19 +13965,6 @@
       "countryCode": "RU",
       "language": null,
       "clickCount": 3,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_60_536efa28",
-      "title": "Ретроклуб Радио 60-х",
-      "subtitle": "Ретро",
-      "imageUrl": "https://top-radio.ru/assets/image/radio/180/radio-retroklub-radio-60-h.png",
-      "streamUrl": "https://retroclub.hostingradio.ru/retroclubdbl128.aacp",
-      "location": "Санкт-Петербург, The Russian Federation",
-      "genre": "Ретро",
-      "countryCode": "RU",
-      "language": null,
-      "clickCount": 0,
       "bitrate": 128
     },
     {
@@ -21041,19 +21002,6 @@
       "bitrate": 192
     },
     {
-      "id": "rb2_zfm_27519a87",
-      "title": "ZFM+ (Захид ФМ +)",
-      "subtitle": "Dance, Edm",
-      "imageUrl": "https://zfm.com.ua/images/default_album.jpg",
-      "streamUrl": "https://radio.zfm.com.ua:8443/zfm",
-      "location": "Ukraine",
-      "genre": "Dance",
-      "countryCode": "UA",
-      "language": "ukrainian",
-      "clickCount": 1,
-      "bitrate": 320
-    },
-    {
       "id": "rb2_zakarpattya_fm_101_9_0fc4a565",
       "title": "Zakarpattya FM 101.9",
       "subtitle": "Pop",
@@ -22755,18 +22703,6 @@
       "clickCount": 5,
       "bitrate": 0,
       "streamUrl": "http://radiorecord.hostingradio.ru/groovetribal96.aacp"
-    },
-    {
-      "id": "radio_caprice_industrial_dark_ritual_ambient_ru_afb86d71",
-      "title": "Radio Caprice Industrial/Dark/Ritual Ambient",
-      "subtitle": "Ambient",
-      "location": "The Russian Federation",
-      "genre": "Ambient",
-      "countryCode": "RU",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 48,
-      "streamUrl": "http://79.120.39.202:8002/darkambient"
     },
     {
       "id": "russian_gold_ru_bdae8f29",
@@ -24929,18 +24865,6 @@
       "streamUrl": "https://channels.fonotron.ru:8000/Chan_62_256.mp3"
     },
     {
-      "id": "anima_amoris_deep_tech_house_ru_1c9bcb95",
-      "title": "Anima Amoris Deep Tech House",
-      "subtitle": "Radio",
-      "location": "The Russian Federation",
-      "genre": "Radio",
-      "countryCode": "RU",
-      "language": null,
-      "clickCount": 5,
-      "bitrate": 0,
-      "streamUrl": "https://amoris.sknt.ru/deeptech.mp3"
-    },
-    {
       "id": "radio_caprice_russian_pop_music_80_90_s_ru_29ce51a9",
       "title": "Radio Caprice - Russian Pop music 80-90's",
       "subtitle": "Decades",
@@ -25647,6 +25571,126 @@
       "clickCount": 4,
       "bitrate": 192,
       "streamUrl": "http://91.218.213.49:8000/ur1-mp3"
+    },
+    {
+      "id": "djfm_ua_mp3_256k_ua_813b76b2",
+      "title": "DJFM.UA [MP3 256k]",
+      "subtitle": "Radio",
+      "location": "Ukraine",
+      "genre": "Radio",
+      "countryCode": "UA",
+      "language": "ukrainian",
+      "clickCount": 12,
+      "bitrate": 256,
+      "streamUrl": "https://cast.fex.net/djfm_x"
+    },
+    {
+      "id": "lounge_fm_terrace_ua_e3b2a86b",
+      "title": "Lounge FM Terrace",
+      "subtitle": "Lounge",
+      "location": "Ukraine",
+      "genre": "Lounge",
+      "countryCode": "UA",
+      "language": null,
+      "clickCount": 8,
+      "bitrate": 320,
+      "streamUrl": "https://cast.mediaonline.net.ua/terrace320"
+    },
+    {
+      "id": "powerfm_ua_c5f4d074",
+      "title": "PowerFM",
+      "subtitle": "Information",
+      "location": "Ukraine",
+      "genre": "Information",
+      "countryCode": "UA",
+      "language": "ukrainian",
+      "clickCount": 6,
+      "bitrate": 256,
+      "streamUrl": "https://cast.brg.ua/powerfm_main_public_mp3_hq"
+    },
+    {
+      "id": "rcmdeep_ru_c3d192bc",
+      "title": "RCMdeep",
+      "subtitle": "Radio",
+      "location": "The Russian Federation",
+      "genre": "Radio",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://h.getradio.me/rcmdeep/hls.m3u8"
+    },
+    {
+      "id": "101_ru_world_music_ru_5ab7e634",
+      "title": "101.ru World Music - Музыка Востока",
+      "subtitle": "World Music",
+      "location": "The Russian Federation",
+      "genre": "World Music",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 5,
+      "bitrate": 64,
+      "streamUrl": "https://srv01.gpmradio.ru/stream/pro/aac/64/67"
+    },
+    {
+      "id": "station_ua_f9025829",
+      "title": "Радіо «РЕЙД»",
+      "subtitle": "Alternative",
+      "location": "Ukraine",
+      "genre": "Alternative",
+      "countryCode": "UA",
+      "language": "ukrainian",
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "https://a9.asurahosting.com:7390/radio.mp3"
+    },
+    {
+      "id": "adskoe_radio_ru_77b1f482",
+      "title": "adskoe_radio",
+      "subtitle": "Radio",
+      "location": "The Russian Federation",
+      "genre": "Radio",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://radio.openos.pp.ua/listen/adskoe_radio/radio.mp3"
+    },
+    {
+      "id": "coffee_wave_ru_3f6cff08",
+      "title": "Coffee Wave",
+      "subtitle": "Ai",
+      "location": "The Russian Federation",
+      "genre": "Ai",
+      "countryCode": "RU",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://coffee-wave.ru:8000/aac"
+    },
+    {
+      "id": "897_sk_4e6d891b",
+      "title": "897",
+      "subtitle": "Club",
+      "location": "Slovakia",
+      "genre": "Club",
+      "countryCode": "SK",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://c34.radioboss.fm:8106/stream"
+    },
+    {
+      "id": "fm_ua_289e786d",
+      "title": "Радіо Шлягер FM",
+      "subtitle": "Information",
+      "location": "Ukraine",
+      "genre": "Information",
+      "countryCode": "UA",
+      "language": "ukrainian",
+      "clickCount": 4,
+      "bitrate": 224,
+      "streamUrl": "https://cast.brg.ua/shanson_main_public_mp3_hq"
     }
   ]
 }

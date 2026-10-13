@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-12T04:20:49Z",
+  "updated": "2026-10-13T05:29:36Z",
   "region": "europe",
   "part": 2,
   "of": 8,
@@ -30976,18 +30976,6 @@
       "streamUrl": "https://br-radio.ard-mcdn.de/br/radio/br24/hls/192/seglist.m3u8"
     },
     {
-      "id": "dr_p4_stjylland_aac_dk_86d978b1",
-      "title": "DR P4 Østjylland (AAC)",
-      "subtitle": "Regional Radio",
-      "location": "Denmark",
-      "genre": "Regional Radio",
-      "countryCode": "DK",
-      "language": "danish",
-      "clickCount": 3,
-      "bitrate": 324,
-      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4ostjylland/masterab.m3u8"
-    },
-    {
       "id": "bigfm_balkan_de_071258d8",
       "title": "BigFM Balkan",
       "subtitle": "Pop",
@@ -32006,6 +31994,66 @@
       "clickCount": 3,
       "bitrate": 324,
       "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4nordjylland/masterab.m3u8"
+    },
+    {
+      "id": "mdr_th_ringen_mitte_west_de_1b3cb8fb",
+      "title": "mdr thüringen Mitte/ West",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://f131.rndfnk.com/ard/mdr/284300/0/mp3/128/stream.mp3?cid=01FBQ0VVNFY9PE18EJE73MJAYC&sid=3Kb0QouYIC53yMKaHxjO8uTmA3G&token=1BBbHJNv0C9drhzum4ZtEHhZ8MxFnTGFk2qrGZH4nuM&tvf=yeWoFjXe3RhmMTMxLnJuZGZuay5jb20"
+    },
+    {
+      "id": "harmony_schlager_radio_de_a64dc11f",
+      "title": "HARMONY SCHLAGER RADIO",
+      "subtitle": "80S",
+      "location": "Germany",
+      "genre": "80S",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://mp3.harmonyfm.de/hrmchannels/hqschlager.mp3?aw_0_req.gdpr=true"
+    },
+    {
+      "id": "reyfm_original_64kbps_de_eef7cb21",
+      "title": "REYFM - #original (64kbps)",
+      "subtitle": "Dance",
+      "location": "Germany",
+      "genre": "Dance",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 64,
+      "streamUrl": "https://listen.reyfm.de/original_64kbps.mp3"
+    },
+    {
+      "id": "klassik_radio_barock_free_de_9d558ba8",
+      "title": "Klassik Radio Barock (free)",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://klassikr.streamabc.net/klassikr-barock-mp3-192-7751777?sABC=6npps976%230%230q4o84q69n1os2pp89016op34n8q3o88%23enqvbcynlre&aw_0_1st.playerid=radioplayer&amsparams=playerid:radioplayer;skey:1791818102"
+    },
+    {
+      "id": "rock_antenne_punkrock_de_501a7a37",
+      "title": "Rock Antenne Punkrock",
+      "subtitle": "Hardcore",
+      "location": "Germany",
+      "genre": "Hardcore",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://s3-webradio.rockantenne.de/punkrock/stream/mp3"
     }
   ]
 }

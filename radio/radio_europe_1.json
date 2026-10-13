@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-12T04:20:49Z",
+  "updated": "2026-10-13T05:29:36Z",
   "region": "europe",
   "part": 1,
   "of": 8,
@@ -26743,18 +26743,6 @@
       "streamUrl": "https://live.radiomajevica.com:7520/live"
     },
     {
-      "id": "house_music_radio_bg_83c01333",
-      "title": "House Music Radio",
-      "subtitle": "House",
-      "location": "Bulgaria",
-      "genre": "House",
-      "countryCode": "BG",
-      "language": "american english",
-      "clickCount": 3,
-      "bitrate": 140,
-      "streamUrl": "https://home.radionrg.com/hls/housemusic/live.m3u8"
-    },
-    {
       "id": "antenne_bayern_rockantenne_de_309eeb2c",
       "title": "Antenne Bayern - Rockantenne",
       "subtitle": "Pop",
@@ -30079,18 +30067,6 @@
       "streamUrl": "https://stream.zeno.fm/uc2rmbyhvd5uv"
     },
     {
-      "id": "radio_euronews_bulgaria_bg_814ca419",
-      "title": "Radio Euronews Bulgaria",
-      "subtitle": "News",
-      "location": "Bulgaria",
-      "genre": "News",
-      "countryCode": "BG",
-      "language": "bulgarian",
-      "clickCount": 5,
-      "bitrate": 192,
-      "streamUrl": "https://play.euronews.bg/euronews-high"
-    },
-    {
       "id": "veselina_folk_bg_e97ac5aa",
       "title": "Veselina Folk",
       "subtitle": "Radio",
@@ -31721,6 +31697,78 @@
       "clickCount": 3,
       "bitrate": 128,
       "streamUrl": "https://stream.mbg-hsw.de/radio/8000/radio.mp3"
+    },
+    {
+      "id": "kef_fm_bg_bfafc1bd",
+      "title": "kef.fm",
+      "subtitle": "Folk",
+      "location": "Bulgaria",
+      "genre": "Folk",
+      "countryCode": "BG",
+      "language": "bulgarian",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "http://91.227.77.124/keffm"
+    },
+    {
+      "id": "slow_down_r_dijo_cz_3511eaa0",
+      "title": "Slow Down Rádijo",
+      "subtitle": "Funk",
+      "location": "Czechia",
+      "genre": "Funk",
+      "countryCode": "CZ",
+      "language": "czech",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "http://icecast9.play.cz/slowdown.mp3"
+    },
+    {
+      "id": "station_by_c4818921",
+      "title": "Чайная роза радио",
+      "subtitle": "Radio",
+      "location": "Belarus",
+      "genre": "Radio",
+      "countryCode": "BY",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://s05.volnorez.com/live-app/788219"
+    },
+    {
+      "id": "radio_saw_relax_de_fb51969f",
+      "title": "Radio SAW - Relax",
+      "subtitle": "Chillout",
+      "location": "Germany",
+      "genre": "Chillout",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://stream.saw-musikwelt.de/saw-relax/stream.mp3"
+    },
+    {
+      "id": "radio_saw_region_halle_leipzig_de_61bf6790",
+      "title": "radio SAW Region Halle/Leipzig",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://stream.radiosaw.de/saw-halle-leipzig/mp3-192"
+    },
+    {
+      "id": "1000_oldies_laut_fm_de_06c27b5c",
+      "title": "1000 Oldies - laut.fm",
+      "subtitle": "60Er",
+      "location": "Germany",
+      "genre": "60Er",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://1000oldies.stream.laut.fm/1000oldies"
     }
   ]
 }

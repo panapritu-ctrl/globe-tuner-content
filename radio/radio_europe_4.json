@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-12T04:20:49Z",
+  "updated": "2026-10-13T05:29:36Z",
   "region": "europe",
   "part": 4,
   "of": 8,
@@ -3679,19 +3679,6 @@
       "genre": "Radio",
       "streamUrl": "https://26343.live.streamtheworld.com/SAM04AAC335_SC",
       "countryCode": "GB"
-    },
-    {
-      "id": "rb2_cpr_fm_dab_6f6c5242",
-      "title": "CPR FM (DAB)",
-      "subtitle": "70S, 80S",
-      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyib78ZmTWkMge2PQ1fb08hd8iYYeJm8cvmKOyiQNvcw&s=10",
-      "streamUrl": "http://streams.anytek.co.uk:8345/live",
-      "location": "Kent, The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "70S",
-      "countryCode": "GB",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
     },
     {
       "id": "rb2_cpr_fm_fm_6e43a2c4",
@@ -18942,19 +18929,6 @@
       "bitrate": 256
     },
     {
-      "id": "rb2_alpha_news_106_2_1de391b2",
-      "title": "Alpha News 106.2",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://antares.dribbcast.com/proxy/alpha1062?mp=/stream",
-      "location": "Heraclion, Greece",
-      "genre": "Radio",
-      "countryCode": "GR",
-      "language": "greek",
-      "clickCount": 0,
-      "bitrate": 192
-    },
-    {
       "id": "rb2_alpha_news_35f7bb45",
       "title": "Alpha News Δράμα",
       "subtitle": "Greek, News",
@@ -21799,19 +21773,6 @@
       "language": null,
       "clickCount": 2,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_figaro_discotheque_4294c182",
-      "title": "Figaro Discotheque",
-      "subtitle": "Disco, Italo Disco",
-      "imageUrl": "https://figarodisco.odoo.com/web/image/465-9d3163ba/DALL%C2%B7E%202025-01-22%2013.07.42%20-%20A%20vibrant%20and%20dynamic%20design%20representing%20a%20disco%20theme%20with%20a%20red%20and%20black%20color%20palette.%20The%20image%20features%20a%20retro-style%20disco%20ball%20reflecting%20col.webp",
-      "streamUrl": "https://s2.free-shoutcast.com/stream/18148",
-      "location": "Greece",
-      "genre": "Disco",
-      "countryCode": "GR",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 320
     },
     {
       "id": "rb2_fishbone_ca71d20c",
@@ -24678,19 +24639,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_more_103_9_251ccb90",
-      "title": "More 103.9",
-      "subtitle": "Mainstream, Pop",
-      "imageUrl": "https://static.wixstatic.com/media/9d705d_864fece2e2684d58ab7b880db2768a5a~mv2.png/v1/fill/w_120,h_80,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/9d705d_864fece2e2684d58ab7b880db2768a5a~mv2.png",
-      "streamUrl": "https://free.rcast.net/68849",
-      "location": "Alexandroupolis, Greece",
-      "genre": "Mainstream",
-      "countryCode": "GR",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 192
-    },
-    {
       "id": "rb2_more_fm_103_9_alexandroupoli_1b19cf0b",
       "title": "More Fm 103.9 Alexandroupoli",
       "subtitle": "Radio",
@@ -27494,6 +27442,42 @@
       "clickCount": 3,
       "bitrate": 80,
       "streamUrl": "https://sh.onweb.gr/8610/stream"
+    },
+    {
+      "id": "station_gr_70432f3b",
+      "title": "Ορθοδοξία Ύμνοι",
+      "subtitle": "Ύμνοι",
+      "location": "Greece",
+      "genre": "Ύμνοι",
+      "countryCode": "GR",
+      "language": "greek",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://rasp35.ddnsfree.com:3535/ymnoi"
+    },
+    {
+      "id": "cosmoradio_95_1_gr_d3e54d05",
+      "title": "Cosmoradio 95.1",
+      "subtitle": "Radio",
+      "location": "Greece",
+      "genre": "Radio",
+      "countryCode": "GR",
+      "language": "greek",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://eco.onestreaming.com/proxy/cosmoradio/stream"
+    },
+    {
+      "id": "station_gr_b2ae6a22",
+      "title": "Διαίρεση",
+      "subtitle": "Folk",
+      "location": "Greece",
+      "genre": "Folk",
+      "countryCode": "GR",
+      "language": "greek",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://i4.streams.ovh:8234/live"
     }
   ]
 }

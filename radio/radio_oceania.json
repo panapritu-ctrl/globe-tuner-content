@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-12T04:20:49Z",
+  "updated": "2026-10-13T05:29:36Z",
   "region": "oceania",
   "stations": [
     {
@@ -9122,19 +9122,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_gospel_plus_mp3_b76a4d99",
-      "title": "Gospel Plus (MP3)",
-      "subtitle": "Christian, Christian Music",
-      "imageUrl": "https://i.ibb.co/9y1bNkr/image.jpg",
-      "streamUrl": "http://stream.zeno.fm/8m3ue57r1uhvv",
-      "location": "Australia",
-      "genre": "Christian",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_gove_fm_nhulunbuy_106_9_fm_aac_04c91142",
       "title": "Gove FM - Nhulunbuy - 106.9 FM (AAC+)",
       "subtitle": "Community Radio, Miscellaneous",
@@ -9235,19 +9222,6 @@
       "genre": "India",
       "countryCode": "AU",
       "language": "hindi",
-      "clickCount": 1,
-      "bitrate": 48
-    },
-    {
-      "id": "rb2_harman_radio_australia_hq_95e9ceac",
-      "title": "Harman Radio Australia HQ",
-      "subtitle": "Punjabi, Sikh",
-      "imageUrl": "",
-      "streamUrl": "http://harmanradio.net:8000/channel1_HQ.mp3",
-      "location": "Australia",
-      "genre": "Punjabi",
-      "countryCode": "AU",
-      "language": "punjabi",
       "clickCount": 1,
       "bitrate": 48
     },
@@ -17985,18 +17959,6 @@
       "streamUrl": "http://wz0lic.scahw.com.au/live/sleep.stream/playlist.m3u8"
     },
     {
-      "id": "listnr_50s_hits_hls_au_ee3ffb90",
-      "title": "LiSTNR - 50s Hits (HLS)",
-      "subtitle": "1950S",
-      "location": "Australia",
-      "genre": "1950S",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 3,
-      "bitrate": 0,
-      "streamUrl": "http://wz0liw.scahw.com.au/live/50s-hits.stream/playlist.m3u8"
-    },
-    {
       "id": "radio_burgerfuel_nz_f0722182",
       "title": "Radio BurgerFuel",
       "subtitle": "Alt Rock",
@@ -18163,6 +18125,138 @@
       "clickCount": 3,
       "bitrate": 0,
       "streamUrl": "https://streaming.abc-cdn.net.au/audio/hls/abcextra.m3u8?source=web"
+    },
+    {
+      "id": "fox_news_as_b1da3236",
+      "title": "Fox news",
+      "subtitle": "Radio",
+      "location": "American Samoa",
+      "genre": "Radio",
+      "countryCode": "AS",
+      "language": null,
+      "clickCount": 7,
+      "bitrate": 311,
+      "streamUrl": "https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8"
+    },
+    {
+      "id": "pba_fm_au_043df7fa",
+      "title": "PBA-FM",
+      "subtitle": "Adult Contemporary",
+      "location": "Australia",
+      "genre": "Adult Contemporary",
+      "countryCode": "AU",
+      "language": "australian",
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/5PBAAAC.aac"
+    },
+    {
+      "id": "big_hits_radio_qld_townsville_north_queensland_20220701_au_358dc813",
+      "title": "Big Hits Radio QLD Townsville North Queensland 20220701",
+      "subtitle": "Ballad",
+      "location": "Australia",
+      "genre": "Ballad",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 320,
+      "streamUrl": "https://onlineradiobox.com/json/au/bighits/play?platform=web"
+    },
+    {
+      "id": "abc_radio_national_wa_au_2ede53ee",
+      "title": "ABC Radio National (WA)",
+      "subtitle": "Arts",
+      "location": "Australia",
+      "genre": "Arts",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 115,
+      "streamUrl": "https://streaming.abc-cdn.net.au/audio/hls/rnwa.m3u8?source=web"
+    },
+    {
+      "id": "abc_sport_au_aa100589",
+      "title": "ABC Sport",
+      "subtitle": "Radio",
+      "location": "Australia",
+      "genre": "Radio",
+      "countryCode": "AU",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 56,
+      "streamUrl": "https://abc.streamguys1.com/live/sport/icecast.audio"
+    },
+    {
+      "id": "kiji_104_3_fm_hagatna_guam_gu_02a52253",
+      "title": "KIJI 104.3 FM Hagatna, Guam",
+      "subtitle": "Classic Hits",
+      "location": "Guam",
+      "genre": "Classic Hits",
+      "countryCode": "GU",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 32,
+      "streamUrl": "https://ice10.securenetsystems.net:80/KIJI"
+    },
+    {
+      "id": "abc_radio_goldfields_au_427345c1",
+      "title": "ABC Radio Goldfields",
+      "subtitle": "Local",
+      "location": "Australia",
+      "genre": "Local",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 115,
+      "streamUrl": "https://streaming.abc-cdn.net.au/audio/hls/localgoldfields.m3u8?source=web"
+    },
+    {
+      "id": "abc_jazz_au_186c6ad6",
+      "title": "ABC Jazz",
+      "subtitle": "Blues",
+      "location": "Australia",
+      "genre": "Blues",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 252,
+      "streamUrl": "https://streaming.abc-cdn.net.au/audio/hls/abcjazz.m3u8?source=web"
+    },
+    {
+      "id": "abc_triple_j_nt_au_59d33dcc",
+      "title": "ABC triple j (NT)",
+      "subtitle": "Alternative",
+      "location": "Australia",
+      "genre": "Alternative",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 252,
+      "streamUrl": "https://streaming.abc-cdn.net.au/audio/hls/triplejnt.m3u8?source=web"
+    },
+    {
+      "id": "abc_radio_national_nt_au_dc1ea354",
+      "title": "ABC Radio National (NT)",
+      "subtitle": "Arts",
+      "location": "Australia",
+      "genre": "Arts",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 115,
+      "streamUrl": "https://streaming.abc-cdn.net.au/audio/hls/rnnt.m3u8?source=web"
+    },
+    {
+      "id": "abc_triple_j_hottest_au_04021309",
+      "title": "ABC triple j Hottest",
+      "subtitle": "Alternative",
+      "location": "Australia",
+      "genre": "Alternative",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 252,
+      "streamUrl": "https://streaming.abc-cdn.net.au/audio/hls/triplejhottest.m3u8?source=web"
     }
   ]
 }

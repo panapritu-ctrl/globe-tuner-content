@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-12T04:20:48Z",
+  "updated": "2026-10-13T05:29:36Z",
   "region": "europe",
   "part": 7,
   "of": 8,
@@ -7799,32 +7799,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_ebs_radio_nostalgie_cluj_napoca_75b7d5d0",
-      "title": "EBS Radio Nostalgie -Cluj Napoca",
-      "subtitle": "Nostalgie",
-      "imageUrl": "https://scontent.fotp3-2.fna.fbcdn.net/v/t39.30808-1/424699851_900411308760121_5814278330535517772_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=106&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=4bHHNtcga1oQ7kNvwE1LkAM&_nc_oc=AdqXoNNkiAPFMKZSs5EHuUvph5XfMuD3gmn9mPLn8Fb3XjP02Bn9ztVhFni3M4WQt7rcvvW5xX69vTCFBtdzr45N&_nc_zt=24&_nc_ht=scontent.fotp3-2.fna&_nc_gid=sp4e4LyJ74z3g8DC8ddc8A&_nc_ss=7b289&oh=00_Af7AMVbsN7B5Zf5Q6jGH_r7pf4dXsR3B_jUAyuB7Ektoeg&oe=6A0FBE16",
-      "streamUrl": "https://azura.ebsmedia.ro/listen/nostalgie/nostalgie128.mp3?refresh=1779028768364",
-      "location": "Romania",
-      "genre": "Nostalgie",
-      "countryCode": "RO",
-      "language": "română",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_ebs_blues_e13b81e6",
-      "title": "EBS | Blues",
-      "subtitle": "Blues",
-      "imageUrl": "https://ebsradio.ro/wp-content/themes/ebs/favicons/apple-touch-icon.png",
-      "streamUrl": "https://azura.ebsmedia.ro/listen/blues/blues128.mp3",
-      "location": "Romania",
-      "genre": "Blues",
-      "countryCode": "RO",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_ercis_fm_4e7e7c46",
       "title": "ERCIS FM",
       "subtitle": "Radio",
@@ -10541,19 +10515,6 @@
       "streamUrl": "https://nl1.streamingpulse.com/ssl/KPTV",
       "location": "Mureș, Romania",
       "genre": "Alternative Rock",
-      "countryCode": "RO",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_kibut_94d0c905",
-      "title": "Radio Kibut",
-      "subtitle": "Radio",
-      "imageUrl": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=286,fit=crop,q=95/YKbovyx062TReaqL/radio-kibut-final-A3QraZL1w2HrrpG0.png",
-      "streamUrl": "https://listen.radioking.com/radio/380248/stream/431281",
-      "location": "Romania",
-      "genre": "Radio",
       "countryCode": "RO",
       "language": null,
       "clickCount": 0,
@@ -24153,18 +24114,6 @@
       "streamUrl": "https://play.nicecream.fm/red.aac"
     },
     {
-      "id": "ebs_radio_magyar_zene_cluj_napoca_ro_a2eebd15",
-      "title": "EBS Radio Magyar Zene-Cluj Napoca",
-      "subtitle": "Hungarian Pop Music",
-      "location": "Romania",
-      "genre": "Hungarian Pop Music",
-      "countryCode": "RO",
-      "language": "hungarian",
-      "clickCount": 2,
-      "bitrate": 128,
-      "streamUrl": "https://azura.ebsmedia.ro/listen/hungarian/hungarian128.mp3?refresh=1779029332085"
-    },
-    {
       "id": "center_deejay_bra_ov_dj_radio_romania_ro_f2d1f32f",
       "title": "Center Deejay Brașov -DJ Radio Romania",
       "subtitle": "Dance",
@@ -24777,18 +24726,6 @@
       "streamUrl": "https://an02.cdn.eurozet.pl/ANTGRE.mp3"
     },
     {
-      "id": "naxi_exyu_radio_rs_cd758bf6",
-      "title": "Naxi ExYu Radio",
-      "subtitle": "Radio",
-      "location": "Serbia",
-      "genre": "Radio",
-      "countryCode": "RS",
-      "language": "serbian",
-      "clickCount": 17,
-      "bitrate": 128,
-      "streamUrl": "https://naxidigital-exyu128ssl.streaming.rs:8242/;stream.nsv"
-    },
-    {
       "id": "beat_city_wroc_aw_pl_516fc241",
       "title": "Beat City Wrocław",
       "subtitle": "City Radio",
@@ -24799,18 +24736,6 @@
       "clickCount": 7,
       "bitrate": 192,
       "streamUrl": "https://radio.beatcity.pl/listen/beat_city_wroclaw/radio.mp3"
-    },
-    {
-      "id": "naxi_latino_radio_rs_4f7caa9f",
-      "title": "Naxi Latino Radio",
-      "subtitle": "Radio",
-      "location": "Serbia",
-      "genre": "Radio",
-      "countryCode": "RS",
-      "language": "serbian",
-      "clickCount": 7,
-      "bitrate": 128,
-      "streamUrl": "https://naxidigital-latino128ssl.streaming.rs:8232/;stream.nsv"
     },
     {
       "id": "beat_city_ole_nica_pl_1276a61f",
@@ -25507,6 +25432,126 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://naxidigital-mix128ssl.streaming.rs:8222/;stream.nsv"
+    },
+    {
+      "id": "naxi_exyu_radio_rs_cd758bf6",
+      "title": "Naxi ExYu Radio",
+      "subtitle": "Radio",
+      "location": "Serbia",
+      "genre": "Radio",
+      "countryCode": "RS",
+      "language": "serbian",
+      "clickCount": 19,
+      "bitrate": 128,
+      "streamUrl": "https://naxidigital-exyu128ssl.streaming.rs:8242/;stream.nsv"
+    },
+    {
+      "id": "76_8_oceano_pacifico_pt_af88aa98",
+      "title": "76,8 OCEANO PACIFICO",
+      "subtitle": "Popular",
+      "location": "Portugal",
+      "genre": "Popular",
+      "countryCode": "PT",
+      "language": "portuguese",
+      "clickCount": 6,
+      "bitrate": 96,
+      "streamUrl": "https://cp-1.owh.radio.br/listen/owh_s35225/radio-mp3"
+    },
+    {
+      "id": "anima_amoris_idm_ru_d5d3d725",
+      "title": "Anima Amoris IDM",
+      "subtitle": "Radio",
+      "location": "The Russian Federation",
+      "genre": "Radio",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "https://amoris.sknt.ru/idm.mp3"
+    },
+    {
+      "id": "r_dio_calheta_pt_65b45fe5",
+      "title": "Rádio Calheta",
+      "subtitle": "Radio",
+      "location": "Portugal",
+      "genre": "Radio",
+      "countryCode": "PT",
+      "language": "portuguese",
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "https://player.radiocalheta.pt/listen/radiocalheta/live"
+    },
+    {
+      "id": "r_dio_clube_pa_os_de_ferreira_101_8_fm_pt_4ccffc33",
+      "title": "Rádio Clube Paços de Ferreira 101.8 FM",
+      "subtitle": "1980S",
+      "location": "Portugal",
+      "genre": "1980S",
+      "countryCode": "PT",
+      "language": "portuguese",
+      "clickCount": 5,
+      "bitrate": 96,
+      "streamUrl": "https://servidor15-3.brlogic.com:7088/live?source=15118"
+    },
+    {
+      "id": "radio_petrec_retzu_ro_7009cace",
+      "title": "Radio Petrecăretzu",
+      "subtitle": "Etno",
+      "location": "Romania",
+      "genre": "Etno",
+      "countryCode": "RO",
+      "language": "romanian",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "http://live.radiopetrecaretzu.ro:8383/;"
+    },
+    {
+      "id": "g_os_nadziei_pl_e34b8099",
+      "title": "Głos Nadziei",
+      "subtitle": "Christian Praise&Worship",
+      "location": "Poland",
+      "genre": "Christian Praise&Worship",
+      "countryCode": "PL",
+      "language": "polish",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://ssl-1.radiohost.pl:9548/index"
+    },
+    {
+      "id": "r_dio_marinahais_pt_33cc4601",
+      "title": "Rádio Marinahais",
+      "subtitle": "Radio",
+      "location": "Portugal",
+      "genre": "Radio",
+      "countryCode": "PT",
+      "language": "portuguêsa",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://radios2.justweb.pt/8052/stream"
+    },
+    {
+      "id": "jovembsk_pt_2191f70d",
+      "title": "jovembsk",
+      "subtitle": "Pop",
+      "location": "Portugal",
+      "genre": "Pop",
+      "countryCode": "PT",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream-42.zeno.fm/ppgb4k7vhqztv?zs=c_kj97VBTyuKVVdB2EEdEg"
+    },
+    {
+      "id": "old_radio_64_ru_17a1db1a",
+      "title": "Старое радио - Old Radio 64",
+      "subtitle": "Radiodrama",
+      "location": "The Russian Federation",
+      "genre": "Radiodrama",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://195.91.237.50:8000/ices64"
     }
   ]
 }
