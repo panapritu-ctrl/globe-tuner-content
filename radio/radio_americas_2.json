@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-13T05:29:36Z",
+  "updated": "2026-10-14T03:34:59Z",
   "region": "americas",
   "part": 2,
   "of": 5,
@@ -12037,19 +12037,6 @@
       "genre": "Jazz",
       "streamUrl": "http://cityradio.ddns.net:8000/cityradio48flac",
       "countryCode": "CL"
-    },
-    {
-      "id": "rb2_city_radio_pop_chile_fbcd8ad6",
-      "title": "City Radio POP - Chile",
-      "subtitle": "Radio",
-      "imageUrl": "http://www.cityradiochile.com/index_htm_files/3.jpg",
-      "streamUrl": "http://cityradio.ddns.net:8000/citypop",
-      "location": "Chile",
-      "genre": "Radio",
-      "countryCode": "CL",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 1536
     },
     {
       "id": "concierto_cl",
@@ -25460,18 +25447,6 @@
       "streamUrl": "https://live.leanstream.co/AIR1700"
     },
     {
-      "id": "radio_colina_107_3_fm_cl_59bb2b9a",
-      "title": "Radio Colina 107.3 FM",
-      "subtitle": "Radio",
-      "location": "Chile",
-      "genre": "Radio",
-      "countryCode": "CL",
-      "language": "spanish",
-      "clickCount": 3,
-      "bitrate": 128,
-      "streamUrl": "https://streaming01.xhost.cl/8156/stream"
-    },
-    {
       "id": "cabin_radio_ca_99989072",
       "title": "Cabin Radio",
       "subtitle": "Radio",
@@ -27608,18 +27583,6 @@
       "streamUrl": "https://centova.radioservers.biz/proxy/cktpradi/stream"
     },
     {
-      "id": "ckwf_101_5_the_wolf_peterborough_ca_ae1def2b",
-      "title": "CKWF 101.5 \"The Wolf\" Peterborough",
-      "subtitle": "Commercial",
-      "location": "Canada",
-      "genre": "Commercial",
-      "countryCode": "CA",
-      "language": "english",
-      "clickCount": 3,
-      "bitrate": 128,
-      "streamUrl": "http://live.leanstream.co/CKWFFM-MP3"
-    },
-    {
       "id": "cbc_radio_one_fredericton_nb_mp3_stream_ca_359a179f",
       "title": "CBC Radio One - Fredericton, NB (MP3 stream)",
       "subtitle": "Features",
@@ -28230,6 +28193,90 @@
       "clickCount": 3,
       "bitrate": 128,
       "streamUrl": "https://radio.libelulachile.cl/listen/rec/radio.mp3"
+    },
+    {
+      "id": "highway_country_radio_ca_57712431",
+      "title": "Highway Country Radio",
+      "subtitle": "Radio",
+      "location": "Canada",
+      "genre": "Radio",
+      "countryCode": "CA",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 320,
+      "streamUrl": "https://puma.streemlion.com:2125/stream"
+    },
+    {
+      "id": "the_taint_ca_6c02862e",
+      "title": "The Taint",
+      "subtitle": "Metal",
+      "location": "Canada",
+      "genre": "Metal",
+      "countryCode": "CA",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 192,
+      "streamUrl": "https://radio.thetaint.ca/listen/the_taint/radio.mp3"
+    },
+    {
+      "id": "midnight_in_the_desert_art_bell_dopebeat_ca_caf55802",
+      "title": "Midnight in the Desert (Art Bell) - DOPEBEAT",
+      "subtitle": "Radio",
+      "location": "Canada",
+      "genre": "Radio",
+      "countryCode": "CA",
+      "language": "american english",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://radio.dopebeat.xyz/MITD"
+    },
+    {
+      "id": "bpm_96_5_gatineau_ca_508d333a",
+      "title": "BPM 96.5 Gatineau",
+      "subtitle": "Radio",
+      "location": "Canada",
+      "genre": "Radio",
+      "countryCode": "CA",
+      "language": "canadian french",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://26383.live.streamtheworld.com/CFTXFMAAC.aac"
+    },
+    {
+      "id": "bpm_100_9_quebec_ca_b5685a5d",
+      "title": "BPM 100.9 Quebec",
+      "subtitle": "Radio",
+      "location": "Canada",
+      "genre": "Radio",
+      "countryCode": "CA",
+      "language": "canadian french",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://18503.live.streamtheworld.com/CFTXFMAAC.aac"
+    },
+    {
+      "id": "club_dance_chile_cl_a20762b9",
+      "title": "Club Dance Chile",
+      "subtitle": "Dance",
+      "location": "Chile",
+      "genre": "Dance",
+      "countryCode": "CL",
+      "language": "spanish",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://audio.bitsur.cl/8002/stream"
+    },
+    {
+      "id": "ritmo_urbano_cl_cl_6db1f581",
+      "title": "Ritmo Urbano CL",
+      "subtitle": "Variada",
+      "location": "Chile",
+      "genre": "Variada",
+      "countryCode": "CL",
+      "language": "español chile",
+      "clickCount": 3,
+      "bitrate": 320,
+      "streamUrl": "https://stream3.mcvhost.com/ritmourbano25/"
     }
   ]
 }

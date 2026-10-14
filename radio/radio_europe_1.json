@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-13T05:29:36Z",
+  "updated": "2026-10-14T03:34:59Z",
   "region": "europe",
   "part": 1,
   "of": 8,
@@ -24483,19 +24483,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_classic_videogames_radio_e47d51c0",
-      "title": "Classic Videogames RADIO",
-      "subtitle": "Electronic",
-      "imageUrl": "",
-      "streamUrl": "http://195.201.9.210:1541/stream/2/",
-      "location": "Germany",
-      "genre": "Electronic",
-      "countryCode": "DE",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_club_85_e21d6a2d",
       "title": "Club 85",
       "subtitle": "80S, Maxi Hits",
@@ -31769,6 +31756,174 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://1000oldies.stream.laut.fm/1000oldies"
+    },
+    {
+      "id": "club_fm_bamberg_de_2e441ad2",
+      "title": "Club FM Bamberg",
+      "subtitle": "Dance",
+      "location": "Germany",
+      "genre": "Dance",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 9,
+      "bitrate": 192,
+      "streamUrl": "https://stream.clubfm.de/clubfm.mp3"
+    },
+    {
+      "id": "fluxfm_b_funk_64k_mp3_de_bce91d86",
+      "title": "FluxFM B-Funk | 64k MP3",
+      "subtitle": "Contemporary",
+      "location": "Germany",
+      "genre": "Contemporary",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://fluxmusic.api.radiosphere.io/channels/b-funk/stream.mp3?quality=1"
+    },
+    {
+      "id": "jam_fm_berlin_de_b6a4f327",
+      "title": "JAM FM Berlin",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://stream.jam.fm/jamfm-live/mp3-192/konsole/?sabcsid=2089030377&context=fHA6LTE=&aw_0_1st.playerId=web&aw_0_1st.skey=1780259965874&aw_0_1st.playerId=web&aw_0_1st.skey=1780259971256"
+    },
+    {
+      "id": "dasding_vom_hr_de_ae4c1d68",
+      "title": "Dasding vom hr",
+      "subtitle": "Dance",
+      "location": "Germany",
+      "genre": "Dance",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://dispatcher.rndfnk.com/hr/dasding/high"
+    },
+    {
+      "id": "1_oldies_de_1964b973",
+      "title": "1 oldies",
+      "subtitle": "Blues Rock",
+      "location": "Germany",
+      "genre": "Blues Rock",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://1-oldies.stream.laut.fm/1-oldies"
+    },
+    {
+      "id": "bigfm_aac_de_a1f2fc23",
+      "title": "BigFM AAC",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://audiotainment-sw.streamabc.net/atsw-bigfm-aac-128-8938364"
+    },
+    {
+      "id": "laut_fm_djr_de_21092397",
+      "title": "laut.fm DJR",
+      "subtitle": "Afrolatine Lebensfreude",
+      "location": "Germany",
+      "genre": "Afrolatine Lebensfreude",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream.laut.fm/djr"
+    },
+    {
+      "id": "soundweave_revisited_at_4489b248",
+      "title": "Soundweave Revisited",
+      "subtitle": "Ambient",
+      "location": "Austria",
+      "genre": "Ambient",
+      "countryCode": "AT",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://sndwvr.site/love.mp3"
+    },
+    {
+      "id": "mht_radio_petrich_bg_059fcd56",
+      "title": "MHT Radio Petrich",
+      "subtitle": "Radio",
+      "location": "Bulgaria",
+      "genre": "Radio",
+      "countryCode": "BG",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 256,
+      "streamUrl": "https://mht.hopto.org:8444/stream/1"
+    },
+    {
+      "id": "top_fm_bg_ce793ff6",
+      "title": "top.fm",
+      "subtitle": "Chalga",
+      "location": "Bulgaria",
+      "genre": "Chalga",
+      "countryCode": "BG",
+      "language": "bulgarian",
+      "clickCount": 3,
+      "bitrate": 320,
+      "streamUrl": "http://91.227.77.124/topfm"
+    },
+    {
+      "id": "station_bg_6bedf26f",
+      "title": "����� ����������� ����",
+      "subtitle": "Christian Orthodox",
+      "location": "Bulgaria",
+      "genre": "Christian Orthodox",
+      "countryCode": "BG",
+      "language": "bulgarian",
+      "clickCount": 3,
+      "bitrate": 320,
+      "streamUrl": "http://radio.mitropolia-sofia.org:8610/stream"
+    },
+    {
+      "id": "st_rsignal_de_32968fe5",
+      "title": "STÖRSIGNAL",
+      "subtitle": "Dark Phunk",
+      "location": "Germany",
+      "genre": "Dark Phunk",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 3,
+      "bitrate": 96,
+      "streamUrl": "https://eu8.fastcast4u.com/proxy/mindbeated/stream"
+    },
+    {
+      "id": "ella_radio_smooth_uptempo_de_6f011bd4",
+      "title": "Ella Radio - Smooth Uptempo",
+      "subtitle": "Jazz",
+      "location": "Germany",
+      "genre": "Jazz",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 3,
+      "bitrate": 192,
+      "streamUrl": "https://stream.ella-radio.de/ella-smooth-uptempo/mp3-192/?ref=radio-browser"
+    },
+    {
+      "id": "80er_kultnight_de_48827b56",
+      "title": "80ER KULTNIGHT",
+      "subtitle": "80S",
+      "location": "Germany",
+      "genre": "80S",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "http://mp3.harmonyfm.de/hrmchannels/hq80erkultnight.mp3?aw_0_req.gdpr=true"
     }
   ]
 }

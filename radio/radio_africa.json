@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-13T05:29:36Z",
+  "updated": "2026-10-14T03:34:59Z",
   "region": "africa",
   "stations": [
     {
@@ -662,19 +662,6 @@
       "streamUrl": "https://radioelbahdja.ice.infomaniak.ch/elbahdja.mp3"
     },
     {
-      "id": "rb2_radio_jijel_7a8071ba",
-      "title": "Radio Jijel",
-      "subtitle": "Local Radio",
-      "imageUrl": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---018.png",
-      "streamUrl": "https://radiojijel.ice.infomaniak.ch/jijel.mp3",
-      "location": "Algeria",
-      "genre": "Local Radio",
-      "countryCode": "DZ",
-      "language": "arabic",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_radio_laghouat_dd16e206",
       "title": "Radio Laghouat",
       "subtitle": "Local Radio",
@@ -685,19 +672,6 @@
       "countryCode": "DZ",
       "language": "arabic",
       "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_mascara_5c627b72",
-      "title": "Radio Mascara",
-      "subtitle": "Local Radio",
-      "imageUrl": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---029.png",
-      "streamUrl": "https://radiomascara.ice.infomaniak.ch/mascara.mp3",
-      "location": "Algeria",
-      "genre": "Local Radio",
-      "countryCode": "DZ",
-      "language": "arabic",
-      "clickCount": 1,
       "bitrate": 128
     },
     {
@@ -725,15 +699,6 @@
       "language": "arabic",
       "clickCount": 5,
       "bitrate": 128
-    },
-    {
-      "id": "radio_oran_dz_02858e",
-      "title": "Radio Oran",
-      "subtitle": "Local Radio",
-      "location": "Algeria",
-      "genre": "Local Radio",
-      "streamUrl": "https://radiooran.ice.infomaniak.ch/oran.mp3",
-      "countryCode": "DZ"
     },
     {
       "id": "rb2_radio_sidi_bel_abbes_3e440bf8",
@@ -10946,6 +10911,90 @@
       "clickCount": 4,
       "bitrate": 64,
       "streamUrl": "https://radiosalazesfm.ice.infomaniak.ch/radiosalazesfm-64.aac"
+    },
+    {
+      "id": "tamanrasset_dz_ec3cf2b9",
+      "title": "Tamanrasset تمنراست",
+      "subtitle": "Local",
+      "location": "Algeria",
+      "genre": "Local",
+      "countryCode": "DZ",
+      "language": "arabic",
+      "clickCount": 4,
+      "bitrate": 64,
+      "streamUrl": "https://webradio1.tda.dz:8001/Tamanrasset_64K.mp3"
+    },
+    {
+      "id": "boumerd_s_dz_022f1263",
+      "title": "Boumerdès بومرداس",
+      "subtitle": "Local",
+      "location": "Algeria",
+      "genre": "Local",
+      "countryCode": "DZ",
+      "language": "arabic",
+      "clickCount": 4,
+      "bitrate": 64,
+      "streamUrl": "https://webradio2.tda.dz:8001/Boumerdes_64K.mp3"
+    },
+    {
+      "id": "chaine_2_dz_46e39fa4",
+      "title": "Chaine 2 القناة الثانية",
+      "subtitle": "Local",
+      "location": "Algeria",
+      "genre": "Local",
+      "countryCode": "DZ",
+      "language": "arabic",
+      "clickCount": 4,
+      "bitrate": 64,
+      "streamUrl": "https://webradio2.tda.dz:8001/Chaine2_64K.mp3"
+    },
+    {
+      "id": "roots_fm_97_1_ng_69ed6955",
+      "title": "Roots Fm 97.1",
+      "subtitle": "Radio",
+      "location": "Nigeria",
+      "genre": "Radio",
+      "countryCode": "NG",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://live.radioworld.fm/stream/rootsfmabeokuta"
+    },
+    {
+      "id": "interspace_sound_system_ng_233ca018",
+      "title": "InterSpace Sound System",
+      "subtitle": "African",
+      "location": "Nigeria",
+      "genre": "African",
+      "countryCode": "NG",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://radio.interspacemusic.com/stream.mp3"
+    },
+    {
+      "id": "tiaret_dz_7863d7c6",
+      "title": "Tiaret تيارت",
+      "subtitle": "Local",
+      "location": "Algeria",
+      "genre": "Local",
+      "countryCode": "DZ",
+      "language": "arabic",
+      "clickCount": 3,
+      "bitrate": 64,
+      "streamUrl": "https://webradio2.tda.dz:8001/Tiaret_64K.mp3"
+    },
+    {
+      "id": "gharda_a_dz_5792e486",
+      "title": "Ghardaïa غرداية",
+      "subtitle": "Local",
+      "location": "Algeria",
+      "genre": "Local",
+      "countryCode": "DZ",
+      "language": "arabic",
+      "clickCount": 3,
+      "bitrate": 64,
+      "streamUrl": "https://webradio1.tda.dz:8001/Ghardaia_64K.mp3"
     }
   ]
 }

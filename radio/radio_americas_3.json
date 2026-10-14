@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-13T05:29:36Z",
+  "updated": "2026-10-14T03:34:59Z",
   "region": "americas",
   "part": 3,
   "of": 5,
@@ -2887,19 +2887,6 @@
       "language": "spanish",
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_1030_am_ciudad_de_m_xico_1030_am_xeqr_am_011ca8bd",
-      "title": "1030 AM (Ciudad de México) - 1030 AM - XEQR-AM - Grupo Radio Centro - Ciudad de México",
-      "subtitle": "1030, 1030 Am",
-      "imageUrl": "",
-      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/XEQR_AM_SC",
-      "location": "Ciudad de México, Mexico",
-      "genre": "1030",
-      "countryCode": "MX",
-      "language": "spanish",
-      "clickCount": 3,
-      "bitrate": 48
     },
     {
       "id": "rb2_104_9_la_mexicana_ciudad_guzm_n_104_9_fm_ad1a30fb",
@@ -15276,28 +15263,6 @@
       "bitrate": 160
     },
     {
-      "id": "universal_88_1_cdmx_88_1_fm_xhred_fm_gru_mx_fe84d1",
-      "title": "UNIVERSAL 88.1 (CDMX) - 88.1 FM - XHRED-FM - Grupo Radio Centro - Ciudad de México",
-      "subtitle": "88.1 Fm",
-      "location": "Ciudad de México, Mexico",
-      "genre": "News",
-      "countryCode": "MX",
-      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHFO_FMAAC.aac"
-    },
-    {
-      "id": "rb2_universal_ciudad_de_m_xico_88_1_fm_xhred_daa9dfac",
-      "title": "UNIVERSAL Ciudad de México - 88.1 FM - XHRED-FM - Grupo Radio Centro - Ciudad de México",
-      "subtitle": "88.1, 88.1 Fm",
-      "imageUrl": "https://i.iheart.com/v3/re/new_assets/5ef0b2287ec97a064f3322c7",
-      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/XERED_AMAAC.aac",
-      "location": "Ciudad de México, Mexico",
-      "genre": "88.1",
-      "countryCode": "MX",
-      "language": "spanish",
-      "clickCount": 2,
-      "bitrate": 32
-    },
-    {
       "id": "rb2_universal_stereo_online_cdmx_online_www__431b426b",
       "title": "UNIVERSAL STEREO ONLINE (CDMX) - Online - www.universalstereoonline.com - Grupo Radio Centro - Ciudad de México",
       "subtitle": "1970S, 1980'S",
@@ -26311,18 +26276,6 @@
       "streamUrl": "https://servistream.info:8386/stream"
     },
     {
-      "id": "full_techno_com_solo_cl_sico_del_techno_pe_e164b7be",
-      "title": "Full Techno.com solo clásico del techno",
-      "subtitle": "Radio",
-      "location": "Peru",
-      "genre": "Radio",
-      "countryCode": "PE",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 80,
-      "streamUrl": "https://servistream.info:8320/;%20/full%20techno.com"
-    },
-    {
       "id": "tropicalia_93_9fm_py_4eb46942",
       "title": "Tropicalia 93.9FM",
       "subtitle": "Cumbia",
@@ -26669,6 +26622,30 @@
       "clickCount": 4,
       "bitrate": 32,
       "streamUrl": "https://radio.host.com.py:7137/;"
+    },
+    {
+      "id": "radio_central_91_9_fm_gt_b851fd76",
+      "title": "Radio Central 91.9 FM",
+      "subtitle": "Bible",
+      "location": "Guatemala",
+      "genre": "Bible",
+      "countryCode": "GT",
+      "language": "spanish",
+      "clickCount": 3,
+      "bitrate": 32,
+      "streamUrl": "http://live.myradioserver.net:7588/;"
+    },
+    {
+      "id": "radio_bien_etre_fm_ht_e97793c5",
+      "title": "Radio Bien Etre FM",
+      "subtitle": "Caribbean",
+      "location": "Haiti",
+      "genre": "Caribbean",
+      "countryCode": "HT",
+      "language": "creole",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://stream.zeno.fm/zxg8t9gr3f8uv"
     }
   ]
 }

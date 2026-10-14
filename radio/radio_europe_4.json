@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-13T05:29:36Z",
+  "updated": "2026-10-14T03:34:59Z",
   "region": "europe",
   "part": 4,
   "of": 8,
@@ -19636,19 +19636,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_blublu_radio_11f2cbd0",
-      "title": "BluBlu Radio",
-      "subtitle": "Radio",
-      "imageUrl": "https://blublu.gr/wp-content/uploads/2020/12/Blublu-logo.png.webp",
-      "streamUrl": "http://go.radioin.audio:8488/;",
-      "location": "Greece",
-      "genre": "Radio",
-      "countryCode": "GR",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_blue_heart_105_1_21118859",
       "title": "Blue Heart 105.1",
       "subtitle": "Folk, Greek",
@@ -25685,18 +25672,6 @@
       "streamUrl": "http://media-ice.musicradio.com/GoldMP3"
     },
     {
-      "id": "piccadilly_90s_gb_a6bfe868",
-      "title": "Piccadilly 90s",
-      "subtitle": "Radio",
-      "location": "The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "Radio",
-      "countryCode": "GB",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 128,
-      "streamUrl": "https://visual.shoutca.st/stream/8106"
-    },
-    {
       "id": "bbc_tv_gb_29c44c02",
       "title": "BBC tv",
       "subtitle": "News",
@@ -27478,6 +27453,42 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://i4.streams.ovh:8234/live"
+    },
+    {
+      "id": "fly_88_1_gr_938acc2a",
+      "title": "Fly 88.1",
+      "subtitle": "Pop",
+      "location": "Greece",
+      "genre": "Pop",
+      "countryCode": "GR",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://eco.onestreaming.com/proxy/flykriti/stream"
+    },
+    {
+      "id": "heart_94_2_gr_4f409dc2",
+      "title": "Heart 94.2",
+      "subtitle": "Pop",
+      "location": "Greece",
+      "genre": "Pop",
+      "countryCode": "GR",
+      "language": "greek",
+      "clickCount": 3,
+      "bitrate": 192,
+      "streamUrl": "http://netradio.live24.gr/heart942"
+    },
+    {
+      "id": "radio_play_91_5_fm_stereo_gr_xanthi_gr_148699f9",
+      "title": "Radio Play 91.5 Fm Stereo (Gr Xanthi)",
+      "subtitle": "Radio",
+      "location": "Greece",
+      "genre": "Radio",
+      "countryCode": "GR",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://s6.onweb.gr:7026/live"
     }
   ]
 }
