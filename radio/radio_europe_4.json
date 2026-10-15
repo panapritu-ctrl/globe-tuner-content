@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-14T03:34:59Z",
+  "updated": "2026-10-15T03:12:28Z",
   "region": "europe",
   "part": 4,
   "of": 8,
@@ -15296,19 +15296,6 @@
       "bitrate": 192
     },
     {
-      "id": "rb2_sounds_of_christmas_08a83096",
-      "title": "Sounds of Christmas",
-      "subtitle": "Radio",
-      "imageUrl": "https://www.soundsofchristmas.com/uploads/9/4/7/8/9478020/soctree-orig_orig.jpg",
-      "streamUrl": "http://198.27.66.225:8360/stream/1/?esPlayer-mobile&cb=284411.mp3",
-      "location": "The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "Radio",
-      "countryCode": "GB",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_source_fm_6ab88aab",
       "title": "Source FM",
       "subtitle": "Radio",
@@ -17725,19 +17712,6 @@
       "genre": "Local Radio",
       "countryCode": "GB",
       "language": "english",
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_lyme_out_live_5e0b938c",
-      "title": "lyme out live",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://centova87.shoutcastservices.com/proxy/lymeout/stream",
-      "location": "The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "Radio",
-      "countryCode": "GB",
-      "language": "english uk",
       "clickCount": 1,
       "bitrate": 128
     },
@@ -27489,6 +27463,18 @@
       "clickCount": 3,
       "bitrate": 128,
       "streamUrl": "https://s6.onweb.gr:7026/live"
+    },
+    {
+      "id": "ikaria_gr_d31d2f19",
+      "title": "Ikaria",
+      "subtitle": "Music",
+      "location": "Greece",
+      "genre": "Music",
+      "countryCode": "GR",
+      "language": "greek",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "http://stream.radio-ikaria.gr:8000/;?type=http&nocache=4008"
     }
   ]
 }

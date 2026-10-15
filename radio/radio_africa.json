@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-14T03:34:59Z",
+  "updated": "2026-10-15T03:12:28Z",
   "region": "africa",
   "stations": [
     {
@@ -640,19 +640,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_radio_culture_23ae90b4",
-      "title": "Radio Culture",
-      "subtitle": "Radio",
-      "imageUrl": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-09/culture.png",
-      "streamUrl": "https://radioculture.ice.infomaniak.ch/culture.mp3",
-      "location": "Algeria",
-      "genre": "Radio",
-      "countryCode": "DZ",
-      "language": "arabic",
-      "clickCount": 2,
-      "bitrate": 128
-    },
-    {
       "id": "radio_el_bahdja_dz_2de45b",
       "title": "Radio El Bahdja",
       "subtitle": "Radio",
@@ -712,15 +699,6 @@
       "language": "arabic",
       "clickCount": 1,
       "bitrate": 128
-    },
-    {
-      "id": "radio_tamanrasset_dz_924f88",
-      "title": "Radio Tamanrasset",
-      "subtitle": "Local Radio",
-      "location": "Algeria",
-      "genre": "Local Radio",
-      "streamUrl": "https://radiotamanrasset.ice.infomaniak.ch/tamanrasset.mp3",
-      "countryCode": "DZ"
     },
     {
       "id": "ygg_dz_f22c37",
@@ -9113,18 +9091,6 @@
       "streamUrl": "https://stream.radiovexa.com/allos-fm.mp3"
     },
     {
-      "id": "eb_fm_ci_ad4d7252",
-      "title": "EB FM",
-      "subtitle": "Actualités",
-      "location": "Coted Ivoire",
-      "genre": "Actualités",
-      "countryCode": "CI",
-      "language": "american english",
-      "clickCount": 2,
-      "bitrate": 0,
-      "streamUrl": "https://stream.zeno.fm/oy1uo8lwuy9uv"
-    },
-    {
       "id": "jesus_is_lord_radio_ke_be3dc90d",
       "title": "JESUS IS LORD radio",
       "subtitle": "Holiness",
@@ -9519,18 +9485,6 @@
       "clickCount": 4,
       "bitrate": 64,
       "streamUrl": "https://hts02.brascast.com:9288/stream"
-    },
-    {
-      "id": "neat_fm_gh_b2b71baf",
-      "title": "Neat Fm",
-      "subtitle": "Entertainment",
-      "location": "Ghana",
-      "genre": "Entertainment",
-      "countryCode": "GH",
-      "language": "akan",
-      "clickCount": 3,
-      "bitrate": 64,
-      "streamUrl": "https://atunwadigital.streamguys1.com/neatfm"
     },
     {
       "id": "bukedde_fm_ug_c45eac27",
@@ -10673,18 +10627,6 @@
       "streamUrl": "https://webradio1.tda.dz:8001/Jeunesse_64K.mp3"
     },
     {
-      "id": "express_fm_digital_za_f5527aaf",
-      "title": "Express-FM Digital",
-      "subtitle": "Christian",
-      "location": "South Africa",
-      "genre": "Christian",
-      "countryCode": "ZA",
-      "language": "afrikaans",
-      "clickCount": 6,
-      "bitrate": 128,
-      "streamUrl": "http://198.7.59.28:34235/stream"
-    },
-    {
       "id": "radio_chaine_3_dz_b5512cd5",
       "title": "Radio Chaine 3",
       "subtitle": "Radio",
@@ -10995,6 +10937,66 @@
       "clickCount": 3,
       "bitrate": 64,
       "streamUrl": "https://webradio1.tda.dz:8001/Ghardaia_64K.mp3"
+    },
+    {
+      "id": "khenchela_dz_957bbbb6",
+      "title": "Khenchela خنشلة",
+      "subtitle": "Local",
+      "location": "Algeria",
+      "genre": "Local",
+      "countryCode": "DZ",
+      "language": "arabic",
+      "clickCount": 9,
+      "bitrate": 64,
+      "streamUrl": "https://webradio1.tda.dz:8001/Khenchela_64K.mp3"
+    },
+    {
+      "id": "a_n_defla_dz_667a1a46",
+      "title": "Aïn Defla عين الدفلى",
+      "subtitle": "Local",
+      "location": "Algeria",
+      "genre": "Local",
+      "countryCode": "DZ",
+      "language": "arabic",
+      "clickCount": 6,
+      "bitrate": 64,
+      "streamUrl": "https://webradio2.tda.dz:8001/AinDefla_64K.mp3"
+    },
+    {
+      "id": "tipaza_dz_4195d88f",
+      "title": "Tipaza تيبازة",
+      "subtitle": "Local",
+      "location": "Algeria",
+      "genre": "Local",
+      "countryCode": "DZ",
+      "language": "arabic",
+      "clickCount": 3,
+      "bitrate": 64,
+      "streamUrl": "https://webradio2.tda.dz:8001/Tipaza_64K.mp3"
+    },
+    {
+      "id": "hello_fm_gh_cda39590",
+      "title": "Hello Fm",
+      "subtitle": "Entertainment",
+      "location": "Ghana",
+      "genre": "Entertainment",
+      "countryCode": "GH",
+      "language": "akan",
+      "clickCount": 3,
+      "bitrate": 64,
+      "streamUrl": "https://atunwadigital.streamguys1.com/hellofm"
+    },
+    {
+      "id": "hod_radio_ng_2197c8a5",
+      "title": "HOD RADIO",
+      "subtitle": "Radio",
+      "location": "Nigeria",
+      "genre": "Radio",
+      "countryCode": "NG",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 96,
+      "streamUrl": "https://servidor21.brlogic.com:7766/live"
     }
   ]
 }

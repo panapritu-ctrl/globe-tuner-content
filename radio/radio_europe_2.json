@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-14T03:34:59Z",
+  "updated": "2026-10-15T03:12:28Z",
   "region": "europe",
   "part": 2,
   "of": 8,
@@ -30784,18 +30784,6 @@
       "streamUrl": "http://streams.rsa-sachsen.de/rsa-schnarchnase/mp3-192/streams.rsa-sachsen.de/"
     },
     {
-      "id": "dr_p3_aac_dk_c42bfd7b",
-      "title": "DR P3 (AAC)",
-      "subtitle": "Pop",
-      "location": "Denmark",
-      "genre": "Pop",
-      "countryCode": "DK",
-      "language": "danish",
-      "clickCount": 13,
-      "bitrate": 324,
-      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p3/masterab.m3u8"
-    },
-    {
       "id": "aymeva_deep_de_a69882b5",
       "title": "AYMEVA Deep",
       "subtitle": "Chillout",
@@ -30842,18 +30830,6 @@
       "clickCount": 5,
       "bitrate": 0,
       "streamUrl": "https://stream.89.0rtl.de/chill-zone/mp3-256"
-    },
-    {
-      "id": "dr_p8_jazz_aac_dk_5a5bf838",
-      "title": "DR P8 JAZZ (AAC)",
-      "subtitle": "Jazz",
-      "location": "Denmark",
-      "genre": "Jazz",
-      "countryCode": "DK",
-      "language": "danish",
-      "clickCount": 5,
-      "bitrate": 324,
-      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p8jazz/masterab.m3u8"
     },
     {
       "id": "fluxfm_listen_to_berlin_320k_aac_de_d50c633a",
@@ -32210,6 +32186,174 @@
       "clickCount": 3,
       "bitrate": 324,
       "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p5kobenhavn/masterab.m3u8"
+    },
+    {
+      "id": "dr_p3_aac_dk_c42bfd7b",
+      "title": "DR P3 (AAC)",
+      "subtitle": "Pop",
+      "location": "Denmark",
+      "genre": "Pop",
+      "countryCode": "DK",
+      "language": "danish",
+      "clickCount": 9,
+      "bitrate": 324,
+      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p3/masterab.m3u8"
+    },
+    {
+      "id": "wdr2_s_dwestfalen_de_c31c6cb0",
+      "title": "WDR2 Südwestfalen",
+      "subtitle": "Adult Contemporary",
+      "location": "Germany",
+      "genre": "Adult Contemporary",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 6,
+      "bitrate": 102,
+      "streamUrl": "https://wdr-radio.ard-mcdn.de/wdr/radio/wdr2swf/hls/master.m3u8"
+    },
+    {
+      "id": "dr_p8_jazz_aac_dk_5a5bf838",
+      "title": "DR P8 JAZZ (AAC)",
+      "subtitle": "Jazz",
+      "location": "Denmark",
+      "genre": "Jazz",
+      "countryCode": "DK",
+      "language": "danish",
+      "clickCount": 6,
+      "bitrate": 324,
+      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p8jazz/masterab.m3u8"
+    },
+    {
+      "id": "donau_3_fm_de_9d23ed48",
+      "title": "Donau 3 FM",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://frontend.streamonkey.net/donau3fm-live/stream/mp3?aggregator=website"
+    },
+    {
+      "id": "antenne_bayern_apr_s_ski_de_ba2c8b8a",
+      "title": "Antenne Bayern Après Ski",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://s1-webradio.antenne.de/apres-ski/stream/mp3"
+    },
+    {
+      "id": "rpr1_oldies_de_acdf3f53",
+      "title": "RPR1. Oldies",
+      "subtitle": "60Er",
+      "location": "Germany",
+      "genre": "60Er",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://stream.rpr1.de/oldies/mp3-128/radiobrowser"
+    },
+    {
+      "id": "radio_21_g_ttingen_de_d7b03836",
+      "title": "RADIO 21 Göttingen",
+      "subtitle": "Pop",
+      "location": "Germany",
+      "genre": "Pop",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://streams.radio21.de/goettingen/mp3-192/web"
+    },
+    {
+      "id": "nachklang_fm_eins_de_a573a8ba",
+      "title": "Nachklang FM - Eins",
+      "subtitle": "Audio Drama",
+      "location": "Germany",
+      "genre": "Audio Drama",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://eins.nachklang.fm/stream.mp3"
+    },
+    {
+      "id": "radio_deck_1_hamburg_de_0d545297",
+      "title": "Radio Deck 1 Hamburg",
+      "subtitle": "Blues",
+      "location": "Germany",
+      "genre": "Blues",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://rde1.de/192"
+    },
+    {
+      "id": "radioaktiv_campusradio_mannheim_de_a54a195f",
+      "title": "radioaktiv Campusradio (Mannheim)",
+      "subtitle": "Campus Radio",
+      "location": "Germany",
+      "genre": "Campus Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 320,
+      "streamUrl": "http://stream.radioaktiv.org:8233/VeryHiFi"
+    },
+    {
+      "id": "reyfm_hip_hop_gold_de_8c6fed8b",
+      "title": "REYFM - #Hip-Hop Gold",
+      "subtitle": "Hiphop",
+      "location": "Germany",
+      "genre": "Hiphop",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 320,
+      "streamUrl": "https://listen.reyfm.de/reyfm-hip-hop_gold/"
+    },
+    {
+      "id": "bigfm_bayern_de_1333e99d",
+      "title": "bigFM Bayern",
+      "subtitle": "Hip-Hop",
+      "location": "Germany",
+      "genre": "Hip-Hop",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://stream.bigfm.de/bayern/mp3-128/radiobrowser"
+    },
+    {
+      "id": "dnb_band_de_3318caec",
+      "title": "DNB.BAND",
+      "subtitle": "Dnb",
+      "location": "Germany",
+      "genre": "Dnb",
+      "countryCode": "DE",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 192,
+      "streamUrl": "http://45.13.239.248/listen/dnb/radio.mp3"
+    },
+    {
+      "id": "dr_p4_trekanten_aac_dk_a030938a",
+      "title": "DR P4 Trekanten (AAC)",
+      "subtitle": "Regional Radio",
+      "location": "Denmark",
+      "genre": "Regional Radio",
+      "countryCode": "DK",
+      "language": "danish",
+      "clickCount": 3,
+      "bitrate": 324,
+      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4trekanten/masterab.m3u8"
     }
   ]
 }

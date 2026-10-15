@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-14T03:34:59Z",
+  "updated": "2026-10-15T03:12:28Z",
   "region": "europe",
   "part": 7,
   "of": 8,
@@ -4180,19 +4180,6 @@
       "genre": "Alternative",
       "streamUrl": "https://streaming-live.rtp.pt/liveradio/antena380a/playlist.m3u8?DVR",
       "countryCode": "PT"
-    },
-    {
-      "id": "rb2_antena_3_madeira_portugal_070c21d8",
-      "title": "Antena 3 Madeira (Portugal)",
-      "subtitle": "Antena 1, Madeira",
-      "imageUrl": "https://www.celsoazevedo.com/files/2022/11/antena-3-madeira.png",
-      "streamUrl": "https://streaming-live.rtp.pt/liveradio/antena3madeira80a/playlist.m3u8",
-      "location": "Madeira, Portugal",
-      "genre": "Antena 1",
-      "countryCode": "PT",
-      "language": "portuguese",
-      "clickCount": 0,
-      "bitrate": 166
     },
     {
       "id": "rb2_antena_livre_960bcef5",
@@ -25574,6 +25561,18 @@
       "clickCount": 4,
       "bitrate": 320,
       "streamUrl": "http://79.120.12.130:8000/folkdeathmet"
+    },
+    {
+      "id": "sud_constan_a_ro_63806abf",
+      "title": "Sud Constanța",
+      "subtitle": "Etno",
+      "location": "Romania",
+      "genre": "Etno",
+      "countryCode": "RO",
+      "language": "romania",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://asculta.radiosudconstanta.com:8750/stream"
     }
   ]
 }

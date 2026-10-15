@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-14T03:34:59Z",
+  "updated": "2026-10-15T03:12:28Z",
   "region": "europe",
   "part": 8,
   "of": 8,
@@ -15052,19 +15052,6 @@
       "bitrate": 96
     },
     {
-      "id": "rb2_station_1afcfc4b",
-      "title": "Хакасия фм",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://radio.tvrts.ru:8443/kh.mp3",
-      "location": "The Russian Federation",
-      "genre": "Radio",
-      "countryCode": "RU",
-      "language": "язык: русский",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_fm_1dce3b31",
       "title": "Хит FM Двигай Лопес",
       "subtitle": "Поп-Музыка, Танцевальная",
@@ -24036,18 +24023,6 @@
       "streamUrl": "https://stream.bauermedia.sk/expres-hi.mp3"
     },
     {
-      "id": "golden_hits_ua_e710237c",
-      "title": "Радіо Київстар Golden Hits",
-      "subtitle": "256 Kbit/S",
-      "location": "Ukraine",
-      "genre": "256 Kbit/S",
-      "countryCode": "UA",
-      "language": "ukranian",
-      "clickCount": 3,
-      "bitrate": 281,
-      "streamUrl": "https://radio.kyivstar.ua/stream/gold/master.m3u8"
-    },
-    {
       "id": "sveriges_radio_p4_uppland_se_9319f9c2",
       "title": "Sveriges Radio P4 Uppland",
       "subtitle": "Radio",
@@ -24310,18 +24285,6 @@
       "clickCount": 3,
       "bitrate": 128,
       "streamUrl": "https://radio.vaticannews.va/stream-bg"
-    },
-    {
-      "id": "radiolista_desert_house_se_090cbe54",
-      "title": "Radiolista - Desert House",
-      "subtitle": "Chillout",
-      "location": "Sweden",
-      "genre": "Chillout",
-      "countryCode": "SE",
-      "language": "english",
-      "clickCount": 2,
-      "bitrate": 128,
-      "streamUrl": "http://icy.aweradio.app/radiolista/desert"
     },
     {
       "id": "r_dio_kiks_big_80s_sk_e25f5504",
@@ -25128,18 +25091,6 @@
       "streamUrl": "https://mml2.prostream.se/listen/urban_flow/radio.mp3"
     },
     {
-      "id": "ax_radio_ua_a3b5832c",
-      "title": "Ax Radio!",
-      "subtitle": "Dance",
-      "location": "Ukraine",
-      "genre": "Dance",
-      "countryCode": "UA",
-      "language": "english",
-      "clickCount": 3,
-      "bitrate": 0,
-      "streamUrl": "https://m.axradio.net/stream.mp3"
-    },
-    {
       "id": "station_ua_f03e6db0",
       "title": "Авторадіо",
       "subtitle": "Information",
@@ -25702,6 +25653,66 @@
       "clickCount": 4,
       "bitrate": 64,
       "streamUrl": "http://91.189.162.134:8016/stream"
+    },
+    {
+      "id": "station_ru_e73dabcf",
+      "title": "Радио СССР",
+      "subtitle": "Ретро",
+      "location": "The Russian Federation",
+      "genre": "Ретро",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://listen2.myradio24.com/ussr"
+    },
+    {
+      "id": "station_ua_1030d674",
+      "title": "Радіо Світанок",
+      "subtitle": "Catholic",
+      "location": "Ukraine",
+      "genre": "Catholic",
+      "countryCode": "UA",
+      "language": "ukrainian",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://online.radiosvitanok.org.ua/live"
+    },
+    {
+      "id": "acoustic_rock_radio_ru_74e4b1ee",
+      "title": "Acoustic Rock Radio",
+      "subtitle": "Accordion",
+      "location": "The Russian Federation",
+      "genre": "Accordion",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "http://live-radio.ru:8111/live"
+    },
+    {
+      "id": "radio_ru_e4e3e880",
+      "title": "Radio Источник",
+      "subtitle": "60S",
+      "location": "The Russian Federation",
+      "genre": "60S",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://s0.radioheart.ru:8000/VM73179"
+    },
+    {
+      "id": "radio_shanson_ua_5612ff3f",
+      "title": "Radio Shanson",
+      "subtitle": "Music",
+      "location": "Ukraine",
+      "genre": "Music",
+      "countryCode": "UA",
+      "language": "ukrainian",
+      "clickCount": 4,
+      "bitrate": 256,
+      "streamUrl": "https://cast.brg.ua/newshanson_main_public_mp3_hq"
     }
   ]
 }
