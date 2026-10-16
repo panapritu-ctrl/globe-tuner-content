@@ -1,6 +1,6 @@
 {
-  "version": 65,
-  "updated": "2026-10-15T08:14:57Z",
+  "version": 66,
+  "updated": "2026-10-16T08:07:56Z",
   "stations": [
     {
       "id": "80s80s_radio_de_9adaa6e1",
@@ -7936,15 +7936,6 @@
       "countryCode": "BE"
     },
     {
-      "id": "cope_santander_es_b9fc662b",
-      "title": "COPE Santander",
-      "subtitle": "MP3",
-      "location": "Cantabria, Spain",
-      "genre": "Entertainment",
-      "streamUrl": "http://wecast05-h-cloud.flumotion.com/copesedes/santander.mp3",
-      "countryCode": "ES"
-    },
-    {
       "id": "i_love_radio_us_only_rap_hiphop_radio_de_88967687",
       "title": "i love radio - US Only Rap&HipHop Radio",
       "subtitle": "MP3",
@@ -8131,15 +8122,6 @@
       "genre": "Radio",
       "streamUrl": "https://hrnaga.radioca.st/stream?1778027244269",
       "countryCode": "PH"
-    },
-    {
-      "id": "radio_fides_la_paz_bo_eafd1a45",
-      "title": "Radio Fides La Paz",
-      "subtitle": "MP3",
-      "location": "La Paz, Bolivia",
-      "genre": "Música Y Noticias",
-      "streamUrl": "https://usa13.fastcast4u.com/proxy/fideslapaz?mp=/1",
-      "countryCode": "BO"
     },
     {
       "id": "181_fm_the_beat_hiphop_r_b_us_4f3ad64b",
@@ -8765,6 +8747,165 @@
       "genre": "Rock",
       "streamUrl": "https://rockfm-cope-rrcast.flumotion.com/cope/rockfm.mp3",
       "countryCode": "ES"
+    },
+    {
+      "id": "radio_manele_fm_ro_9d76573c",
+      "title": "Radio Manele FM",
+      "subtitle": "MP3",
+      "location": "Romania",
+      "genre": "Folk Music",
+      "streamUrl": "http://a.fmradiomanele.ro:8054/;",
+      "countryCode": "RO"
+    },
+    {
+      "id": "los_40_principales_chile_cl_91607af3",
+      "title": "Los 40 Principales Chile",
+      "subtitle": "MP3",
+      "location": "Santiago, Chile",
+      "genre": "Hits",
+      "streamUrl": "http://27583.live.streamtheworld.com/LOS40_CHILE_SC",
+      "countryCode": "CL"
+    },
+    {
+      "id": "jawhara_fm_tn_4eba9ab5",
+      "title": "Jawhara FM",
+      "subtitle": "MP3",
+      "location": "Tunisia",
+      "genre": "Radio",
+      "streamUrl": "https://streaming2.toutech.net/jawharafm",
+      "countryCode": "TN"
+    },
+    {
+      "id": "90s90s_hiphop_rap_de_da16d43d",
+      "title": "90s90s HipHop & Rap",
+      "subtitle": "MP3",
+      "location": "Germany",
+      "genre": "Rap",
+      "streamUrl": "http://streams.90s90s.de/hiphop/mp3-128/streams.90s90s.de/",
+      "countryCode": "DE"
+    },
+    {
+      "id": "generations_reggaeton_fr_a693060e",
+      "title": "Generations Reggaeton",
+      "subtitle": "AAC+",
+      "location": "France",
+      "genre": "Radio",
+      "streamUrl": "http://generations-rgton.ice.infomaniak.ch/generations-rgton.aac",
+      "countryCode": "FR"
+    },
+    {
+      "id": "radio_caroline_uk_the_original_xx_ec730964",
+      "title": "Radio Caroline UK (The Original)",
+      "subtitle": "MP3",
+      "location": "Unknown",
+      "genre": "60Er",
+      "streamUrl": "http://sc2.radiocaroline.net:8000/;stream.mp3"
+    },
+    {
+      "id": "true_black_metal_radio_ua_455f8231",
+      "title": "True Black Metal Radio",
+      "subtitle": "MP3",
+      "location": "Ukraine",
+      "genre": "Rock",
+      "streamUrl": "https://trueblackmetalradio.com:8000/radio",
+      "countryCode": "UA"
+    },
+    {
+      "id": "easy_crooners_ae_6c972de8",
+      "title": "Easy Crooners",
+      "subtitle": "MP3",
+      "location": "Dubai, The United Arab Emirates",
+      "genre": "Easy",
+      "streamUrl": "https://streaming.exclusive.radio/uber/easycrooners/icecast.audio",
+      "countryCode": "AE"
+    },
+    {
+      "id": "radio_786_za_6afca786",
+      "title": "Radio 786",
+      "subtitle": "MP3",
+      "location": "South Africa",
+      "genre": "Radio",
+      "streamUrl": "https://stream.krypton.co.za/proxy/radio786?mp=/stream",
+      "countryCode": "ZA"
+    },
+    {
+      "id": "station_cn_bc7855d9",
+      "title": "呼和浩特综合广播",
+      "subtitle": "MP3",
+      "location": "China",
+      "genre": "Radio",
+      "streamUrl": "https://lhttp-hw.qtfm.cn/live/5021543/64k.mp3",
+      "countryCode": "CN"
+    },
+    {
+      "id": "yes_933_sg_b5b41667",
+      "title": "Yes 933",
+      "subtitle": "AAC+",
+      "location": "Singapore",
+      "genre": "Radio",
+      "streamUrl": "https://28393.live.streamtheworld.com/YES933_PREM.aac",
+      "countryCode": "SG"
+    },
+    {
+      "id": "station_lt_8c457c64",
+      "title": "Радио Лента",
+      "subtitle": "MP3",
+      "location": "Kaunas, Lithuania",
+      "genre": "News",
+      "streamUrl": "https://stream1.unknownclient.com/radio-lenta.mp3",
+      "countryCode": "LT"
+    },
+    {
+      "id": "dunaburg_fm_lv_fb5f5b01",
+      "title": "Dunaburg FM",
+      "subtitle": "MP3",
+      "location": "Daugavpils, Latvia",
+      "genre": "Radio",
+      "streamUrl": "https://dunaburgfm.s02.radio-tochka.com:1345/stream",
+      "countryCode": "LV"
+    },
+    {
+      "id": "89_0_rtl_in_the_mix_de_8244e611",
+      "title": "89.0 RTL - In The Mix",
+      "subtitle": "MP3",
+      "location": "Germany",
+      "genre": "Radio",
+      "streamUrl": "http://fhhalle.streamabc.net/fhhal-rtlinthemix-mp3-256-1489633?sABC=6npq4n8q%230%23r30o443r1929r059s085628511796n57%23qverxgyvaxUC&aw_0_1st.playerid=direktlinkHP&amsparams=playerid:direktlinkHP;skey:1791838861",
+      "countryCode": "DE"
+    },
+    {
+      "id": "rfi_musique_fr_0f75cd4e",
+      "title": "RFI Musique",
+      "subtitle": "MP3",
+      "location": "France",
+      "genre": "France Médias Monde",
+      "streamUrl": "http://live02.rfi.fr/rfimusiquemonde-96k.mp3",
+      "countryCode": "FR"
+    },
+    {
+      "id": "89_0_rtl_club_edm_xx_8293be52",
+      "title": "89.0 RTL - Club-EDM",
+      "subtitle": "MP3",
+      "location": "Unknown",
+      "genre": "Radio",
+      "streamUrl": "http://stream.89.0rtl.de/club-edm/mp3-256"
+    },
+    {
+      "id": "exclusively_david_bowie_ae_66620f4c",
+      "title": "Exclusively David Bowie",
+      "subtitle": "MP3",
+      "location": "The United Arab Emirates",
+      "genre": "Pop",
+      "streamUrl": "https://streaming.exclusive.radio/er/davidbowie/icecast.audio",
+      "countryCode": "AE"
+    },
+    {
+      "id": "anime_radio_xx_fe3e7c52",
+      "title": "Anime Radio",
+      "subtitle": "MP3",
+      "location": "Unknown",
+      "genre": "Radio",
+      "streamUrl": "http://stream.laut.fm/animefm"
     }
   ]
 }
