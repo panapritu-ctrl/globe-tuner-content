@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-15T03:12:28Z",
+  "updated": "2026-10-16T03:10:39Z",
   "region": "europe",
   "part": 2,
   "of": 8,
@@ -31024,18 +31024,6 @@
       "streamUrl": "https://mdr-radio-hls.akamaized.net/hls/live/2112903/mdr-284310-0-hls/192/seglist.m3u8"
     },
     {
-      "id": "scooter_fan_de_3c4eb5a7",
-      "title": "scooter fan",
-      "subtitle": "Bass",
-      "location": "Germany",
-      "genre": "Bass",
-      "countryCode": "DE",
-      "language": "dutch",
-      "clickCount": 4,
-      "bitrate": 128,
-      "streamUrl": "https://laut.fm/scooterfanradio"
-    },
-    {
       "id": "kika_de_be441daf",
       "title": "Kika",
       "subtitle": "Kinder",
@@ -32354,6 +32342,162 @@
       "clickCount": 3,
       "bitrate": 324,
       "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4trekanten/masterab.m3u8"
+    },
+    {
+      "id": "rpr1_flashback_de_d9affa82",
+      "title": "RPR1. Flashback",
+      "subtitle": "2000S",
+      "location": "Germany",
+      "genre": "2000S",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://stream.rpr1.de/flashback/mp3-128/radiobrowser"
+    },
+    {
+      "id": "rhb1_de_18067709",
+      "title": "RHB1",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream.laut.fm/radioherzblut"
+    },
+    {
+      "id": "egofm_riff_lq_de_ae43e782",
+      "title": "egoFM Riff [LQ]",
+      "subtitle": "Alternative",
+      "location": "Germany",
+      "genre": "Alternative",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 64,
+      "streamUrl": "https://cast.egofm.de/egoriff.aac?ar-distributor=ffa0&aw_0_req.gdpr=true"
+    },
+    {
+      "id": "radio_mixtape_de_de5ca33b",
+      "title": "Radio Mixtape",
+      "subtitle": "Pop",
+      "location": "Germany",
+      "genre": "Pop",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://addrad.io/4459jsj"
+    },
+    {
+      "id": "n_joy_hq_de_7a5df9bd",
+      "title": "N-JOY HQ",
+      "subtitle": "Pop",
+      "location": "Germany",
+      "genre": "Pop",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://ndr-radio.ard-mcdn.de/ndr/radio/njoy/hls/192/seglist.m3u8"
+    },
+    {
+      "id": "xjazz_voices_de_6f92a8e4",
+      "title": "XJAZZ! - Voices",
+      "subtitle": "Jazz",
+      "location": "Germany",
+      "genre": "Jazz",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://xjazz.api.radiosphere.io/channels/supreme-jazz-voices/stream.mp3"
+    },
+    {
+      "id": "ruby_radio_de_2ecdc8bd",
+      "title": "Ruby Radio",
+      "subtitle": "Alternative",
+      "location": "Germany",
+      "genre": "Alternative",
+      "countryCode": "DE",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://cast.egofm.de/ruby.mp3?ar-distributor=ffa0&aw_0_req.gdpr=true"
+    },
+    {
+      "id": "radio_7_dance_party_de_d1c17314",
+      "title": "Radio 7 Dance Party",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://radio7.streamabc.net/87-danceparty-mp3-192-7041831"
+    },
+    {
+      "id": "christmas_radio_de_d2a775fa",
+      "title": "Christmas Radio",
+      "subtitle": "Christmas",
+      "location": "Germany",
+      "genre": "Christmas",
+      "countryCode": "DE",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://lebkuchen-radio.stream.laut.fm/lebkuchen-radio"
+    },
+    {
+      "id": "egofm_chillout_aac_de_387fc648",
+      "title": "egoFM CHILLOUT (aac)",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 64,
+      "streamUrl": "http://cast.egofm.de/egofmchillout.aac?ar-distributor=ffa0&aw_0_req.gdpr=true"
+    },
+    {
+      "id": "trigger_fm_hartmut_hd_stream_de_6e00f09a",
+      "title": "Trigger.FM HARTMUT (HD Stream)",
+      "subtitle": "Deutsche Musik",
+      "location": "Germany",
+      "genre": "Deutsche Musik",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 256,
+      "streamUrl": "https://hartmut-hd-radio.triggerfm.de/"
+    },
+    {
+      "id": "hot_fields_ai_radio_ee_ed59cc98",
+      "title": "Hot Fields AI Radio",
+      "subtitle": "Radio",
+      "location": "Estonia",
+      "genre": "Radio",
+      "countryCode": "EE",
+      "language": "estoni",
+      "clickCount": 3,
+      "bitrate": 192,
+      "streamUrl": "https://radio.citrina.ee/listen/hot_fields_ai_radio/radio.mp3"
+    },
+    {
+      "id": "elmari_tantsu_htu_ee_77c33ad3",
+      "title": "Elmari tantsuõhtu",
+      "subtitle": "Dance",
+      "location": "Estonia",
+      "genre": "Dance",
+      "countryCode": "EE",
+      "language": "estonian",
+      "clickCount": 3,
+      "bitrate": 192,
+      "streamUrl": "https://le301.euddn.net/871d03fbe81032ff2f281444c78241bbd5fa41c858eea108d23f7c6cfa4fc5ab044d00cae6e101e57d0a5a8522cfad0b5ec1d11d60823ede4a60afec8f2b2504d4794816fbde9039ed396d883ff484605facc310af20278e0a838bf639ab35022db33a92a6f32a890921dcfa27f53a09927039c7424e396aef66781530008ccb296be2880b4f7dc14600a6344ceb0de1cdf8f44a2ab0e7b5b0603488221cf649cbc2b9d5c10500d15729872b433b09c8f4167284e3d93cde432f102c66ddfd90/elmaritantsuohtu.aac"
     }
   ]
 }

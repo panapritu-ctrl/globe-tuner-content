@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-15T03:12:28Z",
+  "updated": "2026-10-16T03:10:39Z",
   "region": "europe",
   "part": 1,
   "of": 8,
@@ -8149,19 +8149,6 @@
       "countryCode": "BG",
       "language": null,
       "clickCount": 4,
-      "bitrate": 320
-    },
-    {
-      "id": "rb2_badrock_classic_rock_6a52f8f9",
-      "title": "BadRock Classic Rock",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://play-radio0.jump.bg:7489/live",
-      "location": "Bulgaria",
-      "genre": "Radio",
-      "countryCode": "BG",
-      "language": null,
-      "clickCount": 3,
       "bitrate": 320
     },
     {
@@ -17271,19 +17258,6 @@
       "countryCode": "CZ",
       "language": "czech",
       "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_r_dio_p_sni_ka_ddaead89",
-      "title": "Rádio Písnička",
-      "subtitle": "Schlager",
-      "imageUrl": "https://slagr-radio.cz/logo-pisnicka.webp",
-      "streamUrl": "https://stream.slagr-radio.cz/pisnicka",
-      "location": "Jihočeský kraj, Czechia",
-      "genre": "Schlager",
-      "countryCode": "CZ",
-      "language": "czech",
-      "clickCount": 3,
       "bitrate": 128
     },
     {
@@ -27366,18 +27340,6 @@
       "streamUrl": "http://82.103.99.99:8000/radiosz"
     },
     {
-      "id": "radio_usk_2_ba_64750e9b",
-      "title": "Radio USK 2",
-      "subtitle": "Radio",
-      "location": "Bosnia And Herzegovina",
-      "genre": "Radio",
-      "countryCode": "BA",
-      "language": "bosnian",
-      "clickCount": 3,
-      "bitrate": 128,
-      "streamUrl": "https://radiousk2.radioca.st/;"
-    },
-    {
       "id": "yeshua_at_radio_at_275ebf94",
       "title": "Yeshua.at Radio",
       "subtitle": "Christian",
@@ -30258,18 +30220,6 @@
       "streamUrl": "https://stream.sweetradio.online:8001/tvr"
     },
     {
-      "id": "rila_folk_bg_2621e729",
-      "title": "Rila Folk",
-      "subtitle": "Folk",
-      "location": "Bulgaria",
-      "genre": "Folk",
-      "countryCode": "BG",
-      "language": "bulgarian",
-      "clickCount": 4,
-      "bitrate": 128,
-      "streamUrl": "https://play-radio6.jump.bg:7016/play;"
-    },
-    {
       "id": "hot_fm_vratsa_bg_a557b8a6",
       "title": "Hot FM Vratsa",
       "subtitle": "Hits",
@@ -32068,6 +32018,198 @@
       "clickCount": 3,
       "bitrate": 128,
       "streamUrl": "https://frontend.streamonkey.net/rt1-ch12/stream/mp3"
+    },
+    {
+      "id": "badrock_classic_rock_bg_7e984275",
+      "title": "Badrock Classic Rock",
+      "subtitle": "Classic Rock",
+      "location": "Bulgaria",
+      "genre": "Classic Rock",
+      "countryCode": "BG",
+      "language": "bulgarian",
+      "clickCount": 16,
+      "bitrate": 320,
+      "streamUrl": "https://streams.badrockradio.net/classic-rock"
+    },
+    {
+      "id": "rave_your_next_rave_starts_here_technolovers_fm_de_a6372241",
+      "title": "* RAVE * YOUR NEXT RAVE STARTS HERE @ Technolovers.fm",
+      "subtitle": "Dj",
+      "location": "Germany",
+      "genre": "Dj",
+      "countryCode": "DE",
+      "language": "english",
+      "clickCount": 6,
+      "bitrate": 192,
+      "streamUrl": "https://stream.technolovers.fm/technolovers-rave/mp3-192?ref=radiobrowser"
+    },
+    {
+      "id": "classic_videogames_radio_de_01718fea",
+      "title": "Classic Videogames RADIO",
+      "subtitle": "Retro Games",
+      "location": "Germany",
+      "genre": "Retro Games",
+      "countryCode": "DE",
+      "language": "deutsch fränkisch",
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://lead-server.de:1551/stream/2/"
+    },
+    {
+      "id": "95_5_charivari_de_bd2d9def",
+      "title": "95.5 Charivari",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://live.stream.charivari.de/955charivari-italohits?aggregator=Webseite_eigener-Player"
+    },
+    {
+      "id": "eichsfeld_welle_de_e08ba974",
+      "title": "Eichsfeld-welle",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "https://stream.hoerfunkbundstream.de:35402/stream.mp3"
+    },
+    {
+      "id": "chill_albania_al_40bb1f2a",
+      "title": "Chill Albania",
+      "subtitle": "Chill Out",
+      "location": "Albania",
+      "genre": "Chill Out",
+      "countryCode": "AL",
+      "language": "albanian",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://streams.radiomast.io/346318d3-5312-4a69-8f80-64d75640fd35"
+    },
+    {
+      "id": "best_of_bach_mp3_de_f7050abf",
+      "title": "Best of Bach [MP3]",
+      "subtitle": "Bach",
+      "location": "Germany",
+      "genre": "Bach",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "http://stream.klassikradio.de/purebach/mp3-192"
+    },
+    {
+      "id": "rock_fm_alternative_de_f0c43101",
+      "title": "ROCK FM ALTERNATIVE",
+      "subtitle": "Alternative Rock",
+      "location": "Germany",
+      "genre": "Alternative Rock",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://stream.regenbogen2.de/modernrock/mp3-128/radio-browser"
+    },
+    {
+      "id": "rtl_indie_classics_de_d34bf3b7",
+      "title": "RTL+ Indie Classics",
+      "subtitle": "Alternative",
+      "location": "Germany",
+      "genre": "Alternative",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://rtlberlin.streamabc.net/rtlb-indieclassics-mp3-128-2559616"
+    },
+    {
+      "id": "radio_viciana_folklor_al_2b9de71d",
+      "title": "Radio Viciana Folklor",
+      "subtitle": "Folk",
+      "location": "Albania",
+      "genre": "Folk",
+      "countryCode": "AL",
+      "language": "albanian",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "http://radioviciana.org:8020/;?.mp3"
+    },
+    {
+      "id": "radio_zemra_al_b2f27111",
+      "title": "Radio Zemra",
+      "subtitle": "Folk",
+      "location": "Albania",
+      "genre": "Folk",
+      "countryCode": "AL",
+      "language": "albanian",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://live.radio-zemra.eu/stream"
+    },
+    {
+      "id": "radio_shqip_folklor_al_e867a1a0",
+      "title": "Radio Shqip Folklor",
+      "subtitle": "Folk",
+      "location": "Albania",
+      "genre": "Folk",
+      "countryCode": "AL",
+      "language": "albanian",
+      "clickCount": 3,
+      "bitrate": 112,
+      "streamUrl": "https://live.radio-zemra.eu/folklor"
+    },
+    {
+      "id": "radio_viciana_al_7526266c",
+      "title": "Radio Viciana",
+      "subtitle": "Folk",
+      "location": "Albania",
+      "genre": "Folk",
+      "countryCode": "AL",
+      "language": "albanian",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "http://radioviciana.org:8000/;?.mp3"
+    },
+    {
+      "id": "euronews_albania_radio_al_0274195e",
+      "title": "Euronews Albania Radio",
+      "subtitle": "News",
+      "location": "Albania",
+      "genre": "News",
+      "countryCode": "AL",
+      "language": "albanian",
+      "clickCount": 3,
+      "bitrate": 1995,
+      "streamUrl": "http://80.90.86.194:1935/live/inradio/playlist.m3u8"
+    },
+    {
+      "id": "radio_maria_albania_programi_p_r_amerik_n_al_c9244773",
+      "title": "Radio Maria Albania – Programi për Amerikën",
+      "subtitle": "Christian",
+      "location": "Albania",
+      "genre": "Christian",
+      "countryCode": "AL",
+      "language": "albanian",
+      "clickCount": 3,
+      "bitrate": 32,
+      "streamUrl": "https://dreamsiteradiocp2.com/proxy/rmalbania7?mp=/stream"
+    },
+    {
+      "id": "radio_dj_98_2_al_05dd5f1f",
+      "title": "Radio DJ 98.2",
+      "subtitle": "Dance",
+      "location": "Albania",
+      "genre": "Dance",
+      "countryCode": "AL",
+      "language": "albanian",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://radios.albaniadigitalradio.al/albaniaradiodj"
     }
   ]
 }

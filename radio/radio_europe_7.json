@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-15T03:12:28Z",
+  "updated": "2026-10-16T03:10:39Z",
   "region": "europe",
   "part": 7,
   "of": 8,
@@ -7747,19 +7747,6 @@
       "bitrate": 96
     },
     {
-      "id": "rb2_ebs_radio_c_ntece_de_petrecere_cluj_napo_dd7585d5",
-      "title": "EBS Radio Cântece de petrecere -Cluj Napoca",
-      "subtitle": "Etno, Petrecere",
-      "imageUrl": "https://scontent.fotp3-2.fna.fbcdn.net/v/t39.30808-1/424699851_900411308760121_5814278330535517772_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=106&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=4bHHNtcga1oQ7kNvwE1LkAM&_nc_oc=AdqXoNNkiAPFMKZSs5EHuUvph5XfMuD3gmn9mPLn8Fb3XjP02Bn9ztVhFni3M4WQt7rcvvW5xX69vTCFBtdzr45N&_nc_zt=24&_nc_ht=scontent.fotp3-2.fna&_nc_gid=sp4e4LyJ74z3g8DC8ddc8A&_nc_ss=7b289&oh=00_Af7AMVbsN7B5Zf5Q6jGH_r7pf4dXsR3B_jUAyuB7Ektoeg&oe=6A0FBE16",
-      "streamUrl": "https://azura.ebsmedia.ro/listen/petrecere/petrecere128.mp3?refresh=1779029453833",
-      "location": "Romania",
-      "genre": "Etno",
-      "countryCode": "RO",
-      "language": "română",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_ebs_radio_live_cluj_napoca_90_4_fm_8176fb6d",
       "title": "EBS Radio Live -Cluj Napoca 90,4 FM",
       "subtitle": "Local Radio, Music",
@@ -7923,19 +7910,6 @@
       "language": "english",
       "clickCount": 2,
       "bitrate": 256
-    },
-    {
-      "id": "rb2_fm_radio_manele_f8c19e4d",
-      "title": "FM Radio Manele",
-      "subtitle": "Manele, Manele Noi",
-      "imageUrl": "https://fmradiomanele.ro/favicon.ico",
-      "streamUrl": "http://a.fmradiomanele.ro:8054/stream",
-      "location": "Romania",
-      "genre": "Manele",
-      "countryCode": "RO",
-      "language": "romanian",
-      "clickCount": 1,
-      "bitrate": 128
     },
     {
       "id": "rb2_fmv_fit_radio_calm_relax_45b49008",
@@ -10890,19 +10864,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_radio_noise_we_love_90s_905fa7cf",
-      "title": "Radio Noise We Love 90s",
-      "subtitle": "Radio",
-      "imageUrl": "https://www.radionoise.ro/wp-content/uploads/2026/07/Radio-Noise-We-Love-90s-Logo.png",
-      "streamUrl": "https://welove90slive.radionoise.ro:9090/stream",
-      "location": "Bucharest, Romania",
-      "genre": "Radio",
-      "countryCode": "RO",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_radio_noise_xmas_615c7e4c",
       "title": "Radio Noise XMAS",
       "subtitle": "Radio",
@@ -11183,19 +11144,6 @@
       "language": "romanian",
       "clickCount": 0,
       "bitrate": 32
-    },
-    {
-      "id": "rb2_radio_tequila_hip_hop_126d3c92",
-      "title": "Radio Tequila Hip-Hop",
-      "subtitle": "Explicit, Hip Hop",
-      "imageUrl": "",
-      "streamUrl": "http://necenzurat.radiotequila.ro:7000/;",
-      "location": "Romania",
-      "genre": "Explicit",
-      "countryCode": "RO",
-      "language": "romanian",
-      "clickCount": 2,
-      "bitrate": 128
     },
     {
       "id": "rb2_radio_tequila_manele_romania_dcae60bc",
@@ -25407,18 +25355,6 @@
       "streamUrl": "https://servidor15-3.brlogic.com:7088/live?source=15118"
     },
     {
-      "id": "radio_petrec_retzu_ro_7009cace",
-      "title": "Radio Petrecăretzu",
-      "subtitle": "Etno",
-      "location": "Romania",
-      "genre": "Etno",
-      "countryCode": "RO",
-      "language": "romanian",
-      "clickCount": 5,
-      "bitrate": 128,
-      "streamUrl": "http://live.radiopetrecaretzu.ro:8383/;"
-    },
-    {
       "id": "g_os_nadziei_pl_e34b8099",
       "title": "Głos Nadziei",
       "subtitle": "Christian Praise&Worship",
@@ -25573,6 +25509,30 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "http://asculta.radiosudconstanta.com:8750/stream"
+    },
+    {
+      "id": "radio_qu_ntica_pt_5335fb99",
+      "title": "Radio QUÂNTICA",
+      "subtitle": "Community",
+      "location": "Portugal",
+      "genre": "Community",
+      "countryCode": "PT",
+      "language": "portuguese",
+      "clickCount": 4,
+      "bitrate": 256,
+      "streamUrl": "https://libretime.radioquantica.com/main.mp3"
+    },
+    {
+      "id": "hardstyle_ru_d2b3b825",
+      "title": "Радио Рекорд Hardstyle",
+      "subtitle": "Radio",
+      "location": "The Russian Federation",
+      "genre": "Radio",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "http://radiorecord.hostingradio.ru/teo96.aacp"
     }
   ]
 }
