@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-16T03:10:39Z",
+  "updated": "2026-10-17T03:02:17Z",
   "region": "europe",
   "part": 7,
   "of": 8,
@@ -7644,19 +7644,6 @@
       "countryCode": "RO",
       "language": "românä",
       "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_dejavumusic_radio_dejavu_6c46d161",
-      "title": "DejaVuMusic -Radio DejaVu",
-      "subtitle": "Dance, House",
-      "imageUrl": "https://cdn.onlineradiobox.com/img/l/3/117093.v7.png",
-      "streamUrl": "https://radio.sonicpanel.ro/8042/stream",
-      "location": "Romania",
-      "genre": "Dance",
-      "countryCode": "RO",
-      "language": "românä",
-      "clickCount": 1,
       "bitrate": 128
     },
     {
@@ -16862,19 +16849,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_beta_anon_fm_b400c533",
-      "title": "Beta Anon.FM",
-      "subtitle": "Anonymous, Various",
-      "imageUrl": "https://anon.fm/imgs/logos/5.png",
-      "streamUrl": "https://radio.anonymous.delivery/music.mp3",
-      "location": "The Russian Federation",
-      "genre": "Anonymous",
-      "countryCode": "RU",
-      "language": "english",
-      "clickCount": 4,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_bigtunesradio_oldschool_6c4c2fc3",
       "title": "BigTunesRadio -  Oldschool",
       "subtitle": "Radio",
@@ -24347,18 +24321,6 @@
       "streamUrl": "https://fire.doscast.com/8084/stream"
     },
     {
-      "id": "magic_tv_ro_4b528777",
-      "title": "Magic tv",
-      "subtitle": "Radio",
-      "location": "Romania",
-      "genre": "Radio",
-      "countryCode": "RO",
-      "language": "romanian",
-      "clickCount": 4,
-      "bitrate": 1408,
-      "streamUrl": "https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8"
-    },
-    {
       "id": "radio_noise_opera_ro_f5beec88",
       "title": "Radio Noise Opera",
       "subtitle": "Radio",
@@ -25533,6 +25495,78 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "http://radiorecord.hostingradio.ru/teo96.aacp"
+    },
+    {
+      "id": "radio_manele_fm_ro_9d76573c",
+      "title": "Radio Manele FM",
+      "subtitle": "Folk Music",
+      "location": "Romania",
+      "genre": "Folk Music",
+      "countryCode": "RO",
+      "language": "romanian",
+      "clickCount": 14,
+      "bitrate": 128,
+      "streamUrl": "http://a.fmradiomanele.ro:8054/;"
+    },
+    {
+      "id": "fm_radio_manele_ro_ea4cab3d",
+      "title": "FM Radio Manele",
+      "subtitle": "Manele",
+      "location": "Romania",
+      "genre": "Manele",
+      "countryCode": "RO",
+      "language": "romanian",
+      "clickCount": 7,
+      "bitrate": 128,
+      "streamUrl": "http://a.fmradiomanele.ro:8054/stream"
+    },
+    {
+      "id": "radio_pl_8be10ced",
+      "title": "radio",
+      "subtitle": "Musical",
+      "location": "Poland",
+      "genre": "Musical",
+      "countryCode": "PL",
+      "language": "polish",
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://c16.radioboss.fm:18014/stream"
+    },
+    {
+      "id": "tequila_rom_nia_radio_hip_hop_ro_edf145ec",
+      "title": "Tequila România -Radio Hip-Hop",
+      "subtitle": "Hip-Hop",
+      "location": "Romania",
+      "genre": "Hip-Hop",
+      "countryCode": "RO",
+      "language": "romanian",
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "http://necenzurat.radiotequila.ro:7000/;"
+    },
+    {
+      "id": "tequila_rom_nia_radio_dance_ro_bfa82f4f",
+      "title": "Tequila România -Radio Dance",
+      "subtitle": "Dance",
+      "location": "Romania",
+      "genre": "Dance",
+      "countryCode": "RO",
+      "language": "romania",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://dance.radiotequila.ro/7000/stream"
+    },
+    {
+      "id": "naxi_fresh_radio_rs_5d51b6ba",
+      "title": "Naxi Fresh Radio",
+      "subtitle": "Radio",
+      "location": "Serbia",
+      "genre": "Radio",
+      "countryCode": "RS",
+      "language": "serbian",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://naxidigital-fresh128ssl.streaming.rs:8212/;stream.nsv"
     }
   ]
 }

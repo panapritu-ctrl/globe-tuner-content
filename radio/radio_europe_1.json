@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-16T03:10:39Z",
+  "updated": "2026-10-17T03:02:17Z",
   "region": "europe",
   "part": 1,
   "of": 8,
@@ -4735,19 +4735,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_candie_1e7ae76b",
-      "title": "Candie",
-      "subtitle": "Radio",
-      "imageUrl": "https://candie.eu/wp-content/uploads/2023/07/candie_logo_trans@4x-768x333.png",
-      "streamUrl": "https://clubfmserver.be/pink.mp3",
-      "location": "Belgium",
-      "genre": "Radio",
-      "countryCode": "BE",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "charleking_radio_be",
       "title": "Charleking Radio",
       "subtitle": "Adult Contemporary / Adult Hits",
@@ -7822,19 +7809,6 @@
       "language": "english",
       "clickCount": 0,
       "bitrate": 160
-    },
-    {
-      "id": "rb2_yolo_life_is_like_a_dance_495ac9d1",
-      "title": "YOLO - Life is like a dance",
-      "subtitle": "Eurodance",
-      "imageUrl": "https://www.yoloradio.be/uploads/3/9/6/3/3963899/editor/logo.png?1652812395",
-      "streamUrl": "https://streamingv2.shoutcast.com/yolo-life-is-like-a-dance",
-      "location": "Limburg, Belgium",
-      "genre": "Eurodance",
-      "countryCode": "BE",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 192
     },
     {
       "id": "rb2_yujen_briag_babffc8b",
@@ -32210,6 +32184,114 @@
       "clickCount": 3,
       "bitrate": 128,
       "streamUrl": "https://radios.albaniadigitalradio.al/albaniaradiodj"
+    },
+    {
+      "id": "absolut_top_flac_de_f49ee81c",
+      "title": "Absolut Top Flac",
+      "subtitle": "Anthems",
+      "location": "Germany",
+      "genre": "Anthems",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 6,
+      "bitrate": 1200,
+      "streamUrl": "http://cdn05.radio.cloud:8120/ATD-OMNIA-GAT"
+    },
+    {
+      "id": "wdr2_ostwestfalen_lippe_de_68e50c08",
+      "title": "WDR2 Ostwestfalen-Lippe",
+      "subtitle": "Adult Contemporary",
+      "location": "Germany",
+      "genre": "Adult Contemporary",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 6,
+      "bitrate": 102,
+      "streamUrl": "https://wdr-radio.ard-mcdn.de/wdr/radio/wdr2owl/hls/master.m3u8"
+    },
+    {
+      "id": "radio_firebirds_de_e378a0ba",
+      "title": "radio firebirds",
+      "subtitle": "50S",
+      "location": "Germany",
+      "genre": "50S",
+      "countryCode": "DE",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://streaming.silvacast.com/FIREBIRDS.mp3"
+    },
+    {
+      "id": "i_love_workout_de_4a7c99bd",
+      "title": "I Love Workout",
+      "subtitle": "Dance",
+      "location": "Germany",
+      "genre": "Dance",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://ilm.stream35.radiohost.de/ilm_iloveworkout_mp3-192?upd-meta&upd-scheme=https&_art=dD0xNzkyMTkyNzE3JmQ9OWUyYjE0YWMyOWIyNjdkNjQzZjU"
+    },
+    {
+      "id": "best_pro_radio_al_87b93224",
+      "title": "Best Pro Radio",
+      "subtitle": "Dance",
+      "location": "Albania",
+      "genre": "Dance",
+      "countryCode": "AL",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://az1.sednastream.com/listen/bestproradio/Live"
+    },
+    {
+      "id": "fu_ball_bundesliga_spiel_9_de_a3c6bc5b",
+      "title": "Fußball-Bundesliga: Spiel 9",
+      "subtitle": "Football",
+      "location": "Germany",
+      "genre": "Football",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://wdr-sportschau-liga1spiel9.icecastssl.wdr.de/wdr/sportschau/liga1spiel9/mp3/high"
+    },
+    {
+      "id": "sportschau_paderborn_ksc_17_07_2022_de_4910c76f",
+      "title": "Sportschau Paderborn - KSC 17.07.2022",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://wdr-sportschau-liga2spiel4.icecastssl.wdr.de/wdr/sportschau/liga2spiel4/mp3/high?file=.mp3"
+    },
+    {
+      "id": "egornb_hq_de_2b7a2fc7",
+      "title": "egoRNB [HQ]",
+      "subtitle": "Egofm",
+      "location": "Germany",
+      "genre": "Egofm",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://cast.egofm.de/egofmrnb.mp3?ar-distributor=ffa0&aw_0_req.gdpr=true"
+    },
+    {
+      "id": "myhitmusic_nashville_104_country_radio_de_2e359c50",
+      "title": "MyHitMusic!-NASHVILLE 104 COUNTRY RADIO",
+      "subtitle": "Country Music",
+      "location": "Germany",
+      "genre": "Country Music",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 3,
+      "bitrate": 192,
+      "streamUrl": "http://151.80.43.143:8062/.mp3"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-16T03:10:39Z",
+  "updated": "2026-10-17T03:02:17Z",
   "region": "europe",
   "part": 8,
   "of": 8,
@@ -8190,19 +8190,6 @@
       "streamUrl": "http://emgregion.hostingradio.ru:8064/vologda.dorognoe.mp3",
       "location": "The Russian Federation",
       "genre": "Music",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_102_2_fm_9c9a636d",
-      "title": "Дорожное радио Волхов 102.2 FM",
-      "subtitle": "102_2, Dorognoe Radio",
-      "imageUrl": "",
-      "streamUrl": "http://78.140.197.238:9877/DR-Volhov",
-      "location": "The Russian Federation",
-      "genre": "102_2",
       "countryCode": "RU",
       "language": "russian",
       "clickCount": 0,
@@ -24091,18 +24078,6 @@
       "streamUrl": "https://radio.kamchatkalive.ru:8103/house"
     },
     {
-      "id": "retro_fm_sk_ne_se_54b4a862",
-      "title": "Retro FM Skåne",
-      "subtitle": "Oldies",
-      "location": "Sweden",
-      "genre": "Oldies",
-      "countryCode": "SE",
-      "language": "swedish",
-      "clickCount": 4,
-      "bitrate": 96,
-      "streamUrl": "https://live-bauerse-fm.sharp-stream.com/retrofm_aacp?ua=WEB&aw_0_1st.playerid=SBS_RP_WEB&aw_0_1st.skey=1575715192&companionAds=true&listenerId=@@GUID@@"
-    },
-    {
       "id": "electro_ua_019c112e",
       "title": "Радіо Київстар Electro",
       "subtitle": "256 Kbit/S",
@@ -25661,6 +25636,90 @@
       "clickCount": 4,
       "bitrate": 48,
       "streamUrl": "http://79.120.39.202:8002/darkambient"
+    },
+    {
+      "id": "contemporary_classical_radio_caprice_ru_cc4b89c1",
+      "title": "Contemporary Classical - Radio Caprice",
+      "subtitle": "Radio",
+      "location": "The Russian Federation",
+      "genre": "Radio",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 7,
+      "bitrate": 320,
+      "streamUrl": "http://79.111.119.111:8004/contclass"
+    },
+    {
+      "id": "m_deep_radio_ru_d6ef22c5",
+      "title": "M.Deep Radio",
+      "subtitle": "Chillout",
+      "location": "The Russian Federation",
+      "genre": "Chillout",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 6,
+      "bitrate": 192,
+      "streamUrl": "https://deephousex.ru/live"
+    },
+    {
+      "id": "station_ru_0ea7be87",
+      "title": "Радио Орфей - Классика эстрады",
+      "subtitle": "Classic Pop",
+      "location": "The Russian Federation",
+      "genre": "Classic Pop",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 6,
+      "bitrate": 256,
+      "streamUrl": "https://channels.fonotron.ru:8000/Chan_7_192.mp3"
+    },
+    {
+      "id": "retro_fm_sk_ne_se_54b4a862",
+      "title": "Retro FM Skåne",
+      "subtitle": "Oldies",
+      "location": "Sweden",
+      "genre": "Oldies",
+      "countryCode": "SE",
+      "language": "swedish",
+      "clickCount": 5,
+      "bitrate": 96,
+      "streamUrl": "https://live-bauerse-fm.sharp-stream.com/retrofm_aacp?ua=WEB&aw_0_1st.playerid=SBS_RP_WEB&aw_0_1st.skey=1575715192&companionAds=true&listenerId=@@GUID@@"
+    },
+    {
+      "id": "oto_radio_ru_544e9be0",
+      "title": "OTO Radio",
+      "subtitle": "Oto",
+      "location": "The Russian Federation",
+      "genre": "Oto",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 4,
+      "bitrate": 256,
+      "streamUrl": "https://myradio24.org/7859"
+    },
+    {
+      "id": "r_dio_rebeca_sk_7af2328f",
+      "title": "Rádio Rebeca",
+      "subtitle": "Cz Sk",
+      "location": "Slovakia",
+      "genre": "Cz Sk",
+      "countryCode": "SK",
+      "language": "slovak",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://mpc2.mediacp.eu:8200/rebecaweb"
+    },
+    {
+      "id": "ax_radio_ua_a3b5832c",
+      "title": "Ax Radio!",
+      "subtitle": "Dance",
+      "location": "Ukraine",
+      "genre": "Dance",
+      "countryCode": "UA",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://m.axradio.net/stream.mp3"
     }
   ]
 }

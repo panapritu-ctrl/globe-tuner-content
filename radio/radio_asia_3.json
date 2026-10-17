@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-16T03:10:39Z",
+  "updated": "2026-10-17T03:02:17Z",
   "region": "asia",
   "part": 3,
   "of": 3,
@@ -8541,19 +8541,6 @@
       "bitrate": 320
     },
     {
-      "id": "rb2_radyo_ba_ak_ehi_r_2dbe3ff7",
-      "title": "RADYO BAŞAKŞEHİR",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://icecast.netmedya.net/rbasaksehir",
-      "location": "Türkiye",
-      "genre": "Radio",
-      "countryCode": "TR",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_radyo_ba_ka_c241bf86",
       "title": "RADYO BAŞKA",
       "subtitle": "Radio",
@@ -10832,15 +10819,6 @@
       "language": null,
       "clickCount": 1,
       "bitrate": 96
-    },
-    {
-      "id": "hit_fm_tw_14569b",
-      "title": "Hit FM台北之音廣播",
-      "subtitle": "Music",
-      "location": "Taiwan, Republic Of China",
-      "genre": "Music",
-      "countryCode": "TW",
-      "streamUrl": "http://202.39.43.67:1935/live/RA000036/chunklist.m3u8"
     },
     {
       "id": "rb2_icrt_ea2a84ca",
@@ -16535,18 +16513,6 @@
       "streamUrl": "https://yayin1.canlitv.fun/radyo/gencfm/chunklist_w1257533803.m3u8"
     },
     {
-      "id": "dzmm_radyo_patrol_630_ph_0f1b5a34",
-      "title": "DZMM Radyo Patrol 630",
-      "subtitle": "Radio",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "language": null,
-      "clickCount": 19,
-      "bitrate": 64,
-      "streamUrl": "http://209.126.124.126:8852/stream"
-    },
-    {
       "id": "sawt_el_ghad_tarab_ps_5d3eed9e",
       "title": "Sawt El Ghad - Tarab",
       "subtitle": "Oldies",
@@ -17145,6 +17111,78 @@
       "clickCount": 4,
       "bitrate": 320,
       "streamUrl": "https://radyo.yayin.com.tr:5714/stream"
+    },
+    {
+      "id": "dzmm_radyo_patrol_630_ph_0f1b5a34",
+      "title": "DZMM Radyo Patrol 630",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 18,
+      "bitrate": 64,
+      "streamUrl": "http://209.126.124.126:8852/stream"
+    },
+    {
+      "id": "dwje_88_1_fm_radyo_pangasinan_ph_3bd3240e",
+      "title": "DWJE 88.1 FM Radyo Pangasinan",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 7,
+      "bitrate": 0,
+      "streamUrl": "https://tiny-sun-4316.radyopangasinan88-1fm.workers.dev/stream"
+    },
+    {
+      "id": "xfm_davao_city_ph_9f370729",
+      "title": "XFM Davao City",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 64,
+      "streamUrl": "http://us1.amfmph.com:8724/live"
+    },
+    {
+      "id": "insaf_radio_pk_03822bf2",
+      "title": "Insaf Radio",
+      "subtitle": "Radio",
+      "location": "Pakistan",
+      "genre": "Radio",
+      "countryCode": "PK",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://cdn.voscast.com/resources/?key=4e1e2d7ac97ea7ad9493c529df2ab16c&c=wmp"
+    },
+    {
+      "id": "bangkok_community_radio_th_267e9917",
+      "title": "Bangkok Community Radio",
+      "subtitle": "Community",
+      "location": "Thailand",
+      "genre": "Community",
+      "countryCode": "TH",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://bcr.radiocult.fm/stream"
+    },
+    {
+      "id": "kent_fm_tr_aace675c",
+      "title": "Kent FM",
+      "subtitle": "Radio",
+      "location": "Türkiye",
+      "genre": "Radio",
+      "countryCode": "TR",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://moondigitalmaster.radyotvonline.net/kentfm/playlist.m3u8"
     }
   ]
 }

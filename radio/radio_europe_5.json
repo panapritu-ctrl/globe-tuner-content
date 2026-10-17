@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-16T03:10:39Z",
+  "updated": "2026-10-17T03:02:17Z",
   "region": "europe",
   "part": 5,
   "of": 8,
@@ -5671,32 +5671,6 @@
       "bitrate": 160
     },
     {
-      "id": "rb2_styl_104_9_2ee02d2c",
-      "title": "Styl 104.9",
-      "subtitle": "Greek Pop, Mainstream",
-      "imageUrl": "",
-      "streamUrl": "http://s3.onweb.gr:8530/;",
-      "location": "Athens, Greece",
-      "genre": "Greek Pop",
-      "countryCode": "GR",
-      "language": "greek",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_styl_fm_104_8_84ee7771",
-      "title": "Styl FM 104.8",
-      "subtitle": "Greek Folk, Mainstream",
-      "imageUrl": "https://onradio.gr/wp-content/uploads/2020/04/STYL-FM-104.8.jpg",
-      "streamUrl": "https://sh.onweb.gr:7064/;",
-      "location": "Athens, Greece",
-      "genre": "Greek Folk",
-      "countryCode": "GR",
-      "language": "greek",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_stylida_94_1_f44d6c30",
       "title": "Stylida 94.1",
       "subtitle": "Radio",
@@ -5916,32 +5890,6 @@
       "language": "greek",
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_thnx_radio_43597b2c",
-      "title": "Thnx Radio",
-      "subtitle": "Electronica, Progressive Techno",
-      "imageUrl": "https://resources.live24.gr/resources/images/stations/0bb948f1-3dcd-4da0-a92d-2facc7628256.jpg",
-      "streamUrl": "https://radio.streamings.gr/proxy/thnxradio?mp=/stream?ver=262765",
-      "location": "Athens, Greece",
-      "genre": "Electronica",
-      "countryCode": "GR",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 192
-    },
-    {
-      "id": "rb2_ti_amo_greek_197dd80a",
-      "title": "Ti Amo Greek",
-      "subtitle": "Greek Music",
-      "imageUrl": "",
-      "streamUrl": "https://cast.streams.ovh/sc/tiamogreek/stream",
-      "location": "Athens, Greece",
-      "genre": "Greek Music",
-      "countryCode": "GR",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 320
     },
     {
       "id": "rb2_time_90_9_6fce0880",
@@ -26349,18 +26297,6 @@
       "streamUrl": "https://stream.zeno.fm/yetzdv442k8uv"
     },
     {
-      "id": "classic_gold_radio_ie_ff10b8b5",
-      "title": "Classic Gold Radio",
-      "subtitle": "Radio",
-      "location": "Ireland",
-      "genre": "Radio",
-      "countryCode": "IE",
-      "language": null,
-      "clickCount": 6,
-      "bitrate": 256,
-      "streamUrl": "https://live.btsstream.com/stream/classicgoldradio"
-    },
-    {
       "id": "spin1038_ie_53e7b7a8",
       "title": "Spin1038",
       "subtitle": "Radio",
@@ -27177,18 +27113,6 @@
       "streamUrl": "https://seyisfjorur-community-radio.radiocult.fm/stream"
     },
     {
-      "id": "gamerz_inn_jamz_hr_b4ae4cc1",
-      "title": "Gamerz Inn - Jamz",
-      "subtitle": "Radio",
-      "location": "Croatia",
-      "genre": "Radio",
-      "countryCode": "HR",
-      "language": null,
-      "clickCount": 3,
-      "bitrate": 320,
-      "streamUrl": "https://radio.gamerzinn.com:1385/stream"
-    },
-    {
       "id": "danubius_r_di_hu_551055b0",
       "title": "Danubius Rádió",
       "subtitle": "Pop",
@@ -27691,6 +27615,30 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://mediagw.e-tiger.net/stream/zc14"
+    },
+    {
+      "id": "fm_italia_it_52ece4e9",
+      "title": "FM Italia",
+      "subtitle": "Adult Contemporary",
+      "location": "Italy",
+      "genre": "Adult Contemporary",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "http://onair7.xdevel.com:8700/;stream.nsv"
+    },
+    {
+      "id": "radio_crc_it_e9c0c363",
+      "title": "Radio CRC",
+      "subtitle": "Local News",
+      "location": "Italy",
+      "genre": "Local News",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://stream9.xdevel.com/audio2s975936-745/stream/icecast.audio"
     }
   ]
 }

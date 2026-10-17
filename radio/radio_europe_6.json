@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-16T03:10:39Z",
+  "updated": "2026-10-17T03:02:17Z",
   "region": "europe",
   "part": 6,
   "of": 8,
@@ -18647,19 +18647,6 @@
       "bitrate": 256
     },
     {
-      "id": "rb2_db962_amsterdam_4532285d",
-      "title": "dB962 Amsterdam",
-      "subtitle": "Radio",
-      "imageUrl": "https://db962.nl/wp-content/uploads/2023/07/image-2.png",
-      "streamUrl": "http://stream.db962.nl:8030/;",
-      "location": "The Netherlands",
-      "genre": "Radio",
-      "countryCode": "NL",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 320
-    },
-    {
       "id": "rb2_de_beste_piraten_6b8e0162",
       "title": "de beste piraten",
       "subtitle": "Radio",
@@ -26282,18 +26269,6 @@
       "streamUrl": "https://radio.thijnvansummeren.nl/listen/alblasserdam/radio.mp3"
     },
     {
-      "id": "radio_zeta_it_3edc2fe9",
-      "title": "Radio Zeta",
-      "subtitle": "Radio",
-      "location": "Italy",
-      "genre": "Radio",
-      "countryCode": "IT",
-      "language": "italian",
-      "clickCount": 19,
-      "bitrate": 96,
-      "streamUrl": "https://streamingv2.shoutcast.com/radio-zeta_48.aac"
-    },
-    {
       "id": "radio_musica_italiana_it_1cccef0c",
       "title": "Radio Musica Italiana",
       "subtitle": "Italian Pop",
@@ -26472,18 +26447,6 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://radio.celodex.com/stream/ossido.mp3"
-    },
-    {
-      "id": "rtl_102_5_groove_it_77fa59c8",
-      "title": "RTL 102.5 - Groove",
-      "subtitle": "Dance",
-      "location": "Italy",
-      "genre": "Dance",
-      "countryCode": "IT",
-      "language": "italian",
-      "clickCount": 4,
-      "bitrate": 256,
-      "streamUrl": "https://streamingv2.shoutcast.com/rtl-1025-broandsis"
     },
     {
       "id": "jolene_country_radio_nl_73d4fc6e",
@@ -26832,18 +26795,6 @@
       "clickCount": 5,
       "bitrate": 0,
       "streamUrl": "http://stream.ehrhiti.lv:8000/Stream_73.mp3"
-    },
-    {
-      "id": "fm_italia_it_0e0622c5",
-      "title": "FM Italia",
-      "subtitle": "News",
-      "location": "Italy",
-      "genre": "News",
-      "countryCode": "IT",
-      "language": "italian",
-      "clickCount": 4,
-      "bitrate": 0,
-      "streamUrl": "https://stream5.xdevel.com/audio1s975817-360/stream/icecast.audio"
     },
     {
       "id": "ehr_ice_ice_party_lv_2f020694",
@@ -27396,6 +27347,162 @@
       "clickCount": 5,
       "bitrate": 320,
       "streamUrl": "https://kaas-fm.radiocult.fm/stream"
+    },
+    {
+      "id": "station_lt_8c457c64",
+      "title": "Радио Лента",
+      "subtitle": "News",
+      "location": "Lithuania",
+      "genre": "News",
+      "countryCode": "LT",
+      "language": "russian",
+      "clickCount": 9,
+      "bitrate": 128,
+      "streamUrl": "https://stream1.unknownclient.com/radio-lenta.mp3"
+    },
+    {
+      "id": "jazz_fm_lt_9bbeda8e",
+      "title": "Jazz FM",
+      "subtitle": "Blues",
+      "location": "Lithuania",
+      "genre": "Blues",
+      "countryCode": "LT",
+      "language": "lithuanian",
+      "clickCount": 6,
+      "bitrate": 89,
+      "streamUrl": "https://wowzaott1.penki.lt/jazzfm/jazzfm.stream/playlist.m3u8"
+    },
+    {
+      "id": "radijo_stotis_m_1_lt_6de64f9c",
+      "title": "Radijo stotis M-1",
+      "subtitle": "Pop",
+      "location": "Lithuania",
+      "genre": "Pop",
+      "countryCode": "LT",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "https://stream.m-1.fm/m1/aacp64"
+    },
+    {
+      "id": "haze_pub_radio_lt_b4b0b608",
+      "title": "Haze Pub Radio",
+      "subtitle": "Alternative",
+      "location": "Lithuania",
+      "genre": "Alternative",
+      "countryCode": "LT",
+      "language": "lithuanian",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://live.leproradio.com/rocks.ogg"
+    },
+    {
+      "id": "pmr_lt_lt_693ca9eb",
+      "title": "PMR.lt",
+      "subtitle": "Ethnic",
+      "location": "Lithuania",
+      "genre": "Ethnic",
+      "countryCode": "LT",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "https://stream.pmr.lt/pmr.mp3"
+    },
+    {
+      "id": "piratenkanon_suriname_nl_7254bf56",
+      "title": "PiratenKanon Suriname",
+      "subtitle": "Radio",
+      "location": "The Netherlands",
+      "genre": "Radio",
+      "countryCode": "NL",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 320,
+      "streamUrl": "https://streams.piratenkanon.nl:10100/MP3-320"
+    },
+    {
+      "id": "relax_fm_lt_d1c5f4cd",
+      "title": "Relax FM",
+      "subtitle": "Pop",
+      "location": "Lithuania",
+      "genre": "Pop",
+      "countryCode": "LT",
+      "language": "lithuanian",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream4.radijas.lt/relaxfm"
+    },
+    {
+      "id": "radijo_stotis_kelyje_lt_1c146bb9",
+      "title": "Radijo Stotis Kelyje",
+      "subtitle": "News",
+      "location": "Lithuania",
+      "genre": "News",
+      "countryCode": "LT",
+      "language": "lithuanian",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://solid55.streamupsolutions.com/proxy/opcubjpd/stream"
+    },
+    {
+      "id": "radijo_stotis_kelyje_lt_a632ee56",
+      "title": "Radijo Stotis Kelyje",
+      "subtitle": "Pop",
+      "location": "Lithuania",
+      "genre": "Pop",
+      "countryCode": "LT",
+      "language": "lithuanian",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://solid55.streamupsolutions.com/proxy/ugeiluxh/stream"
+    },
+    {
+      "id": "radior_energy_lt_6cf1b438",
+      "title": "RADIOR ENERGY",
+      "subtitle": "Club",
+      "location": "Lithuania",
+      "genre": "Club",
+      "countryCode": "LT",
+      "language": "russian",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://klausyk.radijas.lt/listen/energy/live"
+    },
+    {
+      "id": "draugyst_s_radijas_lt_c0a6e417",
+      "title": "Draugystės radijas",
+      "subtitle": "Oldies",
+      "location": "Lithuania",
+      "genre": "Oldies",
+      "countryCode": "LT",
+      "language": "lithuanian",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://213.226.189.174:8000/radio.mp3"
+    },
+    {
+      "id": "80_lv_811feac0",
+      "title": "Авторадио Дискотека 80-х",
+      "subtitle": "80S",
+      "location": "Latvia",
+      "genre": "80S",
+      "countryCode": "LV",
+      "language": "russian",
+      "clickCount": 4,
+      "bitrate": 48,
+      "streamUrl": "https://my.radioprocessor.com:8100/avtoradiolv-disco80s-48.aac"
+    },
+    {
+      "id": "disco_classics_nl_889981a3",
+      "title": "Disco Classics",
+      "subtitle": "Radio",
+      "location": "The Netherlands",
+      "genre": "Radio",
+      "countryCode": "NL",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 320,
+      "streamUrl": "https://play.streamhost.nl/listen/disco/radio.mp3"
     }
   ]
 }
