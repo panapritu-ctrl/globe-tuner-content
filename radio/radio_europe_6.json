@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-17T03:02:17Z",
+  "updated": "2026-10-18T03:02:47Z",
   "region": "europe",
   "part": 6,
   "of": 8,
@@ -4244,19 +4244,6 @@
       "genre": "Nontantola",
       "countryCode": "IT",
       "language": "italian",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_radiogramma_2f6c4eb4",
-      "title": "RadiogrAMma",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://stream.radiospore.oziosi.org:8003/zirudela.ogg?n=84fd45ac00e0d8b39c6f",
-      "location": "Italy",
-      "genre": "Radio",
-      "countryCode": "IT",
-      "language": null,
       "clickCount": 0,
       "bitrate": 128
     },
@@ -23665,18 +23652,6 @@
       "streamUrl": "http://distorzi.radioca.st:8144/stream"
     },
     {
-      "id": "radio_centrale_montorio_al_vomano_it_01d1adc6",
-      "title": "Radio Centrale - Montorio al Vomano",
-      "subtitle": "Classic Italian Pop",
-      "location": "Italy",
-      "genre": "Classic Italian Pop",
-      "countryCode": "IT",
-      "language": "italian",
-      "clickCount": 4,
-      "bitrate": 128,
-      "streamUrl": "https://s1.forstream.it:8070/radiocentrale.mp3"
-    },
-    {
       "id": "ehr_lv_c87e8192",
       "title": "EHR",
       "subtitle": "Radio",
@@ -27503,6 +27478,30 @@
       "clickCount": 4,
       "bitrate": 320,
       "streamUrl": "https://play.streamhost.nl/listen/disco/radio.mp3"
+    },
+    {
+      "id": "upso_radijas_lt_c007a463",
+      "title": "Upso Radijas",
+      "subtitle": "Radio",
+      "location": "Lithuania",
+      "genre": "Radio",
+      "countryCode": "LT",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 320,
+      "streamUrl": "https://klausyk.upsoradijas.lt/upsas_320"
+    },
+    {
+      "id": "mrpl_lt_ce783ed1",
+      "title": "MRPL",
+      "subtitle": "Radio",
+      "location": "Lithuania",
+      "genre": "Radio",
+      "countryCode": "LT",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://mrpl.babrai.com/stream"
     }
   ]
 }

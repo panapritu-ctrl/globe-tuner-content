@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-17T03:02:17Z",
+  "updated": "2026-10-18T03:02:47Z",
   "region": "asia",
   "part": 3,
   "of": 3,
@@ -1885,19 +1885,6 @@
       "language": null,
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_opm_radio_b22aae1c",
-      "title": "OPM RADIO",
-      "subtitle": "Radio",
-      "imageUrl": "https://images.radio.co/station_logos/s55a9c4931.20220801101849.jpg",
-      "streamUrl": "https://listen.streamaudio.co/proxy/kaibiganradio/opm",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 112
     },
     {
       "id": "rb2_pagudpud_beach_radio_cbade815",
@@ -6514,19 +6501,6 @@
       "genre": "News",
       "streamUrl": "https://ciner-live.ercdn.net/bloombergradyo/bloombergradyo_1.m3u8",
       "countryCode": "TR"
-    },
-    {
-      "id": "rb2_bodrum_fm_651c74a7",
-      "title": "Bodrum Fm",
-      "subtitle": "Pop",
-      "imageUrl": "",
-      "streamUrl": "https://live.bodrumfm.org/stream.mp3",
-      "location": "Türkiye",
-      "genre": "Pop",
-      "countryCode": "TR",
-      "language": "tr",
-      "clickCount": 0,
-      "bitrate": 160
     },
     {
       "id": "borusan_klasik_tr_ccfd28",
@@ -16861,18 +16835,6 @@
       "streamUrl": "http://209.126.124.126:8572/stream"
     },
     {
-      "id": "100_7_xfm_tagum_ph_0dc13ce7",
-      "title": "100.7 XFM Tagum",
-      "subtitle": "Radio",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 64,
-      "streamUrl": "http://209.126.124.126:8681/stream"
-    },
-    {
       "id": "radio_pakistan_peshawar_pk_a745be7f",
       "title": "Radio Pakistan Peshawar",
       "subtitle": "Radio",
@@ -17137,18 +17099,6 @@
       "streamUrl": "https://tiny-sun-4316.radyopangasinan88-1fm.workers.dev/stream"
     },
     {
-      "id": "xfm_davao_city_ph_9f370729",
-      "title": "XFM Davao City",
-      "subtitle": "Radio",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 64,
-      "streamUrl": "http://us1.amfmph.com:8724/live"
-    },
-    {
       "id": "insaf_radio_pk_03822bf2",
       "title": "Insaf Radio",
       "subtitle": "Radio",
@@ -17183,6 +17133,78 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "https://moondigitalmaster.radyotvonline.net/kentfm/playlist.m3u8"
+    },
+    {
+      "id": "1766_folk_tw_1a3c1ef2",
+      "title": "1766 網路廣播電台 - 音樂頻道-民俗風 Folk",
+      "subtitle": "Internet Radio",
+      "location": "Taiwan, Republic Of China",
+      "genre": "Internet Radio",
+      "countryCode": "TW",
+      "language": "chinese",
+      "clickCount": 7,
+      "bitrate": 0,
+      "streamUrl": "https://n05-eu.rcs.revma.com/q2m07dc59duvv"
+    },
+    {
+      "id": "t_m_zamanlar_n_en_i_yileri_tr_5c73a79f",
+      "title": "Tüm Zamanların En İyileri",
+      "subtitle": "2000S",
+      "location": "Türkiye",
+      "genre": "2000S",
+      "countryCode": "TR",
+      "language": "turkish",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://25553.live.streamtheworld.com:443/GHOAT_TR128AAC.aac"
+    },
+    {
+      "id": "ulusal_radyo_tr_9d3b320e",
+      "title": "Ulusal Radyo",
+      "subtitle": "Music",
+      "location": "Türkiye",
+      "genre": "Music",
+      "countryCode": "TR",
+      "language": "turkish",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://radyo.ulusalkanal.net.tr/9302/stream"
+    },
+    {
+      "id": "voice_of_fju_fm88_5_tw_a422ffff",
+      "title": "輔大之聲 Voice of FJU FM88.5",
+      "subtitle": "Culture",
+      "location": "Taiwan, Republic Of China",
+      "genre": "Culture",
+      "countryCode": "TW",
+      "language": "chinese",
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "http://fjuvoice885.fju.edu.tw:8000/fjuvoice885.mp3"
+    },
+    {
+      "id": "fm99_new_th_454d0de5",
+      "title": "fm99 new",
+      "subtitle": "Classical",
+      "location": "Thailand",
+      "genre": "Classical",
+      "countryCode": "TH",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://play-fm99.mcot.net/fm99/fm99.m3u8"
+    },
+    {
+      "id": "station_tw_be9e1e4c",
+      "title": "君弘廣播電台｜君弘保健室",
+      "subtitle": "Radio",
+      "location": "Taiwan, Republic Of China",
+      "genre": "Radio",
+      "countryCode": "TW",
+      "language": "chinese",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://junhongradio.com/listen/junhong/radio.mp3"
     }
   ]
 }

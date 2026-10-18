@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-17T03:02:17Z",
+  "updated": "2026-10-18T03:02:47Z",
   "region": "asia",
   "part": 2,
   "of": 3,
@@ -41,19 +41,6 @@
       "genre": "Full Service",
       "countryCode": "CN",
       "language": "uyghur",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_station_7e94e240",
-      "title": "辉南综合广播",
-      "subtitle": "Full Service, Information",
-      "imageUrl": "https://pic.qtfm.cn/2022/0515/20220515074518.jpeg",
-      "streamUrl": "https://lhttp-hw.qtfm.cn/live/20211566/64k.mp3",
-      "location": "jilin, China",
-      "genre": "Full Service",
-      "countryCode": "CN",
-      "language": "chinese",
       "clickCount": 0,
       "bitrate": 128
     },
@@ -5176,19 +5163,6 @@
       "countryCode": "ID",
       "language": "english",
       "clickCount": 1,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_kpfm_balikpapan_4eb96af6",
-      "title": "KPFM Balikpapan",
-      "subtitle": "Radio",
-      "imageUrl": "https://live.kapefm.com/wp-content/uploads/2024/07/logo-kapefmcom.png",
-      "streamUrl": "https://pu.klikhost.com/proxy/kpfmbpn/stream",
-      "location": "Balikpapan, Indonesia",
-      "genre": "Radio",
-      "countryCode": "ID",
-      "language": null,
-      "clickCount": 0,
       "bitrate": 128
     },
     {
@@ -12217,15 +12191,6 @@
       "location": "India",
       "genre": "Radio",
       "streamUrl": "https://rangeelaradio.radioca.st/;",
-      "countryCode": "IN"
-    },
-    {
-      "id": "red_fm_in_15812c",
-      "title": "Red Fm",
-      "subtitle": "Music",
-      "location": "India",
-      "genre": "Music",
-      "streamUrl": "https://funasia.streamguys1.com/live9",
       "countryCode": "IN"
     },
     {
@@ -24720,18 +24685,6 @@
       "streamUrl": "http://onair.mapofm.net/mapofm"
     },
     {
-      "id": "aaj_tak_news_radio_live_in_7d4e8246",
-      "title": "Aaj Tak News Radio Live",
-      "subtitle": "Radio",
-      "location": "India",
-      "genre": "Radio",
-      "countryCode": "IN",
-      "language": "hindi",
-      "clickCount": 54,
-      "bitrate": 255,
-      "streamUrl": "https://feeds.intoday.in/aajtak/api/master.m3u8"
-    },
-    {
       "id": "al_bilad_radio_yaqoubi_iq_8a63abc1",
       "title": "Al-bilad Radio/Yaqoubi",
       "subtitle": "Al-Bilad Radio",
@@ -25752,18 +25705,6 @@
       "streamUrl": "https://securestream.casthost.net:8219/stream"
     },
     {
-      "id": "melody_fm_malaysia_my_432f3c8c",
-      "title": "Melody FM Malaysia",
-      "subtitle": "Classical",
-      "location": "Malaysia",
-      "genre": "Classical",
-      "countryCode": "MY",
-      "language": null,
-      "clickCount": 33,
-      "bitrate": 0,
-      "streamUrl": "https://n09.rcs.revma.com/2u1n6dtbv4uvv/9_11l86ncot7z1w02/playlist.m3u8"
-    },
-    {
       "id": "air_indore_in_c5fc105c",
       "title": "AIR Indore",
       "subtitle": "Infotainment",
@@ -25846,6 +25787,246 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://live.zhanafm.kz:8443/zhanalounge"
+    },
+    {
+      "id": "aaj_tak_news_radio_live_in_7d4e8246",
+      "title": "Aaj Tak News Radio Live",
+      "subtitle": "Radio",
+      "location": "India",
+      "genre": "Radio",
+      "countryCode": "IN",
+      "language": "hindi",
+      "clickCount": 47,
+      "bitrate": 255,
+      "streamUrl": "https://feeds.intoday.in/aajtak/api/master.m3u8"
+    },
+    {
+      "id": "melody_fm_malaysia_my_432f3c8c",
+      "title": "Melody FM Malaysia",
+      "subtitle": "Classical",
+      "location": "Malaysia",
+      "genre": "Classical",
+      "countryCode": "MY",
+      "language": null,
+      "clickCount": 43,
+      "bitrate": 0,
+      "streamUrl": "https://n09.rcs.revma.com/2u1n6dtbv4uvv/9_11l86ncot7z1w02/playlist.m3u8"
+    },
+    {
+      "id": "mbc_fm4u_kr_1b244da1",
+      "title": "MBC FM4U",
+      "subtitle": "Radio",
+      "location": "The Republic Of Korea",
+      "genre": "Radio",
+      "countryCode": "KR",
+      "language": "korean",
+      "clickCount": 15,
+      "bitrate": 66,
+      "streamUrl": "https://minimw.imbc.com/dmfm/_definst_/mfm.stream/playlist.m3u8?_lsu_sa_=6A01E51233A93174BE43A5BC31713C4C65193C05A403F2673F9069a836AC37F69Da1337F33F2864720D937A118b8C114A7AE89C9FD4A1A75CD22C8BD2C45774AC19C0B1B982899642A72669FCEBFA488C566152CAE37304420EC9E457B13542A79CD5F420452D820265BD377F9B91AB8"
+    },
+    {
+      "id": "neko_network_radio_anime_japanese_jp_30e7995e",
+      "title": "Neko-Network Radio: Anime/Japanese",
+      "subtitle": "Radio",
+      "location": "Japan",
+      "genre": "Radio",
+      "countryCode": "JP",
+      "language": null,
+      "clickCount": 13,
+      "bitrate": 320,
+      "streamUrl": "http://listen.nekonetwork.moe:8400/anime.mp3"
+    },
+    {
+      "id": "mbc_fm_kr_858a4628",
+      "title": "MBC FM",
+      "subtitle": "Radio",
+      "location": "The Republic Of Korea",
+      "genre": "Radio",
+      "countryCode": "KR",
+      "language": "korean",
+      "clickCount": 13,
+      "bitrate": 65,
+      "streamUrl": "https://minisw.imbc.com/dsfm/_definst_/sfm.stream/playlist.m3u8?_lsu_sa_=6CC13A15D3D03354C646D5BA32C1D74145BF3115940032BA3A60C3a5E67835F6EEa063D032B21C4DE0983AB166bFD12D68090E7465BE17D40DCDDE28A274695DE3577704A0107D6D5D9DA282B3AB97C89156F50E3508E90D5EE8B2BF53610A966ECEC1B8D693A4CC461267787078A282"
+    },
+    {
+      "id": "kbs_1r_kr_4460d248",
+      "title": "KBS 1R",
+      "subtitle": "Radio",
+      "location": "The Republic Of Korea",
+      "genre": "Radio",
+      "countryCode": "KR",
+      "language": "korean",
+      "clickCount": 9,
+      "bitrate": 0,
+      "streamUrl": "https://1radio-bora.gscdn.kbs.co.kr/1radio-bora-01/1radio-bora-01_hd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xcmFkaW8tYm9yYS5nc2Nkbi5rYnMuY28ua3IvMXJhZGlvLWJvcmEtMDEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MjQxMTE1M319fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=RXjZWn5gV9~qeKa5IqOncWlTI~LoZV8BiePa1Wr~bZQc5or0KUPwStrVlaNmo56N3dDKEALwMJSzaAkXMC9~xE24QZisA4qllfNBrBQ9bIh00m31mHmPKq3B6JUxDw6IA6St8OMKFGocht8Rw4F-ClAiiE4k9nRdiF2DqUULflZl-ZD4MalxJlDr9tIWSyXJTCUgPuygaZzdyc7GybgcfrFrzvZxf--0tM-V0iunNrWL04lLeo9sfCpv~5m-8ln4Hc0Tk3by39RU7PPTd1764r1nIu-IcjjYyaVwJwL1QV~blOs731R051FRsizprmYM~IKgaQL7sCkMu3Eo9v~5Uw__"
+    },
+    {
+      "id": "she_radio_99_6_fm_surabaya_id_a07fdaf6",
+      "title": "She Radio 99.6 FM Surabaya",
+      "subtitle": "Pop",
+      "location": "Indonesia",
+      "genre": "Pop",
+      "countryCode": "ID",
+      "language": null,
+      "clickCount": 7,
+      "bitrate": 100,
+      "streamUrl": "https://c4.siar.us/proxy/sheradio/stream"
+    },
+    {
+      "id": "air_urdu_in_ede8f82f",
+      "title": "AIR Urdu",
+      "subtitle": "Radio",
+      "location": "India",
+      "genre": "Radio",
+      "countryCode": "IN",
+      "language": null,
+      "clickCount": 7,
+      "bitrate": 0,
+      "streamUrl": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio006/hlspbaudio00632kbps.m3u8"
+    },
+    {
+      "id": "beethoven_piano_sonatas_jp_8b11ce99",
+      "title": "Beethoven Piano Sonatas",
+      "subtitle": "Beethoven",
+      "location": "Japan",
+      "genre": "Beethoven",
+      "countryCode": "JP",
+      "language": "english",
+      "clickCount": 7,
+      "bitrate": 128,
+      "streamUrl": "https://mpc1.mediacp.eu/stream/globaltopcharts"
+    },
+    {
+      "id": "vividh_bharti_pune_in_4734cbdc",
+      "title": "Vividh Bharti Pune",
+      "subtitle": "Radio",
+      "location": "India",
+      "genre": "Radio",
+      "countryCode": "IN",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "https://d1tmej9eu7kw5c.cloudfront.net/7b3a089ab67dcf3c/7b3a089ab67dcf3c.m3u8"
+    },
+    {
+      "id": "all_classical_piano_chamber_works_and_concertos_jp_766a4025",
+      "title": "All Classical Piano Chamber Works and Concertos",
+      "subtitle": "Classical",
+      "location": "Japan",
+      "genre": "Classical",
+      "countryCode": "JP",
+      "language": "english",
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://mpc1.mediacp.eu:8040/stream"
+    },
+    {
+      "id": "all_classical_new_releases_jp_50ea892e",
+      "title": "All Classical New Releases",
+      "subtitle": "Classical",
+      "location": "Japan",
+      "genre": "Classical",
+      "countryCode": "JP",
+      "language": "english",
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://mpc1.mediacp.eu:8038/stream"
+    },
+    {
+      "id": "yojosuknam_radio_kr_ad7fd304",
+      "title": "yojosuknam Radio",
+      "subtitle": "24/7",
+      "location": "The Republic Of Korea",
+      "genre": "24/7",
+      "countryCode": "KR",
+      "language": "english",
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "https://audio.yojosuknam.com/radio/live.m3u8"
+    },
+    {
+      "id": "air_ujjain_in_9d1b72bc",
+      "title": "AIR Ujjain",
+      "subtitle": "Radio",
+      "location": "India",
+      "genre": "Radio",
+      "countryCode": "IN",
+      "language": "hindi",
+      "clickCount": 5,
+      "bitrate": 148,
+      "streamUrl": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio233/playlist.m3u8"
+    },
+    {
+      "id": "java_mastikhor_in_558dba38",
+      "title": "JAVA MASTIKHOR",
+      "subtitle": "Bollywood",
+      "location": "India",
+      "genre": "Bollywood",
+      "countryCode": "IN",
+      "language": "english hindi",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://javamastikhor.duckdns.org/live"
+    },
+    {
+      "id": "fm_radio_fmyy_jp_35031f52",
+      "title": "神戸長田FMわぃわぃ (Radio FMYY)",
+      "subtitle": "Culture",
+      "location": "Japan",
+      "genre": "Culture",
+      "countryCode": "JP",
+      "language": "japanese",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://tcc117.jp/fmyy/asx/simulbroadcast.mp3"
+    },
+    {
+      "id": "hang_106_fm_id_5079bdc6",
+      "title": "Hang 106 FM",
+      "subtitle": "Radio",
+      "location": "Indonesia",
+      "genre": "Radio",
+      "countryCode": "ID",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 64,
+      "streamUrl": "http://185.47.62.52:8000/listen.mp3/stats?sid=1&json=1&callback=jQuery1124046759743595637016_1677813104799&_=1677813104800"
+    },
+    {
+      "id": "air_bhopal_in_3ff59dd2",
+      "title": "AIR bhopal",
+      "subtitle": "Radio",
+      "location": "India",
+      "genre": "Radio",
+      "countryCode": "IN",
+      "language": "hindi",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio212/chunklist.m3u8"
+    },
+    {
+      "id": "radio_shiga_jp_0f7963d9",
+      "title": "Radio Shiga",
+      "subtitle": "Culture",
+      "location": "Japan",
+      "genre": "Culture",
+      "countryCode": "JP",
+      "language": "portuguese",
+      "clickCount": 4,
+      "bitrate": 64,
+      "streamUrl": "https://sv10.hdradios.net:21920/stream"
+    },
+    {
+      "id": "yojosuknam_radio_kr_7a328f81",
+      "title": "yojosuknam Radio",
+      "subtitle": "24/7",
+      "location": "The Republic Of Korea",
+      "genre": "24/7",
+      "countryCode": "KR",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://stream.yojosuknam.com/live.mp3"
     }
   ]
 }

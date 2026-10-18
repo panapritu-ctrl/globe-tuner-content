@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-17T03:02:17Z",
+  "updated": "2026-10-18T03:02:47Z",
   "region": "europe",
   "part": 8,
   "of": 8,
@@ -3928,19 +3928,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_radio_guberniya_a33116f2",
-      "title": "Radio Guberniya",
-      "subtitle": "Classic Hits, Hits",
-      "imageUrl": "",
-      "streamUrl": "http://www.gubernia-media.ru:8000/gubernia",
-      "location": "The Russian Federation",
-      "genre": "Classic Hits",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_radio_hit_orsk_103_7_fm_964333c0",
       "title": "Radio Hit Orsk 103.7 FM",
       "subtitle": "Top 40 Hits",
@@ -7214,19 +7201,6 @@
       "language": "russian",
       "clickCount": 0,
       "bitrate": 48
-    },
-    {
-      "id": "rb2_91_5_fm_623da267",
-      "title": "Болгар Радиосы Казань 91.5 FM",
-      "subtitle": "Music",
-      "imageUrl": "",
-      "streamUrl": "https://live.bolgarradio.com/b_aac_hifi.m3u8",
-      "location": "The Russian Federation",
-      "genre": "Music",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 0,
-      "bitrate": 128
     },
     {
       "id": "rb2_station_46c6c80b",
@@ -25494,18 +25468,6 @@
       "streamUrl": "https://coffee-wave.ru:8000/aac"
     },
     {
-      "id": "897_sk_4e6d891b",
-      "title": "897",
-      "subtitle": "Club",
-      "location": "Slovakia",
-      "genre": "Club",
-      "countryCode": "SK",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 128,
-      "streamUrl": "https://c34.radioboss.fm:8106/stream"
-    },
-    {
       "id": "fm_ua_289e786d",
       "title": "Радіо Шлягер FM",
       "subtitle": "Information",
@@ -25720,6 +25682,54 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "https://m.axradio.net/stream.mp3"
+    },
+    {
+      "id": "10_ru_eff8a0aa",
+      "title": "Радио 10",
+      "subtitle": "Pop Music",
+      "location": "The Russian Federation",
+      "genre": "Pop Music",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://ic.radio10.live/stream.mp3"
+    },
+    {
+      "id": "old_radio_music_32_ru_01a28fb4",
+      "title": "Старое радио Музыка - Old radio Music 32",
+      "subtitle": "Retro",
+      "location": "The Russian Federation",
+      "genre": "Retro",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://195.91.237.50:8000/music32"
+    },
+    {
+      "id": "89_7_fm_ru_b42ca94d",
+      "title": "Радио Шансон Казань 89.7 FM",
+      "subtitle": "Chanson",
+      "location": "The Russian Federation",
+      "genre": "Chanson",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "http://online2.gkvr.ru:8000/chanson_kaz_64.aac"
+    },
+    {
+      "id": "metal_ua_9308b70a",
+      "title": "РокРадіо Metal",
+      "subtitle": "Https",
+      "location": "Ukraine",
+      "genre": "Https",
+      "countryCode": "UA",
+      "language": "ukranian",
+      "clickCount": 4,
+      "bitrate": 256,
+      "streamUrl": "https://rockradioua.online:8433/metal_256"
     }
   ]
 }

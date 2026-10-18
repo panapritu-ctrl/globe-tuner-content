@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-17T03:02:17Z",
+  "updated": "2026-10-18T03:02:47Z",
   "region": "asia",
   "part": 1,
   "of": 3,
@@ -7543,19 +7543,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_tick_tock_radio_1960_26cd31fa",
-      "title": "Tick Tock Radio - 1960",
-      "subtitle": "1960S",
-      "imageUrl": "https://ticktock.radio/static/assets/img/apple-icon-120x120.png",
-      "streamUrl": "https://streaming.ticktock.radio/tt/1960/icecast.audio",
-      "location": "Dubai, The United Arab Emirates",
-      "genre": "1960S",
-      "countryCode": "AE",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_tick_tock_radio_1963_d65925da",
       "title": "Tick Tock Radio - 1963",
       "subtitle": "1960S, 1963S",
@@ -7782,19 +7769,6 @@
       "subtitle": "1990S",
       "imageUrl": "https://ticktock.radio/static/assets/img/apple-icon-120x120.png",
       "streamUrl": "https://nl4.mystreaming.net/tt/1990/icecast.audio",
-      "location": "Dubai, The United Arab Emirates",
-      "genre": "1990S",
-      "countryCode": "AE",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_tick_tock_radio_1995_b8c74695",
-      "title": "Tick Tock Radio - 1995",
-      "subtitle": "1990S",
-      "imageUrl": "",
-      "streamUrl": "https://streaming.ticktock.radio/tt/1995/icecast.audio",
       "location": "Dubai, The United Arab Emirates",
       "genre": "1990S",
       "countryCode": "AE",
@@ -9891,19 +9865,6 @@
       "genre": "Bible",
       "streamUrl": "https://streams.radiomast.io/ce298b32-8776-4192-9900-092f44b63e7f",
       "countryCode": "CN"
-    },
-    {
-      "id": "rb2_brtv_ecbe92bf",
-      "title": "BRTV北京音乐广播",
-      "subtitle": "Music",
-      "imageUrl": "https://pic.qtfm.cn/2017/0424/20170424025444.jpeg",
-      "streamUrl": "https://brtv-radiolive.rbc.cn/alive/fm974.m3u8",
-      "location": "Beijing, China",
-      "genre": "Music",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 6,
-      "bitrate": 128
     },
     {
       "id": "big_b_radio_cpop_cn_12cd39",
@@ -15501,19 +15462,6 @@
       "language": "chinese",
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_station_f84dd4d8",
-      "title": "天水音乐文艺广播",
-      "subtitle": "Music",
-      "imageUrl": "https://nginx-tss.xgsyun.com/tss/site1/resource/tv/tss/202311/10/ee3a4985-5f88-4687-8d35-ff5e98ef4172.jpg",
-      "streamUrl": "http://play.kankanlive.com/live/1735268150305110.m3u8",
-      "location": "Kansu, China",
-      "genre": "Music",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 0,
-      "bitrate": 2560
     },
     {
       "id": "rb2_station_f149a3a4",
@@ -26173,18 +26121,6 @@
       "streamUrl": "https://lhttp-hw.qtfm.cn/live/5045/64k.mp3"
     },
     {
-      "id": "abu_dhabi_fm_ae_58ef74aa",
-      "title": "Abu Dhabi fm",
-      "subtitle": "Arabic",
-      "location": "The United Arab Emirates",
-      "genre": "Arabic",
-      "countryCode": "AE",
-      "language": null,
-      "clickCount": 6,
-      "bitrate": 637,
-      "streamUrl": "https://admn-radio-cdn-lb.starzplayarabia.com/out/v1/admn_radio_enc/abudhabi_fm/abudhabi_fm_hls_nd/index.m3u8"
-    },
-    {
       "id": "station_cn_5ab3d454",
       "title": "鹤山人民广播电台",
       "subtitle": "Music",
@@ -27251,6 +27187,126 @@
       "clickCount": 3,
       "bitrate": 0,
       "streamUrl": "http://ls.qingting.fm/live/1673.m3u8"
+    },
+    {
+      "id": "891_cn_59aab6fc",
+      "title": "891线上音乐台 高清",
+      "subtitle": "Internet Radio",
+      "location": "China",
+      "genre": "Internet Radio",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 36,
+      "bitrate": 192,
+      "streamUrl": "https://live.fm891.net/192k.aac"
+    },
+    {
+      "id": "brtv_cn_e4560f7e",
+      "title": "BRTV北京音乐广播",
+      "subtitle": "Music",
+      "location": "China",
+      "genre": "Music",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 7,
+      "bitrate": 0,
+      "streamUrl": "https://brtv-radiolive.rbc.cn/alive/fm974.m3u8"
+    },
+    {
+      "id": "station_cn_021176e7",
+      "title": "新闻听天下",
+      "subtitle": "News",
+      "location": "China",
+      "genre": "News",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://rscdn.ajmide.com/r_3067/nglive_3067.m3u8"
+    },
+    {
+      "id": "station_cn_dc0ee2e1",
+      "title": "听·京剧",
+      "subtitle": "Traditional Opera",
+      "location": "China",
+      "genre": "Traditional Opera",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://rscdn.ajmide.com/r_3106/nglive_3106.m3u8"
+    },
+    {
+      "id": "station_cn_cbb6fabb",
+      "title": "郁南音乐台",
+      "subtitle": "Internet Radio",
+      "location": "China",
+      "genre": "Internet Radio",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://lhttp-hw.qtfm.cn/live/20026/64k.mp3"
+    },
+    {
+      "id": "station_cn_80bbe54a",
+      "title": "西安音乐广播",
+      "subtitle": "Music",
+      "location": "China",
+      "genre": "Music",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://lhttp-hw.qtfm.cn/live/1612/64k.mp3"
+    },
+    {
+      "id": "80_cn_ad38a003",
+      "title": "80后音悦台·河南网络电台",
+      "subtitle": "Radio",
+      "location": "China",
+      "genre": "Radio",
+      "countryCode": "CN",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://play-radio-stream3.hndt.com/now/SFZeH2cb/chunklist.m3u8"
+    },
+    {
+      "id": "station_cn_3d50bf09",
+      "title": "听·昆曲",
+      "subtitle": "Opera",
+      "location": "China",
+      "genre": "Opera",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://rscdn.ajmide.com/r_3115/nglive_3115.m3u8"
+    },
+    {
+      "id": "station_cn_f21f5c03",
+      "title": "扬州新闻广播",
+      "subtitle": "News",
+      "location": "China",
+      "genre": "News",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://lhttp.qingting.fm/live/5000/64k.mp3"
+    },
+    {
+      "id": "station_cn_e53e7cbf",
+      "title": "马鞍山交通音乐广播",
+      "subtitle": "Music",
+      "location": "China",
+      "genre": "Music",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://rscdn.ajmide.com/r_2212/nglive_2212.m3u8"
     }
   ]
 }

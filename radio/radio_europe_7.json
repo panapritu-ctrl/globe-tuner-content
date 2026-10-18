@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-17T03:02:17Z",
+  "updated": "2026-10-18T03:02:47Z",
   "region": "europe",
   "part": 7,
   "of": 8,
@@ -11120,19 +11120,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_radio_teatru_radiofonic_rom_nia_6dff1b65",
-      "title": "Radio Teatru Radiofonic România",
-      "subtitle": "Culture, Theatre",
-      "imageUrl": "https://teatruradiofonic.com/wp-content/uploads/2021/10/radio-teatruradiofoniclive-1.jpg",
-      "streamUrl": "https://asculta.teatruradiofonic.com/teatru",
-      "location": "Romania",
-      "genre": "Culture",
-      "countryCode": "RO",
-      "language": "romanian",
-      "clickCount": 0,
-      "bitrate": 32
-    },
-    {
       "id": "rb2_radio_tequila_manele_romania_dcae60bc",
       "title": "Radio Tequila Manele Romania",
       "subtitle": "Radio",
@@ -19776,19 +19763,6 @@
       "bitrate": 192
     },
     {
-      "id": "rb2_luxury_lounge_level_2_dcb6b267",
-      "title": "Luxury Lounge - level 2",
-      "subtitle": "Chillout, Lounge",
-      "imageUrl": "https://lounge.luxury/img/apple-touch-icon.png",
-      "streamUrl": "http://188.40.109.122:8000/ices",
-      "location": "The Russian Federation",
-      "genre": "Chillout",
-      "countryCode": "RU",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 192
-    },
-    {
       "id": "rb2_luxury_lounge_radio_chillwave_retrowave__989d12b8",
       "title": "Luxury Lounge Radio - Chillwave, Retrowave, Synthwave",
       "subtitle": "Chillout, Chillwave",
@@ -24837,18 +24811,6 @@
       "streamUrl": "https://radio.beatcity.pl/listen/beat_city_warszawa/radio.mp3"
     },
     {
-      "id": "naxi_fitness_rs_f2e3a070",
-      "title": "Naxi Fitness",
-      "subtitle": "Electronic",
-      "location": "Serbia",
-      "genre": "Electronic",
-      "countryCode": "RS",
-      "language": null,
-      "clickCount": 7,
-      "bitrate": 128,
-      "streamUrl": "https://naxidigital-fitness128ssl.streaming.rs:8292/;stream.nsv"
-    },
-    {
       "id": "meloradio_fast_songs_pl_fb68d6df",
       "title": "MELORADIO FAST SONGS",
       "subtitle": "Dance",
@@ -24907,30 +24869,6 @@
       "clickCount": 3,
       "bitrate": 192,
       "streamUrl": "http://stream.voxfm.ro:8000/stream/1"
-    },
-    {
-      "id": "naxi_radio_cafe_radio_rs_a73dcd72",
-      "title": "naxi radio - cafe radio",
-      "subtitle": "Cafe",
-      "location": "Serbia",
-      "genre": "Cafe",
-      "countryCode": "RS",
-      "language": null,
-      "clickCount": 3,
-      "bitrate": 128,
-      "streamUrl": "http://naxidigital-cafe128.streaming.rs:8020/;stream.nsv"
-    },
-    {
-      "id": "radio_sljivovica_rs_aac8db44",
-      "title": "Radio Sljivovica",
-      "subtitle": "Radio",
-      "location": "Serbia",
-      "genre": "Radio",
-      "countryCode": "RS",
-      "language": "serbian",
-      "clickCount": 3,
-      "bitrate": 128,
-      "streamUrl": "http://stream.iradio.pro:8114/;stream.nsv"
     },
     {
       "id": "lautaru_populara_ro_fb71e48e",
@@ -25567,6 +25505,90 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://naxidigital-fresh128ssl.streaming.rs:8212/;stream.nsv"
+    },
+    {
+      "id": "radio_petrec_retzu_ro_7009cace",
+      "title": "Radio Petrecăretzu",
+      "subtitle": "Etno",
+      "location": "Romania",
+      "genre": "Etno",
+      "countryCode": "RO",
+      "language": "romanian",
+      "clickCount": 9,
+      "bitrate": 128,
+      "streamUrl": "http://live.radiopetrecaretzu.ro:8383/;"
+    },
+    {
+      "id": "tranquila_manele_rom_nia_ro_b86a2c4d",
+      "title": "Tranquila Manele România",
+      "subtitle": "Manele",
+      "location": "Romania",
+      "genre": "Manele",
+      "countryCode": "RO",
+      "language": "romania",
+      "clickCount": 7,
+      "bitrate": 128,
+      "streamUrl": "https://live.radiotranquila.net:8032/stream"
+    },
+    {
+      "id": "yrardio_pl_1cb40a02",
+      "title": "Żyrardio",
+      "subtitle": "Eurobeat",
+      "location": "Poland",
+      "genre": "Eurobeat",
+      "countryCode": "PL",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "https://radio.hszyr.space/"
+    },
+    {
+      "id": "station_ru_51d80975",
+      "title": "Крематорий",
+      "subtitle": "Discography",
+      "location": "The Russian Federation",
+      "genre": "Discography",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "https://stream03.pcradio.app/krematoriy-hi"
+    },
+    {
+      "id": "super_fm_ro_7c0ecbca",
+      "title": "Super FM",
+      "subtitle": "Radio",
+      "location": "Romania",
+      "genre": "Radio",
+      "countryCode": "RO",
+      "language": "romanian",
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "https://live.superfm.ro/stream.mp3"
+    },
+    {
+      "id": "futrzak_fm_320kbps_pl_e5734206",
+      "title": "FUTRZAK.FM - 320kbps",
+      "subtitle": "Edm",
+      "location": "Poland",
+      "genre": "Edm",
+      "countryCode": "PL",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 320,
+      "streamUrl": "https://audio.futrzak.fm/futrzakfm-320"
+    },
+    {
+      "id": "naxi_fitness_rs_f2e3a070",
+      "title": "Naxi Fitness",
+      "subtitle": "Electronic",
+      "location": "Serbia",
+      "genre": "Electronic",
+      "countryCode": "RS",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://naxidigital-fitness128ssl.streaming.rs:8292/;stream.nsv"
     }
   ]
 }

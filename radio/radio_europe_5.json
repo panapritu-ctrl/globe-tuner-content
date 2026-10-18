@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-17T03:02:17Z",
+  "updated": "2026-10-18T03:02:47Z",
   "region": "europe",
   "part": 5,
   "of": 8,
@@ -12544,19 +12544,6 @@
       "countryCode": "HR",
       "language": "croatian",
       "clickCount": 4,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_ro_a_2beeeeea",
-      "title": "Radio Roža",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://stream.radio-roza.org/live.ogg",
-      "location": "Croatia",
-      "genre": "Radio",
-      "countryCode": "HR",
-      "language": null,
-      "clickCount": 1,
       "bitrate": 128
     },
     {
@@ -27639,6 +27626,18 @@
       "clickCount": 5,
       "bitrate": 0,
       "streamUrl": "https://stream9.xdevel.com/audio2s975936-745/stream/icecast.audio"
+    },
+    {
+      "id": "radio_zeta_it_3edc2fe9",
+      "title": "Radio Zeta",
+      "subtitle": "Radio",
+      "location": "Italy",
+      "genre": "Radio",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 12,
+      "bitrate": 96,
+      "streamUrl": "https://streamingv2.shoutcast.com/radio-zeta_48.aac"
     }
   ]
 }

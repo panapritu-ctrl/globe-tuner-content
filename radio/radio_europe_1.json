@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-17T03:02:17Z",
+  "updated": "2026-10-18T03:02:47Z",
   "region": "europe",
   "part": 1,
   "of": 8,
@@ -2894,19 +2894,6 @@
       "countryCode": "AT",
       "language": "english",
       "clickCount": 1,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_replayscape_a9c48772",
-      "title": "ReplayScape",
-      "subtitle": "Radio",
-      "imageUrl": "https://replayscape.com/pix/logo/171206a_simpler_full_0of12_zoom_tiny_blue.jpg",
-      "streamUrl": "https://radio.replayscape.com:8443/128k.mp3",
-      "location": "Austria",
-      "genre": "Radio",
-      "countryCode": "AT",
-      "language": null,
-      "clickCount": 0,
       "bitrate": 128
     },
     {
@@ -12700,19 +12687,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_rsr_espace_2_8f6a70f6",
-      "title": "RSR Espace 2",
-      "subtitle": "Radio",
-      "imageUrl": "https://www.rts.ch/hbv7/static/images/favicon/rts/152x152.png",
-      "streamUrl": "http://stream.srg-ssr.ch/srgssr/espace-2/aac/48",
-      "location": "Suisse Romande, Switzerland",
-      "genre": "Radio",
-      "countryCode": "CH",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 48
-    },
-    {
       "id": "rsr_la_premiere_ch_2b9f1c",
       "title": "RSR La Premiere",
       "subtitle": "Radio",
@@ -13287,19 +13261,6 @@
       "bitrate": 96
     },
     {
-      "id": "rb2_radio_rtr_c66c41ff",
-      "title": "Radio RTR",
-      "subtitle": "Radio",
-      "imageUrl": "https://www.rtr.ch/var/storage/assets/webpack/favicons/rtr-apple-touch-icon.png",
-      "streamUrl": "http://stream.srg-ssr.ch/srgssr/rr/aac/96",
-      "location": "Switzerland",
-      "genre": "Radio",
-      "countryCode": "CH",
-      "language": "romansh",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_radio_rocher_1e255d42",
       "title": "Radio Rocher",
       "subtitle": "Community Radio, Suisse",
@@ -13605,15 +13566,6 @@
       "bitrate": 128
     },
     {
-      "id": "radio_srf_3_ch_890b3e",
-      "title": "Radio SRF 3",
-      "subtitle": "Entertainment",
-      "location": "Switzerland",
-      "genre": "Pop",
-      "countryCode": "CH",
-      "streamUrl": "https://stream.srg-ssr.ch/m/drs3/aacp_96"
-    },
-    {
       "id": "rb2_radio_srf_3_aac_192_22fae9ab",
       "title": "Radio SRF 3 (AAC 192)",
       "subtitle": "Pop, Rock",
@@ -13712,19 +13664,6 @@
       "language": "german",
       "clickCount": 0,
       "bitrate": 160
-    },
-    {
-      "id": "rb2_radio_suisse_classique_962c560d",
-      "title": "Radio Suisse Classique",
-      "subtitle": "Classical, Public Radio",
-      "imageUrl": "",
-      "streamUrl": "http://stream.srg-ssr.ch/m/rsc_fr/mp3_128",
-      "location": "Bern, Switzerland",
-      "genre": "Classical",
-      "countryCode": "CH",
-      "language": "french",
-      "clickCount": 3,
-      "bitrate": 128
     },
     {
       "id": "rb2_radio_suisse_jazz_af9c905f",
@@ -14618,19 +14557,6 @@
       "language": "english",
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_swiss_pop_b74c8d24",
-      "title": "Swiss Pop",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://stream.srg-ssr.ch/srgssr/rsp/aac/96",
-      "location": "Switzerland",
-      "genre": "Radio",
-      "countryCode": "CH",
-      "language": null,
-      "clickCount": 3,
-      "bitrate": 88
     },
     {
       "id": "rb2_transition_radio_93b8955d",
@@ -25982,18 +25908,6 @@
       "streamUrl": "https://stream.srg-ssr.ch/m/rsp/mp3_128"
     },
     {
-      "id": "classic_radio_swiss_ch_9ebc1ac9",
-      "title": "Classic | Radio Swiss",
-      "subtitle": "Classical",
-      "location": "Switzerland",
-      "genre": "Classical",
-      "countryCode": "CH",
-      "language": "english",
-      "clickCount": 4,
-      "bitrate": 128,
-      "streamUrl": "https://stream.srg-ssr.ch/m/rsc_de/mp3_128"
-    },
-    {
       "id": "technolovers_vocal_trance_de_607016e1",
       "title": "Technolovers VOCAL TRANCE",
       "subtitle": "Melodic Trance",
@@ -32292,6 +32206,282 @@
       "clickCount": 3,
       "bitrate": 192,
       "streamUrl": "http://151.80.43.143:8062/.mp3"
+    },
+    {
+      "id": "93_fm_al_e864a5a1",
+      "title": "93 FM",
+      "subtitle": "Pop",
+      "location": "Albania",
+      "genre": "Pop",
+      "countryCode": "AL",
+      "language": "albanian",
+      "clickCount": 12,
+      "bitrate": 128,
+      "streamUrl": "https://stream-286.surfernetwork.com/nxlpc8voddftv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJueGxwYzh2b2RkZnR2IiwiaG9zdCI6InN0cmVhbS0yODYuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InYyMVRXc3FLUnZHREpjY2c3am9vbXciLCJpYXQiOjE3OTIxMDUzODEsImV4cCI6MTc5MjEwNTQ0MX0.wDXZngO4liJjOxUv8ruN2baLJI14mDD6ZNK3e1vq2Ww"
+    },
+    {
+      "id": "1_liga_spiel_1_sportschau_de_2ca255b8",
+      "title": "1. Liga Spiel 1 - Sportschau",
+      "subtitle": "Bundesliga",
+      "location": "Germany",
+      "genre": "Bundesliga",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 7,
+      "bitrate": 128,
+      "streamUrl": "https://dispatcher.rndfnk.com/wdr/sportschau/liga1spiel1/mp3/128/stream.mp3"
+    },
+    {
+      "id": "1_liga_konferenz_sportschau_de_9512daf3",
+      "title": "1. Liga Konferenz - Sportschau",
+      "subtitle": "Bundesliga",
+      "location": "Germany",
+      "genre": "Bundesliga",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 7,
+      "bitrate": 128,
+      "streamUrl": "https://dispatcher.rndfnk.com/wdr/sportschau/liga1konferenz/mp3/128/stream.mp3"
+    },
+    {
+      "id": "alpo_radio_al_8689a5f9",
+      "title": "Alpo Radio",
+      "subtitle": "News",
+      "location": "Albania",
+      "genre": "News",
+      "countryCode": "AL",
+      "language": "albanian",
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://cp1.sednastream.com/proxy/alporadio/stream"
+    },
+    {
+      "id": "radio_online_vivaldi_de_0905cf17",
+      "title": "Radio Online (Vivaldi)",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 192,
+      "streamUrl": "http://stream.0nlineradio.com/vivaldi"
+    },
+    {
+      "id": "1_liga_spiel_2_sportschau_de_9c4cba52",
+      "title": "1. Liga Spiel 2 - Sportschau",
+      "subtitle": "Bundesliga",
+      "location": "Germany",
+      "genre": "Bundesliga",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://dispatcher.rndfnk.com/wdr/sportschau/liga1spiel2/mp3/128/stream.mp3"
+    },
+    {
+      "id": "antenne_bayern_90er_party_de_18b3a904",
+      "title": "Antenne Bayern 90er Party",
+      "subtitle": "Pop Music",
+      "location": "Germany",
+      "genre": "Pop Music",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://stream.antenne.de/antenne-bayern-90er-party/stream/mp3"
+    },
+    {
+      "id": "alfa_omega_radio_al_0479f6df",
+      "title": "Alfa & Omega Radio",
+      "subtitle": "Christian",
+      "location": "Albania",
+      "genre": "Christian",
+      "countryCode": "AL",
+      "language": "albanian",
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "https://broadcast.shoutcheap.com/proxy/alban/stream"
+    },
+    {
+      "id": "1_liga_spiel_3_sportschau_de_49b1897c",
+      "title": "1. Liga Spiel 3 - Sportschau",
+      "subtitle": "Bundesliga",
+      "location": "Germany",
+      "genre": "Bundesliga",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://dispatcher.rndfnk.com/wdr/sportschau/liga1spiel3/mp3/128/stream.mp3"
+    },
+    {
+      "id": "ndr_fernsehen_hamburg_de_cdcb6efe",
+      "title": "NDR Fernsehen Hamburg",
+      "subtitle": "Ard",
+      "location": "Germany",
+      "genre": "Ard",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 5,
+      "bitrate": 1672,
+      "streamUrl": "https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8"
+    },
+    {
+      "id": "plixsend_andorre_ad_17604b19",
+      "title": "PlixSend Andorre",
+      "subtitle": "French",
+      "location": "Andorra",
+      "genre": "French",
+      "countryCode": "AD",
+      "language": "french",
+      "clickCount": 4,
+      "bitrate": 96,
+      "streamUrl": "https://plixsend.eu/listen/andorre/stream"
+    },
+    {
+      "id": "radio_klina_al_ad3940fe",
+      "title": "Radio KLINA",
+      "subtitle": "Folk",
+      "location": "Albania",
+      "genre": "Folk",
+      "countryCode": "AL",
+      "language": "albanian",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://live.radiostreaming.al:8002/stream;"
+    },
+    {
+      "id": "rock_antenne_rock_n_roll_de_13856f99",
+      "title": "Rock Antenne - Rock 'n' Roll",
+      "subtitle": "Music",
+      "location": "Germany",
+      "genre": "Music",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream.rockantenne.de/rockandroll/stream/mp3"
+    },
+    {
+      "id": "1_liga_spiel_4_sportschau_de_071cae3f",
+      "title": "1. Liga Spiel 4 - Sportschau",
+      "subtitle": "Bundesliga",
+      "location": "Germany",
+      "genre": "Bundesliga",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://dispatcher.rndfnk.com/wdr/sportschau/liga1spiel4/mp3/128/stream.mp3"
+    },
+    {
+      "id": "2_liga_konferenz_sportschau_de_86023cc9",
+      "title": "2. Liga Konferenz - Sportschau",
+      "subtitle": "Bundesliga",
+      "location": "Germany",
+      "genre": "Bundesliga",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://dispatcher.rndfnk.com/wdr/sportschau/liga2konferenz/mp3/128/stream.mp3"
+    },
+    {
+      "id": "radio_kiepenkerl_de_f94fac19",
+      "title": "Radio Kiepenkerl",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream.lokalradio.nrw/4459m2r"
+    },
+    {
+      "id": "radio_divjaka_hd_al_b2469863",
+      "title": "Radio Divjaka HD",
+      "subtitle": "Classic Rock",
+      "location": "Albania",
+      "genre": "Classic Rock",
+      "countryCode": "AL",
+      "language": "albanian",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://stream.zeno.fm/brc5btguqg8uv"
+    },
+    {
+      "id": "ora_news_al_fb65a00b",
+      "title": "Ora News",
+      "subtitle": "News",
+      "location": "Albania",
+      "genre": "News",
+      "countryCode": "AL",
+      "language": "albanian",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://live1.mediadesk.al/oranews.m3u8"
+    },
+    {
+      "id": "energy_radio_al_7658249e",
+      "title": "ENERGY Radio",
+      "subtitle": "Adult Contemporary",
+      "location": "Albania",
+      "genre": "Adult Contemporary",
+      "countryCode": "AL",
+      "language": "albanian",
+      "clickCount": 3,
+      "bitrate": 320,
+      "streamUrl": "https://stream.louderhost.com/nrgal"
+    },
+    {
+      "id": "club_fm_shqip_al_8ab37ad7",
+      "title": "Club FM Shqip",
+      "subtitle": "Folk",
+      "location": "Albania",
+      "genre": "Folk",
+      "countryCode": "AL",
+      "language": "albanian",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://cp1.sednastream.com/proxy/radioshqip/stream"
+    },
+    {
+      "id": "best_lounge_radio_al_9c49a4b0",
+      "title": "Best Lounge Radio",
+      "subtitle": "Ambient",
+      "location": "Albania",
+      "genre": "Ambient",
+      "countryCode": "AL",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://stream.zeno.fm/y6uk7h9uhkhvv"
+    },
+    {
+      "id": "nest_radio_al_3ba71f08",
+      "title": "Nest Radio",
+      "subtitle": "Albanian",
+      "location": "Albania",
+      "genre": "Albanian",
+      "countryCode": "AL",
+      "language": "albanian",
+      "clickCount": 3,
+      "bitrate": 192,
+      "streamUrl": "https://radio.nestnews.al/listen/nest-radio/radio.mp3"
+    },
+    {
+      "id": "novi_radio_biha_ba_42e06a58",
+      "title": "Novi Radio Bihać",
+      "subtitle": "Radio",
+      "location": "Bosnia And Herzegovina",
+      "genre": "Radio",
+      "countryCode": "BA",
+      "language": "bosnian",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://webtvstream.bhtelecom.ba/novi_radio_bihac.m3u8"
     }
   ]
 }
