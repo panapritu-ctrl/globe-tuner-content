@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-18T03:02:47Z",
+  "updated": "2026-10-19T03:17:35Z",
   "region": "europe",
   "part": 8,
   "of": 8,
@@ -12116,19 +12116,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_station_86b43010",
-      "title": "Радио РБЖ",
-      "subtitle": "Archive, Comedy",
-      "imageUrl": "https://rbj.recomedy.ru/assets/radio-rbj-512.png",
-      "streamUrl": "https://rbj.recomedy.ru/online",
-      "location": "Moscow, The Russian Federation",
-      "genre": "Archive",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_station_b56df2c5",
       "title": "Радио Радонеж",
       "subtitle": "Orthodoxy",
@@ -21307,19 +21294,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_fm_17c57a5f",
-      "title": "Перець FM",
-      "subtitle": "128 Kbit/S, Https",
-      "imageUrl": "https://perec.fm/wp-content/themes/perecfm/img/logo.png",
-      "streamUrl": "https://radio.perec.fm/radio-stilnoe",
-      "location": "Ukraine",
-      "genre": "128 Kbit/S",
-      "countryCode": "UA",
-      "language": "ukranian",
-      "clickCount": 3,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_fm_67a26db6",
       "title": "Прямий FM",
       "subtitle": "320 Kbit/S, Https",
@@ -25036,18 +25010,6 @@
       "streamUrl": "https://hls-01-maximum.hostingradio.ru/maximum/playlist.m3u8"
     },
     {
-      "id": "anima_amoris_dub_techno_mix_ru_0e2c3d6c",
-      "title": "Anima Amoris Dub Techno Mix",
-      "subtitle": "Dub",
-      "location": "The Russian Federation",
-      "genre": "Dub",
-      "countryCode": "RU",
-      "language": null,
-      "clickCount": 3,
-      "bitrate": 0,
-      "streamUrl": "http://amoris.sknt.ru/dubtechnomix.mp3"
-    },
-    {
       "id": "radio_cultura_moscow_ru_b96bcd5c",
       "title": "Radio «Cultura» - Moscow",
       "subtitle": "Talk",
@@ -25322,18 +25284,6 @@
       "clickCount": 4,
       "bitrate": 48,
       "streamUrl": "http://213.141.131.10:8002/progheavy"
-    },
-    {
-      "id": "naxihouse_hq_ru_492a16ac",
-      "title": "NaxiHouse HQ",
-      "subtitle": "Electronic",
-      "location": "The Russian Federation",
-      "genre": "Electronic",
-      "countryCode": "RU",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 128,
-      "streamUrl": "https://naxidigital-house128ssl.streaming.rs:8002/;stream.nsv"
     },
     {
       "id": "lounge_fm_acoustic_ua_5ef1112b",
@@ -25730,6 +25680,42 @@
       "clickCount": 4,
       "bitrate": 256,
       "streamUrl": "https://rockradioua.online:8433/metal_256"
+    },
+    {
+      "id": "dr_dio_radio_ua_e775d68e",
+      "title": "Dr.DIO Radio",
+      "subtitle": "Ambient",
+      "location": "Ukraine",
+      "genre": "Ambient",
+      "countryCode": "UA",
+      "language": "english",
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "https://drdio.studio/stream/live.mp3"
+    },
+    {
+      "id": "happy_hits_ua_641ccbe0",
+      "title": "Радіо Київстар Happy Hits",
+      "subtitle": "256 Kbit/S",
+      "location": "Ukraine",
+      "genre": "256 Kbit/S",
+      "countryCode": "UA",
+      "language": "ukranian",
+      "clickCount": 4,
+      "bitrate": 281,
+      "streamUrl": "https://radio.kyivstar.ua/stream/sport/master.m3u8"
+    },
+    {
+      "id": "radio_culture_ua_0087a8fa",
+      "title": "Радіо Культура / Radio Culture",
+      "subtitle": "Kultur",
+      "location": "Ukraine",
+      "genre": "Kultur",
+      "countryCode": "UA",
+      "language": "ukrainian",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "http://radio.ukr.radio:8000/ur3-mp3"
     }
   ]
 }

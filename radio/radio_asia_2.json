@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-18T03:02:47Z",
+  "updated": "2026-10-19T03:17:35Z",
   "region": "asia",
   "part": 2,
   "of": 3,
@@ -11569,15 +11569,6 @@
       "bitrate": 128
     },
     {
-      "id": "radio_khushbu_in_8f9898",
-      "title": "Radio Khushbu",
-      "subtitle": "90'S",
-      "location": "Chhattishgarh, India",
-      "genre": "90'S",
-      "streamUrl": "https://radio.pblab.in/radiokhushbu",
-      "countryCode": "IN"
-    },
-    {
       "id": "radio_kochi_in_389e2c",
       "title": "Radio Kochi",
       "subtitle": "Radio",
@@ -22237,18 +22228,6 @@
       "streamUrl": "https://s74.radiolize.com:8020/radio.mp3?t=1780673757445"
     },
     {
-      "id": "station_cn_c22f6105",
-      "title": "湖北楚天交通广播",
-      "subtitle": "Traffic",
-      "location": "China",
-      "genre": "Traffic",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 4,
-      "bitrate": 0,
-      "streamUrl": "https://lhttp.qtfm.cn/live/1291/64k.mp3"
-    },
-    {
       "id": "thmr_cn_c8c3796d",
       "title": "东方音乐电台 THMR",
       "subtitle": "Japanese",
@@ -24757,30 +24736,6 @@
       "streamUrl": "https://stream.zeno.fm/ohhsihm2byluv?"
     },
     {
-      "id": "nhk_fm_jp_4100302f",
-      "title": "NHK-FM",
-      "subtitle": "Classical",
-      "location": "Japan",
-      "genre": "Classical",
-      "countryCode": "JP",
-      "language": "#japan",
-      "clickCount": 17,
-      "bitrate": 52,
-      "streamUrl": "http://mnet.x10.mx/nhkfm.m3u8"
-    },
-    {
-      "id": "radio_terna_90_4_fm_in_b31fa58f",
-      "title": "Radio Terna 90.4 FM",
-      "subtitle": "Radio",
-      "location": "India",
-      "genre": "Radio",
-      "countryCode": "IN",
-      "language": "hindi",
-      "clickCount": 7,
-      "bitrate": 64,
-      "streamUrl": "https://radio.garden/api/ara/content/listen/MzpZd2nQ/channel.mp3"
-    },
-    {
       "id": "wvvv_v96_9_jp_e8e08658",
       "title": "WVVV V96.9",
       "subtitle": "Pop",
@@ -25067,18 +25022,6 @@
       "clickCount": 4,
       "bitrate": 1449,
       "streamUrl": "https://stream.vrstv.jp/"
-    },
-    {
-      "id": "clasico_kbs_kr_87efc07d",
-      "title": "Clasico kbs",
-      "subtitle": "Radio",
-      "location": "The Republic Of Korea",
-      "genre": "Radio",
-      "countryCode": "KR",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 0,
-      "streamUrl": "https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTE5MjUxNTl9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=lfbEgweJnQFbzQGRjhTRE-5y~15HTXdH4wSGh-7Sq33RbpwUHvR2U0YY-aijPA5yH7PymM2wN7juAXDf5UPJ97QCjnfbpkMnAgp2omgr1mwDMc6Q0yFqxp~JbtHbrMCjCwl0IC77uxVwxRqFNrz3P5P1C9twxz3bUlQbPUSug2CfzdP5b8WQUQv5kGmuUPtwogaW66~-D1Baxao0P2KkOgECZfvONJsirfy8dLCoM47KHSa37R5ZT~BhpTH5fEzLDsgG0141wjScWw~nxQuCF7KmK~EMc3WQ-mF2f-9-wwz~9ESYFZofx-xalHfmf3UUtl5HHoN-fPUybN940CRIiQ__"
     },
     {
       "id": "merdeka_id_1fccabe1",
@@ -25873,18 +25816,6 @@
       "streamUrl": "https://c4.siar.us/proxy/sheradio/stream"
     },
     {
-      "id": "air_urdu_in_ede8f82f",
-      "title": "AIR Urdu",
-      "subtitle": "Radio",
-      "location": "India",
-      "genre": "Radio",
-      "countryCode": "IN",
-      "language": null,
-      "clickCount": 7,
-      "bitrate": 0,
-      "streamUrl": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio006/hlspbaudio00632kbps.m3u8"
-    },
-    {
       "id": "beethoven_piano_sonatas_jp_8b11ce99",
       "title": "Beethoven Piano Sonatas",
       "subtitle": "Beethoven",
@@ -26027,6 +25958,138 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "https://stream.yojosuknam.com/live.mp3"
+    },
+    {
+      "id": "nhk_fm_jp_4100302f",
+      "title": "NHK-FM",
+      "subtitle": "Classical",
+      "location": "Japan",
+      "genre": "Classical",
+      "countryCode": "JP",
+      "language": "#japan",
+      "clickCount": 23,
+      "bitrate": 52,
+      "streamUrl": "http://mnet.x10.mx/nhkfm.m3u8"
+    },
+    {
+      "id": "jazzwave_radio_om_9f162749",
+      "title": "JazzWave Radio",
+      "subtitle": "Jazz",
+      "location": "Oman",
+      "genre": "Jazz",
+      "countryCode": "OM",
+      "language": "english",
+      "clickCount": 8,
+      "bitrate": 192,
+      "streamUrl": "https://servidor19.brlogic.com:7126/live"
+    },
+    {
+      "id": "an_opera_celebration_jp_d562da3f",
+      "title": "An Opera Celebration",
+      "subtitle": "Classical",
+      "location": "Japan",
+      "genre": "Classical",
+      "countryCode": "JP",
+      "language": "english",
+      "clickCount": 7,
+      "bitrate": 128,
+      "streamUrl": "https://mpc1.mediacp.eu/stream/beethoveninsequence"
+    },
+    {
+      "id": "radi_fm_jp_81f4de36",
+      "title": "Radi.fm 中文古典音乐",
+      "subtitle": "Ai",
+      "location": "Japan",
+      "genre": "Ai",
+      "countryCode": "JP",
+      "language": "chinese",
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "https://live.radi.fm/live/stn%3A5a8b2c0eb17b4d64/index.m3u8"
+    },
+    {
+      "id": "kbs_fm_kr_5841bc52",
+      "title": "kbs해피fm",
+      "subtitle": "Country",
+      "location": "The Republic Of Korea",
+      "genre": "Country",
+      "countryCode": "KR",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://2radio-bora.gscdn.kbs.co.kr/2radio-bora-01/2radio-bora-01_hd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ycmFkaW8tYm9yYS5nc2Nkbi5rYnMuY28ua3IvMnJhZGlvLWJvcmEtMDEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MjUzMzU1NX19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=QLJE-0Wz-N9V3ao4mHjH8BGs8RG6tdQ2FzijZ5I3I2Oo9hqCmrTgO7rWrfdjNLUu3D3Af8~v9URsa3bw81XqHUcqxtf75Dvepm2v84wev70fIKUMOiTRpKhi7u3qQnVfpiBrZ2ySPq5ofja-dVN6HsEhZzFOYgI7UvGW9ndP10v-SUe0~rMyx5uFuqzCty6Bql1JLWdbep5QcIKEqeJ4fJiqB5tJR7dDBN-MtIcpQYZqKBCxiedZExwq4swnGH1GC6ZGlEApaQvdfjwgOk3ARgJ-PFuEVbD~g-uJDcS1rZOEDZXWTLh8P8nKXPV9SLYNj8tf6SDnpWhzOZDdgOOMZg__"
+    },
+    {
+      "id": "radio_lk_lk_8fc0ff06",
+      "title": "Radio.lk",
+      "subtitle": "Entertainment",
+      "location": "Sri Lanka",
+      "genre": "Entertainment",
+      "countryCode": "LK",
+      "language": "sinhala",
+      "clickCount": 5,
+      "bitrate": 56,
+      "streamUrl": "https://stream.zeno.fm/fz1quc2fzacuv"
+    },
+    {
+      "id": "radi_fm_nippon_jp_94b3ce69",
+      "title": "Radi.fm Nippon",
+      "subtitle": "Radio",
+      "location": "Japan",
+      "genre": "Radio",
+      "countryCode": "JP",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://live.radi.fm/live/stn%3Af7df1c8bba9c4e50/index.m3u8"
+    },
+    {
+      "id": "radi_fm_classical_global_jp_52a6e81c",
+      "title": "Radi.fm Classical Global",
+      "subtitle": "Ai",
+      "location": "Japan",
+      "genre": "Ai",
+      "countryCode": "JP",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://live.radi.fm/live/stn%3A69ac40e04d0644b2/index.m3u8"
+    },
+    {
+      "id": "radi_fm_klassik_dach_jp_0cc164e9",
+      "title": "Radi.fm Klassik DACH",
+      "subtitle": "Ai",
+      "location": "Japan",
+      "genre": "Ai",
+      "countryCode": "JP",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://live.radi.fm/live/stn%3Adc8e0d915dad44e7/index.m3u8"
+    },
+    {
+      "id": "radi_fm_monde_classique_jp_250b1f55",
+      "title": "Radi.fm Monde Classique",
+      "subtitle": "Ai",
+      "location": "Japan",
+      "genre": "Ai",
+      "countryCode": "JP",
+      "language": "french",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://live.radi.fm/live/stn%3A0af489e6915b4f23/index.m3u8"
+    },
+    {
+      "id": "fm_kr_24ed3ebb",
+      "title": "국방FM",
+      "subtitle": "Radio",
+      "location": "The Republic Of Korea",
+      "genre": "Radio",
+      "countryCode": "KR",
+      "language": "korean",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://mediaworks.dema.mil.kr/live_edge/audio.sdp/playlist.m3u8"
     }
   ]
 }

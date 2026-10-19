@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-18T03:02:47Z",
+  "updated": "2026-10-19T03:17:35Z",
   "region": "americas",
   "part": 3,
   "of": 5,
@@ -1659,19 +1659,6 @@
       "bitrate": 192
     },
     {
-      "id": "rb_stereo_exitos_88_1_tegucigalpa_96499bea",
-      "title": "Stereo Exitos 88.1 Tegucigalpa",
-      "subtitle": "Tegucigalpa, Variedad",
-      "imageUrl": "",
-      "streamUrl": "http://ice42.securenetsystems.net/EXITOS",
-      "location": "Honduras",
-      "genre": "Tegucigalpa",
-      "countryCode": "HN",
-      "language": "spanish",
-      "clickCount": 2,
-      "bitrate": 64
-    },
-    {
       "id": "rb_suave_fm_102_5_tegucigalpa_964998e7",
       "title": "Suave FM 102.5 Tegucigalpa",
       "subtitle": "Pop, Tegucigalpa",
@@ -1682,19 +1669,6 @@
       "countryCode": "HN",
       "language": "spanish",
       "clickCount": 0,
-      "bitrate": 64
-    },
-    {
-      "id": "rb_vox_fm_f8a206ac",
-      "title": "VOX FM",
-      "subtitle": "Pop",
-      "imageUrl": "",
-      "streamUrl": "https://ice42.securenetsystems.net/VOXFM",
-      "location": "Honduras",
-      "genre": "Pop",
-      "countryCode": "HN",
-      "language": null,
-      "clickCount": 1,
       "bitrate": 64
     },
     {
@@ -18781,19 +18755,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_radio_un_hueco_en_el_espacio_0a8af387",
-      "title": "Radio Un Hueco en el Espacio",
-      "subtitle": "Classic Rock Oldies",
-      "imageUrl": "https://i.imgur.com/2OquMk0.png",
-      "streamUrl": "https://cloudstream2032.conectarhosting.com/8106/stream",
-      "location": "Lima, Peru",
-      "genre": "Classic Rock Oldies",
-      "countryCode": "PE",
-      "language": "spanish",
-      "clickCount": 1,
-      "bitrate": 256
-    },
-    {
       "id": "rb2_radio_xtrema_chachapoyas_0adbd936",
       "title": "Radio Xtrema - Chachapoyas",
       "subtitle": "Radio",
@@ -26647,6 +26608,54 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "https://copaco.desdeparaguay.net/movamor/movamor.stream/playlist.m3u8"
+    },
+    {
+      "id": "pitazo_inicial_radio_antena_uno_ec_268f2c35",
+      "title": "Pitazo Inicial - Radio Antena Uno",
+      "subtitle": "Deportes",
+      "location": "Ecuador",
+      "genre": "Deportes",
+      "countryCode": "EC",
+      "language": "spanish",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://radio.pitazoinicial.com/stream"
+    },
+    {
+      "id": "radio_megamix_pe_814418af",
+      "title": "Radio MegaMix",
+      "subtitle": "Pop Cumbia Merengue Salsa Rock En Español",
+      "location": "Peru",
+      "genre": "Pop Cumbia Merengue Salsa Rock En Español",
+      "countryCode": "PE",
+      "language": "spanish",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/5fada56fe4e09508207a7951"
+    },
+    {
+      "id": "radio_htr_huayno_online_pe_ac85d0ce",
+      "title": "Radio Htr Huayno online",
+      "subtitle": "Radio",
+      "location": "Peru",
+      "genre": "Radio",
+      "countryCode": "PE",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream-288.surfernetwork.com/66xq9u1d2c9uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2NnhxOXUxZDJjOXV2IiwiaG9zdCI6InN0cmVhbS0yODguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InY0Sjd5OWpHUXdtWHBrQzd5RFFMeGciLCJpYXQiOjE3ODc1NTE0MjgsImV4cCI6MTc4NzU1MTQ4OH0.LFdjhWu5mwAd7WMF1IAuSsal9I4YN5GPymxI_LWzdUEbS0yODguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InY0Sjd5OWpHUXdtWHBrQzd5RFFMeGciLCJpYXQiOjE3ODc1NTE0MjgsImV4cCI6MTc4NzU1MTQ4OH0.LFdjhWu5mwAd7WMF1IAuSsal9I4YN5GPymxI_LWzdUE"
+    },
+    {
+      "id": "radio_esv_el_salvador_vintage_sv_d9fde058",
+      "title": "Radio ESV El Salvador Vintage",
+      "subtitle": "Classic Hits",
+      "location": "El Salvador",
+      "genre": "Classic Hits",
+      "countryCode": "SV",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://a6.asurahosting.com:8580/radio.mp3"
     }
   ]
 }

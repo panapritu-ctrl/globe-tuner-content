@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-18T03:02:47Z",
+  "updated": "2026-10-19T03:17:35Z",
   "region": "other",
   "stations": [
     {
@@ -2440,18 +2440,6 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://sonic.mediatelekom.net/8534/;"
-    },
-    {
-      "id": "cope_sevilla_es_83c38a85",
-      "title": "Cope Sevilla",
-      "subtitle": "Radio",
-      "location": "Spain",
-      "genre": "Radio",
-      "countryCode": "ES",
-      "language": "spanish",
-      "clickCount": 4,
-      "bitrate": 96,
-      "streamUrl": "http://wecast09-h-cloud.flumotion.com/copesedes/sevilla.mp3"
     },
     {
       "id": "xtra_hot_gb_abffa60c",
@@ -5010,18 +4998,6 @@
       "streamUrl": "https://munot.ch-central-4.streaming.deliver.media/munot_mp3_128"
     },
     {
-      "id": "cope_granada_es_43972aab",
-      "title": "Cope Granada",
-      "subtitle": "Entretenimiento",
-      "location": "Spain",
-      "genre": "Entretenimiento",
-      "countryCode": "ES",
-      "language": "espaňol",
-      "clickCount": 37,
-      "bitrate": 96,
-      "streamUrl": "http://flucast13-h-cloud.flumotion.com/cope/net1.mp3"
-    },
-    {
       "id": "1_fm_baroque_music_gb_58f03079",
       "title": "1.Fm Baroque Music",
       "subtitle": "Radio",
@@ -5320,18 +5296,6 @@
       "clickCount": 2,
       "bitrate": 128,
       "streamUrl": "http://usa4.fastcast4u.com/proxy/4k1g?mp=/stream"
-    },
-    {
-      "id": "megarock_radio_320k_us_5f662373",
-      "title": "Megarock Radio 320k",
-      "subtitle": "Classic Rock",
-      "location": "The United States Of America",
-      "genre": "Classic Rock",
-      "countryCode": "US",
-      "language": "english",
-      "clickCount": 16,
-      "bitrate": 320,
-      "streamUrl": "https://stream3.megarockradio.net:80/"
     },
     {
       "id": "radio_alsace_fr_fd88b47f",
@@ -6256,18 +6220,6 @@
       "clickCount": 2,
       "bitrate": 96,
       "streamUrl": "https://sydney.onair.im/listen/im_radio_sydney/radio.mp3"
-    },
-    {
-      "id": "sunshine_coast_au_17ca836c",
-      "title": "Sunshine Coast",
-      "subtitle": "Radio",
-      "location": "Australia",
-      "genre": "Radio",
-      "countryCode": "AU",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 320,
-      "streamUrl": "https://cast4.my-control-panel.com/proxy/liquidsunnycoast/stream"
     },
     {
       "id": "imc_country_radio_au_8b8cc2f5",
@@ -17490,18 +17442,6 @@
       "streamUrl": "https://streaming.nrjaudio.fm/outdgj6ubafg"
     },
     {
-      "id": "radio_skye_gb_d9a88e4b",
-      "title": "Radio Skye",
-      "subtitle": "Radio",
-      "location": "The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "Radio",
-      "countryCode": "GB",
-      "language": "english",
-      "clickCount": 3,
-      "bitrate": 128,
-      "streamUrl": "http://comet.shoutca.st:8338/live"
-    },
-    {
       "id": "freshsoundz_radio_gb_41dcdc6a",
       "title": "FreshSoundz Radio",
       "subtitle": "Radio",
@@ -18040,18 +17980,6 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "https://stream.camfm.co.uk/camfm"
-    },
-    {
-      "id": "bbc_somali_radio_gb_c328b53d",
-      "title": "BBC Somali Radio",
-      "subtitle": "News",
-      "location": "The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "News",
-      "countryCode": "GB",
-      "language": "english",
-      "clickCount": 4,
-      "bitrate": 101,
-      "streamUrl": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_somali_radio.m3u8"
     },
     {
       "id": "103_9_wdkx_us_515e29b8",
@@ -23428,6 +23356,342 @@
       "clickCount": 3,
       "bitrate": 192,
       "streamUrl": "https://a11.asurahosting.com:8740/radio.mp3"
+    },
+    {
+      "id": "cope_granada_es_43972aab",
+      "title": "Cope Granada",
+      "subtitle": "Entretenimiento",
+      "location": "Spain",
+      "genre": "Entretenimiento",
+      "countryCode": "ES",
+      "language": "espaňol",
+      "clickCount": 64,
+      "bitrate": 96,
+      "streamUrl": "http://flucast13-h-cloud.flumotion.com/cope/net1.mp3"
+    },
+    {
+      "id": "cope_sevilla_es_27bc2ad1",
+      "title": "Cope Sevilla",
+      "subtitle": "Radio",
+      "location": "Spain",
+      "genre": "Radio",
+      "countryCode": "ES",
+      "language": "spanish",
+      "clickCount": 14,
+      "bitrate": 96,
+      "streamUrl": "http://wecast-bl01.flumotion.com/copesedes/sevilla.mp3"
+    },
+    {
+      "id": "mix_radio_fr_ee26968b",
+      "title": "Mix Radio",
+      "subtitle": "Hits",
+      "location": "France",
+      "genre": "Hits",
+      "countryCode": "FR",
+      "language": null,
+      "clickCount": 9,
+      "bitrate": 320,
+      "streamUrl": "https://ecmanager5.pro-fhi.net:1060/stream"
+    },
+    {
+      "id": "f_rmula_cat_es_710b2591",
+      "title": "Fórmula CAT",
+      "subtitle": "Catalan Music",
+      "location": "Spain",
+      "genre": "Catalan Music",
+      "countryCode": "ES",
+      "language": "catalan",
+      "clickCount": 8,
+      "bitrate": 192,
+      "streamUrl": "https://stream.rubostudio.es/listen/cat/radio.mp3"
+    },
+    {
+      "id": "nostalgie_usa_80_fr_d1696966",
+      "title": "Nostalgie USA 80",
+      "subtitle": "Nostalgie",
+      "location": "France",
+      "genre": "Nostalgie",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 7,
+      "bitrate": 128,
+      "streamUrl": "https://streaming.nrjaudio.fm/ounusuqn5eyc"
+    },
+    {
+      "id": "ia_radio_espa_a_es_334901ad",
+      "title": "IA Radio España",
+      "subtitle": "Ai",
+      "location": "Spain",
+      "genre": "Ai",
+      "countryCode": "ES",
+      "language": "spanish",
+      "clickCount": 6,
+      "bitrate": 192,
+      "streamUrl": "https://iaradio.es/listen/esp/radio.mp3"
+    },
+    {
+      "id": "radio_brassens_fr_0075bc65",
+      "title": "Radio Brassens",
+      "subtitle": "Chanson Française",
+      "location": "France",
+      "genre": "Chanson Française",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 6,
+      "bitrate": 192,
+      "streamUrl": "https://www.zestream.eu/listen/radiobrassens/radio.mp3"
+    },
+    {
+      "id": "youradio_fr_46145a85",
+      "title": "YouRadio",
+      "subtitle": "Collaborative",
+      "location": "France",
+      "genre": "Collaborative",
+      "countryCode": "FR",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 320,
+      "streamUrl": "https://stream.youradio.fr/youradio-hd"
+    },
+    {
+      "id": "radio_bouiboui_fr_79d5aad2",
+      "title": "Radio BouiBoui",
+      "subtitle": "Food",
+      "location": "France",
+      "genre": "Food",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 6,
+      "bitrate": 192,
+      "streamUrl": "https://radio.independancebouiboui.fr/listen/radio_boui_boui/radio.mp3?refresh=1792332999483"
+    },
+    {
+      "id": "classic_radio_swiss_ch_9ebc1ac9",
+      "title": "Classic | Radio Swiss",
+      "subtitle": "Classical",
+      "location": "Switzerland",
+      "genre": "Classical",
+      "countryCode": "CH",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://stream.srg-ssr.ch/m/rsc_de/mp3_128"
+    },
+    {
+      "id": "m_radio_talents_de_la_t_l_fr_9669a10b",
+      "title": "M Radio Talents de la Télé",
+      "subtitle": "Radio",
+      "location": "France",
+      "genre": "Radio",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "http://mfmwr-025.ice.infomaniak.ch/mfmwr-025.mp3"
+    },
+    {
+      "id": "radio_oxyg_ne_fr_5276721c",
+      "title": "Radio Oxygène",
+      "subtitle": "Radio",
+      "location": "France",
+      "genre": "Radio",
+      "countryCode": "FR",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://icecast.oxygeneradio.fr:8443/OxygeneRadio.aac"
+    },
+    {
+      "id": "radio_studio_20_fr_97473663",
+      "title": "Radio Studio 20",
+      "subtitle": "Hits",
+      "location": "France",
+      "genre": "Hits",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 5,
+      "bitrate": 64,
+      "streamUrl": "https://manager2.conceptradio.fr:1130/stream?27499="
+    },
+    {
+      "id": "alouette_fm_fr_f63ee7b6",
+      "title": "Alouette FM",
+      "subtitle": "Pop",
+      "location": "France",
+      "genre": "Pop",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://alouette-chateauroux.ice.infomaniak.ch/alouette-chateauroux-128.mp3"
+    },
+    {
+      "id": "m_radio_voix_du_sud_fr_74e1ba6b",
+      "title": "M Radio Voix du Sud",
+      "subtitle": "Radio",
+      "location": "France",
+      "genre": "Radio",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "http://voix-du-sud.ice.infomaniak.ch/voix-du-sud.mp3"
+    },
+    {
+      "id": "mojerad_io_gb_5f862ce4",
+      "title": "MOJERAD.IO",
+      "subtitle": "House",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "House",
+      "countryCode": "GB",
+      "language": "polish",
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "https://s1.autopo.st/proxy/vps4005?mp=/stream"
+    },
+    {
+      "id": "thaalam_fm_ch_87d0c199",
+      "title": "Thaalam FM",
+      "subtitle": "Radio",
+      "location": "Switzerland",
+      "genre": "Radio",
+      "countryCode": "CH",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 64,
+      "streamUrl": "http://thaalam.out.airtime.pro/thaalam_b"
+    },
+    {
+      "id": "radio_de_no_l_fr_fa7b75f6",
+      "title": "Radio de Noël",
+      "subtitle": "Misc",
+      "location": "France",
+      "genre": "Misc",
+      "countryCode": "FR",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 140,
+      "streamUrl": "https://live1.jupinfo.fr:8443/radiodenoel"
+    },
+    {
+      "id": "plixsend_france_fr_da78c3e4",
+      "title": "PlixSend France",
+      "subtitle": "French",
+      "location": "France",
+      "genre": "French",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 4,
+      "bitrate": 64,
+      "streamUrl": "https://plixsend.eu/listen/fr/stream"
+    },
+    {
+      "id": "voce_nustrale_fr_92474d52",
+      "title": "Voce Nustrale",
+      "subtitle": "Classical",
+      "location": "France",
+      "genre": "Classical",
+      "countryCode": "FR",
+      "language": "corsican",
+      "clickCount": 4,
+      "bitrate": 100,
+      "streamUrl": "https://vocenustrale.ice.infomaniak.ch/vocenustrale-128.mp3"
+    },
+    {
+      "id": "rlm_bastia_fr_935ef034",
+      "title": "RLM Bastia",
+      "subtitle": "Radio Lycées Montesoro",
+      "location": "France",
+      "genre": "Radio Lycées Montesoro",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://listen.radioking.com/radio/653326/stream/719476"
+    },
+    {
+      "id": "kola_99_9_redlands_ca_us_8029c052",
+      "title": "KOLA 99.9 Redlands, CA",
+      "subtitle": "Classic Hits",
+      "location": "The United States Of America",
+      "genre": "Classic Hits",
+      "countryCode": "US",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://19253.live.streamtheworld.com:3690/KOLAFMAAC_SC"
+    },
+    {
+      "id": "whou_100_1_the_best_classic_hits_radio_us_bab27886",
+      "title": "WHOU 100.1 - The Best - Classic Hits Radio",
+      "subtitle": "Classic Rock",
+      "location": "The United States Of America",
+      "genre": "Classic Rock",
+      "countryCode": "US",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://audio.whoufm.com//radio//8000//radio.mp3"
+    },
+    {
+      "id": "kvuu_my_99_9_colorado_springs_colorado_us_44dac6b6",
+      "title": "KVUU My 99.9 Colorado Springs Colorado",
+      "subtitle": "Pop",
+      "location": "The United States Of America",
+      "genre": "Pop",
+      "countryCode": "US",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "http://stream.revma.ihrhls.com/zc361"
+    },
+    {
+      "id": "la_fiesta_98_5_us_a161813e",
+      "title": "La Fiesta 98.5",
+      "subtitle": "Radio",
+      "location": "The United States Of America",
+      "genre": "Radio",
+      "countryCode": "US",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 32,
+      "streamUrl": "https://15693.live.streamtheworld.com/WBZO_FMAAC.aac"
+    },
+    {
+      "id": "kwss_93_9_scottsdale_phoenix_arizona_us_646048e1",
+      "title": "KWSS 93.9 - Scottsdale/Phoenix, Arizona",
+      "subtitle": "Community Radio",
+      "location": "The United States Of America",
+      "genre": "Community Radio",
+      "countryCode": "US",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://cast5.asurahosting.com/proxy/kwssradi/stream"
+    },
+    {
+      "id": "vice_city_public_radio_vcpr_us_34a9a94a",
+      "title": "Vice City Public Radio (VCPR)",
+      "subtitle": "Grand Theft Auto",
+      "location": "The United States Of America",
+      "genre": "Grand Theft Auto",
+      "countryCode": "US",
+      "language": "american english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://audio.gtaradio.net/vc/vcpr"
+    },
+    {
+      "id": "the_red_robot_radio_us_41f4f5e8",
+      "title": "The Red Robot Radio",
+      "subtitle": "Chiptunes",
+      "location": "The United States Of America",
+      "genre": "Chiptunes",
+      "countryCode": "US",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 96,
+      "streamUrl": "https://asteroid.asgardius.company/listen/r3/live"
     }
   ]
 }
