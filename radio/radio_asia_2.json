@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-19T03:17:35Z",
+  "updated": "2026-10-20T03:24:58Z",
   "region": "asia",
   "part": 2,
   "of": 3,
@@ -1690,19 +1690,6 @@
       "streamUrl": "https://lhttp.qtfm.cn/live/1601/64k.mp3",
       "location": "Shensi, China",
       "genre": "Traffic Radio Broadcast",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_station_c2e1d5f7",
-      "title": "陕西农村广播",
-      "subtitle": "Agriculture",
-      "imageUrl": "https://so1.360tres.com/t01c0e95b69470bc393.png",
-      "streamUrl": "https://lhttp.qtfm.cn/live/1602/64k.mp3",
-      "location": "Shensi, China",
-      "genre": "Agriculture",
       "countryCode": "CN",
       "language": "chinese",
       "clickCount": 0,
@@ -9504,19 +9491,6 @@
       "countryCode": "IN"
     },
     {
-      "id": "rb2_anime_tracks_a9ec5357",
-      "title": "Anime Tracks",
-      "subtitle": "Radio",
-      "imageUrl": "https://www.animetracks.com/wp-content/themes/anime/images/Shape.png",
-      "streamUrl": "https://centova.listenon.in/proxy/animetracks/stream",
-      "location": "India",
-      "genre": "Radio",
-      "countryCode": "IN",
-      "language": null,
-      "clickCount": 3,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_ankora_radio_6cf477a2",
       "title": "Ankora Radio",
       "subtitle": "Pop",
@@ -14944,15 +14918,6 @@
       "streamUrl": "https://nl4.mystreaming.net/tt/1992/icecast.audio"
     },
     {
-      "id": "tick_tock_radio_1993_io",
-      "title": "Tick Tock Radio - 1993",
-      "subtitle": "Music",
-      "location": "Pangea, British Indian Ocean Territory",
-      "genre": "Music",
-      "countryCode": "IO",
-      "streamUrl": "https://streaming.ticktock.radio/tt/1993/icecast.audio"
-    },
-    {
       "id": "tick_tock_radio_1994_io",
       "title": "Tick Tock Radio - 1994",
       "subtitle": "Music / Oldies",
@@ -19900,18 +19865,6 @@
       "streamUrl": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio063/playlist.m3u8"
     },
     {
-      "id": "fm100_8_cn_8134c313",
-      "title": "FM100.8 包河之声",
-      "subtitle": "Full Service",
-      "location": "China",
-      "genre": "Full Service",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 9,
-      "bitrate": 0,
-      "streamUrl": "https://lhttp-hw.qtfm.cn/live/5022668/64k.mp3"
-    },
-    {
       "id": "89_2_fm_jakarta_campur_sari_id_ff0c049a",
       "title": "89.2 FM Jakarta, Campur sari",
       "subtitle": "Radio",
@@ -21892,18 +21845,6 @@
       "streamUrl": "https://lhttp-hw.qtfm.cn/live/20211321/64k.mp3"
     },
     {
-      "id": "air_madikeri_in_3f5dfe9d",
-      "title": "AIR Madikeri",
-      "subtitle": "News Talk Music",
-      "location": "India",
-      "genre": "News Talk Music",
-      "countryCode": "IN",
-      "language": null,
-      "clickCount": 5,
-      "bitrate": 126,
-      "streamUrl": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio068/playlist.m3u8"
-    },
-    {
       "id": "vb_telugu_hyderabad_in_939d0e92",
       "title": "VB Telugu Hyderabad",
       "subtitle": "Public Radio",
@@ -23090,18 +23031,6 @@
       "clickCount": 12,
       "bitrate": 0,
       "streamUrl": "https://stream.zeno.fm/v5kxmagseg0uv"
-    },
-    {
-      "id": "tagore_radio_in_0ea8ea7e",
-      "title": "tagore radio",
-      "subtitle": "Radio",
-      "location": "India",
-      "genre": "Radio",
-      "countryCode": "IN",
-      "language": null,
-      "clickCount": 9,
-      "bitrate": 0,
-      "streamUrl": "https://tagore-radio.pages.dev/radio/live?category=all"
     },
     {
       "id": "radio_kg_86f5a388",
@@ -24760,18 +24689,6 @@
       "streamUrl": "https://mahakatharadio.com/api/station/live.mp3"
     },
     {
-      "id": "ndtvprofit_in_d758a18c",
-      "title": "ndtvProfit",
-      "subtitle": "India",
-      "location": "India",
-      "genre": "India",
-      "countryCode": "IN",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 5882,
-      "streamUrl": "https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/master.m3u8"
-    },
-    {
       "id": "diverse_fm_in_7ef41197",
       "title": "Diverse FM",
       "subtitle": "Radio",
@@ -26090,6 +26007,102 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://mediaworks.dema.mil.kr/live_edge/audio.sdp/playlist.m3u8"
+    },
+    {
+      "id": "talkonly_hk_70801f7c",
+      "title": "講台Talkonly",
+      "subtitle": "Podcasts",
+      "location": "Hong Kong",
+      "genre": "Podcasts",
+      "countryCode": "HK",
+      "language": null,
+      "clickCount": 10,
+      "bitrate": 0,
+      "streamUrl": "https://live.talkonly.net:8443/talkonly.mp3"
+    },
+    {
+      "id": "fm100_7_mo_91074c61",
+      "title": "澳門電台 FM100.7",
+      "subtitle": "Radio",
+      "location": "Macao",
+      "genre": "Radio",
+      "countryCode": "MO",
+      "language": "粤语",
+      "clickCount": 8,
+      "bitrate": 0,
+      "streamUrl": "https://globallive.tdm.com.mo/live/rch2a.live/chunklist_w603131197.m3u8"
+    },
+    {
+      "id": "fm100_7_mo_344038ad",
+      "title": "澳門電台 FM100.7",
+      "subtitle": "General",
+      "location": "Macao",
+      "genre": "General",
+      "countryCode": "MO",
+      "language": "cantonese",
+      "clickCount": 8,
+      "bitrate": 340,
+      "streamUrl": "https://globallive.tdm.com.mo/live/rch2a.live/playlist.m3u8"
+    },
+    {
+      "id": "ystream_il_443cc047",
+      "title": "yStream",
+      "subtitle": "Adult Contemporary",
+      "location": "Israel",
+      "genre": "Adult Contemporary",
+      "countryCode": "IL",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://ystream.live/ystream-mp3"
+    },
+    {
+      "id": "radi_fm_cl_sica_global_jp_9b38f60e",
+      "title": "Radi.fm Clásica Global",
+      "subtitle": "Classical",
+      "location": "Japan",
+      "genre": "Classical",
+      "countryCode": "JP",
+      "language": "spanish",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://live.radi.fm/stream/es.aac"
+    },
+    {
+      "id": "butwal_fm_np_c5da1c77",
+      "title": "Butwal FM",
+      "subtitle": "Radio",
+      "location": "Nepal",
+      "genre": "Radio",
+      "countryCode": "NP",
+      "language": "nepali",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://streaming.softnep.net:10994/;stream.nsv"
+    },
+    {
+      "id": "buddhist_true_network_tv_kr_15914ec3",
+      "title": "Buddhist True Network TV",
+      "subtitle": "Radio",
+      "location": "The Republic Of Korea",
+      "genre": "Radio",
+      "countryCode": "KR",
+      "language": "korean",
+      "clickCount": 3,
+      "bitrate": 1234,
+      "streamUrl": "http://btn.nowcdn.co.kr/btn/btnlive01/playlist.m3u8"
+    },
+    {
+      "id": "pioner_fm_kz_a377fdf4",
+      "title": "Pioner FM",
+      "subtitle": "Hits",
+      "location": "Kazakhstan",
+      "genre": "Hits",
+      "countryCode": "KZ",
+      "language": "kazakh",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://live.zhanafm.kz:8443/pionerfm"
     }
   ]
 }

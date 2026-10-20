@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-19T03:17:35Z",
+  "updated": "2026-10-20T03:24:58Z",
   "region": "americas",
   "part": 1,
   "of": 5,
@@ -2426,19 +2426,6 @@
       "bitrate": 40
     },
     {
-      "id": "rb2_fm_litoral_paran_103_1_fm_525c465e",
-      "title": "FM Litoral Paraná 103.1 FM",
-      "subtitle": "Radio",
-      "imageUrl": "https://radioarg.net/storage/radios/7970/10092/conversions/fm-litoral-lg.webp",
-      "streamUrl": "https://stm18.xcast.com.br:7798/stream",
-      "location": "Argentina",
-      "genre": "Radio",
-      "countryCode": "AR",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_fm_millenium_106_7_05662b06",
       "title": "FM Millenium 106.7",
       "subtitle": "Magazine, Music",
@@ -4492,19 +4479,6 @@
       "language": "español argentina",
       "clickCount": 0,
       "bitrate": 64
-    },
-    {
-      "id": "rb2_life_fm_99_5_b949c8eb",
-      "title": "Life FM 99.5",
-      "subtitle": "Radio",
-      "imageUrl": "https://radioarg.net/storage/radios/8081/10203/conversions/life-fm-995-lg.webp",
-      "streamUrl": "https://https.nvradios.com/radio/9496//radio.mp3",
-      "location": "Argentina",
-      "genre": "Radio",
-      "countryCode": "AR",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
     },
     {
       "id": "rb2_light_fm_97_3_san_juan_6dd01a3e",
@@ -19125,19 +19099,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_r_dio_s_o_roque_103_9_fm_0fc2ef01",
-      "title": "Rádio São Roque - 103.9 FM",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://r18.ciclano.io/proxy/saoroque/stream",
-      "location": "Brazil",
-      "genre": "Radio",
-      "countryCode": "BR",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 64
-    },
-    {
       "id": "rb2_r_dio_tmc_100_1_fm_4912dab1",
       "title": "Rádio TMC 100.1 FM",
       "subtitle": "Debates E Entrevistas, Esportes",
@@ -27513,18 +27474,6 @@
       "streamUrl": "https://tolkien.republicahosting.net:2378/live"
     },
     {
-      "id": "fm_vida_fortin_olmos_92_5_ar_e64aa96b",
-      "title": "FM Vida Fortin Olmos 92.5",
-      "subtitle": "Radio",
-      "location": "Argentina",
-      "genre": "Radio",
-      "countryCode": "AR",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 128,
-      "streamUrl": "http://centova1.veemesoft.com.ar:8170/live"
-    },
-    {
       "id": "fresh_fm_1043_aw_b19e1f52",
       "title": "Fresh FM 1043",
       "subtitle": "Radio",
@@ -28171,6 +28120,66 @@
       "clickCount": 3,
       "bitrate": 128,
       "streamUrl": "https://stream.zeno.fm/fi56cfyl6htuv"
+    },
+    {
+      "id": "hamnava_records_lofi_ca_5ae9abc0",
+      "title": "Hamnava Records - Lofi",
+      "subtitle": "Chill Beats",
+      "location": "Canada",
+      "genre": "Chill Beats",
+      "countryCode": "CA",
+      "language": null,
+      "clickCount": 7,
+      "bitrate": 0,
+      "streamUrl": "https://radio.nimaarki.com/lofi/stream?_ic2=1"
+    },
+    {
+      "id": "continental_590_am_bs_as_version_3_ar_79ba998d",
+      "title": "Continental 590 AM. Bs. As. Version 3",
+      "subtitle": "Radio",
+      "location": "Argentina",
+      "genre": "Radio",
+      "countryCode": "AR",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 160,
+      "streamUrl": "https://frontend.radiohdvivo.com/continental/live"
+    },
+    {
+      "id": "frei_caneca_fm_br_ab19d474",
+      "title": "Frei Caneca FM",
+      "subtitle": "Radio",
+      "location": "Brazil",
+      "genre": "Radio",
+      "countryCode": "BR",
+      "language": "portuguese",
+      "clickCount": 4,
+      "bitrate": 64,
+      "streamUrl": "https://centova3.transmissaodigital.com/proxy/freicaneca/stream"
+    },
+    {
+      "id": "abrantes_gospel_br_67188c36",
+      "title": "Abrantes gospel",
+      "subtitle": "Radio",
+      "location": "Brazil",
+      "genre": "Radio",
+      "countryCode": "BR",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 64,
+      "streamUrl": "https://stm3.uniservstm.stream:6762/stream"
+    },
+    {
+      "id": "maracutaia_fm_br_cd4da441",
+      "title": "maracutaia.fm",
+      "subtitle": "Dance",
+      "location": "Brazil",
+      "genre": "Dance",
+      "countryCode": "BR",
+      "language": "brazilian portuguese",
+      "clickCount": 4,
+      "bitrate": 320,
+      "streamUrl": "https://maracutaiafm.radiocult.fm/stream"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-19T03:17:35Z",
+  "updated": "2026-10-20T03:24:58Z",
   "region": "europe",
   "part": 7,
   "of": 8,
@@ -4343,19 +4343,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_everything_is_new_3bb603f7",
-      "title": "Everything Is New",
-      "subtitle": "Radio",
-      "imageUrl": "https://everythingisnew.pt/wp-content/themes/ein/assets/img/EverythingIsNew.png",
-      "streamUrl": "http://proic1.redeaudio.com/ein",
-      "location": "Portugal",
-      "genre": "Radio",
-      "countryCode": "PT",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 192
-    },
-    {
       "id": "rb2_exotica_radio_b23ba7d7",
       "title": "Exotica Radio",
       "subtitle": "Afrobeat, Bossa Nova",
@@ -6617,19 +6604,6 @@
       "language": null,
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_cidade_hiphop_9ac5ac2e",
-      "title": "cidade hiphop",
-      "subtitle": "Hip Hop",
-      "imageUrl": "",
-      "streamUrl": "https://stream-hls.bauermedia.pt/cidhiphop.aac/playlist.m3u8",
-      "location": "Lisboa, Portugal",
-      "genre": "Hip Hop",
-      "countryCode": "PT",
-      "language": "portuguese",
-      "clickCount": 3,
-      "bitrate": 127
     },
     {
       "id": "rb2_doom_67a6bb67",
@@ -11761,19 +11735,6 @@
       "streamUrl": "https://az10.yesstreaming.net:8210/radiokoko",
       "location": "Romania",
       "genre": "Radio",
-      "countryCode": "RO",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_r_di_gaga_2da7b8ab",
-      "title": "Rádió Gaga",
-      "subtitle": "Pop",
-      "imageUrl": "",
-      "streamUrl": "https://a3.my-control-panel.com:6660/radio.mp3",
-      "location": "Romania",
-      "genre": "Pop",
       "countryCode": "RO",
       "language": null,
       "clickCount": 0,
@@ -19216,15 +19177,6 @@
       "bitrate": 320
     },
     {
-      "id": "instrumental_jazz_ru_518d02",
-      "title": "Instrumental Jazz",
-      "subtitle": "Instrumental",
-      "location": "The Russian Federation",
-      "genre": "Jazz",
-      "countryCode": "RU",
-      "streamUrl": "https://jfm1.hostingradio.ru:14536/ijstream.mp3"
-    },
-    {
       "id": "rb2_invoice_5960e930",
       "title": "Invoice  радио",
       "subtitle": "Политика",
@@ -24675,18 +24627,6 @@
       "streamUrl": "http://manele.capitalfm.ro:8020/stream"
     },
     {
-      "id": "vajdas_gretro_rs_60c0d355",
-      "title": "vajdaságretro",
-      "subtitle": "Oldies & Retro Hits 70S 80S 90S 00S",
-      "location": "Serbia",
-      "genre": "Oldies & Retro Hits 70S 80S 90S 00S",
-      "countryCode": "RS",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 192,
-      "streamUrl": "https://sp1.19cloudsnetwork.gr/8032/stream"
-    },
-    {
       "id": "activ_fm_ro_253cf39b",
       "title": "Activ FM",
       "subtitle": "News",
@@ -24771,18 +24711,6 @@
       "streamUrl": "http://stream.voxfm.ro:8000/stream/1"
     },
     {
-      "id": "lautaru_populara_ro_fb71e48e",
-      "title": "Lautaru Populara",
-      "subtitle": "Radio",
-      "location": "Romania",
-      "genre": "Radio",
-      "countryCode": "RO",
-      "language": "romanian",
-      "clickCount": 13,
-      "bitrate": 128,
-      "streamUrl": "http://live.radiolautaru.ro:9000/;stream.nsv"
-    },
-    {
       "id": "tail_fm_poland_pl_32612c73",
       "title": "Tail FM Poland",
       "subtitle": "#90S",
@@ -24805,18 +24733,6 @@
       "clickCount": 5,
       "bitrate": 128,
       "streamUrl": "https://s4.radio.co/s1e25bf273/listen"
-    },
-    {
-      "id": "naxi_90s_rs_453cfb23",
-      "title": "Naxi 90s",
-      "subtitle": "Pop",
-      "location": "Serbia",
-      "genre": "Pop",
-      "countryCode": "RS",
-      "language": null,
-      "clickCount": 5,
-      "bitrate": 128,
-      "streamUrl": "https://naxidigital-90s128ssl.streaming.rs:8282/;stream.nsv"
     },
     {
       "id": "eska_d_pl_87c1093f",
@@ -25513,6 +25429,138 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "https://stream.fyplus.ro/radio.aac"
+    },
+    {
+      "id": "instrumental_jazz_ru_3779ce65",
+      "title": "Instrumental Jazz",
+      "subtitle": "Instrumental",
+      "location": "The Russian Federation",
+      "genre": "Instrumental",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 28,
+      "bitrate": 128,
+      "streamUrl": "https://jfm1.hostingradio.ru:14536/ijstream.mp3"
+    },
+    {
+      "id": "lautaru_populara_ro_fb71e48e",
+      "title": "Lautaru Populara",
+      "subtitle": "Radio",
+      "location": "Romania",
+      "genre": "Radio",
+      "countryCode": "RO",
+      "language": "romanian",
+      "clickCount": 8,
+      "bitrate": 128,
+      "streamUrl": "http://live.radiolautaru.ro:9000/;stream.nsv"
+    },
+    {
+      "id": "fm_radio_manele_ro_ea4cab3d",
+      "title": "FM Radio Manele",
+      "subtitle": "Manele",
+      "location": "Romania",
+      "genre": "Manele",
+      "countryCode": "RO",
+      "language": "romanian",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "http://a.fmradiomanele.ro:8054/stream"
+    },
+    {
+      "id": "radio_folclor_ro_6a108776",
+      "title": "Radio Folclor",
+      "subtitle": "Folclor",
+      "location": "Romania",
+      "genre": "Folclor",
+      "countryCode": "RO",
+      "language": "romanian",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://ssl.omegahost.ro/8092/stream"
+    },
+    {
+      "id": "anima_amoris_dub_techno_mix_ru_0e2c3d6c",
+      "title": "Anima Amoris Dub Techno Mix",
+      "subtitle": "Dub",
+      "location": "The Russian Federation",
+      "genre": "Dub",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "http://amoris.sknt.ru/dubtechnomix.mp3"
+    },
+    {
+      "id": "eska_katowice_pl_244d139f",
+      "title": "Eska Katowice",
+      "subtitle": "Dance",
+      "location": "Poland",
+      "genre": "Dance",
+      "countryCode": "PL",
+      "language": "polish",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://ic2.smcdn.pl/2220-1.mp3"
+    },
+    {
+      "id": "mind_fuel_radio_dark_jazz_ro_56059c18",
+      "title": "Mind Fuel Radio · Dark Jazz",
+      "subtitle": "24/7",
+      "location": "Romania",
+      "genre": "24/7",
+      "countryCode": "RO",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://141-144-200-199.nip.io/darkjazz.mp3"
+    },
+    {
+      "id": "naxi_90s_rs_453cfb23",
+      "title": "Naxi 90s",
+      "subtitle": "Pop",
+      "location": "Serbia",
+      "genre": "Pop",
+      "countryCode": "RS",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://naxidigital-90s128ssl.streaming.rs:8282/;stream.nsv"
+    },
+    {
+      "id": "station_ru_5445aa03",
+      "title": "Песни всех времен",
+      "subtitle": "Radio",
+      "location": "The Russian Federation",
+      "genre": "Radio",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 4,
+      "bitrate": 64,
+      "streamUrl": "https://pub0102.101.ru:8443/stream/personal/aacp/64/792012"
+    },
+    {
+      "id": "24_ru_b1e5ea8e",
+      "title": "Радио Шансон 24",
+      "subtitle": "Radio",
+      "location": "The Russian Federation",
+      "genre": "Radio",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 256,
+      "streamUrl": "https://radiont.shansonspb.ru:1045/stream"
+    },
+    {
+      "id": "256kbps_ru_440ab036",
+      "title": "Радио Орфей - Симфоническая музыка 256kbps",
+      "subtitle": "Classical",
+      "location": "The Russian Federation",
+      "genre": "Classical",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 4,
+      "bitrate": 256,
+      "streamUrl": "https://channels.fonotron.ru:8000/Chan_74_256.mp3"
     }
   ]
 }

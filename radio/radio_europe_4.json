@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-19T03:17:02Z",
+  "updated": "2026-10-20T03:24:58Z",
   "region": "europe",
   "part": 4,
   "of": 8,
@@ -4742,19 +4742,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_cuillin_fm_isle_of_skye_0e55650a",
-      "title": "Cuillin FM (Isle of Skye)",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://comet.shoutca.st:8338/stream",
-      "location": "Scotland, The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "Radio",
-      "countryCode": "GB",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_cumbernauld_fm_93dbdc0e",
       "title": "Cumbernauld fm",
       "subtitle": "Radio",
@@ -8891,19 +8878,6 @@
       "language": "engilsh",
       "clickCount": 2,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_juice_liverpool_be847566",
-      "title": "Juice Liverpool",
-      "subtitle": "Radio",
-      "imageUrl": "https://juiceliverpool.co.uk/assets/img/favicons/favicon-196x196.png",
-      "streamUrl": "https://uksouth1.juiceboxradio.com/JuiceLiverpool",
-      "location": "Liverpool, The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "Radio",
-      "countryCode": "GB",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 96
     },
     {
       "id": "rb2_juice_radio_55d69b12",
@@ -21528,19 +21502,6 @@
       "bitrate": 192
     },
     {
-      "id": "rb2_formedia_99_8_59b92606",
-      "title": "FORMedia 99.8",
-      "subtitle": "Music, News",
-      "imageUrl": "https://www.formediaradio.gr/icon.png",
-      "streamUrl": "https://streaming-01.cloudbox.gr/listen/formedia/stream.mp3",
-      "location": "Volos, Greece",
-      "genre": "Music",
-      "countryCode": "GR",
-      "language": "greek",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_frgfree_radio_greece_6f7c34fb",
       "title": "FRGFREE Radio Greece",
       "subtitle": "Mainstream, Pop",
@@ -27360,6 +27321,126 @@
       "clickCount": 4,
       "bitrate": 64,
       "streamUrl": "http://s4.onweb.gr:8862/;"
+    },
+    {
+      "id": "air_urdu_in_ede8f82f",
+      "title": "AIR Urdu",
+      "subtitle": "Radio",
+      "location": "India",
+      "genre": "Radio",
+      "countryCode": "IN",
+      "language": null,
+      "clickCount": 7,
+      "bitrate": 0,
+      "streamUrl": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio006/hlspbaudio00632kbps.m3u8"
+    },
+    {
+      "id": "ilayaraja_super_beats_radio_in_f4992b40",
+      "title": "Ilayaraja Super Beats Radio",
+      "subtitle": "Tamil Cinema Music",
+      "location": "India",
+      "genre": "Tamil Cinema Music",
+      "countryCode": "IN",
+      "language": "tamil",
+      "clickCount": 6,
+      "bitrate": 64,
+      "streamUrl": "https://psrlive2.listenon.in/irbeat?ah=0e81749e37789e5fb8c290926ce87e3f"
+    },
+    {
+      "id": "tms_radio_in_f89223b5",
+      "title": "TMS Radio",
+      "subtitle": "South India",
+      "location": "India",
+      "genre": "South India",
+      "countryCode": "IN",
+      "language": "tamil",
+      "clickCount": 6,
+      "bitrate": 64,
+      "streamUrl": "https://psrlive2.listenon.in/tms?station=tmsradio"
+    },
+    {
+      "id": "yuvan_shankar_raja_radio_in_b7a20949",
+      "title": "Yuvan Shankar Raja Radio",
+      "subtitle": "Tamil Cinema Music",
+      "location": "India",
+      "genre": "Tamil Cinema Music",
+      "countryCode": "IN",
+      "language": "tamil",
+      "clickCount": 4,
+      "bitrate": 64,
+      "streamUrl": "https://psrlive2.listenon.in/ysr?ah=0e81749e37789e5fb8c290926ce87e3f"
+    },
+    {
+      "id": "radio_terna_90_4_fm_in_b31fa58f",
+      "title": "Radio Terna 90.4 FM",
+      "subtitle": "Radio",
+      "location": "India",
+      "genre": "Radio",
+      "countryCode": "IN",
+      "language": "hindi",
+      "clickCount": 4,
+      "bitrate": 64,
+      "streamUrl": "https://radio.garden/api/ara/content/listen/MzpZd2nQ/channel.mp3"
+    },
+    {
+      "id": "fm_rainbow_delhi_32_kbps_in_a4619f65",
+      "title": "Fm Rainbow Delhi 32 kbps",
+      "subtitle": "Added By Shivam",
+      "location": "India",
+      "genre": "Added By Shivam",
+      "countryCode": "IN",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio004/hlspbaudio00432kbps.m3u8"
+    },
+    {
+      "id": "arion_gr_e5952aec",
+      "title": "Arion Στιγμές",
+      "subtitle": "Greek Music",
+      "location": "Greece",
+      "genre": "Greek Music",
+      "countryCode": "GR",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://ice2.onestreaming.com/arionstigmes"
+    },
+    {
+      "id": "ble_93_gr_f953fd17",
+      "title": "Ble 93",
+      "subtitle": "Radio",
+      "location": "Greece",
+      "genre": "Radio",
+      "countryCode": "GR",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://ice.greekstream.net/diavlos93"
+    },
+    {
+      "id": "my_radio_104_6_gr_5c3987b3",
+      "title": "My Radio 104,6",
+      "subtitle": "Radio",
+      "location": "Greece",
+      "genre": "Radio",
+      "countryCode": "GR",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 192,
+      "streamUrl": "https://streaming.myradio1046.fm/myradio1046"
+    },
+    {
+      "id": "live_gurbani_sri_darbar_sahib_sgpc_in_eefa6f73",
+      "title": "Live Gurbani - Sri Darbar Sahib (SGPC)",
+      "subtitle": "Amritsar",
+      "location": "India",
+      "genre": "Amritsar",
+      "countryCode": "IN",
+      "language": "punjabi",
+      "clickCount": 3,
+      "bitrate": 96,
+      "streamUrl": "https://live.sgpc.net:8443/;stream.mp3"
     }
   ]
 }

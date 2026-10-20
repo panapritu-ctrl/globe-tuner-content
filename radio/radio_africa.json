@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-19T03:17:35Z",
+  "updated": "2026-10-20T03:24:58Z",
   "region": "africa",
   "stations": [
     {
@@ -2127,19 +2127,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb_radio_kaya_aafa806b",
-      "title": "Radio Kaya",
-      "subtitle": "Jazz, Local News",
-      "imageUrl": "",
-      "streamUrl": "http://usa9-vn.mixstream.net:8084/;",
-      "location": "Kenya",
-      "genre": "Jazz",
-      "countryCode": "KE",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 109
-    },
-    {
       "id": "rb2_radio_maria_kenya_nairobi_3bac01df",
       "title": "Radio Maria Kenya - Nairobi",
       "subtitle": "Radio",
@@ -3223,15 +3210,6 @@
       "location": "Nigeria",
       "genre": "African Music",
       "streamUrl": "https://stream.zeno.fm/9reuhyz8up8uv",
-      "countryCode": "NG"
-    },
-    {
-      "id": "goradio_ng_ng_ed39bc",
-      "title": "GoRadio ng",
-      "subtitle": "Afrobeat",
-      "location": "Lagos, Nigeria",
-      "genre": "Afrobeat",
-      "streamUrl": "https://online.goradio.com.ng/listen/gr/radio.mp3",
       "countryCode": "NG"
     },
     {
@@ -9573,18 +9551,6 @@
       "streamUrl": "https://eagle7fm-atunwadigital.streamguys1.com/eagle7fm"
     },
     {
-      "id": "radio_fr_quence_3_93_8_bamako_ml_9b3ee76d",
-      "title": "Radio Fréquence 3 93.8 Bamako",
-      "subtitle": "Music",
-      "location": "Mali",
-      "genre": "Music",
-      "countryCode": "ML",
-      "language": "french",
-      "clickCount": 2,
-      "bitrate": 64,
-      "streamUrl": "http://ice.stream.frequence3.net/frequence3-64.aac"
-    },
-    {
       "id": "1radio_oguta_community_ng_eb137708",
       "title": "1Radio Oguta - Community",
       "subtitle": "Radio",
@@ -9643,18 +9609,6 @@
       "clickCount": 4,
       "bitrate": 64,
       "streamUrl": "http://78.129.252.13:24460/stream"
-    },
-    {
-      "id": "omniradio_sheikh_bandar_balila_eg_b92b6347",
-      "title": "OmniRadio - Sheikh Bandar Balila (الشيخ بندر بليلة)",
-      "subtitle": "Arabic",
-      "location": "Egypt",
-      "genre": "Arabic",
-      "countryCode": "EG",
-      "language": "ar",
-      "clickCount": 5,
-      "bitrate": 128,
-      "streamUrl": "https://radio.xecod.com/station/bandar-balila"
     },
     {
       "id": "innovation_fm_cd_0ebed197",
@@ -12247,6 +12201,90 @@
       "clickCount": 3,
       "bitrate": 128,
       "streamUrl": "https://stream-179.surfernetwork.com/l4feq7zw5d2uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJsNGZlcTd6dzVkMnV2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Im9XMmRVZm1TVGxlUkRiYkMxUDhGT0EiLCJpYXQiOjE3OTIxMTAwMDIsImV4cCI6MTc5MjExMDA2Mn0.yPwYLg0INuDlrw9ddpTs4wnRwyprxCBT38e31p9lfAQ"
+    },
+    {
+      "id": "sbc_paradise_fm_seychelles_best_mix_sc_4f698432",
+      "title": "SBC Paradise FM - Seychelles Best Mix",
+      "subtitle": "Contemporary",
+      "location": "Seychelles",
+      "genre": "Contemporary",
+      "countryCode": "SC",
+      "language": "english",
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "https://streaming.fabrik.fm/paradise-fm/echocast/audio/index.m3u8"
+    },
+    {
+      "id": "radio_maria_cameroun_cm_e56088c1",
+      "title": "Radio Maria Cameroun",
+      "subtitle": "Christian",
+      "location": "Cameroon",
+      "genre": "Christian",
+      "countryCode": "CM",
+      "language": "french",
+      "clickCount": 5,
+      "bitrate": 80,
+      "streamUrl": "https://dreamsiteradiocp7.com/proxy/rmcameroon?mp=/stream"
+    },
+    {
+      "id": "u_dance_ma_49944ff7",
+      "title": "U Dance",
+      "subtitle": "Radio",
+      "location": "Morocco",
+      "genre": "Radio",
+      "countryCode": "MA",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://udance.ice.infomaniak.ch/udance-128.aac"
+    },
+    {
+      "id": "1radio_pitakwa_port_harcourt_city_ng_71bc56dc",
+      "title": "1Radio Pitakwa - Port Harcourt City",
+      "subtitle": "Various",
+      "location": "Nigeria",
+      "genre": "Various",
+      "countryCode": "NG",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 64,
+      "streamUrl": "https://fm.imediaport.com/pitakwa"
+    },
+    {
+      "id": "radio_luanda_fm_line_ao_355cec45",
+      "title": "Radio luanda fm line",
+      "subtitle": "Christian",
+      "location": "Angola",
+      "genre": "Christian",
+      "countryCode": "AO",
+      "language": "portuguese",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://stream1.svrdedicado.org:7175/;"
+    },
+    {
+      "id": "tebessa_dz_fe5dbfee",
+      "title": "Tebessa تبسة",
+      "subtitle": "Local",
+      "location": "Algeria",
+      "genre": "Local",
+      "countryCode": "DZ",
+      "language": "arabic",
+      "clickCount": 3,
+      "bitrate": 64,
+      "streamUrl": "https://webradio2.tda.dz:8001/Tebessa_64K.mp3"
+    },
+    {
+      "id": "radio_kaya_ke_4493dffb",
+      "title": "Radio Kaya",
+      "subtitle": "Jazz",
+      "location": "Kenya",
+      "genre": "Jazz",
+      "countryCode": "KE",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 109,
+      "streamUrl": "http://usa9-vn.mixstream.net:8084/;"
     }
   ]
 }

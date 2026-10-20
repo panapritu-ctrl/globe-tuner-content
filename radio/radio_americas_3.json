@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-19T03:17:35Z",
+  "updated": "2026-10-20T03:24:58Z",
   "region": "americas",
   "part": 3,
   "of": 5,
@@ -20662,15 +20662,6 @@
       "bitrate": 32
     },
     {
-      "id": "jo_radio_hd_tt",
-      "title": "JO Radio HD",
-      "subtitle": "Adult Contemporary / Gospel",
-      "location": "Port of Spain, Trinidad And Tobago",
-      "genre": "Reggae",
-      "countryCode": "TT",
-      "streamUrl": "https://medncxfardtsdpzezzsb.supabase.co/functions/v1/stream"
-    },
-    {
       "id": "rb_lit_102_3fm_f2fee0e8",
       "title": "LIT 102.3FM",
       "subtitle": "Radio",
@@ -26656,6 +26647,18 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://a6.asurahosting.com:8580/radio.mp3"
+    },
+    {
+      "id": "radio_folk_peru_pe_e6e9af3d",
+      "title": "Radio Folk Peru",
+      "subtitle": "Andean",
+      "location": "Peru",
+      "genre": "Andean",
+      "countryCode": "PE",
+      "language": "spanish",
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "http://live.radiofolkperu.com/listen/radiofolkperu/radio.mp3"
     }
   ]
 }

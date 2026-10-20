@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-19T03:17:35Z",
+  "updated": "2026-10-20T03:24:58Z",
   "region": "europe",
   "part": 5,
   "of": 8,
@@ -27625,6 +27625,30 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "http://mp3.nexus.org:8000/irn.mp3"
+    },
+    {
+      "id": "radio_d_pop_rock_hu_9a8e65ce",
+      "title": "Radio-D - Pop Rock",
+      "subtitle": "Oldies",
+      "location": "Hungary",
+      "genre": "Oldies",
+      "countryCode": "HU",
+      "language": "hungarian",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "http://radio-d.hu:8000/poprock"
+    },
+    {
+      "id": "radio_6023_it_00c083e9",
+      "title": "Radio 6023",
+      "subtitle": "Radio",
+      "location": "Italy",
+      "genre": "Radio",
+      "countryCode": "IT",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 320,
+      "streamUrl": "http://stream12.top-ix.org/radio6023"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-19T03:17:35Z",
+  "updated": "2026-10-20T03:24:58Z",
   "region": "europe",
   "part": 1,
   "of": 8,
@@ -5479,19 +5479,6 @@
       "countryCode": "BE",
       "language": "english",
       "clickCount": 4,
-      "bitrate": 160
-    },
-    {
-      "id": "rb2_mynoise_pure_nature_4dad0ae3",
-      "title": "MyNoise Pure Nature",
-      "subtitle": "Ambient, Ambient And Relaxation Music",
-      "imageUrl": "https://mynoise.net/apple-touch-icon.png",
-      "streamUrl": "https://purenature-mynoise.radioca.st/stream",
-      "location": "Belgium",
-      "genre": "Ambient",
-      "countryCode": "BE",
-      "language": "english",
-      "clickCount": 3,
       "bitrate": 160
     },
     {
@@ -18191,19 +18178,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_0_n_hot_on_radio_8be60a79",
-      "title": "- 0 N - Hot on Radio",
-      "subtitle": "Dance, Hits",
-      "imageUrl": "https://www.0nradio.com/logos/0n-hot_600x600.jpg",
-      "streamUrl": "https://0n-hot.radionetz.de/0n-hot.aac",
-      "location": "Bayern, Germany",
-      "genre": "Dance",
-      "countryCode": "DE",
-      "language": "german",
-      "clickCount": 4,
-      "bitrate": 64
-    },
-    {
       "id": "0_n_house_on_radio_de_bc2fde",
       "title": "- 0 N - House on Radio",
       "subtitle": "Dance",
@@ -27410,18 +27384,6 @@
       "streamUrl": "https://stream.rcast.net/72851"
     },
     {
-      "id": "folklor_fm_bg_e056eedc",
-      "title": "folklor.fm",
-      "subtitle": "Folk",
-      "location": "Bulgaria",
-      "genre": "Folk",
-      "countryCode": "BG",
-      "language": "bulgarian",
-      "clickCount": 2,
-      "bitrate": 320,
-      "streamUrl": "http://91.227.77.124/folklorfm"
-    },
-    {
       "id": "radio_bosna_ba_bf2e872f",
       "title": "Radio Bosna",
       "subtitle": "Radio",
@@ -32796,6 +32758,54 @@
       "clickCount": 3,
       "bitrate": 320,
       "streamUrl": "http://g5.turbohost.eu:8002/stream320"
+    },
+    {
+      "id": "radio_love_it_cz_6265047d",
+      "title": "Radio Love-it",
+      "subtitle": "Hypnosis",
+      "location": "Czechia",
+      "genre": "Hypnosis",
+      "countryCode": "CZ",
+      "language": "czech",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://radio.ihypnosis.org.uk/stream"
+    },
+    {
+      "id": "station_bg_b51cdc85",
+      "title": "Радио Рибка.бг",
+      "subtitle": "Radio",
+      "location": "Bulgaria",
+      "genre": "Radio",
+      "countryCode": "BG",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://xn--80abuj1a.xn--90ae/live-radio"
+    },
+    {
+      "id": "radio_onimai_de_990db8fb",
+      "title": "Radio Onimai",
+      "subtitle": "Anime",
+      "location": "Germany",
+      "genre": "Anime",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://radio.onimai.eu/stream.mp3"
+    },
+    {
+      "id": "95_5_charivari_lounge_de_dbe98188",
+      "title": "95.5 Charivari Lounge",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "http://edge15.stream.charivari.de/955charivari-lounge/stream/aacp?aggregator=icecastdirectory"
     }
   ]
 }

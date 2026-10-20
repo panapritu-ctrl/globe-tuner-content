@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-19T03:17:35Z",
+  "updated": "2026-10-20T03:24:58Z",
   "region": "asia",
   "part": 3,
   "of": 3,
@@ -652,19 +652,6 @@
       "language": null,
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_dxbh_hope_radio_103_7mhz_611e0fb7",
-      "title": "DXBH Hope Radio 103.7Mhz",
-      "subtitle": "Gospel",
-      "imageUrl": "https://dxbh.net/awr-logo.png",
-      "streamUrl": "https://stream.dxbh.net/main_mp3",
-      "location": "The Philippines",
-      "genre": "Gospel",
-      "countryCode": "PH",
-      "language": "cebuano",
-      "clickCount": 1,
-      "bitrate": 64
     },
     {
       "id": "rb2_dxgt_radyo_abante_3dfee018",
@@ -14231,18 +14218,6 @@
       "streamUrl": "https://play.radyohit.tr/stream"
     },
     {
-      "id": "ok_fm_sogod_ph_388f3881",
-      "title": "OK-FM Sogod",
-      "subtitle": "Radio",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "language": null,
-      "clickCount": 3,
-      "bitrate": 56,
-      "streamUrl": "https://mercury.reliastream.com/proxy/broadte3?mp=/;"
-    },
-    {
       "id": "106_yes_radio_th_57f51d03",
       "title": "106 Yes radio",
       "subtitle": "Radio",
@@ -14817,18 +14792,6 @@
       "clickCount": 3,
       "bitrate": 0,
       "streamUrl": "https://flv.ccdntech.com/live/_definst_/mp4:vod117_Live/live1/chunklist_w872521607.m3u8"
-    },
-    {
-      "id": "hector_sa_7daa329b",
-      "title": "Hector",
-      "subtitle": "Radio",
-      "location": "Saudi Arabia",
-      "genre": "Radio",
-      "countryCode": "SA",
-      "language": null,
-      "clickCount": 6,
-      "bitrate": 96,
-      "streamUrl": "http://193.70.34.27:20330/groovy"
     },
     {
       "id": "dzhb_ibc_radio_1512_am_ph_de5abca5",
@@ -16067,18 +16030,6 @@
       "streamUrl": "http://playerservices.streamtheworld.com/api/livestream-redirect/JOYTURK_AKUSTIK128AAC.aac"
     },
     {
-      "id": "tempo_fm_101_5_tr_90c8b772",
-      "title": "Tempo FM 101.5",
-      "subtitle": "Radio",
-      "location": "Türkiye",
-      "genre": "Radio",
-      "countryCode": "TR",
-      "language": "turkish",
-      "clickCount": 4,
-      "bitrate": 96,
-      "streamUrl": "https://live.radyo.in/8062/stream"
-    },
-    {
       "id": "pop_90_turkiye_tr_bff170c9",
       "title": "POP 90 Turkiye",
       "subtitle": "90S Pop",
@@ -16835,18 +16786,6 @@
       "streamUrl": "http://209.126.124.126:8572/stream"
     },
     {
-      "id": "radio_pakistan_peshawar_pk_a745be7f",
-      "title": "Radio Pakistan Peshawar",
-      "subtitle": "Radio",
-      "location": "Pakistan",
-      "genre": "Radio",
-      "countryCode": "PK",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 192,
-      "streamUrl": "https://whmsonic.radio.gov.pk:8072/relay?type=http&nocache=9](https://whmsonic.radio.gov.pk:8072/relay?type=http&nocache=9"
-    },
-    {
       "id": "hedgehog_radio_tr_f35118f9",
       "title": "Hedgehog Radio",
       "subtitle": "Atmospheric",
@@ -17241,6 +17180,42 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "http://61.220.75.207:8106/"
+    },
+    {
+      "id": "bombo_radyo_tuguegarao_ph_1bdd3451",
+      "title": "Bombo Radyo Tuguegarao",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://stream.zenolive.com/w8pcsam29heuv"
+    },
+    {
+      "id": "radio_pakistan_peshawar_pk_a745be7f",
+      "title": "Radio Pakistan Peshawar",
+      "subtitle": "Radio",
+      "location": "Pakistan",
+      "genre": "Radio",
+      "countryCode": "PK",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://whmsonic.radio.gov.pk:8072/relay?type=http&nocache=9](https://whmsonic.radio.gov.pk:8072/relay?type=http&nocache=9"
+    },
+    {
+      "id": "hector_sa_7daa329b",
+      "title": "Hector",
+      "subtitle": "Radio",
+      "location": "Saudi Arabia",
+      "genre": "Radio",
+      "countryCode": "SA",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 96,
+      "streamUrl": "http://193.70.34.27:20330/groovy"
     }
   ]
 }
