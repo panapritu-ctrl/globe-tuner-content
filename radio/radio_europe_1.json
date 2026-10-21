@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-20T03:24:58Z",
+  "updated": "2026-10-21T03:23:11Z",
   "region": "europe",
   "part": 1,
   "of": 8,
@@ -3890,19 +3890,6 @@
       "countryCode": "BA",
       "language": "bosnian",
       "clickCount": 3,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_bosanska_krupa_ef3eedbb",
-      "title": "Radio Bosanska Krupa",
-      "subtitle": "Radio",
-      "imageUrl": "https://radiobk.ba/wp-content/uploads/2024/11/Radio1-300x112.png",
-      "streamUrl": "https://webtvstream.bhtelecom.ba/radio_bosanska_krupa.m3u8",
-      "location": "Bosnia And Herzegovina",
-      "genre": "Radio",
-      "countryCode": "BA",
-      "language": "bosnian",
-      "clickCount": 1,
       "bitrate": 128
     },
     {
@@ -32806,6 +32793,138 @@
       "clickCount": 3,
       "bitrate": 0,
       "streamUrl": "http://edge15.stream.charivari.de/955charivari-lounge/stream/aacp?aggregator=icecastdirectory"
+    },
+    {
+      "id": "ffh_relax_de_9b9b038f",
+      "title": "FFH Relax",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "http://mp3.ffh.de/ffhchannels/hqrelax.mp3?aw_0_req.gdpr=true"
+    },
+    {
+      "id": "radio_bob_iron_maden_de_4db377ba",
+      "title": "Radio BOB! Iron Maden",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "https://streams.radiobob.de/bob-ironmaiden/mp3-192/"
+    },
+    {
+      "id": "radi_at_29de2a6b",
+      "title": "Radi",
+      "subtitle": "Radio",
+      "location": "Austria",
+      "genre": "Radio",
+      "countryCode": "AT",
+      "language": "german",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://edge22.streamonkey.net/oe24-live"
+    },
+    {
+      "id": "r_dio_praha_cz_b8215201",
+      "title": "Rádio Praha",
+      "subtitle": "Radio",
+      "location": "Czechia",
+      "genre": "Radio",
+      "countryCode": "CZ",
+      "language": "czech",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://rozhlas.stream/radio_dab_praha_high.aac"
+    },
+    {
+      "id": "klassik_radio_swinging_christmas_de_759d1ede",
+      "title": "Klassik Radio - Swinging Christmas",
+      "subtitle": "Christmas",
+      "location": "Germany",
+      "genre": "Christmas",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://klassikr.streamabc.net/klr_t8btqytdgqw_drfy-aac-128-3828900?sABC=675890qo%230%23orq240r0103qo0337onr6o922140oq34%23&zrgnvq=p3pr279q-1961-4q5n-nrr8-r1958np6p5q4&ezfvq=fryrpg-jro&aw_0_1st.playerid=%26metaid%3Dc3ce279d-1961-4d5a-aee8-e1958ac6c5d4%26rmsid%3Dselect-web&amsparams=playerid:%26metaid%3Dc3ce279d-1961-4d5a-aee8-e1958ac6c5d4%26rmsid%3Dselect-web;skey:1733857499"
+    },
+    {
+      "id": "midnox_radio_de_af537cde",
+      "title": "midnox Radio",
+      "subtitle": "Dance",
+      "location": "Germany",
+      "genre": "Dance",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://vitacola.spdns.eu/listen/midnox/radio.mp3"
+    },
+    {
+      "id": "rila_folk_bg_2621e729",
+      "title": "Rila Folk",
+      "subtitle": "Folk",
+      "location": "Bulgaria",
+      "genre": "Folk",
+      "countryCode": "BG",
+      "language": "bulgarian",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://play-radio6.jump.bg:7016/play;"
+    },
+    {
+      "id": "radio_auerhahn_de_bc76b707",
+      "title": "Radio Auerhahn",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://radio-auerhahn.stream.laut.fm/radio-auerhahn"
+    },
+    {
+      "id": "arberwaldradio_de_7782fd4e",
+      "title": "Arberwaldradio",
+      "subtitle": "Folk",
+      "location": "Germany",
+      "genre": "Folk",
+      "countryCode": "DE",
+      "language": "deutsch fränkisch",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "http://stream.arberwoidradio.com/stream"
+    },
+    {
+      "id": "rpr1_radio_schinkenstrasse_de_78fbf987",
+      "title": "RPR1. Radio Schinkenstrasse",
+      "subtitle": "Ballermann",
+      "location": "Germany",
+      "genre": "Ballermann",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://stream.rpr1.de/apresski/mp3-128/radiobrowser"
+    },
+    {
+      "id": "radio_herne_de_d5427abf",
+      "title": "Radio Herne",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://stream.lokalradio.nrw/444zchk"
     }
   ]
 }

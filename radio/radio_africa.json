@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-20T03:24:58Z",
+  "updated": "2026-10-21T03:23:11Z",
   "region": "africa",
   "stations": [
     {
@@ -11771,18 +11771,6 @@
       "streamUrl": "https://stream.zeno.fm/z7fmrvt47uxvv"
     },
     {
-      "id": "104_1_favour_fm_gulu_104_1_fm_ug_15804b82",
-      "title": "104.1 Favour FM - Gulu - 104.1 FM",
-      "subtitle": "Christian",
-      "location": "Uganda",
-      "genre": "Christian",
-      "countryCode": "UG",
-      "language": "english",
-      "clickCount": 4,
-      "bitrate": 0,
-      "streamUrl": "http://us5new.listen2myradio.com:2199/listen.php?port=8138&type=ice&mount=stream"
-    },
-    {
       "id": "lac_luanda_antena_comercial_ao_ecd671bf",
       "title": "LAC - Luanda Antena Comercial",
       "subtitle": "News",
@@ -12285,6 +12273,54 @@
       "clickCount": 3,
       "bitrate": 109,
       "streamUrl": "http://usa9-vn.mixstream.net:8084/;"
+    },
+    {
+      "id": "mij_fm_malawi_institute_of_journalism_mw_9cbeb0cc",
+      "title": "MIJ FM Malawi Institute of Journalism",
+      "subtitle": "News",
+      "location": "Malawi",
+      "genre": "News",
+      "countryCode": "MW",
+      "language": "chichewa",
+      "clickCount": 9,
+      "bitrate": 192,
+      "streamUrl": "http://65.108.124.70:7954/mij"
+    },
+    {
+      "id": "radio_ssese_101_9_fm_kalangala_ug_7d38b9fb",
+      "title": "RADIO SSESE 101.9 FM KALANGALA",
+      "subtitle": "Radio",
+      "location": "Uganda",
+      "genre": "Radio",
+      "countryCode": "UG",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://stream.zeno.fm/bphnslpg8p1uv"
+    },
+    {
+      "id": "twr_malawi_mw_f44c3b83",
+      "title": "TWR Malawi",
+      "subtitle": "Christian",
+      "location": "Malawi",
+      "genre": "Christian",
+      "countryCode": "MW",
+      "language": "chichewa",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://host2.streamafrica.net/listen/twr_malawi/radio.mp3"
+    },
+    {
+      "id": "power_101_digital_mw_b7a49df1",
+      "title": "Power 101 digital",
+      "subtitle": "Education",
+      "location": "Malawi",
+      "genre": "Education",
+      "countryCode": "MW",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 320,
+      "streamUrl": "https://stream.zeno.fm/rix7wcslvc0tv"
     }
   ]
 }

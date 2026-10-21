@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-20T03:24:58Z",
+  "updated": "2026-10-21T03:23:11Z",
   "region": "europe",
   "part": 6,
   "of": 8,
@@ -10584,19 +10584,6 @@
       "streamUrl": "https://classic.nl/streams/?s=opera"
     },
     {
-      "id": "rb2_classics_radio_0f1da96c",
-      "title": "Classics; Radio",
-      "subtitle": "Radio",
-      "imageUrl": "https://a4.asurahosting.com/static/uploads/classics_radio/album_art.1770725396.png",
-      "streamUrl": "https://a4.asurahosting.com:7080/radio.mp3",
-      "location": "Noord-Brabant, The Netherlands",
-      "genre": "Radio",
-      "countryCode": "NL",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 192
-    },
-    {
       "id": "rb2_clos_fm_412b32c5",
       "title": "Clos FM",
       "subtitle": "Various Music",
@@ -11953,19 +11940,6 @@
       "language": null,
       "clickCount": 0,
       "bitrate": 192
-    },
-    {
-      "id": "rb2_hi_on_line_classic_radio_730ab692",
-      "title": "Hi On Line Classic Radio",
-      "subtitle": "Radio",
-      "imageUrl": "https://cdn-radiotime-logos.tunein.com/s207157d.png",
-      "streamUrl": "http://mediaserv30.live-streams.nl:8088/stream",
-      "location": "The Netherlands",
-      "genre": "Radio",
-      "countryCode": "NL",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 320
     },
     {
       "id": "rb2_hi_on_line_latin_radio_96244866",
@@ -24909,18 +24883,6 @@
       "streamUrl": "https://radio.1zwolle.nl/1zwolle"
     },
     {
-      "id": "pinguin_groove_nl_1476d1a2",
-      "title": "Pinguin Groove",
-      "subtitle": "Radio",
-      "location": "The Netherlands",
-      "genre": "Radio",
-      "countryCode": "NL",
-      "language": "dutch",
-      "clickCount": 3,
-      "bitrate": 192,
-      "streamUrl": "https://samcloud.spacial.com/api/listen?sid=98587&m=sc&rid=174412"
-    },
-    {
       "id": "sh_radio_nl_8305666f",
       "title": "SH Radio",
       "subtitle": "Radio",
@@ -27309,18 +27271,6 @@
       "streamUrl": "https://stream.m-1.fm/m1/aacp64"
     },
     {
-      "id": "haze_pub_radio_lt_b4b0b608",
-      "title": "Haze Pub Radio",
-      "subtitle": "Alternative",
-      "location": "Lithuania",
-      "genre": "Alternative",
-      "countryCode": "LT",
-      "language": "lithuanian",
-      "clickCount": 5,
-      "bitrate": 128,
-      "streamUrl": "https://live.leproradio.com/rocks.ogg"
-    },
-    {
       "id": "pmr_lt_lt_693ca9eb",
       "title": "PMR.lt",
       "subtitle": "Ethnic",
@@ -27619,6 +27569,90 @@
       "clickCount": 3,
       "bitrate": 48,
       "streamUrl": "https://my.radioprocessor.com:8100/avtoradiolv-48.aac"
+    },
+    {
+      "id": "decibel_party_nl_76a76faf",
+      "title": "Decibel Party!",
+      "subtitle": "Radio",
+      "location": "The Netherlands",
+      "genre": "Radio",
+      "countryCode": "NL",
+      "language": "dutch",
+      "clickCount": 6,
+      "bitrate": 192,
+      "streamUrl": "https://28503.live.streamtheworld.com/DECIBELIBIZA.mp3"
+    },
+    {
+      "id": "latvijas_radio_5_pieci_lv_lv_cd01a1c3",
+      "title": "Latvijas Radio 5 - Pieci.lv",
+      "subtitle": "News",
+      "location": "Latvia",
+      "genre": "News",
+      "countryCode": "LV",
+      "language": "latvian",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://muste.latvijasradio.lv/pieci/smil:k2.smil/playlist.m3u8"
+    },
+    {
+      "id": "radio_decibel_nl_91ff51a4",
+      "title": "Radio Decibel",
+      "subtitle": "Radio",
+      "location": "The Netherlands",
+      "genre": "Radio",
+      "countryCode": "NL",
+      "language": "dutch",
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "https://28033.live.streamtheworld.com/RADIODECIBEL.mp3"
+    },
+    {
+      "id": "decibel_eurodance_nl_a2abbf36",
+      "title": "Decibel Eurodance",
+      "subtitle": "Eurodance",
+      "location": "The Netherlands",
+      "genre": "Eurodance",
+      "countryCode": "NL",
+      "language": "dutch",
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "https://22193.live.streamtheworld.com/DECIBELEURODANCE.mp3"
+    },
+    {
+      "id": "relax_fm_latvija_lv_2506d363",
+      "title": "Relax FM Latvija",
+      "subtitle": "Adult Contemporary",
+      "location": "Latvia",
+      "genre": "Adult Contemporary",
+      "countryCode": "LV",
+      "language": "latvian",
+      "clickCount": 4,
+      "bitrate": 96,
+      "streamUrl": "https://live.relaxfm.lv/01"
+    },
+    {
+      "id": "jazz_radio_by_maestro_swingin_nl_2733cc94",
+      "title": "Jazz Radio by Maestro - Swingin'",
+      "subtitle": "Radio",
+      "location": "The Netherlands",
+      "genre": "Radio",
+      "countryCode": "NL",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream.jazzradiobymaestro.com/swingin"
+    },
+    {
+      "id": "dirty_disco_radio_24_7_nl_e9d03a3c",
+      "title": "Dirty Disco Radio 24/7",
+      "subtitle": "Radio",
+      "location": "The Netherlands",
+      "genre": "Radio",
+      "countryCode": "NL",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 320,
+      "streamUrl": "https://stream.dirtydiscoradio.com/listen/dirty_disco_radio_247/radio.mp3"
     }
   ]
 }

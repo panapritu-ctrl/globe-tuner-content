@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-20T03:24:58Z",
+  "updated": "2026-10-21T03:23:11Z",
   "region": "americas",
   "part": 1,
   "of": 5,
@@ -507,19 +507,6 @@
       "language": null,
       "clickCount": 0,
       "bitrate": 32
-    },
-    {
-      "id": "rb2_brh_bah_a_radio_hits_417a0590",
-      "title": "BRH - Bahía Radio Hits",
-      "subtitle": "Classic Hits 80'S 90'S",
-      "imageUrl": "",
-      "streamUrl": "https://miestacion.turadioonline.com.ar/8158/stream",
-      "location": "Bahía Blanca, Argentina",
-      "genre": "Classic Hits 80'S 90'S",
-      "countryCode": "AR",
-      "language": "spanish",
-      "clickCount": 0,
-      "bitrate": 320
     },
     {
       "id": "rb2_bar_de_blues_radio_45349ce4",
@@ -1839,19 +1826,6 @@
       "language": "spanish",
       "clickCount": 1,
       "bitrate": 32
-    },
-    {
-      "id": "rb2_fm_barrancas_98_7_8e270382",
-      "title": "FM Barrancas 98.7",
-      "subtitle": "Cuarteto, Cumbia",
-      "imageUrl": "https://fmbarrancas.com.ar/img/logo-fmbarrancas.png",
-      "streamUrl": "https://server.radiostreaming.com.ar/8152/stream",
-      "location": "Argentina",
-      "genre": "Cuarteto",
-      "countryCode": "AR",
-      "language": "spanish",
-      "clickCount": 0,
-      "bitrate": 64
     },
     {
       "id": "rb2_fm_blackie_89_1_1391cd49",
@@ -9612,15 +9586,6 @@
       "bitrate": 64
     },
     {
-      "id": "107_fm_tatu_br",
-      "title": "107 FM Tatuí",
-      "subtitle": "Local News / News",
-      "location": "Sao Paulo, Brazil",
-      "genre": "News",
-      "countryCode": "BR",
-      "streamUrl": "https://f108.fabricahost.com.br/107fm?f=1768440014N01KEZKTA1M1TPDQW0KTF63Z481&tid=01KEZKTA1MJQM48EZ7NP81GYVW"
-    },
-    {
       "id": "107_5_simplesmente_diferente_br",
       "title": "107.5 simplesmente diferente",
       "subtitle": "Gospel Music",
@@ -14835,19 +14800,6 @@
       "language": "brazilian portuguese",
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_oeste_fm_94_5_73fe65cd",
-      "title": "Radio Oeste FM 94,5",
-      "subtitle": "Variety",
-      "imageUrl": "",
-      "streamUrl": "http://radio.viaflux.com:5599/live",
-      "location": "Brazil",
-      "genre": "Variety",
-      "countryCode": "BR",
-      "language": "portuguese",
-      "clickCount": 0,
-      "bitrate": 80
     },
     {
       "id": "rb2_radio_olinda_105_3_46aa85ad",
@@ -23250,18 +23202,6 @@
       "streamUrl": "https://26733.live.streamtheworld.com/CBCOFM_CBC_SC"
     },
     {
-      "id": "citynews_vancouver_ca_92478763",
-      "title": "CityNews Vancouver",
-      "subtitle": "Radio",
-      "location": "Canada",
-      "genre": "Radio",
-      "countryCode": "CA",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 48,
-      "streamUrl": "https://rogers.leanstream.co/rogers/van1130.stream/icy?environment=tunein&args=tunein_01"
-    },
-    {
       "id": "cjiq_88_3_conestoga_college_kitchener_on_ca_fce5ecdd",
       "title": "CJIQ 88.3 Conestoga College - Kitchener, ON",
       "subtitle": "Alternative Rock",
@@ -27510,18 +27450,6 @@
       "streamUrl": "https://masservidor.net:7192/stream"
     },
     {
-      "id": "eldorado_fm_s_o_paulo_br_2325e844",
-      "title": "Eldorado FM - São Paulo",
-      "subtitle": "Adult Contemporary",
-      "location": "Brazil",
-      "genre": "Adult Contemporary",
-      "countryCode": "BR",
-      "language": "brazilian portuguese",
-      "clickCount": 3,
-      "bitrate": 0,
-      "streamUrl": "https://eldoradolive01.akamaized.net/hls/live/2041487/eldorado/master.m3u8"
-    },
-    {
       "id": "dumont_fm_br_20e49d4a",
       "title": "Dumont FM",
       "subtitle": "Radio",
@@ -28180,6 +28108,126 @@
       "clickCount": 4,
       "bitrate": 320,
       "streamUrl": "https://maracutaiafm.radiocult.fm/stream"
+    },
+    {
+      "id": "eldorado_fm_s_o_paulo_br_2325e844",
+      "title": "Eldorado FM - São Paulo",
+      "subtitle": "Adult Contemporary",
+      "location": "Brazil",
+      "genre": "Adult Contemporary",
+      "countryCode": "BR",
+      "language": "brazilian portuguese",
+      "clickCount": 8,
+      "bitrate": 0,
+      "streamUrl": "https://eldoradolive01.akamaized.net/hls/live/2041487/eldorado/master.m3u8"
+    },
+    {
+      "id": "kiss_fm_92_5_br_1dbbad64",
+      "title": "Kiss FM 92.5",
+      "subtitle": "Alternative Rock",
+      "location": "Brazil",
+      "genre": "Alternative Rock",
+      "countryCode": "BR",
+      "language": "português  brasil",
+      "clickCount": 7,
+      "bitrate": 128,
+      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KISSFM_ADP.aac"
+    },
+    {
+      "id": "radio_rep_blica_am_770_ar_1dc7ea00",
+      "title": "Radio República AM 770",
+      "subtitle": "Radio",
+      "location": "Argentina",
+      "genre": "Radio",
+      "countryCode": "AR",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://server.radiostreaming.com.ar:8200/stream"
+    },
+    {
+      "id": "radio_folclorisimo_am_1410_ar_11736bfc",
+      "title": "Radio Folclorisimo AM 1410",
+      "subtitle": "Radio",
+      "location": "Argentina",
+      "genre": "Radio",
+      "countryCode": "AR",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 32,
+      "streamUrl": "https://streamlky.alsolnet.com/radiofolclorisimohd"
+    },
+    {
+      "id": "unas_voz_en_el_aire_ar_5c263c13",
+      "title": "unas voz en el aire",
+      "subtitle": "Radio",
+      "location": "Argentina",
+      "genre": "Radio",
+      "countryCode": "AR",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://stream.zeno.fm/rlddkm6b5lktv"
+    },
+    {
+      "id": "radio_vocall_br_30ebb3d2",
+      "title": "Radio Vocall",
+      "subtitle": "Classical",
+      "location": "Brazil",
+      "genre": "Classical",
+      "countryCode": "BR",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 160,
+      "streamUrl": "https://servidor24-1.brlogic.com:7096/live?source="
+    },
+    {
+      "id": "r_dio_universidade_1_160_khz_pelotas_br_e8227c8f",
+      "title": "Rádio Universidade (1.160 KHz - Pelotas)",
+      "subtitle": "Radio",
+      "location": "Brazil",
+      "genre": "Radio",
+      "countryCode": "BR",
+      "language": "portuguese",
+      "clickCount": 3,
+      "bitrate": 32,
+      "streamUrl": "http://suaradio2.dyndns.ws:8098/stream"
+    },
+    {
+      "id": "gold_web_radio_br_e9ffb428",
+      "title": "GOLD WEB RADIO",
+      "subtitle": "1980'S Hits",
+      "location": "Brazil",
+      "genre": "1980'S Hits",
+      "countryCode": "BR",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 160,
+      "streamUrl": "https://centova2.svdns.com.br:20056/stream"
+    },
+    {
+      "id": "jovem_pan_news_105_1_fm_foz_br_d20113cb",
+      "title": "Jovem Pan News 105.1 FM Foz",
+      "subtitle": "Brasil",
+      "location": "Brazil",
+      "genre": "Brasil",
+      "countryCode": "BR",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://play.wisestream.io/pannewsfoz"
+    },
+    {
+      "id": "r_dio_95_fm_jequi_ba_br_baf8ff7e",
+      "title": "Rádio 95 FM Jequié - BA",
+      "subtitle": "Ecletica",
+      "location": "Brazil",
+      "genre": "Ecletica",
+      "countryCode": "BR",
+      "language": "brazilian portuguese",
+      "clickCount": 3,
+      "bitrate": 64,
+      "streamUrl": "https://stream01.ouveai.com.br:1040/stream?1716398413708="
     }
   ]
 }

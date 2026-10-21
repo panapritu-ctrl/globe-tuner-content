@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-20T03:24:58Z",
+  "updated": "2026-10-21T03:23:11Z",
   "region": "americas",
   "part": 2,
   "of": 5,
@@ -22947,19 +22947,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_la_m3g4_2edfa866",
-      "title": "La M3G4",
-      "subtitle": "Lam3G4 Lamegaecuador",
-      "imageUrl": "",
-      "streamUrl": "http://gradio.net:8000/lam3g4",
-      "location": "Ecuador",
-      "genre": "Lam3G4 Lamegaecuador",
-      "countryCode": "EC",
-      "language": "spanish",
-      "clickCount": 2,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_la_radio_redonda_guayaquil_f800f433",
       "title": "La Radio Redonda Guayaquil",
       "subtitle": "Radio",
@@ -23549,18 +23536,6 @@
       "language": "spanish",
       "clickCount": 1,
       "bitrate": 128
-    },
-    {
-      "id": "radio_rebelde_1180_am_cu_8bbce0d6",
-      "title": "Radio Rebelde 1180 AM",
-      "subtitle": "1180 Am",
-      "location": "Cuba",
-      "genre": "1180 Am",
-      "countryCode": "CU",
-      "language": null,
-      "clickCount": 13,
-      "bitrate": 0,
-      "streamUrl": "https://securestreams7.autopo.st/?uri=https://icecast.teveo.cu/kHKL7tWd"
     },
     {
       "id": "medellin_104_9_olimpica_stereo_co_e9f511c8",
@@ -25927,18 +25902,6 @@
       "streamUrl": "https://streaming.rtvc.gov.co/Radio_Paz_Puerto_Leguizamo/Paz_Puerto_Leguizamo.stream/playlist.m3u8"
     },
     {
-      "id": "boom_tamil_ca_f9d40316",
-      "title": "Boom Tamil",
-      "subtitle": "Cinema",
-      "location": "Canada",
-      "genre": "Cinema",
-      "countryCode": "CA",
-      "language": "tamil",
-      "clickCount": 4,
-      "bitrate": 0,
-      "streamUrl": "https://streaming.boomtamil.com/Toronto"
-    },
-    {
       "id": "radio_nacional_fonseca_92_2_fm_co_fe2a023c",
       "title": "radio nacional fonseca 92.2 fm",
       "subtitle": "Radio",
@@ -27547,18 +27510,6 @@
       "streamUrl": "https://danceradio.ca/danceradio.mp3"
     },
     {
-      "id": "cfmi_101_1_rock_101_new_westminster_bc_ca_08cb9b4d",
-      "title": "CFMI 101.1 \"Rock 101\" New Westminster, BC",
-      "subtitle": "Classic Rock",
-      "location": "Canada",
-      "genre": "Classic Rock",
-      "countryCode": "CA",
-      "language": "english",
-      "clickCount": 3,
-      "bitrate": 128,
-      "streamUrl": "http://live.leanstream.co/CFMIFM-MP3"
-    },
-    {
       "id": "chry_vibe_105_5_york_university_toronto_on_ca_2357b642",
       "title": "CHRY \"Vibe 105.5\" York University Toronto, ON",
       "subtitle": "Alternative",
@@ -27761,18 +27712,6 @@
       "clickCount": 9,
       "bitrate": 57,
       "streamUrl": "http://live.leanstream.co/CFMKFM"
-    },
-    {
-      "id": "punkrockradio_ca_ca_7a5555f2",
-      "title": "PunkRockRadio.ca",
-      "subtitle": "Post-Punk",
-      "location": "Canada",
-      "genre": "Post-Punk",
-      "countryCode": "CA",
-      "language": "french",
-      "clickCount": 6,
-      "bitrate": 192,
-      "streamUrl": "https://stream.radio.co/s904013bb1/listen"
     },
     {
       "id": "cfox_99_3_vancouver_bc_ca_f3a93dd8",
@@ -28349,6 +28288,114 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "https://radio.nimaarki.com/latest/stream?_ic2=1"
+    },
+    {
+      "id": "punkrockradio_ca_ca_7a5555f2",
+      "title": "PunkRockRadio.ca",
+      "subtitle": "Post-Punk",
+      "location": "Canada",
+      "genre": "Post-Punk",
+      "countryCode": "CA",
+      "language": "french",
+      "clickCount": 8,
+      "bitrate": 192,
+      "streamUrl": "https://stream.radio.co/s904013bb1/listen"
+    },
+    {
+      "id": "duna_cl_68648ea7",
+      "title": "Duna",
+      "subtitle": "Business News",
+      "location": "Chile",
+      "genre": "Business News",
+      "countryCode": "CL",
+      "language": "español chile",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://hls-audio-cl-1-isp.dps.live/duna/gotardis/audio/now/livestream1.m3u8"
+    },
+    {
+      "id": "alien_radio_ca_612c8943",
+      "title": "Alien Radio",
+      "subtitle": "Electronic",
+      "location": "Canada",
+      "genre": "Electronic",
+      "countryCode": "CA",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://radio.alienplugins.com/stream"
+    },
+    {
+      "id": "cfmi_101_1_rock_101_new_westminster_bc_ca_08cb9b4d",
+      "title": "CFMI 101.1 \"Rock 101\" New Westminster, BC",
+      "subtitle": "Classic Rock",
+      "location": "Canada",
+      "genre": "Classic Rock",
+      "countryCode": "CA",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://live.leanstream.co/CFMIFM-MP3"
+    },
+    {
+      "id": "alerta_bogot_104_4_fm_co_a26fc397",
+      "title": "Alerta Bogotá 104.4 fm",
+      "subtitle": "Baladas Música Popular Colombiana Nacional Varios",
+      "location": "Colombia",
+      "genre": "Baladas Música Popular Colombiana Nacional Varios",
+      "countryCode": "CO",
+      "language": "español colombia",
+      "clickCount": 4,
+      "bitrate": 133,
+      "streamUrl": "http://179.1.139.84:8000/play/a041/index.m3u8"
+    },
+    {
+      "id": "exaltaci_n_fm_do_8aec905d",
+      "title": "Exaltación FM",
+      "subtitle": "Religioso Católico",
+      "location": "The Dominican Republic",
+      "genre": "Religioso Católico",
+      "countryCode": "DO",
+      "language": "castellano. español",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://exaltacionfm.net:8070/stream"
+    },
+    {
+      "id": "cbc_radio_one_sydney_ns_mp3_stream_ca_9adc2822",
+      "title": "CBC Radio One - Sydney, NS (MP3 stream)",
+      "subtitle": "Features",
+      "location": "Canada",
+      "genre": "Features",
+      "countryCode": "CA",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://26733.live.streamtheworld.com/CBIS_CBC_SC"
+    },
+    {
+      "id": "musicoop_cl_a0d5f516",
+      "title": "Musicoop",
+      "subtitle": "Chile",
+      "location": "Chile",
+      "genre": "Chile",
+      "countryCode": "CL",
+      "language": "spanish",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://sonic.portalfoxmix.club/8486/stream"
+    },
+    {
+      "id": "vida_fm_do_d1fc33cb",
+      "title": "Vida FM",
+      "subtitle": "Radio",
+      "location": "The Dominican Republic",
+      "genre": "Radio",
+      "countryCode": "DO",
+      "language": "español - latinoamerica",
+      "clickCount": 3,
+      "bitrate": 96,
+      "streamUrl": "https://servidor38.brlogic.com:7104/live"
     }
   ]
 }

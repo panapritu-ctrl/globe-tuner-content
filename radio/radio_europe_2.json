@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-20T03:24:58Z",
+  "updated": "2026-10-21T03:23:11Z",
   "region": "europe",
   "part": 2,
   "of": 8,
@@ -7210,19 +7210,6 @@
       "language": "english",
       "clickCount": 1,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_popstop_982d6392",
-      "title": "PopStop",
-      "subtitle": "Radio",
-      "imageUrl": "https://www.popstop.eu/favicon.ico",
-      "streamUrl": "http://84.19.168.244:31883/popstop192",
-      "location": "Germany",
-      "genre": "Radio",
-      "countryCode": "DE",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 192
     },
     {
       "id": "rb2_powerplant_rock_classics_88ae0d25",
@@ -27439,19 +27426,6 @@
       "bitrate": 256
     },
     {
-      "id": "rb2_mixadance_fm_7f4bd275",
-      "title": "Mixadance Fm",
-      "subtitle": "Dj Mix, Indie Dance",
-      "imageUrl": "https://radiosamui.online/album/logo_mxd.png",
-      "streamUrl": "http://stream.mixadance.fm:8000/mixadance",
-      "location": "Ibiza, Spain",
-      "genre": "Dj Mix",
-      "countryCode": "ES",
-      "language": "english",
-      "clickCount": 1,
-      "bitrate": 192
-    },
-    {
       "id": "rb2_montserrat_r_dio_963e543b",
       "title": "Montserrat Ràdio",
       "subtitle": "Christian, Montserrat",
@@ -33109,6 +33083,150 @@
       "clickCount": 3,
       "bitrate": 128,
       "streamUrl": "http://icyrelay.181.fm/181-classical_128k.mp3"
+    },
+    {
+      "id": "club_radio_mix_de_8db91418",
+      "title": "Club Radio Mix",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 7,
+      "bitrate": 128,
+      "streamUrl": "https://cast2.my-control-panel.com/proxy/clubradi/;?type=http&nocache=107036"
+    },
+    {
+      "id": "scorpions_de_6997fcd7",
+      "title": "Scorpions",
+      "subtitle": "Discography",
+      "location": "Germany",
+      "genre": "Discography",
+      "countryCode": "DE",
+      "language": "engilsh",
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "https://stream.pcradio.ru/Scorpions-hi"
+    },
+    {
+      "id": "dr_p4_fyn_aac_dk_50d1da47",
+      "title": "DR P4 Fyn (AAC)",
+      "subtitle": "Regional Radio",
+      "location": "Denmark",
+      "genre": "Regional Radio",
+      "countryCode": "DK",
+      "language": "danish",
+      "clickCount": 5,
+      "bitrate": 324,
+      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4fyn/masterab.m3u8"
+    },
+    {
+      "id": "top100station_de_a4be6adf",
+      "title": "Top100Station",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://streams.rautemusik.fm/top100station/mp3-192/old/"
+    },
+    {
+      "id": "antenne_koblenz_de_47906be4",
+      "title": "Antenne Koblenz",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://radiogroup-stream32.radiohost.de//antenne-koblenz_mp3-192"
+    },
+    {
+      "id": "xxl_radio_de_dc1d1998",
+      "title": "XXL-Radio",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://audio.xxl-radio.de:8000/radio.mp3"
+    },
+    {
+      "id": "abyss_radio_de_fad59864",
+      "title": "Abyss Radio",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 256,
+      "streamUrl": "https://us3.internet-radio.com/proxy/abyssradio/stream"
+    },
+    {
+      "id": "nerds_and_geeks_the_station_96kbps_de_1f65a046",
+      "title": "Nerds and Geeks: THE STATION (96kbps)",
+      "subtitle": "Chiptunes",
+      "location": "Germany",
+      "genre": "Chiptunes",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 3,
+      "bitrate": 96,
+      "streamUrl": "http://nerdsandgeeks.de:2808/stream/1/;"
+    },
+    {
+      "id": "radio_regenbogen_christmas_hits_de_d4c67def",
+      "title": "Radio Regenbogen Christmas Hits",
+      "subtitle": "Christmas",
+      "location": "Germany",
+      "genre": "Christmas",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://stream.regenbogen.de/christmas/mp3-128/radiobrowser"
+    },
+    {
+      "id": "fluxfm_60s_64k_aac_de_e93d1f8a",
+      "title": "FluxFM 60s | 64k AAC",
+      "subtitle": "60S",
+      "location": "Germany",
+      "genre": "60S",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://fluxmusic.api.radiosphere.io/channels/60s/stream.aac?quality=1"
+    },
+    {
+      "id": "fluxfm_radio_alternative_64k_mp3_de_62d938af",
+      "title": "FluxFM Radio Alternative | 64k MP3",
+      "subtitle": "Alternative Rock",
+      "location": "Germany",
+      "genre": "Alternative Rock",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://fluxmusic.api.radiosphere.io/channels/alternative/stream.mp3?quality=1"
+    },
+    {
+      "id": "antenne_unna_dein_lounge_radio_de_f606e23e",
+      "title": "Antenne Unna – Dein Lounge Radio",
+      "subtitle": "Lounge",
+      "location": "Germany",
+      "genre": "Lounge",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 3,
+      "bitrate": 192,
+      "streamUrl": "https://stream.lokalradio.nrw/445dzn7"
     }
   ]
 }
