@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-21T03:23:11Z",
+  "updated": "2026-10-22T03:19:49Z",
   "region": "oceania",
   "stations": [
     {
@@ -14627,19 +14627,6 @@
       "bitrate": 96
     },
     {
-      "id": "rb2_91_2_oamaru_fm_c93a5edc",
-      "title": "91.2 Oamaru FM",
-      "subtitle": "Radio",
-      "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/the-radio-bureau/assets/logos/OamaruFM_2021-03-22-203549.jpg",
-      "streamUrl": "https://usa1-vn.mixstream.net/8096/listen.mp3",
-      "location": "New Zealand",
-      "genre": "Radio",
-      "countryCode": "NZ",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
       "id": "95bfm_256kbps_mp3_nz",
       "title": "95bFM - 256Kbps MP3",
       "subtitle": "University Radio / University Of Auckland",
@@ -17516,6 +17503,78 @@
       "clickCount": 3,
       "bitrate": 0,
       "streamUrl": "http://wz0liw.scahw.com.au/live/easy-office-vibes.stream/playlist.m3u8"
+    },
+    {
+      "id": "coast_2_coast_radio_australia_au_b9eb0839",
+      "title": "Coast 2 Coast Radio Australia",
+      "subtitle": "Dance",
+      "location": "Australia",
+      "genre": "Dance",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://stream.c2cra.online/live"
+    },
+    {
+      "id": "my_dee_jay_radio_nz_ae02261d",
+      "title": "My Dee Jay Radio",
+      "subtitle": "Afrobeats",
+      "location": "New Zealand",
+      "genre": "Afrobeats",
+      "countryCode": "NZ",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://radio.mydeejayradio.com/listen/my_dee_jay_radio/radio.mp3"
+    },
+    {
+      "id": "2cc_canberra_1206_am_aac_au_53453267",
+      "title": "2CC - Canberra - 1206 AM (AAC)",
+      "subtitle": "News",
+      "location": "Australia",
+      "genre": "News",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 64,
+      "streamUrl": "http://playerservices.streamtheworld.com/api/livestream-redirect/2CCAAC.aac"
+    },
+    {
+      "id": "voice_fm_au_fea2f570",
+      "title": "Voice FM",
+      "subtitle": "Radio",
+      "location": "Australia",
+      "genre": "Radio",
+      "countryCode": "AU",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/VOICEFMAAC.aac"
+    },
+    {
+      "id": "australian_digital_radio_network_madonna_mp3_au_77741b20",
+      "title": "Australian Digital Radio Network - Madonna (MP3)",
+      "subtitle": "Madonna",
+      "location": "Australia",
+      "genre": "Madonna",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "http://abm21.com.au:8000/CONTAINER145"
+    },
+    {
+      "id": "australian_digital_radio_network_jazzy_house_mp3_au_16989197",
+      "title": "Australian Digital Radio Network - Jazzy House (MP3)",
+      "subtitle": "Jazzy House",
+      "location": "Australia",
+      "genre": "Jazzy House",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "http://abm22.com.au:8000/CONTAINER61"
     }
   ]
 }

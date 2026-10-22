@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-21T03:23:11Z",
+  "updated": "2026-10-22T03:19:49Z",
   "region": "europe",
   "part": 5,
   "of": 8,
@@ -5957,19 +5957,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_top_93_249baa0e",
-      "title": "Top 93",
-      "subtitle": "Radio",
-      "imageUrl": "http://resources.live24.gr/resources/images/stations/9350d6d8-5cbf-4ce0-80f2-0dc432a80a30.png",
-      "streamUrl": "https://netradio.live24.gr/topfm93patra",
-      "location": "Patra, Greece",
-      "genre": "Radio",
-      "countryCode": "GR",
-      "language": "greek",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_top_96_9_bdbab36e",
       "title": "Top 96.9",
       "subtitle": "Greek Pop, Mainstream",
@@ -7684,19 +7671,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_101_5_3643b529",
-      "title": "Δημοτικό Ραδιόφωνο Ορεστιάδας 101.5",
-      "subtitle": "Municipal",
-      "imageUrl": "https://resources.live24.gr/resources/images/stations/3ff18eaa-807d-4582-b8a5-9cd706d755d1.jpg",
-      "streamUrl": "https://rdst.win:48312/;",
-      "location": "Orestiada, Greece",
-      "genre": "Municipal",
-      "countryCode": "GR",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_station_44b16d35",
       "title": "Δημοτικό Ραδιόφωνο Πρέβεζας",
       "subtitle": "Municipal, News",
@@ -7752,19 +7726,6 @@
       "streamUrl": "https://sc2.streamwithq.com:8124/stream?type=http&nocache=239",
       "location": "Chania, Greece",
       "genre": "Greek Music",
-      "countryCode": "GR",
-      "language": "greek",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_92_8_fc8d5ae4",
-      "title": "Δυτικά 92.8",
-      "subtitle": "Greek Folk, News",
-      "imageUrl": "https://resources.live24.gr/resources/images/stations/85d6c6eb-a442-4516-b264-a5a1ab48d724.png",
-      "streamUrl": "https://cast5.asurahosting.com/proxy/sinidisi/stream",
-      "location": "Agrinio, Greece",
-      "genre": "Greek Folk",
       "countryCode": "GR",
       "language": "greek",
       "clickCount": 0,
@@ -21020,19 +20981,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_number_one_54100b56",
-      "title": "Number One",
-      "subtitle": "Music",
-      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241203_060656640.jpg?alt=media&token=f574b1e6-c724-4dc7-8225-7a3890a1e6a0",
-      "streamUrl": "https://ice18.fluidstream.net/area05.mp3",
-      "location": "Italy",
-      "genre": "Music",
-      "countryCode": "IT",
-      "language": "italian",
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_nuova_rete_9628b624",
       "title": "Nuova Rete",
       "subtitle": "Music, News",
@@ -27763,6 +27711,78 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "http://stream.indivia.net:8000/radioeustachio.ogg"
+    },
+    {
+      "id": "rtl_102_5_best_mobile_48kbps_it_41a71eab",
+      "title": "RTL 102.5 Best [Mobile 48kbps]",
+      "subtitle": "All-Time Hits",
+      "location": "Italy",
+      "genre": "All-Time Hits",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 8,
+      "bitrate": 96,
+      "streamUrl": "https://streamingv2.shoutcast.com/rtl-1025-best_48.aac"
+    },
+    {
+      "id": "rtl_102_5_disco_mobile_48kbps_it_babdbdd6",
+      "title": "RTL 102.5 Disco [Mobile 48kbps]",
+      "subtitle": "Dance",
+      "location": "Italy",
+      "genre": "Dance",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 6,
+      "bitrate": 96,
+      "streamUrl": "https://streamingv2.shoutcast.com/rtl-1025-doc_48.aac"
+    },
+    {
+      "id": "radio_centrale_montorio_al_vomano_it_01d1adc6",
+      "title": "Radio Centrale - Montorio al Vomano",
+      "subtitle": "Classic Italian Pop",
+      "location": "Italy",
+      "genre": "Classic Italian Pop",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://s1.forstream.it:8070/radiocentrale.mp3"
+    },
+    {
+      "id": "radiocafe_98_zene_hu_a21d6668",
+      "title": "Radiocafe 98 zene",
+      "subtitle": "Alternative / Indie",
+      "location": "Hungary",
+      "genre": "Alternative / Indie",
+      "countryCode": "HU",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://music.radiocafe98.hu/music_radiocafe98_192k.mp3"
+    },
+    {
+      "id": "radio_inside_hu_adb4ef2c",
+      "title": "RADIO INSIDE",
+      "subtitle": "Club",
+      "location": "Hungary",
+      "genre": "Club",
+      "countryCode": "HU",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://radioinside.eu/live.mp3"
+    },
+    {
+      "id": "radio_gamma_magic_it_8bf95d64",
+      "title": "Radio Gamma Magic",
+      "subtitle": "80S",
+      "location": "Italy",
+      "genre": "80S",
+      "countryCode": "IT",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://95.110.186.253:8020/magic.mp3"
     }
   ]
 }

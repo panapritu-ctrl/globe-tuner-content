@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-21T03:23:11Z",
+  "updated": "2026-10-22T03:19:49Z",
   "region": "asia",
   "part": 3,
   "of": 3,
@@ -3509,19 +3509,6 @@
       "countryCode": "PH"
     },
     {
-      "id": "rb2_win_radio_davao_d3d4cb0a",
-      "title": "Win Radio Davao",
-      "subtitle": "Contemporary Hits",
-      "imageUrl": "https://winradioph.net/favicon.ico",
-      "streamUrl": "https://stream-42.zeno.fm/1noxhem5qpkuv",
-      "location": "The Philippines",
-      "genre": "Contemporary Hits",
-      "countryCode": "PH",
-      "language": "cebuano",
-      "clickCount": 2,
-      "bitrate": 128
-    },
-    {
       "id": "win_radio_manila_ph_91d4bd",
       "title": "Win Radio Manila",
       "subtitle": "Radio",
@@ -6988,19 +6975,6 @@
       "language": null,
       "clickCount": 1,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_full_fm_90e5e9cb",
-      "title": "FULL FM",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://listen.powerapp.com.tr/powerdance/abr/playlist.m3u8",
-      "location": "Türkiye",
-      "genre": "Radio",
-      "countryCode": "TR",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 276
     },
     {
       "id": "rb2_fakir_fm_8808a63f",
@@ -13369,18 +13343,6 @@
       "streamUrl": "https://radyo.yayindakiler.com:3192/stream"
     },
     {
-      "id": "powert_rk_akustik_tr_3eb6f181",
-      "title": "PowerTürk Akustik",
-      "subtitle": "Radio",
-      "location": "Türkiye",
-      "genre": "Radio",
-      "countryCode": "TR",
-      "language": null,
-      "clickCount": 8,
-      "bitrate": 277,
-      "streamUrl": "https://listen.powerapp.com.tr/powerturkakustik/abr/playlist.m3u8"
-    },
-    {
       "id": "fm_92_pk_f2740371",
       "title": "fm.92",
       "subtitle": "Classical",
@@ -17135,6 +17097,78 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "http://asima.out.airtime.pro:8000/asima_a"
+    },
+    {
+      "id": "star_fm_manila_ph_da91f6b4",
+      "title": "Star FM Manila",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 39,
+      "bitrate": 96,
+      "streamUrl": "https://stream-13.zeno.fm/g1pmt17nz9duv"
+    },
+    {
+      "id": "powert_rk_akustik_tr_3eb6f181",
+      "title": "PowerTürk Akustik",
+      "subtitle": "Radio",
+      "location": "Türkiye",
+      "genre": "Radio",
+      "countryCode": "TR",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 277,
+      "streamUrl": "https://listen.powerapp.com.tr/powerturkakustik/abr/playlist.m3u8"
+    },
+    {
+      "id": "station_tw_debd508b",
+      "title": "新竹勞工之聲",
+      "subtitle": "Music",
+      "location": "Taiwan, Republic Of China",
+      "genre": "Music",
+      "countryCode": "TW",
+      "language": "chinese",
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "http://202.39.43.67:1935/live/RA000101/chunklist.m3u8"
+    },
+    {
+      "id": "star_fm_manila_ph_121e9140",
+      "title": "Star FM Manila",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 96,
+      "streamUrl": "https://stream.zeno.fm/g1pmt17nz9duv"
+    },
+    {
+      "id": "mbc_loud_sa_4f9140cc",
+      "title": "MBC Loud",
+      "subtitle": "Radio",
+      "location": "Saudi Arabia",
+      "genre": "Radio",
+      "countryCode": "SA",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 70,
+      "streamUrl": "https://radio-loud-fm.mbc.net/radio-loud-fm.m3u8"
+    },
+    {
+      "id": "mcot_100_5_th_2bf73158",
+      "title": "MCOT 100.5",
+      "subtitle": "Radio",
+      "location": "Thailand",
+      "genre": "Radio",
+      "countryCode": "TH",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 2000,
+      "streamUrl": "https://lcdn.mcot.net/RadioLive/smil:fm1005_live.smil/playlist.m3u8"
     }
   ]
 }

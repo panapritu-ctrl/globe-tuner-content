@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-21T03:23:11Z",
+  "updated": "2026-10-22T03:19:49Z",
   "region": "europe",
   "part": 7,
   "of": 8,
@@ -3585,19 +3585,6 @@
       "bitrate": 256
     },
     {
-      "id": "rb2_xvibe_3b62d93e",
-      "title": "Xvibe",
-      "subtitle": "Polish, Pop",
-      "imageUrl": "https://xvibe.pl/wp-content/uploads/2024/01/logo-kwadrat-biale-czarne-tlo-scaled.webp",
-      "streamUrl": "https://xvibe.pl/stream.php",
-      "location": "Poland",
-      "genre": "Polish",
-      "countryCode": "PL",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_zet_dance_c99f1070",
       "title": "ZET DANCE",
       "subtitle": "Dance",
@@ -4073,19 +4060,6 @@
       "bitrate": 200
     },
     {
-      "id": "rb2_antena_1_a_ores_portugal_326c6f7c",
-      "title": "Antena 1 Açores (Portugal)",
-      "subtitle": "Acores, Antena 1",
-      "imageUrl": "https://www.celsoazevedo.com/files/2022/11/antena-1-acores.png",
-      "streamUrl": "https://streaming-live.rtp.pt/liveradio/antena1acores80a/playlist.m3u8",
-      "location": "Azores, Portugal",
-      "genre": "Acores",
-      "countryCode": "PT",
-      "language": "portuguese",
-      "clickCount": 5,
-      "bitrate": 165
-    },
-    {
       "id": "antena_1_fado_pt_bf4e9e",
       "title": "Antena 1 Fado",
       "subtitle": "Fado",
@@ -4132,19 +4106,6 @@
       "language": "portuguese",
       "clickCount": 0,
       "bitrate": 262
-    },
-    {
-      "id": "rb2_antena_2_main_033bc3a2",
-      "title": "Antena 2 - Main",
-      "subtitle": "Radio",
-      "imageUrl": "https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/3-363718101410.png?q=10&v=3&w=275",
-      "streamUrl": "https://radiocast.rtp.pt/antena280a.mp3",
-      "location": "Portugal",
-      "genre": "Radio",
-      "countryCode": "PT",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 128
     },
     {
       "id": "rb2_antena_2_jazzin_portugal_0b5ba280",
@@ -24758,18 +24719,6 @@
       "streamUrl": "https://s3.slotex.pl/shoutcast/7016/stream"
     },
     {
-      "id": "naxi_radio_rock_rs_6bec2a16",
-      "title": "naxi radio - rock",
-      "subtitle": "Alternative Rock",
-      "location": "Serbia",
-      "genre": "Alternative Rock",
-      "countryCode": "RS",
-      "language": null,
-      "clickCount": 5,
-      "bitrate": 128,
-      "streamUrl": "http://naxidigital-rock128.streaming.rs:8180/;stream.nsv"
-    },
-    {
       "id": "aripi_spre_cer_instrumental_ro_3abcd63a",
       "title": "Aripi Spre Cer Instrumental",
       "subtitle": "Instrumental",
@@ -25274,18 +25223,6 @@
       "streamUrl": "https://stream03.pcradio.app/krematoriy-hi"
     },
     {
-      "id": "super_fm_ro_7c0ecbca",
-      "title": "Super FM",
-      "subtitle": "Radio",
-      "location": "Romania",
-      "genre": "Radio",
-      "countryCode": "RO",
-      "language": "romanian",
-      "clickCount": 5,
-      "bitrate": 192,
-      "streamUrl": "https://live.superfm.ro/stream.mp3"
-    },
-    {
       "id": "futrzak_fm_320kbps_pl_e5734206",
       "title": "FUTRZAK.FM - 320kbps",
       "subtitle": "Edm",
@@ -25584,6 +25521,102 @@
       "clickCount": 4,
       "bitrate": 320,
       "streamUrl": "https://radio.lecymbal.ro/listen/apremer/apremer.mp3"
+    },
+    {
+      "id": "95_6_fm_ru_8b03f365",
+      "title": "Звезда 95.6 FM",
+      "subtitle": "32 Kbps",
+      "location": "The Russian Federation",
+      "genre": "32 Kbps",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 7,
+      "bitrate": 32,
+      "streamUrl": "https://radio.mediacdn.ru/radio/zvezda/zvezda_96"
+    },
+    {
+      "id": "r_dio_onda_azul_pt_70f211f6",
+      "title": "Rádio Onda Azul",
+      "subtitle": "Local",
+      "location": "Portugal",
+      "genre": "Local",
+      "countryCode": "PT",
+      "language": "portuguese",
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "https://ecmanager4.pro-fhi.net:1540/stream"
+    },
+    {
+      "id": "sempre_noar_pt_0f3e658a",
+      "title": "Sempre NOAR",
+      "subtitle": "Local",
+      "location": "Portugal",
+      "genre": "Local",
+      "countryCode": "PT",
+      "language": "portuguese",
+      "clickCount": 5,
+      "bitrate": 96,
+      "streamUrl": "https://stream.zeno.fm/x6s194sq4ehvv"
+    },
+    {
+      "id": "su_data_radio_rs_52e0f170",
+      "title": "Su-Data Radio",
+      "subtitle": "Radio",
+      "location": "Serbia",
+      "genre": "Radio",
+      "countryCode": "RS",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "https://radio.su-data.com/listen/su-data/radio.mp3"
+    },
+    {
+      "id": "station_ru_868d886b",
+      "title": "Радио дикая мята",
+      "subtitle": "Radio",
+      "location": "The Russian Federation",
+      "genre": "Radio",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 256,
+      "streamUrl": "https://dikayamyata.hostingradio.ru/dikayamyata128.mp3"
+    },
+    {
+      "id": "cidade_hiphop_pt_90bcd693",
+      "title": "cidade hiphop",
+      "subtitle": "Hip Hop",
+      "location": "Portugal",
+      "genre": "Hip Hop",
+      "countryCode": "PT",
+      "language": "portuguese",
+      "clickCount": 4,
+      "bitrate": 127,
+      "streamUrl": "https://stream-hls.bauermedia.pt/cidhiphop.aac/playlist.m3u8"
+    },
+    {
+      "id": "radio_flac_ra_rusaliilor_ro_7f741f6c",
+      "title": "Radio Flacăra Rusaliilor",
+      "subtitle": "Evangelical",
+      "location": "Romania",
+      "genre": "Evangelical",
+      "countryCode": "RO",
+      "language": "românä",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream.radio-flacararusaliilor.ro/stream"
+    },
+    {
+      "id": "station_ru_76a1081f",
+      "title": "Радио Орфей - Классика крупных форм",
+      "subtitle": "Classical",
+      "location": "The Russian Federation",
+      "genre": "Classical",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://channels.fonotron.ru:8000/Chan_8_192.mp3"
     }
   ]
 }

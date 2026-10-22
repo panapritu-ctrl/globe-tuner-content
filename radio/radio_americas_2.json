@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-21T03:23:11Z",
+  "updated": "2026-10-22T03:19:49Z",
   "region": "americas",
   "part": 2,
   "of": 5,
@@ -17691,19 +17691,6 @@
       "bitrate": 96
     },
     {
-      "id": "rb2_energ_a_102_5_fm_eaaa2597",
-      "title": "Energía 102.5 FM",
-      "subtitle": "Crossover, Latino",
-      "imageUrl": "https://energia1025.com/wp-content/uploads/2019/11/cropped-logoe2.png",
-      "streamUrl": "http://audio1.energia1025.com:8000/;",
-      "location": "Colombia",
-      "genre": "Crossover",
-      "countryCode": "CO",
-      "language": "spanish",
-      "clickCount": 1,
-      "bitrate": 96
-    },
-    {
       "id": "rb2_espiritu_rock_d9c4d0d1",
       "title": "Espiritu Rock",
       "subtitle": "Classic Rock, Hard Rock",
@@ -22301,19 +22288,6 @@
       "countryCode": "DO",
       "language": "spanish",
       "clickCount": 1,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_cimarrona_962f1cda",
-      "title": "Radio Cimarrona",
-      "subtitle": "Community Radio, Local Music",
-      "imageUrl": "",
-      "streamUrl": "http://radiocimarrona.out.airtime.pro:8000/radiocimarrona_a",
-      "location": "Santo Domingo, The Dominican Republic",
-      "genre": "Community Radio",
-      "countryCode": "DO",
-      "language": "spanish",
-      "clickCount": 0,
       "bitrate": 128
     },
     {
@@ -27042,18 +27016,6 @@
       "streamUrl": "https://london-dedicated.myautodj.com:3199/proxy/freestyle/stream"
     },
     {
-      "id": "ol_mpica_st_reo_92_1_barranquilla_co_3d26953a",
-      "title": "Olímpica Stéreo 92.1 Barranquilla",
-      "subtitle": "Champeta",
-      "location": "Colombia",
-      "genre": "Champeta",
-      "countryCode": "CO",
-      "language": "spanish",
-      "clickCount": 3,
-      "bitrate": 146,
-      "streamUrl": "https://master.letio.com/io/?gs=9102&type=live.mp3"
-    },
-    {
       "id": "bravisima_fm_do_29608ff1",
       "title": "Bravisima fm",
       "subtitle": "Radio",
@@ -28396,6 +28358,30 @@
       "clickCount": 3,
       "bitrate": 96,
       "streamUrl": "https://servidor38.brlogic.com:7104/live"
+    },
+    {
+      "id": "radio_rebelde_1180_am_cu_8bbce0d6",
+      "title": "Radio Rebelde 1180 AM",
+      "subtitle": "1180 Am",
+      "location": "Cuba",
+      "genre": "1180 Am",
+      "countryCode": "CU",
+      "language": null,
+      "clickCount": 7,
+      "bitrate": 0,
+      "streamUrl": "https://securestreams7.autopo.st/?uri=https://icecast.teveo.cu/kHKL7tWd"
+    },
+    {
+      "id": "cobrox_radio_fm_cl_870859e7",
+      "title": "| COBrOx.RADiO.fm |",
+      "subtitle": "Radio",
+      "location": "Chile",
+      "genre": "Radio",
+      "countryCode": "CL",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "http://65.108.105.26:8672/cobroxradio"
     }
   ]
 }

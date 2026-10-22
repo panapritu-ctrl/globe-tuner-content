@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-21T03:23:11Z",
+  "updated": "2026-10-22T03:19:49Z",
   "region": "europe",
   "part": 8,
   "of": 8,
@@ -11635,19 +11635,6 @@
       "bitrate": 96
     },
     {
-      "id": "rb2_meditation_43e64ad6",
-      "title": "Радио Монте Карло - Meditation",
-      "subtitle": "Meditation",
-      "imageUrl": "",
-      "streamUrl": "https://mc-meditation.hostingradio.ru/meditation96.aacp",
-      "location": "The Russian Federation",
-      "genre": "Meditation",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 2,
-      "bitrate": 96
-    },
-    {
       "id": "rb2_monte_italiano_8c875cad",
       "title": "Радио Монте Карло - Monte Italiano",
       "subtitle": "Italian",
@@ -16843,19 +16830,6 @@
       "language": "english",
       "clickCount": 4,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_retreat_radio_ac5cf76c",
-      "title": "Retreat Radio",
-      "subtitle": "Electronic",
-      "imageUrl": "https://static.wixstatic.com/media/26a367_00d41c5bf97948a1b1d6cf122ffcc7eb%7emv2.png/v1/fill/w_180%2ch_180%2clg_1%2cusm_0.66_1.00_0.01/26a367_00d41c5bf97948a1b1d6cf122ffcc7eb%7emv2.png",
-      "streamUrl": "http://retreatradio.out.airtime.pro:8000/retreatradio_b",
-      "location": "Malmoe, Sweden",
-      "genre": "Electronic",
-      "countryCode": "SE",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 192
     },
     {
       "id": "rb2_rock_202d6d31",
@@ -25713,6 +25687,66 @@
       "clickCount": 4,
       "bitrate": 192,
       "streamUrl": "https://radio.ukr.radio/ur5-mp3"
+    },
+    {
+      "id": "meditation_ru_42c7f533",
+      "title": "Радио Монте Карло - Meditation",
+      "subtitle": "Meditation",
+      "location": "The Russian Federation",
+      "genre": "Meditation",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 5,
+      "bitrate": 96,
+      "streamUrl": "https://mc-meditation.hostingradio.ru/meditation96.aacp"
+    },
+    {
+      "id": "b_p_ru_208670df",
+      "title": "B гостях у Бpюнеточки",
+      "subtitle": "Radio",
+      "location": "The Russian Federation",
+      "genre": "Radio",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://s05.volnorez.com/live-app/902458"
+    },
+    {
+      "id": "fm_ru_79fcf1c9",
+      "title": "Спутник FM (Уфа)",
+      "subtitle": "Radio",
+      "location": "The Russian Federation",
+      "genre": "Radio",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://radio.mediacdn.ru/sputnik_fm.mp3?aa21"
+    },
+    {
+      "id": "station_ru_101985eb",
+      "title": "СОК",
+      "subtitle": "Поп-Музыка",
+      "location": "The Russian Federation",
+      "genre": "Поп-Музыка",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://82.146.46.30:8000/radiosok-msk"
+    },
+    {
+      "id": "station_ru_b6078b23",
+      "title": "Радио Орфей - Классика музыкального кроссовера",
+      "subtitle": "Classical",
+      "location": "The Russian Federation",
+      "genre": "Classical",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 4,
+      "bitrate": 256,
+      "streamUrl": "https://channels.fonotron.ru:8000/Chan_6_192.mp3"
     }
   ]
 }
