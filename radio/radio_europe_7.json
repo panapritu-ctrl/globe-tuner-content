@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-22T03:19:49Z",
+  "updated": "2026-10-23T03:25:33Z",
   "region": "europe",
   "part": 7,
   "of": 8,
@@ -8757,19 +8757,6 @@
       "language": "romanian",
       "clickCount": 0,
       "bitrate": 64
-    },
-    {
-      "id": "rb2_nova_22_9ae63316",
-      "title": "Nova 22",
-      "subtitle": "Pop",
-      "imageUrl": "",
-      "streamUrl": "https://s2.myradiostream.com/4520/listen.mp3",
-      "location": "Romania",
-      "genre": "Pop",
-      "countryCode": "RO",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 224
     },
     {
       "id": "rb2_ok_music_radio_boto_ani_2d1c0692",
@@ -24623,18 +24610,6 @@
       "streamUrl": "https://smartmedia.stmxp.net:8068/stream"
     },
     {
-      "id": "r_dio_dom_bosco_fm_pt_6d3e87bf",
-      "title": "Rádio Dom Bosco FM",
-      "subtitle": "Lamego",
-      "location": "Portugal",
-      "genre": "Lamego",
-      "countryCode": "PT",
-      "language": "portuguese",
-      "clickCount": 3,
-      "bitrate": 64,
-      "streamUrl": "https://stream.streamaudio.de:8000/radio-dom-bosco-fm"
-    },
-    {
       "id": "vox_fm_r_di_ro_77ed5592",
       "title": "Vox FM Rádió",
       "subtitle": "Etnic",
@@ -24767,18 +24742,6 @@
       "streamUrl": "https://an.cdn.eurozet.pl/ant-web.mp3?t=1703697029993"
     },
     {
-      "id": "kragujevac_plaza_radio_rs_34480a14",
-      "title": "Kragujevac Plaza Radio",
-      "subtitle": "Radio",
-      "location": "Serbia",
-      "genre": "Radio",
-      "countryCode": "RS",
-      "language": "serbian",
-      "clickCount": 3,
-      "bitrate": 128,
-      "streamUrl": "http://109.206.96.18:8020/;stream.nsv"
-    },
-    {
       "id": "radio_manele_petrecere_ro_654ca63d",
       "title": "RADIO MANELE PETRECERE",
       "subtitle": "Manele",
@@ -24885,18 +24848,6 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://naxidigital-gold128ssl.streaming.rs:8062/;stream.nsv"
-    },
-    {
-      "id": "naxi_mix_radio_rs_81201507",
-      "title": "Naxi Mix Radio",
-      "subtitle": "Radio",
-      "location": "Serbia",
-      "genre": "Radio",
-      "countryCode": "RS",
-      "language": "serbian",
-      "clickCount": 4,
-      "bitrate": 128,
-      "streamUrl": "https://naxidigital-mix128ssl.streaming.rs:8222/;stream.nsv"
     },
     {
       "id": "naxi_exyu_radio_rs_cd758bf6",
@@ -25175,18 +25126,6 @@
       "streamUrl": "https://dance.radiotequila.ro/7000/stream"
     },
     {
-      "id": "naxi_fresh_radio_rs_5d51b6ba",
-      "title": "Naxi Fresh Radio",
-      "subtitle": "Radio",
-      "location": "Serbia",
-      "genre": "Radio",
-      "countryCode": "RS",
-      "language": "serbian",
-      "clickCount": 4,
-      "bitrate": 128,
-      "streamUrl": "https://naxidigital-fresh128ssl.streaming.rs:8212/;stream.nsv"
-    },
-    {
       "id": "radio_petrec_retzu_ro_7009cace",
       "title": "Radio Petrecăretzu",
       "subtitle": "Etno",
@@ -25221,18 +25160,6 @@
       "clickCount": 6,
       "bitrate": 0,
       "streamUrl": "https://stream03.pcradio.app/krematoriy-hi"
-    },
-    {
-      "id": "futrzak_fm_320kbps_pl_e5734206",
-      "title": "FUTRZAK.FM - 320kbps",
-      "subtitle": "Edm",
-      "location": "Poland",
-      "genre": "Edm",
-      "countryCode": "PL",
-      "language": "english",
-      "clickCount": 4,
-      "bitrate": 320,
-      "streamUrl": "https://audio.futrzak.fm/futrzakfm-320"
     },
     {
       "id": "naxi_fitness_rs_f2e3a070",
@@ -25617,6 +25544,78 @@
       "clickCount": 4,
       "bitrate": 192,
       "streamUrl": "https://channels.fonotron.ru:8000/Chan_8_192.mp3"
+    },
+    {
+      "id": "antena_1_a_ores_portugal_pt_5f8f5ea5",
+      "title": "Antena 1 Açores (Portugal)",
+      "subtitle": "Acores",
+      "location": "Portugal",
+      "genre": "Acores",
+      "countryCode": "PT",
+      "language": "portuguese",
+      "clickCount": 6,
+      "bitrate": 165,
+      "streamUrl": "https://streaming-live.rtp.pt/liveradio/antena1acores80a/playlist.m3u8"
+    },
+    {
+      "id": "asmr_ru_1e70539c",
+      "title": "ASMR",
+      "subtitle": "Лëгкая Музыка",
+      "location": "The Russian Federation",
+      "genre": "Лëгкая Музыка",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 320,
+      "streamUrl": "https://live.lofiradio.ru/asmr_mp3_320"
+    },
+    {
+      "id": "rua_fm_pt_f7043f7a",
+      "title": "RUA FM",
+      "subtitle": "Electric",
+      "location": "Portugal",
+      "genre": "Electric",
+      "countryCode": "PT",
+      "language": "portuguese",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://centova.radio.com.pt/proxy/037?mp=/stream"
+    },
+    {
+      "id": "r_dio_elvas_pt_082889b3",
+      "title": "Rádio Elvas",
+      "subtitle": "Radio",
+      "location": "Portugal",
+      "genre": "Radio",
+      "countryCode": "PT",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://radios2.justweb.pt:8066/stream?type=http&nocache=297"
+    },
+    {
+      "id": "station_ru_df0a0e3e",
+      "title": "КиноРитмы",
+      "subtitle": "Radio",
+      "location": "The Russian Federation",
+      "genre": "Radio",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://listen7.myradio24.com/15254"
+    },
+    {
+      "id": "station_ru_6c8b8d5a",
+      "title": "Северная Пальмира",
+      "subtitle": "Radio",
+      "location": "The Russian Federation",
+      "genre": "Radio",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://listen7.myradio24.com/92126"
     }
   ]
 }

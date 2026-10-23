@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-22T03:19:49Z",
+  "updated": "2026-10-23T03:25:33Z",
   "region": "asia",
   "part": 3,
   "of": 3,
@@ -5399,15 +5399,6 @@
       "language": "arabic",
       "clickCount": 4,
       "bitrate": 194
-    },
-    {
-      "id": "syria_tv_sy_03d0db",
-      "title": "Syria TV - راديو تلفزيون سوريا",
-      "subtitle": "Radio",
-      "location": "Syrian Arab Republic",
-      "genre": "Radio",
-      "countryCode": "SY",
-      "streamUrl": "https://stream2.syria.fm/syriatv1live/syriatv_audio/icecast.audio"
     },
     {
       "id": "tayf_fm_sy_cfc590",
@@ -14003,18 +13994,6 @@
       "streamUrl": "https://www.exotica.radio/stream/radio-browser"
     },
     {
-      "id": "fm_88_radio_thailand_english_language_service_th_3d053c5e",
-      "title": "FM 88 radio Thailand: English language service",
-      "subtitle": "Radio",
-      "location": "Thailand",
-      "genre": "Radio",
-      "countryCode": "TH",
-      "language": "english",
-      "clickCount": 3,
-      "bitrate": 128,
-      "streamUrl": "https://cdn-th2.login.in.th/shoutcast/8420"
-    },
-    {
       "id": "one31_digital_tv_channel_31_th_48475e28",
       "title": "One31: digital TV channel 31",
       "subtitle": "Radio",
@@ -16487,18 +16466,6 @@
       "streamUrl": "https://caz.radioca.st/stream"
     },
     {
-      "id": "sawt_al_farah_sy_12bb811f",
-      "title": "Sawt Al Farah",
-      "subtitle": "Radio",
-      "location": "Syrian Arab Republic",
-      "genre": "Radio",
-      "countryCode": "SY",
-      "language": "arabic",
-      "clickCount": 14,
-      "bitrate": 128,
-      "streamUrl": "https://radio.garden/api/ara/content/listen/TBbZ87vu/channel.mp3"
-    },
-    {
       "id": "fm_101_larkana_pk_b56b06b3",
       "title": "FM 101 Larkana",
       "subtitle": "Radio",
@@ -16521,18 +16488,6 @@
       "clickCount": 4,
       "bitrate": 96,
       "streamUrl": "https://whmsonic.radio.gov.pk:8066/relay"
-    },
-    {
-      "id": "klick_fm_106_3_bacolod_ph_c15ab096",
-      "title": "Klick FM 106.3 Bacolod",
-      "subtitle": "Radio",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "language": null,
-      "clickCount": 3,
-      "bitrate": 48,
-      "streamUrl": "http://209.126.124.126:8721/stream"
     },
     {
       "id": "abuzer_fm_tr_82b2cf03",
@@ -17169,6 +17124,54 @@
       "clickCount": 4,
       "bitrate": 2000,
       "streamUrl": "https://lcdn.mcot.net/RadioLive/smil:fm1005_live.smil/playlist.m3u8"
+    },
+    {
+      "id": "sawt_al_farah_sy_12bb811f",
+      "title": "Sawt Al Farah",
+      "subtitle": "Radio",
+      "location": "Syrian Arab Republic",
+      "genre": "Radio",
+      "countryCode": "SY",
+      "language": "arabic",
+      "clickCount": 19,
+      "bitrate": 128,
+      "streamUrl": "https://radio.garden/api/ara/content/listen/TBbZ87vu/channel.mp3"
+    },
+    {
+      "id": "90_7_radyo_oragon_legazpi_ph_2a97f626",
+      "title": "90.7 Radyo Oragon Legazpi",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "http://streamnavs.net:8181/live"
+    },
+    {
+      "id": "xfm_96_7_bacolod_ph_7af86518",
+      "title": "XFM 96.7 BACOLOD",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 64,
+      "streamUrl": "https://us1.amfmph.com/ssl/xfmbacolod?mp=/live"
+    },
+    {
+      "id": "win_radio_davao_ph_86cfeeb9",
+      "title": "Win Radio Davao",
+      "subtitle": "Contemporary Hits",
+      "location": "The Philippines",
+      "genre": "Contemporary Hits",
+      "countryCode": "PH",
+      "language": "cebuano",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream-42.zeno.fm/1noxhem5qpkuv"
     }
   ]
 }

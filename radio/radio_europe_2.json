@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-22T03:19:49Z",
+  "updated": "2026-10-23T03:25:33Z",
   "region": "europe",
   "part": 2,
   "of": 8,
@@ -21062,15 +21062,6 @@
       "bitrate": 256
     },
     {
-      "id": "radio_soft_dk_963cba",
-      "title": "Radio Soft",
-      "subtitle": "Soft Pop",
-      "location": "Denmark",
-      "genre": "Soft Pop",
-      "countryCode": "DK",
-      "streamUrl": "http://tx-bauerdk.sharp-stream.com/http_live.php?i=radiosoft_dk_mp3"
-    },
-    {
       "id": "rb2_radio_soft_k_benhavns_nr_bispebjerg_lr_b_cbf46457",
       "title": "Radio Soft - Københavns NR - Bispebjerg LR - Bella Chr",
       "subtitle": "Radio",
@@ -31620,30 +31611,6 @@
       "streamUrl": "https://hirschmilch.de:7501/techno.mp3"
     },
     {
-      "id": "dr_p1_aac_dk_5bbf616a",
-      "title": "DR P1 (AAC)",
-      "subtitle": "Radio",
-      "location": "Denmark",
-      "genre": "Radio",
-      "countryCode": "DK",
-      "language": "danish",
-      "clickCount": 3,
-      "bitrate": 324,
-      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p1/masterab.m3u8"
-    },
-    {
-      "id": "dr_p4_k_benhavn_aac_dk_b9ea5518",
-      "title": "DR P4 København (AAC)",
-      "subtitle": "Regional Radio",
-      "location": "Denmark",
-      "genre": "Regional Radio",
-      "countryCode": "DK",
-      "language": "danish",
-      "clickCount": 3,
-      "bitrate": 324,
-      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4kobenhavn/masterab.m3u8"
-    },
-    {
       "id": "deluxe_music_de_091ec2ac",
       "title": "DELUXE MUSIC",
       "subtitle": "Music",
@@ -31690,18 +31657,6 @@
       "clickCount": 4,
       "bitrate": 102,
       "streamUrl": "https://wdr-radio.ard-mcdn.de/wdr/radio/wdr2ac/hls/master.m3u8"
-    },
-    {
-      "id": "bayern_klassik_256_de_3f33a9ba",
-      "title": "Bayern Klassik 256",
-      "subtitle": "Classical",
-      "location": "Germany",
-      "genre": "Classical",
-      "countryCode": "DE",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 0,
-      "streamUrl": "https://streams.br.de/br-klassik_3.m3u"
     },
     {
       "id": "wdr4_ruhrgebiet_de_39ba89c4",
@@ -31870,18 +31825,6 @@
       "clickCount": 3,
       "bitrate": 128,
       "streamUrl": "https://stream.lokalradio.nrw/444zbzk"
-    },
-    {
-      "id": "dr_p4_nordjylland_aac_dk_412ae0ef",
-      "title": "DR P4 Nordjylland (AAC)",
-      "subtitle": "Regional Radio",
-      "location": "Denmark",
-      "genre": "Regional Radio",
-      "countryCode": "DK",
-      "language": "danish",
-      "clickCount": 3,
-      "bitrate": 324,
-      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4nordjylland/masterab.m3u8"
     },
     {
       "id": "mdr_th_ringen_mitte_west_de_1b3cb8fb",
@@ -33346,6 +33289,54 @@
       "clickCount": 3,
       "bitrate": 320,
       "streamUrl": "https://stream.skymedia.ee/live/RETRO"
+    },
+    {
+      "id": "dr_p4_k_benhavn_aac_dk_b9ea5518",
+      "title": "DR P4 København (AAC)",
+      "subtitle": "Regional Radio",
+      "location": "Denmark",
+      "genre": "Regional Radio",
+      "countryCode": "DK",
+      "language": "danish",
+      "clickCount": 7,
+      "bitrate": 324,
+      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4kobenhavn/masterab.m3u8"
+    },
+    {
+      "id": "absolut_radio_ai_de_2af3ccca",
+      "title": "Absolut Radio AI",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://absolut-ai.live-sm.absolutradio.de/absolut-ai/stream/mp3"
+    },
+    {
+      "id": "antenne_unna_dein_new_country_radio_de_4fbd3bf8",
+      "title": "Antenne Unna – Dein New Country Radio",
+      "subtitle": "New Country",
+      "location": "Germany",
+      "genre": "New Country",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://stream.lokalradio.nrw/445829b"
+    },
+    {
+      "id": "98_6_charivari_discomania_de_30a8d9f0",
+      "title": "98.6 charivari Discomania",
+      "subtitle": "Disco",
+      "location": "Germany",
+      "genre": "Disco",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://frontend.streamonkey.net/fhn-986charivaridiscomania/stream/mp3"
     }
   ]
 }

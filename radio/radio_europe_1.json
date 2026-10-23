@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-22T03:19:49Z",
+  "updated": "2026-10-23T03:25:33Z",
   "region": "europe",
   "part": 1,
   "of": 8,
@@ -1341,19 +1341,6 @@
       "language": "german",
       "clickCount": 3,
       "bitrate": 192
-    },
-    {
-      "id": "rb2_freies_radio_sterreich_9605fc47",
-      "title": "Freies Radio Österreich",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://www.fro.at:8008/fro64.mp3",
-      "location": "Austria",
-      "genre": "Radio",
-      "countryCode": "AT",
-      "language": "german",
-      "clickCount": 0,
-      "bitrate": 131
     },
     {
       "id": "gamesboro_radio_video_game_music_24_7_at_32f624",
@@ -10384,19 +10371,6 @@
       "countryCode": "BY",
       "language": "belarusian",
       "clickCount": 6,
-      "bitrate": 160
-    },
-    {
-      "id": "rb_fm_8ee49294",
-      "title": "Компас FM",
-      "subtitle": "Music",
-      "imageUrl": "https://vayar.mil.by/favicon.ico",
-      "streamUrl": "https://radio.mil.by/live",
-      "location": "Minsk, Belarus",
-      "genre": "Music",
-      "countryCode": "BY",
-      "language": "russian",
-      "clickCount": 1,
       "bitrate": 160
     },
     {
@@ -33033,6 +33007,66 @@
       "clickCount": 3,
       "bitrate": 0,
       "streamUrl": "https://streams.radiobob.de/stonerrock/aac-64/streams.radiobob.de/"
+    },
+    {
+      "id": "trigger_fm_soufisticated_ken_fm_hd_stream_de_acf25f24",
+      "title": "Trigger.FM SOUFISTICATED (Ken.FM) (HD Stream)",
+      "subtitle": "Chill & Vibes",
+      "location": "Germany",
+      "genre": "Chill & Vibes",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 256,
+      "streamUrl": "https://soufisticated-kenfm-hd-radio.triggerfm.de/"
+    },
+    {
+      "id": "abstrait_de_9978c89b",
+      "title": "Abstrait",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://stream.laut.fm/abstrait"
+    },
+    {
+      "id": "antenne_sylt_de_96529399",
+      "title": "Antenne Sylt",
+      "subtitle": "Rock",
+      "location": "Germany",
+      "genre": "Rock",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://radio21.streamabc.net/radio21-rrneuwied-mp3-128-4931968"
+    },
+    {
+      "id": "radio_koha_al_4686b9d6",
+      "title": "Radio Koha",
+      "subtitle": "Alternative",
+      "location": "Albania",
+      "genre": "Alternative",
+      "countryCode": "AL",
+      "language": "albanian",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://radiokoha.radioca.st/stream"
+    },
+    {
+      "id": "mixx_bg_78e5d456",
+      "title": "MIXX",
+      "subtitle": "Radio",
+      "location": "Bulgaria",
+      "genre": "Radio",
+      "countryCode": "BG",
+      "language": "bulgarian",
+      "clickCount": 3,
+      "bitrate": 320,
+      "streamUrl": "https://radio.comnet.bg:12301/radio-mixx.mp3"
     }
   ]
 }

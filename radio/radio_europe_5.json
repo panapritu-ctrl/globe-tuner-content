@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-22T03:19:49Z",
+  "updated": "2026-10-23T03:25:33Z",
   "region": "europe",
   "part": 5,
   "of": 8,
@@ -8842,15 +8842,6 @@
       "bitrate": 128
     },
     {
-      "id": "98_gr_408fe1",
-      "title": "Μελωδία Θεσσαλονίκης 98",
-      "subtitle": "Greek Music",
-      "location": "Thessaloniki, Greece",
-      "genre": "Greek Music",
-      "streamUrl": "https://netradio.live24.gr/north98thess",
-      "countryCode": "GR"
-    },
-    {
       "id": "rb2_station_b5d641af",
       "title": "Μελωδία Κασέτες",
       "subtitle": "Radio",
@@ -11161,19 +11152,6 @@
       "language": "croatian",
       "clickCount": 6,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_galacticfm_progressive_house_trance_f654975c",
-      "title": "GalacticFM - Progressive House & Trance",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://a1.asurahosting.com/listen/galacticfm_-_progressive_house__trance/radio.mp3",
-      "location": "Croatia",
-      "genre": "Radio",
-      "countryCode": "HR",
-      "language": null,
-      "clickCount": 3,
-      "bitrate": 192
     },
     {
       "id": "rb2_gold_velika_gorica_81ea8974",
@@ -27783,6 +27761,42 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "http://95.110.186.253:8020/magic.mp3"
+    },
+    {
+      "id": "rai_news_24_it_8831f2b9",
+      "title": "Rai News 24",
+      "subtitle": "News",
+      "location": "Italy",
+      "genre": "News",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 11,
+      "bitrate": 0,
+      "streamUrl": "https://streamcdnb3-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_2400/chunklist.m3u8"
+    },
+    {
+      "id": "fm_classic_it_21c492c9",
+      "title": "FM Classic",
+      "subtitle": "70S",
+      "location": "Italy",
+      "genre": "70S",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "http://onair7.xdevel.com:8724/;stream.nsv"
+    },
+    {
+      "id": "indaco_it_37c0666e",
+      "title": "Indaco",
+      "subtitle": "Blues",
+      "location": "Italy",
+      "genre": "Blues",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://radio.celodex.com/stream/indaco.mp3"
     }
   ]
 }
