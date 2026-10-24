@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-23T03:25:33Z",
+  "updated": "2026-10-24T03:18:58Z",
   "region": "europe",
   "part": 2,
   "of": 8,
@@ -22092,19 +22092,6 @@
       "bitrate": 320
     },
     {
-      "id": "rb2_raadio_kidzone_99dba6ec",
-      "title": "Raadio Kidzone",
-      "subtitle": "Radio",
-      "imageUrl": "https://f302.pmo.ee/XCwVL9vwguHbm8jFYYsRXolq8Xg=/460x460/smart/filters:quality(90)/https://f303.pmo.ee/media/2023/12/raadio-kidzone-logo.png",
-      "streamUrl": "https://le01.euddn.net/d3234a63af1bebda7d8bf0638f93824f6667da6c452d3a510c06997367525934f604f84c3e966dfa65e330d3b40a4bb1a0ee63ae0f23e6a0203776e0a42bb03365cf559300967b9a4c739e5e9ab4f3f9fb8b5755ab42aaad4507cf3e35c5f5a23cd197d1b435a8c66c22298f65e41ec8a0e8818d86273bd1713706c829829d0e80a749ca4f59004ff5d62b3573eccf55420c548828e0157c66d487a91ab0c488e680b84ac7ae25af76ef1494f6032a9c/kidzone.aac",
-      "location": "Estonia",
-      "genre": "Radio",
-      "countryCode": "EE",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 160
-    },
-    {
       "id": "rb_raadio_relax_fm_c66ba12b",
       "title": "Raadio Relax FM",
       "subtitle": "Radio",
@@ -27404,19 +27391,6 @@
       "bitrate": 256
     },
     {
-      "id": "rb2_montserrat_r_dio_963e543b",
-      "title": "Montserrat Ràdio",
-      "subtitle": "Christian, Montserrat",
-      "imageUrl": "",
-      "streamUrl": "https://enacast.com/radioabadiademontserrat/streams/HD",
-      "location": "Barcelona, Spain",
-      "genre": "Christian",
-      "countryCode": "ES",
-      "language": "catalan",
-      "clickCount": 3,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_mortal_fm_303dd91a",
       "title": "Mortal FM",
       "subtitle": "Radio",
@@ -32031,18 +32005,6 @@
       "streamUrl": "https://stream.ella-radio.de/ella-vibraphone-jazz/mp3-192/?ref=radio-browser"
     },
     {
-      "id": "dr_p5_k_benhavn_aac_dk_590a0c64",
-      "title": "DR P5 København (AAC)",
-      "subtitle": "Regional Radio",
-      "location": "Denmark",
-      "genre": "Regional Radio",
-      "countryCode": "DK",
-      "language": "danish",
-      "clickCount": 3,
-      "bitrate": 324,
-      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p5kobenhavn/masterab.m3u8"
-    },
-    {
       "id": "dr_p3_aac_dk_c42bfd7b",
       "title": "DR P3 (AAC)",
       "subtitle": "Pop",
@@ -32197,18 +32159,6 @@
       "clickCount": 3,
       "bitrate": 192,
       "streamUrl": "http://45.13.239.248/listen/dnb/radio.mp3"
-    },
-    {
-      "id": "dr_p4_trekanten_aac_dk_a030938a",
-      "title": "DR P4 Trekanten (AAC)",
-      "subtitle": "Regional Radio",
-      "location": "Denmark",
-      "genre": "Regional Radio",
-      "countryCode": "DK",
-      "language": "danish",
-      "clickCount": 3,
-      "bitrate": 324,
-      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4trekanten/masterab.m3u8"
     },
     {
       "id": "rpr1_flashback_de_d9affa82",
@@ -33337,6 +33287,114 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://frontend.streamonkey.net/fhn-986charivaridiscomania/stream/mp3"
+    },
+    {
+      "id": "coloradio_de_f3550f32",
+      "title": "coloRadio",
+      "subtitle": "Community Radio",
+      "location": "Germany",
+      "genre": "Community Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "http://streaming.fueralle.org:8000/coloradio_160.mp3"
+    },
+    {
+      "id": "rave_radio_100_pure_techno_hypertechno_hard_house_de_61ccbac8",
+      "title": "#RAVE RADIO - 100% PURE TECHNO, HYPERTECHNO & HARD HOUSE",
+      "subtitle": "Dark Techno",
+      "location": "Germany",
+      "genre": "Dark Techno",
+      "countryCode": "DE",
+      "language": "english",
+      "clickCount": 6,
+      "bitrate": 192,
+      "streamUrl": "https://stream.technolovers.fm/technolovers-rave/mp3-192?ref=rave-radio-radiobrowser"
+    },
+    {
+      "id": "70s_hits_de_f43a101a",
+      "title": "70S-HITS",
+      "subtitle": "70'S",
+      "location": "Germany",
+      "genre": "70'S",
+      "countryCode": "DE",
+      "language": "deutch",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://stream.laut.fm/70s-hits"
+    },
+    {
+      "id": "ai_slop_radio_de_d5ae1773",
+      "title": "AI Slop Radio",
+      "subtitle": "Ai",
+      "location": "Germany",
+      "genre": "Ai",
+      "countryCode": "DE",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 320,
+      "streamUrl": "https://radio.node-io.dev/live.mp3"
+    },
+    {
+      "id": "antenne_niedersachsen_sch_tzenfest_hits_de_2da4ba2e",
+      "title": "Antenne Niedersachsen - Schützenfest Hits",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://stream.antenne.com/schuetzenfest/mp3-192/stream.antenne.com"
+    },
+    {
+      "id": "bayern_1_oberbayern_hls_192_de_657e887c",
+      "title": "Bayern 1 Oberbayern (HLS 192)",
+      "subtitle": "Oldies",
+      "location": "Germany",
+      "genre": "Oldies",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://br-radio.ard-mcdn.de/br/radio/b1obb/hls/192/seglist.m3u8"
+    },
+    {
+      "id": "freies_senderkombinat_hamburg_de_4a733104",
+      "title": "Freies Senderkombinat Hamburg",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": "deutch",
+      "clickCount": 4,
+      "bitrate": 320,
+      "streamUrl": "http://stream.fsk-hh.org:8000/fsk.mp3"
+    },
+    {
+      "id": "radio_psr_relax_de_6f5391f1",
+      "title": "RADIO PSR Relax",
+      "subtitle": "Afterwork",
+      "location": "Germany",
+      "genre": "Afterwork",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://regiocast.streamabc.net/regc-psrrelax9917959-mp3-192-7369155?sABC=6nqn72p0%230%23nq59s62359o2nr38nsp8150610pq18p9%23fgernzf.enqvbcfe.qr&aw_0_1st.playerid=streams.radiopsr.de&amsparams=playerid:streams.radiopsr.de;skey:1792701120"
+    },
+    {
+      "id": "nrj_dnb_ee_fa81b0e6",
+      "title": "NRJ DnB",
+      "subtitle": "Dance",
+      "location": "Estonia",
+      "genre": "Dance",
+      "countryCode": "EE",
+      "language": "estonian",
+      "clickCount": 4,
+      "bitrate": 256,
+      "streamUrl": "https://stream.skymedia.ee/live/NRJdnb"
     }
   ]
 }

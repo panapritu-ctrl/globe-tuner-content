@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-23T03:25:33Z",
+  "updated": "2026-10-24T03:18:58Z",
   "region": "other",
   "stations": [
     {
@@ -4684,18 +4684,6 @@
       "clickCount": 6,
       "bitrate": 128,
       "streamUrl": "https://allzicradiochopin.ice.infomaniak.ch/allzicradiochopin-128.mp3"
-    },
-    {
-      "id": "free_techno_es_a3bb666b",
-      "title": "Free Techno",
-      "subtitle": "Creative Commons",
-      "location": "Spain",
-      "genre": "Creative Commons",
-      "countryCode": "ES",
-      "language": null,
-      "clickCount": 5,
-      "bitrate": 0,
-      "streamUrl": "https://icecast.apps.dj/freetechno"
     },
     {
       "id": "sound_of_hope_australia_cantonese_au_298992ab",
@@ -19122,18 +19110,6 @@
       "streamUrl": "https://ktcustream.tcu.edu/"
     },
     {
-      "id": "foxnews_us_98bcfc16",
-      "title": "foxnews",
-      "subtitle": "Radio",
-      "location": "The United States Of America",
-      "genre": "Radio",
-      "countryCode": "US",
-      "language": "english",
-      "clickCount": 3,
-      "bitrate": 985,
-      "streamUrl": "https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8"
-    },
-    {
       "id": "kovo_am_960_and_fm_103_9_and_98_3_espn_the_fan_provo_utah_us_6ff30a60",
       "title": "KOVO AM 960 and FM 103.9 and 98.3 ESPN the Fan Provo, Utah",
       "subtitle": "Radio",
@@ -19264,18 +19240,6 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "https://stream.radiojar.com/2fhqye2ez2hvv"
-    },
-    {
-      "id": "cope_zaragoza_es_fe5912c2",
-      "title": "Cope Zaragoza",
-      "subtitle": "Radio",
-      "location": "Spain",
-      "genre": "Radio",
-      "countryCode": "ES",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 56,
-      "streamUrl": "https://zaragoza-copesedes-rrcast.flumotion.com/copesedes/zaragoza-low.mp3"
     },
     {
       "id": "animeradio_gal_es_c9c6ea7c",
@@ -24484,6 +24448,306 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "http://stream1.nexusradio.fm/nexusdance.mp3"
+    },
+    {
+      "id": "britcom_2_british_comedy_radio_pumpkin_fm_otrn_gb_a17cdbe1",
+      "title": "BritCom 2 - British Comedy Radio (Pumpkin FM OTRN)",
+      "subtitle": "Radio",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Radio",
+      "countryCode": "GB",
+      "language": null,
+      "clickCount": 15,
+      "bitrate": 128,
+      "streamUrl": "https://cast2.asurahosting.com/proxy/britcom2/stream"
+    },
+    {
+      "id": "drum_bass_on_party_vibe_radio_gb_3040a787",
+      "title": "Drum & Bass on Party Vibe Radio",
+      "subtitle": "Drum & Bass",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Drum & Bass",
+      "countryCode": "GB",
+      "language": "english",
+      "clickCount": 10,
+      "bitrate": 320,
+      "streamUrl": "http://www.partyviberadio.com:8004/stream/1/"
+    },
+    {
+      "id": "corsica_radio_fr_f6670c08",
+      "title": "Corsica Radio",
+      "subtitle": "Radio",
+      "location": "France",
+      "genre": "Radio",
+      "countryCode": "FR",
+      "language": "francaise",
+      "clickCount": 7,
+      "bitrate": 128,
+      "streamUrl": "http://manager2.conceptradio.fr:1295/stream"
+    },
+    {
+      "id": "dubstep_on_party_vibe_radio_gb_5883f280",
+      "title": "Dubstep on Party Vibe Radio",
+      "subtitle": "Dubstep",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Dubstep",
+      "countryCode": "GB",
+      "language": "english",
+      "clickCount": 7,
+      "bitrate": 320,
+      "streamUrl": "http://www.partyviberadio.com:8040/stream/1/"
+    },
+    {
+      "id": "frontera_radio_es_a3209e4a",
+      "title": "FRONTERA RADIO",
+      "subtitle": "Flamenco",
+      "location": "Spain",
+      "genre": "Flamenco",
+      "countryCode": "ES",
+      "language": "spanish",
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://relay.stream.enacast-cloud.com:30284/fronteraradioHD.mp3"
+    },
+    {
+      "id": "totalmusic_2000s_gb_843b5f1a",
+      "title": "Totalmusic 2000s",
+      "subtitle": "Music",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Music",
+      "countryCode": "GB",
+      "language": "spanish",
+      "clickCount": 6,
+      "bitrate": 6210,
+      "streamUrl": "https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8"
+    },
+    {
+      "id": "cpr_fm_dab_gb_8199dffe",
+      "title": "CPR FM (DAB)",
+      "subtitle": "70S",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "70S",
+      "countryCode": "GB",
+      "language": "english",
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "http://streams.anytek.co.uk:8345/live"
+    },
+    {
+      "id": "alex_wolf_radio_es_2c4d10d2",
+      "title": "ALEX WOLF RADIO",
+      "subtitle": "Alex Wolf",
+      "location": "Spain",
+      "genre": "Alex Wolf",
+      "countryCode": "ES",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://alexwolfradio.com:1040/stream"
+    },
+    {
+      "id": "ewtn_great_britain_ireland_gb_21198fae",
+      "title": "EWTN Great Britain & Ireland",
+      "subtitle": "Catholic",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Catholic",
+      "countryCode": "GB",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://ewtn-ice.streamguys1.com/sky-aac"
+    },
+    {
+      "id": "ambient_on_party_vibe_radio_gb_79243387",
+      "title": "Ambient on Party Vibe Radio",
+      "subtitle": "Ambient Electronic",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Ambient Electronic",
+      "countryCode": "GB",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 320,
+      "streamUrl": "http://www.partyviberadio.com:8056/stream/1/"
+    },
+    {
+      "id": "la_bomba_radio_asturias_es_e6ebae70",
+      "title": "La Bomba Radio Asturias",
+      "subtitle": "Bachata",
+      "location": "Spain",
+      "genre": "Bachata",
+      "countryCode": "ES",
+      "language": "spanish",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stm2.emiteonline.com:9014/labomba"
+    },
+    {
+      "id": "onda_cero_sagunto_es_48834489",
+      "title": "Onda Cero Sagunto",
+      "subtitle": "Noticias",
+      "location": "Spain",
+      "genre": "Noticias",
+      "countryCode": "ES",
+      "language": "spanish",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://radio-atres-live.ondacero.es/api/livestream-redirect/OC_SAGUNTOAAC.m3u8"
+    },
+    {
+      "id": "nrj_shakira_fr_5f1361a7",
+      "title": "NRJ Shakira",
+      "subtitle": "Nrj",
+      "location": "France",
+      "genre": "Nrj",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://streaming.nrjaudio.fm/ou8754gk7oiu"
+    },
+    {
+      "id": "ici_breizh_izel_fr_b99aa0f7",
+      "title": "ICI Breizh Izel",
+      "subtitle": "Radio",
+      "location": "France",
+      "genre": "Radio",
+      "countryCode": "FR",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 107,
+      "streamUrl": "https://stream.radiofrance.fr/fbbreizizel/fbbreizizel.m3u8"
+    },
+    {
+      "id": "1hits_fr_e8e688fa",
+      "title": "1HITS",
+      "subtitle": "Radio",
+      "location": "France",
+      "genre": "Radio",
+      "countryCode": "FR",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 320,
+      "streamUrl": "https://live.1hits.fr/live-hd"
+    },
+    {
+      "id": "reggae_on_party_vibe_radio_gb_f15d0a8f",
+      "title": "Reggae on Party Vibe Radio",
+      "subtitle": "Reggae",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Reggae",
+      "countryCode": "GB",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 320,
+      "streamUrl": "http://www.partyviberadio.com:8000/stream/1/"
+    },
+    {
+      "id": "techno_on_party_vibe_radio_gb_2385fb0a",
+      "title": "Techno on Party Vibe Radio",
+      "subtitle": "Techno",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Techno",
+      "countryCode": "GB",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 320,
+      "streamUrl": "http://www.partyviberadio.com:8046/stream/1/"
+    },
+    {
+      "id": "kauh_104_7_ka_u_radio_ocean_view_hawaii_us_30d1e335",
+      "title": "KAUH 104.7 \"Ka'u Radio\" Ocean View, Hawaii",
+      "subtitle": "Classic Hits",
+      "location": "The United States Of America",
+      "genre": "Classic Hits",
+      "countryCode": "US",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://fire.doscast.com:8204/stream"
+    },
+    {
+      "id": "wopw_93_5_mount_vernon_kentucky_us_53e38ed7",
+      "title": "WOPW 93.5 Mount Vernon, Kentucky",
+      "subtitle": "Christian Preaching",
+      "location": "The United States Of America",
+      "genre": "Christian Preaching",
+      "countryCode": "US",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://shout2.brnstream.com/proxy/wopw2?mp=/stream"
+    },
+    {
+      "id": "ewtn_classics_us_f3fec724",
+      "title": "EWTN Classics",
+      "subtitle": "Catholic",
+      "location": "The United States Of America",
+      "genre": "Catholic",
+      "countryCode": "US",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://ewtn-ice.streamguys1.com/classics-aac"
+    },
+    {
+      "id": "vogue_radio_us_c6389b2b",
+      "title": "VOGUE RADIO",
+      "subtitle": "Radio",
+      "location": "The United States Of America",
+      "genre": "Radio",
+      "countryCode": "US",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://stream.zeno.fm/kd5n3r6xmg8uv"
+    },
+    {
+      "id": "ipartyradio_us_75386120",
+      "title": "iPartyRadio",
+      "subtitle": "2000S",
+      "location": "The United States Of America",
+      "genre": "2000S",
+      "countryCode": "US",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://streaming.live365.com/a90324"
+    },
+    {
+      "id": "bhindthescen_radio_us_a7653b2a",
+      "title": "Bhindthescen Radio",
+      "subtitle": "Indie",
+      "location": "The United States Of America",
+      "genre": "Indie",
+      "countryCode": "US",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://listen.nobexradio.com/station_bhindthescenradio?ref=radiobrowser"
+    },
+    {
+      "id": "wxou_oakland_university_us_de4eb196",
+      "title": "WXOU - Oakland University",
+      "subtitle": "College",
+      "location": "The United States Of America",
+      "genre": "College",
+      "countryCode": "US",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://a8.asurahosting.com:7810/radio.mp3"
+    },
+    {
+      "id": "kojh_fm_kansas_city_missouri_us_c865a6db",
+      "title": "KOJH FM (Kansas City, Missouri)",
+      "subtitle": "Jazz",
+      "location": "The United States Of America",
+      "genre": "Jazz",
+      "countryCode": "US",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://streams.radio.co/scce2ddfe5/listen"
     }
   ]
 }

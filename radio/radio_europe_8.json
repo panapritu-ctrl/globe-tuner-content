@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-23T03:25:33Z",
+  "updated": "2026-10-24T03:18:58Z",
   "region": "europe",
   "part": 8,
   "of": 8,
@@ -4325,19 +4325,6 @@
       "language": "russian",
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_minor_a2c41783",
-      "title": "Radio Minor",
-      "subtitle": "Classic Jazz, Jazz",
-      "imageUrl": "https://radiominor.ru/favicon.ico",
-      "streamUrl": "http://radiominor.ru:8000/radiominor_ru_jazz.mp3",
-      "location": "The Russian Federation",
-      "genre": "Classic Jazz",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 0,
-      "bitrate": 160
     },
     {
       "id": "rb2_radio_monte_carlo_bossa_nova_03636116",
@@ -11921,19 +11908,6 @@
       "bitrate": 64
     },
     {
-      "id": "rb2_102_0_fm_aff53dae",
-      "title": "Радио Открытие Мценск 102.0 FM",
-      "subtitle": "Classic Hits, Hits",
-      "imageUrl": "http://discoveryfm.ru/favicon.ico",
-      "streamUrl": "https://stream.discoveryfm.ru/discovery256.mp3",
-      "location": "The Russian Federation",
-      "genre": "Classic Hits",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 0,
-      "bitrate": 256
-    },
-    {
       "id": "rb2_station_f8942df3",
       "title": "Радио Панельных Домов",
       "subtitle": "Электронная Музыка",
@@ -15812,15 +15786,6 @@
       "streamUrl": "https://stream.dbmedia.se/dbkMP3"
     },
     {
-      "id": "decades_se",
-      "title": "Decades",
-      "subtitle": "60S / 70S",
-      "location": "Sweden",
-      "genre": "Oldies",
-      "countryCode": "SE",
-      "streamUrl": "https://mml1.prostream.se/listen/decades/radio.mp3"
-    },
-    {
       "id": "rb2_dunken_fm_7ca8f95e",
       "title": "Dunken FM",
       "subtitle": "Radio",
@@ -19562,19 +19527,6 @@
       "countryCode": "SK",
       "language": "slovak",
       "clickCount": 4,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_top_r_dio_6ae3a862",
-      "title": "Top Rádio",
-      "subtitle": "Rock",
-      "imageUrl": "",
-      "streamUrl": "https://solid1.streamupsolutions.com/proxy/vhhggmih/stream",
-      "location": "Slovakia",
-      "genre": "Rock",
-      "countryCode": "SK",
-      "language": "slovak",
-      "clickCount": 0,
       "bitrate": 128
     },
     {
@@ -25781,6 +25733,54 @@
       "clickCount": 4,
       "bitrate": 52,
       "streamUrl": "http://radio.ukr.radio:8000/urkazka-aacplus"
+    },
+    {
+      "id": "r_dio_beta_esk_a_slovensk_hity_sk_4ff06d2e",
+      "title": "RÁDIO BETA - České a Slovenské hity",
+      "subtitle": "Cz-Sk",
+      "location": "Slovakia",
+      "genre": "Cz-Sk",
+      "countryCode": "SK",
+      "language": "slovak",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "http://109.71.67.102:8000/beta_cspop.mp3"
+    },
+    {
+      "id": "bad_boys_blue_ru_5da8f63e",
+      "title": "Bad Boys Blue",
+      "subtitle": "Discography",
+      "location": "The Russian Federation",
+      "genre": "Discography",
+      "countryCode": "RU",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://stream.pcradio.ru/Bad_Boys_Blue-hi"
+    },
+    {
+      "id": "ambiland_spatial_si_9e7829cf",
+      "title": "Ambiland Spatial",
+      "subtitle": "Ambient",
+      "location": "Slovenia",
+      "genre": "Ambient",
+      "countryCode": "SI",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://radio.ambiland.space/spatial.mp3?src=radio-browser"
+    },
+    {
+      "id": "radio_mariia_ua_cfea3542",
+      "title": "Radio Mariia",
+      "subtitle": "Word Of God",
+      "location": "Ukraine",
+      "genre": "Word Of God",
+      "countryCode": "UA",
+      "language": "ukrainian",
+      "clickCount": 4,
+      "bitrate": 160,
+      "streamUrl": "http://91.203.4.121:8000/stream160"
     }
   ]
 }

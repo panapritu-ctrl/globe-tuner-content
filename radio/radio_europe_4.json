@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-23T03:25:33Z",
+  "updated": "2026-10-24T03:18:58Z",
   "region": "europe",
   "part": 4,
   "of": 8,
@@ -1224,19 +1224,6 @@
       "genre": "Radio",
       "countryCode": "GB",
       "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_amber_radio_norwich_128k_aac_ef3cc295",
-      "title": "Amber Radio (Norwich)128k AAC",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://stream3.themediasite.co.uk:8240/vhq",
-      "location": "The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "Radio",
-      "countryCode": "GB",
-      "language": "english",
       "clickCount": 0,
       "bitrate": 128
     },
@@ -7320,19 +7307,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_hearme_1990s_pop_music_72acc195",
-      "title": "HearMe - 1990s pop music",
-      "subtitle": "1990S, Pop",
-      "imageUrl": "",
-      "streamUrl": "https://radio.hearme.fm:8050/stream",
-      "location": "The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "1990S",
-      "countryCode": "GB",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_hearme_2020s_pop_music_ba9841e1",
       "title": "HearMe - 2020s Pop Music",
       "subtitle": "2020S Pop Music",
@@ -9663,19 +9637,6 @@
       "streamUrl": "http://likeradiostream.com/dancelandanthems",
       "location": "England, The United Kingdom Of Great Britain And Northern Ireland",
       "genre": "Dance Anthems",
-      "countryCode": "GB",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_like_radio_holiday_mp3_afc380ed",
-      "title": "Like Radio - HOLIDAY (MP3)",
-      "subtitle": "Holiday, Pop",
-      "imageUrl": "https://i.ibb.co/CPr0Mcx/App-Icon-Android-Like-Holiday-512-x-512.jpg",
-      "streamUrl": "http://likeradiostream.com/likeholnew",
-      "location": "England, The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "Holiday",
       "countryCode": "GB",
       "language": "english",
       "clickCount": 0,
@@ -27439,6 +27400,90 @@
       "clickCount": 4,
       "bitrate": 48,
       "streamUrl": "http://gurbani.out.airtime.pro:8000/gurbani_b?_ga=2.77423505.548091236.1582029%20213-1175002648.1580299245"
+    },
+    {
+      "id": "air_fm_gold_delhi_in_5ee4f37d",
+      "title": "AIR Fm Gold Delhi",
+      "subtitle": "Radio",
+      "location": "India",
+      "genre": "Radio",
+      "countryCode": "IN",
+      "language": null,
+      "clickCount": 40,
+      "bitrate": 0,
+      "streamUrl": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio005/hlspbaudio00564kbps.m3u8"
+    },
+    {
+      "id": "fm_rainbow_delhi_in_f9c39239",
+      "title": "Fm Rainbow Delhi",
+      "subtitle": "Local Talk",
+      "location": "India",
+      "genre": "Local Talk",
+      "countryCode": "IN",
+      "language": null,
+      "clickCount": 12,
+      "bitrate": 0,
+      "streamUrl": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio004/hlspbaudio00464kbps.m3u8"
+    },
+    {
+      "id": "air_fm_rainbow_delhi_in_21fd7e4e",
+      "title": "Air FM Rainbow Delhi",
+      "subtitle": "Radio",
+      "location": "India",
+      "genre": "Radio",
+      "countryCode": "IN",
+      "language": "hindi",
+      "clickCount": 11,
+      "bitrate": 32,
+      "streamUrl": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio004/hlspbaudio004_Auto.m3u8"
+    },
+    {
+      "id": "redflow_in_f933fb9a",
+      "title": "RedFlow",
+      "subtitle": "Jazz",
+      "location": "India",
+      "genre": "Jazz",
+      "countryCode": "IN",
+      "language": "hindi",
+      "clickCount": 7,
+      "bitrate": 0,
+      "streamUrl": "https://stream.fixupcare.com/live.mp3"
+    },
+    {
+      "id": "radio_shyamlatal_in_178ddd42",
+      "title": "Radio Shyamlatal",
+      "subtitle": "Hindi Bollywood",
+      "location": "India",
+      "genre": "Hindi Bollywood",
+      "countryCode": "IN",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream.hamropatro.com/8389"
+    },
+    {
+      "id": "clubmirchi_in_59132432",
+      "title": "clubmirchi",
+      "subtitle": "Radio",
+      "location": "India",
+      "genre": "Radio",
+      "countryCode": "IN",
+      "language": "hindi",
+      "clickCount": 4,
+      "bitrate": 64,
+      "streamUrl": "https://mirchiplaylive.akamaized.net/hls/live/2036929-b/MUM/CLUBMI_Auto.m3u8"
+    },
+    {
+      "id": "yaazhisai_fm_in_79fe255c",
+      "title": "yaazhisai-fm",
+      "subtitle": "Radio",
+      "location": "India",
+      "genre": "Radio",
+      "countryCode": "IN",
+      "language": "tamil",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream.zeno.fm/nxb2dpmmhm8uv"
     }
   ]
 }

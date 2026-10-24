@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-23T03:25:33Z",
+  "updated": "2026-10-24T03:18:58Z",
   "region": "americas",
   "part": 3,
   "of": 5,
@@ -26180,18 +26180,6 @@
       "streamUrl": "https://stream.eleden.com/waba.aac/waba.aac.stream/playlist.m3u8"
     },
     {
-      "id": "emisoras_paraguay_106_1_fm_py_6c809248",
-      "title": "Emisoras Paraguay 106.1 FM",
-      "subtitle": "Cumbia",
-      "location": "Paraguay",
-      "genre": "Cumbia",
-      "countryCode": "PY",
-      "language": "spanish",
-      "clickCount": 3,
-      "bitrate": 0,
-      "streamUrl": "https://rds3.desdeparaguay.net/movemisoras/movemisoras.stream/playlist.m3u8"
-    },
-    {
       "id": "caraibes_fm_ht_650b1609",
       "title": "Caraibes FM",
       "subtitle": "Radio",
@@ -26550,6 +26538,42 @@
       "clickCount": 5,
       "bitrate": 64,
       "streamUrl": "https://ice42.securenetsystems.net/VOXFM"
+    },
+    {
+      "id": "el_fon_grafo_m_sica_las_24_horas_mx_17bb682a",
+      "title": "EL FONÓGRAFO: Música las 24 Horas",
+      "subtitle": "América",
+      "location": "Mexico",
+      "genre": "América",
+      "countryCode": "MX",
+      "language": "spanish",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://17793.live.streamtheworld.com:443/XEJP_AMAAC.aac"
+    },
+    {
+      "id": "la_pop_98_9_sv_a8579945",
+      "title": "La Pop 98.9",
+      "subtitle": "Radio",
+      "location": "El Salvador",
+      "genre": "Radio",
+      "countryCode": "SV",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 56,
+      "streamUrl": "https://mejor.watahosting.com/radio/8024/radio.mp3"
+    },
+    {
+      "id": "radio_nacional_del_per_pe_a2c69931",
+      "title": "Radio Nacional del Perú",
+      "subtitle": "News",
+      "location": "Peru",
+      "genre": "News",
+      "countryCode": "PE",
+      "language": "spanish",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "http://cdnhd.iblups.com/hls/0773874174fd4eba8bb9eff741d190dc.m3u8"
     }
   ]
 }

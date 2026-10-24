@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-23T03:25:33Z",
+  "updated": "2026-10-24T03:18:58Z",
   "region": "europe",
   "part": 7,
   "of": 8,
@@ -9866,19 +9866,6 @@
       "bitrate": 256
     },
     {
-      "id": "rb2_radio_domeldo_movie_cluj_napoca_e28d5ffc",
-      "title": "Radio Domeldo Movie -Cluj Napoca",
-      "subtitle": "Classical, Soundtracks",
-      "imageUrl": "https://radiodomeldo.ro/wp-content/uploads/2017/03/radiodomeldo_textinner_nourl_forheader.jpg",
-      "streamUrl": "https://www.radiodomeldo.ro/movie",
-      "location": "Romania",
-      "genre": "Classical",
-      "countryCode": "RO",
-      "language": "română",
-      "clickCount": 0,
-      "bitrate": 256
-    },
-    {
       "id": "rb2_radio_doxologia_e1327ba8",
       "title": "Radio Doxologia",
       "subtitle": "Radio",
@@ -10484,19 +10471,6 @@
       "countryCode": "RO",
       "language": "romanian",
       "clickCount": 2,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_noise_99d3bb67",
-      "title": "Radio Noise",
-      "subtitle": "Dance, Dj",
-      "imageUrl": "https://www.radionoise.ro/wp-content/uploads/2022/07/faviconnew.png",
-      "streamUrl": "http://live.radionoise.ro:9100/;",
-      "location": "Romania",
-      "genre": "Dance",
-      "countryCode": "RO",
-      "language": "romanian",
-      "clickCount": 0,
       "bitrate": 128
     },
     {
@@ -24238,18 +24212,6 @@
       "streamUrl": "http://46.214.17.202:8000/radioac3"
     },
     {
-      "id": "radio_pejpal_pl_cf4b11cc",
-      "title": "Radio pejpal",
-      "subtitle": "Chill",
-      "location": "Poland",
-      "genre": "Chill",
-      "countryCode": "PL",
-      "language": "english",
-      "clickCount": 3,
-      "bitrate": 320,
-      "streamUrl": "https://radio.pejpal.cloud/stream"
-    },
-    {
       "id": "chilli_zet_covers_pl_d0357274",
       "title": "Chilli ZET Covers",
       "subtitle": "Covers",
@@ -24752,18 +24714,6 @@
       "clickCount": 10,
       "bitrate": 128,
       "streamUrl": "https://ssl.servereradio.ro/8123/stream"
-    },
-    {
-      "id": "radio_tequila_dance_romania_ro_6af324bf",
-      "title": "Radio Tequila Dance Romania",
-      "subtitle": "Pop",
-      "location": "Romania",
-      "genre": "Pop",
-      "countryCode": "RO",
-      "language": null,
-      "clickCount": 6,
-      "bitrate": 128,
-      "streamUrl": "http://dance.radiotequila.ro:7000/;stream.nsv"
     },
     {
       "id": "radio_magia_inimii_tale_ro_6467ce0a",
@@ -25616,6 +25566,66 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://listen7.myradio24.com/92126"
+    },
+    {
+      "id": "sandra_ru_9553c29a",
+      "title": "Sandra",
+      "subtitle": "Discography",
+      "location": "The Russian Federation",
+      "genre": "Discography",
+      "countryCode": "RU",
+      "language": "english",
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "https://stream.pcradio.ru/Sandra-hi"
+    },
+    {
+      "id": "anima_amoris_dt_ru_4bfe1708",
+      "title": "Anima Amoris DT",
+      "subtitle": "Dub Techno",
+      "location": "The Russian Federation",
+      "genre": "Dub Techno",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://amoris.sknt.ru/dubtechno.mp3"
+    },
+    {
+      "id": "vajdas_gretro_rs_60c0d355",
+      "title": "vajdaságretro",
+      "subtitle": "Oldies & Retro Hits 70S 80S 90S 00S",
+      "location": "Serbia",
+      "genre": "Oldies & Retro Hits 70S 80S 90S 00S",
+      "countryCode": "RS",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://sp1.19cloudsnetwork.gr/8032/stream"
+    },
+    {
+      "id": "fm_ru_8076005f",
+      "title": "РадиоЛАМПА.FM",
+      "subtitle": "Radio",
+      "location": "The Russian Federation",
+      "genre": "Radio",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 320,
+      "streamUrl": "https://listen9.myradio24.com/180667"
+    },
+    {
+      "id": "dr_alban_ru_1f2c60be",
+      "title": "Dr Alban",
+      "subtitle": "Discography",
+      "location": "The Russian Federation",
+      "genre": "Discography",
+      "countryCode": "RU",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://stream.pcradio.ru/Dr_Alban-hi"
     }
   ]
 }

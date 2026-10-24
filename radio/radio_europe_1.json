@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-23T03:25:33Z",
+  "updated": "2026-10-24T03:18:58Z",
   "region": "europe",
   "part": 1,
   "of": 8,
@@ -26253,18 +26253,6 @@
       "streamUrl": "https://air.sammit.tv:8443/retro"
     },
     {
-      "id": "fm_by_7e0d62e2",
-      "title": "Барановичи FM",
-      "subtitle": "Adult Contemporary",
-      "location": "Belarus",
-      "genre": "Adult Contemporary",
-      "countryCode": "BY",
-      "language": "russian",
-      "clickCount": 4,
-      "bitrate": 128,
-      "streamUrl": "http://radio.100fm.by:8000/100fm128"
-    },
-    {
       "id": "albanian_baby_radio_al_f47cb4ef",
       "title": "Albanian Baby Radio",
       "subtitle": "Children",
@@ -31809,18 +31797,6 @@
       "streamUrl": "https://stream.hoerfunkbundstream.de:35402/stream.mp3"
     },
     {
-      "id": "chill_albania_al_40bb1f2a",
-      "title": "Chill Albania",
-      "subtitle": "Chill Out",
-      "location": "Albania",
-      "genre": "Chill Out",
-      "countryCode": "AL",
-      "language": "albanian",
-      "clickCount": 4,
-      "bitrate": 128,
-      "streamUrl": "https://streams.radiomast.io/346318d3-5312-4a69-8f80-64d75640fd35"
-    },
-    {
       "id": "best_of_bach_mp3_de_f7050abf",
       "title": "Best of Bach [MP3]",
       "subtitle": "Bach",
@@ -33067,6 +33043,66 @@
       "clickCount": 3,
       "bitrate": 320,
       "streamUrl": "https://radio.comnet.bg:12301/radio-mixx.mp3"
+    },
+    {
+      "id": "freies_radio_freistadt_at_5515cdf6",
+      "title": "Freies Radio Freistadt",
+      "subtitle": "Freistadt",
+      "location": "Austria",
+      "genre": "Freistadt",
+      "countryCode": "AT",
+      "language": "german",
+      "clickCount": 8,
+      "bitrate": 192,
+      "streamUrl": "http://212.89.182.114:8008/frf"
+    },
+    {
+      "id": "r_dio_p_sni_ka_cz_4bedd581",
+      "title": "Rádio Písnička",
+      "subtitle": "Schlager",
+      "location": "Czechia",
+      "genre": "Schlager",
+      "countryCode": "CZ",
+      "language": "czech",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://stream.slagr-radio.cz/pisnicka"
+    },
+    {
+      "id": "bb_radio_80er_de_1ee27109",
+      "title": "BB Radio 80er",
+      "subtitle": "Pop",
+      "location": "Germany",
+      "genre": "Pop",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "http://streambbr.ir-media-tec.com/80s/mp3-128"
+    },
+    {
+      "id": "radio_saw_in_the_mix_90er_de_ae7951f0",
+      "title": "radio SAW-In The Mix 90er",
+      "subtitle": "90S",
+      "location": "Germany",
+      "genre": "90S",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://stream.radiosaw.de/saw-in-the-mix-90er/mp3-192/radio-browser/"
+    },
+    {
+      "id": "90s90s_soul_rnb_de_5dac7e15",
+      "title": "90s90s Soul RNB",
+      "subtitle": "1990S",
+      "location": "Germany",
+      "genre": "1990S",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "http://streams.90s90s.de/soulrnb/mp3-192/radiode/"
     }
   ]
 }

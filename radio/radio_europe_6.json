@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-23T03:25:02Z",
+  "updated": "2026-10-24T03:18:58Z",
   "region": "europe",
   "part": 6,
   "of": 8,
@@ -18818,19 +18818,6 @@
       "streamUrl": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/nyheter_aac_h"
     },
     {
-      "id": "rb2_nrk_nyhter_mp3_hi_c74d8f47",
-      "title": "NRK Nyhter (MP3 - HI)",
-      "subtitle": "Radio",
-      "imageUrl": "https://lyd.nrk.no/img/favicon.ico",
-      "streamUrl": "https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/nyheter",
-      "location": "Norway",
-      "genre": "Radio",
-      "countryCode": "NO",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 192
-    },
-    {
       "id": "rb2_nrk_p1_buskerud_aac_high_5cab468c",
       "title": "NRK P1 Buskerud (AAC High)",
       "subtitle": "Radio",
@@ -24952,18 +24939,6 @@
       "streamUrl": "https://classic.nl/streams/?s=mindradio"
     },
     {
-      "id": "p_kas_2_lt_6ad7d7a2",
-      "title": "Pūkas 2",
-      "subtitle": "Jazz",
-      "location": "Lithuania",
-      "genre": "Jazz",
-      "countryCode": "LT",
-      "language": "lietuvių",
-      "clickCount": 8,
-      "bitrate": 112,
-      "streamUrl": "http://212.95.39.164:8074/stream"
-    },
-    {
       "id": "jukebox_it_8307c517",
       "title": "Jukebox",
       "subtitle": "Big Band",
@@ -27602,6 +27577,66 @@
       "clickCount": 4,
       "bitrate": 192,
       "streamUrl": "https://stream.zeno.fm/z8cp1nqwhnruv"
+    },
+    {
+      "id": "nrk_nyhter_mp3_hi_no_d2b773a0",
+      "title": "NRK Nyhter (MP3 - HI)",
+      "subtitle": "Radio",
+      "location": "Norway",
+      "genre": "Radio",
+      "countryCode": "NO",
+      "language": null,
+      "clickCount": 7,
+      "bitrate": 192,
+      "streamUrl": "https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/nyheter"
+    },
+    {
+      "id": "christmas_radio_lt_735b7dc8",
+      "title": "Christmas Radio",
+      "subtitle": "Christmas",
+      "location": "Lithuania",
+      "genre": "Christmas",
+      "countryCode": "LT",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://stream.zeno.fm/xevy5qiypbqvv"
+    },
+    {
+      "id": "harder_fm_nl_55e2b62e",
+      "title": "Harder.fm",
+      "subtitle": "Hardstyle",
+      "location": "The Netherlands",
+      "genre": "Hardstyle",
+      "countryCode": "NL",
+      "language": "dutch",
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "https://stream.home.halewijnen.nl/listen/harder.fm/mp3"
+    },
+    {
+      "id": "radio_undr_nl_30f6f8f2",
+      "title": "Radio UNDR",
+      "subtitle": "00S",
+      "location": "The Netherlands",
+      "genre": "00S",
+      "countryCode": "NL",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 320,
+      "streamUrl": "https://radioundr.com/listen/radio_undr/aac320"
+    },
+    {
+      "id": "j_ren_misjonsradio_no_761e0498",
+      "title": "Jæren Misjonsradio",
+      "subtitle": "Radio",
+      "location": "Norway",
+      "genre": "Radio",
+      "countryCode": "NO",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://stream.theradiohub.com/JMRadio/hq"
     }
   ]
 }
