@@ -1,6 +1,6 @@
 {
-  "version": 74,
-  "updated": "2026-10-24T08:06:43Z",
+  "version": 75,
+  "updated": "2026-10-25T08:22:42Z",
   "stations": [
     {
       "id": "80s80s_radio_de_9adaa6e1",
@@ -2089,15 +2089,6 @@
       "genre": "Radio",
       "streamUrl": "http://streams.extrafm.hr:8110/stream?2701",
       "countryCode": "HR"
-    },
-    {
-      "id": "love_radio_bacolod_ph_f88db876",
-      "title": "Love Radio Bacolod",
-      "subtitle": "MP3",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "streamUrl": "http://148.251.43.149:8088/stream",
-      "countryCode": "PH"
     },
     {
       "id": "radio_abc_dk_46da2f2b",
@@ -9426,15 +9417,6 @@
       "countryCode": "IE"
     },
     {
-      "id": "radiks_fm_semarang_id_b7bc1fd8",
-      "title": "RADIKS FM SEMARANG",
-      "subtitle": "AAC+",
-      "location": "Semarang, Indonesia",
-      "genre": "Dangdut",
-      "streamUrl": "https://i.klikhost.com:9620/stream",
-      "countryCode": "ID"
-    },
-    {
       "id": "radio_love_soft_romantic_il_abcff86f",
       "title": "Radio Love Soft Romantic",
       "subtitle": "MP3",
@@ -10525,6 +10507,211 @@
       "genre": "Entertainment",
       "streamUrl": "http://wecast09-h-cloud.flumotion.com/copesedes/santander.mp3",
       "countryCode": "ES"
+    },
+    {
+      "id": "rockfm_101_7_es_527fc087",
+      "title": "RockFM 101.7",
+      "subtitle": "AAC+",
+      "location": "Madrid, Spain",
+      "genre": "Radio",
+      "streamUrl": "http://flucast32-h-cloud.flumotion.com/cope/rockfm.aac",
+      "countryCode": "ES"
+    },
+    {
+      "id": "joy_fm_tr_19f17a56",
+      "title": "Joy Fm",
+      "subtitle": "AAC+",
+      "location": "Türkiye",
+      "genre": "International",
+      "streamUrl": "http://25683.live.streamtheworld.com/JOY_FMAAC_SC",
+      "countryCode": "TR"
+    },
+    {
+      "id": "dance_wave_retro_hu_998fb0e1",
+      "title": "Dance Wave Retro!",
+      "subtitle": "AAC+",
+      "location": "Hungary",
+      "genre": "90S Dance",
+      "streamUrl": "https://dancewave.online/retrodance.aac",
+      "countryCode": "HU"
+    },
+    {
+      "id": "fluxfm_techno_underground_de_e2d89fe7",
+      "title": "FluxFM - Techno Underground",
+      "subtitle": "MP3",
+      "location": "Berlin, Germany",
+      "genre": "Techno",
+      "streamUrl": "http://fluxfm.streamabc.net/flx-technounderground-mp3-128-7228171?sABC=6nqn5p3n%230%236q8s7o7o3p7411o9n0871834qs5r90so%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1792695354",
+      "countryCode": "DE"
+    },
+    {
+      "id": "country_rocks_radio_se_66e4a1ee",
+      "title": "Country Rocks Radio",
+      "subtitle": "MP3",
+      "location": "Sweden",
+      "genre": "Country",
+      "streamUrl": "http://stream.dbmedia.se/crrMP3",
+      "countryCode": "SE"
+    },
+    {
+      "id": "cadena_dial_xx_85dc2656",
+      "title": "Cadena Dial",
+      "subtitle": "MP3",
+      "location": "Unknown",
+      "genre": "Radio",
+      "streamUrl": "http://28563.live.streamtheworld.com/CADENADIAL_SC"
+    },
+    {
+      "id": "wefunk_ca_abbd0538",
+      "title": "WEFUNK",
+      "subtitle": "MP3",
+      "location": "Canada",
+      "genre": "Funk",
+      "streamUrl": "https://s-00.wefunkradio.com:8443/wefunk64.mp3",
+      "countryCode": "CA"
+    },
+    {
+      "id": "exclusively_status_quo_ae_db413053",
+      "title": "Exclusively Status Quo",
+      "subtitle": "MP3",
+      "location": "The United Arab Emirates",
+      "genre": "00S",
+      "streamUrl": "https://streaming.exclusive.radio/er/statusquo/icecast.audio",
+      "countryCode": "AE"
+    },
+    {
+      "id": "falklands_radio_fk_0b12ae5a",
+      "title": "Falklands Radio",
+      "subtitle": "MP3",
+      "location": "The Falkland Islands Malvinas",
+      "genre": "Radio",
+      "streamUrl": "http://streaming.broadcastradio.com:8330/flklnd",
+      "countryCode": "FK"
+    },
+    {
+      "id": "nova_brasil_fm_93_5_aracaju_br_a693bfb2",
+      "title": "Nova Brasil FM 93.5 Aracaju",
+      "subtitle": "AAC+",
+      "location": "Sergipe, Brazil",
+      "genre": "Aracaju",
+      "streamUrl": "http://27573.live.streamtheworld.com/NOVABRASIL_ARACAJUAAC_SC",
+      "countryCode": "BR"
+    },
+    {
+      "id": "activa_cl_3bb43c1c",
+      "title": "Activa",
+      "subtitle": "MP3",
+      "location": "Chile",
+      "genre": "Pop",
+      "streamUrl": "http://27343.live.streamtheworld.com/ACTIVA_SC",
+      "countryCode": "CL"
+    },
+    {
+      "id": "chante_france_fr_7f38537d",
+      "title": "Chante France",
+      "subtitle": "MP3",
+      "location": "France",
+      "genre": "French Chansons",
+      "streamUrl": "https://chantefrance.ice.infomaniak.ch/chantefrance-128.mp3",
+      "countryCode": "FR"
+    },
+    {
+      "id": "radio_central_ch_ff68194f",
+      "title": "Radio Central",
+      "subtitle": "MP3",
+      "location": "Switzerland",
+      "genre": "Local Radio",
+      "streamUrl": "https://stream.streambase.ch/rcentral/mp3-192/direct/",
+      "countryCode": "CH"
+    },
+    {
+      "id": "hardbestfm_cn_fa0d9439",
+      "title": "HardBestFM",
+      "subtitle": "Radio",
+      "location": "China",
+      "genre": "Hardcore",
+      "streamUrl": "https://fm.hardbest.cn/listen/hardstyle/radio.mp3",
+      "countryCode": "CN"
+    },
+    {
+      "id": "extra_fm_hr_d324cb27",
+      "title": "Extra FM",
+      "subtitle": "MP3",
+      "location": "Croatia",
+      "genre": "Radio",
+      "streamUrl": "https://relay2.social3.hr/radio/8190/radio.mp3?&_ic2=1?8707",
+      "countryCode": "HR"
+    },
+    {
+      "id": "imsostablee_radio_il_e04e6557",
+      "title": "Imsostablee Radio",
+      "subtitle": "AAC",
+      "location": "Israel",
+      "genre": "Alternative Rock",
+      "streamUrl": "https://c44.radioboss.fm:8178/stream",
+      "countryCode": "IL"
+    },
+    {
+      "id": "radio_aktual_si_487eb5eb",
+      "title": "Radio Aktual",
+      "subtitle": "MP3",
+      "location": "Osrednjeslovenska, Slovenia",
+      "genre": "Balkan",
+      "streamUrl": "https://live.radio.si/Aktual",
+      "countryCode": "SI"
+    },
+    {
+      "id": "cope_albacete_es_74e45882",
+      "title": "COPE Albacete",
+      "subtitle": "MP3",
+      "location": "Spain",
+      "genre": "Albacete",
+      "streamUrl": "https://wecast11-o-cloud.flumotion.com/copesedes/albacete.mp3",
+      "countryCode": "ES"
+    },
+    {
+      "id": "schwarzwaldradio_de_a63ce99d",
+      "title": "Schwarzwaldradio",
+      "subtitle": "MP3",
+      "location": "Baden-Württemberg, Germany",
+      "genre": "60Er",
+      "streamUrl": "https://edge61.streamonkey.net/fho-schwarzwaldradiolive/stream/mp3?aggregator=smk-m3u-mp3",
+      "countryCode": "DE"
+    },
+    {
+      "id": "radio_bob_metallica_xx_d3c18f97",
+      "title": "Radio BOB Metallica",
+      "subtitle": "MP3",
+      "location": "Unknown",
+      "genre": "Radio",
+      "streamUrl": "http://streams.radiobob.de/metallica/mp3-192"
+    },
+    {
+      "id": "exclusive_bb_king_ae_1a8b4248",
+      "title": "exclusive BB King",
+      "subtitle": "MP3",
+      "location": "The United Arab Emirates",
+      "genre": "Blues",
+      "streamUrl": "https://streaming.exclusive.radio/er/bbking/icecast.audio",
+      "countryCode": "AE"
+    },
+    {
+      "id": "cope_cartagena_es_31a17924",
+      "title": "COPE Cartagena",
+      "subtitle": "MP3",
+      "location": "Región de Murcia, Spain",
+      "genre": "Culture",
+      "streamUrl": "http://wecast16-h-cloud.flumotion.com/copesedes/cartagena.mp3",
+      "countryCode": "ES"
+    },
+    {
+      "id": "exclusively_al_green_ae_609f3c3a",
+      "title": "Exclusively Al Green",
+      "subtitle": "MP3",
+      "location": "Dubai, The United Arab Emirates",
+      "genre": "Soul",
+      "streamUrl": "https://streaming.exclusive.radio/er/algreen/icecast.audio",
+      "countryCode": "AE"
     }
   ]
 }
