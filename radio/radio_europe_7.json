@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-24T03:18:58Z",
+  "updated": "2026-10-25T03:16:04Z",
   "region": "europe",
   "part": 7,
   "of": 8,
@@ -23276,18 +23276,6 @@
       "streamUrl": "https://sonicssl.namehost.ro/7050/stream"
     },
     {
-      "id": "radio_onbouge_pt_806a1b03",
-      "title": "Radio OnBouge",
-      "subtitle": "Community",
-      "location": "Portugal",
-      "genre": "Community",
-      "countryCode": "PT",
-      "language": "french",
-      "clickCount": 4,
-      "bitrate": 0,
-      "streamUrl": "https://onbouge.eu/flux/onbouge.mp3"
-    },
-    {
       "id": "radio_opole_2_pl_9328fe71",
       "title": "Radio Opole 2",
       "subtitle": "Opole Dab",
@@ -24776,30 +24764,6 @@
       "streamUrl": "http://asculta.radioveseliafolclor.com:8232/;"
     },
     {
-      "id": "naxi_blues_rs_1cabca89",
-      "title": "Naxi Blues",
-      "subtitle": "Rock",
-      "location": "Serbia",
-      "genre": "Rock",
-      "countryCode": "RS",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 128,
-      "streamUrl": "https://naxidigital-blues128ssl.streaming.rs:8312/;stream.nsv"
-    },
-    {
-      "id": "naxi_gold_radio_rs_8a99480e",
-      "title": "Naxi Gold Radio",
-      "subtitle": "Radio",
-      "location": "Serbia",
-      "genre": "Radio",
-      "countryCode": "RS",
-      "language": "serbian",
-      "clickCount": 4,
-      "bitrate": 128,
-      "streamUrl": "https://naxidigital-gold128ssl.streaming.rs:8062/;stream.nsv"
-    },
-    {
       "id": "naxi_exyu_radio_rs_cd758bf6",
       "title": "Naxi ExYu Radio",
       "subtitle": "Radio",
@@ -25626,6 +25590,42 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "https://stream.pcradio.ru/Dr_Alban-hi"
+    },
+    {
+      "id": "yrardio_pl_1cb40a02",
+      "title": "Żyrardio",
+      "subtitle": "Eurobeat",
+      "location": "Poland",
+      "genre": "Eurobeat",
+      "countryCode": "PL",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://radio.hszyr.space/"
+    },
+    {
+      "id": "clasic_radio_rock_bucure_ti_ro_0a53229b",
+      "title": "Clasic Radio_Rock -București",
+      "subtitle": "Rock",
+      "location": "Romania",
+      "genre": "Rock",
+      "countryCode": "RO",
+      "language": "română",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://live.radioclasic.com/listen/radio_clasic_rock/live.mp3"
+    },
+    {
+      "id": "naxi_gold_radio_rs_8a99480e",
+      "title": "Naxi Gold Radio",
+      "subtitle": "Radio",
+      "location": "Serbia",
+      "genre": "Radio",
+      "countryCode": "RS",
+      "language": "serbian",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://naxidigital-gold128ssl.streaming.rs:8062/;stream.nsv"
     }
   ]
 }

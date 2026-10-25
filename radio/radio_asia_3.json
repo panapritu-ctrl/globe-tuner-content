@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-24T03:18:58Z",
+  "updated": "2026-10-25T03:16:04Z",
   "region": "asia",
   "part": 3,
   "of": 3,
@@ -4289,15 +4289,6 @@
       "bitrate": 128
     },
     {
-      "id": "al_arabiya_fm_sa_075e58",
-      "title": "Al Arabiya FM",
-      "subtitle": "News",
-      "location": "Saudi Arabia",
-      "genre": "News",
-      "countryCode": "SA",
-      "streamUrl": "https://fm.alarabiya.net/fm/myStream/playlist.m3u8"
-    },
-    {
       "id": "alifalif_fm_sa_f483fc",
       "title": "AlifAlif FM",
       "subtitle": "Radio",
@@ -5408,15 +5399,6 @@
       "genre": "Radio",
       "countryCode": "SY",
       "streamUrl": "http://66.248.205.220:8400/stream"
-    },
-    {
-      "id": "101_5_chula_radio_th",
-      "title": "101.5 Chula Radio",
-      "subtitle": "MP3 128kbps",
-      "location": "Bangkok, Thailand",
-      "genre": "Music",
-      "countryCode": "TH",
-      "streamUrl": "http://radio11.plathong.net:7590/;stream.mp3"
     },
     {
       "id": "106_family_news_radio_th_08675e",
@@ -8273,19 +8255,6 @@
       "language": null,
       "clickCount": 2,
       "bitrate": 150
-    },
-    {
-      "id": "rb2_powert_rk_rap_41f64723",
-      "title": "PowerTürk Rap",
-      "subtitle": "Hip Hop, Rap",
-      "imageUrl": "https://cdn.powergroup.com.tr/image/90x90/powerapp/channels/v3/logo_1403.png",
-      "streamUrl": "https://live.powerapp.com.tr/powerturkrap/abr/playlist.m3u8",
-      "location": "Türkiye",
-      "genre": "Hip Hop",
-      "countryCode": "TR",
-      "language": "turkish",
-      "clickCount": 5,
-      "bitrate": 277
     },
     {
       "id": "radyo_42_fm_medya_konya_pr_music_turkiye_tr_23fb9e",
@@ -16636,18 +16605,6 @@
       "streamUrl": "https://radio.tv5.com.ph/truefm/audio.stream/playlist.m3u8"
     },
     {
-      "id": "xfm_100_7_davao_region_ph_62ccb3fa",
-      "title": "XFM 100.7 DAVAO REGION",
-      "subtitle": "Radio",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "language": null,
-      "clickCount": 5,
-      "bitrate": 64,
-      "streamUrl": "https://us1.amfmph.com/ssl/xfmdavao?mp=/live"
-    },
-    {
       "id": "kiss_102_3_bohol_ph_f9043ba8",
       "title": "Kiss 102.3 Bohol",
       "subtitle": "Radio",
@@ -16862,18 +16819,6 @@
       "clickCount": 5,
       "bitrate": 128,
       "streamUrl": "https://radyo.ulusalkanal.net.tr/9302/stream"
-    },
-    {
-      "id": "voice_of_fju_fm88_5_tw_a422ffff",
-      "title": "輔大之聲 Voice of FJU FM88.5",
-      "subtitle": "Culture",
-      "location": "Taiwan, Republic Of China",
-      "genre": "Culture",
-      "countryCode": "TW",
-      "language": "chinese",
-      "clickCount": 5,
-      "bitrate": 192,
-      "streamUrl": "http://fjuvoice885.fju.edu.tw:8000/fjuvoice885.mp3"
     },
     {
       "id": "fm99_new_th_454d0de5",
@@ -17162,6 +17107,126 @@
       "clickCount": 4,
       "bitrate": 96,
       "streamUrl": "https://livestream.rmn.ph/ifmroxas"
+    },
+    {
+      "id": "powert_rk_rap_tr_53f09f0d",
+      "title": "PowerTürk Rap",
+      "subtitle": "Hip Hop",
+      "location": "Türkiye",
+      "genre": "Hip Hop",
+      "countryCode": "TR",
+      "language": "turkish",
+      "clickCount": 11,
+      "bitrate": 277,
+      "streamUrl": "https://live.powerapp.com.tr/powerturkrap/abr/playlist.m3u8"
+    },
+    {
+      "id": "heart_fm_92_7mhz_cdo_city_ph_403fa093",
+      "title": "Heart FM 92.7Mhz CDO City",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 64,
+      "streamUrl": "https://us1.amfmph.com/ssl/heartfmcdo?mp=/stream&1679730513324"
+    },
+    {
+      "id": "i_t_klasik_tr_ed13fff3",
+      "title": "İTÜ Klasik",
+      "subtitle": "Classical",
+      "location": "Türkiye",
+      "genre": "Classical",
+      "countryCode": "TR",
+      "language": "turkish",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "http://160.75.86.29:8088/ituklasikmp3"
+    },
+    {
+      "id": "se_fm_tr_089a9a69",
+      "title": "SEÇ FM",
+      "subtitle": "Radio",
+      "location": "Türkiye",
+      "genre": "Radio",
+      "countryCode": "TR",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 112,
+      "streamUrl": "https://live.radyo.in/8066/stream"
+    },
+    {
+      "id": "bodrum_fm_tr_af0479f8",
+      "title": "Bodrum Fm",
+      "subtitle": "Pop",
+      "location": "Türkiye",
+      "genre": "Pop",
+      "countryCode": "TR",
+      "language": "tr",
+      "clickCount": 5,
+      "bitrate": 256,
+      "streamUrl": "https://live.bodrumfm.org/stream.mp3"
+    },
+    {
+      "id": "seydi_ehi_r_fm_tr_16f40f53",
+      "title": "SEYDİŞEHİR FM",
+      "subtitle": "Radio",
+      "location": "Türkiye",
+      "genre": "Radio",
+      "countryCode": "TR",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://radyo.yayin.com.tr:4142/strem"
+    },
+    {
+      "id": "radyo_drk_tr_0e1b4a3f",
+      "title": "RADYO DRK",
+      "subtitle": "Radio",
+      "location": "Türkiye",
+      "genre": "Radio",
+      "countryCode": "TR",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://stream.zeno.fm/czwwh7xfqm0uv"
+    },
+    {
+      "id": "tempo_fm_101_5_tr_90c8b772",
+      "title": "Tempo FM 101.5",
+      "subtitle": "Radio",
+      "location": "Türkiye",
+      "genre": "Radio",
+      "countryCode": "TR",
+      "language": "turkish",
+      "clickCount": 5,
+      "bitrate": 96,
+      "streamUrl": "https://live.radyo.in/8062/stream"
+    },
+    {
+      "id": "panorama_fm_sa_56cff46e",
+      "title": "Panorama FM",
+      "subtitle": "Radio",
+      "location": "Saudi Arabia",
+      "genre": "Radio",
+      "countryCode": "SA",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://radio-panoramafm.mbc.net/radio-panoramafm_1.m3u8"
+    },
+    {
+      "id": "mbc_fm_sa_3ae5b88b",
+      "title": "MBC FM",
+      "subtitle": "Radio",
+      "location": "Saudi Arabia",
+      "genre": "Radio",
+      "countryCode": "SA",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://radio-mbcfm.mbc.net/radio-mbcfm_1.m3u8"
     }
   ]
 }

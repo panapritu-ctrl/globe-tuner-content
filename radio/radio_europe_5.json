@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-24T03:18:58Z",
+  "updated": "2026-10-25T03:16:04Z",
   "region": "europe",
   "part": 5,
   "of": 8,
@@ -14507,19 +14507,6 @@
       "bitrate": 160
     },
     {
-      "id": "rb2_mixradio_retr_e3617237",
-      "title": "Mixradio Retró",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://45.67.156.157:18004/retro",
-      "location": "Hungary",
-      "genre": "Radio",
-      "countryCode": "HU",
-      "language": "hungarian",
-      "clickCount": 0,
-      "bitrate": 192
-    },
-    {
       "id": "rb2_mixradio_fresh_139060ec",
       "title": "Mixradio fresh",
       "subtitle": "Fresh",
@@ -17519,19 +17506,6 @@
       "language": null,
       "clickCount": 3,
       "bitrate": 1430
-    },
-    {
-      "id": "rb2_ucbi_worship_6297d10b",
-      "title": "UCBI WORSHIP",
-      "subtitle": "Praise & Worship",
-      "imageUrl": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fuk.radio.net%2Fimages%2Fbroadcasts%2F93%2F9f%2F130137%2F1%2Fc300.png&tbnid=_l8rjHnL2ip3MM&vet=12ahUKEwjBkOeNpIaBAxWBs4sKHWJKCJwQMygAegQIARA9..i&imgrefurl=https%3A%2F%2Fuk.radio.net%2Fs%2Fucbirelandworship&docid=LLoJBiNVqqetTM&w=300&h=300&q=ucbi%20worship&client=firefox-b-lm&ved=2ahUKEwjBkOeNpIaBAxWBs4sKHWJKCJwQMygAegQIARA9",
-      "streamUrl": "https://stream.btsstream.com/stream/iworship",
-      "location": "Ireland",
-      "genre": "Praise & Worship",
-      "countryCode": "IE",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 128
     },
     {
       "id": "rb2_west_cork_fm_7a4a6299",
@@ -21891,19 +21865,6 @@
       "language": null,
       "clickCount": 0,
       "bitrate": 256
-    },
-    {
-      "id": "rb2_rbc_radio_barbanella_city_a67980c3",
-      "title": "RBC Radio Barbanella City",
-      "subtitle": "Grosseto, Misc",
-      "imageUrl": "https://cdn-radiotime-logos.tunein.com/s124677q.png",
-      "streamUrl": "http://c1.server89.com:8038/1",
-      "location": "Toscana, Italy",
-      "genre": "Grosseto",
-      "countryCode": "IT",
-      "language": "italian",
-      "clickCount": 0,
-      "bitrate": 192
     },
     {
       "id": "rb2_rcs_bisceglie_eba371f8",
@@ -26728,18 +26689,6 @@
       "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/MIDLANDS_103.mp3"
     },
     {
-      "id": "mixlive_net_psybient_sunset_ie_69a7507c",
-      "title": "MixLive.net - Psybient Sunset",
-      "subtitle": "Darkpsy",
-      "location": "Ireland",
-      "genre": "Darkpsy",
-      "countryCode": "IE",
-      "language": "english",
-      "clickCount": 5,
-      "bitrate": 192,
-      "streamUrl": "https://listen.openstream.co/6517/audio"
-    },
-    {
       "id": "reteunonetwork_it_cbccfab2",
       "title": "reteunonetwork",
       "subtitle": "Radio",
@@ -27268,18 +27217,6 @@
       "streamUrl": "https://mediagw.e-tiger.net/stream/zc04?ver=209775"
     },
     {
-      "id": "gem_radio_new_wave_ie_61592c3c",
-      "title": "Gem Radio New Wave",
-      "subtitle": "70'S",
-      "location": "Ireland",
-      "genre": "70'S",
-      "countryCode": "IE",
-      "language": null,
-      "clickCount": 8,
-      "bitrate": 128,
-      "streamUrl": "https://gemradionw.radioca.st/;stream.nsv"
-    },
-    {
       "id": "christmas_fm_hungary_hu_3d430a5a",
       "title": "Christmas FM Hungary",
       "subtitle": "Christmas Music",
@@ -27782,6 +27719,138 @@
       "clickCount": 5,
       "bitrate": 128,
       "streamUrl": "https://stream.frekvenci.com/dreams"
+    },
+    {
+      "id": "radiolina_it_9221d819",
+      "title": "Radiolina",
+      "subtitle": "Radio",
+      "location": "Italy",
+      "genre": "Radio",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 17,
+      "bitrate": 192,
+      "streamUrl": "https://streaming.shoutcast.com/radiolina"
+    },
+    {
+      "id": "gem_radio_new_wave_ie_61592c3c",
+      "title": "Gem Radio New Wave",
+      "subtitle": "70'S",
+      "location": "Ireland",
+      "genre": "70'S",
+      "countryCode": "IE",
+      "language": null,
+      "clickCount": 8,
+      "bitrate": 128,
+      "streamUrl": "https://gemradionw.radioca.st/;stream.nsv"
+    },
+    {
+      "id": "radio_caf_it_00222da6",
+      "title": "Radio Cafè",
+      "subtitle": "Acid Jazz & Smooth Jazz",
+      "location": "Italy",
+      "genre": "Acid Jazz & Smooth Jazz",
+      "countryCode": "IT",
+      "language": null,
+      "clickCount": 7,
+      "bitrate": 96,
+      "streamUrl": "https://geminione.it/proxy/test/;"
+    },
+    {
+      "id": "kiss_kiss_italia_it_d829d624",
+      "title": "Kiss kiss italia",
+      "subtitle": "Radio",
+      "location": "Italy",
+      "genre": "Radio",
+      "countryCode": "IT",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "http://wma07.fluidstream.net:3616/;stream.nsv"
+    },
+    {
+      "id": "retro_hitz_it_8e14f486",
+      "title": "Retro Hitz",
+      "subtitle": "70'S",
+      "location": "Italy",
+      "genre": "70'S",
+      "countryCode": "IT",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "https://app.aloncast.com/api/stream/retro-hitz-cb6975"
+    },
+    {
+      "id": "radio_ciccio_riccio_it_d00ba74b",
+      "title": "Radio Ciccio Riccio",
+      "subtitle": "Varied",
+      "location": "Italy",
+      "genre": "Varied",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://stream5.xdevel.com/audio0s975942-758/stream/icecast.audio"
+    },
+    {
+      "id": "united_music_progressive_house_it_69c312c2",
+      "title": "United Music Progressive House",
+      "subtitle": "Progressive House",
+      "location": "Italy",
+      "genre": "Progressive House",
+      "countryCode": "IT",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://icy.unitedradio.it/um067.mp3"
+    },
+    {
+      "id": "united_music_rock_hits_it_cc0c5f59",
+      "title": "United Music Rock Hits",
+      "subtitle": "Rock",
+      "location": "Italy",
+      "genre": "Rock",
+      "countryCode": "IT",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 96,
+      "streamUrl": "https://icy.unitedradio.it/um066.aac"
+    },
+    {
+      "id": "united_music_lounge_it_9074a5b3",
+      "title": "United Music Lounge",
+      "subtitle": "Lounge",
+      "location": "Italy",
+      "genre": "Lounge",
+      "countryCode": "IT",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://icy.unitedradio.it/um026.mp3"
+    },
+    {
+      "id": "united_music_chillout_it_8dd23fbf",
+      "title": "United Music Chillout",
+      "subtitle": "Chillout",
+      "location": "Italy",
+      "genre": "Chillout",
+      "countryCode": "IT",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://icy.unitedradio.it/um095.mp3"
+    },
+    {
+      "id": "rcl26_musica_italiana_it_0d2b7830",
+      "title": "RCL26 Musica Italiana",
+      "subtitle": "Hits",
+      "location": "Italy",
+      "genre": "Hits",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://mars.streamerr.co/8068/;"
     }
   ]
 }

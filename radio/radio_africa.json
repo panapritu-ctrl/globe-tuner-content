@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-24T03:18:58Z",
+  "updated": "2026-10-25T03:16:04Z",
   "region": "africa",
   "stations": [
     {
@@ -719,15 +719,6 @@
       "genre": "Radio",
       "countryCode": "EG",
       "streamUrl": "http://nrjstreaming.ahmed-melege.com/nrjegypt"
-    },
-    {
-      "id": "on_sports_fm_eg_e25470",
-      "title": "On sports FM",
-      "subtitle": "Radio",
-      "location": "Egypt",
-      "genre": "Radio",
-      "countryCode": "EG",
-      "streamUrl": "https://carina.streamerr.co:2020/stream/OnSportFM"
     },
     {
       "id": "radio_9090_eg_006d79",
@@ -7943,18 +7934,6 @@
       "streamUrl": "https://freedomice.streamakaci.com/freedom2.mp3"
     },
     {
-      "id": "kolo_mboka_fm_cd_bf94e85f",
-      "title": "Kolo-mboka fm",
-      "subtitle": "Divertissement",
-      "location": "The Democratic Republic Of The Congo",
-      "genre": "Divertissement",
-      "countryCode": "CD",
-      "language": "french",
-      "clickCount": 4,
-      "bitrate": 96,
-      "streamUrl": "https://kolo-mbokafm.volticast.net/kolo-mbokafm.mp3"
-    },
-    {
       "id": "medina_fm_tarab_128_kbps_ma_7a3654e6",
       "title": "Medina FM Tarab (128 kbps)",
       "subtitle": "Morocco",
@@ -12467,18 +12446,6 @@
       "streamUrl": "https://eu4.fastcast4u.com/proxy/makiemaxradio?mp=/1"
     },
     {
-      "id": "camerhits_cm_cc3dc306",
-      "title": "CamerHits",
-      "subtitle": "African Music",
-      "location": "Cameroon",
-      "genre": "African Music",
-      "countryCode": "CM",
-      "language": "french",
-      "clickCount": 5,
-      "bitrate": 0,
-      "streamUrl": "https://camerhits.com/icecast/stream"
-    },
-    {
       "id": "rna_r_dio_ngola_yetu_ao_c490901f",
       "title": "RNA - Rádio Ngola Yetu",
       "subtitle": "News",
@@ -12635,18 +12602,6 @@
       "streamUrl": "https://streamer.galcom.org:8443/RadioFrequenceVie"
     },
     {
-      "id": "kabana_rooftop_marrakech_ma_2fec983a",
-      "title": "Kabana Rooftop Marrakech",
-      "subtitle": "Arabic Grooves",
-      "location": "Morocco",
-      "genre": "Arabic Grooves",
-      "countryCode": "MA",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 0,
-      "streamUrl": "https://stream.vibe-stream.com/kabana-rooftop-marrakech.mp3"
-    },
-    {
       "id": "bourdex_97_9_fm_abiriba_ng_4d8283d7",
       "title": "Bourdex 97.9 FM Abiriba",
       "subtitle": "Radio",
@@ -12741,6 +12696,42 @@
       "clickCount": 3,
       "bitrate": 128,
       "streamUrl": "https://stream.zeno.fm/fgu0hpcaj9bvv"
+    },
+    {
+      "id": "kiss_fm_100_ke_e15165f8",
+      "title": "Kiss FM 100",
+      "subtitle": "Rap Hiphop Rnb",
+      "location": "Kenya",
+      "genre": "Rap Hiphop Rnb",
+      "countryCode": "KE",
+      "language": null,
+      "clickCount": 14,
+      "bitrate": 64,
+      "streamUrl": "https://atunwadigital.streamguys1.com/kiss100fm"
+    },
+    {
+      "id": "neat_fm_gh_b2b71baf",
+      "title": "Neat Fm",
+      "subtitle": "Entertainment",
+      "location": "Ghana",
+      "genre": "Entertainment",
+      "countryCode": "GH",
+      "language": "akan",
+      "clickCount": 5,
+      "bitrate": 64,
+      "streamUrl": "https://atunwadigital.streamguys1.com/neatfm"
+    },
+    {
+      "id": "pikine_diaspora_radio_sn_368c735a",
+      "title": "Pikine Diaspora Radio",
+      "subtitle": "Radio",
+      "location": "Senegal",
+      "genre": "Radio",
+      "countryCode": "SN",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "http://cdn.voscast.com/resources/?key=563fcd75f43e77334d6fb664b7358f9e&c=winamp"
     }
   ]
 }

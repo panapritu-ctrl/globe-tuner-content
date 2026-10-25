@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-24T03:18:58Z",
+  "updated": "2026-10-25T03:16:04Z",
   "region": "europe",
   "part": 2,
   "of": 8,
@@ -17579,19 +17579,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_bauhaus_fm_4b7c6a57",
-      "title": "bauhaus.fm",
-      "subtitle": "Bauhaus, Experimental",
-      "imageUrl": "https://i0.wp.com/www.uni-weimar.de/projekte/bauhaus-fm/wp-content/uploads/2018/11/cropped-3667_4_bauhaus-fm-logo_1024.jpg?fit=512%2C512&ssl=1",
-      "streamUrl": "http://bauhaus.fm:8000/_a",
-      "location": "Thuringia, Germany",
-      "genre": "Bauhaus",
-      "countryCode": "DE",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 256
-    },
-    {
       "id": "rb2_beatdownx_9626c92b",
       "title": "beatdownx",
       "subtitle": "Deathcore, Hardcore",
@@ -24894,19 +24881,6 @@
       "streamUrl": "https://radios.blumhost.es:8214/stream",
       "location": "Comunidad de Madrid, Spain",
       "genre": "Historico",
-      "countryCode": "ES",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_edenex_d8e381de",
-      "title": "EDENEX",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://164.138.210.62:13121/stream",
-      "location": "Spain",
-      "genre": "Radio",
       "countryCode": "ES",
       "language": null,
       "clickCount": 0,
@@ -33395,6 +33369,102 @@
       "clickCount": 4,
       "bitrate": 256,
       "streamUrl": "https://stream.skymedia.ee/live/NRJdnb"
+    },
+    {
+      "id": "wdr2_bergisches_land_de_122997a2",
+      "title": "WDR2 Bergisches Land",
+      "subtitle": "Adult Contemporary",
+      "location": "Germany",
+      "genre": "Adult Contemporary",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 6,
+      "bitrate": 102,
+      "streamUrl": "https://wdr-radio.ard-mcdn.de/wdr/radio/wdr2bld/hls/master.m3u8"
+    },
+    {
+      "id": "radio_wildherz_de_24462708",
+      "title": "Radio Wildherz",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "https://radio.webradiohost.de/listen/bellawildherz/radio.mp3"
+    },
+    {
+      "id": "radio_fantasy_classix_de_fba3e743",
+      "title": "Radio Fantasy Classix",
+      "subtitle": "Throwbacks",
+      "location": "Germany",
+      "genre": "Throwbacks",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://edge68.streamonkey.net/fantasy-classix/stream/mp3?aggregator=smk-m3u-mp3"
+    },
+    {
+      "id": "fu_ball_bundesliga_2_spiel_9_de_f816c772",
+      "title": "Fußball-Bundesliga 2: Spiel 9",
+      "subtitle": "Football",
+      "location": "Germany",
+      "genre": "Football",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://wdr-sportschau-liga2spiel9.icecastssl.wdr.de/wdr/sportschau/liga2spiel9/mp3/high"
+    },
+    {
+      "id": "bluesbude_de_58b1c82a",
+      "title": "Bluesbude",
+      "subtitle": "Blues",
+      "location": "Germany",
+      "genre": "Blues",
+      "countryCode": "DE",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://bluesbude.stream.laut.fm/bluesbude?t302=2026-10-22_06-51-34&uuid=3b62ad1b-6ba0-6090-cdce-8c9bad125c93"
+    },
+    {
+      "id": "energy_deutschrap_de_f35ea552",
+      "title": "Energy Deutschrap",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://edge07.streamonkey.net/energy-deutschrap?aggregator=shorty"
+    },
+    {
+      "id": "ella_radio_smooth_vocals_de_388ec628",
+      "title": "Ella Radio - Smooth Vocals",
+      "subtitle": "Jazz",
+      "location": "Germany",
+      "genre": "Jazz",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://stream.ella-radio.de/ella-smooth-vocals/mp3-192/?ref=radio-browser"
+    },
+    {
+      "id": "ebm_radio_de_a41fa0a3",
+      "title": "EBM-Radio",
+      "subtitle": "Ebm",
+      "location": "Germany",
+      "genre": "Ebm",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "http://ebm-radio.org:9000/ebm.ogg"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-24T03:18:29Z",
+  "updated": "2026-10-25T03:16:04Z",
   "region": "europe",
   "part": 3,
   "of": 8,
@@ -7600,19 +7600,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_allzic_radio_comptines_961f16d1",
-      "title": "Allzic Radio Comptines",
-      "subtitle": "Children, Musiques Des Enfants",
-      "imageUrl": "http://www.allzicradio.com/favicon.ico",
-      "streamUrl": "http://allzic05.ice.infomaniak.ch/allzic05.mp3",
-      "location": "France",
-      "genre": "Children",
-      "countryCode": "FR",
-      "language": "french",
-      "clickCount": 2,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_allzic_radio_country_ab60e328",
       "title": "Allzic Radio Country",
       "subtitle": "Classic Country, Country",
@@ -14570,15 +14557,6 @@
       "bitrate": 64
     },
     {
-      "id": "jazzradio_fr_jazz_cinema_fr_23a0da",
-      "title": "Jazzradio.fr Jazz & Cinema",
-      "subtitle": "Cinema",
-      "location": "France",
-      "genre": "Jazz",
-      "streamUrl": "https://jzr-wr20.ice.infomaniak.ch/jzr-wr20.mp3",
-      "countryCode": "FR"
-    },
-    {
       "id": "rb2_jazzradio_fr_jazz_classique_c5bc6ba3",
       "title": "Jazzradio.fr Jazz & Classique",
       "subtitle": "Classic, Jazz",
@@ -16256,19 +16234,6 @@
       "countryCode": "FR",
       "language": null,
       "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_mon_tout_petit_france_inter_0c1614d3",
-      "title": "Mon tout petit France Inter",
-      "subtitle": "3 Ans, Enfants",
-      "imageUrl": "https://www.radiofrance.fr/pikapi/images/cbfde3c3-8213-45a6-ac89-b6a3b521025c/200x200",
-      "streamUrl": "https://stream.radiofrance.fr/montoutpetitfranceinter/montoutpetitfranceinter_hifi.m3u8?id=radiofrance",
-      "location": "France",
-      "genre": "3 Ans",
-      "countryCode": "FR",
-      "language": "french",
-      "clickCount": 2,
       "bitrate": 128
     },
     {
@@ -22326,19 +22291,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_radio_accordeon_efab1515",
-      "title": "Radio_Accordeon",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://live2.jupinfo.fr:8443/radioaccordeon",
-      "location": "France",
-      "genre": "Radio",
-      "countryCode": "FR",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 170
-    },
-    {
       "id": "rb2_radionysos_4740cdb0",
       "title": "Radionysos",
       "subtitle": "Alternative, Electronic",
@@ -25811,6 +25763,18 @@
       "clickCount": 3,
       "bitrate": 128,
       "streamUrl": "https://stream.protonbroadcast.com:8443/ramona.mp3"
+    },
+    {
+      "id": "blue_sky_radio_gb_ae933561",
+      "title": "Blue Sky Radio",
+      "subtitle": "Classic Hits",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Classic Hits",
+      "countryCode": "GB",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 256,
+      "streamUrl": "http://stream3.themediasite.co.uk:8068//stream"
     }
   ]
 }
