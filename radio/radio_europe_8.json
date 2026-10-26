@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-25T03:16:04Z",
+  "updated": "2026-10-26T03:14:53Z",
   "region": "europe",
   "part": 8,
   "of": 8,
@@ -12957,19 +12957,6 @@
       "bitrate": 1411
     },
     {
-      "id": "rb2_sector_space_964e5727",
-      "title": "Радио Сектор / Sector SPACE",
-      "subtitle": "Electronic, Relaxing",
-      "imageUrl": "",
-      "streamUrl": "http://89.223.45.5:8000/space-160",
-      "location": "The Russian Federation",
-      "genre": "Electronic",
-      "countryCode": "RU",
-      "language": "english",
-      "clickCount": 1,
-      "bitrate": 192
-    },
-    {
       "id": "rb2_sector_space_flac_1577922b",
       "title": "Радио Сектор / Sector SPACE (flac)",
       "subtitle": "Electronic, Relaxing",
@@ -13796,19 +13783,6 @@
       "countryCode": "RU",
       "language": "russian",
       "clickCount": 1,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_station_d77f6840",
-      "title": "Рок Волна",
-      "subtitle": "Рок",
-      "imageUrl": "",
-      "streamUrl": "https://live.rock-wawe.ru:8001/RockWawe",
-      "location": "The Russian Federation",
-      "genre": "Рок",
-      "countryCode": "RU",
-      "language": null,
-      "clickCount": 0,
       "bitrate": 128
     },
     {
@@ -20149,19 +20123,6 @@
       "bitrate": 320
     },
     {
-      "id": "rb2_radio_jazz_cover_6bb76adf",
-      "title": "Radio Jazz Cover",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://online.radiojazz.ua/RadioJazz_Cover_HD",
-      "location": "Ukraine",
-      "genre": "Radio",
-      "countryCode": "UA",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 320
-    },
-    {
       "id": "rb2_radio_jazz_fm_3ffeef23",
       "title": "Radio Jazz FM",
       "subtitle": "Jazz",
@@ -22420,18 +22381,6 @@
       "streamUrl": "https://stream.zeno.fm/eyac00cx1nhvv"
     },
     {
-      "id": "deep_house_mix_ru_094f981a",
-      "title": "Deep House Mix",
-      "subtitle": "Radio",
-      "location": "The Russian Federation",
-      "genre": "Radio",
-      "countryCode": "RU",
-      "language": null,
-      "clickCount": 5,
-      "bitrate": 128,
-      "streamUrl": "https://myradio24.org/oldclub"
-    },
-    {
       "id": "kalina_krasnaya_ru_f709ee4e",
       "title": "Kalina Krasnaya",
       "subtitle": "Pop",
@@ -22766,18 +22715,6 @@
       "clickCount": 4,
       "bitrate": 96,
       "streamUrl": "https://stream.tvlux.sk/lux/lux.stream_aac/playlist.m3u8"
-    },
-    {
-      "id": "all_watching_eye_focus_se_b4fef4a8",
-      "title": "All Watching Eye - Focus",
-      "subtitle": "Ambient",
-      "location": "Sweden",
-      "genre": "Ambient",
-      "countryCode": "SE",
-      "language": "english",
-      "clickCount": 3,
-      "bitrate": 128,
-      "streamUrl": "http://icy.aweradio.app/listen/focus"
     },
     {
       "id": "105_3_fm_ru_60dab53e",
@@ -25192,18 +25129,6 @@
       "streamUrl": "http://live-radio.ru:8111/live"
     },
     {
-      "id": "radio_ru_e4e3e880",
-      "title": "Radio Источник",
-      "subtitle": "60S",
-      "location": "The Russian Federation",
-      "genre": "60S",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 4,
-      "bitrate": 128,
-      "streamUrl": "http://s0.radioheart.ru:8000/VM73179"
-    },
-    {
       "id": "radio_shanson_ua_5612ff3f",
       "title": "Radio Shanson",
       "subtitle": "Music",
@@ -25730,6 +25655,78 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "https://stream.pcradio.ru/C_C_Catch-hi"
+    },
+    {
+      "id": "abba_ru_b906a191",
+      "title": "ABBA",
+      "subtitle": "Discography",
+      "location": "The Russian Federation",
+      "genre": "Discography",
+      "countryCode": "RU",
+      "language": "english",
+      "clickCount": 13,
+      "bitrate": 0,
+      "streamUrl": "https://stream.pcradio.ru/abba-hi"
+    },
+    {
+      "id": "sr_p2_128k_hls_se_18e38526",
+      "title": "SR P2 (128k HLS)",
+      "subtitle": "Classical",
+      "location": "Sweden",
+      "genre": "Classical",
+      "countryCode": "SE",
+      "language": "swedish",
+      "clickCount": 10,
+      "bitrate": 0,
+      "streamUrl": "https://ljud2-cdn.sr.se/lc/p2/p2_128.pls"
+    },
+    {
+      "id": "station_ru_2bea9d35",
+      "title": "Муслим Магомаев",
+      "subtitle": "Discography",
+      "location": "The Russian Federation",
+      "genre": "Discography",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "https://stream03.pcradio.app/Muslim_Magomaev-hi"
+    },
+    {
+      "id": "get_radio_ru_fc441a86",
+      "title": "get.radio — Шансон (Русский)",
+      "subtitle": "Chanson",
+      "location": "The Russian Federation",
+      "genre": "Chanson",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://get-radio.sipout.ai/stream/chanson-ru.mp3"
+    },
+    {
+      "id": "sveriges_radio_p2_se_ecd52906",
+      "title": "Sveriges Radio P2",
+      "subtitle": "Classical",
+      "location": "Sweden",
+      "genre": "Classical",
+      "countryCode": "SE",
+      "language": "swedish",
+      "clickCount": 5,
+      "bitrate": 120,
+      "streamUrl": "https://live1.sr.se/p2-aac-128"
+    },
+    {
+      "id": "radio_jazz_cover_ua_bf351b35",
+      "title": "Radio Jazz Cover",
+      "subtitle": "Radio",
+      "location": "Ukraine",
+      "genre": "Radio",
+      "countryCode": "UA",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 320,
+      "streamUrl": "https://online.radiojazz.ua/RadioJazz_Cover_HD"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-25T03:16:04Z",
+  "updated": "2026-10-26T03:14:54Z",
   "region": "europe",
   "part": 7,
   "of": 8,
@@ -2540,19 +2540,6 @@
       "genre": "Experimental",
       "countryCode": "PL",
       "language": "english",
-      "clickCount": 0,
-      "bitrate": 192
-    },
-    {
-      "id": "rb2_radio_uniwersytet_c88d706e",
-      "title": "Radio Uniwersytet",
-      "subtitle": "Radio",
-      "imageUrl": "https://www.radiouniwersytet.pl/wp-content/themes/radio-uniwersytet/images/logo_RU.png",
-      "streamUrl": "https://www.radiouniwersytet.pl/ru192.mp3",
-      "location": "Poland",
-      "genre": "Radio",
-      "countryCode": "PL",
-      "language": null,
       "clickCount": 0,
       "bitrate": 192
     },
@@ -11248,19 +11235,6 @@
       "language": "românä",
       "clickCount": 0,
       "bitrate": 192
-    },
-    {
-      "id": "rb2_radio_vocea_evangheliei_suceava_rve_18a14983",
-      "title": "Radio Vocea Evangheliei Suceava - RVE",
-      "subtitle": "Religous",
-      "imageUrl": "https://www.rvesv.ro/favicon.ico",
-      "streamUrl": "http://s9.yesstreaming.net:7014/stream",
-      "location": "Romania",
-      "genre": "Religous",
-      "countryCode": "RO",
-      "language": "romanian",
-      "clickCount": 0,
-      "bitrate": 48
     },
     {
       "id": "rb2_radio_vocea_speran_ei_rvs_703952a3",
@@ -23648,18 +23622,6 @@
       "streamUrl": "http://streaming-live.rtp.pt/liveradio/antena180a/playlist.m3u8"
     },
     {
-      "id": "radio_stres_romania_c_l_ra_i_ro_a5ee03ac",
-      "title": "Radio Stres Romania -Călărași",
-      "subtitle": "Dance",
-      "location": "Romania",
-      "genre": "Dance",
-      "countryCode": "RO",
-      "language": "română",
-      "clickCount": 3,
-      "bitrate": 128,
-      "streamUrl": "https://sonicpanel.namehost.ro:8402/stream"
-    },
-    {
       "id": "antyradio_makak_pl_2c44e4f6",
       "title": "Antyradio Makak",
       "subtitle": "Rock",
@@ -24476,18 +24438,6 @@
       "streamUrl": "https://streaming-live.rtp.pt/liveradio/antena2opera80a/playlist.m3u8"
     },
     {
-      "id": "radio_party_bucure_ti_ro_a3e2197b",
-      "title": "Radio Party București",
-      "subtitle": "Manele",
-      "location": "Romania",
-      "genre": "Manele",
-      "countryCode": "RO",
-      "language": "romanian",
-      "clickCount": 5,
-      "bitrate": 128,
-      "streamUrl": "http://asculta.radiopartybucuresti.ro:8050/;"
-    },
-    {
       "id": "radio_super_manele_ro_955594bc",
       "title": "Radio Super Manele",
       "subtitle": "Manele",
@@ -24714,18 +24664,6 @@
       "clickCount": 3,
       "bitrate": 192,
       "streamUrl": "https://a9.asurahosting.com:7030/radio.mp3"
-    },
-    {
-      "id": "antena_krusevac_rs_793f27dd",
-      "title": "Antena Krusevac",
-      "subtitle": "Radio",
-      "location": "Serbia",
-      "genre": "Radio",
-      "countryCode": "RS",
-      "language": "serbian",
-      "clickCount": 3,
-      "bitrate": 320,
-      "streamUrl": "http://antenaradio.org:4560/;stream.nsv"
     },
     {
       "id": "deep_house_energy_ro_bbf780e2",
@@ -25626,6 +25564,30 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://naxidigital-gold128ssl.streaming.rs:8062/;stream.nsv"
+    },
+    {
+      "id": "clasic_radio_love_bucure_ti_ro_9a55751b",
+      "title": "Clasic Radio_Love -București",
+      "subtitle": "Love",
+      "location": "Romania",
+      "genre": "Love",
+      "countryCode": "RO",
+      "language": "română",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://live.radioclasic.com/listen/radio_clasic_love/live.mp3"
+    },
+    {
+      "id": "station_ru_f48a2a60",
+      "title": "ОГОНËК",
+      "subtitle": "Поп-Музыка",
+      "location": "The Russian Federation",
+      "genre": "Поп-Музыка",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://misato.ru-hoster.com:8037/stream"
     }
   ]
 }

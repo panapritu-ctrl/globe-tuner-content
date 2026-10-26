@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-25T03:16:04Z",
+  "updated": "2026-10-26T03:14:54Z",
   "region": "europe",
   "part": 6,
   "of": 8,
@@ -11430,19 +11430,6 @@
       "bitrate": 192
     },
     {
-      "id": "rb2_glxy_throwback_radio_4832e75a",
-      "title": "GLXY THROWBACK RADIO",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://stream.glxy.radio/GLXY_OG",
-      "location": "The Netherlands",
-      "genre": "Radio",
-      "countryCode": "NL",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 192
-    },
-    {
       "id": "rb2_god_radio_2cbe5b29",
       "title": "GOD Radio",
       "subtitle": "Gospel",
@@ -17632,15 +17619,6 @@
       "bitrate": 256
     },
     {
-      "id": "synthetic_fm_the_new_italo_generation_so_nl_1dc2ca",
-      "title": "Synthetic FM The New Italo generation sound",
-      "subtitle": "80S",
-      "location": "Burgenland, The Netherlands",
-      "genre": "Electronic",
-      "streamUrl": "http://stream.syntheticfm.com:8030/stream",
-      "countryCode": "NL"
-    },
-    {
       "id": "synthwave_city_fm_new_nl_949419",
       "title": "Synthwave City FM - New",
       "subtitle": "Radio",
@@ -18331,19 +18309,6 @@
       "genre": "Radio",
       "countryCode": "NL",
       "language": "dutch",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_xerosradio_b878d22d",
-      "title": "XerosRadio",
-      "subtitle": "60S, 70S",
-      "imageUrl": "https://res.cloudinary.com/xerosradio/image/upload/f_webp,q_auto/XerosRadio_Logo_Achtergrond_Wit",
-      "streamUrl": "https://az.streamxerosradio.duckdns.org/radio/8000/xerosradio",
-      "location": "The Netherlands",
-      "genre": "60S",
-      "countryCode": "NL",
-      "language": null,
       "clickCount": 0,
       "bitrate": 128
     },
@@ -24025,18 +23990,6 @@
       "streamUrl": "https://play.radioking.io/nordic-chillout-radio/736489"
     },
     {
-      "id": "1fm_rock_no_f17bac0b",
-      "title": "1FM Rock",
-      "subtitle": "Radio",
-      "location": "Norway",
-      "genre": "Radio",
-      "countryCode": "NO",
-      "language": null,
-      "clickCount": 6,
-      "bitrate": 192,
-      "streamUrl": "https://lyd.1fm.no/1fmrock_hq"
-    },
-    {
       "id": "concertzender_ori_nt_express_nl_c0829885",
       "title": "Concertzender Oriënt Express",
       "subtitle": "World Music",
@@ -27623,6 +27576,30 @@
       "clickCount": 4,
       "bitrate": 192,
       "streamUrl": "https://radio.mixstream.nl/special.mp3"
+    },
+    {
+      "id": "radio_80_nonstop_nl_21ece958",
+      "title": "Radio 80 (Nonstop)",
+      "subtitle": "24/7",
+      "location": "The Netherlands",
+      "genre": "24/7",
+      "countryCode": "NL",
+      "language": "dutch",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "http://81.169.251.143:7900/live"
+    },
+    {
+      "id": "radio_relax_sweet_dreams_md_5347c6b8",
+      "title": "Radio Relax - Sweet Dreams",
+      "subtitle": "Alternative Pop",
+      "location": "The Republic Of Moldova",
+      "genre": "Alternative Pop",
+      "countryCode": "MD",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://radio1.dixi.md/listen/sweet_dreams/radio.aac"
     }
   ]
 }

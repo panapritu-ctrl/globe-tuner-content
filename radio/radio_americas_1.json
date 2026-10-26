@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-25T03:16:04Z",
+  "updated": "2026-10-26T03:14:53Z",
   "region": "americas",
   "part": 1,
   "of": 5,
@@ -4002,19 +4002,6 @@
       "language": null,
       "clickCount": 0,
       "bitrate": 64
-    },
-    {
-      "id": "rb2_la_100_formosa_98_9_fm_082a9f6b",
-      "title": "La 100 Formosa 98.9 FM",
-      "subtitle": "Radio",
-      "imageUrl": "https://radioarg.net/storage/radios/26828/80209/conversions/VzwNWqWOCf7ulYa38zLdPZXBrdXaCK-metaWDFPVFJudEhSc0I3eGlqd0Nxa1F0RVM3T09yMjVZLW1ldGFiR0V0TVRBd0xXWnZjbTF2YzJFdFptMHRPVGd4TG5CdVp3PT0tLWxnLndlYnA=--lg.webp",
-      "streamUrl": "https://cdn.instream.audio/:9153/stream",
-      "location": "Argentina",
-      "genre": "Radio",
-      "countryCode": "AR",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 32
     },
     {
       "id": "rb2_la_100_latino_b6d5e7fc",
@@ -17462,19 +17449,6 @@
       "bitrate": 64
     },
     {
-      "id": "rb2_r_dio_justi_a_104_7_fm_95610d19",
-      "title": "Rádio Justiça 104.7 FM",
-      "subtitle": "Jornalismo, News",
-      "imageUrl": "https://img.radios.com.br/radio/lg/radio13550_1698435410.png",
-      "streamUrl": "https://server01.ouvir.radio.br:8036/stream",
-      "location": "Distrito Federal, Brazil",
-      "genre": "Jornalismo",
-      "countryCode": "BR",
-      "language": "brazilian portuguese",
-      "clickCount": 0,
-      "bitrate": 48
-    },
-    {
       "id": "rb2_r_dio_kboing_100_3_fm_54866938",
       "title": "Rádio Kboing 100.3 FM",
       "subtitle": "Adult, Adulta",
@@ -17538,19 +17512,6 @@
       "language": "brazilian portuguese",
       "clickCount": 1,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_r_dio_livre_som_a80ce0d0",
-      "title": "Rádio Livre som",
-      "subtitle": "Local Radio, Variety",
-      "imageUrl": "http://radiolivresom.com.br/admin/assets/img/logo.png",
-      "streamUrl": "https://server19.srvsh.com.br:8934/stream",
-      "location": "Santa Catarina, Brazil",
-      "genre": "Local Radio",
-      "countryCode": "BR",
-      "language": "pt-br",
-      "clickCount": 0,
-      "bitrate": 64
     },
     {
       "id": "rb2_r_dio_mec_am_a5f67526",
@@ -20324,19 +20285,6 @@
       "language": "portugues do brasil",
       "clickCount": 0,
       "bitrate": 64
-    },
-    {
-      "id": "rb2_uesb_fm_92cf144d",
-      "title": "UESB FM",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://200.128.67.125:8001/stream",
-      "location": "Brazil",
-      "genre": "Radio",
-      "countryCode": "BR",
-      "language": "brazilian portuguese",
-      "clickCount": 0,
-      "bitrate": 192
     },
     {
       "id": "rb2_usp_fm_cea91be9",
@@ -28315,6 +28263,90 @@
       "clickCount": 4,
       "bitrate": 64,
       "streamUrl": "https://painel.sintonizar.tv.br/stream/mncaxias?1790301813062="
+    },
+    {
+      "id": "am_530_somos_radio_ar_301e11c8",
+      "title": "AM 530 Somos radio",
+      "subtitle": "Radio",
+      "location": "Argentina",
+      "genre": "Radio",
+      "countryCode": "AR",
+      "language": "spanish",
+      "clickCount": 9,
+      "bitrate": 48,
+      "streamUrl": "https://ipanel.instream.audio:7000/stream"
+    },
+    {
+      "id": "lideran_a_fm_105_9_br_ff7b41f7",
+      "title": "Liderança FM 105.9",
+      "subtitle": "Radio",
+      "location": "Brazil",
+      "genre": "Radio",
+      "countryCode": "BR",
+      "language": "brazilian portuguese",
+      "clickCount": 5,
+      "bitrate": 64,
+      "streamUrl": "http://stream.notoris.com.br:8472/stream?1785032475212="
+    },
+    {
+      "id": "hunter_fm_o_canal_rock_br_6131ec73",
+      "title": "Hunter.FM - O Canal Rock",
+      "subtitle": "Rock",
+      "location": "Brazil",
+      "genre": "Rock",
+      "countryCode": "BR",
+      "language": "portuguese",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://live.hunter.fm/rock_normal"
+    },
+    {
+      "id": "metal_zone_radio_br_2860eaa9",
+      "title": "Metal Zone Radio",
+      "subtitle": "Black Metal",
+      "location": "Brazil",
+      "genre": "Black Metal",
+      "countryCode": "BR",
+      "language": "brazilian portuguese",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://srv8.ipstm.net:32224/stream"
+    },
+    {
+      "id": "observatorio_radio_web_br_d42e5417",
+      "title": "Observatorio Radio Web",
+      "subtitle": "Various",
+      "location": "Brazil",
+      "genre": "Various",
+      "countryCode": "BR",
+      "language": "portuguese",
+      "clickCount": 3,
+      "bitrate": 320,
+      "streamUrl": "https://observatoriosergipe.com.br/radio/live.mp3"
+    },
+    {
+      "id": "r_dio_difus_o_fm_erechim_br_d6668da3",
+      "title": "Rádio Difusão FM Erechim",
+      "subtitle": "Gauchesca",
+      "location": "Brazil",
+      "genre": "Gauchesca",
+      "countryCode": "BR",
+      "language": "portuguese brazil",
+      "clickCount": 3,
+      "bitrate": 64,
+      "streamUrl": "http://stm10.virtualcast.com.br:8322/difusaoerechimfm"
+    },
+    {
+      "id": "r_dio_itapu_100_3_fm_br_5932bbbe",
+      "title": "Rádio Itapuí 100.3 FM",
+      "subtitle": "Mix",
+      "location": "Brazil",
+      "genre": "Mix",
+      "countryCode": "BR",
+      "language": "brazilian portuguese",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://stm3.srvif.com:6756/stream"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-25T03:16:04Z",
+  "updated": "2026-10-26T03:14:54Z",
   "region": "europe",
   "part": 4,
   "of": 8,
@@ -180,19 +180,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_1mix_radio_edm_uk_192kb_mp3_b783a934",
-      "title": "1Mix Radio - EDM (UK) 192kb mp3",
-      "subtitle": "Edm",
-      "imageUrl": "https://www.1mix.co.uk/favicon.ico",
-      "streamUrl": "http://fr2.1mix.co.uk:9000/192h",
-      "location": "The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "Edm",
-      "countryCode": "GB",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 192
-    },
-    {
       "id": "rb2_1mix_radio_edm_uk_320kb_mp3_8ac60632",
       "title": "1Mix Radio - EDM (UK) 320kb mp3",
       "subtitle": "Edm",
@@ -334,15 +321,6 @@
       "language": "english",
       "clickCount": 0,
       "bitrate": 192
-    },
-    {
-      "id": "1mix_radio_trance_uk_320kb_mp3_gb_3a0cdb",
-      "title": "1Mix Radio - Trance (UK) 320kb mp3",
-      "subtitle": "Trance",
-      "location": "The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "Trance",
-      "countryCode": "GB",
-      "streamUrl": "http://fr2.1mix.co.uk:9000/320b"
     },
     {
       "id": "rb2_1mix_radio_trance_uk_32kb_aac_e6a37934",
@@ -5710,19 +5688,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_energy_fm_old_school_classics_4c95b61c",
-      "title": "Energy FM - Old School Classics",
-      "subtitle": "Radio",
-      "imageUrl": "https://www.energyfm.co.uk/favicon.ico",
-      "streamUrl": "http://162.244.80.106:8024/stream",
-      "location": "The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "Radio",
-      "countryCode": "GB",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_england_heart_london_radio_ff337e7b",
       "title": "England - Heart London Radio",
       "subtitle": "Pop, Public",
@@ -9498,19 +9463,6 @@
       "language": "english",
       "clickCount": 0,
       "bitrate": 48
-    },
-    {
-      "id": "rb2_like_radio_chill_mp3_3eba571c",
-      "title": "Like Radio - CHILL (MP3)",
-      "subtitle": "Chill, Pop",
-      "imageUrl": "https://i.ibb.co/sJrSjYY/chill.png",
-      "streamUrl": "http://likeradiostream.com/likechill",
-      "location": "England, The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "Chill",
-      "countryCode": "GB",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
     },
     {
       "id": "rb2_like_radio_christmas_aac_e00dc024",
@@ -27624,6 +27576,54 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "https://radio.wavespb.com/live/3622d8d5aa1809b2/3622d8d5aa1809b2.m3u8"
+    },
+    {
+      "id": "94_2_gr_403a8571",
+      "title": "Χώρος 94.2",
+      "subtitle": "Rock",
+      "location": "Greece",
+      "genre": "Rock",
+      "countryCode": "GR",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://xoros.samos.aegean.gr/stream?1792959015622"
+    },
+    {
+      "id": "ilctamil_in_d2da9422",
+      "title": "ilctamil",
+      "subtitle": "Radio",
+      "location": "India",
+      "genre": "Radio",
+      "countryCode": "IN",
+      "language": "tamil",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://stream.zeno.fm/vewxk5336qzuv"
+    },
+    {
+      "id": "ait_tirunelveli_fm_in_acd0cc6f",
+      "title": "AIT Tirunelveli FM",
+      "subtitle": "South India",
+      "location": "India",
+      "genre": "South India",
+      "countryCode": "IN",
+      "language": "tamil",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio062/chunklist.m3u8"
+    },
+    {
+      "id": "vividh_bharti_pune_in_4734cbdc",
+      "title": "Vividh Bharti Pune",
+      "subtitle": "Radio",
+      "location": "India",
+      "genre": "Radio",
+      "countryCode": "IN",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://d1tmej9eu7kw5c.cloudfront.net/7b3a089ab67dcf3c/7b3a089ab67dcf3c.m3u8"
     }
   ]
 }
