@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-26T03:14:53Z",
+  "updated": "2026-10-27T03:44:34Z",
   "region": "europe",
   "part": 8,
   "of": 8,
@@ -15747,19 +15747,6 @@
       "bitrate": 320
     },
     {
-      "id": "rb2_edm_f81a5aa3",
-      "title": "EDM",
-      "subtitle": "Dance, Edm",
-      "imageUrl": "https://madmix.se/images/logo.jpg",
-      "streamUrl": "https://mml2.prostream.se/listen/edm_/radio.mp3",
-      "location": "Sweden",
-      "genre": "Dance",
-      "countryCode": "SE",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "epic_soundtracks_only_se_19ea30",
       "title": "Epic Soundtracks Only",
       "subtitle": "Cinematic",
@@ -15780,19 +15767,6 @@
       "language": null,
       "clickCount": 0,
       "bitrate": 192
-    },
-    {
-      "id": "rb2_faith_beats_radio_a536d6ff",
-      "title": "Faith Beats Radio",
-      "subtitle": "Christian, Gospel",
-      "imageUrl": "https://madmix.se/images/logo.jpg",
-      "streamUrl": "https://mml2.prostream.se/listen/faith_beats_radio/radio.mp3",
-      "location": "Sweden",
-      "genre": "Christian",
-      "countryCode": "SE",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
     },
     {
       "id": "rb2_gen_x_7317cab6",
@@ -15945,19 +15919,6 @@
       "streamUrl": "https://mml2.prostream.se/listen/harmony_frequencies_radio/radio.mp3",
       "location": "Sweden",
       "genre": "Ambient",
-      "countryCode": "SE",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_hello_africa_0e575083",
-      "title": "Hello Africa",
-      "subtitle": "African, Afrobeat",
-      "imageUrl": "https://madmix.se/images/logo.jpg",
-      "streamUrl": "https://mml1.prostream.se/listen/hello_africa/radio.mp3",
-      "location": "Sweden",
-      "genre": "African",
       "countryCode": "SE",
       "language": "english",
       "clickCount": 0,
@@ -16448,19 +16409,6 @@
       "streamUrl": "https://mml1.prostream.se/listen/radio_567/radio.mp3",
       "location": "Sweden",
       "genre": "Classic Rock",
-      "countryCode": "SE",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_789_70a1dbfb",
-      "title": "Radio 789",
-      "subtitle": "Classics, Hits",
-      "imageUrl": "https://madmix.se/images/logo.jpg",
-      "streamUrl": "https://mml1.prostream.se/listen/radio_789/radio.mp3",
-      "location": "Sweden",
-      "genre": "Classics",
       "countryCode": "SE",
       "language": "english",
       "clickCount": 0,
@@ -17230,19 +17178,6 @@
       "language": "swedish",
       "clickCount": 2,
       "bitrate": 64
-    },
-    {
-      "id": "rb2_workout_2d411ff6",
-      "title": "Workout",
-      "subtitle": "Edm, Fitness",
-      "imageUrl": "https://madmix.se/images/logo.jpg",
-      "streamUrl": "https://mml2.prostream.se/listen/workout/radio.mp3",
-      "location": "Sweden",
-      "genre": "Edm",
-      "countryCode": "SE",
-      "language": "english",
-      "clickCount": 1,
-      "bitrate": 128
     },
     {
       "id": "rb2_zergan_radyo_47an_052b8916",
@@ -25727,6 +25662,30 @@
       "clickCount": 5,
       "bitrate": 320,
       "streamUrl": "https://online.radiojazz.ua/RadioJazz_Cover_HD"
+    },
+    {
+      "id": "station_ru_6ff13e67",
+      "title": "Доброе старое радио",
+      "subtitle": "Radio",
+      "location": "The Russian Federation",
+      "genre": "Radio",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 5,
+      "bitrate": 256,
+      "streamUrl": "http://91.189.162.134:8008/;stream"
+    },
+    {
+      "id": "get_radio_ru_eeba4161",
+      "title": "get.radio — Рок (Английский)",
+      "subtitle": "Music",
+      "location": "The Russian Federation",
+      "genre": "Music",
+      "countryCode": "RU",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://get-radio.sipout.ai/stream/rock-en.mp3"
     }
   ]
 }

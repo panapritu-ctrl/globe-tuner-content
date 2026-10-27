@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-26T03:14:53Z",
+  "updated": "2026-10-27T03:44:34Z",
   "region": "europe",
   "part": 1,
   "of": 8,
@@ -18506,19 +18506,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_1_a_hits_von_1a_radio_5a2b36a0",
-      "title": "- 1 A - Hits von 1A Radio",
-      "subtitle": "Black, Dance",
-      "imageUrl": "https://www.1aradio.com/logos/1a-hits_600x600.jpg",
-      "streamUrl": "https://1a-hits.radionetz.de/1a-hits.mp3",
-      "location": "Bayern, Germany",
-      "genre": "Black",
-      "countryCode": "DE",
-      "language": "german",
-      "clickCount": 2,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_1_a_jazz_von_1a_radio_e9ca7d9d",
       "title": "- 1 A - Jazz von 1A Radio",
       "subtitle": "Jazz, Smooth Jazz",
@@ -21559,15 +21546,6 @@
       "language": null,
       "clickCount": 2,
       "bitrate": 128
-    },
-    {
-      "id": "aida_radio_flac_de_fa7390",
-      "title": "AIDa radio Flac",
-      "subtitle": "Holiday",
-      "location": "Germany",
-      "genre": "Holiday",
-      "countryCode": "DE",
-      "streamUrl": "https://cdn05.radio.cloud:8128/AIDA-OMNIA-GAI"
     },
     {
       "id": "rb2_alex_offener_kanal_berlin_960706e2",
@@ -32189,18 +32167,6 @@
       "streamUrl": "https://stream.zeno.fm/y6uk7h9uhkhvv"
     },
     {
-      "id": "nest_radio_al_3ba71f08",
-      "title": "Nest Radio",
-      "subtitle": "Albanian",
-      "location": "Albania",
-      "genre": "Albanian",
-      "countryCode": "AL",
-      "language": "albanian",
-      "clickCount": 3,
-      "bitrate": 192,
-      "streamUrl": "https://radio.nestnews.al/listen/nest-radio/radio.mp3"
-    },
-    {
       "id": "novi_radio_biha_ba_42e06a58",
       "title": "Novi Radio Bihać",
       "subtitle": "Radio",
@@ -33267,6 +33233,126 @@
       "clickCount": 3,
       "bitrate": 160,
       "streamUrl": "http://stream1.datenkollektiv.net/Radio-F.R.E.I"
+    },
+    {
+      "id": "80s80s_games_de_6cc6b71c",
+      "title": "80s80s Games",
+      "subtitle": "80S",
+      "location": "Germany",
+      "genre": "80S",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 8,
+      "bitrate": 0,
+      "streamUrl": "https://streams.80s80s.de/games/mp3-192/"
+    },
+    {
+      "id": "svartkrog_black_metal_radio_de_2eda117a",
+      "title": "Svartkrog Black Metal Radio",
+      "subtitle": "Atmospheric Black Metal",
+      "location": "Germany",
+      "genre": "Atmospheric Black Metal",
+      "countryCode": "DE",
+      "language": "english",
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://svartkrog.stream.laut.fm/svartkrog"
+    },
+    {
+      "id": "crazy_r_dio_cz_7bb915da",
+      "title": "Crazy Rádio",
+      "subtitle": "Radio",
+      "location": "Czechia",
+      "genre": "Radio",
+      "countryCode": "CZ",
+      "language": "czech",
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "http://live.topradio.cz:8000/crazy128"
+    },
+    {
+      "id": "wdr4_rhein_und_ruhr_de_a19afe21",
+      "title": "WDR4 Rhein und Ruhr",
+      "subtitle": "Oldies",
+      "location": "Germany",
+      "genre": "Oldies",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 5,
+      "bitrate": 102,
+      "streamUrl": "https://wdr-radio.ard-mcdn.de/wdr/radio/wdr4rr/hls/master.m3u8"
+    },
+    {
+      "id": "radiobob_summer_rock_hits_64_kbps_aac_de_3a9f43b6",
+      "title": "RadioBOB Summer Rock Hits (64 kbps AAC)",
+      "subtitle": "Rock",
+      "location": "Germany",
+      "genre": "Rock",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://streams.radiobob.de/summerrock/aac-64/mediaplayer"
+    },
+    {
+      "id": "electricfabric_de_ed55de8e",
+      "title": "Electricfabric",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": "low german",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://stream.laut.fm/electricfabric"
+    },
+    {
+      "id": "hr3_osthessen_de_4f19e349",
+      "title": "hr3 Osthessen",
+      "subtitle": "Pop",
+      "location": "Germany",
+      "genre": "Pop",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://dispatcher.rndfnk.com/hr/hr3/osthessen/high"
+    },
+    {
+      "id": "radio_l_beck_de_2093c8d1",
+      "title": "Radio Lübeck",
+      "subtitle": "News",
+      "location": "Germany",
+      "genre": "News",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://s35.derstream.net/radioluebeck-192.mp3"
+    },
+    {
+      "id": "radio_gora_de_ba_877891aa",
+      "title": "Radio Goražde",
+      "subtitle": "Radio",
+      "location": "Bosnia And Herzegovina",
+      "genre": "Radio",
+      "countryCode": "BA",
+      "language": "bosnian",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://webtvstream.bhtelecom.ba/radio_gorazde.m3u8"
+    },
+    {
+      "id": "fm_by_7e0d62e2",
+      "title": "Барановичи FM",
+      "subtitle": "Adult Contemporary",
+      "location": "Belarus",
+      "genre": "Adult Contemporary",
+      "countryCode": "BY",
+      "language": "russian",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "http://radio.100fm.by:8000/100fm128"
     }
   ]
 }

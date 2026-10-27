@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-26T03:14:54Z",
+  "updated": "2026-10-27T03:44:34Z",
   "region": "europe",
   "part": 3,
   "of": 8,
@@ -2899,19 +2899,6 @@
       "genre": "Radio",
       "countryCode": "ES",
       "language": "catalan",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_sefarad_79d6fc07",
-      "title": "Radio Sefarad",
-      "subtitle": "Radio",
-      "imageUrl": "https://www.radiosefarad.com/wp-content/uploads/2023/10/nuevo-espadas.jpg",
-      "streamUrl": "https://www2.radiosefarad.com/joomla/images/mp3/sefaradparaweb.mp3",
-      "location": "Madrid, Spain",
-      "genre": "Radio",
-      "countryCode": "ES",
-      "language": null,
       "clickCount": 0,
       "bitrate": 128
     },
@@ -18078,19 +18065,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_rcf_lyon_96139dd4",
-      "title": "RCF Lyon",
-      "subtitle": "Christian",
-      "imageUrl": "",
-      "streamUrl": "http://rcf.streamakaci.com/rcf69.mp3",
-      "location": "Auvergne-Rhône-Alpes, France",
-      "genre": "Christian",
-      "countryCode": "FR",
-      "language": "french",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_rcf_nice_c_te_d_azur_96139f5d",
       "title": "RCF Nice Côte d'Azur",
       "subtitle": "Christian",
@@ -19773,19 +19747,6 @@
       "language": "french",
       "clickCount": 1,
       "bitrate": 192
-    },
-    {
-      "id": "rb2_radio_croco_963828d7",
-      "title": "Radio Croco",
-      "subtitle": "Electro Rock, Lounge",
-      "imageUrl": "",
-      "streamUrl": "http://listen.radioking.com/radio/73198/stream/111151",
-      "location": "France",
-      "genre": "Electro Rock",
-      "countryCode": "FR",
-      "language": "french",
-      "clickCount": 0,
-      "bitrate": 128
     },
     {
       "id": "rb2_radio_dy10_8c078ff1",
@@ -21688,19 +21649,6 @@
       "genre": "Documentaries",
       "countryCode": "FR",
       "language": "français - lëtzebuergesch",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_temps_rodez_3a373e8f",
-      "title": "Radio Temps Rodez",
-      "subtitle": "Radio",
-      "imageUrl": "https://radiotemps.com/wp-content/uploads/2020/12/LOGO.png",
-      "streamUrl": "https://sd-151888.dedibox.fr/proxy/radiotemps/rtr",
-      "location": "France",
-      "genre": "Radio",
-      "countryCode": "FR",
-      "language": null,
       "clickCount": 0,
       "bitrate": 128
     },
@@ -25819,6 +25767,198 @@
       "clickCount": 4,
       "bitrate": 4880,
       "streamUrl": "http://stream.mcquack.net/276/index.m3u8"
+    },
+    {
+      "id": "1mix_radio_trance_uk_320kb_mp3_gb_64081bcc",
+      "title": "1Mix Radio - Trance (UK) 320kb mp3",
+      "subtitle": "Trance",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Trance",
+      "countryCode": "GB",
+      "language": "english",
+      "clickCount": 8,
+      "bitrate": 320,
+      "streamUrl": "http://fr2.1mix.co.uk:9000/320b"
+    },
+    {
+      "id": "ch_rie_fm_pop_fr_0c0d2542",
+      "title": "Chérie FM Pop",
+      "subtitle": "Cherie Fm",
+      "location": "France",
+      "genre": "Cherie Fm",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 7,
+      "bitrate": 128,
+      "streamUrl": "https://streaming.nrjaudio.fm/oua8jew2dqao"
+    },
+    {
+      "id": "ibiza_sonica_balearic_sound_es_a3963dc3",
+      "title": "Ibiza Sonica | Balearic Sound",
+      "subtitle": "Balearic",
+      "location": "Spain",
+      "genre": "Balearic",
+      "countryCode": "ES",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "https://n0f.radiojar.com/st0wc9kut72vv?rj-ttl=5&rj-tok=AAABnOZsKD0AW0rZ9J3Rrp0EdQ"
+    },
+    {
+      "id": "music_radio_synthwave_fr_600019a8",
+      "title": "Music Radio Synthwave",
+      "subtitle": "Ai Music",
+      "location": "France",
+      "genre": "Ai Music",
+      "countryCode": "FR",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 192,
+      "streamUrl": "https://radio.musicradio.ai/listen/music_radio_synthwave/radio.mp3"
+    },
+    {
+      "id": "european_indie_music_network_es_2781e61c",
+      "title": "European Indie Music Network",
+      "subtitle": "Indie",
+      "location": "Spain",
+      "genre": "Indie",
+      "countryCode": "ES",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://sr10.inmystream.it/proxy/european?mp=/stream"
+    },
+    {
+      "id": "cope_zaragoza_es_fe5912c2",
+      "title": "Cope Zaragoza",
+      "subtitle": "Radio",
+      "location": "Spain",
+      "genre": "Radio",
+      "countryCode": "ES",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 56,
+      "streamUrl": "https://zaragoza-copesedes-rrcast.flumotion.com/copesedes/zaragoza-low.mp3"
+    },
+    {
+      "id": "music_radio_uk_garage_fr_dabbab7e",
+      "title": "Music Radio UK Garage",
+      "subtitle": "Ai Music",
+      "location": "France",
+      "genre": "Ai Music",
+      "countryCode": "FR",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "https://radio.musicradio.ai/listen/music_radio_uk_garage/radio.mp3"
+    },
+    {
+      "id": "radio_laser_fr_be275ba1",
+      "title": "Radio Laser",
+      "subtitle": "Alternative",
+      "location": "France",
+      "genre": "Alternative",
+      "countryCode": "FR",
+      "language": "francaise",
+      "clickCount": 5,
+      "bitrate": 256,
+      "streamUrl": "https://stream.radios.bzh/listen/radiolaser/radio.mp3"
+    },
+    {
+      "id": "music_radio_celtic_fr_5451fb91",
+      "title": "Music Radio Celtic",
+      "subtitle": "Ai Music",
+      "location": "France",
+      "genre": "Ai Music",
+      "countryCode": "FR",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://radio.musicradio.ai/listen/music_radio_celtic/radio.mp3"
+    },
+    {
+      "id": "kalizo_radio_lo_fi_fr_005d8aef",
+      "title": "Kalizo Radio Lo-fi",
+      "subtitle": "Chillout",
+      "location": "France",
+      "genre": "Chillout",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://streams.dez.ovh/listen/chillofi/radio.mp3"
+    },
+    {
+      "id": "music_radio_indie_alternative_fr_06e87c58",
+      "title": "Music Radio Indie Alternative",
+      "subtitle": "Ai Music",
+      "location": "France",
+      "genre": "Ai Music",
+      "countryCode": "FR",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://radio.musicradio.ai/listen/music_radio_indie_alternative/radio.mp3"
+    },
+    {
+      "id": "music_radio_acoustic_fr_0d1388fb",
+      "title": "Music Radio Acoustic",
+      "subtitle": "Ai Music",
+      "location": "France",
+      "genre": "Ai Music",
+      "countryCode": "FR",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://radio.musicradio.ai/listen/music_radio_acoustic/radio.mp3"
+    },
+    {
+      "id": "music_radio_house_fr_829722e8",
+      "title": "Music Radio House",
+      "subtitle": "Ai Music",
+      "location": "France",
+      "genre": "Ai Music",
+      "countryCode": "FR",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://radio.musicradio.ai/listen/music_radio_house/radio.mp3"
+    },
+    {
+      "id": "radio_contact_vosges_fr_ae26faae",
+      "title": "Radio Contact Vosges",
+      "subtitle": "Radio",
+      "location": "France",
+      "genre": "Radio",
+      "countryCode": "FR",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://s2.ssl-stream.com/listen/radio_contact/radio.mp3"
+    },
+    {
+      "id": "robotariis_radio_fr_2672cbca",
+      "title": "ROBOTARIIS RADIO",
+      "subtitle": "Ai Generated",
+      "location": "France",
+      "genre": "Ai Generated",
+      "countryCode": "FR",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://subwave.robotariis.com/stream.mp3"
+    },
+    {
+      "id": "1mix_radio_edm_uk_32kb_aac_gb_7bacefa7",
+      "title": "1Mix Radio - EDM (UK) 32kb aac+",
+      "subtitle": "Edm",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Edm",
+      "countryCode": "GB",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 32,
+      "streamUrl": "http://fr2.1mix.co.uk:9000/aach"
     }
   ]
 }

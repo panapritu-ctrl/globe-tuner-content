@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-26T03:14:54Z",
+  "updated": "2026-10-27T03:44:34Z",
   "region": "europe",
   "part": 5,
   "of": 8,
@@ -644,19 +644,6 @@
       "genre": "Dance",
       "countryCode": "GR",
       "language": "greek",
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_power_90_2_806c7371",
-      "title": "Power 90.2",
-      "subtitle": "Greek Pop, Mainstream",
-      "imageUrl": "https://resources.live24.gr/resources/images/stations/e515cee5-7008-4921-9fe2-3b5a1f335eaa.jpg",
-      "streamUrl": "https://eco.onestreaming.com/proxy/powerkaterini/stream",
-      "location": "Katerini, Greece",
-      "genre": "Greek Pop",
-      "countryCode": "GR",
-      "language": null,
       "clickCount": 1,
       "bitrate": 128
     },
@@ -27501,18 +27488,6 @@
       "streamUrl": "http://19983.live.streamtheworld.com/NORTHERN_SOUND_SC"
     },
     {
-      "id": "minimal_deep_tech_on_mixlive_net_ie_75d161d7",
-      "title": "Minimal & Deep-tech on MixLive.net",
-      "subtitle": "Deep And Minimalist Sounds",
-      "location": "Ireland",
-      "genre": "Deep And Minimalist Sounds",
-      "countryCode": "IE",
-      "language": "english",
-      "clickCount": 4,
-      "bitrate": 192,
-      "streamUrl": "https://free.rcast.net/200710"
-    },
-    {
       "id": "radio59muse_it_1cd0c844",
       "title": "RADIO59MUSE",
       "subtitle": "Pop",
@@ -27811,6 +27786,66 @@
       "clickCount": 4,
       "bitrate": 64,
       "streamUrl": "https://ssl1.mediastreaming.it:7024/;?type=http&nocache=181"
+    },
+    {
+      "id": "sunshine_fm_pop_hu_2effc9d3",
+      "title": "Sunshine FM POP",
+      "subtitle": "Pop Music",
+      "location": "Hungary",
+      "genre": "Pop Music",
+      "countryCode": "HU",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://sunshine2.stream.composeit.hu/sunshine"
+    },
+    {
+      "id": "koronafm100_hu_135d3203",
+      "title": "KoronaFM100",
+      "subtitle": "Various",
+      "location": "Hungary",
+      "genre": "Various",
+      "countryCode": "HU",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 192,
+      "streamUrl": "https://www.koronafm100.hu/live.mp3"
+    },
+    {
+      "id": "ucbi_worship_ie_5d9bcd91",
+      "title": "UCBI WORSHIP",
+      "subtitle": "Praise & Worship",
+      "location": "Ireland",
+      "genre": "Praise & Worship",
+      "countryCode": "IE",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream.btsstream.com/stream/iworship"
+    },
+    {
+      "id": "tipp_fm_ie_22e489e1",
+      "title": "Tipp FM",
+      "subtitle": "Local",
+      "location": "Ireland",
+      "genre": "Local",
+      "countryCode": "IE",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/TIPP_FM.mp3"
+    },
+    {
+      "id": "rvr_music_italy_it_f4781da5",
+      "title": "RVR Music Italy",
+      "subtitle": "Radio",
+      "location": "Italy",
+      "genre": "Radio",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://italymusic.stream.laut.fm/italymusic?t302=2025-02-25_22-42-40&uuid=9befc61c-117b-4108-b8da-60675b605924"
     }
   ]
 }

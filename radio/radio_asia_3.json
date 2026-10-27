@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-26T03:14:53Z",
+  "updated": "2026-10-27T03:44:34Z",
   "region": "asia",
   "part": 3,
   "of": 3,
@@ -4718,19 +4718,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_station_60f41b34",
-      "title": "راديو الشرق مع بلومبرغ",
-      "subtitle": "Radio",
-      "imageUrl": "https://www.asharqbusiness.com/favicon.ico",
-      "streamUrl": "https://l3.itworkscdn.net/asharqradioalive/asharqradioa/icecast.audio",
-      "location": "Riyadh, Saudi Arabia",
-      "genre": "Radio",
-      "countryCode": "SA",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 256
-    },
-    {
       "id": "rb2_station_9f2d0bd8",
       "title": "عظمها وافي و غاربها طويل",
       "subtitle": "Arabic Songs",
@@ -7806,19 +7793,6 @@
       "language": null,
       "clickCount": 0,
       "bitrate": 320
-    },
-    {
-      "id": "rb2_mood_rock_0093fc47",
-      "title": "MOOD ROCK",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://radyo.yayin.com.tr:6321/;",
-      "location": "Türkiye",
-      "genre": "Radio",
-      "countryCode": "TR",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
     },
     {
       "id": "rb2_mpl_radyo_1d2ae49c",
@@ -15264,18 +15238,6 @@
       "streamUrl": "https://moondigitaledge.radyotvonline.net/radyovokal/playlist.m3u8"
     },
     {
-      "id": "hai_phong_fm_102_2_vn_402940cc",
-      "title": "Hai Phong FM 102.2",
-      "subtitle": "Hai-Phong",
-      "location": "Vietnam",
-      "genre": "Hai-Phong",
-      "countryCode": "VN",
-      "language": "vietnamese",
-      "clickCount": 6,
-      "bitrate": 0,
-      "streamUrl": "https://cdn.thhp.vn/live/285c1421f29d05045909836b37313898e2f/playlist.m3u8"
-    },
-    {
       "id": "radyo_g_n_l_m_sralar_tr_447feb71",
       "title": "Radyo Gönül Mısraları",
       "subtitle": "Emotional Music",
@@ -16452,18 +16414,6 @@
       "streamUrl": "https://listen.powerapp.com.tr/powerturktaptaze/abr/playlist.m3u8"
     },
     {
-      "id": "90_5_th_b3b7c4fe",
-      "title": "มิติข่าว 90.5",
-      "subtitle": "News",
-      "location": "Thailand",
-      "genre": "News",
-      "countryCode": "TH",
-      "language": "thai",
-      "clickCount": 4,
-      "bitrate": 0,
-      "streamUrl": "http://live3.smartbomb.co.th:8624/;stream.mp3"
-    },
-    {
       "id": "radio_one_fm_91_pk_fa6b4794",
       "title": "Radio One FM 91",
       "subtitle": "Islamabad",
@@ -16498,18 +16448,6 @@
       "clickCount": 7,
       "bitrate": 32,
       "streamUrl": "http://162.244.80.118:4900/stream.mp3"
-    },
-    {
-      "id": "k5_news_fm_bacolod_ph_1811d0cc",
-      "title": "K5 News FM Bacolod",
-      "subtitle": "Radio",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 48,
-      "streamUrl": "http://209.126.124.126:8572/stream"
     },
     {
       "id": "hedgehog_radio_tr_f35118f9",
@@ -17242,6 +17180,66 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://radyo1.radyo-dinle.tc/playdanceradio/stream"
+    },
+    {
+      "id": "90_5_th_b3b7c4fe",
+      "title": "มิติข่าว 90.5",
+      "subtitle": "News",
+      "location": "Thailand",
+      "genre": "News",
+      "countryCode": "TH",
+      "language": "thai",
+      "clickCount": 12,
+      "bitrate": 0,
+      "streamUrl": "http://live3.smartbomb.co.th:8624/;stream.mp3"
+    },
+    {
+      "id": "newsradio_buletin_southern_luzon_ph_321eaf9a",
+      "title": "NewsRadio Buletin Southern Luzon",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 64,
+      "streamUrl": "https://eu8.fastcast4u.com/proxy/nixifof473?mp=/citrasluzon&amp;type=.aac"
+    },
+    {
+      "id": "opm_radio_ph_1d4c0b27",
+      "title": "OPM RADIO",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 112,
+      "streamUrl": "https://listen.streamaudio.co/proxy/kaibiganradio/opm"
+    },
+    {
+      "id": "voice_of_fju_fm88_5_tw_a422ffff",
+      "title": "輔大之聲 Voice of FJU FM88.5",
+      "subtitle": "Culture",
+      "location": "Taiwan, Republic Of China",
+      "genre": "Culture",
+      "countryCode": "TW",
+      "language": "chinese",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "http://fjuvoice885.fju.edu.tw:8000/fjuvoice885.mp3"
+    },
+    {
+      "id": "xone_fm_vn_3b095ab8",
+      "title": "XONE FM",
+      "subtitle": "Pop",
+      "location": "Vietnam",
+      "genre": "Pop",
+      "countryCode": "VN",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://vnno-ne-2-tf-multi-playlist-zmp3.zmdcdn.me/Wbo0diyYozY/zhls/playback-realtime/audio/e75e51f26db784e9dda6/audio.m3u8"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-26T03:14:54Z",
+  "updated": "2026-10-27T03:44:34Z",
   "region": "europe",
   "part": 4,
   "of": 8,
@@ -269,19 +269,6 @@
       "language": "english",
       "clickCount": 1,
       "bitrate": 192
-    },
-    {
-      "id": "rb2_1mix_radio_trance_1_uk_320kb_mp3_d053be00",
-      "title": "1Mix Radio - Trance #1 (UK) 320kb mp3",
-      "subtitle": "Trance",
-      "imageUrl": "",
-      "streamUrl": "http://fr2.1mix.co.uk:9000/320",
-      "location": "The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "Trance",
-      "countryCode": "GB",
-      "language": "english",
-      "clickCount": 3,
-      "bitrate": 320
     },
     {
       "id": "rb2_1mix_radio_trance_1_uk_32kb_aac_2c8cbcda",
@@ -16540,19 +16527,6 @@
       "bitrate": 192
     },
     {
-      "id": "rb2_urban_all_in_1_radio_e637a363",
-      "title": "Urban All In 1 Radio",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://stream.urbanallin1radio.co.uk/radio.mp3",
-      "location": "The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "Radio",
-      "countryCode": "GB",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 192
-    },
-    {
       "id": "rb2_urban_vybez_895d294f",
       "title": "Urban Vybez",
       "subtitle": "D&B, Garage",
@@ -25374,18 +25348,6 @@
       "streamUrl": "http://ads-direct.sharp-stream.com/1458.mp3"
     },
     {
-      "id": "soul_city_radio_uk_gb_c3debc6a",
-      "title": "Soul City Radio UK",
-      "subtitle": "Soul",
-      "location": "The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "Soul",
-      "countryCode": "GB",
-      "language": "english",
-      "clickCount": 5,
-      "bitrate": 0,
-      "streamUrl": "https://sirius.nucast.co.uk/listen/soul_city_radio/radio.mp3"
-    },
-    {
       "id": "nation_radio_scotland_gb_49ad9f64",
       "title": "Nation Radio Scotland",
       "subtitle": "Radio",
@@ -27302,18 +27264,6 @@
       "streamUrl": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio004/hlspbaudio00464kbps.m3u8"
     },
     {
-      "id": "air_fm_rainbow_delhi_in_21fd7e4e",
-      "title": "Air FM Rainbow Delhi",
-      "subtitle": "Radio",
-      "location": "India",
-      "genre": "Radio",
-      "countryCode": "IN",
-      "language": "hindi",
-      "clickCount": 11,
-      "bitrate": 32,
-      "streamUrl": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio004/hlspbaudio004_Auto.m3u8"
-    },
-    {
       "id": "redflow_in_f933fb9a",
       "title": "RedFlow",
       "subtitle": "Jazz",
@@ -27482,18 +27432,6 @@
       "streamUrl": "https://i5.streams.ovh:14036/live"
     },
     {
-      "id": "energy_94_2_gr_47b2b613",
-      "title": "Energy 94.2",
-      "subtitle": "Greek Pop",
-      "location": "Greece",
-      "genre": "Greek Pop",
-      "countryCode": "GR",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 128,
-      "streamUrl": "https://netradio.live24.gr/energy942art"
-    },
-    {
       "id": "akous_jazz_in_gr_f8cdb5a2",
       "title": "Akous Jazz in",
       "subtitle": "Radio",
@@ -27624,6 +27562,174 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "https://d1tmej9eu7kw5c.cloudfront.net/7b3a089ab67dcf3c/7b3a089ab67dcf3c.m3u8"
+    },
+    {
+      "id": "air_fm_rainbow_delhi_in_21fd7e4e",
+      "title": "Air FM Rainbow Delhi",
+      "subtitle": "Radio",
+      "location": "India",
+      "genre": "Radio",
+      "countryCode": "IN",
+      "language": "hindi",
+      "clickCount": 10,
+      "bitrate": 32,
+      "streamUrl": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio004/hlspbaudio004_Auto.m3u8"
+    },
+    {
+      "id": "air_indore_in_c5fc105c",
+      "title": "AIR Indore",
+      "subtitle": "Infotainment",
+      "location": "India",
+      "genre": "Infotainment",
+      "countryCode": "IN",
+      "language": "english",
+      "clickCount": 7,
+      "bitrate": 71,
+      "streamUrl": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio212/playlist.m3u8"
+    },
+    {
+      "id": "dromos_89_8_gr_230c0f03",
+      "title": "Dromos 89,8",
+      "subtitle": "Greek Music",
+      "location": "Greece",
+      "genre": "Greek Music",
+      "countryCode": "GR",
+      "language": "greek",
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "https://n07-eu1.rcs.revma.com/10q3enqxbfhvv"
+    },
+    {
+      "id": "station_gr_fa2245b0",
+      "title": "ΚΣΕΝΥΧΤΙΣ ΜΙΤΙΛΙΝΙ",
+      "subtitle": "Radio",
+      "location": "Greece",
+      "genre": "Radio",
+      "countryCode": "GR",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "http://play.streams.gr:22058/live"
+    },
+    {
+      "id": "air_bhopal_in_3ff59dd2",
+      "title": "AIR bhopal",
+      "subtitle": "Radio",
+      "location": "India",
+      "genre": "Radio",
+      "countryCode": "IN",
+      "language": "hindi",
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio212/chunklist.m3u8"
+    },
+    {
+      "id": "hindiretro_in_f0b8f868",
+      "title": "hindiretro",
+      "subtitle": "Radio",
+      "location": "India",
+      "genre": "Radio",
+      "countryCode": "IN",
+      "language": "hindi",
+      "clickCount": 6,
+      "bitrate": 64,
+      "streamUrl": "https://mirchiplaylive.akamaized.net/hls/live/2036929-b/MUM/MRETRO_Auto.m3u8"
+    },
+    {
+      "id": "alpha_fm_gi_8f56b2df",
+      "title": "Alpha FM",
+      "subtitle": "Radio",
+      "location": "Gibraltar",
+      "genre": "Radio",
+      "countryCode": "GI",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 64,
+      "streamUrl": "https://ice.fabricahost.com.br/alphafm1021"
+    },
+    {
+      "id": "super_fm_101_thessaloniki_gr_c44d86e0",
+      "title": "Super FM 101 Thessaloniki",
+      "subtitle": "Electronic",
+      "location": "Greece",
+      "genre": "Electronic",
+      "countryCode": "GR",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 160,
+      "streamUrl": "http://ice.greekstream.net/superfm"
+    },
+    {
+      "id": "99_gr_8909cd37",
+      "title": "Ελεύθερο Ραδιόφωνο 99",
+      "subtitle": "Greek Music",
+      "location": "Greece",
+      "genre": "Greek Music",
+      "countryCode": "GR",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://tls-chrome.live24.gr/3151?http://hyades.shoutca.st:8770/stream"
+    },
+    {
+      "id": "103_1_gr_f9ceba7d",
+      "title": "Ρυθμός Κομοτηνής 103.1",
+      "subtitle": "Greek Pop",
+      "location": "Greece",
+      "genre": "Greek Pop",
+      "countryCode": "GR",
+      "language": "greek",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "http://n0f.radiojar.com/v1hkvv4gk72vv?rj-ttl=5&rj-tok=AAABjd0FotAAL9v4MaEcDKg6Qg"
+    },
+    {
+      "id": "22_95_8_culture_channel_gr_90a13738",
+      "title": "22.ΕΡΑ 95.8 Culture Channel",
+      "subtitle": "Radio",
+      "location": "Greece",
+      "genre": "Radio",
+      "countryCode": "GR",
+      "language": "ancient greek",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "http://radiostreaming.ert.gr/ert-958fm"
+    },
+    {
+      "id": "2day_104_5_gr_945c3bf6",
+      "title": "2Day 104.5",
+      "subtitle": "Greek Pop",
+      "location": "Greece",
+      "genre": "Greek Pop",
+      "countryCode": "GR",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://premium.streams.gr/sc/2day1045/stream"
+    },
+    {
+      "id": "garavelas_gr_fb6aab0d",
+      "title": "Garavelas",
+      "subtitle": "Ballads",
+      "location": "Greece",
+      "genre": "Ballads",
+      "countryCode": "GR",
+      "language": "greek",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://n0e.radiojar.com/garavelas-radio-gr?rj-ttl=5&rj-tok=AAABeK42LeQA8G2zyOZSZXxhnA"
+    },
+    {
+      "id": "janadhwani_kannada_in_b1e71016",
+      "title": "Janadhwani Kannada",
+      "subtitle": "Radio",
+      "location": "India",
+      "genre": "Radio",
+      "countryCode": "IN",
+      "language": "kannada",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://d3n2o48cmfppr2.cloudfront.net/svymradio.m3u8"
     }
   ]
 }
