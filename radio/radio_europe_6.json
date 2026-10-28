@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-27T03:44:34Z",
+  "updated": "2026-10-28T04:03:54Z",
   "region": "europe",
   "part": 6,
   "of": 8,
@@ -1008,19 +1008,6 @@
       "countryCode": "IT",
       "language": "italian",
       "clickCount": 1,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_manbassa_9609a3bb",
-      "title": "Radio Manbassa",
-      "subtitle": "Adult Contemporary, Lecce",
-      "imageUrl": "",
-      "streamUrl": "http://91.121.90.186:8000/radiomanbassa",
-      "location": "Puglia, Italy",
-      "genre": "Adult Contemporary",
-      "countryCode": "IT",
-      "language": "italian",
-      "clickCount": 0,
       "bitrate": 128
     },
     {
@@ -12294,19 +12281,6 @@
       "bitrate": 256
     },
     {
-      "id": "rb2_impact_am_99c6eb69",
-      "title": "Impact AM",
-      "subtitle": "Music, Shortwave",
-      "imageUrl": "",
-      "streamUrl": "http://kippingmultimediaal.nl:8000/impactweb",
-      "location": "Zuid-Holland, The Netherlands",
-      "genre": "Music",
-      "countryCode": "NL",
-      "language": "dutch",
-      "clickCount": 0,
-      "bitrate": 320
-    },
-    {
       "id": "rb2_impact_radio_fa4918fa",
       "title": "Impact Radio",
       "subtitle": "Ad Free, Commercial Free",
@@ -18593,19 +18567,6 @@
       "genre": "Jazz",
       "countryCode": "NO",
       "streamUrl": "http://cdn0-47115-liveicecast0.dna.contentdelivery.net/jazz_mp3_h"
-    },
-    {
-      "id": "rb2_1fm_jazz_81564356",
-      "title": "1FM Jazz",
-      "subtitle": "Jazz",
-      "imageUrl": "https://www.1fmmolde.com/uploads/1/2/2/5/122527073/jazz_orig.png",
-      "streamUrl": "https://lyd.1fm.no/1fmjazz_mq?rp_source=1",
-      "location": "Møre og Romsdal, Norway",
-      "genre": "Jazz",
-      "countryCode": "NO",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 128
     },
     {
       "id": "1fm_molde_no",
@@ -26867,18 +26828,6 @@
       "streamUrl": "https://stream.radiokrs.me:8443/lq.mp3"
     },
     {
-      "id": "radio_parsifal_it_cc974803",
-      "title": "Radio Parsifal",
-      "subtitle": "Italian Pop",
-      "location": "Italy",
-      "genre": "Italian Pop",
-      "countryCode": "IT",
-      "language": "italian",
-      "clickCount": 4,
-      "bitrate": 0,
-      "streamUrl": "http://onair11.xdevel.com:10044/;stream.mp3"
-    },
-    {
       "id": "taktas_fm_lt_3ad15b3d",
       "title": "Taktas FM",
       "subtitle": "Radio",
@@ -27585,6 +27534,66 @@
       "clickCount": 4,
       "bitrate": 192,
       "streamUrl": "https://server-67.stream-server.nl:8794/"
+    },
+    {
+      "id": "radio_skonto_chill_lv_af691d16",
+      "title": "Radio Skonto Chill",
+      "subtitle": "Chill Out",
+      "location": "Latvia",
+      "genre": "Chill Out",
+      "countryCode": "LV",
+      "language": "latvian",
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://streams.radioskonto.lv:8443/chill"
+    },
+    {
+      "id": "retro_fm_90_s_lv_df04b9e0",
+      "title": "Retro FM 90's",
+      "subtitle": "Disco",
+      "location": "Latvia",
+      "genre": "Disco",
+      "countryCode": "LV",
+      "language": "russian",
+      "clickCount": 5,
+      "bitrate": 96,
+      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/RETRO_LATVIJA_FM_70_80_90SAAC.aac"
+    },
+    {
+      "id": "radijo_musikii_lt_26dd207b",
+      "title": "Radijo Musikii",
+      "subtitle": "Radio",
+      "location": "Lithuania",
+      "genre": "Radio",
+      "countryCode": "LT",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream.radijo-musikii.net/radio/8000/radio.mp3"
+    },
+    {
+      "id": "flevoziekenomroep_fzo_aacplus_stream_nl_22638a77",
+      "title": "FlevoZiekenOmroep (FZO) AACPLUS stream",
+      "subtitle": "Various Pop Hits Oldies Easylistening Nederlands Top40 Nederlandstalig Hollands Dutch Hospitalradio Ziekenomroep",
+      "location": "The Netherlands",
+      "genre": "Various Pop Hits Oldies Easylistening Nederlands Top40 Nederlandstalig Hollands Dutch Hospitalradio Ziekenomroep",
+      "countryCode": "NL",
+      "language": "dutch",
+      "clickCount": 4,
+      "bitrate": 160,
+      "streamUrl": "http://stream1.fzo.nu/studio.aac"
+    },
+    {
+      "id": "radio_amsterdam_noord_nl_0d363036",
+      "title": "RADIO AMSTERDAM NOORD",
+      "subtitle": "Radio",
+      "location": "The Netherlands",
+      "genre": "Radio",
+      "countryCode": "NL",
+      "language": "dutch",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://cast5.asurahosting.com/proxy/radioams/stream"
     }
   ]
 }

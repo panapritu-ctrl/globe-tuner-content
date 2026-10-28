@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-27T03:44:34Z",
+  "updated": "2026-10-28T04:03:54Z",
   "region": "americas",
   "part": 2,
   "of": 5,
@@ -22865,19 +22865,6 @@
       "streamUrl": "http://grupomundodigital.com:8673/live"
     },
     {
-      "id": "rb2_la99radio_52d11eb5",
-      "title": "La99Radio",
-      "subtitle": "Radio",
-      "imageUrl": "https://www.la99radio.com/wp-content/uploads/2023/02/La99Radio180x180.png",
-      "streamUrl": "https://cast10.plugstreaming.com/stream/la99fm",
-      "location": "Ecuador",
-      "genre": "Radio",
-      "countryCode": "EC",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 64
-    },
-    {
       "id": "los_40_ecuador_ec_43003d",
       "title": "Los 40 Ecuador",
       "subtitle": "Música Pop",
@@ -23695,30 +23682,6 @@
       "clickCount": 5,
       "bitrate": 40,
       "streamUrl": "https://radiomotiva.edz.cl/motiva"
-    },
-    {
-      "id": "radio_universidad_nacional_co_710e5d45",
-      "title": "Radio Universidad Nacional",
-      "subtitle": "Music",
-      "location": "Colombia",
-      "genre": "Music",
-      "countryCode": "CO",
-      "language": "spanish",
-      "clickCount": 4,
-      "bitrate": 128,
-      "streamUrl": "https://radio.unal.edu.co/streaming/bogota/stream.mp3"
-    },
-    {
-      "id": "radio_unal_bogota_co_9b9dfd54",
-      "title": "Radio UNAL Bogota",
-      "subtitle": "University",
-      "location": "Colombia",
-      "genre": "University",
-      "countryCode": "CO",
-      "language": "spanish",
-      "clickCount": 4,
-      "bitrate": 128,
-      "streamUrl": "https://radio.unal.edu.co/streaming/bogota/;stream.mp3"
     },
     {
       "id": "el_sol_cali_co_f4bd1913",
@@ -27393,18 +27356,6 @@
       "streamUrl": "https://radio.raxito.cl/listen/rfm/radio-browser.mp3"
     },
     {
-      "id": "cfox_99_3_vancouver_bc_ca_f3a93dd8",
-      "title": "CFOX 99.3 Vancouver, BC",
-      "subtitle": "Alternative Rock",
-      "location": "Canada",
-      "genre": "Alternative Rock",
-      "countryCode": "CA",
-      "language": "english",
-      "clickCount": 5,
-      "bitrate": 128,
-      "streamUrl": "http://live.leanstream.co/CFOXFM-MP3"
-    },
-    {
       "id": "radio_cristo_vive_en_mi_cl_0ee6fb0f",
       "title": "Radio Cristo Vive en Mi",
       "subtitle": "Radio Cristiana",
@@ -27427,18 +27378,6 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://streaming.chiloestreaming.com:9654/stream"
-    },
-    {
-      "id": "melod_a_stereo_co_54476918",
-      "title": "Melodía Stereo",
-      "subtitle": "Noticias",
-      "location": "Colombia",
-      "genre": "Noticias",
-      "countryCode": "CO",
-      "language": "spanish",
-      "clickCount": 4,
-      "bitrate": 146,
-      "streamUrl": "https://r90.letio.com/io/?gs=7000&type=master.m3u8"
     },
     {
       "id": "cadena_roja_cu_bc6c24b4",
@@ -28245,18 +28184,6 @@
       "streamUrl": "https://psoup.art/radio/focus.mp3"
     },
     {
-      "id": "cjxy_107_9_y108_burlington_on_ca_1acfd065",
-      "title": "CJXY 107.9 \"Y108\" Burlington, ON",
-      "subtitle": "Burlington",
-      "location": "Canada",
-      "genre": "Burlington",
-      "countryCode": "CA",
-      "language": "english",
-      "clickCount": 4,
-      "bitrate": 128,
-      "streamUrl": "http://live.leanstream.co/CJXYFM-MP3"
-    },
-    {
       "id": "cism_89_3_ca_db347f84",
       "title": "CISM 89.3",
       "subtitle": "Commercial",
@@ -28459,6 +28386,138 @@
       "clickCount": 3,
       "bitrate": 128,
       "streamUrl": "https://radio.votvbroadcast.com/votv.mp3"
+    },
+    {
+      "id": "chks_fm_cool_106_3_sarnia_on_ca_577948b6",
+      "title": "CHKS-FM \"Cool 106.3\" Sarnia, ON",
+      "subtitle": "Classic Hits",
+      "location": "Canada",
+      "genre": "Classic Hits",
+      "countryCode": "CA",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 48,
+      "streamUrl": "http://live.leanstream.co/CHKSFM"
+    },
+    {
+      "id": "city_radio_pop_cl_e91ca3a4",
+      "title": "City Radio POP",
+      "subtitle": "Radio",
+      "location": "Chile",
+      "genre": "Radio",
+      "countryCode": "CL",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "http://cityradio.ddns.net:8000/citypop"
+    },
+    {
+      "id": "global_1_fm_radio_ca_ef67b489",
+      "title": "Global 1 FM Radio",
+      "subtitle": "Radio",
+      "location": "Canada",
+      "genre": "Radio",
+      "countryCode": "CA",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://hq2.stationhq.io/global1fmradio/stream"
+    },
+    {
+      "id": "radio_canada_ici_premi_re_montr_al_ca_024fa8f8",
+      "title": "Radio-Canada Ici Première - Montréal",
+      "subtitle": "Radio",
+      "location": "Canada",
+      "genre": "Radio",
+      "countryCode": "CA",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/CBFFM_SRC.mp3"
+    },
+    {
+      "id": "melod_a_stereo_co_54476918",
+      "title": "Melodía Stereo",
+      "subtitle": "Noticias",
+      "location": "Colombia",
+      "genre": "Noticias",
+      "countryCode": "CO",
+      "language": "spanish",
+      "clickCount": 3,
+      "bitrate": 146,
+      "streamUrl": "https://r90.letio.com/io/?gs=7000&type=master.m3u8"
+    },
+    {
+      "id": "emisora_atl_ntico_1070_am_co_c8e30eb1",
+      "title": "Emisora Atlántico 1070 AM",
+      "subtitle": "50S",
+      "location": "Colombia",
+      "genre": "50S",
+      "countryCode": "CO",
+      "language": "spanish",
+      "clickCount": 3,
+      "bitrate": 146,
+      "streamUrl": "https://master.letio.com/io/?gs=9104&type=live.m3u8"
+    },
+    {
+      "id": "radio_cimarrona_do_37f09154",
+      "title": "Radio Cimarrona",
+      "subtitle": "Community Radio",
+      "location": "The Dominican Republic",
+      "genre": "Community Radio",
+      "countryCode": "DO",
+      "language": "spanish",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "http://radiocimarrona.out.airtime.pro:8000/radiocimarrona_a"
+    },
+    {
+      "id": "genial_fm_do_595dfc85",
+      "title": "Genial FM",
+      "subtitle": "Radio",
+      "location": "The Dominican Republic",
+      "genre": "Radio",
+      "countryCode": "DO",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 112,
+      "streamUrl": "https://nexostream.net:8040/live"
+    },
+    {
+      "id": "lago_fm_brutalmente_joven_do_2ceeeea8",
+      "title": "Lago FM - Brutalmente Joven",
+      "subtitle": "Mix",
+      "location": "The Dominican Republic",
+      "genre": "Mix",
+      "countryCode": "DO",
+      "language": "spanish",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://cast6.asurahosting.com/proxy/deivy/stream"
+    },
+    {
+      "id": "estelar_106_do_f062536e",
+      "title": "Estelar-106",
+      "subtitle": "Latino",
+      "location": "The Dominican Republic",
+      "genre": "Latino",
+      "countryCode": "DO",
+      "language": "spanish",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://radio.dominiserver.com/proxy/estelar106?mp=/stream"
+    },
+    {
+      "id": "salero_radio_do_f378c32f",
+      "title": "Salero Radio",
+      "subtitle": "Radio",
+      "location": "The Dominican Republic",
+      "genre": "Radio",
+      "countryCode": "DO",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://streaming.fastglobalserver.com:8122/stream"
     }
   ]
 }

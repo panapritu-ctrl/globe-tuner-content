@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-27T03:44:34Z",
+  "updated": "2026-10-28T04:03:54Z",
   "region": "europe",
   "part": 7,
   "of": 8,
@@ -7747,15 +7747,6 @@
       "bitrate": 128
     },
     {
-      "id": "europa_fm_ro_961d41",
-      "title": "Europa FM",
-      "subtitle": "Music",
-      "location": "Romania",
-      "genre": "News",
-      "countryCode": "RO",
-      "streamUrl": "http://astreaming.europafm.ro:8000/europafm_aacp48k"
-    },
-    {
       "id": "rb2_europa_fm_aac_cae1ff66",
       "title": "Europa FM-AAC",
       "subtitle": "Radio",
@@ -10747,19 +10738,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_radio_oldies_romania_3c98d6c2",
-      "title": "Radio Oldies Romania",
-      "subtitle": "80'S, 80S",
-      "imageUrl": "https://www.radiooldies.ro/wp-content/uploads/2018/02/radiooldies-logo.png",
-      "streamUrl": "http://listen.radiooldies.ro:9200/;",
-      "location": "Romania",
-      "genre": "80'S",
-      "countryCode": "RO",
-      "language": "romanian",
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_radio_oradea_71b26ff0",
       "title": "Radio Oradea",
       "subtitle": "00S, 90S",
@@ -12606,19 +12584,6 @@
       "language": "romania",
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_vibe_fm_e08ec510",
-      "title": "Vibe FM",
-      "subtitle": "Pop, Romanian",
-      "imageUrl": "https://vibefm.ro/wp-content/uploads/2025/01/Logo-Vibe-FM-cu-slogan.png",
-      "streamUrl": "https://astreaming.vibefm.ro:8443/vibe_ro64",
-      "location": "Bucharest, Romania",
-      "genre": "Pop",
-      "countryCode": "RO",
-      "language": "romanian",
-      "clickCount": 1,
-      "bitrate": 64
     },
     {
       "id": "rb2_vibe_fm_romania_5b59f175",
@@ -21882,18 +21847,6 @@
       "streamUrl": "http://an.cdn.eurozet.pl/ANTCOV.mp3"
     },
     {
-      "id": "balamuc_fm_cluj_napoca_ro_f3dcb904",
-      "title": "Balamuc_Fm -Cluj Napoca",
-      "subtitle": "Manele",
-      "location": "Romania",
-      "genre": "Manele",
-      "countryCode": "RO",
-      "language": "română",
-      "clickCount": 3,
-      "bitrate": 128,
-      "streamUrl": "https://asculta.muzicaok.de:8040/stream"
-    },
-    {
       "id": "station_ru_6b4a84f4",
       "title": "Серебряный дождь",
       "subtitle": "News Talk Music",
@@ -24702,18 +24655,6 @@
       "streamUrl": "http://asculta.radioveseliafolclor.com:8232/;"
     },
     {
-      "id": "naxi_exyu_radio_rs_cd758bf6",
-      "title": "Naxi ExYu Radio",
-      "subtitle": "Radio",
-      "location": "Serbia",
-      "genre": "Radio",
-      "countryCode": "RS",
-      "language": "serbian",
-      "clickCount": 19,
-      "bitrate": 128,
-      "streamUrl": "https://naxidigital-exyu128ssl.streaming.rs:8242/;stream.nsv"
-    },
-    {
       "id": "76_8_oceano_pacifico_pt_af88aa98",
       "title": "76,8 OCEANO PACIFICO",
       "subtitle": "Popular",
@@ -24952,18 +24893,6 @@
       "clickCount": 6,
       "bitrate": 128,
       "streamUrl": "http://necenzurat.radiotequila.ro:7000/;"
-    },
-    {
-      "id": "tequila_rom_nia_radio_dance_ro_bfa82f4f",
-      "title": "Tequila România -Radio Dance",
-      "subtitle": "Dance",
-      "location": "Romania",
-      "genre": "Dance",
-      "countryCode": "RO",
-      "language": "romania",
-      "clickCount": 5,
-      "bitrate": 128,
-      "streamUrl": "https://dance.radiotequila.ro/7000/stream"
     },
     {
       "id": "radio_petrec_retzu_ro_7009cace",
@@ -25350,18 +25279,6 @@
       "streamUrl": "https://stream-hls.bauermedia.pt/cidhiphop.aac/playlist.m3u8"
     },
     {
-      "id": "radio_flac_ra_rusaliilor_ro_7f741f6c",
-      "title": "Radio Flacăra Rusaliilor",
-      "subtitle": "Evangelical",
-      "location": "Romania",
-      "genre": "Evangelical",
-      "countryCode": "RO",
-      "language": "românä",
-      "clickCount": 4,
-      "bitrate": 128,
-      "streamUrl": "https://stream.radio-flacararusaliilor.ro/stream"
-    },
-    {
       "id": "station_ru_76a1081f",
       "title": "Радио Орфей - Классика крупных форм",
       "subtitle": "Classical",
@@ -25612,6 +25529,54 @@
       "clickCount": 4,
       "bitrate": 96,
       "streamUrl": "https://audio.radio.opole.pl/ro1aac"
+    },
+    {
+      "id": "naxi_exyu_radio_rs_cd758bf6",
+      "title": "Naxi ExYu Radio",
+      "subtitle": "Radio",
+      "location": "Serbia",
+      "genre": "Radio",
+      "countryCode": "RS",
+      "language": "serbian",
+      "clickCount": 17,
+      "bitrate": 128,
+      "streamUrl": "https://naxidigital-exyu128ssl.streaming.rs:8242/;stream.nsv"
+    },
+    {
+      "id": "star_fm_rom_nia_ro_d0ad7f8a",
+      "title": "STAR FM România",
+      "subtitle": "Dance",
+      "location": "Romania",
+      "genre": "Dance",
+      "countryCode": "RO",
+      "language": "romania",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://asculta.muzicaok.de:8060/stream"
+    },
+    {
+      "id": "radio_mackica_narodna_muzika_rs_53b5a0da",
+      "title": "Radio Mackica - Narodna Muzika",
+      "subtitle": "Radio",
+      "location": "Serbia",
+      "genre": "Radio",
+      "countryCode": "RS",
+      "language": "serbian",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "http://cast2.name.ba:8153/;stream.nsv"
+    },
+    {
+      "id": "schitul_sf_ntul_neagoe_vod_basarab_vl_de_ti_arge_ro_5bb3fedb",
+      "title": "Schitul Sfântul Neagoe Vodă Basarab, Vlădești, Argeș",
+      "subtitle": "Bisericesc",
+      "location": "Romania",
+      "genre": "Bisericesc",
+      "countryCode": "RO",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://radio.schitulvladestiarges.uk/live"
     }
   ]
 }

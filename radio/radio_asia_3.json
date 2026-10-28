@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-27T03:44:34Z",
+  "updated": "2026-10-28T04:03:54Z",
   "region": "asia",
   "part": 3,
   "of": 3,
@@ -5333,15 +5333,6 @@
       "language": "armenian",
       "clickCount": 1,
       "bitrate": 80
-    },
-    {
-      "id": "rayan_fm_sy_becb9c",
-      "title": "Rayan FM",
-      "subtitle": "Radio",
-      "location": "Syrian Arab Republic",
-      "genre": "Radio",
-      "countryCode": "SY",
-      "streamUrl": "https://broadcast.shoutstream.co.uk:8078/stream"
     },
     {
       "id": "rb_syria_tv_707a7780",
@@ -15250,18 +15241,6 @@
       "streamUrl": "https://radyo.gonulmisralari.com/listen/canli/radio.mp3"
     },
     {
-      "id": "93_5_mhz_radio_thailand_th_56bc5f35",
-      "title": "93.5 Mhz. radio Thailand",
-      "subtitle": "Radio",
-      "location": "Thailand",
-      "genre": "Radio",
-      "countryCode": "TH",
-      "language": "thai",
-      "clickCount": 4,
-      "bitrate": 0,
-      "streamUrl": "https://cdn-th2.login.in.th/shoutcast/8430"
-    },
-    {
       "id": "radyo_merkado_aklan_ph_fb779d94",
       "title": "Radyo Merkado Aklan",
       "subtitle": "Radio",
@@ -15982,18 +15961,6 @@
       "streamUrl": "https://stream.radiotedu.com/classic-flac"
     },
     {
-      "id": "brigada_news_fm_legazpi_ph_ed8433d2",
-      "title": "Brigada News FM Legazpi",
-      "subtitle": "Radio",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "language": null,
-      "clickCount": 6,
-      "bitrate": 128,
-      "streamUrl": "http://18.141.67.248:8048/stream/1/"
-    },
-    {
       "id": "radyo_bi_tli_s_eren_tr_f0a737ef",
       "title": "Radyo Bi̇tli̇s Eren",
       "subtitle": "Radio",
@@ -16016,18 +15983,6 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "https://canliyayin.semerkandradyo.com.tr/hls/Radyo/playlist.m3u8"
-    },
-    {
-      "id": "ulusal_arabesk_tr_6f8af610",
-      "title": "ULUSAL ARABESK",
-      "subtitle": "Radio",
-      "location": "Türkiye",
-      "genre": "Radio",
-      "countryCode": "TR",
-      "language": null,
-      "clickCount": 6,
-      "bitrate": 48,
-      "streamUrl": "https://radio.guventechnology.com/9334/stream"
     },
     {
       "id": "1188_dzxo_ph_a1a1775d",
@@ -16592,18 +16547,6 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "http://stream.zenolive.com/ueychbrzv9duv"
-    },
-    {
-      "id": "amen24_ps_af110146",
-      "title": "Amen24",
-      "subtitle": "Radio",
-      "location": "State Of Palestine",
-      "genre": "Radio",
-      "countryCode": "PS",
-      "language": null,
-      "clickCount": 5,
-      "bitrate": 128,
-      "streamUrl": "https://rstream.hadara.ps/proxy/amen24/stream"
     },
     {
       "id": "radio_o_zbegim_taronasi_uz_392d469a",
@@ -17240,6 +17183,66 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "https://vnno-ne-2-tf-multi-playlist-zmp3.zmdcdn.me/Wbo0diyYozY/zhls/playback-realtime/audio/e75e51f26db784e9dda6/audio.m3u8"
+    },
+    {
+      "id": "hai_phong_fm_102_2_vn_402940cc",
+      "title": "Hai Phong FM 102.2",
+      "subtitle": "Hai-Phong",
+      "location": "Vietnam",
+      "genre": "Hai-Phong",
+      "countryCode": "VN",
+      "language": "vietnamese",
+      "clickCount": 7,
+      "bitrate": 73,
+      "streamUrl": "https://cdn.thhp.vn/live/285c1421f29d05045909836b37313898e2f/playlist.m3u8"
+    },
+    {
+      "id": "vov3_vn_541d5e8f",
+      "title": "VOV3",
+      "subtitle": "Entertainment",
+      "location": "Vietnam",
+      "genre": "Entertainment",
+      "countryCode": "VN",
+      "language": "vietnamese",
+      "clickCount": 6,
+      "bitrate": 72,
+      "streamUrl": "https://audio-lss.vov.vn/live/vov3.m3u8"
+    },
+    {
+      "id": "k5_news_fm_bacolod_ph_1811d0cc",
+      "title": "K5 News FM Bacolod",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 48,
+      "streamUrl": "http://209.126.124.126:8572/stream"
+    },
+    {
+      "id": "ok_fm_legazpi_ph_5b43f036",
+      "title": "OK-FM Legazpi",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 102,
+      "streamUrl": "https://s2.netradiostation.com/proxy/dwgb?mp=/stream"
+    },
+    {
+      "id": "95_9_xfm_gensan_ph_ae45bc28",
+      "title": "95.9 XFM Gensan",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://37.157.242.102:18607/stream"
     }
   ]
 }
