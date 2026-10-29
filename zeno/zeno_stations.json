@@ -1,6 +1,6 @@
 {
-  "version": 78,
-  "updated": "2026-10-28T09:36:13Z",
+  "version": 79,
+  "updated": "2026-10-29T09:49:33Z",
   "stations": [
     {
       "id": "80s80s_radio_de_9adaa6e1",
@@ -4930,15 +4930,6 @@
       "genre": "News",
       "streamUrl": "https://streaming-live.rtp.pt/liveradio/antena180a/playlist.m3u8?DVR",
       "countryCode": "PT"
-    },
-    {
-      "id": "rocker_r_di_hu_cd20adeb",
-      "title": "Rocker Rádió",
-      "subtitle": "MP3",
-      "location": "nincs, Hungary",
-      "genre": "Radio",
-      "streamUrl": "https://rockerradio.online/live.mp3",
-      "countryCode": "HU"
     },
     {
       "id": "dr_p4_midt_vest_dk_3ea9954b",
@@ -11127,15 +11118,6 @@
       "streamUrl": "https://www.happyhardcore.com/livestreams/p/u9/"
     },
     {
-      "id": "mbc_fm_kr_a415eeb7",
-      "title": "MBC FM",
-      "subtitle": "AAC",
-      "location": "Seoul, The Republic Of Korea",
-      "genre": "Radio",
-      "streamUrl": "https://minisw.imbc.com/dsfm/_definst_/sfm.stream/playlist.m3u8?_lsu_sa_=6C213512E3C43554E848B5673E913F49B59D3FC5B40AD2F731504DaDE68337067Ca0335932D2E64250DC392137b981CF67A36F3A6FEBBF4E377CAE80B9C5D70FC366EDDFB9A480245DF74EE8AEA1B20F31FD6B1C3F0D5138FAB535560F5C3DF5001B4C9A10D1D5DCD4FEF65BD33D045B",
-      "countryCode": "KR"
-    },
-    {
       "id": "raadio_elmar_ee_4e1c8ba6",
       "title": "Raadio Elmar",
       "subtitle": "AAC",
@@ -11347,6 +11329,202 @@
       "location": "Madrid, Spain",
       "genre": "Radio",
       "streamUrl": "http://flucast28-h-cloud.flumotion.com/cope/rockfm.aac",
+      "countryCode": "ES"
+    },
+    {
+      "id": "977_oldies_us_e3b26ebe",
+      "title": ".977 Oldies",
+      "subtitle": "MP3",
+      "location": "Florida, The United States Of America",
+      "genre": "Oldies",
+      "streamUrl": "http://29318.live.streamtheworld.com/977_OLDIES_SC",
+      "countryCode": "US"
+    },
+    {
+      "id": "vox_fm_pl_b6fc324d",
+      "title": "VOX FM",
+      "subtitle": "MP3",
+      "location": "Poland",
+      "genre": "Radio",
+      "streamUrl": "http://ic1.smcdn.pl/3990-1.mp3",
+      "countryCode": "PL"
+    },
+    {
+      "id": "mdr_klassik_de_9d51d9b4",
+      "title": "MDR Klassik",
+      "subtitle": "MP3",
+      "location": "Germany",
+      "genre": "Classical",
+      "streamUrl": "http://mdr-284350-0.sslcast.mdr.de/mdr/284350/0/mp3/high/stream.mp3",
+      "countryCode": "DE"
+    },
+    {
+      "id": "vibra_bogot_104_9_fm_co_d3e91972",
+      "title": "Vibra Bogotá 104.9 FM",
+      "subtitle": "AAC+",
+      "location": "Bogotá, Colombia",
+      "genre": "Colombian Music",
+      "streamUrl": "http://24253.live.streamtheworld.com/VIBRAAAC_SC",
+      "countryCode": "CO"
+    },
+    {
+      "id": "joy_fm_tr_395ef0b5",
+      "title": "Joy Fm",
+      "subtitle": "AAC+",
+      "location": "Türkiye",
+      "genre": "International",
+      "streamUrl": "http://25703.live.streamtheworld.com/JOY_FMAAC_SC",
+      "countryCode": "TR"
+    },
+    {
+      "id": "hrt_radio_sljeme_hr_349033e0",
+      "title": "HRT Radio Sljeme",
+      "subtitle": "AAC+",
+      "location": "Croatia",
+      "genre": "Radio",
+      "streamUrl": "http://28573.live.streamtheworld.com/SLJEMEAAC_SC",
+      "countryCode": "HR"
+    },
+    {
+      "id": "xered_radio_red_1110_am_mexico_city_df_mx_9a9fba30",
+      "title": "XERED \"Radio RED\" 1110 AM Mexico City, DF",
+      "subtitle": "AAC+",
+      "location": "Distrito Federal, Mexico",
+      "genre": "Ciudad Mexico",
+      "streamUrl": "http://27063.live.streamtheworld.com/XERED_AMAAC_SC",
+      "countryCode": "MX"
+    },
+    {
+      "id": "cadena_ser_radio_valencia_es_733dc61a",
+      "title": "Cadena SER - Radio Valencia",
+      "subtitle": "MP3",
+      "location": "Valencia, Spain",
+      "genre": "Local News",
+      "streamUrl": "http://20043.live.streamtheworld.com/SER_VALENCIA_SC",
+      "countryCode": "ES"
+    },
+    {
+      "id": "radio_shadi_xx_456b3d08",
+      "title": "Radio Shadi",
+      "subtitle": "AAC",
+      "location": "Unknown",
+      "genre": "Radio",
+      "streamUrl": "https://ice9.securenetsystems.net/SHADI"
+    },
+    {
+      "id": "thairadio_96_5_thinking_th_95dab748",
+      "title": "ThaiRadio 96.5 thinking",
+      "subtitle": "UNKNOWN",
+      "location": "Thailand",
+      "genre": "Radio",
+      "streamUrl": "https://live-org-01-cdn.mcot.net/radiocdn_edge/fm965.stream_aac/chunklist.m3u8",
+      "countryCode": "TH"
+    },
+    {
+      "id": "radio_srf_1_ostschweiz_ch_6099fb21",
+      "title": "Radio SRF 1 Ostschweiz",
+      "subtitle": "AAC",
+      "location": "St. Gallen, Switzerland",
+      "genre": "Radio",
+      "streamUrl": "http://stream.srg-ssr.ch/srgssr/regi_ost/aac/96",
+      "countryCode": "CH"
+    },
+    {
+      "id": "exclusively_def_leppard_ae_b39e2744",
+      "title": "Exclusively - Def Leppard",
+      "subtitle": "MP3",
+      "location": "Dubai, The United Arab Emirates",
+      "genre": "Def Leppard",
+      "streamUrl": "https://streaming.exclusive.radio/er/defleppard/icecast.audio",
+      "countryCode": "AE"
+    },
+    {
+      "id": "asempa_fm_gh_b47e4862",
+      "title": "Asempa Fm",
+      "subtitle": "MP3",
+      "location": "Ghana",
+      "genre": "Entertainment",
+      "streamUrl": "https://mmg.streamguys1.com/AsempaFM-mp3?key=23f81ad063fc94d769b3f56668d742562a0645bb7ba0f5633dbce7d73d151195adfd4a7b4b2afeeff7fb81cf4ef6e790&awparams=playerid%3ASGplayer%3B&amsparams=playerid%3ASGplayer%3Bskey%3A1609843961148%3B&aw_0_req.gdpr=true&us_privacy=1YNN",
+      "countryCode": "GH"
+    },
+    {
+      "id": "pas_fm_jakarta_id_7947312e",
+      "title": "PAS FM Jakarta",
+      "subtitle": "AAC+",
+      "location": "Jakarta, Indonesia",
+      "genre": "Business",
+      "streamUrl": "https://i.klikhost.com/8266/stream",
+      "countryCode": "ID"
+    },
+    {
+      "id": "station_cn_8b2aa834",
+      "title": "江西文艺音乐广播",
+      "subtitle": "UNKNOWN",
+      "location": "China",
+      "genre": "Radio",
+      "streamUrl": "https://fm-live-pull.jxtvcn.com.cn/live-jxrtv/fm1034.m3u8",
+      "countryCode": "CN"
+    },
+    {
+      "id": "mdr_jump_de_a2fd49fe",
+      "title": "MDR Jump",
+      "subtitle": "MP3",
+      "location": "Germany",
+      "genre": "Youth",
+      "streamUrl": "http://mdr-284320-0.sslcast.mdr.de/mdr/284320/0/mp3/high/stream.mp3",
+      "countryCode": "DE"
+    },
+    {
+      "id": "el_fon_grafo_m_sica_las_24_horas_mx_16034f6a",
+      "title": "EL FONÓGRAFO: Música las 24 Horas",
+      "subtitle": "AAC+",
+      "location": "Ciudad de México, Mexico",
+      "genre": "América",
+      "streamUrl": "https://27033.live.streamtheworld.com:443/XEJP_AMAAC.aac",
+      "countryCode": "MX"
+    },
+    {
+      "id": "cope_santander_es_577bfae7",
+      "title": "COPE Santander",
+      "subtitle": "MP3",
+      "location": "Cantabria, Spain",
+      "genre": "Entertainment",
+      "streamUrl": "http://wecast02-h-cloud.flumotion.com/copesedes/santander.mp3",
+      "countryCode": "ES"
+    },
+    {
+      "id": "rainwave_chiptunes_xx_454197dc",
+      "title": "Rainwave Chiptunes",
+      "subtitle": "MP3",
+      "location": "Unknown",
+      "genre": "Radio",
+      "streamUrl": "https://relay.rainwave.cc/chiptune.mp3"
+    },
+    {
+      "id": "radio_srf_1_zentralschweiz_ch_35219421",
+      "title": "Radio SRF 1 Zentralschweiz",
+      "subtitle": "AAC",
+      "location": "Switzerland",
+      "genre": "Radio",
+      "streamUrl": "http://stream.srg-ssr.ch/srgssr/regi_zentr/aac/96",
+      "countryCode": "CH"
+    },
+    {
+      "id": "80s80s_in_the_mix_de_dd31ab13",
+      "title": "80s80s In The Mix",
+      "subtitle": "MP3",
+      "location": "Germany",
+      "genre": "80S",
+      "streamUrl": "http://regiocast.streamabc.net/regc-80s80smix8012507-mp3-192-3015055?sABC=6nr12383%230%236q8s7o7o3p7411o9n0871834qs5r90so%23fgernzf.80f80f.qr&aw_0_1st.playerid=streams.80s80s.de&amsparams=playerid:streams.80s80s.de;skey:1793139587",
+      "countryCode": "DE"
+    },
+    {
+      "id": "cope_cartagena_es_de6af935",
+      "title": "COPE Cartagena",
+      "subtitle": "MP3",
+      "location": "Región de Murcia, Spain",
+      "genre": "Culture",
+      "streamUrl": "http://wecast02-o-cloud.flumotion.com/copesedes/cartagena.mp3",
       "countryCode": "ES"
     }
   ]
