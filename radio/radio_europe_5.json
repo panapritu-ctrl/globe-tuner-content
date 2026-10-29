@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-28T04:03:54Z",
+  "updated": "2026-10-29T04:26:32Z",
   "region": "europe",
   "part": 5,
   "of": 8,
@@ -16613,15 +16613,6 @@
       "bitrate": 128
     },
     {
-      "id": "midwest_radio_aac_ie_96159c",
-      "title": "Midwest Radio [AAC]",
-      "subtitle": "Variety",
-      "location": "Ireland",
-      "genre": "Variety",
-      "streamUrl": "http://tx.sharp-stream.com/icecast.php?i=midwestfmie2.aac",
-      "countryCode": "IE"
-    },
-    {
       "id": "rb2_midwest_radio_mp3_96159ba6",
       "title": "Midwest Radio [MP3]",
       "subtitle": "Variety",
@@ -17506,19 +17497,6 @@
       "language": "english",
       "clickCount": 3,
       "bitrate": 192
-    },
-    {
-      "id": "rb2_xt_independent_alternate_de9ea92b",
-      "title": "XT independent alternate",
-      "subtitle": "Alternative / Indie, Alternative Rock",
-      "imageUrl": "",
-      "streamUrl": "http://xt.stream.ie/xt",
-      "location": "Ireland",
-      "genre": "Alternative / Indie",
-      "countryCode": "IE",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 64
     },
     {
       "id": "zenith_classic_rock_ie_609877",
@@ -21948,19 +21926,6 @@
       "genre": "Radio",
       "countryCode": "IT",
       "streamUrl": "https://stream.rds.radio/audio/rds.stream_aac64/chunklist.m3u8"
-    },
-    {
-      "id": "rb2_rds_avola_107d8676",
-      "title": "RDS Avola",
-      "subtitle": "Radio",
-      "imageUrl": "https://www.rdsavola.it/img/core-img/favicon.ico",
-      "streamUrl": "https://be.server89.com:10989/stream.mp3",
-      "location": "Italy",
-      "genre": "Radio",
-      "countryCode": "IT",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
     },
     {
       "id": "rds_next_it_ac4b6d",
@@ -27882,6 +27847,42 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "https://streamcdng2-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/radiounoita1/hls/radiounoita1_320/chunklist.m3u8"
+    },
+    {
+      "id": "music_star_rolling_stones_it_9109e709",
+      "title": "MUSIC STAR Rolling Stones",
+      "subtitle": "Mediaset",
+      "location": "Italy",
+      "genre": "Mediaset",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://icy.unitedradio.it/VirginSpecialEvent.mp3"
+    },
+    {
+      "id": "rds_radio_dimensione_suono_it_6bb4eacc",
+      "title": "RDS - Radio Dimensione Suono",
+      "subtitle": "Hits",
+      "location": "Italy",
+      "genre": "Hits",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 4,
+      "bitrate": 129,
+      "streamUrl": "https://stream.rds.radio/audio/rds.stream_aac/playlist.m3u8"
+    },
+    {
+      "id": "radio_kirschdrops_it_0ae5f380",
+      "title": "Radio Kirschdrops",
+      "subtitle": "Alternative",
+      "location": "Italy",
+      "genre": "Alternative",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://stream.raffaelerutigliano.com/kirschdrops.mp3"
     }
   ]
 }

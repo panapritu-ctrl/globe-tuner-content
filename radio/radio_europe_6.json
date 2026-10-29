@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-28T04:03:54Z",
+  "updated": "2026-10-29T04:26:32Z",
   "region": "europe",
   "part": 6,
   "of": 8,
@@ -6597,19 +6597,6 @@
       "language": null,
       "clickCount": 2,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_relax_fm_100_hitu_e003d249",
-      "title": "Relax FM 100 Hitu",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://klausyk.radijas.lt/listen/100hitu/live",
-      "location": "Vilnius, Lithuania",
-      "genre": "Radio",
-      "countryCode": "LT",
-      "language": null,
-      "clickCount": 3,
-      "bitrate": 192
     },
     {
       "id": "rb2_relax_fm_sentimentai_267e2897",
@@ -19514,19 +19501,6 @@
       "bitrate": 192
     },
     {
-      "id": "rb2_s_rlandsradioen_6de3c1a3",
-      "title": "Sørlandsradioen",
-      "subtitle": "Radio",
-      "imageUrl": "https://sorlandsradioen.no/wp-content/uploads/2024/09/sorlandsradioen-logo-279h.png",
-      "streamUrl": "https://nettradio.sorlandsradioen.no/sorlandsradioen_hq",
-      "location": "Norway",
-      "genre": "Radio",
-      "countryCode": "NO",
-      "language": "norsk",
-      "clickCount": 0,
-      "bitrate": 160
-    },
-    {
       "id": "rb2_the_beat_9db8f4b3",
       "title": "The Beat",
       "subtitle": "Radio",
@@ -20888,19 +20862,6 @@
       "language": null,
       "clickCount": 0,
       "bitrate": 96
-    },
-    {
-      "id": "rb2_niepokalana_fm_9a7b21a0",
-      "title": "Niepokalana.FM",
-      "subtitle": "Christian, Church",
-      "imageUrl": "https://player.niepokalana.fm/static/uploads/album_art.1764693097.png",
-      "streamUrl": "http://stream2.technologicznie.net/niepokalana_fm.mp3",
-      "location": "Poland",
-      "genre": "Christian",
-      "countryCode": "PL",
-      "language": "polish",
-      "clickCount": 0,
-      "bitrate": 192
     },
     {
       "id": "rb2_norda_fm_238188f2",
@@ -27594,6 +27555,30 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://cast5.asurahosting.com/proxy/radioams/stream"
+    },
+    {
+      "id": "ziltradio_nl_025b3b92",
+      "title": "ZILTradio",
+      "subtitle": "70'S",
+      "location": "The Netherlands",
+      "genre": "70'S",
+      "countryCode": "NL",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://audio.cloudrad.io/a77e5da3/mp3"
+    },
+    {
+      "id": "s_rlandsradioen_no_077ff736",
+      "title": "Sørlandsradioen",
+      "subtitle": "Radio",
+      "location": "Norway",
+      "genre": "Radio",
+      "countryCode": "NO",
+      "language": "norsk",
+      "clickCount": 4,
+      "bitrate": 160,
+      "streamUrl": "https://nettradio.sorlandsradioen.no/sorlandsradioen_hq"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-28T04:03:54Z",
+  "updated": "2026-10-29T04:26:31Z",
   "region": "europe",
   "part": 7,
   "of": 8,
@@ -6930,19 +6930,6 @@
       "countryCode": "RO",
       "language": "română",
       "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_balcan_radio_manele_br_ila_f7b86492",
-      "title": "Balcan Radio Manele -Brăila",
-      "subtitle": "Music",
-      "imageUrl": "https://cdn.radoxo.com/images/romania/balcan-radio-manele.webp?v=1776790801",
-      "streamUrl": "https://radio.sonicpanel.ro/8112/stream",
-      "location": "Romania",
-      "genre": "Music",
-      "countryCode": "RO",
-      "language": "română",
-      "clickCount": 2,
       "bitrate": 128
     },
     {
@@ -24511,18 +24498,6 @@
       "streamUrl": "http://ic1.smcdn.pl/2380-1.mp3"
     },
     {
-      "id": "radio_mango_ai_pl_10ac27bf",
-      "title": "Radio Mango AI",
-      "subtitle": "Ai Music",
-      "location": "Poland",
-      "genre": "Ai Music",
-      "countryCode": "PL",
-      "language": "polish",
-      "clickCount": 3,
-      "bitrate": 0,
-      "streamUrl": "https://stream.radiomango.ai/listen/radio_mango_ai/radio.mp3"
-    },
-    {
       "id": "radio_macabrismix_pl_d97adbeb",
       "title": "Radio Macabrismix",
       "subtitle": "Dancehall",
@@ -25577,6 +25552,66 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://radio.schitulvladestiarges.uk/live"
+    },
+    {
+      "id": "europa_fm_ro_dac65b02",
+      "title": "Europa FM",
+      "subtitle": "Music",
+      "location": "Romania",
+      "genre": "Music",
+      "countryCode": "RO",
+      "language": "romanian",
+      "clickCount": 28,
+      "bitrate": 64,
+      "streamUrl": "http://astreaming.europafm.ro:8000/europafm_aacp48k"
+    },
+    {
+      "id": "palavra_antiga_kids_pt_2296814f",
+      "title": "Palavra Antiga Kids",
+      "subtitle": "Children",
+      "location": "Portugal",
+      "genre": "Children",
+      "countryCode": "PT",
+      "language": "portuguese",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://radio.palavraantiga.org/listen/kids/radio.mp3"
+    },
+    {
+      "id": "radio_tequila_dance_romania_ro_6af324bf",
+      "title": "Radio Tequila Dance Romania",
+      "subtitle": "Pop",
+      "location": "Romania",
+      "genre": "Pop",
+      "countryCode": "RO",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "http://dance.radiotequila.ro:7000/;stream.nsv"
+    },
+    {
+      "id": "naxi_jazz_radio_rs_5452c2c5",
+      "title": "Naxi Jazz Radio",
+      "subtitle": "Radio",
+      "location": "Serbia",
+      "genre": "Radio",
+      "countryCode": "RS",
+      "language": "serbian",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://naxidigital-jazz128ssl.streaming.rs:8172/;stream.nsv"
+    },
+    {
+      "id": "naxi_blues_rs_1cabca89",
+      "title": "Naxi Blues",
+      "subtitle": "Rock",
+      "location": "Serbia",
+      "genre": "Rock",
+      "countryCode": "RS",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://naxidigital-blues128ssl.streaming.rs:8312/;stream.nsv"
     }
   ]
 }

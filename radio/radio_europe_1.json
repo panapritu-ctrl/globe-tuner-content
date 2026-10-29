@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-28T04:03:54Z",
+  "updated": "2026-10-29T04:26:32Z",
   "region": "europe",
   "part": 1,
   "of": 8,
@@ -9206,19 +9206,6 @@
       "countryCode": "BG",
       "language": null,
       "clickCount": 1,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_k2_d5fccd5d",
-      "title": "Radio K2",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://stream.radiok2.bg:8000/rk2",
-      "location": "Bulgaria",
-      "genre": "Radio",
-      "countryCode": "BG",
-      "language": null,
-      "clickCount": 0,
       "bitrate": 128
     },
     {
@@ -23604,19 +23591,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_bigbeat_radio_be257b2c",
-      "title": "Bigbeat Radio",
-      "subtitle": "Hits",
-      "imageUrl": "",
-      "streamUrl": "http://www.radioking.com/play/leipzig-beatz",
-      "location": "Germany",
-      "genre": "Hits",
-      "countryCode": "DE",
-      "language": "german",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_blasmusikradio_dd7765c9",
       "title": "Blasmusikradio",
       "subtitle": "Blasmusik, Brass",
@@ -27104,18 +27078,6 @@
       "clickCount": 2,
       "bitrate": 128,
       "streamUrl": "https://eilo.org/streamer.php?ch=trance"
-    },
-    {
-      "id": "shinto_cz_031a03ce",
-      "title": "Shinto",
-      "subtitle": "Radio",
-      "location": "Czechia",
-      "genre": "Radio",
-      "countryCode": "CZ",
-      "language": "czech",
-      "clickCount": 3,
-      "bitrate": 192,
-      "streamUrl": "https://s49.myradiostream.com/8142/listen.mp3"
     },
     {
       "id": "cr_94_4_at_17cda85b",
@@ -32146,18 +32108,6 @@
       "streamUrl": "https://stream.zeno.fm/y6uk7h9uhkhvv"
     },
     {
-      "id": "novi_radio_biha_ba_42e06a58",
-      "title": "Novi Radio Bihać",
-      "subtitle": "Radio",
-      "location": "Bosnia And Herzegovina",
-      "genre": "Radio",
-      "countryCode": "BA",
-      "language": "bosnian",
-      "clickCount": 3,
-      "bitrate": 128,
-      "streamUrl": "https://webtvstream.bhtelecom.ba/novi_radio_bihac.m3u8"
-    },
-    {
       "id": "wdr_4_ostwestfalen_lippe_de_c4d3477a",
       "title": "WDR 4 Ostwestfalen-Lippe",
       "subtitle": "Oldies",
@@ -33380,6 +33330,90 @@
       "clickCount": 3,
       "bitrate": 96,
       "streamUrl": "http://79.106.48.2:8000/radiotiranafemije"
+    },
+    {
+      "id": "juvenilja_radio_al_095e68a7",
+      "title": "Juvenilja Radio",
+      "subtitle": "Jazz",
+      "location": "Albania",
+      "genre": "Jazz",
+      "countryCode": "AL",
+      "language": "albanian",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "http://37.27.204.229/juvr"
+    },
+    {
+      "id": "a_z_70s_de_29056a67",
+      "title": "A-Z 70s",
+      "subtitle": "70S",
+      "location": "Germany",
+      "genre": "70S",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://ip45.ip-164-132-158.eu/radio/8020/radio.mp3"
+    },
+    {
+      "id": "rpr1_chillout_de_f6ce1417",
+      "title": "RPR1. Chillout",
+      "subtitle": "Chillout",
+      "location": "Germany",
+      "genre": "Chillout",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://stream.rpr1.de/chillout/mp3-128/radiobrowser"
+    },
+    {
+      "id": "89_0_rtl_houseputz_de_b0e03c13",
+      "title": "89.0 RTL Houseputz",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://stream.89.0rtl.de/house-putz/mp3-256"
+    },
+    {
+      "id": "95_5_charivari_tom_novy_chillout_mix_de_b17c437a",
+      "title": "95.5 Charivari Tom Novy Chillout Mix",
+      "subtitle": "Balearic House",
+      "location": "Germany",
+      "genre": "Balearic House",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://live.stream.charivari.de/955charivari-tomnovychilloutmix/stream/mp3"
+    },
+    {
+      "id": "i_love_x_mas_de_cc5e913d",
+      "title": "i love x-mas",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://ilm.stream27.radiohost.de/ilm_ilovexmas_mp3-192?upd-meta&upd-scheme=https&_art=dD0xNzkzMDU3OTY5JmQ9NGU2NGE2ZGE2ODk4OWM0YjE4YWY"
+    },
+    {
+      "id": "fliedertee_radio_de_6efb2edb",
+      "title": "Fliedertee-Radio",
+      "subtitle": "Folk",
+      "location": "Germany",
+      "genre": "Folk",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://91.218.67.128:8000/radio.mp3"
     }
   ]
 }

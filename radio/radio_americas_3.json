@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-28T04:03:54Z",
+  "updated": "2026-10-29T04:26:32Z",
   "region": "americas",
   "part": 3,
   "of": 5,
@@ -9472,19 +9472,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_la_lupe_chetumal_95_3_fm_xhroo_fm_grupo__e2282d5c",
-      "title": "La Lupe (Chetumal) - 95.3 FM - XHROO-FM - Grupo SIPSE Radio - Chetumal, Quintana Roo",
-      "subtitle": "95.3 Fm, Baladas En Español",
-      "imageUrl": "",
-      "streamUrl": "https://cast4.asurahosting.com/proxy/radiocan/stream",
-      "location": "Quintana Roo, Mexico",
-      "genre": "95.3 Fm",
-      "countryCode": "MX",
-      "language": "spanish",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_la_lupe_reynosa_89_1_fm_xhcao_fm_radio_u_019d83ca",
       "title": "La Lupe (Reynosa) - 89.1 FM - XHCAO-FM - Radio United - Reynosa, Tamaulipas",
       "subtitle": "89.1 Fm, América",
@@ -10564,19 +10551,6 @@
       "language": "español mexico",
       "clickCount": 0,
       "bitrate": 93
-    },
-    {
-      "id": "rb2_la_tremenda_durango_96_5_fm_xhdng_fm_gru_f638c58a",
-      "title": "La Tremenda (Durango) - 96.5 FM - XHDNG-FM - Grupo Garza Limón - Durango, DG",
-      "subtitle": "96.5, 96.5 Fm",
-      "imageUrl": "https://durango.latremenda.com.mx/favicon.ico",
-      "streamUrl": "https://radio.latremenda.com.mx/Durango",
-      "location": "Durango, Mexico",
-      "genre": "96.5",
-      "countryCode": "MX",
-      "language": "spanish",
-      "clickCount": 2,
-      "bitrate": 185
     },
     {
       "id": "rb2_la_tremenda_fresnillo_98_5_fm_xhyq_fm_gr_9cfba130",
@@ -14918,19 +14892,6 @@
       "language": "spanish",
       "clickCount": 0,
       "bitrate": 256
-    },
-    {
-      "id": "rb2_switch_105_9_ciudad_ju_rez_61031a62",
-      "title": "Switch 105.9 Ciudad Juárez",
-      "subtitle": "00S En Español, 80S En Español",
-      "imageUrl": "",
-      "streamUrl": "https://stream.zeno.fm/xgb5q6s71rhvv",
-      "location": "Sinaloa, Mexico",
-      "genre": "00S En Español",
-      "countryCode": "MX",
-      "language": "español mexico",
-      "clickCount": 0,
-      "bitrate": 128
     },
     {
       "id": "rb2_switch_88_9_fm_mazatl_n_8728b72c",
@@ -26643,6 +26604,66 @@
       "clickCount": 4,
       "bitrate": 320,
       "streamUrl": "https://a9.asurahosting.com:7140/radio.mp3"
+    },
+    {
+      "id": "abc_cardinal_730am_py_a5c6bf73",
+      "title": "ABC Cardinal 730AM",
+      "subtitle": "News",
+      "location": "Paraguay",
+      "genre": "News",
+      "countryCode": "PY",
+      "language": "spanish",
+      "clickCount": 6,
+      "bitrate": 64,
+      "streamUrl": "https://ny1.radio.primcast.com/8342/stream"
+    },
+    {
+      "id": "la_mejor_99_3_tepic_mx_a329b54a",
+      "title": "La mejor 99.3 Tepic",
+      "subtitle": "Banda",
+      "location": "Mexico",
+      "genre": "Banda",
+      "countryCode": "MX",
+      "language": "español mexico",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHCCBFM.mp3"
+    },
+    {
+      "id": "n_cleo_fm_mx_ded120ac",
+      "title": "Núcleo FM",
+      "subtitle": "Pop Music",
+      "location": "Mexico",
+      "genre": "Pop Music",
+      "countryCode": "MX",
+      "language": "cdmx",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://listen.openstream.co/7485/audio"
+    },
+    {
+      "id": "radio_respuesta_pe_55b5a7e9",
+      "title": "Radio Respuesta",
+      "subtitle": "Entretenimiento",
+      "location": "Peru",
+      "genre": "Entretenimiento",
+      "countryCode": "PE",
+      "language": "spanish",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://streamlive2.hearthis.at:8000/9417449.ogg"
+    },
+    {
+      "id": "radio_top_milenium_91_5_fm_py_f739a038",
+      "title": "Radio Top Milenium 91.5 FM",
+      "subtitle": "Dance",
+      "location": "Paraguay",
+      "genre": "Dance",
+      "countryCode": "PY",
+      "language": "español asunción",
+      "clickCount": 4,
+      "bitrate": 48,
+      "streamUrl": "http://sonic.host-live.com:8398/stream"
     }
   ]
 }

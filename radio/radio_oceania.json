@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-28T04:03:54Z",
+  "updated": "2026-10-29T04:26:31Z",
   "region": "oceania",
   "stations": [
     {
@@ -3219,19 +3219,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_australian_digital_radio_network_1960s_p_3e21849e",
-      "title": "Australian Digital Radio Network - 1960s Pop Number 1s (MP3)",
-      "subtitle": "1960S, Pop",
-      "imageUrl": "http://www.australiandigitalradio.com/favicon.ico",
-      "streamUrl": "http://abm21.com.au:8000/CONTAINER77",
-      "location": "Sydney NSW, Australia",
-      "genre": "1960S",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_australian_digital_radio_network_1970s_a_3ecde03b",
       "title": "Australian Digital Radio Network - 1970s Alternative (MP3)",
       "subtitle": "1970S, Alternative",
@@ -3255,19 +3242,6 @@
       "countryCode": "AU",
       "language": "english",
       "clickCount": 1,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_australian_digital_radio_network_1970s_p_b8e1f81d",
-      "title": "Australian Digital Radio Network - 1970s Pop Number 1s (MP3)",
-      "subtitle": "1970S, Pop",
-      "imageUrl": "http://www.australiandigitalradio.com/favicon.ico",
-      "streamUrl": "http://abm21.com.au:8000/CONTAINER81",
-      "location": "Sydney NSW, Australia",
-      "genre": "1970S",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
       "bitrate": 128
     },
     {
@@ -3622,19 +3596,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_australian_digital_radio_network_britpop_cc6204a7",
-      "title": "Australian Digital Radio Network - Britpop Best Selling All Time (MP3)",
-      "subtitle": "Britpop",
-      "imageUrl": "http://www.australiandigitalradio.com/favicon.ico",
-      "streamUrl": "http://abm21.com.au:8000/CONTAINER32",
-      "location": "Sydney NSW, Australia",
-      "genre": "Britpop",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_australian_digital_radio_network_britpop_59ec81e5",
       "title": "Australian Digital Radio Network - Britpop British Invasion 1960s (MP3)",
       "subtitle": "1960S, Britpop",
@@ -3681,19 +3642,6 @@
       "streamUrl": "http://abm21.com.au:8000/CONTAINER168",
       "location": "Sydney NSW, Australia",
       "genre": "Celine Dion",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_australian_digital_radio_network_chicago_6601a384",
-      "title": "Australian Digital Radio Network - Chicago (MP3)",
-      "subtitle": "Chicago",
-      "imageUrl": "",
-      "streamUrl": "http://abm22.com.au:8000/CONTAINER105",
-      "location": "Sydney NSW, Australia",
-      "genre": "Chicago",
       "countryCode": "AU",
       "language": "english",
       "clickCount": 0,
@@ -3863,19 +3811,6 @@
       "streamUrl": "http://abm21.com.au:8000/CONTAINER137",
       "location": "Sydney NSW, Australia",
       "genre": "1990S",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_australian_digital_radio_network_country_7694d938",
-      "title": "Australian Digital Radio Network - Country - 2000s Noughties (MP3)",
-      "subtitle": "2000S, Country",
-      "imageUrl": "",
-      "streamUrl": "http://abm21.com.au:8000/CONTAINER138",
-      "location": "Sydney NSW, Australia",
-      "genre": "2000S",
       "countryCode": "AU",
       "language": "english",
       "clickCount": 0,
@@ -4295,19 +4230,6 @@
       "countryCode": "AU",
       "language": "english",
       "clickCount": 1,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_australian_digital_radio_network_eric_cl_9645724c",
-      "title": "Australian Digital Radio Network - Eric Clapton (MP3)",
-      "subtitle": "Eric Clapton",
-      "imageUrl": "http://www.australiandigitalradio.com/favicon.ico",
-      "streamUrl": "http://abm22.com.au:8000/CONTAINER106",
-      "location": "Sydney NSW, Australia",
-      "genre": "Eric Clapton",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
       "bitrate": 128
     },
     {
@@ -16437,18 +16359,6 @@
       "streamUrl": "http://wz0lic.scahw.com.au/live/sleep.stream/playlist.m3u8"
     },
     {
-      "id": "australian_digital_radio_network_the_rolling_stones_mp3_au_d6af360e",
-      "title": "Australian Digital Radio Network - The Rolling Stones (MP3)",
-      "subtitle": "The Rolling Stones",
-      "location": "Australia",
-      "genre": "The Rolling Stones",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 3,
-      "bitrate": 128,
-      "streamUrl": "http://abm21.com.au:8000/CONTAINER149"
-    },
-    {
       "id": "5gtr_au_15c05c47",
       "title": "5GTR",
       "subtitle": "Community",
@@ -16975,6 +16885,54 @@
       "clickCount": 3,
       "bitrate": 128,
       "streamUrl": "http://abm21.com.au:8000/CONTAINER120"
+    },
+    {
+      "id": "listnr_indie_pop_hls_au_60ceceb0",
+      "title": "LiSTNR - Indie Pop (HLS)",
+      "subtitle": "Indie Pop",
+      "location": "Australia",
+      "genre": "Indie Pop",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 8,
+      "bitrate": 0,
+      "streamUrl": "http://wz0liw.scahw.com.au/live/indie-pop.stream/playlist.m3u8"
+    },
+    {
+      "id": "abc_radio_national_qld_au_a426e336",
+      "title": "ABC Radio National (QLD)",
+      "subtitle": "Arts",
+      "location": "Australia",
+      "genre": "Arts",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 6,
+      "bitrate": 115,
+      "streamUrl": "https://streaming.abc-cdn.net.au/audio/hls/rnqld.m3u8?source=web"
+    },
+    {
+      "id": "abc_classic_qld_au_d863d5ae",
+      "title": "ABC Classic (QLD)",
+      "subtitle": "Classical",
+      "location": "Australia",
+      "genre": "Classical",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 238,
+      "streamUrl": "https://streaming.abc-cdn.net.au/audio/hls/classicfmqld.m3u8?source=web"
+    },
+    {
+      "id": "abc_radio_national_sa_au_6c4a47f1",
+      "title": "ABC Radio National (SA)",
+      "subtitle": "Arts",
+      "location": "Australia",
+      "genre": "Arts",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 115,
+      "streamUrl": "https://streaming.abc-cdn.net.au/audio/hls/rnsa.m3u8?source=web"
     }
   ]
 }

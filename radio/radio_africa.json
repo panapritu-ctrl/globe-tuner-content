@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-28T04:03:53Z",
+  "updated": "2026-10-29T04:26:31Z",
   "region": "africa",
   "stations": [
     {
@@ -1141,19 +1141,6 @@
       "bitrate": 192
     },
     {
-      "id": "rb2_asempa_fm_68dd5238",
-      "title": "Asempa Fm",
-      "subtitle": "Entertainment, News",
-      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvvDQVvTFoGoa6mS_YzCiR6X_1wKA7SaTEuQ&usqp=CAU",
-      "streamUrl": "https://mmg.streamguys1.com/AsempaFM-mp3?key=23f81ad063fc94d769b3f56668d742562a0645bb7ba0f5633dbce7d73d151195adfd4a7b4b2afeeff7fb81cf4ef6e790&awparams=playerid%3ASGplayer%3B&amsparams=playerid%3ASGplayer%3Bskey%3A1609843961148%3B&aw_0_req.gdpr=true&us_privacy=1YNN",
-      "location": "Ghana",
-      "genre": "Entertainment",
-      "countryCode": "GH",
-      "language": "akan",
-      "clickCount": 3,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_asenteman_radio_06d67d5b",
       "title": "Asenteman Radio",
       "subtitle": "Music",
@@ -1425,19 +1412,6 @@
       "countryCode": "GH",
       "language": "akan",
       "clickCount": 2,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_luv_fm_ecd999a2",
-      "title": "Luv Fm",
-      "subtitle": "Entertainment, News",
-      "imageUrl": "https://player.streamguys.com/atunwa/mgl/luvfm/include/image/luvfm-logo.png",
-      "streamUrl": "https://mmg.streamguys1.com/LuvFM-mp3?key=64c68f3397eadf448520da5c47847f30b48defff1ca52821a9d5817e516774af24fe51fe4829d41ccf1b4b9d0eca1eec&awparams=playerid%3ASGplayer%3B&amsparams=playerid%3ASGplayer%3Bskey%3A1609844133655%3B&aw_0_req.gdpr=true&us_privacy=1YNN",
-      "location": "Ghana",
-      "genre": "Entertainment",
-      "countryCode": "GH",
-      "language": "akan",
-      "clickCount": 4,
       "bitrate": 128
     },
     {
@@ -4663,19 +4637,6 @@
       "genre": "News/Talk",
       "countryCode": "TZ",
       "streamUrl": "http://dreamsiteradiocp2.com:8034/stream"
-    },
-    {
-      "id": "rb_radio_mbiu_205b1a63",
-      "title": "Radio Mbiu",
-      "subtitle": "News, Sport",
-      "imageUrl": "",
-      "streamUrl": "http://dreamsiteradiocp5.com:8004/stream.mp3",
-      "location": "United Republic Of Tanzania",
-      "genre": "News",
-      "countryCode": "TZ",
-      "language": "swahili",
-      "clickCount": 6,
-      "bitrate": 64
     },
     {
       "id": "radio_one_stereo_tz_a8051d",
@@ -11726,18 +11687,6 @@
       "streamUrl": "https://stream.zeno.fm/fnkkuavm2y9vv"
     },
     {
-      "id": "att_coub_fm_ci_5d099f6b",
-      "title": "Attécoubé FM",
-      "subtitle": "Education",
-      "location": "Coted Ivoire",
-      "genre": "Education",
-      "countryCode": "CI",
-      "language": "french",
-      "clickCount": 3,
-      "bitrate": 128,
-      "streamUrl": "https://listen.radioking.com/radio/708230/stream/773741"
-    },
-    {
       "id": "alphaetomega_ci_6f28daaa",
       "title": "AlphaetOmega",
       "subtitle": "Christian",
@@ -12996,6 +12945,186 @@
       "clickCount": 3,
       "bitrate": 128,
       "streamUrl": "https://stream.laut.fm/frekansavrupa"
+    },
+    {
+      "id": "goradio_ng_ng_809ee63d",
+      "title": "GoRadio ng",
+      "subtitle": "Afrobeat",
+      "location": "Nigeria",
+      "genre": "Afrobeat",
+      "countryCode": "NG",
+      "language": "english",
+      "clickCount": 44,
+      "bitrate": 192,
+      "streamUrl": "https://online.goradio.com.ng/listen/gr/radio.mp3"
+    },
+    {
+      "id": "classic_105_ke_a9edb53a",
+      "title": "Classic 105",
+      "subtitle": "Classic Rock",
+      "location": "Kenya",
+      "genre": "Classic Rock",
+      "countryCode": "KE",
+      "language": "english",
+      "clickCount": 10,
+      "bitrate": 192,
+      "streamUrl": "https://classic105-atunwadigital.streamguys1.com/classic105"
+    },
+    {
+      "id": "radio_augusta_international_ci_4b9b3eb7",
+      "title": "Radio Augusta International",
+      "subtitle": "60S",
+      "location": "Coted Ivoire",
+      "genre": "60S",
+      "countryCode": "CI",
+      "language": "english",
+      "clickCount": 8,
+      "bitrate": 320,
+      "streamUrl": "https://ecmanager4.pro-fhi.net:2250/stream"
+    },
+    {
+      "id": "radio_citizen_ke_b8e40b18",
+      "title": "Radio Citizen",
+      "subtitle": "News",
+      "location": "Kenya",
+      "genre": "News",
+      "countryCode": "KE",
+      "language": "swahili",
+      "clickCount": 7,
+      "bitrate": 130,
+      "streamUrl": "https://radiocitizen-atunwadigital.streamguys1.com/radiocitizen/playlist.m3u8"
+    },
+    {
+      "id": "radio_maria_mo_ambique_mz_aec8ddb6",
+      "title": "Radio Maria Moçambique",
+      "subtitle": "Christian",
+      "location": "Mozambique",
+      "genre": "Christian",
+      "countryCode": "MZ",
+      "language": "portuguese",
+      "clickCount": 7,
+      "bitrate": 64,
+      "streamUrl": "https://dreamsiteradiocp2.com/proxy/rmmozambique2?mp=/stream"
+    },
+    {
+      "id": "radio_simba_ug_d5281621",
+      "title": "Radio Simba",
+      "subtitle": "Music",
+      "location": "Uganda",
+      "genre": "Music",
+      "countryCode": "UG",
+      "language": "luganda",
+      "clickCount": 7,
+      "bitrate": 96,
+      "streamUrl": "https://radiosimba-atunwadigital.streamguys1.com/radiosimba"
+    },
+    {
+      "id": "radio_phoenix_fm_zm_20d6e6d2",
+      "title": "Radio Phoenix FM",
+      "subtitle": "News",
+      "location": "Zambia",
+      "genre": "News",
+      "countryCode": "ZM",
+      "language": "english",
+      "clickCount": 7,
+      "bitrate": 48,
+      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_PHOENIXAAC_SC"
+    },
+    {
+      "id": "r_dio_terra_mz_f2248994",
+      "title": "Rádio Terra",
+      "subtitle": "News",
+      "location": "Mozambique",
+      "genre": "News",
+      "countryCode": "MZ",
+      "language": "portuguese",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://stream.zeno.fm/vinnpmoaqopvv"
+    },
+    {
+      "id": "lotus_fm_za_d854ebcf",
+      "title": "Lotus FM",
+      "subtitle": "Music",
+      "location": "South Africa",
+      "genre": "Music",
+      "countryCode": "ZA",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 48,
+      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOTUSFMAAC.aac"
+    },
+    {
+      "id": "radio_karixi_com_a_samba_nos_teus_ouvidos_ao_1b982bb2",
+      "title": "Radio Karixi.com - A Samba nos teus Ouvidos",
+      "subtitle": "Brazilian Music",
+      "location": "Angola",
+      "genre": "Brazilian Music",
+      "countryCode": "AO",
+      "language": "portuguese",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream.zeno.fm/fww0uref9w6tv"
+    },
+    {
+      "id": "radio_voice_of_the_cross_rvc_yaounde_cm_cf2b5bde",
+      "title": "Radio Voice of the Cross (RVC) - Yaounde",
+      "subtitle": "Christian",
+      "location": "Cameroon",
+      "genre": "Christian",
+      "countryCode": "CM",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://play.radioking.io/rvc-yaounde1"
+    },
+    {
+      "id": "hot_96_fm_ke_afffe200",
+      "title": "Hot 96 FM",
+      "subtitle": "Hits",
+      "location": "Kenya",
+      "genre": "Hits",
+      "countryCode": "KE",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 50,
+      "streamUrl": "https://hot96-atunwadigital.streamguys1.com/hot96/playlist.m3u8"
+    },
+    {
+      "id": "radio_sofala_fm_mz_dc0534ee",
+      "title": "Radio Sofala FM",
+      "subtitle": "Pop",
+      "location": "Mozambique",
+      "genre": "Pop",
+      "countryCode": "MZ",
+      "language": "portuguese",
+      "clickCount": 4,
+      "bitrate": 320,
+      "streamUrl": "https://radiosofala.mamahost.net/stream"
+    },
+    {
+      "id": "glow_99_1_fm_akure_ng_e2e7dc2c",
+      "title": "Glow 99.1 FM Akure",
+      "subtitle": "Entertainment",
+      "location": "Nigeria",
+      "genre": "Entertainment",
+      "countryCode": "NG",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream-176.zeno.fm/mwam2yirv1pvv"
+    },
+    {
+      "id": "culture_radio_105_7_fm_zm_ece4f54a",
+      "title": "Culture Radio 105.7 FM",
+      "subtitle": "African Music",
+      "location": "Zambia",
+      "genre": "African Music",
+      "countryCode": "ZM",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://ec4.yesstreaming.net:1555/stream"
     }
   ]
 }

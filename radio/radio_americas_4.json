@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-28T04:03:54Z",
+  "updated": "2026-10-29T04:26:32Z",
   "region": "americas",
   "part": 4,
   "of": 5,
@@ -5109,19 +5109,6 @@
       "language": null,
       "clickCount": 0,
       "bitrate": 64
-    },
-    {
-      "id": "rb2_flopradio_3e48e25b",
-      "title": "FlopRadio",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://cast6.my-control-panel.com/proxy/floptrop/stream",
-      "location": "The United States Of America",
-      "genre": "Radio",
-      "countryCode": "US",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
     },
     {
       "id": "rb2_folk_alley_fresh_cuts_58daf353",
@@ -18252,19 +18239,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_wgca_88_5_the_mix_positive_hits_quincy_i_d056b242",
-      "title": "WGCA 88.5 - The Mix Positive Hits Quincy, IL",
-      "subtitle": "Misc",
-      "imageUrl": "https://www.wgca.org/wp-content/uploads/2019/10/WGCA-Logo-w-tagline-RGB-low-res-768x420.jpg",
-      "streamUrl": "https://themix2.logonix.net:8443/high",
-      "location": "The United States Of America",
-      "genre": "Misc",
-      "countryCode": "US",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_wgfx_the_zone_104_5_fm_gallatin_tn_9634b185",
       "title": "WGFX \"The Zone\" 104.5 FM Gallatin, TN",
       "subtitle": "Gallatin, News",
@@ -24886,18 +24860,6 @@
       "streamUrl": "https://streams.kcrw.com/news24_aac"
     },
     {
-      "id": "gotradio_soft_rock_caf_us_2a74ef4d",
-      "title": "GotRadio - Soft Rock Café",
-      "subtitle": "Classic Rock",
-      "location": "The United States Of America",
-      "genre": "Classic Rock",
-      "countryCode": "US",
-      "language": "english",
-      "clickCount": 5,
-      "bitrate": 63,
-      "streamUrl": "https://pureplay.cdnstream1.com/6010_64.aac/playlist.m3u8"
-    },
-    {
       "id": "105_3_la_zeta_us_9a521e95",
       "title": "105.3 la ZETA",
       "subtitle": "Banda",
@@ -26084,6 +26046,102 @@
       "clickCount": 4,
       "bitrate": 256,
       "streamUrl": "https://ice2.somafm.com/groovesalad2-256-mp3"
+    },
+    {
+      "id": "hot_102_milwaukee_wi_us_f9dbb68c",
+      "title": "Hot 102 Milwaukee, WI",
+      "subtitle": "Classic Dance",
+      "location": "The United States Of America",
+      "genre": "Classic Dance",
+      "countryCode": "US",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://das-edge11-live365-dal03.cdnstream.com/a88336"
+    },
+    {
+      "id": "hope_radio_angel_4_us_77c0ab4c",
+      "title": "Hope Radio - Angel 4",
+      "subtitle": "Christian",
+      "location": "The United States Of America",
+      "genre": "Christian",
+      "countryCode": "US",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://mfcministries.digital:8000/xstream2"
+    },
+    {
+      "id": "united_fm_radio_us_fcf1bdaf",
+      "title": "United FM Radio",
+      "subtitle": "Metal",
+      "location": "The United States Of America",
+      "genre": "Metal",
+      "countryCode": "US",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://radio1.xn--9o8hpe.ws:7003/:stream"
+    },
+    {
+      "id": "this_just_in_old_time_radio_news_stupid_potato_us_3e3422b1",
+      "title": "This Just In - Old-Time Radio News (Stupid Potato)",
+      "subtitle": "1940S",
+      "location": "The United States Of America",
+      "genre": "1940S",
+      "countryCode": "US",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stupidpotato.com/this-just-in/live"
+    },
+    {
+      "id": "traplax_radio_us_95e1fd12",
+      "title": "trapLAX Radio",
+      "subtitle": "Radio",
+      "location": "The United States Of America",
+      "genre": "Radio",
+      "countryCode": "US",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://streaming.live365.com/a72952"
+    },
+    {
+      "id": "the_press_box_old_time_radio_sports_stupid_potato_us_bb4f38ab",
+      "title": "The Press Box - Old-time radio sports (Stupid Potato)",
+      "subtitle": "1940S",
+      "location": "The United States Of America",
+      "genre": "1940S",
+      "countryCode": "US",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stupidpotato.com/press-box/live"
+    },
+    {
+      "id": "classic_videogames_radio_us_6dafbc4a",
+      "title": "Classic Videogames Radio",
+      "subtitle": "Retro",
+      "location": "The United States Of America",
+      "genre": "Retro",
+      "countryCode": "US",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 96,
+      "streamUrl": "https://stream.rcast.net/1006029"
+    },
+    {
+      "id": "anarchy_factory_us_531fb5bb",
+      "title": "Anarchy Factory",
+      "subtitle": "Anarchy",
+      "location": "The United States Of America",
+      "genre": "Anarchy",
+      "countryCode": "US",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://cheetah.streemlion.com:2825/stream"
     }
   ]
 }

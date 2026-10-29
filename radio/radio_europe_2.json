@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-28T04:03:54Z",
+  "updated": "2026-10-29T04:26:31Z",
   "region": "europe",
   "part": 2,
   "of": 8,
@@ -22013,19 +22013,6 @@
       "bitrate": 192
     },
     {
-      "id": "rb_raadio_elmar_1ee96040",
-      "title": "Raadio Elmar",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://le06.euddn.net/06c6e9fec40c66f08e914c03863f9414453544f91420595482312a9fc4000bf6d1f2e38af14516a218d89b5a897a16f9500a64a80ed0da449f729d7f78de8bc5dcd07fb3a5925334697756f363102f773f78583b0e9c83bec1004f9b69bd211a11d59a39d295ac79d1f8c9848c83f83ffe16c9a65cb41f122ddcdc8c974c35a5f8d85b07cbd33b90325ddfd49b6a3e5666c05d27f019b6f1128741421b3d1e84/elmar.aac",
-      "location": "Estonia",
-      "genre": "Radio",
-      "countryCode": "EE",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 192
-    },
-    {
       "id": "raadio_kuku_ee_7288ee",
       "title": "Raadio KUKU",
       "subtitle": "Talk",
@@ -33674,6 +33661,66 @@
       "clickCount": 3,
       "bitrate": 128,
       "streamUrl": "http://server26678.streamplus.de/;stream.mp3"
+    },
+    {
+      "id": "raadio_elmar_ee_4e1c8ba6",
+      "title": "Raadio Elmar",
+      "subtitle": "Radio",
+      "location": "Estonia",
+      "genre": "Radio",
+      "countryCode": "EE",
+      "language": null,
+      "clickCount": 8,
+      "bitrate": 192,
+      "streamUrl": "https://le303.euddn.net/d002a9b8b91e1fd00f600ea428932e8e1cadaffe9308a0687ce89d6f6559cb46a69b17e73723763da150385112760c893e51c24b3718a85e731e2cf608e01d02f94c34b0d646a5f771008a70e49e074873aa548cc7d657f14b7b1f5740d096bd85e72347eedfba3b408bcd419cef1b98b92df3a19345c32670e202ea954aa30f859be69f573328fafca57d72f249acd03ff47d2014e36e0aed487b0332544f8fa4ec6ae9053a47abe7d920e546631969/elmar.aac"
+    },
+    {
+      "id": "ella_radio_livestream_de_9b48ab89",
+      "title": "Ella Radio Livestream",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "https://stream.ella-radio.de/ella-livestream/mp3-192/"
+    },
+    {
+      "id": "radiogaga_de_1c0f5a03",
+      "title": "radioGAGA",
+      "subtitle": "24/7",
+      "location": "Germany",
+      "genre": "24/7",
+      "countryCode": "DE",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://www.radiogaga.ai/hls/stream.m3u8"
+    },
+    {
+      "id": "laut_fm_ostwelle_de_60baef50",
+      "title": "Laut FM Ostwelle",
+      "subtitle": "Oldies",
+      "location": "Germany",
+      "genre": "Oldies",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://stream.laut.fm/ostwelle"
+    },
+    {
+      "id": "freies_b_rgerradio_slubfurt_de_c31d5cb7",
+      "title": "Freies BürgerRadio Slubfurt",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 320,
+      "streamUrl": "http://streaming.fueralle.org:8000/slubfurt"
     }
   ]
 }

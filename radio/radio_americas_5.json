@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-28T04:03:54Z",
+  "updated": "2026-10-29T04:26:32Z",
   "region": "americas",
   "part": 5,
   "of": 5,
@@ -1693,18 +1693,6 @@
       "streamUrl": "http://hestia2.cdnstream.com/1301_128"
     },
     {
-      "id": "amiga_fm_93_9_ve_37eaf186",
-      "title": "Amiga FM 93.9",
-      "subtitle": "Entretenimiento",
-      "location": "Bolivarian Republic Of Venezuela",
-      "genre": "Entretenimiento",
-      "countryCode": "VE",
-      "language": "spanish",
-      "clickCount": 6,
-      "bitrate": 0,
-      "streamUrl": "https://stream.zeno.fm/dr612ew61rhvv"
-    },
-    {
       "id": "fm_mundial_104_1_ve_6d0f1006",
       "title": "FM Mundial 104.1",
       "subtitle": "Radio",
@@ -2135,6 +2123,30 @@
       "clickCount": 4,
       "bitrate": 64,
       "streamUrl": "https://worldradio.online/proxy/?q=http://aler.org:8000/ciudadguayana.aac&plugin_id=13399&site_id=15942544"
+    },
+    {
+      "id": "hiperactiva_fm_uy_a03d9cd6",
+      "title": "Hiperactiva FM",
+      "subtitle": "Folk",
+      "location": "Uruguay",
+      "genre": "Folk",
+      "countryCode": "UY",
+      "language": "spanish",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://srv2.radiostreamuy.com:8016/stream"
+    },
+    {
+      "id": "chevere_100_7_fm_ve_4e1f9ed4",
+      "title": "Chevere 100.7 FM",
+      "subtitle": "Radio",
+      "location": "Bolivarian Republic Of Venezuela",
+      "genre": "Radio",
+      "countryCode": "VE",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 64,
+      "streamUrl": "http://streamingned.com:7342/stream"
     }
   ]
 }
