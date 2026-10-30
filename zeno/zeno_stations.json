@@ -1,6 +1,6 @@
 {
-  "version": 79,
-  "updated": "2026-10-29T09:49:33Z",
+  "version": 80,
+  "updated": "2026-10-30T09:55:30Z",
   "stations": [
     {
       "id": "80s80s_radio_de_9adaa6e1",
@@ -885,15 +885,6 @@
       "countryCode": "XK"
     },
     {
-      "id": "goxuan_my_1b8d8a40",
-      "title": "GOXUAN",
-      "subtitle": "AAC+",
-      "location": "Malaysia",
-      "genre": "Radio",
-      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/RAKITAAAC.aac",
-      "countryCode": "MY"
-    },
-    {
       "id": "exclusively_meat_loaf_sy_06eae4bd",
       "title": "Exclusively Meat Loaf",
       "subtitle": "MP3",
@@ -1180,15 +1171,6 @@
       "genre": "Radio",
       "streamUrl": "https://alphaboys-live.streamguys1.com/alphaboys.aac",
       "countryCode": "JM"
-    },
-    {
-      "id": "radio_cima_100_5_do_b48ccd7d",
-      "title": "Radio Cima 100.5",
-      "subtitle": "AAC+",
-      "location": "The Dominican Republic",
-      "genre": "Radio",
-      "streamUrl": "https://sonicpanel.streaming10.net:8146/stream",
-      "countryCode": "DO"
     },
     {
       "id": "afn_360_guantanamo_bay_cu_0f503242",
@@ -5753,15 +5735,6 @@
       "countryCode": "BE"
     },
     {
-      "id": "sawt_el_ghad_tarab_ps_5d3eed9e",
-      "title": "Sawt El Ghad - Tarab",
-      "subtitle": "MP3",
-      "location": "State Of Palestine",
-      "genre": "Oldies",
-      "streamUrl": "https://sawtelghad.org:7007/;",
-      "countryCode": "PS"
-    },
-    {
       "id": "kq_105_pr_7bf5fb24",
       "title": "KQ 105",
       "subtitle": "AAC+",
@@ -8837,15 +8810,6 @@
       "countryCode": "UN"
     },
     {
-      "id": "bridge_fm_hungary_hu_63f44b2a",
-      "title": "Bridge Fm Hungary",
-      "subtitle": "MP3",
-      "location": "Hungary",
-      "genre": "Comedy",
-      "streamUrl": "https://radio.freestream.hu:8340/stream",
-      "countryCode": "HU"
-    },
-    {
       "id": "megastarfm_es_c066ec81",
       "title": "MegaStarFM",
       "subtitle": "MP3",
@@ -11526,6 +11490,185 @@
       "genre": "Culture",
       "streamUrl": "http://wecast02-o-cloud.flumotion.com/copesedes/cartagena.mp3",
       "countryCode": "ES"
+    },
+    {
+      "id": "concierto_cl_aa919d89",
+      "title": "Concierto",
+      "subtitle": "MP3",
+      "location": "Santiago, Chile",
+      "genre": "Contemporary",
+      "streamUrl": "http://27363.live.streamtheworld.com/CONCIERTO_SC",
+      "countryCode": "CL"
+    },
+    {
+      "id": "90s90s_in_the_mix_de_d1d77b6b",
+      "title": "90s90s In The Mix",
+      "subtitle": "MP3",
+      "location": "Schleswig-Holtstein, Germany",
+      "genre": "Radio",
+      "streamUrl": "http://regiocast.streamabc.net/regc-90s90sinthemix9775729-mp3-192-4658440?sABC=6nr138ro%230%236q8s7o7o3p7411o9n0871834qs5r90so%23fgernzf.90f90f.qr&aw_0_1st.playerid=streams.90s90s.de&amsparams=playerid:streams.90s90s.de;skey:1793145067",
+      "countryCode": "DE"
+    },
+    {
+      "id": "raadio_kuku_ee_3d42f16e",
+      "title": "Raadio Kuku",
+      "subtitle": "MP3",
+      "location": "Estonia",
+      "genre": "Radio",
+      "streamUrl": "https://le305.euddn.net/baf66e6afef9fff6dbb6a554de62f1ca7baad79d01ed0c7cbcdc24eb87193bca823fd0d0cdfa9debb99dbec1e2148dc662b17f71b4128801ab0b08f791c9055ee3478571925d442ca71f27b3f54bf4f990aa1923917624a0ff9bbac9c0cab4cc4a54cfcd4836d2aa0a59e78a61047bf342c3293c69a8b970bd05e744459907ac3dfb930c99157f3f3674f88a0667a08ec2dde4258b8da50e20ced0232a0b30a4a6294286c89b5b7ee1d43ab029aa6714/kuku_high.mp3",
+      "countryCode": "EE"
+    },
+    {
+      "id": "costa_del_mar_funky_xx_08938f7a",
+      "title": "Costa del Mar - Funky",
+      "subtitle": "MP3",
+      "location": "Unknown",
+      "genre": "Funk",
+      "streamUrl": "http://stream.cdm-funky.com:8008/stream-mp3-Funk"
+    },
+    {
+      "id": "hrt_radio_split_hr_e7bfad42",
+      "title": "HRT Radio Split",
+      "subtitle": "AAC+",
+      "location": "Croatia",
+      "genre": "Hrt",
+      "streamUrl": "http://27913.live.streamtheworld.com/SPLITAAC_SC",
+      "countryCode": "HR"
+    },
+    {
+      "id": "npo_3fm_nl_a51ae4a4",
+      "title": "NPO 3FM",
+      "subtitle": "AAC",
+      "location": "The Netherlands",
+      "genre": "Radio",
+      "streamUrl": "http://icecast.omroep.nl/3fm-bb-aac",
+      "countryCode": "NL"
+    },
+    {
+      "id": "mor_entertainment_ph_7ddae644",
+      "title": "MOR Entertainment",
+      "subtitle": "AAC+",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "streamUrl": "http://22283.live.streamtheworld.com/MORFM_S01AAC_SC",
+      "countryCode": "PH"
+    },
+    {
+      "id": "r_dio_globo_rio_de_janeiro_br_21e26153",
+      "title": "Rádio Globo - Rio de Janeiro",
+      "subtitle": "AAC+",
+      "location": "Rio de Janeiro, Brazil",
+      "genre": "Radio",
+      "streamUrl": "https://26583.live.streamtheworld.com:443/RADIO_GLOBO_RJAAC.aac?dist=site",
+      "countryCode": "BR"
+    },
+    {
+      "id": "naim_classical_gb_f060ec28",
+      "title": "Naim Classical",
+      "subtitle": "OGG",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Flac",
+      "streamUrl": "http://mscp3.live-streams.nl:8250/class-flac.flac",
+      "countryCode": "GB"
+    },
+    {
+      "id": "rockfm_es_4c15d88b",
+      "title": "RockFM",
+      "subtitle": "AAC+",
+      "location": "Madrid, Spain",
+      "genre": "Radio",
+      "streamUrl": "http://flucast19-h-cloud.flumotion.com/cope/rockfm.aac",
+      "countryCode": "ES"
+    },
+    {
+      "id": "antenna_sterreich_at_a624db35",
+      "title": "Antenna Österreich",
+      "subtitle": "AAC",
+      "location": "Austria",
+      "genre": "Pop",
+      "streamUrl": "https://edge21.streamonkey.net/antoesterreich-live",
+      "countryCode": "AT"
+    },
+    {
+      "id": "cnr_3_cn_f0208a71",
+      "title": "CNR-3 音乐之声",
+      "subtitle": "MP3",
+      "location": "China",
+      "genre": "Radio",
+      "streamUrl": "http://antiserver.kuwo.cn/anti.s?rid=MUSIC_190038250&response=res&format=mp3|aac&type=convert_url&br=128kmp3&agent=iPhone&callback=getlink&jpcallback=getlink.mp3",
+      "countryCode": "CN"
+    },
+    {
+      "id": "hjmo_la_fm_bogot_94_9_fm_co_df029961",
+      "title": "HJMO - La FM Bogotá 94.9 FM",
+      "subtitle": "AAC",
+      "location": "Bogota D.C., Colombia",
+      "genre": "Deportes",
+      "streamUrl": "https://us-b4-p-e-ml19-audio.cdn.mdstrm.com/live-audio-aw/632c9b23d1dcd7027f32f7fe?aid=6271a4d5d206c3172f3c9a9c&pid=SpKpHlQ5jXwCdAOD5FPZUVhj8DDuI9ZG&sid=DbXHhFPo7a0LQtDaUw8V2r5o6SPKuDOR&uid=gwjvvfDgKf4KpET8eUltZhqEDRTm3UfH&es=us-b4-p-e-ml19-audio.cdn.mdstrm.com&ote=1793210628921&ot=KnbmXMV9IDuVESIJSAz24g&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&liveId=632c9b23d1dcd7027f32f7fe&listenerId=gwjvvfDgKf4KpET8eUltZhqEDRTm3UfH",
+      "countryCode": "CO"
+    },
+    {
+      "id": "the_cheese_nz_6400356d",
+      "title": "The Cheese",
+      "subtitle": "MP3",
+      "location": "Hutt Valley, Wellington, New Zealand",
+      "genre": "Gen-X",
+      "streamUrl": "https://station.thecheese.co.nz/listen/the_cheese/128.mp3",
+      "countryCode": "NZ"
+    },
+    {
+      "id": "mirchi_fm_fj_ec592be0",
+      "title": "Mirchi FM",
+      "subtitle": "AAC+",
+      "location": "Fiji",
+      "genre": "Bollywood",
+      "streamUrl": "https://icecast1.sere.plus/MirchiFiji",
+      "countryCode": "FJ"
+    },
+    {
+      "id": "newstalk_93_fm_jm_1c38f770",
+      "title": "Newstalk 93 FM",
+      "subtitle": "MP3",
+      "location": "Catherine's Peak, Jamaica",
+      "genre": "Radio",
+      "streamUrl": "https://newstalk93fm.radioca.st/stream",
+      "countryCode": "JM"
+    },
+    {
+      "id": "fluxfm_techno_underground_de_46833936",
+      "title": "FluxFM - Techno Underground",
+      "subtitle": "MP3",
+      "location": "Berlin, Germany",
+      "genre": "Techno",
+      "streamUrl": "http://fluxfm.streamabc.net/flx-technounderground-mp3-128-7228171?sABC=6nr14651%230%236q8s7o7o3p7411o9n0871834qs5r90so%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1793148497",
+      "countryCode": "DE"
+    },
+    {
+      "id": "bluffphonica_at_c01330db",
+      "title": "Bluffphonica",
+      "subtitle": "MP3",
+      "location": "Vienna, Austria",
+      "genre": "Forest Psytrance",
+      "streamUrl": "http://bluffphonica.stream.laut.fm/bluffphonica",
+      "countryCode": "AT"
+    },
+    {
+      "id": "radio_fuji_two_fj_99eb834b",
+      "title": "Radio Fuji Two",
+      "subtitle": "AAC+",
+      "location": "Fiji",
+      "genre": "Culture",
+      "streamUrl": "https://icecast1.sere.plus/RFTwo",
+      "countryCode": "FJ"
+    },
+    {
+      "id": "radio_fiji_one_fj_b9102b65",
+      "title": "Radio Fiji One",
+      "subtitle": "AAC+",
+      "location": "Fiji",
+      "genre": "Classics",
+      "streamUrl": "https://icecast1.sere.plus/RFOne",
+      "countryCode": "FJ"
     }
   ]
 }
