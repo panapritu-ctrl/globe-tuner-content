@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-29T04:26:32Z",
+  "updated": "2026-10-30T04:24:38Z",
   "region": "europe",
   "part": 1,
   "of": 8,
@@ -9901,19 +9901,6 @@
       "subtitle": "Public Radio",
       "imageUrl": "",
       "streamUrl": "http://stream.bnr.bg:8037/radio-burgas.aac",
-      "location": "Bulgaria",
-      "genre": "Public Radio",
-      "countryCode": "BG",
-      "language": "bulgarian",
-      "clickCount": 0,
-      "bitrate": 36
-    },
-    {
-      "id": "rb2_station_7272bff9",
-      "title": "БНР – Радио Кърджали",
-      "subtitle": "Public Radio",
-      "imageUrl": "",
-      "streamUrl": "http://stream.bnr.bg:8038/radio-kardzhali.aac",
       "location": "Bulgaria",
       "genre": "Public Radio",
       "countryCode": "BG",
@@ -23983,19 +23970,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_cashmere_radio_31cc09a1",
-      "title": "Cashmere Radio",
-      "subtitle": "Berlin, Community",
-      "imageUrl": "https://backstage.cashmereradio.com/wp-content/themes/cashmereradio/icons/android-icon-192x192.png",
-      "streamUrl": "http://cashmereradio.out.airtime.pro:8000/cashmereradio_b",
-      "location": "Berlin, Germany",
-      "genre": "Berlin",
-      "countryCode": "DE",
-      "language": "english",
-      "clickCount": 1,
-      "bitrate": 192
-    },
-    {
       "id": "rb2_castlefm_f1502385",
       "title": "CastleFM",
       "subtitle": "2000S, 2010S",
@@ -26454,18 +26428,6 @@
       "clickCount": 2,
       "bitrate": 64,
       "streamUrl": "https://live.gruen-weiss.at/rgw.aac"
-    },
-    {
-      "id": "campus_city_radio_94_4_at_ba8c9101",
-      "title": "Campus & City Radio 94.4",
-      "subtitle": "Radio",
-      "location": "Austria",
-      "genre": "Radio",
-      "countryCode": "AT",
-      "language": "german",
-      "clickCount": 2,
-      "bitrate": 0,
-      "streamUrl": "http://cr944.at:8000/cr944-high"
     },
     {
       "id": "life_radio_tirol_italo_at_91a5e8e0",
@@ -33414,6 +33376,78 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "http://91.218.67.128:8000/radio.mp3"
+    },
+    {
+      "id": "flux_electronic_chillout_de_63758ab1",
+      "title": "Flux Electronic Chillout",
+      "subtitle": "Beat",
+      "location": "Germany",
+      "genre": "Beat",
+      "countryCode": "DE",
+      "language": "deutsch fränkisch",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://sfn.edge-ovh-gra5.streams.radiosphere.io/557b7263-9216-46b5-a813-a156ffbc9acb/channels/aa1a53ce-7743-444d-a0b9-115ba01c7321/stream.aac?quality=4&quality=4&source=fluxmusic.api.radiosphere.io&companionAds=true&aw_0_req.userConsentV2=CQLQfCgQLQfCgAfLoBDEBYFsAP_AAEPAAAigF7QFQACAAVAAuAB4AEEAJwAoABkADQAI4AXwAwgBuAGrAO4A7wB-gF1AOAAfsBFQC3gF7AH7AJAAqABcADwAIAAZAA0ACPAO4A7wB-gAAA"
+    },
+    {
+      "id": "fg_chic_germany_de_e0d5e58f",
+      "title": "FG Chic Germany",
+      "subtitle": "Funk",
+      "location": "Germany",
+      "genre": "Funk",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://stream.rcs.revma.com/7pww0pn0742vv"
+    },
+    {
+      "id": "radio_usk_2_ba_64750e9b",
+      "title": "Radio USK 2",
+      "subtitle": "Radio",
+      "location": "Bosnia And Herzegovina",
+      "genre": "Radio",
+      "countryCode": "BA",
+      "language": "bosnian",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://radiousk2.radioca.st/;"
+    },
+    {
+      "id": "i_love_rock_radio_i_love_music_de_9e4811d3",
+      "title": "I Love Rock Radio - I Love Music",
+      "subtitle": "Pop Rock",
+      "location": "Germany",
+      "genre": "Pop Rock",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://ilm.stream18.radiohost.de/ilm_iloveradiorock_mp3-192?upd-meta&upd-scheme=https&_art=dD0xNzkzMTQ2NzkwJmQ9YjI2M2I3YjIzMjE4YWZkNWFjMmQ"
+    },
+    {
+      "id": "bigfm_bremen_de_80e28339",
+      "title": "bigFM Bremen",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://stream.bigfm.de/bremen/aac-128/radiobrowser"
+    },
+    {
+      "id": "radio_1_rock_aac_128_bg_6e37bcb5",
+      "title": "Radio 1 Rock (AAC 128)",
+      "subtitle": "Classic Rock",
+      "location": "Bulgaria",
+      "genre": "Classic Rock",
+      "countryCode": "BG",
+      "language": "bulgarian",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_1_ROCKAAC_H.aac"
     }
   ]
 }

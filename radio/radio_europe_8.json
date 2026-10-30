@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-29T04:26:31Z",
+  "updated": "2026-10-30T04:24:38Z",
   "region": "europe",
   "part": 8,
   "of": 8,
@@ -15000,19 +15000,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_chansonuncensored_644f021d",
-      "title": "ШАНСОН БЕЗ ЦЕНЗУРЫ [CHANSONUNCENSORED]",
-      "subtitle": "Classical",
-      "imageUrl": "",
-      "streamUrl": "http://chanson.hostingradio.ru:8041/chanson-uncensored128.mp3",
-      "location": "The Russian Federation",
-      "genre": "Classical",
-      "countryCode": "RU",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_station_849ab588",
       "title": "Шансон Плюс",
       "subtitle": "Radio",
@@ -15847,32 +15834,6 @@
       "bitrate": 2790
     },
     {
-      "id": "rb2_house_b6886275",
-      "title": "House",
-      "subtitle": "Dance, Edm",
-      "imageUrl": "https://madmix.se/images/logo.jpg",
-      "streamUrl": "https://mml1.prostream.se/listen/house/radio.mp3",
-      "location": "Sweden",
-      "genre": "Dance",
-      "countryCode": "SE",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_ivory_echoes_cd9cad10",
-      "title": "Ivory Echoes",
-      "subtitle": "Ambient, Classical",
-      "imageUrl": "https://madmix.se/images/logo.jpg",
-      "streamUrl": "https://mml1.prostream.se/listen/ivory_echoes/radio.mp3",
-      "location": "Sweden",
-      "genre": "Ambient",
-      "countryCode": "SE",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_kpop_97c34f30",
       "title": "Kpop",
       "subtitle": "K-Pop, Korean Pop",
@@ -16424,19 +16385,6 @@
       "genre": "Local Radio",
       "countryCode": "SE",
       "language": "swedish",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_svea_39ff7fae",
-      "title": "Radio Svea",
-      "subtitle": "Pop, Rock",
-      "imageUrl": "https://madmix.se/images/logo.jpg",
-      "streamUrl": "https://mml2.prostream.se/listen/radio_svea/radio.mp3",
-      "location": "Sweden",
-      "genre": "Pop",
-      "countryCode": "SE",
-      "language": "english",
       "clickCount": 0,
       "bitrate": 128
     },
@@ -24919,18 +24867,6 @@
       "streamUrl": "https://mpc2.mediacp.eu:8200/rebecaweb"
     },
     {
-      "id": "ax_radio_ua_a3b5832c",
-      "title": "Ax Radio!",
-      "subtitle": "Dance",
-      "location": "Ukraine",
-      "genre": "Dance",
-      "countryCode": "UA",
-      "language": "english",
-      "clickCount": 4,
-      "bitrate": 0,
-      "streamUrl": "https://m.axradio.net/stream.mp3"
-    },
-    {
       "id": "10_ru_eff8a0aa",
       "title": "Радио 10",
       "subtitle": "Pop Music",
@@ -25661,6 +25597,162 @@
       "clickCount": 4,
       "bitrate": 48,
       "streamUrl": "https://radio.ukr.radio/ur5-aacplus-l"
+    },
+    {
+      "id": "anima_amoris_minimal_deep_techno_ru_dbc08017",
+      "title": "Anima Amoris Minimal Deep Techno",
+      "subtitle": "Minimal",
+      "location": "The Russian Federation",
+      "genre": "Minimal",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "https://amoris.sknt.ru/minimal.mp3"
+    },
+    {
+      "id": "love_radio_107_6_fm_ru_3a786ebd",
+      "title": "Love Radio Брянск 107.6 FM",
+      "subtitle": "107_6 Fm",
+      "location": "The Russian Federation",
+      "genre": "107_6 Fm",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "http://microit.n340.com:9000/VgMv0WV17ZVx1uuo_12_love_128_reg_80933"
+    },
+    {
+      "id": "radio_glagol_ru_aaebd148",
+      "title": "Radio GLAGOL - Радио Глагол",
+      "subtitle": "Best Podcast In The Universe",
+      "location": "The Russian Federation",
+      "genre": "Best Podcast In The Universe",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://radio.glagol-radio.ru:8443/radio"
+    },
+    {
+      "id": "radio_caprice_power_metal_ru_4201092d",
+      "title": "Radio Caprice - Power Metal",
+      "subtitle": "Heavy Metal",
+      "location": "The Russian Federation",
+      "genre": "Heavy Metal",
+      "countryCode": "RU",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 320,
+      "streamUrl": "http://79.120.77.11:8000/powermetal"
+    },
+    {
+      "id": "anima_amoris_idm_ru_d5d3d725",
+      "title": "Anima Amoris IDM",
+      "subtitle": "Radio",
+      "location": "The Russian Federation",
+      "genre": "Radio",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://amoris.sknt.ru/idm.mp3"
+    },
+    {
+      "id": "rock_fm_90s_ru_46db85b8",
+      "title": "ROCK FM, 90s",
+      "subtitle": "Rock",
+      "location": "The Russian Federation",
+      "genre": "Rock",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://jfm1.hostingradio.ru:14536/rock90.mp3"
+    },
+    {
+      "id": "rock_irk_ru_main_mix_ru_1dac1b1a",
+      "title": "rock.irk.ru :: main-mix",
+      "subtitle": "Acoustic",
+      "location": "The Russian Federation",
+      "genre": "Acoustic",
+      "countryCode": "RU",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 35,
+      "streamUrl": "https://live.rock.irk.ru/hls/main-mix/live.m3u8"
+    },
+    {
+      "id": "anima_amoris_deep_tech_house_ru_1c9bcb95",
+      "title": "Anima Amoris Deep Tech House",
+      "subtitle": "Radio",
+      "location": "The Russian Federation",
+      "genre": "Radio",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://amoris.sknt.ru/deeptech.mp3"
+    },
+    {
+      "id": "radi_caprice_afrobeat_ru_fadb8770",
+      "title": "Radi Caprice - Afrobeat",
+      "subtitle": "Radio",
+      "location": "The Russian Federation",
+      "genre": "Radio",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://nationalanthems.info/ag.mp3?PANGEAhttps://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3https://nationalanthems.info/ag.mp3"
+    },
+    {
+      "id": "radio_rbc_moscow_ru_67f7fe89",
+      "title": "Radio RBC — Moscow",
+      "subtitle": "News",
+      "location": "The Russian Federation",
+      "genre": "News",
+      "countryCode": "RU",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 113,
+      "streamUrl": "https://hls-01-rbc.hostingradio.ru/rbc-fed0/playlist.m3u8"
+    },
+    {
+      "id": "90_8_fm_ru_0221db21",
+      "title": "Кавказ Радио Волна (Владикавказ, 90.8 FM)",
+      "subtitle": "15",
+      "location": "The Russian Federation",
+      "genre": "15",
+      "countryCode": "RU",
+      "language": "язык: русский",
+      "clickCount": 4,
+      "bitrate": 80,
+      "streamUrl": "http://radio.alania.net:8000/kvk"
+    },
+    {
+      "id": "station_ru_865263e8",
+      "title": "ФМ На Дону",
+      "subtitle": "Ростовская Область",
+      "location": "The Russian Federation",
+      "genre": "Ростовская Область",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://radio.mediacdn.ru/fm_na_donu.mp3"
+    },
+    {
+      "id": "ambiland_si_2b501ef1",
+      "title": "Ambiland",
+      "subtitle": "Ambient",
+      "location": "Slovenia",
+      "genre": "Ambient",
+      "countryCode": "SI",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://radio.ambiland.space/live.mp3?src=radio-browser"
     }
   ]
 }

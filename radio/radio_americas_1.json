@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-29T04:26:32Z",
+  "updated": "2026-10-30T04:24:38Z",
   "region": "americas",
   "part": 1,
   "of": 5,
@@ -8236,19 +8236,6 @@
       "language": null,
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_universidad_claf_103_7_mhz_629321b6",
-      "title": "Universidad Claf 103.7 Mhz",
-      "subtitle": "Musica, Noticias",
-      "imageUrl": "",
-      "streamUrl": "http://cdn.instream.audio:9032/stream",
-      "location": "Neuquén, Argentina",
-      "genre": "Musica",
-      "countryCode": "AR",
-      "language": "spanish",
-      "clickCount": 0,
-      "bitrate": 320
     },
     {
       "id": "rb2_vale_97_1_934227d3",
@@ -20257,19 +20244,6 @@
       "countryCode": "BR"
     },
     {
-      "id": "rb2_vatos_millo_hr_ffbfb3bc",
-      "title": "Vatos Millo HR",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://jpdofunk3.com.br:8004/stream",
-      "location": "São Paulo (SP), Brazil",
-      "genre": "Radio",
-      "countryCode": "BR",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_venenos_psicod_licos_737269d6",
       "title": "Venenos Psicodélicos",
       "subtitle": "60'S, 70'S",
@@ -23260,18 +23234,6 @@
       "streamUrl": "https://s19.maxcast.com.br:8966/live"
     },
     {
-      "id": "pontal_fm_91_5_fm_br_92d85698",
-      "title": "Pontal FM 91.5 FM",
-      "subtitle": "Radio",
-      "location": "Brazil",
-      "genre": "Radio",
-      "countryCode": "BR",
-      "language": "portuguese",
-      "clickCount": 2,
-      "bitrate": 64,
-      "streamUrl": "https://9128.brasilstream.com.br/stream?origem=site"
-    },
-    {
       "id": "m_quina_do_tempo_internacional_br_134b6fd0",
       "title": "Máquina do Tempo (Internacional)",
       "subtitle": "Radio",
@@ -25720,18 +25682,6 @@
       "streamUrl": "https://emisora.zonasinergia.com:7039/stream"
     },
     {
-      "id": "x1_radio_80s_ar_182ddda1",
-      "title": "X1 Radio 80s",
-      "subtitle": "Radio",
-      "location": "Argentina",
-      "genre": "Radio",
-      "countryCode": "AR",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 64,
-      "streamUrl": "https://x1.xsminternet.com:58091/stream/2/"
-    },
-    {
       "id": "r_dio_mensagem_br_553042a3",
       "title": "Rádio Mensagem",
       "subtitle": "Radio",
@@ -28036,18 +27986,6 @@
       "streamUrl": "https://webradio.azur7.pro/jazz"
     },
     {
-      "id": "cnn_radio_salta_94_7_fm_ar_1904fdf5",
-      "title": "CNN Radio Salta 94.7 FM",
-      "subtitle": "Radio",
-      "location": "Argentina",
-      "genre": "Radio",
-      "countryCode": "AR",
-      "language": null,
-      "clickCount": 3,
-      "bitrate": 112,
-      "streamUrl": "https://streaming.radiosenlinea.com.ar:10585/stream"
-    },
-    {
       "id": "sunrise_caril_98_5_ar_daa236fa",
       "title": "Sunrise Cariló 98.5",
       "subtitle": "Radio",
@@ -28226,6 +28164,174 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "http://live.leanstream.co/CFOXFM-MP3"
+    },
+    {
+      "id": "nuevo_tiempo_br_f305b2f2",
+      "title": "Nuevo Tiempo",
+      "subtitle": "Radio",
+      "location": "Brazil",
+      "genre": "Radio",
+      "countryCode": "BR",
+      "language": "spanish",
+      "clickCount": 6,
+      "bitrate": 96,
+      "streamUrl": "https://streamradio.novotempo.com/CDN-RADIO-ES/smil:radionuevotiempo.smil/playlist.m3u8"
+    },
+    {
+      "id": "magic_boxx_radio_br_382008f8",
+      "title": "MAGIC BOXX RADIO",
+      "subtitle": "Dance",
+      "location": "Brazil",
+      "genre": "Dance",
+      "countryCode": "BR",
+      "language": "portuguese",
+      "clickCount": 5,
+      "bitrate": 320,
+      "streamUrl": "https://radio.mboxxradio.com/listen/magic-boxx-radio/radio.mp3"
+    },
+    {
+      "id": "teodoro_sampaio_sp_br_c55f6e84",
+      "title": "Teodoro sampaio SP",
+      "subtitle": "Radio",
+      "location": "Brazil",
+      "genre": "Radio",
+      "countryCode": "BR",
+      "language": "brazilian portuguese",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://streaming.ebamix.com.br/listen/ebamix/radio.mp3?1770041585088"
+    },
+    {
+      "id": "psybrazil_electro_br_7a22de0a",
+      "title": "Psybrazil - Electro",
+      "subtitle": "Electronic",
+      "location": "Brazil",
+      "genre": "Electronic",
+      "countryCode": "BR",
+      "language": "brazilian portuguese",
+      "clickCount": 4,
+      "bitrate": 256,
+      "streamUrl": "https://radio.psybrazil.com.br/electro"
+    },
+    {
+      "id": "r_dio_cultura_de_lavras_96_5_fm_lavras_mg_br_11ec476d",
+      "title": "Rádio Cultura de Lavras 96.5 FM (Lavras - MG)",
+      "subtitle": "96.5 Fm",
+      "location": "Brazil",
+      "genre": "96.5 Fm",
+      "countryCode": "BR",
+      "language": "portuguese",
+      "clickCount": 4,
+      "bitrate": 96,
+      "streamUrl": "https://servidor36.brlogic.com:7048/live"
+    },
+    {
+      "id": "r_dio_up_br_fb87c90b",
+      "title": "Rádio UP!",
+      "subtitle": "Anime",
+      "location": "Brazil",
+      "genre": "Anime",
+      "countryCode": "BR",
+      "language": "brazilian",
+      "clickCount": 3,
+      "bitrate": 256,
+      "streamUrl": "http://saber.intra.antbr.com:8010/radio"
+    },
+    {
+      "id": "web_r_dio_ndio_capil_br_b21488c3",
+      "title": "Web Rádio Índio Capilé",
+      "subtitle": "Music",
+      "location": "Brazil",
+      "genre": "Music",
+      "countryCode": "BR",
+      "language": "brazilian portuguese",
+      "clickCount": 3,
+      "bitrate": 64,
+      "streamUrl": "https://hts02.brascast.com:10428/live"
+    },
+    {
+      "id": "r_dio_justi_a_104_7_fm_br_b551997c",
+      "title": "Rádio Justiça 104.7 FM",
+      "subtitle": "Jornalismo",
+      "location": "Brazil",
+      "genre": "Jornalismo",
+      "countryCode": "BR",
+      "language": "brazilian portuguese",
+      "clickCount": 3,
+      "bitrate": 48,
+      "streamUrl": "https://server01.ouvir.radio.br:8036/stream"
+    },
+    {
+      "id": "r_dio_bom_jesus_98_1_fm_br_f490b4c7",
+      "title": "Rádio Bom Jesus 98.1 FM",
+      "subtitle": "Radio",
+      "location": "Brazil",
+      "genre": "Radio",
+      "countryCode": "BR",
+      "language": "brazilian portuguese",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://stream19.streamingdevideo.com.br:18050/stream?1785695163267"
+    },
+    {
+      "id": "104_fm_natal_br_8df61a50",
+      "title": "104 FM Natal",
+      "subtitle": "Radio",
+      "location": "Brazil",
+      "genre": "Radio",
+      "countryCode": "BR",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "http://radios.braviahost.com.br:8000/radio.mp3"
+    },
+    {
+      "id": "r_dio_foz_103_7_fm_br_3d003a91",
+      "title": "Rádio Foz 103.7 FM",
+      "subtitle": "Brasil",
+      "location": "Brazil",
+      "genre": "Brasil",
+      "countryCode": "BR",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 32,
+      "streamUrl": "https://stm8.painelvox.com:8224/;"
+    },
+    {
+      "id": "r_dio_em_defesa_da_s_doutrina_br_6e518bcf",
+      "title": "Rádio Em Defesa da Sã Doutrina",
+      "subtitle": "Christian",
+      "location": "Brazil",
+      "genre": "Christian",
+      "countryCode": "BR",
+      "language": "portuguese",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://casthttps1.suaradionanet.net/10797/stream"
+    },
+    {
+      "id": "cjfn_102_7_country_rock_radio_peguis_manitoba_ca_7c1bd898",
+      "title": "CJFN 102.7 \"Country Rock Radio\" Peguis, Manitoba",
+      "subtitle": "Alternative / Indie",
+      "location": "Canada",
+      "genre": "Alternative / Indie",
+      "countryCode": "CA",
+      "language": "cree",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "https://cast4.my-control-panel.com/proxy/peguis1/stream"
+    },
+    {
+      "id": "ckwf_101_5_the_wolf_peterborough_ca_ae1def2b",
+      "title": "CKWF 101.5 \"The Wolf\" Peterborough",
+      "subtitle": "Commercial",
+      "location": "Canada",
+      "genre": "Commercial",
+      "countryCode": "CA",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "http://live.leanstream.co/CKWFFM-MP3"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-29T04:26:31Z",
+  "updated": "2026-10-30T04:24:38Z",
   "region": "europe",
   "part": 7,
   "of": 8,
@@ -8259,19 +8259,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_korona_r_di_brass_bra_ov_77beebc7",
-      "title": "Korona Rádió Brassó -Brașov",
-      "subtitle": "Adult Contemporary, Dance",
-      "imageUrl": "https://koronaradio.com/wp-content/uploads/2022/05/logo-3.png",
-      "streamUrl": "https://s7.citrus3.com:8022/stream",
-      "location": "Romania",
-      "genre": "Adult Contemporary",
-      "countryCode": "RO",
-      "language": "hungarian",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_l_t_j_g_t_radio_3fe579b3",
       "title": "L.T.J.G.T. Radio",
       "subtitle": "Radio",
@@ -15162,19 +15149,6 @@
       "genre": "Orthodox Christian",
       "countryCode": "RS",
       "language": "serbian",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_zlatousti_862c2308",
-      "title": "Radio Zlatousti",
-      "subtitle": "Radio",
-      "imageUrl": "http://radiozlatousti.rs/wp-content/uploads/2015/06/radiozlatousti1.jpg",
-      "streamUrl": "http://stream.unlimited.rs:8076/live",
-      "location": "Serbia",
-      "genre": "Radio",
-      "countryCode": "RS",
-      "language": null,
       "clickCount": 0,
       "bitrate": 128
     },
@@ -25134,18 +25108,6 @@
       "streamUrl": "https://asculta.superfmradio.ro/9720/stream"
     },
     {
-      "id": "radio_1_manele_rom_nia_bra_ov_ro_f8ae0ed3",
-      "title": "Radio 1 Manele România -Brașov",
-      "subtitle": "Manele",
-      "location": "Romania",
-      "genre": "Manele",
-      "countryCode": "RO",
-      "language": "română",
-      "clickCount": 6,
-      "bitrate": 128,
-      "streamUrl": "https://ssl.omegahost.ro/8000/stream"
-    },
-    {
       "id": "naxi_radio_cafe_radio_rs_a73dcd72",
       "title": "naxi radio - cafe radio",
       "subtitle": "Cafe",
@@ -25612,6 +25574,138 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://naxidigital-blues128ssl.streaming.rs:8312/;stream.nsv"
+    },
+    {
+      "id": "naxi_radio_rock_rs_6bec2a16",
+      "title": "naxi radio - rock",
+      "subtitle": "Alternative Rock",
+      "location": "Serbia",
+      "genre": "Alternative Rock",
+      "countryCode": "RS",
+      "language": null,
+      "clickCount": 9,
+      "bitrate": 128,
+      "streamUrl": "http://naxidigital-rock128.streaming.rs:8180/;stream.nsv"
+    },
+    {
+      "id": "radio_eska_warszawa_64kbps_metadata_pl_63de44f9",
+      "title": "Radio Eska Warszawa (64kbps + metadata)",
+      "subtitle": "128 Kbps",
+      "location": "Poland",
+      "genre": "128 Kbps",
+      "countryCode": "PL",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 64,
+      "streamUrl": "https://go-audio.toya.net.pl/63222"
+    },
+    {
+      "id": "naxi_fresh_radio_rs_5d51b6ba",
+      "title": "Naxi Fresh Radio",
+      "subtitle": "Radio",
+      "location": "Serbia",
+      "genre": "Radio",
+      "countryCode": "RS",
+      "language": "serbian",
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://naxidigital-fresh128ssl.streaming.rs:8212/;stream.nsv"
+    },
+    {
+      "id": "naxi_latino_radio_rs_4f7caa9f",
+      "title": "Naxi Latino Radio",
+      "subtitle": "Radio",
+      "location": "Serbia",
+      "genre": "Radio",
+      "countryCode": "RS",
+      "language": "serbian",
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://naxidigital-latino128ssl.streaming.rs:8232/;stream.nsv"
+    },
+    {
+      "id": "radio_kolobrzeg_pl_c6cb7c5b",
+      "title": "Radio Kolobrzeg",
+      "subtitle": "Radio",
+      "location": "Poland",
+      "genre": "Radio",
+      "countryCode": "PL",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "http://graj.radiokolobrzeg.pl:8000/;"
+    },
+    {
+      "id": "super_fm_bra_ov_93_8_fm_ro_7c0ecbca",
+      "title": "Super FM -Brașov 93,8 FM",
+      "subtitle": "Petrecere",
+      "location": "Romania",
+      "genre": "Petrecere",
+      "countryCode": "RO",
+      "language": "română",
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "https://live.superfm.ro/stream.mp3"
+    },
+    {
+      "id": "naxi_mix_radio_rs_81201507",
+      "title": "Naxi Mix Radio",
+      "subtitle": "Radio",
+      "location": "Serbia",
+      "genre": "Radio",
+      "countryCode": "RS",
+      "language": "serbian",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://naxidigital-mix128ssl.streaming.rs:8222/;stream.nsv"
+    },
+    {
+      "id": "super_fm_brasov_93_8_ro_8b2b3d88",
+      "title": "Super FM Brasov 93.8",
+      "subtitle": "Radio",
+      "location": "Romania",
+      "genre": "Radio",
+      "countryCode": "RO",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://live.superfm.ro/stream.mp3?time=1697692801"
+    },
+    {
+      "id": "naxi_r_n_b_radio_rs_3bcdc796",
+      "title": "Naxi R'n'B Radio",
+      "subtitle": "Radio",
+      "location": "Serbia",
+      "genre": "Radio",
+      "countryCode": "RS",
+      "language": "serbian",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://naxidigital-rnb128ssl.streaming.rs:8122/;stream.nsv"
+    },
+    {
+      "id": "naxi_chillwave_rs_b49f4885",
+      "title": "Naxi Chillwave",
+      "subtitle": "Pop",
+      "location": "Serbia",
+      "genre": "Pop",
+      "countryCode": "RS",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://naxidigital-chillwave128ssl.streaming.rs:8322/;stream.nsv"
+    },
+    {
+      "id": "naxi_adore_rs_d24050be",
+      "title": "Naxi Adore",
+      "subtitle": "International",
+      "location": "Serbia",
+      "genre": "International",
+      "countryCode": "RS",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://naxidigital-adore128ssl.streaming.rs:8332/;stream.nsv"
     }
   ]
 }

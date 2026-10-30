@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-29T04:26:31Z",
+  "updated": "2026-10-30T04:24:38Z",
   "region": "asia",
   "part": 2,
   "of": 3,
@@ -17998,15 +17998,6 @@
       "streamUrl": "http://playerservices.streamtheworld.com/api/livestream-redirect/ASYIK_FM.mp3"
     },
     {
-      "id": "bfm_89_9_my",
-      "title": "BFM 89.9",
-      "subtitle": "News",
-      "location": "Malaysia",
-      "genre": "News",
-      "countryCode": "MY",
-      "streamUrl": "https://stream.rcs.revma.com/s91qy9p0zs3vv"
-    },
-    {
       "id": "rb2_cityplus_fm_fdde6cdc",
       "title": "CITYPlus FM",
       "subtitle": "Radio",
@@ -19576,18 +19567,6 @@
       "clickCount": 12,
       "bitrate": 64,
       "streamUrl": "https://streaming.campursarifm.com/listen/campursari/campursari892"
-    },
-    {
-      "id": "bhaktiworld_media_devi_maa_in_46c40a39",
-      "title": "Bhaktiworld Media Devi Maa",
-      "subtitle": "Radio",
-      "location": "India",
-      "genre": "Radio",
-      "countryCode": "IN",
-      "language": "hindi",
-      "clickCount": 8,
-      "bitrate": 64,
-      "streamUrl": "http://ibadat.out.airtime.pro:8000/ibadat_a?_ga=2.112683904.548091236.15820292%2013-1175002648.1580299245"
     },
     {
       "id": "88_fm_il_682e4181",
@@ -24258,18 +24237,6 @@
       "streamUrl": "http://89.106.84.153:6731/"
     },
     {
-      "id": "vr_soundscape_tv_jp_064e77ec",
-      "title": "VR Soundscape TV",
-      "subtitle": "Music",
-      "location": "Japan",
-      "genre": "Music",
-      "countryCode": "JP",
-      "language": "japanese",
-      "clickCount": 4,
-      "bitrate": 1449,
-      "streamUrl": "https://stream.vrstv.jp/"
-    },
-    {
       "id": "merdeka_id_1fccabe1",
       "title": "MERDEKA",
       "subtitle": "Radio",
@@ -24582,18 +24549,6 @@
       "streamUrl": "https://a5.asurahosting.com:8600/radio.mp3"
     },
     {
-      "id": "cnn_indonesia_id_4a9d0831",
-      "title": "CNN Indonesia",
-      "subtitle": "News",
-      "location": "Indonesia",
-      "genre": "News",
-      "countryCode": "ID",
-      "language": null,
-      "clickCount": 23,
-      "bitrate": 384,
-      "streamUrl": "https://live.cnnindonesia.com/livecnn/smil:cnntv/chunklist.m3u8"
-    },
-    {
       "id": "bollywood_sad_songs_in_b080dc92",
       "title": "BOLLYWOOD SAD SONGS",
       "subtitle": "Sad Song",
@@ -24628,18 +24583,6 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://srv02.onlineradio.voaplus.com/kissfm"
-    },
-    {
-      "id": "greek_laika_nonstop_radio_cy_b317be82",
-      "title": "Greek Laika Nonstop Radio",
-      "subtitle": "Classic Hits",
-      "location": "Cyprus",
-      "genre": "Classic Hits",
-      "countryCode": "CY",
-      "language": "greek",
-      "clickCount": 3,
-      "bitrate": 192,
-      "streamUrl": "https://radio.greeklaika.com/listen/greek_laika_nonstop_radio/radio.mp3"
     },
     {
       "id": "suara_gratia_fm_id_9352d3c0",
@@ -24736,18 +24679,6 @@
       "clickCount": 5,
       "bitrate": 66,
       "streamUrl": "https://master.nhkworld.jp/nhkworld-radio/playlist/rs2/live.m3u8"
-    },
-    {
-      "id": "era_sarawak_my_5fa21961",
-      "title": "era sarawak",
-      "subtitle": "Radio",
-      "location": "Malaysia",
-      "genre": "Radio",
-      "countryCode": "MY",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 0,
-      "streamUrl": "https://n10.rcs.revma.com/bkqfqkrbv4uvv/10_6dkcmkt5m85u02/playlist.m3u8"
     },
     {
       "id": "wawa_radio_101_2_id_d133d576",
@@ -26572,6 +26503,114 @@
       "clickCount": 4,
       "bitrate": 96,
       "streamUrl": "http://s1.voscast.com:9376/;"
+    },
+    {
+      "id": "cnn_indonesia_id_4a9d0831",
+      "title": "CNN Indonesia",
+      "subtitle": "News",
+      "location": "Indonesia",
+      "genre": "News",
+      "countryCode": "ID",
+      "language": null,
+      "clickCount": 24,
+      "bitrate": 384,
+      "streamUrl": "https://live.cnnindonesia.com/livecnn/smil:cnntv/chunklist.m3u8"
+    },
+    {
+      "id": "christmas_island_community_radio_cx_c434fc8d",
+      "title": "Christmas Island Community Radio",
+      "subtitle": "Radio",
+      "location": "Christmas Island",
+      "genre": "Radio",
+      "countryCode": "CX",
+      "language": "english",
+      "clickCount": 11,
+      "bitrate": 64,
+      "streamUrl": "https://streams.radio.co/s254f35e58/listen"
+    },
+    {
+      "id": "greek_laika_nonstop_radio_cy_b317be82",
+      "title": "Greek Laika Nonstop Radio",
+      "subtitle": "Classic Hits",
+      "location": "Cyprus",
+      "genre": "Classic Hits",
+      "countryCode": "CY",
+      "language": "greek",
+      "clickCount": 6,
+      "bitrate": 192,
+      "streamUrl": "https://radio.greeklaika.com/listen/greek_laika_nonstop_radio/radio.mp3"
+    },
+    {
+      "id": "butwal_fm_np_c5da1c77",
+      "title": "Butwal FM",
+      "subtitle": "Radio",
+      "location": "Nepal",
+      "genre": "Radio",
+      "countryCode": "NP",
+      "language": "nepali",
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://streaming.softnep.net:10994/;stream.nsv"
+    },
+    {
+      "id": "capital_turk_cy_f01ff764",
+      "title": "Capital Turk",
+      "subtitle": "Kktc",
+      "location": "Cyprus",
+      "genre": "Kktc",
+      "countryCode": "CY",
+      "language": "turkish",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://radyo1.radyo-dinle.tc/8210/stream"
+    },
+    {
+      "id": "most_radio_jakarta_id_4ac7beb8",
+      "title": "Most Radio Jakarta",
+      "subtitle": "Radio",
+      "location": "Indonesia",
+      "genre": "Radio",
+      "countryCode": "ID",
+      "language": "indonesian",
+      "clickCount": 4,
+      "bitrate": 43,
+      "streamUrl": "https://wz.mari.co.id:1936/web_mostfm/mostfm/playlist.m3u8"
+    },
+    {
+      "id": "ttu_fm_tafila_technical_university_jo_517d407d",
+      "title": "TTU FM - Tafila Technical University",
+      "subtitle": "Education",
+      "location": "Jordan",
+      "genre": "Education",
+      "countryCode": "JO",
+      "language": "arabic",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "http://fm.ttu.edu.jo:88/broadwavehigh.mp3"
+    },
+    {
+      "id": "drdchati_radio_jo_f46b3600",
+      "title": "Drdchati Radio",
+      "subtitle": "Radio",
+      "location": "Jordan",
+      "genre": "Radio",
+      "countryCode": "JO",
+      "language": "arabic",
+      "clickCount": 4,
+      "bitrate": 96,
+      "streamUrl": "https://radio.gorlk.net/drdchati"
+    },
+    {
+      "id": "europa_plus_kyrgyzstan_kg_df904b47",
+      "title": "Europa Plus Kyrgyzstan",
+      "subtitle": "Hits",
+      "location": "Kyrgyzstan",
+      "genre": "Hits",
+      "countryCode": "KG",
+      "language": "russian",
+      "clickCount": 4,
+      "bitrate": 56,
+      "streamUrl": "https://cdn.radioplayer.kg:8443/europa64"
     }
   ]
 }

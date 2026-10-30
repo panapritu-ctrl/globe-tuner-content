@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-29T04:26:31Z",
+  "updated": "2026-10-30T04:24:38Z",
   "region": "europe",
   "part": 2,
   "of": 8,
@@ -13739,19 +13739,6 @@
       "bitrate": 64
     },
     {
-      "id": "rb2_sr_2_off_beat_96077600",
-      "title": "SR 2 Off-Beat",
-      "subtitle": "Jazz",
-      "imageUrl": "http://www.sr-online.de/sr/static/images/favicon.ico",
-      "streamUrl": "http://liveradio.sr.de/sr/sr2c1/mp3/128/stream.mp3?aggregator=custom1",
-      "location": "Saarland, Germany",
-      "genre": "Jazz",
-      "countryCode": "DE",
-      "language": "german",
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_sr_3_saarlandwelle_56_kbit_s_963947c7",
       "title": "SR 3 Saarlandwelle (56 kbit/s)",
       "subtitle": "Ard, Oldies",
@@ -22148,19 +22135,6 @@
       "streamUrl": "https://edge02.cdn.bitflip.ee:8888/RETRO?_i=258f436b"
     },
     {
-      "id": "rb2_retro_fm_disco_3055ea31",
-      "title": "Retro fm disco",
-      "subtitle": "Pop Music",
-      "imageUrl": "",
-      "streamUrl": "https://edge05.cdn.bitflip.ee:8888/retro1.mp3?",
-      "location": "Estonia",
-      "genre": "Pop Music",
-      "countryCode": "EE",
-      "language": "english",
-      "clickCount": 2,
-      "bitrate": 256
-    },
-    {
       "id": "rock_fm_ee_208c96",
       "title": "Rock FM",
       "subtitle": "Rock",
@@ -26933,19 +26907,6 @@
       "language": null,
       "clickCount": 1,
       "bitrate": 192
-    },
-    {
-      "id": "rb2_mdt_radio_valencia_107_3_fm_758ed935",
-      "title": "MDT RADIO Valencia 107.3 FM",
-      "subtitle": "Radio",
-      "imageUrl": "https://mdtradio.com/wp-content/uploads/2022/11/logobanner.png",
-      "streamUrl": "https://streams1.mdtradio.com:8443/mdtnewapp",
-      "location": "Spain",
-      "genre": "Radio",
-      "countryCode": "ES",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 128
     },
     {
       "id": "rb2_mdt_radio_0a52d143",
@@ -31851,18 +31812,6 @@
       "streamUrl": "https://stream.ella-radio.de/ella-vibraphone-jazz/mp3-192/?ref=radio-browser"
     },
     {
-      "id": "dr_p3_aac_dk_c42bfd7b",
-      "title": "DR P3 (AAC)",
-      "subtitle": "Pop",
-      "location": "Denmark",
-      "genre": "Pop",
-      "countryCode": "DK",
-      "language": "danish",
-      "clickCount": 9,
-      "bitrate": 324,
-      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p3/masterab.m3u8"
-    },
-    {
       "id": "wdr2_s_dwestfalen_de_c31c6cb0",
       "title": "WDR2 Südwestfalen",
       "subtitle": "Adult Contemporary",
@@ -31873,18 +31822,6 @@
       "clickCount": 6,
       "bitrate": 102,
       "streamUrl": "https://wdr-radio.ard-mcdn.de/wdr/radio/wdr2swf/hls/master.m3u8"
-    },
-    {
-      "id": "dr_p8_jazz_aac_dk_5a5bf838",
-      "title": "DR P8 JAZZ (AAC)",
-      "subtitle": "Jazz",
-      "location": "Denmark",
-      "genre": "Jazz",
-      "countryCode": "DK",
-      "language": "danish",
-      "clickCount": 6,
-      "bitrate": 324,
-      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p8jazz/masterab.m3u8"
     },
     {
       "id": "donau_3_fm_de_9d23ed48",
@@ -32799,18 +32736,6 @@
       "streamUrl": "https://stream.pcradio.ru/Scorpions-hi"
     },
     {
-      "id": "dr_p4_fyn_aac_dk_50d1da47",
-      "title": "DR P4 Fyn (AAC)",
-      "subtitle": "Regional Radio",
-      "location": "Denmark",
-      "genre": "Regional Radio",
-      "countryCode": "DK",
-      "language": "danish",
-      "clickCount": 5,
-      "bitrate": 324,
-      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4fyn/masterab.m3u8"
-    },
-    {
       "id": "top100station_de_a4be6adf",
       "title": "Top100Station",
       "subtitle": "Radio",
@@ -33483,18 +33408,6 @@
       "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4midtvest/masterab.m3u8"
     },
     {
-      "id": "dr_p5_sj_lland_aac_dk_61496a4e",
-      "title": "DR P5 Sjælland (AAC)",
-      "subtitle": "Regional Radio",
-      "location": "Denmark",
-      "genre": "Regional Radio",
-      "countryCode": "DK",
-      "language": "danish",
-      "clickCount": 3,
-      "bitrate": 324,
-      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p5sjaelland/masterab.m3u8"
-    },
-    {
       "id": "dr_p1_aac_dk_5bbf616a",
       "title": "DR P1 (AAC)",
       "subtitle": "Radio",
@@ -33721,6 +33634,126 @@
       "clickCount": 4,
       "bitrate": 320,
       "streamUrl": "http://streaming.fueralle.org:8000/slubfurt"
+    },
+    {
+      "id": "dr_p3_aac_dk_c42bfd7b",
+      "title": "DR P3 (AAC)",
+      "subtitle": "Pop",
+      "location": "Denmark",
+      "genre": "Pop",
+      "countryCode": "DK",
+      "language": "danish",
+      "clickCount": 10,
+      "bitrate": 324,
+      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p3/masterab.m3u8"
+    },
+    {
+      "id": "90s_90s_millennium_de_ac1fbcc1",
+      "title": "90s 90s Millennium",
+      "subtitle": "90S",
+      "location": "Germany",
+      "genre": "90S",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "https://regiocast.streamabc.net/regc-90s90s90s00s-mp3-192-4732500?sABC=6nqspn61%230%23nq59s62359o2nr38nsp8150610pq18p9%23fgernzf.90f90f.qr&aw_0_1st.playerid=streams.90s90s.de&amsparams=playerid:streams.90s90s.de;skey:1793051233"
+    },
+    {
+      "id": "mein_lieblingsradio_de_5d8c767c",
+      "title": "Mein Lieblingsradio",
+      "subtitle": "Charts",
+      "location": "Germany",
+      "genre": "Charts",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://frontend.streamonkey.net/fhn-meinlieblingsradio/stream/mp3"
+    },
+    {
+      "id": "halloween_hit_radio_de_f7f1a996",
+      "title": "Halloween Hit Radio",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://stream.laut.fm/halloween-hit-radio"
+    },
+    {
+      "id": "best_of_rock_fm_acdc_de_6379c764",
+      "title": "Best of Rock FM Acdc",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://bestofrockfm.stream.vip/acdc/mp3-25"
+    },
+    {
+      "id": "radio_21_oldenburg_de_2a48fe31",
+      "title": "Radio 21 Oldenburg",
+      "subtitle": "Rock",
+      "location": "Germany",
+      "genre": "Rock",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://streams.radio21.de/oldenburg/mp3-192/web"
+    },
+    {
+      "id": "r_bob_rock_hits_de_36bece41",
+      "title": "R. BOB Rock Hits",
+      "subtitle": "Rock",
+      "location": "Germany",
+      "genre": "Rock",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://streams.radiobob.de/bob-rockhits/mp3-192/homepage/?mode=preroll&aw_0_1st.skey=1671407549&cb=993598045&aw_0_1st.playerid=radiobob_web&aw_0_req.userConsentV2=CPkIkEAPkIkEAAFADBDECvCsAP_AAEPAAAYgI9td_H__bW9j-f5_aft0eY1P9_rz7uQzDhfNk-4F3L_W_LwX52E7NF36tq4KmR4ku1LBIQNlHMHUDUmwaokVryHsak2cpSNKJ7BEknMZOydYGF9Pmxtj-QKY5v5_d3bx2D-t_9v-39z338VXn3d53-_02PDdV599Dfn9fR_b89KP9958v4v8_____3_e__3_74I9gEmGrcQBdmWODNoGEUCIEYVhIRQKACCgGFogIAHBwU7KwCfWECABAKAIwIgQ4AowIBAAAJAEhEAEgRYIAAARAIAAQAIAEIAGBgEFgBYGAQAAgGgYohQACBIAZEBEUpgQFQJBAS2VCCUFUhphAFWWAFAIjYKABEEgIpAAEBYOAYIkBKxYIEmKN8gBGCFAKJUIAgaADAAEEexEAGAAII9ioAMAAQR7GQAYAAgj2AAA.YAAAAAAAAAAA&aw_0_1st.kuid=kppidff_PQ5ovBN7&aw_0_1st.ksg=%5B%22vz9c46692%22%5D&listenerid=c47683ff451bdf8ebe068dea8a897b50"
+    },
+    {
+      "id": "alles_volksmusik_de_9cad0237",
+      "title": "Alles Volksmusik",
+      "subtitle": "Volksmusik",
+      "location": "Germany",
+      "genre": "Volksmusik",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream.laut.fm/alles-volksmusik"
+    },
+    {
+      "id": "nrw_paradiso_de_c7f7f1d6",
+      "title": "NRW Paradiso",
+      "subtitle": "70S",
+      "location": "Germany",
+      "genre": "70S",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 64,
+      "streamUrl": "https://streams.paradiso.de/Para-NRW/aac-64/Web/?aw_0_req.userConsentV2=CPw9PgAPw9PgAAFADBDEDTCsAP_AAEPAAAYgHvQBgAWAFzAP2AvMBuAD3gLzgBAFzAXmAAAA.YAAAAAAAAAAA"
+    },
+    {
+      "id": "myhits_dance_ee_1179cbc3",
+      "title": "MyHits Dance",
+      "subtitle": "Dance",
+      "location": "Estonia",
+      "genre": "Dance",
+      "countryCode": "EE",
+      "language": "estonian",
+      "clickCount": 4,
+      "bitrate": 160,
+      "streamUrl": "https://le305.euddn.net/aa0f7d5d0d91aedebb64537a46b6f235e1374e98dee2446ce2ee75c7e9e4a85b863861d1b85a0c675a01ce4a8e56aae7fc27f38880073635a0a2d6074cae887ac761b3e16b6a977403828578918690942361afed45372f2861895cd16a638269e6df6a0d3719acbaf55c61c16830dfe6c96d49a2f97b42435a73435cf007546f8af475becf62934c70322ccc09d42f9807579bbd8f280b5d54e91aaa135e83fe670c240e8987328c76a8192c7bc79c4a/md_mhdance.aac"
     }
   ]
 }
