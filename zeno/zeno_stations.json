@@ -1,6 +1,6 @@
 {
-  "version": 80,
-  "updated": "2026-10-30T09:55:30Z",
+  "version": 81,
+  "updated": "2026-10-31T09:34:30Z",
   "stations": [
     {
       "id": "80s80s_radio_de_9adaa6e1",
@@ -865,15 +865,6 @@
       "genre": "Rock",
       "streamUrl": "https://stream.nextmedia.si/proxy/rockr1_1?mp=/rock;",
       "countryCode": "SI"
-    },
-    {
-      "id": "baku_jazz_radio_az_8c2802b4",
-      "title": "Baku Jazz Radio",
-      "subtitle": "MP3",
-      "location": "Baku, Azerbaijan",
-      "genre": "Radio",
-      "streamUrl": "https://a9.asurahosting.com/listen/bakujazzredio/radio.mp3",
-      "countryCode": "AZ"
     },
     {
       "id": "radio_z_ri_i_shtimes_xk_f02405a7",
@@ -8265,15 +8256,6 @@
       "countryCode": "ZA"
     },
     {
-      "id": "station_cn_bc7855d9",
-      "title": "呼和浩特综合广播",
-      "subtitle": "MP3",
-      "location": "China",
-      "genre": "Radio",
-      "streamUrl": "https://lhttp-hw.qtfm.cn/live/5021543/64k.mp3",
-      "countryCode": "CN"
-    },
-    {
       "id": "yes_933_sg_b5b41667",
       "title": "Yes 933",
       "subtitle": "AAC+",
@@ -11669,6 +11651,131 @@
       "genre": "Classics",
       "streamUrl": "https://icecast1.sere.plus/RFOne",
       "countryCode": "FJ"
+    },
+    {
+      "id": "deutschrap_de_99e8d71b",
+      "title": "deutschrap",
+      "subtitle": "MP3",
+      "location": "Lower Saxony, Germany",
+      "genre": "Deutschrap",
+      "streamUrl": "http://deutschrap.stream.laut.fm/deutschrap?t302=2026-10-27_01-15-29&uuid=15c2e15c-96a6-8954-7669-27f58b0956f9",
+      "countryCode": "DE"
+    },
+    {
+      "id": "fm_dos_cl_1e2fefde",
+      "title": "FM Dos",
+      "subtitle": "AAC+",
+      "location": "Chile",
+      "genre": "Pop",
+      "streamUrl": "http://24503.live.streamtheworld.com/FMDOSAAC_SC",
+      "countryCode": "CL"
+    },
+    {
+      "id": "ar_rahman_radio_in_b7c06c99",
+      "title": "AR Rahman Radio",
+      "subtitle": "AAC+",
+      "location": "India",
+      "genre": "Tamil Cinema Music",
+      "streamUrl": "https://psrlive2.listenon.in/arr?ah=0e81749e37789e5fb8c290926ce87e3f",
+      "countryCode": "IN"
+    },
+    {
+      "id": "radio_popular_herri_irratia_bilbao_es_fa13d764",
+      "title": "Radio Popular Herri Irratia - Bilbao",
+      "subtitle": "MP3",
+      "location": "Bizkaia, Spain",
+      "genre": "Local News",
+      "streamUrl": "http://79.137.33.224/radiopopular2",
+      "countryCode": "ES"
+    },
+    {
+      "id": "rockantenne_hamburg_xx_a2985e73",
+      "title": "ROCKANTENNE Hamburg",
+      "subtitle": "MP3",
+      "location": "Unknown",
+      "genre": "Radio",
+      "streamUrl": "https://mp3channels.rockantenne.hamburg/rockantenne-hamburg"
+    },
+    {
+      "id": "positively_love_om_ae_039c79ab",
+      "title": "Positively Love -om",
+      "subtitle": "MP3",
+      "location": "Dubai, The United Arab Emirates",
+      "genre": "Love Songs",
+      "streamUrl": "https://streaming.positivity.radio/pr/posilove/icecast.audio",
+      "countryCode": "AE"
+    },
+    {
+      "id": "amen24_ps_af110146",
+      "title": "Amen24",
+      "subtitle": "MP3",
+      "location": "State Of Palestine",
+      "genre": "Radio",
+      "streamUrl": "https://rstream.hadara.ps/proxy/amen24/stream",
+      "countryCode": "PS"
+    },
+    {
+      "id": "rfm_pt_d40b268a",
+      "title": "RFM",
+      "subtitle": "AAC+",
+      "location": "Portugal",
+      "genre": "Dance",
+      "streamUrl": "https://22593.live.streamtheworld.com/RFMAAC.aac",
+      "countryCode": "PT"
+    },
+    {
+      "id": "station_cn_668baf77",
+      "title": "辽宁乡村广播",
+      "subtitle": "UNKNOWN",
+      "location": "Liaoning, China",
+      "genre": "Agriculture",
+      "streamUrl": "https://rscdn.ajmide.com/r_1122/nglive_1122.m3u8",
+      "countryCode": "CN"
+    },
+    {
+      "id": "extreme_deep_house_radio_bg_08ba06b6",
+      "title": "Extreme Deep House Radio",
+      "subtitle": "MP3",
+      "location": "Bulgaria",
+      "genre": "Deep House",
+      "streamUrl": "https://stream1.rcast.net/72921",
+      "countryCode": "BG"
+    },
+    {
+      "id": "r_dio_atl_ntida_100_9_fm_florian_polis_s_br_0c75b377",
+      "title": "Rádio Atlântida 100.9 FM - Florianópolis - SC",
+      "subtitle": "MP3",
+      "location": "Santa Catarina, SC, Brazil",
+      "genre": "Radio",
+      "streamUrl": "https://27393.live.streamtheworld.com:443/ATL_FLO.mp3",
+      "countryCode": "BR"
+    },
+    {
+      "id": "areito_st_reo_co_45642170",
+      "title": "Areito Stéreo",
+      "subtitle": "AAC",
+      "location": "Chocó, Colombia",
+      "genre": "Radio",
+      "streamUrl": "https://virtual3.emisorasvirtuales.com:8220/live",
+      "countryCode": "CO"
+    },
+    {
+      "id": "schwarzwaldradio_de_ee989977",
+      "title": "Schwarzwaldradio",
+      "subtitle": "MP3",
+      "location": "Baden-Württemberg, Germany",
+      "genre": "60Er",
+      "streamUrl": "https://edge62.streamonkey.net/fho-schwarzwaldradiolive/stream/mp3?aggregator=smk-m3u-mp3",
+      "countryCode": "DE"
+    },
+    {
+      "id": "station_cn_e9511264",
+      "title": "辽宁资讯广播",
+      "subtitle": "UNKNOWN",
+      "location": "Dalian, China",
+      "genre": "Radio",
+      "streamUrl": "https://rscdn.ajmide.com/r_1756/nglive_1756.m3u8",
+      "countryCode": "CN"
     }
   ]
 }
