@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-30T04:24:38Z",
+  "updated": "2026-10-31T04:08:25Z",
   "region": "europe",
   "part": 7,
   "of": 8,
@@ -1510,19 +1510,6 @@
       "countryCode": "PL",
       "language": "polish",
       "clickCount": 2,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_nowinki_0e739811",
-      "title": "Radio Nowinki",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://nowinki.pk.edu.pl:8000/nowinki",
-      "location": "Poland",
-      "genre": "Radio",
-      "countryCode": "PL",
-      "language": null,
-      "clickCount": 0,
       "bitrate": 128
     },
     {
@@ -11148,19 +11135,6 @@
       "language": null,
       "clickCount": 2,
       "bitrate": 320
-    },
-    {
-      "id": "rb2_radio_valori_rom_ne_ti_cluj_napoca_71578eb8",
-      "title": "Radio Valori Românești -Cluj Napoca",
-      "subtitle": "Muzica Usoara Romaneasca",
-      "imageUrl": "https://scontent.fotp3-3.fna.fbcdn.net/v/t39.30808-1/269699762_105092635375938_6543285852780149649_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=104&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=612jnVRm7t8Q7kNvwGS2JR8&_nc_oc=AdqSHFj2aDJj0wgJju_WUvo1olRxoQ5ULyDlGL181FcVcvv6rmTAP1ctMFn8ZavLpn4iGzbd7x3y5bBz_yIdxgYV&_nc_zt=24&_nc_ht=scontent.fotp3-3.fna&_nc_gid=bsrim5awSN-bPbQnfaxs8Q&_nc_ss=7b289&oh=00_Af5pR5quJDN_PECN8qHoKQcxLFy5HC6g_VzoYX1TO1ONDg&oe=6A0FC11C",
-      "streamUrl": "https://securestreams6.autopo.st:2250/stream",
-      "location": "Romania",
-      "genre": "Muzica Usoara Romaneasca",
-      "countryCode": "RO",
-      "language": "română",
-      "clickCount": 0,
-      "bitrate": 128
     },
     {
       "id": "rb2_radio_vestea_buna_c3e7746b",
@@ -24844,18 +24818,6 @@
       "streamUrl": "http://necenzurat.radiotequila.ro:7000/;"
     },
     {
-      "id": "radio_petrec_retzu_ro_7009cace",
-      "title": "Radio Petrecăretzu",
-      "subtitle": "Etno",
-      "location": "Romania",
-      "genre": "Etno",
-      "countryCode": "RO",
-      "language": "romanian",
-      "clickCount": 9,
-      "bitrate": 128,
-      "streamUrl": "http://live.radiopetrecaretzu.ro:8383/;"
-    },
-    {
       "id": "tranquila_manele_rom_nia_ro_b86a2c4d",
       "title": "Tranquila Manele România",
       "subtitle": "Manele",
@@ -25636,18 +25598,6 @@
       "streamUrl": "http://graj.radiokolobrzeg.pl:8000/;"
     },
     {
-      "id": "super_fm_bra_ov_93_8_fm_ro_7c0ecbca",
-      "title": "Super FM -Brașov 93,8 FM",
-      "subtitle": "Petrecere",
-      "location": "Romania",
-      "genre": "Petrecere",
-      "countryCode": "RO",
-      "language": "română",
-      "clickCount": 5,
-      "bitrate": 192,
-      "streamUrl": "https://live.superfm.ro/stream.mp3"
-    },
-    {
       "id": "naxi_mix_radio_rs_81201507",
       "title": "Naxi Mix Radio",
       "subtitle": "Radio",
@@ -25706,6 +25656,18 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://naxidigital-adore128ssl.streaming.rs:8332/;stream.nsv"
+    },
+    {
+      "id": "192kb_ru_478e7326",
+      "title": "Радио Трансмит Череповец (192kB)",
+      "subtitle": "Radio",
+      "location": "The Russian Federation",
+      "genre": "Radio",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://radio.transmit.ru/listen/transmit/transmit_192.mp3"
     }
   ]
 }

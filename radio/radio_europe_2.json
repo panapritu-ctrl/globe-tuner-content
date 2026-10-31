@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-30T04:24:38Z",
+  "updated": "2026-10-31T04:08:24Z",
   "region": "europe",
   "part": 2,
   "of": 8,
@@ -26896,19 +26896,6 @@
       "bitrate": 192
     },
     {
-      "id": "rb2_mdt_radio_murcia_97_1_fm_5e24f4c0",
-      "title": "MDT RADIO Murcia 97.1 FM",
-      "subtitle": "Radio",
-      "imageUrl": "https://mdtradio.com/wp-content/uploads/2022/11/logobanner.png",
-      "streamUrl": "https://streams1.mdtradio.com:8443/MdtMurciaEstudio",
-      "location": "Spain",
-      "genre": "Radio",
-      "countryCode": "ES",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 192
-    },
-    {
       "id": "rb2_mdt_radio_0a52d143",
       "title": "MDT Radio",
       "subtitle": "Radio",
@@ -29566,18 +29553,6 @@
       "clickCount": 3,
       "bitrate": 128,
       "streamUrl": "http://1-4-1.stream.laut.fm/1-4-1?uuid=0a5a5cc9-2963-3dc6-faef-c49abbaad450&t302=2026-09-21_06-51-24"
-    },
-    {
-      "id": "leipzig_beatzz_de_b4a27414",
-      "title": "Leipzig Beatzz",
-      "subtitle": "Radio",
-      "location": "Germany",
-      "genre": "Radio",
-      "countryCode": "DE",
-      "language": null,
-      "clickCount": 3,
-      "bitrate": 192,
-      "streamUrl": "https://play.radioking.io/leipzig-beatz/407257"
     },
     {
       "id": "radio_leipzig_wir_lieben_leipzig_de_91f553c6",
@@ -33754,6 +33729,66 @@
       "clickCount": 4,
       "bitrate": 160,
       "streamUrl": "https://le305.euddn.net/aa0f7d5d0d91aedebb64537a46b6f235e1374e98dee2446ce2ee75c7e9e4a85b863861d1b85a0c675a01ce4a8e56aae7fc27f38880073635a0a2d6074cae887ac761b3e16b6a977403828578918690942361afed45372f2861895cd16a638269e6df6a0d3719acbaf55c61c16830dfe6c96d49a2f97b42435a73435cf007546f8af475becf62934c70322ccc09d42f9807579bbd8f280b5d54e91aaa135e83fe670c240e8987328c76a8192c7bc79c4a/md_mhdance.aac"
+    },
+    {
+      "id": "dr_p8_jazz_aac_dk_5a5bf838",
+      "title": "DR P8 JAZZ (AAC)",
+      "subtitle": "Jazz",
+      "location": "Denmark",
+      "genre": "Jazz",
+      "countryCode": "DK",
+      "language": "danish",
+      "clickCount": 9,
+      "bitrate": 324,
+      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p8jazz/masterab.m3u8"
+    },
+    {
+      "id": "piano_dreams_de_e841cbb9",
+      "title": "Piano Dreams",
+      "subtitle": "Instrumental",
+      "location": "Germany",
+      "genre": "Instrumental",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream.laut.fm/piano-dreams"
+    },
+    {
+      "id": "system_corrupt_syco23_de_666592c3",
+      "title": "SYSTEM CORRUPT / SYCO23",
+      "subtitle": "Drum And Bass",
+      "location": "Germany",
+      "genre": "Drum And Bass",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://stream.syco23.org:8000/radio.mp3"
+    },
+    {
+      "id": "mdr_th_ringen_nordth_ringen_de_d0cfb2e5",
+      "title": "MDR THÜRINGEN Nordthüringen",
+      "subtitle": "Heiligenstadt",
+      "location": "Germany",
+      "genre": "Heiligenstadt",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 3,
+      "bitrate": 102,
+      "streamUrl": "https://radio-hls.mdr.de/hls/live/2112900/mdr-284300-2-hls/index.m3u8"
+    },
+    {
+      "id": "dr_p4_fyn_aac_dk_50d1da47",
+      "title": "DR P4 Fyn (AAC)",
+      "subtitle": "Regional Radio",
+      "location": "Denmark",
+      "genre": "Regional Radio",
+      "countryCode": "DK",
+      "language": "danish",
+      "clickCount": 3,
+      "bitrate": 324,
+      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4fyn/masterab.m3u8"
     }
   ]
 }

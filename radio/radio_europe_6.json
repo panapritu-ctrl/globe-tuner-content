@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-30T04:24:38Z",
+  "updated": "2026-10-31T04:08:24Z",
   "region": "europe",
   "part": 6,
   "of": 8,
@@ -4064,19 +4064,6 @@
       "language": "italian",
       "clickCount": 1,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_zoe_15f15255",
-      "title": "Radio Zoe",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://nr6.newradio.it:9427/stream",
-      "location": "Italy",
-      "genre": "Radio",
-      "countryCode": "IT",
-      "language": "italian",
-      "clickCount": 0,
-      "bitrate": 192
     },
     {
       "id": "rb2_radio_al_serv_della_divina_misericordia_27cbe141",
@@ -9014,19 +9001,6 @@
       "language": "montenegrin",
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "rb_reggaeneracija_montenegro_dd32351f",
-      "title": "Reggaeneracija Montenegro",
-      "subtitle": "Reggae",
-      "imageUrl": "",
-      "streamUrl": "http://5.189.179.77:8000/stream",
-      "location": "Montenegro",
-      "genre": "Reggae",
-      "countryCode": "ME",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 320
     },
     {
       "id": "rb_skadar_58b3a30b",
@@ -20451,19 +20425,6 @@
       "bitrate": 192
     },
     {
-      "id": "rb2_id_pod_pr_d_fm_e0c35897",
-      "title": "Idź Pod Prąd FM",
-      "subtitle": "News",
-      "imageUrl": "",
-      "streamUrl": "http://idzpodprad.out.airtime.pro:8000/idzpodprad_a",
-      "location": "Poland",
-      "genre": "News",
-      "countryCode": "PL",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 160
-    },
-    {
       "id": "rb2_jump_radio_e7c3fa86",
       "title": "JUMP Radio",
       "subtitle": "Electronic",
@@ -27590,6 +27551,186 @@
       "clickCount": 4,
       "bitrate": 192,
       "streamUrl": "https://live-radioliepaja.lv/listen/europa/radio"
+    },
+    {
+      "id": "radio_skonto_70_s_80_s_90_s_lv_a2f159ef",
+      "title": "Radio Skonto 70's, 80's, 90's",
+      "subtitle": "70S",
+      "location": "Latvia",
+      "genre": "70S",
+      "countryCode": "LV",
+      "language": "latvian",
+      "clickCount": 9,
+      "bitrate": 192,
+      "streamUrl": "https://streams.radioskonto.lv:8443/skonto-70-80-90"
+    },
+    {
+      "id": "lounge_fm_lv_2e4a4fe0",
+      "title": "LOUNGE FM",
+      "subtitle": "Bossa Nova",
+      "location": "Latvia",
+      "genre": "Bossa Nova",
+      "countryCode": "LV",
+      "language": "latvian",
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "https://stream.loungefm.lv:8443/lounge"
+    },
+    {
+      "id": "radio_energy_hit_music_radio_lv_81013d6f",
+      "title": "Radio Energy - Hit Music Radio",
+      "subtitle": "Hits",
+      "location": "Latvia",
+      "genre": "Hits",
+      "countryCode": "LV",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "http://radioenergy.lv:8000/;stream.mp3"
+    },
+    {
+      "id": "european_hit_radio_superhits_gold_lv_a51ff3a0",
+      "title": "European Hit Radio - SuperHits Gold",
+      "subtitle": "90S",
+      "location": "Latvia",
+      "genre": "90S",
+      "countryCode": "LV",
+      "language": "latvian",
+      "clickCount": 4,
+      "bitrate": 96,
+      "streamUrl": "https://29053.live.streamtheworld.com/EHR_SUPERHITS_GOLDAAC.aac"
+    },
+    {
+      "id": "ehr_ru_top_40_lv_e35db504",
+      "title": "EHR+ RU Top 40",
+      "subtitle": "Pop",
+      "location": "Latvia",
+      "genre": "Pop",
+      "countryCode": "LV",
+      "language": "russian",
+      "clickCount": 4,
+      "bitrate": 96,
+      "streamUrl": "https://23543.live.streamtheworld.com/EHR_RU_TOP_40AAC.aac"
+    },
+    {
+      "id": "latvijas_radio_lr6_naba_lv_b33c9245",
+      "title": "Latvijas Radio - LR6 Naba",
+      "subtitle": "Alternative Rock",
+      "location": "Latvia",
+      "genre": "Alternative Rock",
+      "countryCode": "LV",
+      "language": "latvian",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://muste.latvijasradio.lv/shoutcast/mp4:naba.stream/playlist.m3u8"
+    },
+    {
+      "id": "veronica_beste_80_s_nl_ab7c921e",
+      "title": "Veronica Beste 80's",
+      "subtitle": "The Best Of 80'S",
+      "location": "The Netherlands",
+      "genre": "The Best Of 80'S",
+      "countryCode": "NL",
+      "language": "d",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream.radioveronica.nl/dab01"
+    },
+    {
+      "id": "ehr_superhits_radio_superhits_lv_318882d8",
+      "title": "EHR Superhits (Radio SuperHits)",
+      "subtitle": "Dance",
+      "location": "Latvia",
+      "genre": "Dance",
+      "countryCode": "LV",
+      "language": "latvian",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://27943.live.streamtheworld.com/EHR_SUPERHITS.mp3"
+    },
+    {
+      "id": "enjoy_radio_latvia_lv_0bfee9ef",
+      "title": "eNJOY Radio Latvia",
+      "subtitle": "Dance",
+      "location": "Latvia",
+      "genre": "Dance",
+      "countryCode": "LV",
+      "language": "russian",
+      "clickCount": 3,
+      "bitrate": 192,
+      "streamUrl": "https://live.njoyradio.lv/01"
+    },
+    {
+      "id": "station_lv_e2b92d9b",
+      "title": "Авторадио на Бис",
+      "subtitle": "Hits",
+      "location": "Latvia",
+      "genre": "Hits",
+      "countryCode": "LV",
+      "language": "russian",
+      "clickCount": 3,
+      "bitrate": 48,
+      "streamUrl": "https://my.radioprocessor.com:8100/avtoradiolv-encore-48.aac"
+    },
+    {
+      "id": "station_lv_84b4a73d",
+      "title": "Авторадио КиноМузыка",
+      "subtitle": "Instrumental",
+      "location": "Latvia",
+      "genre": "Instrumental",
+      "countryCode": "LV",
+      "language": "russian",
+      "clickCount": 3,
+      "bitrate": 48,
+      "streamUrl": "https://my.radioprocessor.com:8100/avtoradiolv-cinemaussr-48.aacp"
+    },
+    {
+      "id": "station_lv_95d21a83",
+      "title": "Авторадио Романтика",
+      "subtitle": "Pop",
+      "location": "Latvia",
+      "genre": "Pop",
+      "countryCode": "LV",
+      "language": "russian",
+      "clickCount": 3,
+      "bitrate": 48,
+      "streamUrl": "https://my.radioprocessor.com:8100/avtoradiolv-48.aac"
+    },
+    {
+      "id": "pieci_ukrai_u_m_zika_lv_5296f825",
+      "title": "Pieci - Ukraiņu mūzika",
+      "subtitle": "Folk",
+      "location": "Latvia",
+      "genre": "Folk",
+      "countryCode": "LV",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://muste.latvijasradio.lv/pieci/smil:k9.smil/playlist.m3u8"
+    },
+    {
+      "id": "european_hit_radio_kool_hits_lv_fd62d651",
+      "title": "European Hit Radio - KOOL hits",
+      "subtitle": "Dance",
+      "location": "Latvia",
+      "genre": "Dance",
+      "countryCode": "LV",
+      "language": "latvian",
+      "clickCount": 3,
+      "bitrate": 96,
+      "streamUrl": "https://25583.live.streamtheworld.com/EHR_KOOLAAC.aac"
+    },
+    {
+      "id": "skonto_hiti_lv_8eb12d33",
+      "title": "SKONTO hiti",
+      "subtitle": "Hits",
+      "location": "Latvia",
+      "genre": "Hits",
+      "countryCode": "LV",
+      "language": "latvian",
+      "clickCount": 3,
+      "bitrate": 192,
+      "streamUrl": "https://streams.radioskonto.lv:8443/skonto-hiti"
     }
   ]
 }

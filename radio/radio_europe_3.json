@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-30T04:24:38Z",
+  "updated": "2026-10-31T04:08:24Z",
   "region": "europe",
   "part": 3,
   "of": 8,
@@ -2731,19 +2731,6 @@
       "countryCode": "ES",
       "language": null,
       "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_popular_herri_irratia_bilbao_e069c0fa",
-      "title": "Radio Popular Herri Irratia - Bilbao",
-      "subtitle": "Local News",
-      "imageUrl": "https://www.facebook.com/188963650252/photos/10163088074660253/",
-      "streamUrl": "http://79.137.33.224/radiopopular2",
-      "location": "Bizkaia, Spain",
-      "genre": "Local News",
-      "countryCode": "ES",
-      "language": "spanish",
-      "clickCount": 1,
       "bitrate": 128
     },
     {
@@ -18340,15 +18327,6 @@
       "streamUrl": "http://stream.rfm.fr/rfm.mp3"
     },
     {
-      "id": "rfm_la_radio_couleur_fr_78f153",
-      "title": "RFM - La Radio Couleur",
-      "subtitle": "70 80 Hits",
-      "location": "France",
-      "genre": "70 80 Hits",
-      "streamUrl": "https://stream.rfm.fr/rfm-wr3.aac",
-      "countryCode": "FR"
-    },
-    {
       "id": "rb2_rfm_100_fran_ais_a3036ea3",
       "title": "RFM 100% Français",
       "subtitle": "Radio",
@@ -26241,6 +26219,222 @@
       "clickCount": 4,
       "bitrate": 192,
       "streamUrl": "http://s3.radio.co/sa80d22794/listen"
+    },
+    {
+      "id": "bbc_radio_5_live_uk_gb_210d2fdc",
+      "title": "BBC Radio 5 Live (UK)",
+      "subtitle": "News",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "News",
+      "countryCode": "GB",
+      "language": "english",
+      "clickCount": 10,
+      "bitrate": 135,
+      "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/audio_syndication_med_sbr_v1/aks/bbc_radio_five_live.m3u8"
+    },
+    {
+      "id": "stars_mixx_fr_61431071",
+      "title": "Stars Mixx",
+      "subtitle": "Hits",
+      "location": "France",
+      "genre": "Hits",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 7,
+      "bitrate": 192,
+      "streamUrl": "https://stream10.vestaradio.com/starsmixx"
+    },
+    {
+      "id": "saravadio_fr_0d7a21df",
+      "title": "Saravadio",
+      "subtitle": "Alternative Rock",
+      "location": "France",
+      "genre": "Alternative Rock",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 7,
+      "bitrate": 320,
+      "streamUrl": "https://radio.saravadio.fr/studio.mp3"
+    },
+    {
+      "id": "en_la_tarima_oficial_es_66b2e1ff",
+      "title": "En La Tarima Oficial",
+      "subtitle": "Latin Music",
+      "location": "Spain",
+      "genre": "Latin Music",
+      "countryCode": "ES",
+      "language": "spanish",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://streamer.radio.co/s752032ed6/listen"
+    },
+    {
+      "id": "nrj_no_repeat_fr_8df32e52",
+      "title": "NRJ No Repeat",
+      "subtitle": "Nrj",
+      "location": "France",
+      "genre": "Nrj",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://streaming.nrjaudio.fm/ouyioi36zcw2"
+    },
+    {
+      "id": "radio_accordeon_fr_bd14c75a",
+      "title": "Radio_Accordeon",
+      "subtitle": "Radio",
+      "location": "France",
+      "genre": "Radio",
+      "countryCode": "FR",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 170,
+      "streamUrl": "https://live2.jupinfo.fr:8443/radioaccordeon"
+    },
+    {
+      "id": "hit_west_brest_fr_1a314e72",
+      "title": "Hit West Brest",
+      "subtitle": "Radio",
+      "location": "France",
+      "genre": "Radio",
+      "countryCode": "FR",
+      "language": "francaise",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://stream.rcs.revma.com/rdma79x0am3vv"
+    },
+    {
+      "id": "all_stars_radio_es_fb441a51",
+      "title": "All Stars Radio",
+      "subtitle": "Radio",
+      "location": "Spain",
+      "genre": "Radio",
+      "countryCode": "ES",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://stream.allstarsradio.net:8000/radio.mp3"
+    },
+    {
+      "id": "music_radio_k_pop_fr_23e50e51",
+      "title": "Music Radio K-pop",
+      "subtitle": "Ai Music",
+      "location": "France",
+      "genre": "Ai Music",
+      "countryCode": "FR",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 192,
+      "streamUrl": "https://radio.musicradio.ai/listen/music_radio_k-pop/radio.mp3"
+    },
+    {
+      "id": "nrj_clubbin_fr_78b4efa5",
+      "title": "NRJ Clubbin",
+      "subtitle": "Nrj",
+      "location": "France",
+      "genre": "Nrj",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://streaming.nrjaudio.fm/ou8onegk7oiu"
+    },
+    {
+      "id": "music_radio_acid_jazz_fr_11d70913",
+      "title": "Music Radio Acid Jazz",
+      "subtitle": "Ai Music",
+      "location": "France",
+      "genre": "Ai Music",
+      "countryCode": "FR",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 192,
+      "streamUrl": "https://radio.musicradio.ai/listen/music_radio_acid_jazz/radio.mp3"
+    },
+    {
+      "id": "voltige_radio_dance_fr_952210fc",
+      "title": "Voltige Radio Dance",
+      "subtitle": "Dance",
+      "location": "France",
+      "genre": "Dance",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://flux.radioflow.fr/voltige/stream"
+    },
+    {
+      "id": "nrj_pop_rock_fr_06c1f10f",
+      "title": "NRJ Pop Rock",
+      "subtitle": "Nrj",
+      "location": "France",
+      "genre": "Nrj",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://streaming.nrjaudio.fm/ou76jwf3s5gi"
+    },
+    {
+      "id": "ch_rie_fm_marseille_fr_a350f53b",
+      "title": "Chérie FM Marseille",
+      "subtitle": "Cherie Fm",
+      "location": "France",
+      "genre": "Cherie Fm",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 3,
+      "bitrate": 64,
+      "streamUrl": "https://streaming.nrjaudio.fm/ouy57k36zcw2"
+    },
+    {
+      "id": "radio_fresh_fr_0eb8296e",
+      "title": "Radio Fresh",
+      "subtitle": "Electro",
+      "location": "France",
+      "genre": "Electro",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://radio4.pro-fhi.net/live/RadioFRESH?t=1788083035038"
+    },
+    {
+      "id": "eagle_radio_gb_bd22e1a2",
+      "title": "Eagle Radio",
+      "subtitle": "Adult Contemporary",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Adult Contemporary",
+      "countryCode": "GB",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://ec5.yesstreaming.net:3265/stream"
+    },
+    {
+      "id": "1mix_radio_trance_1_uk_320kb_mp3_gb_6bc45873",
+      "title": "1Mix Radio - Trance #1 (UK) 320kb mp3",
+      "subtitle": "Trance",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Trance",
+      "countryCode": "GB",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 320,
+      "streamUrl": "http://fr2.1mix.co.uk:9000/320"
+    },
+    {
+      "id": "forth_1_mp3_gb_17d9c29f",
+      "title": "Forth 1 Mp3",
+      "subtitle": "Pop",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Pop",
+      "countryCode": "GB",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 112,
+      "streamUrl": "https://stream-al.hellorayo.co.uk/forth1.mp3?direct=true&aw_0_1st.skey=1602676850"
     }
   ]
 }

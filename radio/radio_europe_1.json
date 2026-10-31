@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-30T04:24:38Z",
+  "updated": "2026-10-31T04:08:24Z",
   "region": "europe",
   "part": 1,
   "of": 8,
@@ -3609,19 +3609,6 @@
       "language": "bosnian",
       "clickCount": 1,
       "bitrate": 320
-    },
-    {
-      "id": "rb2_kupre_ki_radio_0356e497",
-      "title": "Kupreški Radio",
-      "subtitle": "Nebeski Radio",
-      "imageUrl": "",
-      "streamUrl": "http://178.209.2.100:10000/live.mp3",
-      "location": "Kanton 10, Bosnia And Herzegovina",
-      "genre": "Nebeski Radio",
-      "countryCode": "BA",
-      "language": "bosnian",
-      "clickCount": 1,
-      "bitrate": 192
     },
     {
       "id": "rb2_moj_radio_e62438ca",
@@ -9888,19 +9875,6 @@
       "subtitle": "Public Radio",
       "imageUrl": "",
       "streamUrl": "http://stream.bnr.bg:8035/radio-blagoevgrad.aac",
-      "location": "Bulgaria",
-      "genre": "Public Radio",
-      "countryCode": "BG",
-      "language": "bulgarian",
-      "clickCount": 0,
-      "bitrate": 36
-    },
-    {
-      "id": "rb2_station_5d08753c",
-      "title": "БНР – Радио Бургас",
-      "subtitle": "Public Radio",
-      "imageUrl": "",
-      "streamUrl": "http://stream.bnr.bg:8037/radio-burgas.aac",
       "location": "Bulgaria",
       "genre": "Public Radio",
       "countryCode": "BG",
@@ -26274,18 +26248,6 @@
       "streamUrl": "https://streaming.giraweb.com/8020/stream"
     },
     {
-      "id": "r_dio_ondas_de_portugal_ad_c055297a",
-      "title": "Rádio Ondas de Portugal",
-      "subtitle": "Fado",
-      "location": "Andorra",
-      "genre": "Fado",
-      "countryCode": "AD",
-      "language": "portuguese",
-      "clickCount": 4,
-      "bitrate": 128,
-      "streamUrl": "https://ssl.ndvendas.eu:9538/stream.mp3/;"
-    },
-    {
       "id": "phonk_nation_radio_cz_bc4ec8bd",
       "title": "Phonk Nation Radio",
       "subtitle": "Phonk",
@@ -27352,18 +27314,6 @@
       "clickCount": 5,
       "bitrate": 96,
       "streamUrl": "https://liveradio.swr.de/sw331ch/swr4bw/"
-    },
-    {
-      "id": "bfbs_radio_germany_de_2fd4731f",
-      "title": "BFBS Radio Germany",
-      "subtitle": "British Forces",
-      "location": "Germany",
-      "genre": "British Forces",
-      "countryCode": "DE",
-      "language": "english",
-      "clickCount": 5,
-      "bitrate": 64,
-      "streamUrl": "http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs5.aac"
     },
     {
       "id": "r_sa_live_de_a27cb51a",
@@ -33448,6 +33398,102 @@
       "clickCount": 3,
       "bitrate": 128,
       "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_1_ROCKAAC_H.aac"
+    },
+    {
+      "id": "r_dio_ondas_de_portugal_ad_c055297a",
+      "title": "Rádio Ondas de Portugal",
+      "subtitle": "Fado",
+      "location": "Andorra",
+      "genre": "Fado",
+      "countryCode": "AD",
+      "language": "portuguese",
+      "clickCount": 8,
+      "bitrate": 128,
+      "streamUrl": "https://ssl.ndvendas.eu:9538/stream.mp3/;"
+    },
+    {
+      "id": "aida_radio_flac_de_ed9cab47",
+      "title": "AIDa radio Flac",
+      "subtitle": "Holiday",
+      "location": "Germany",
+      "genre": "Holiday",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 7,
+      "bitrate": 2000,
+      "streamUrl": "https://cdn05.radio.cloud:8128/AIDA-OMNIA-GAI"
+    },
+    {
+      "id": "80s80s_mv_de_dbe9fd47",
+      "title": "80s80s MV",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 7,
+      "bitrate": 0,
+      "streamUrl": "https://streams.80s80s.de/80s80sMV/mp3-192/streams.80s80s.de/"
+    },
+    {
+      "id": "bavariabeats_de_8aea8bfa",
+      "title": "Bavariabeats",
+      "subtitle": "Drum & Bass",
+      "location": "Germany",
+      "genre": "Drum & Bass",
+      "countryCode": "DE",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "https://stream.bavariabeats.de/live"
+    },
+    {
+      "id": "laut_fm_altertainment_de_4afcedb7",
+      "title": "Laut.fm ALTERTAINMENT",
+      "subtitle": "Alternativ",
+      "location": "Germany",
+      "genre": "Alternativ",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://stream.laut.fm/altertainment"
+    },
+    {
+      "id": "lobpreis_by_echingtv_de_790c644c",
+      "title": "Lobpreis By Echingtv",
+      "subtitle": "Christian",
+      "location": "Germany",
+      "genre": "Christian",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://lobpreis-by-echingtv.stream.laut.fm/lobpreis-by-echingtv"
+    },
+    {
+      "id": "nest_radio_al_3ba71f08",
+      "title": "Nest Radio",
+      "subtitle": "Albanian",
+      "location": "Albania",
+      "genre": "Albanian",
+      "countryCode": "AL",
+      "language": "albanian",
+      "clickCount": 3,
+      "bitrate": 192,
+      "streamUrl": "https://radio.nestnews.al/listen/nest-radio/radio.mp3"
+    },
+    {
+      "id": "egofm_kavka_hq_de_1e1d8ec6",
+      "title": "egoFM Kavka [HQ]",
+      "subtitle": "Egofm",
+      "location": "Germany",
+      "genre": "Egofm",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://cast.egofm.de/egofmkavka.mp3?ar-distributor=ffa0&aw_0_req.gdpr=true"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-30T04:24:38Z",
+  "updated": "2026-10-31T04:08:24Z",
   "region": "oceania",
   "stations": [
     {
@@ -3180,19 +3180,6 @@
       "bitrate": 64
     },
     {
-      "id": "rb2_australian_digital_radio_network_1930s_m_5b26616a",
-      "title": "Australian Digital Radio Network - 1930s (MP3)",
-      "subtitle": "1930S, Oldies",
-      "imageUrl": "http://www.australiandigitalradio.com/favicon.ico",
-      "streamUrl": "http://abm21.com.au:8000/CONTAINER99",
-      "location": "Sydney NSW, Australia",
-      "genre": "1930S",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_australian_digital_radio_network_1940s_b_a115c327",
       "title": "Australian Digital Radio Network - 1940s Band Remotes (MP3)",
       "subtitle": "1940S, Oldies",
@@ -3437,19 +3424,6 @@
       "countryCode": "AU",
       "language": "english",
       "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_australian_digital_radio_network_aussie__0eaca10e",
-      "title": "Australian Digital Radio Network - Aussie Hip Hop (MP3)",
-      "subtitle": "Australian Music, Hip Hop",
-      "imageUrl": "http://www.australiandigitalradio.com/favicon.ico",
-      "streamUrl": "http://abm21.com.au:8000/CONTAINER70",
-      "location": "Sydney NSW, Australia",
-      "genre": "Australian Music",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 1,
       "bitrate": 128
     },
     {
@@ -4851,19 +4825,6 @@
       "streamUrl": "http://abm22.com.au:8000/CONTAINER43",
       "location": "Sydney NSW, Australia",
       "genre": "Old School Rave",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_australian_digital_radio_network_old_tim_f0c08cd8",
-      "title": "Australian Digital Radio Network - Old Time Radio - British (MP3)",
-      "subtitle": "Old Time Radio",
-      "imageUrl": "http://www.australiandigitalradio.com/favicon.ico",
-      "streamUrl": "http://abm21.com.au:8000/CONTAINER7",
-      "location": "Sydney NSW, Australia",
-      "genre": "Old Time Radio",
       "countryCode": "AU",
       "language": "english",
       "clickCount": 0,
@@ -16531,18 +16492,6 @@
       "streamUrl": "https://stream.tripleafm.com.au//"
     },
     {
-      "id": "puketapu_radio_nz_5d460b91",
-      "title": "Puketapu Radio",
-      "subtitle": "Radio",
-      "location": "New Zealand",
-      "genre": "Radio",
-      "countryCode": "NZ",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 0,
-      "streamUrl": "https://a.tunzilla.com/http://usa3.fastcast4u.com:1892/;"
-    },
-    {
       "id": "australian_digital_radio_network_1980s_hair_metal_mp3_au_f8e01dba",
       "title": "Australian Digital Radio Network - 1980s Hair Metal (MP3)",
       "subtitle": "1980S",
@@ -16925,6 +16874,66 @@
       "clickCount": 3,
       "bitrate": 128,
       "streamUrl": "http://abm21.com.au:8000/CONTAINER170"
+    },
+    {
+      "id": "listnr_cooling_fan_white_noise_soundscapes_au_161fe3af",
+      "title": "LiSTNR - Cooling Fan (White Noise) [Soundscapes]",
+      "subtitle": "Cooling Fan",
+      "location": "Australia",
+      "genre": "Cooling Fan",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 8,
+      "bitrate": 0,
+      "streamUrl": "http://wz0liw.scahw.com.au/live/fan_128.stream/playlist.m3u8"
+    },
+    {
+      "id": "labrat_party_radio_au_582752c9",
+      "title": "labrat.party radio",
+      "subtitle": "Assorted",
+      "location": "Australia",
+      "genre": "Assorted",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "https://labrat.party/radio"
+    },
+    {
+      "id": "flipfloppy_s_web_cafe_au_3b38339b",
+      "title": "flipfloppy's web cafe",
+      "subtitle": "Radio",
+      "location": "Australia",
+      "genre": "Radio",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 192,
+      "streamUrl": "https://flipfloppy.net/radio"
+    },
+    {
+      "id": "listnr_hot_girl_walk_hls_au_7d89c096",
+      "title": "LiSTNR - Hot Girl Walk (HLS)",
+      "subtitle": "Hot Girl Walk",
+      "location": "Australia",
+      "genre": "Hot Girl Walk",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "http://wz0liw.scahw.com.au/live/hot-girl-walk.stream/playlist.m3u8"
+    },
+    {
+      "id": "abc_double_j_sa_au_1db3a5c4",
+      "title": "ABC Double J (SA)",
+      "subtitle": "Adult Album Alternative",
+      "location": "Australia",
+      "genre": "Adult Album Alternative",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 252,
+      "streamUrl": "https://streaming.abc-cdn.net.au/audio/hls/doublejsa.m3u8?source=web"
     }
   ]
 }

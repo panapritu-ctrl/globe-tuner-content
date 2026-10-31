@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-30T04:24:38Z",
+  "updated": "2026-10-31T04:08:24Z",
   "region": "europe",
   "part": 8,
   "of": 8,
@@ -15503,15 +15503,6 @@
       "bitrate": 128
     },
     {
-      "id": "90s_rewind_se",
-      "title": "90s Rewind",
-      "subtitle": "90S / Hits",
-      "location": "Sweden",
-      "genre": "Pop",
-      "countryCode": "SE",
-      "streamUrl": "https://mml1.prostream.se/listen/90s_rewind/radio.mp3"
-    },
-    {
       "id": "aftab_se",
       "title": "Aftab",
       "subtitle": "Ambient / Instrumental",
@@ -15689,19 +15680,6 @@
       "language": null,
       "clickCount": 0,
       "bitrate": 192
-    },
-    {
-      "id": "rb2_groove_revival_radio_9c97c1ea",
-      "title": "Groove Revival Radio",
-      "subtitle": "Disco, Funk",
-      "imageUrl": "https://madmix.se/images/logo.jpg",
-      "streamUrl": "https://mml2.prostream.se/listen/groove_revival_radio/radio.mp3",
-      "location": "Sweden",
-      "genre": "Disco",
-      "countryCode": "SE",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
     },
     {
       "id": "rb2_guldkanalen_80_tal_678cb641",
@@ -15936,19 +15914,6 @@
       "language": null,
       "clickCount": 1,
       "bitrate": 192
-    },
-    {
-      "id": "rb2_metal_mayhem_53dac0bd",
-      "title": "Metal Mayhem",
-      "subtitle": "Hard Rock, Heavy Metal",
-      "imageUrl": "https://madmix.se/images/logo.jpg",
-      "streamUrl": "https://mml2.prostream.se/listen/metal_mayhem/radio.mp3",
-      "location": "Sweden",
-      "genre": "Hard Rock",
-      "countryCode": "SE",
-      "language": "english",
-      "clickCount": 1,
-      "bitrate": 128
     },
     {
       "id": "rb_mix_megapol_96342772",
@@ -16192,19 +16157,6 @@
       "language": "swedish",
       "clickCount": 0,
       "bitrate": 96
-    },
-    {
-      "id": "rb2_popburst_5cc4f5dc",
-      "title": "PopBurst",
-      "subtitle": "Hits, Pop",
-      "imageUrl": "https://madmix.se/images/logo.jpg",
-      "streamUrl": "https://mml1.prostream.se/listen/popburst/radio.mp3",
-      "location": "Sweden",
-      "genre": "Hits",
-      "countryCode": "SE",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
     },
     {
       "id": "rb2_puls_fm_bor_s_02443a51",
@@ -25753,6 +25705,78 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://radio.ambiland.space/live.mp3?src=radio-browser"
+    },
+    {
+      "id": "get_radio_ru_6bb5edfe",
+      "title": "get.radio — Шансон",
+      "subtitle": "Chanson",
+      "location": "The Russian Federation",
+      "genre": "Chanson",
+      "countryCode": "RU",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://get-radio.sipout.ai/stream/chanson.mp3"
+    },
+    {
+      "id": "radio_record_10_s_dance_via_marseille_ru_4c7b5629",
+      "title": "Radio Record 10's Dance (via Marseille)",
+      "subtitle": "2010S",
+      "location": "The Russian Federation",
+      "genre": "2010S",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://ijackkos.duckdns.org/10s-dance"
+    },
+    {
+      "id": "station_ru_422d56d7",
+      "title": "Радио Группы Солидарности с КНДР",
+      "subtitle": "Radio",
+      "location": "The Russian Federation",
+      "genre": "Radio",
+      "countryCode": "RU",
+      "language": "korean",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream.zeno.fm/i3q4bwnzxp1uv"
+    },
+    {
+      "id": "get_radio_ru_bc74324f",
+      "title": "get.radio — Рок",
+      "subtitle": "Music",
+      "location": "The Russian Federation",
+      "genre": "Music",
+      "countryCode": "RU",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://get-radio.sipout.ai/stream/rock.mp3"
+    },
+    {
+      "id": "true_la_la_ru_da86d88d",
+      "title": "True La-La",
+      "subtitle": "Music",
+      "location": "The Russian Federation",
+      "genre": "Music",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://radio.4m3.ru/listen/tll/radio.mp3"
+    },
+    {
+      "id": "get_radio_ru_e19a6c77",
+      "title": "get.radio — Хэллоуин",
+      "subtitle": "Halloween",
+      "location": "The Russian Federation",
+      "genre": "Halloween",
+      "countryCode": "RU",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://get-radio.sipout.ai/stream/halloween.mp3"
     }
   ]
 }

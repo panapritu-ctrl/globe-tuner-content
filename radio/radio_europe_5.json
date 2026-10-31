@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-30T04:24:07Z",
+  "updated": "2026-10-31T04:08:25Z",
   "region": "europe",
   "part": 5,
   "of": 8,
@@ -25591,18 +25591,6 @@
       "streamUrl": "https://icast.connectmedia.hu/5301/live.mp3/"
     },
     {
-      "id": "rocker_r_di_hu_106bcd97",
-      "title": "Rocker Rádió",
-      "subtitle": "Classic Rock",
-      "location": "Hungary",
-      "genre": "Classic Rock",
-      "countryCode": "HU",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 256,
-      "streamUrl": "http://rockerradio.online/live.mp3"
-    },
-    {
       "id": "christmas_fm_ireland_ie_e77b17af",
       "title": "Christmas FM Ireland",
       "subtitle": "Radio",
@@ -27845,6 +27833,66 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "https://stream.raffaelerutigliano.com/kirschdrops.mp3"
+    },
+    {
+      "id": "rtl_102_5_groove_it_77fa59c8",
+      "title": "RTL 102.5 - Groove",
+      "subtitle": "Dance",
+      "location": "Italy",
+      "genre": "Dance",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 4,
+      "bitrate": 256,
+      "streamUrl": "https://streamingv2.shoutcast.com/rtl-1025-broandsis"
+    },
+    {
+      "id": "frekvenci_dark_hu_ba7eed9f",
+      "title": "Frekvenci - Dark",
+      "subtitle": "Cinematic",
+      "location": "Hungary",
+      "genre": "Cinematic",
+      "countryCode": "HU",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://stream.frekvenci.com/dark"
+    },
+    {
+      "id": "raitg_it_7f79c86d",
+      "title": "RAITG",
+      "subtitle": "Radio",
+      "location": "Italy",
+      "genre": "Radio",
+      "countryCode": "IT",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 1998,
+      "streamUrl": "https://tgrcampania-live.akamaized.net/hls/live/2025562/tgrcampania/tgrcampania/playlist.m3u8"
+    },
+    {
+      "id": "radio_parsifal_it_cc974803",
+      "title": "Radio Parsifal",
+      "subtitle": "Italian Pop",
+      "location": "Italy",
+      "genre": "Italian Pop",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 3,
+      "bitrate": 0,
+      "streamUrl": "http://onair11.xdevel.com:10044/;stream.mp3"
+    },
+    {
+      "id": "radio_rock_caf_it_a7ddf498",
+      "title": "Radio Rock Cafè",
+      "subtitle": "Radio",
+      "location": "Italy",
+      "genre": "Radio",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "http://nr6.newradio.it:9363/stream"
     }
   ]
 }

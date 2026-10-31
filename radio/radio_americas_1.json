@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-30T04:24:38Z",
+  "updated": "2026-10-31T04:08:24Z",
   "region": "americas",
   "part": 1,
   "of": 5,
@@ -8502,15 +8502,6 @@
       "genre": "Electronic",
       "countryCode": "AW",
       "streamUrl": "http://52.0.120.216:8000/stream/4/"
-    },
-    {
-      "id": "98_1_the_one_bb",
-      "title": "98.1 The One",
-      "subtitle": "Various Music",
-      "location": "Barbados",
-      "genre": "Music",
-      "countryCode": "BB",
-      "streamUrl": "http://108.178.16.190:8000/981fm.mp3"
     },
     {
       "id": "rb_cbc_94_7_fm_e0752410",
@@ -27026,18 +27017,6 @@
       "streamUrl": "https://ingold.thugzone.ca/proxy/thugzone5/stream"
     },
     {
-      "id": "radio_fides_la_paz_bo_e9530f9a",
-      "title": "Radio Fides La Paz",
-      "subtitle": "Noticias",
-      "location": "Bolivia",
-      "genre": "Noticias",
-      "countryCode": "BO",
-      "language": "spanish",
-      "clickCount": 6,
-      "bitrate": 96,
-      "streamUrl": "http://192.95.23.89:6358/stream"
-    },
-    {
       "id": "rede_clamor_missionario_web_br_15731c6d",
       "title": "rede clamor missionario web",
       "subtitle": "Gospel Pop",
@@ -27300,18 +27279,6 @@
       "clickCount": 7,
       "bitrate": 0,
       "streamUrl": "https://radio.nimaarki.com/lofi/stream?_ic2=1"
-    },
-    {
-      "id": "continental_590_am_bs_as_version_3_ar_79ba998d",
-      "title": "Continental 590 AM. Bs. As. Version 3",
-      "subtitle": "Radio",
-      "location": "Argentina",
-      "genre": "Radio",
-      "countryCode": "AR",
-      "language": null,
-      "clickCount": 5,
-      "bitrate": 160,
-      "streamUrl": "https://frontend.radiohdvivo.com/continental/live"
     },
     {
       "id": "frei_caneca_fm_br_ab19d474",
@@ -28332,6 +28299,114 @@
       "clickCount": 3,
       "bitrate": 128,
       "streamUrl": "http://live.leanstream.co/CKWFFM-MP3"
+    },
+    {
+      "id": "fides_la_paz_bo_e9530f9a",
+      "title": "Fides La Paz",
+      "subtitle": "Noticias",
+      "location": "Bolivia",
+      "genre": "Noticias",
+      "countryCode": "BO",
+      "language": "español - latinoamerica",
+      "clickCount": 6,
+      "bitrate": 96,
+      "streamUrl": "http://192.95.23.89:6358/stream"
+    },
+    {
+      "id": "corinthians_radio_craque_neto_br_a2579681",
+      "title": "Corinthians Radio Craque Neto",
+      "subtitle": "Futebol",
+      "location": "Brazil",
+      "genre": "Futebol",
+      "countryCode": "BR",
+      "language": "portuguese",
+      "clickCount": 4,
+      "bitrate": 96,
+      "streamUrl": "https://cp-1.owh.radio.br/listen/owh_s34052/radio-mp3"
+    },
+    {
+      "id": "r_dio_caxias_br_89503d19",
+      "title": "Rádio Caxias",
+      "subtitle": "Caxias Do Sul",
+      "location": "Brazil",
+      "genre": "Caxias Do Sul",
+      "countryCode": "BR",
+      "language": "portuguese",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://stream.radiocaxias.com.br/listen/radiocaxias/radio.mp3"
+    },
+    {
+      "id": "r_dio_tua_voz_br_72d3d50f",
+      "title": "Rádio Tua Voz",
+      "subtitle": "Caxias Do Sul",
+      "location": "Brazil",
+      "genre": "Caxias Do Sul",
+      "countryCode": "BR",
+      "language": "portuguese",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://stream.radiocaxias.com.br/listen/tuavoz/radio.mp3"
+    },
+    {
+      "id": "the_one_98_1_fm_bb_23539337",
+      "title": "The One 98.1 FM",
+      "subtitle": "Caribbean",
+      "location": "Barbados",
+      "genre": "Caribbean",
+      "countryCode": "BB",
+      "language": "english",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "http://108.178.16.190:8000/981fm.mp3"
+    },
+    {
+      "id": "radio_folha_br_2fbf136e",
+      "title": "Radio Folha",
+      "subtitle": "Radio",
+      "location": "Brazil",
+      "genre": "Radio",
+      "countryCode": "BR",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 96,
+      "streamUrl": "https://cc6.streammaximum.com/proxy/radiofolha/stream"
+    },
+    {
+      "id": "melodia_gospel_96_7_fm_foz_br_a5a00937",
+      "title": "Melodia Gospel 96.7 FM Foz",
+      "subtitle": "Brasil",
+      "location": "Brazil",
+      "genre": "Brasil",
+      "countryCode": "BR",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 32,
+      "streamUrl": "https://srv2.braudio.com.br/7598"
+    },
+    {
+      "id": "ultimate_hidden_treasures_of_all_multiverses_br_57610be3",
+      "title": "Ultimate Hidden Treasures Of All Multiverses",
+      "subtitle": "Radio",
+      "location": "Brazil",
+      "genre": "Radio",
+      "countryCode": "BR",
+      "language": null,
+      "clickCount": 3,
+      "bitrate": 64,
+      "streamUrl": "https://sv14.hdradios.net:8216/stream"
+    },
+    {
+      "id": "radio_uirapuru_br_8988c8a6",
+      "title": "Radio Uirapuru",
+      "subtitle": "Deportes",
+      "location": "Brazil",
+      "genre": "Deportes",
+      "countryCode": "BR",
+      "language": "portuguese",
+      "clickCount": 3,
+      "bitrate": 128,
+      "streamUrl": "https://radio.saopaulo01.com.br:7002/stream"
     }
   ]
 }
