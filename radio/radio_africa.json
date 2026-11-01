@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-31T04:08:24Z",
+  "updated": "2026-11-01T04:23:07Z",
   "region": "africa",
   "stations": [
     {
@@ -2702,19 +2702,6 @@
       "streamUrl": "https://stream-156.zeno.fm/yerp85sughwtv"
     },
     {
-      "id": "rb_radio_madjoura_nourou_dine_touba_cf25b2c3",
-      "title": "Radio Madjoura Nourou Dine Touba",
-      "subtitle": "Radio",
-      "imageUrl": "https://static-media.streema.com/media/cache/14/f2/14f220fbd1700ed010689ee913a84771.jpg",
-      "streamUrl": "https://stream.zeno.fm/kgnvaarqu0quv",
-      "location": "Mali",
-      "genre": "Radio",
-      "countryCode": "ML",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 128
-    },
-    {
       "id": "rb_radio_malijet_f63b80ba",
       "title": "Radio Malijet",
       "subtitle": "African Music",
@@ -4021,15 +4008,6 @@
       "genre": "News",
       "countryCode": "SO",
       "streamUrl": "https://av.voanews.com/clips/VSO/2021/04/29/20210429-033000-VSO065-program_48k.mp3"
-    },
-    {
-      "id": "96_3_favour_fm_juba_ss",
-      "title": "96.3 Favour FM Juba",
-      "subtitle": "MP3 0kbps",
-      "location": "South Sudan",
-      "genre": "Music",
-      "countryCode": "SS",
-      "streamUrl": "https://us5new.listen2myradio.com:2199/listen.php?port=8106&type=ice&mount=live"
     },
     {
       "id": "radio_tchad_td",
@@ -9227,18 +9205,6 @@
       "streamUrl": "https://hts02.brascast.com:9288/stream"
     },
     {
-      "id": "bukedde_fm_ug_c45eac27",
-      "title": "Bukedde FM",
-      "subtitle": "Radio",
-      "location": "Uganda",
-      "genre": "Radio",
-      "countryCode": "UG",
-      "language": null,
-      "clickCount": 9,
-      "bitrate": 0,
-      "streamUrl": "https://stream.hydeinnovations.com:2020/stream/bukeddefm/stream"
-    },
-    {
       "id": "bugwere_online_radio_ug_ffe4ce24",
       "title": "Bugwere Online Radio",
       "subtitle": "Culture",
@@ -13173,6 +13139,78 @@
       "clickCount": 3,
       "bitrate": 128,
       "streamUrl": "https://stream.zeno.fm/mhkoskaqqvvtv"
+    },
+    {
+      "id": "r_dio_benguela_ao_66662dcd",
+      "title": "Rádio Benguela",
+      "subtitle": "News",
+      "location": "Angola",
+      "genre": "News",
+      "countryCode": "AO",
+      "language": "portuguese",
+      "clickCount": 5,
+      "bitrate": 64,
+      "streamUrl": "https://paineldj5.com.br:20096/stream"
+    },
+    {
+      "id": "1radio_oguta_community_ng_eb137708",
+      "title": "1Radio Oguta - Community",
+      "subtitle": "Radio",
+      "location": "Nigeria",
+      "genre": "Radio",
+      "countryCode": "NG",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 64,
+      "streamUrl": "https://fm.imediaport.com/1radio.oguta"
+    },
+    {
+      "id": "star_fm_zw_98778208",
+      "title": "Star FM",
+      "subtitle": "News",
+      "location": "Zimbabwe",
+      "genre": "News",
+      "countryCode": "ZW",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 80,
+      "streamUrl": "https://stream.zeno.fm/66qwf50nw98uv"
+    },
+    {
+      "id": "r_dio_escola_ao_8702e547",
+      "title": "Rádio Escola",
+      "subtitle": "Education",
+      "location": "Angola",
+      "genre": "Education",
+      "countryCode": "AO",
+      "language": "portuguese",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://centova87.instainternet.com/proxy/cfjluanda?mp=/stream"
+    },
+    {
+      "id": "1radio_pitakwa_port_harcourt_city_ng_71bc56dc",
+      "title": "1Radio Pitakwa - Port Harcourt City",
+      "subtitle": "Various",
+      "location": "Nigeria",
+      "genre": "Various",
+      "countryCode": "NG",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 64,
+      "streamUrl": "https://fm.imediaport.com/pitakwa"
+    },
+    {
+      "id": "fop_radio_sl_26da388e",
+      "title": "FOP Radio",
+      "subtitle": "Culture",
+      "location": "Sierra Leone",
+      "genre": "Culture",
+      "countryCode": "SL",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream.fopradios.top/main"
     }
   ]
 }

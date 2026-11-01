@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-31T04:08:24Z",
+  "updated": "2026-11-01T04:23:07Z",
   "region": "europe",
   "part": 6,
   "of": 8,
@@ -16015,19 +16015,6 @@
       "bitrate": 320
     },
     {
-      "id": "rb2_radio_regenboog_8fde1523",
-      "title": "Radio Regenboog",
-      "subtitle": "Alternative, Dutch",
-      "imageUrl": "https://radioregenboog.nl/favicon.ico",
-      "streamUrl": "https://server-28.stream-server.nl:18828/stream",
-      "location": "The Netherlands",
-      "genre": "Alternative",
-      "countryCode": "NL",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 192
-    },
-    {
       "id": "rb2_radio_reino_di_dios_dea1c847",
       "title": "Radio Reino Di Dios",
       "subtitle": "Radio",
@@ -27731,6 +27718,18 @@
       "clickCount": 3,
       "bitrate": 192,
       "streamUrl": "https://streams.radioskonto.lv:8443/skonto-hiti"
+    },
+    {
+      "id": "holland_country_radio_nl_bfeabbc8",
+      "title": "Holland Country Radio",
+      "subtitle": "Country",
+      "location": "The Netherlands",
+      "genre": "Country",
+      "countryCode": "NL",
+      "language": "dutch",
+      "clickCount": 4,
+      "bitrate": 320,
+      "streamUrl": "https://caster.hosting078.nl:1405/stream"
     }
   ]
 }

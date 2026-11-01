@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-31T04:08:24Z",
+  "updated": "2026-11-01T04:23:07Z",
   "region": "europe",
   "part": 2,
   "of": 8,
@@ -20767,19 +20767,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_radio_flr_df2f6bd2",
-      "title": "Radio FLR",
-      "subtitle": "Pop Music",
-      "imageUrl": "http://radioflr.dk/wp-content/uploads/2025/12/RadioFLR_Logo.png",
-      "streamUrl": "https://faxe.jtw.dk/stream",
-      "location": "Faxe, Denmark",
-      "genre": "Pop Music",
-      "countryCode": "DK",
-      "language": "danish",
-      "clickCount": 0,
-      "bitrate": 192
-    },
-    {
       "id": "rb2_radio_fasanen_frederiksberg_fae582e4",
       "title": "Radio Fasanen Frederiksberg",
       "subtitle": "Radio",
@@ -26867,19 +26854,6 @@
       "countryCode": "ES",
       "language": null,
       "clickCount": 2,
-      "bitrate": 192
-    },
-    {
-      "id": "rb2_mdt_radio_castell_n_102_4_fm_3e4386e0",
-      "title": "MDT RADIO Castellón 102.4 FM",
-      "subtitle": "Radio",
-      "imageUrl": "https://mdtradio.com/wp-content/uploads/2022/11/logobanner.png",
-      "streamUrl": "https://streams1.mdtradio.com:8443/MdtCastellon",
-      "location": "Spain",
-      "genre": "Radio",
-      "countryCode": "ES",
-      "language": null,
-      "clickCount": 1,
       "bitrate": 192
     },
     {
@@ -33789,6 +33763,114 @@
       "clickCount": 3,
       "bitrate": 324,
       "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4fyn/masterab.m3u8"
+    },
+    {
+      "id": "bayern_2_hls_96_de_cd9f35c7",
+      "title": "Bayern 2 (HLS 96)",
+      "subtitle": "Information",
+      "location": "Germany",
+      "genre": "Information",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "https://br-radio.ard-mcdn.de/br/radio/b2/hls/96/seglist.m3u8"
+    },
+    {
+      "id": "djnoisy_radio_de_a9acd686",
+      "title": "DJNoisy Radio",
+      "subtitle": "Dance",
+      "location": "Germany",
+      "genre": "Dance",
+      "countryCode": "DE",
+      "language": "polish",
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "https://djnoisy-radio.pl/radio.mp3"
+    },
+    {
+      "id": "radio_mixtape_80er_de_440a00bd",
+      "title": "Radio Mixtape - 80er",
+      "subtitle": "1980S",
+      "location": "Germany",
+      "genre": "1980S",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "https://mixtape.cast.addradio.de/mixtape/80er/high/stream.mp3"
+    },
+    {
+      "id": "radio_3_rbb_mq_de_d5df4287",
+      "title": "radio 3 | rbb | MQ",
+      "subtitle": "Austausch Über Kulturelle Themen",
+      "location": "Germany",
+      "genre": "Austausch Über Kulturelle Themen",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "http://www.rbbkultur.de/livemp3_m"
+    },
+    {
+      "id": "mozart_radio_art_de_7fbb98ea",
+      "title": "Mozart Radio Art",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": "low german",
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "http://air.radioart.online/hMozart.mp3?dlid=db5ceb796b3f6b3b40cb449ed670f317"
+    },
+    {
+      "id": "raadio_kidzone_ee_9a7b08de",
+      "title": "Raadio Kidzone",
+      "subtitle": "Radio",
+      "location": "Estonia",
+      "genre": "Radio",
+      "countryCode": "EE",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 160,
+      "streamUrl": "https://le305.euddn.net/719a3c8a4f6b0c20bf45bf05d4b7ff01e2a2bdba37cbe8c11990ed7e66c7dbfe26cdbd616b49d623eb29d2cc8a80cbcf7c045da9a70f7bef302a14e2310a4ea70fbf0dcd84cfd96a0d13ff0b28931e33117cfac53858e4409f2888a946cb3c4dbd24118358a51090698cba38befb8db57d3cd7a2693cfd93ee24c5486782ac931e3e5c99e2c43bfffab35bb68a23d8fc6a5c16dc1cf93328340632c6aaa0a9749bdb3ed4924ed5e3e2ffa251dce49686/kidzone.aac"
+    },
+    {
+      "id": "dein_80er_radio_de_47221f8a",
+      "title": "Dein 80er Radio",
+      "subtitle": "1980S",
+      "location": "Germany",
+      "genre": "1980S",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "http://rnrw.cast.addradio.de/rnrw-0185/dein80er/high/stream.mp3"
+    },
+    {
+      "id": "1_a_hits_von_1a_radio_de_af6a6b44",
+      "title": "- 1 A - Hits von 1A Radio",
+      "subtitle": "Black",
+      "location": "Germany",
+      "genre": "Black",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 64,
+      "streamUrl": "https://1a-hits.radionetz.de/1a-hits.aac"
+    },
+    {
+      "id": "r_sh_mittmann_mix_de_c596c901",
+      "title": "R.SH Mittmann Mix",
+      "subtitle": "Mix",
+      "location": "Germany",
+      "genre": "Mix",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "http://streams.rsh.de/rsh-mittmannmix/mp3-192/homepage/"
     }
   ]
 }

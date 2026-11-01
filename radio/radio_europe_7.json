@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-31T04:08:25Z",
+  "updated": "2026-11-01T04:23:07Z",
   "region": "europe",
   "part": 7,
   "of": 8,
@@ -24566,18 +24566,6 @@
       "streamUrl": "https://141-144-200-199.nip.io/radio.mp3"
     },
     {
-      "id": "radio_veselia_folclor_ro_85c48f32",
-      "title": "Radio Veselia Folclor",
-      "subtitle": "Folk",
-      "location": "Romania",
-      "genre": "Folk",
-      "countryCode": "RO",
-      "language": "romanian",
-      "clickCount": 4,
-      "bitrate": 128,
-      "streamUrl": "http://asculta.radioveseliafolclor.com:8232/;"
-    },
-    {
       "id": "76_8_oceano_pacifico_pt_af88aa98",
       "title": "76,8 OCEANO PACIFICO",
       "subtitle": "Popular",
@@ -25274,18 +25262,6 @@
       "streamUrl": "https://stream.pcradio.ru/Sandra-hi"
     },
     {
-      "id": "anima_amoris_dt_ru_4bfe1708",
-      "title": "Anima Amoris DT",
-      "subtitle": "Dub Techno",
-      "location": "The Russian Federation",
-      "genre": "Dub Techno",
-      "countryCode": "RU",
-      "language": null,
-      "clickCount": 5,
-      "bitrate": 0,
-      "streamUrl": "https://amoris.sknt.ru/dubtechno.mp3"
-    },
-    {
       "id": "vajdas_gretro_rs_60c0d355",
       "title": "vajdaságretro",
       "subtitle": "Oldies & Retro Hits 70S 80S 90S 00S",
@@ -25634,18 +25610,6 @@
       "streamUrl": "https://naxidigital-rnb128ssl.streaming.rs:8122/;stream.nsv"
     },
     {
-      "id": "naxi_chillwave_rs_b49f4885",
-      "title": "Naxi Chillwave",
-      "subtitle": "Pop",
-      "location": "Serbia",
-      "genre": "Pop",
-      "countryCode": "RS",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 128,
-      "streamUrl": "https://naxidigital-chillwave128ssl.streaming.rs:8322/;stream.nsv"
-    },
-    {
       "id": "naxi_adore_rs_d24050be",
       "title": "Naxi Adore",
       "subtitle": "International",
@@ -25668,6 +25632,66 @@
       "clickCount": 4,
       "bitrate": 192,
       "streamUrl": "https://radio.transmit.ru/listen/transmit/transmit_192.mp3"
+    },
+    {
+      "id": "radio_mango_ai_pl_10ac27bf",
+      "title": "Radio Mango AI",
+      "subtitle": "Ai Music",
+      "location": "Poland",
+      "genre": "Ai Music",
+      "countryCode": "PL",
+      "language": "english",
+      "clickCount": 6,
+      "bitrate": 192,
+      "streamUrl": "https://stream.radiomango.ai/listen/radio_mango_ai/radio.mp3"
+    },
+    {
+      "id": "naxi_millennium_radio_rs_33751b99",
+      "title": "Naxi Millennium Radio",
+      "subtitle": "Top Hits",
+      "location": "Serbia",
+      "genre": "Top Hits",
+      "countryCode": "RS",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://naxidigital-millennium128ssl.streaming.rs:8342/;stream.nsv"
+    },
+    {
+      "id": "radio_kuropatwa_pl_069c3e20",
+      "title": "Radio Kuropatwa",
+      "subtitle": "Radio",
+      "location": "Poland",
+      "genre": "Radio",
+      "countryCode": "PL",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "http://stream.radiojar.com/ypspphhxfm8uv"
+    },
+    {
+      "id": "vibe_fm_ro_7e1796b8",
+      "title": "Vibe FM",
+      "subtitle": "Pop",
+      "location": "Romania",
+      "genre": "Pop",
+      "countryCode": "RO",
+      "language": "romanian",
+      "clickCount": 4,
+      "bitrate": 64,
+      "streamUrl": "https://astreaming.vibefm.ro:8443/vibe_ro64"
+    },
+    {
+      "id": "antena_krusevac_rs_793f27dd",
+      "title": "Antena Krusevac",
+      "subtitle": "Radio",
+      "location": "Serbia",
+      "genre": "Radio",
+      "countryCode": "RS",
+      "language": "serbian",
+      "clickCount": 4,
+      "bitrate": 320,
+      "streamUrl": "http://antenaradio.org:4560/;stream.nsv"
     }
   ]
 }

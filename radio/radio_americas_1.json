@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-31T04:08:24Z",
+  "updated": "2026-11-01T04:23:07Z",
   "region": "americas",
   "part": 1,
   "of": 5,
@@ -2326,19 +2326,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_fm_lider_98_1_bd0bce32",
-      "title": "FM Lider 98.1",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://streaming01.shockmedia.com.ar:10749/stream?icy=http",
-      "location": "Santa Fe, Argentina",
-      "genre": "Radio",
-      "countryCode": "AR",
-      "language": "español argentina",
-      "clickCount": 0,
-      "bitrate": 40
-    },
-    {
       "id": "rb2_fm_millenium_106_7_05662b06",
       "title": "FM Millenium 106.7",
       "subtitle": "Magazine, Music",
@@ -2944,19 +2931,6 @@
       "language": null,
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_gx_radio_b1344ad1",
-      "title": "GX Radio",
-      "subtitle": "00S, 1980'S",
-      "imageUrl": "",
-      "streamUrl": "https://streaming01.radiosenlinea.com.ar:10961/stream",
-      "location": "Argentina",
-      "genre": "00S",
-      "countryCode": "AR",
-      "language": "español - latinoamerica",
-      "clickCount": 0,
-      "bitrate": 192
     },
     {
       "id": "rb2_good_radio_83115e02",
@@ -7698,19 +7672,6 @@
       "language": "español argentina",
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_del_sol_93_7_c6b24d3a",
-      "title": "Radio del Sol 93.7",
-      "subtitle": "Radio",
-      "imageUrl": "https://radioarg.net/storage/radios/25307/69924/conversions/WVFVsQIjDPo81pPtF8LMoVi1lTjU78-metaZGVsLXNvbC05MzcuanBn--lg.webp",
-      "streamUrl": "https://stream.hego.com.ar/listen/radio_del_sol/radio.mp3",
-      "location": "Argentina",
-      "genre": "Radio",
-      "countryCode": "AR",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 96
     },
     {
       "id": "rb2_radio_el_buen_samaritano_101_7_fm_a42e0e04",
@@ -28407,6 +28368,66 @@
       "clickCount": 3,
       "bitrate": 128,
       "streamUrl": "https://radio.saopaulo01.com.br:7002/stream"
+    },
+    {
+      "id": "frecuencia_97_ar_36247b0f",
+      "title": "Frecuencia 97",
+      "subtitle": "News",
+      "location": "Argentina",
+      "genre": "News",
+      "countryCode": "AR",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "https://frecuencia97.com.ar/stream"
+    },
+    {
+      "id": "bo_guia_88_9_fm_aw_55a5998f",
+      "title": "Bo Guia 88.9 FM",
+      "subtitle": "Radio",
+      "location": "Aruba",
+      "genre": "Radio",
+      "countryCode": "AW",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "http://whooshserver.net:9880/live"
+    },
+    {
+      "id": "fm_fribuay_90_7_ar_da754afb",
+      "title": "FM Fribuay 90.7",
+      "subtitle": "Alternative",
+      "location": "Argentina",
+      "genre": "Alternative",
+      "countryCode": "AR",
+      "language": "spanish",
+      "clickCount": 4,
+      "bitrate": 48,
+      "streamUrl": "https://cdn.instream.audio:9117/stream"
+    },
+    {
+      "id": "r_dio_record_77_1_fm_br_5e30ac2a",
+      "title": "Rádio Record 77,1 FM",
+      "subtitle": "Eclética",
+      "location": "Brazil",
+      "genre": "Eclética",
+      "countryCode": "BR",
+      "language": "português (br)",
+      "clickCount": 4,
+      "bitrate": 105,
+      "streamUrl": "https://station.azrmcsoftbroadcast.com.br/hls/radiorecordfm/live.m3u8"
+    },
+    {
+      "id": "104_7_fm_natal_rn_brazil_br_0a9b6cae",
+      "title": "104.7 FM Natal RN Brazil",
+      "subtitle": "Radio",
+      "location": "Brazil",
+      "genre": "Radio",
+      "countryCode": "BR",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://radios.braviahost.com.br:8000/radio.mp3"
     }
   ]
 }

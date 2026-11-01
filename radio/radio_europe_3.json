@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-31T04:08:24Z",
+  "updated": "2026-11-01T04:23:07Z",
   "region": "europe",
   "part": 3,
   "of": 8,
@@ -2936,19 +2936,6 @@
       "genre": "Radio",
       "streamUrl": "https://sonic.mediatelekom.net/8096/stream",
       "countryCode": "ES"
-    },
-    {
-      "id": "rb2_radio_sintonia_18da9be6",
-      "title": "Radio Sintonia",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://eu1.lhdserver.es:8055/stream",
-      "location": "Spain",
-      "genre": "Radio",
-      "countryCode": "ES",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
     },
     {
       "id": "rb2_radio_sitges_808bfc30",
@@ -18388,15 +18375,6 @@
       "bitrate": 128
     },
     {
-      "id": "rfm_pop_rock_fr_dbdae1",
-      "title": "RFM POP-ROCK",
-      "subtitle": "Chansons Françaises",
-      "location": "France",
-      "genre": "Pop",
-      "countryCode": "FR",
-      "streamUrl": "https://stream.rfm.fr/rfm-wr10.aac"
-    },
-    {
       "id": "rb2_rfm_slow_797a7993",
       "title": "RFM Slow",
       "subtitle": "Radio",
@@ -19251,19 +19229,6 @@
       "language": null,
       "clickCount": 4,
       "bitrate": 256
-    },
-    {
-      "id": "rb2_radio_brony_7afe45d4",
-      "title": "Radio Brony",
-      "subtitle": "Brony, Fan Music",
-      "imageUrl": "https://radiobrony.fr/img/icons/bwavatar-details.png",
-      "streamUrl": "https://radio.radiobrony.fr/mp3",
-      "location": "France",
-      "genre": "Brony",
-      "countryCode": "FR",
-      "language": "french",
-      "clickCount": 1,
-      "bitrate": 128
     },
     {
       "id": "rb2_radio_brony_aac_91de6a20",
@@ -26435,6 +26400,150 @@
       "clickCount": 3,
       "bitrate": 112,
       "streamUrl": "https://stream-al.hellorayo.co.uk/forth1.mp3?direct=true&aw_0_1st.skey=1602676850"
+    },
+    {
+      "id": "mfm_nouvelle_sc_ne_fr_2d35ebf2",
+      "title": "mfm nouvelle scène",
+      "subtitle": "Radio",
+      "location": "France",
+      "genre": "Radio",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 8,
+      "bitrate": 128,
+      "streamUrl": "http://mfmwr-005.ice.infomaniak.ch/mfmwr-005.mp3"
+    },
+    {
+      "id": "24_7_punk_gb_eb09251e",
+      "title": "24-7 Punk",
+      "subtitle": "Punk",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Punk",
+      "countryCode": "GB",
+      "language": null,
+      "clickCount": 8,
+      "bitrate": 128,
+      "streamUrl": "https://stream.rcast.net/1003807"
+    },
+    {
+      "id": "nrj_nouveaut_s_fran_aises_fr_30cc6cd5",
+      "title": "NRJ Nouveautés Françaises",
+      "subtitle": "Nrj",
+      "location": "France",
+      "genre": "Nrj",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://streaming.nrjaudio.fm/ou76qmf3s5gi"
+    },
+    {
+      "id": "clapas_jazz_fr_cec635b3",
+      "title": "Clapas Jazz",
+      "subtitle": "Radio",
+      "location": "France",
+      "genre": "Radio",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://stream.radioclapas.fr/listen/clapas_jazz/radio.mp3"
+    },
+    {
+      "id": "arabika_radio_gb_5bd057b5",
+      "title": "Arabika Radio - راديو أرابيكا",
+      "subtitle": "Radio",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Radio",
+      "countryCode": "GB",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "https://listen.arabika.co.uk/radio.mp3"
+    },
+    {
+      "id": "dukebox_radio_the_voice_of_the_wellington_academy_gb_db9ed9c1",
+      "title": "DukeBox Radio – The Voice of the Wellington Academy",
+      "subtitle": "Music",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Music",
+      "countryCode": "GB",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "https://stream4.themediasite.co.uk:8020/;"
+    },
+    {
+      "id": "radio_popular_herri_irratia_bilbao_es_fa13d764",
+      "title": "Radio Popular Herri Irratia - Bilbao",
+      "subtitle": "Local News",
+      "location": "Spain",
+      "genre": "Local News",
+      "countryCode": "ES",
+      "language": "spanish",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://79.137.33.224/radiopopular2"
+    },
+    {
+      "id": "music_radio_jazz_fr_46303a16",
+      "title": "Music Radio Jazz",
+      "subtitle": "Ai Music",
+      "location": "France",
+      "genre": "Ai Music",
+      "countryCode": "FR",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://radio.musicradio.ai/listen/music_radio_jazz/radio.mp3"
+    },
+    {
+      "id": "lyxia_radio_fr_522f80a4",
+      "title": "Lyxia Radio",
+      "subtitle": "Hits",
+      "location": "France",
+      "genre": "Hits",
+      "countryCode": "FR",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 320,
+      "streamUrl": "https://radio.helyxia.fr/listen/lyxia/radio.mp3?t=1793111228890"
+    },
+    {
+      "id": "nostalgie_fm_fr_3a02c041",
+      "title": "Nostalgie FM",
+      "subtitle": "Pop",
+      "location": "France",
+      "genre": "Pop",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://streaming.nrjaudio.fm/ouwgwqsk6j4d?origine=playernostalgie&aw_0_req.userConsentV2=CQaT2UAQaT2UAAHABBENCDFsAP_gAEPgAAqIJ2tR_G_fbWlj-TZ1YfpkeYwP99gj7sQxBgSJk24FyJvW7JwSx2ExJAzapqIKmRIAu3TBAQNlGIDURUAAIIgVqSDMaESUgTNKJ6BEiFMRI2JYCFxvm4FDWQCY5kp99lcxmB-N7dr8yNzgAgAAAUCAIQAgAIABAACIAAAgAAAAAQAAAiwACAAAAAAAAEAAAFAAAABAAAEAAAACAAAABAAAIJ2gAmGhUQQlgQABAoGAECAAQVhABQIAgAASBggIASBgU5AwAXWEyAAAKAAYIAQAAgwABAAAJAAhEAEABAIAAIBAIAAQAAAAIACBAADABYiAQAAgOgYBAQQCBYAJGZVBpgQgAJBASyFCAAAAgAACAAQAAAIAAAAAAAAAgAAAAAAAAggAAAAAAAAAAAAAAAAAAEABAAAAAAAAAAAAABAAAIAA.f_wACHwAAAAA&aw_0_1st.station="
+    },
+    {
+      "id": "ici_saint_etienne_loire_fr_7ae8f7af",
+      "title": "ICI Saint-Etienne Loire",
+      "subtitle": "Région",
+      "location": "France",
+      "genre": "Région",
+      "countryCode": "FR",
+      "language": "francaise",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://icecast.radiofrance.fr/fbstetienne-midfi.mp3"
+    },
+    {
+      "id": "trent_sound_gb_92080743",
+      "title": "Trent Sound",
+      "subtitle": "1970S",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "1970S",
+      "countryCode": "GB",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream2.hippynet.co.uk/stream/trentsound"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-31T04:08:25Z",
+  "updated": "2026-11-01T04:23:07Z",
   "region": "americas",
   "part": 2,
   "of": 5,
@@ -16553,19 +16553,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_brice_o_stereo_105_4_fm_92b7070b",
-      "title": "Briceño Stereo 105.4 FM",
-      "subtitle": "Champeta, Crossover",
-      "imageUrl": "",
-      "streamUrl": "https://streamingmediaradio.live/8026/stream",
-      "location": "Colombia",
-      "genre": "Champeta",
-      "countryCode": "CO",
-      "language": "spanish",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_brisa_fm_93_1_15d99cb3",
       "title": "Brisa FM 93.1",
       "subtitle": "Baladas En Español, Crossover",
@@ -22020,19 +22007,6 @@
       "language": "spanish",
       "clickCount": 1,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_amanecer_e3b3b8c8",
-      "title": "Radio Amanecer",
-      "subtitle": "Christian, Christian Music",
-      "imageUrl": "https://radioamanecer.org.do/img/logoGrande.png",
-      "streamUrl": "https://sp.sintonizapp.com:7003/;type=mp3",
-      "location": "The Dominican Republic",
-      "genre": "Christian",
-      "countryCode": "DO",
-      "language": "español - latinoamerica",
-      "clickCount": 1,
-      "bitrate": 96
     },
     {
       "id": "radio_bachata_do_2d7455",
@@ -27706,18 +27680,6 @@
       "streamUrl": "https://stream.radio.co/s904013bb1/listen"
     },
     {
-      "id": "duna_cl_68648ea7",
-      "title": "Duna",
-      "subtitle": "Business News",
-      "location": "Chile",
-      "genre": "Business News",
-      "countryCode": "CL",
-      "language": "español chile",
-      "clickCount": 5,
-      "bitrate": 128,
-      "streamUrl": "https://hls-audio-cl-1-isp.dps.live/duna/gotardis/audio/now/livestream1.m3u8"
-    },
-    {
       "id": "alien_radio_ca_612c8943",
       "title": "Alien Radio",
       "subtitle": "Electronic",
@@ -28076,18 +28038,6 @@
       "clickCount": 3,
       "bitrate": 96,
       "streamUrl": "https://14223.live.streamtheworld.com/CFJO_FM.mp3"
-    },
-    {
-      "id": "ckdk_103_9_country_104_woodstock_on_ca_cf4f8800",
-      "title": "CKDK 103.9 \"Country 104\" Woodstock, ON",
-      "subtitle": "Commercial",
-      "location": "Canada",
-      "genre": "Commercial",
-      "countryCode": "CA",
-      "language": "english",
-      "clickCount": 3,
-      "bitrate": 128,
-      "streamUrl": "http://live.leanstream.co/CKDKFM-MP3"
     },
     {
       "id": "digital_105_5_fm_talca_cl_67d59648",
@@ -28616,6 +28566,54 @@
       "clickCount": 3,
       "bitrate": 146,
       "streamUrl": "https://r90.letio.com/io/?gs=7282&type=live.m3u8"
+    },
+    {
+      "id": "areito_st_reo_co_45642170",
+      "title": "Areito Stéreo",
+      "subtitle": "Radio",
+      "location": "Colombia",
+      "genre": "Radio",
+      "countryCode": "CO",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 320,
+      "streamUrl": "https://virtual3.emisorasvirtuales.com:8220/live"
+    },
+    {
+      "id": "cing_fm_energy_95_3_hamilton_on_aac_stream_ca_82ffa6ed",
+      "title": "CING-FM \"Energy 95.3\" Hamilton, ON (AAC Stream)",
+      "subtitle": "Corus Media",
+      "location": "Canada",
+      "genre": "Corus Media",
+      "countryCode": "CA",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 57,
+      "streamUrl": "http://live.leanstream.co/CINGFM"
+    },
+    {
+      "id": "cjkr_97_5_power_97_winnipeg_mb_ca_674fb869",
+      "title": "CJKR 97.5 \"Power 97\" Winnipeg, MB",
+      "subtitle": "Active Rock",
+      "location": "Canada",
+      "genre": "Active Rock",
+      "countryCode": "CA",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://live.leanstream.co/CJKRFM-MP3"
+    },
+    {
+      "id": "radio_kurruf_cl_74b5b8fb",
+      "title": "Radio Kurruf",
+      "subtitle": "Radio",
+      "location": "Chile",
+      "genre": "Radio",
+      "countryCode": "CL",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://radio.latina.red/radiokurruf.mp3?_=1"
     }
   ]
 }

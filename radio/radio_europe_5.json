@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-31T04:08:25Z",
+  "updated": "2026-11-01T04:23:07Z",
   "region": "europe",
   "part": 5,
   "of": 8,
@@ -7680,19 +7680,6 @@
       "streamUrl": "http://netradio.live24.gr/dromos2"
     },
     {
-      "id": "rb2_105_4_680e1107",
-      "title": "Δρόμος 105.4",
-      "subtitle": "Greek Music",
-      "imageUrl": "http://resources.live24.gr/resources/images/stations/593d0b7f-7ebc-43ad-a973-87cfd1e586b3.png",
-      "streamUrl": "https://sc2.streamwithq.com:8124/stream?type=http&nocache=239",
-      "location": "Chania, Greece",
-      "genre": "Greek Music",
-      "countryCode": "GR",
-      "language": "greek",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_90_5_998ae199",
       "title": "ΕΝΑ 90.5",
       "subtitle": "Radio",
@@ -14527,19 +14514,6 @@
       "language": "hungarian",
       "clickCount": 3,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_nemzeti_sport_radio_bc28ee22",
-      "title": "Nemzeti Sport Radio",
-      "subtitle": "Entertainment, Pop",
-      "imageUrl": "https://netradio.online/files/styles/180/public/logo/nemzeti-sportradio.jpg?itok=kDexZ43P",
-      "streamUrl": "https://icast.connectmedia.hu/4656/mr11.aac",
-      "location": "Hungary",
-      "genre": "Entertainment",
-      "countryCode": "HU",
-      "language": "hungarian",
-      "clickCount": 2,
-      "bitrate": 96
     },
     {
       "id": "rb2_nemzeti_sportr_di_59d532c2",
@@ -27199,18 +27173,6 @@
       "streamUrl": "https://stream9.xdevel.com/audio2s975936-745/stream/icecast.audio"
     },
     {
-      "id": "radio_zeta_it_3edc2fe9",
-      "title": "Radio Zeta",
-      "subtitle": "Radio",
-      "location": "Italy",
-      "genre": "Radio",
-      "countryCode": "IT",
-      "language": "italian",
-      "clickCount": 12,
-      "bitrate": 96,
-      "streamUrl": "https://streamingv2.shoutcast.com/radio-zeta_48.aac"
-    },
-    {
       "id": "nexus_iba_italian_radio_relay_service_it_6faf33b4",
       "title": "Nexus-IBA Italian Radio Relay Service",
       "subtitle": "Features",
@@ -27245,18 +27207,6 @@
       "clickCount": 3,
       "bitrate": 320,
       "streamUrl": "http://stream12.top-ix.org/radio6023"
-    },
-    {
-      "id": "ambient_lounge_on_mixlive_net_ie_6999a3b2",
-      "title": "Ambient Lounge on MixLive.net",
-      "subtitle": "Ambient",
-      "location": "Ireland",
-      "genre": "Ambient",
-      "countryCode": "IE",
-      "language": "english",
-      "clickCount": 9,
-      "bitrate": 192,
-      "streamUrl": "https://free.rcast.net/200707"
     },
     {
       "id": "frekvenci_night_drive_hu_b761a570",
@@ -27835,18 +27785,6 @@
       "streamUrl": "https://stream.raffaelerutigliano.com/kirschdrops.mp3"
     },
     {
-      "id": "rtl_102_5_groove_it_77fa59c8",
-      "title": "RTL 102.5 - Groove",
-      "subtitle": "Dance",
-      "location": "Italy",
-      "genre": "Dance",
-      "countryCode": "IT",
-      "language": "italian",
-      "clickCount": 4,
-      "bitrate": 256,
-      "streamUrl": "https://streamingv2.shoutcast.com/rtl-1025-broandsis"
-    },
-    {
       "id": "frekvenci_dark_hu_ba7eed9f",
       "title": "Frekvenci - Dark",
       "subtitle": "Cinematic",
@@ -27893,6 +27831,42 @@
       "clickCount": 3,
       "bitrate": 128,
       "streamUrl": "http://nr6.newradio.it:9363/stream"
+    },
+    {
+      "id": "radio_index_it_822fabc6",
+      "title": "Radio Index",
+      "subtitle": "Dance",
+      "location": "Italy",
+      "genre": "Dance",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 7,
+      "bitrate": 192,
+      "streamUrl": "https://radio.indexhub.it/stream"
+    },
+    {
+      "id": "cool_fm_belfast_ie_a0b77de7",
+      "title": "Cool FM Belfast",
+      "subtitle": "Pop",
+      "location": "Ireland",
+      "genre": "Pop",
+      "countryCode": "IE",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 112,
+      "streamUrl": "https://stream-al.hellorayo.co.uk/coolfm.mp3?direct=true&aw_0_1st.skey=1602676850&rp_source=1"
+    },
+    {
+      "id": "music_star_jovanotti_it_648c9549",
+      "title": "MUSIC STAR Jovanotti",
+      "subtitle": "Mediaset",
+      "location": "Italy",
+      "genre": "Mediaset",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://icy.unitedradio.it/Jovanotti.mp3"
     }
   ]
 }

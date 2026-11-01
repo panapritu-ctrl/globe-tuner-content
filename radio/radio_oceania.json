@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-31T04:08:24Z",
+  "updated": "2026-11-01T04:23:07Z",
   "region": "oceania",
   "stations": [
     {
@@ -3466,19 +3466,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_australian_digital_radio_network_barry_m_fdceab0a",
-      "title": "Australian Digital Radio Network - Barry Manilow (MP3)",
-      "subtitle": "Barry Manilow",
-      "imageUrl": "http://www.australiandigitalradio.com/favicon.ico",
-      "streamUrl": "http://abm22.com.au:8000/CONTAINER131",
-      "location": "Sydney NSW, Australia",
-      "genre": "Barry Manilow",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_australian_digital_radio_network_bass_ho_767190d1",
       "title": "Australian Digital Radio Network - Bass House (MP3)",
       "subtitle": "Bass House",
@@ -3554,19 +3541,6 @@
       "countryCode": "AU",
       "language": "english",
       "clickCount": 2,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_australian_digital_radio_network_britney_97a5b52a",
-      "title": "Australian Digital Radio Network - Britney Spears (MP3)",
-      "subtitle": "Britney Spears",
-      "imageUrl": "http://www.australiandigitalradio.com/favicon.ico",
-      "streamUrl": "http://abm22.com.au:8000/CONTAINER99",
-      "location": "Sydney NSW, Australia",
-      "genre": "Britney Spears",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
       "bitrate": 128
     },
     {
@@ -4298,19 +4272,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_australian_digital_radio_network_future__2191cd90",
-      "title": "Australian Digital Radio Network - Future House (MP3)",
-      "subtitle": "Future House",
-      "imageUrl": "http://www.australiandigitalradio.com/favicon.ico",
-      "streamUrl": "http://abm22.com.au:8000/CONTAINER30",
-      "location": "Sydney NSW, Australia",
-      "genre": "Future House",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_australian_digital_radio_network_garth_b_f1b2358f",
       "title": "Australian Digital Radio Network - Garth Brooks (MP3)",
       "subtitle": "Garth Brooks",
@@ -4409,19 +4370,6 @@
       "streamUrl": "http://abm22.com.au:8000/CONTAINER33",
       "location": "Sydney NSW, Australia",
       "genre": "Hardstyle",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_australian_digital_radio_network_house_m_0404b760",
-      "title": "Australian Digital Radio Network - House (MP3)",
-      "subtitle": "House",
-      "imageUrl": "http://www.australiandigitalradio.com/favicon.ico",
-      "streamUrl": "http://abm22.com.au:8000/CONTAINER35",
-      "location": "Sydney NSW, Australia",
-      "genre": "House",
       "countryCode": "AU",
       "language": "english",
       "clickCount": 0,
@@ -4552,19 +4500,6 @@
       "streamUrl": "http://abm22.com.au:8000/CONTAINER39",
       "location": "Sydney NSW, Australia",
       "genre": "Breakbeat",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_australian_digital_radio_network_justin__e560e62a",
-      "title": "Australian Digital Radio Network - Justin Bieber (MP3)",
-      "subtitle": "Justin Bieber",
-      "imageUrl": "http://www.australiandigitalradio.com/favicon.ico",
-      "streamUrl": "http://abm22.com.au:8000/CONTAINER115",
-      "location": "Sydney NSW, Australia",
-      "genre": "Justin Bieber",
       "countryCode": "AU",
       "language": "english",
       "clickCount": 0,
@@ -4815,19 +4750,6 @@
       "countryCode": "AU",
       "language": "english",
       "clickCount": 1,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_australian_digital_radio_network_old_sch_190fe80f",
-      "title": "Australian Digital Radio Network - Old School Rave (MP3)",
-      "subtitle": "Old School Rave",
-      "imageUrl": "http://www.australiandigitalradio.com/favicon.ico",
-      "streamUrl": "http://abm22.com.au:8000/CONTAINER43",
-      "location": "Sydney NSW, Australia",
-      "genre": "Old School Rave",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
       "bitrate": 128
     },
     {
@@ -5504,19 +5426,6 @@
       "countryCode": "AU",
       "language": "english",
       "clickCount": 1,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_australian_digital_radio_network_tropica_fbdb1d70",
-      "title": "Australian Digital Radio Network - Tropical House (MP3)",
-      "subtitle": "Tropical House",
-      "imageUrl": "http://www.australiandigitalradio.com/favicon.ico",
-      "streamUrl": "http://abm22.com.au:8000/CONTAINER66",
-      "location": "Sydney NSW, Australia",
-      "genre": "Tropical House",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
       "bitrate": 128
     },
     {
@@ -16934,6 +16843,30 @@
       "clickCount": 3,
       "bitrate": 252,
       "streamUrl": "https://streaming.abc-cdn.net.au/audio/hls/doublejsa.m3u8?source=web"
+    },
+    {
+      "id": "abc_radio_national_vic_au_551269dc",
+      "title": "ABC Radio National (VIC)",
+      "subtitle": "Arts",
+      "location": "Australia",
+      "genre": "Arts",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 115,
+      "streamUrl": "https://streaming.abc-cdn.net.au/audio/hls/rnvic.m3u8?source=web"
+    },
+    {
+      "id": "australian_digital_radio_network_the_rolling_stones_mp3_au_d6af360e",
+      "title": "Australian Digital Radio Network - The Rolling Stones (MP3)",
+      "subtitle": "The Rolling Stones",
+      "location": "Australia",
+      "genre": "The Rolling Stones",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://abm21.com.au:8000/CONTAINER149"
     }
   ]
 }

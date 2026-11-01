@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-10-31T04:08:24Z",
+  "updated": "2026-11-01T04:23:07Z",
   "region": "europe",
   "part": 1,
   "of": 8,
@@ -2279,19 +2279,6 @@
       "genre": "Children",
       "countryCode": "AT",
       "streamUrl": "http://stream01.zogl.net:8906/stream"
-    },
-    {
-      "id": "rb2_radio_agora_105_5_7387b7ff",
-      "title": "Radio Agora 105,5",
-      "subtitle": "Free Radio, Freies Radio",
-      "imageUrl": "https://www.agora.at/images/favicons/apple-touch-icon.png",
-      "streamUrl": "https://livestream.agora.at/agora",
-      "location": "Kärnten, Austria",
-      "genre": "Free Radio",
-      "countryCode": "AT",
-      "language": "english",
-      "clickCount": 1,
-      "bitrate": 192
     },
     {
       "id": "rb2_radio_alpenstar_7fe861a9",
@@ -10381,19 +10368,6 @@
       "language": "belarusian",
       "clickCount": 4,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_station_b6c195a2",
-      "title": "Радио Могилёв",
-      "subtitle": "Radio",
-      "imageUrl": "https://www.tvrmogilev.by/_img/logo-radio.svg",
-      "streamUrl": "https://stream2.datacenter.by/tvrmogilev",
-      "location": "Belarus",
-      "genre": "Radio",
-      "countryCode": "BY",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 320
     },
     {
       "id": "rb2_station_2221668c",
@@ -32056,18 +32030,6 @@
       "streamUrl": "https://streams.badrockradio.net/hard-heavy"
     },
     {
-      "id": "munich_vinyl_radio_de_95ba4d46",
-      "title": "Munich Vinyl Radio",
-      "subtitle": "Jazz",
-      "location": "Germany",
-      "genre": "Jazz",
-      "countryCode": "DE",
-      "language": "german",
-      "clickCount": 5,
-      "bitrate": 128,
-      "streamUrl": "https://stream.munichvinylradio.de/listen/mvr/stream192k.flac"
-    },
-    {
       "id": "95_5_charivari_italo_hits_de_6f99f83d",
       "title": "95.5 Charivari Italo Hits",
       "subtitle": "Radio",
@@ -33494,6 +33456,114 @@
       "clickCount": 3,
       "bitrate": 128,
       "streamUrl": "https://cast.egofm.de/egofmkavka.mp3?ar-distributor=ffa0&aw_0_req.gdpr=true"
+    },
+    {
+      "id": "1_liga_spiel_8_sportschau_de_2874a1bc",
+      "title": "1. Liga Spiel 8 - Sportschau",
+      "subtitle": "Bundesliga",
+      "location": "Germany",
+      "genre": "Bundesliga",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 7,
+      "bitrate": 128,
+      "streamUrl": "https://dispatcher.rndfnk.com/wdr/sportschau/liga1spiel8/mp3/128/stream.mp3"
+    },
+    {
+      "id": "cashmere_radio_de_74628527",
+      "title": "Cashmere Radio",
+      "subtitle": "Berlin",
+      "location": "Germany",
+      "genre": "Berlin",
+      "countryCode": "DE",
+      "language": "english",
+      "clickCount": 6,
+      "bitrate": 192,
+      "streamUrl": "http://cashmereradio.out.airtime.pro:8000/cashmereradio_b"
+    },
+    {
+      "id": "paper_radio_al_d2116206",
+      "title": "Paper Radio",
+      "subtitle": "News",
+      "location": "Albania",
+      "genre": "News",
+      "countryCode": "AL",
+      "language": "albanian",
+      "clickCount": 5,
+      "bitrate": 320,
+      "streamUrl": "https://business.playfm.al:8170/paperplay"
+    },
+    {
+      "id": "raduo_proglas_cz_c22d2ea9",
+      "title": "Raduo Proglas",
+      "subtitle": "Christian",
+      "location": "Czechia",
+      "genre": "Christian",
+      "countryCode": "CZ",
+      "language": "česky",
+      "clickCount": 5,
+      "bitrate": 32,
+      "streamUrl": "http://icecast1.play.cz/proglas32aac"
+    },
+    {
+      "id": "radio_dreisam_de_fb6a226b",
+      "title": "Radio Dreisam",
+      "subtitle": "Alternative Indie Rock",
+      "location": "Germany",
+      "genre": "Alternative Indie Rock",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://stream.laut.fm/radio-dreisam"
+    },
+    {
+      "id": "love_radio_digital_al_a3cfd272",
+      "title": "Love Radio Digital",
+      "subtitle": "Balada",
+      "location": "Albania",
+      "genre": "Balada",
+      "countryCode": "AL",
+      "language": "albanian",
+      "clickCount": 4,
+      "bitrate": 160,
+      "streamUrl": "https://radios.albaniadigitalradio.al/albanialoveradio"
+    },
+    {
+      "id": "crazyradio_cz_cz_f051459d",
+      "title": "CrazyRadio.cz",
+      "subtitle": "Radio",
+      "location": "Czechia",
+      "genre": "Radio",
+      "countryCode": "CZ",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://stream.rcast.net/72851"
+    },
+    {
+      "id": "fu_ball_bundesliga_2_spiel_5_de_ee94e8b6",
+      "title": "Fußball-Bundesliga 2: Spiel 5",
+      "subtitle": "Football",
+      "location": "Germany",
+      "genre": "Football",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://wdr-sportschau-liga2spiel5.icecastssl.wdr.de/wdr/sportschau/liga2spiel5/mp3/high"
+    },
+    {
+      "id": "be4_digital_classix_de_5963256c",
+      "title": "BE4 Digital Classix",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "http://81.169.136.95/DAB_Stream"
     }
   ]
 }
