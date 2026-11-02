@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-01T04:23:07Z",
+  "updated": "2026-11-02T04:27:23Z",
   "region": "europe",
   "part": 3,
   "of": 8,
@@ -1740,19 +1740,6 @@
       "streamUrl": "https://server8.emitironline.com:18176/stream",
       "location": "Madrid, Spain",
       "genre": "Jazz",
-      "countryCode": "ES",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_canet_del_mar_49a2541f",
-      "title": "Radio Canet Del Mar",
-      "subtitle": "Radio",
-      "imageUrl": "https://www.radiocanet.cat/radiocanetdemar/favicon-128.png",
-      "streamUrl": "https://enacast.com/radiocanetdemar/streams/HD",
-      "location": "Spain",
-      "genre": "Radio",
       "countryCode": "ES",
       "language": null,
       "clickCount": 0,
@@ -19335,19 +19322,6 @@
       "bitrate": 320
     },
     {
-      "id": "rb2_radio_calvi_citadelle_0f1e4b98",
-      "title": "Radio Calvi Citadelle",
-      "subtitle": "Eclectic",
-      "imageUrl": "",
-      "streamUrl": "http://37.59.104.28:8020/radiocalvicitadelle",
-      "location": "France",
-      "genre": "Eclectic",
-      "countryCode": "FR",
-      "language": "corsu",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_radio_campus_amiens_962521bb",
       "title": "Radio Campus Amiens",
       "subtitle": "Campus Radio",
@@ -26544,6 +26518,66 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://stream2.hippynet.co.uk/stream/trentsound"
+    },
+    {
+      "id": "christmas_fm_non_stop_fi_7f17581e",
+      "title": "Christmas FM Non-stop!",
+      "subtitle": "Advent",
+      "location": "Finland",
+      "genre": "Advent",
+      "countryCode": "FI",
+      "language": null,
+      "clickCount": 101,
+      "bitrate": 128,
+      "streamUrl": "https://xmas-node1.zip.wf/live.aac"
+    },
+    {
+      "id": "jouluradio_fi_6cd9ff52",
+      "title": "Jouluradio",
+      "subtitle": "Joulumusiikki",
+      "location": "Finland",
+      "genre": "Joulumusiikki",
+      "countryCode": "FI",
+      "language": "finnish",
+      "clickCount": 5,
+      "bitrate": 137,
+      "streamUrl": "https://aud-stream-jouluradio01.nm-elemental.nelonenmedia.fi/master.m3u8"
+    },
+    {
+      "id": "nrj_afrobeats_fr_2f2cf17b",
+      "title": "NRJ Afrobeats",
+      "subtitle": "Nrj",
+      "location": "France",
+      "genre": "Nrj",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://streaming.nrjaudio.fm/ouju93nxeb5p"
+    },
+    {
+      "id": "ch_rie_fm_la_playlist_2000_fr_ed421aa4",
+      "title": "Chérie FM La Playlist 2000",
+      "subtitle": "Cherie Fm",
+      "location": "France",
+      "genre": "Cherie Fm",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://streaming.nrjaudio.fm/ouhmbtapu6pb"
+    },
+    {
+      "id": "nrj_m_tal_fr_b8669d96",
+      "title": "NRJ Métal",
+      "subtitle": "Nrj",
+      "location": "France",
+      "genre": "Nrj",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://streaming.nrjaudio.fm/ouhmbnapu6pb"
     }
   ]
 }

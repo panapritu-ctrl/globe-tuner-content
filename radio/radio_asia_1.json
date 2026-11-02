@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-01T04:23:07Z",
+  "updated": "2026-11-02T04:27:23Z",
   "region": "asia",
   "part": 1,
   "of": 3,
@@ -11146,19 +11146,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_sichuan_news_fm98_1_522d7aff",
-      "title": "Sichuan News 四川综合广播FM98.1",
-      "subtitle": "Radio",
-      "imageUrl": "https://scgcscreen.sctv-tf.com/favicon.ico",
-      "streamUrl": "https://lhttp.qingting.fm/live/4906/64k.mp3",
-      "location": "Sichuan, China",
-      "genre": "Radio",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_taiyuan_economics_radio_cbfaf908",
       "title": "Taiyuan Economics Radio",
       "subtitle": "Radio",
@@ -14490,19 +14477,6 @@
       "countryCode": "CN",
       "language": "chinese",
       "clickCount": 1,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_station_2dd8574f",
-      "title": "四川音乐广播",
-      "subtitle": "Music, Pop",
-      "imageUrl": "",
-      "streamUrl": "https://lhttp.qtfm.cn/live/1110/64k.mp3",
-      "location": "Szechuan, China",
-      "genre": "Music",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 2,
       "bitrate": 128
     },
     {
@@ -21916,19 +21890,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_station_36655b37",
-      "title": "绍兴综合广播",
-      "subtitle": "93.6, 93.6 Fm",
-      "imageUrl": "http://img.shaoxing.com.cn/a/thumb/10001/201907/8bce752c2c560ddf9537fed0bd371476.jpg!w800_h600.jpg",
-      "streamUrl": "http://live.shaoxing.com.cn/audio/s10001-xw1/index.m3u8",
-      "location": "Chekiang, China",
-      "genre": "93.6",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_105_6c5edef4",
       "title": "经典105·山东经典音乐广播",
       "subtitle": "Golden Music",
@@ -25803,18 +25764,6 @@
       "streamUrl": "https://rscdn.ajmide.com/r_3848/nglive_3848.m3u8"
     },
     {
-      "id": "abu_dhabi_fm_ae_58ef74aa",
-      "title": "Abu Dhabi fm",
-      "subtitle": "Arabic",
-      "location": "The United Arab Emirates",
-      "genre": "Arabic",
-      "countryCode": "AE",
-      "language": null,
-      "clickCount": 6,
-      "bitrate": 637,
-      "streamUrl": "https://admn-radio-cdn-lb.starzplayarabia.com/out/v1/admn_radio_enc/abudhabi_fm/abudhabi_fm_hls_nd/index.m3u8"
-    },
-    {
       "id": "fm105_7_cn_4b9d6b56",
       "title": "上海交通广播 FM105.7",
       "subtitle": "Radio",
@@ -27385,6 +27334,66 @@
       "clickCount": 5,
       "bitrate": 0,
       "streamUrl": "https://lhttp.qtfm.cn/live/20326/64k.mp3"
+    },
+    {
+      "id": "abu_dhabi_fm_ae_58ef74aa",
+      "title": "Abu Dhabi fm",
+      "subtitle": "Arabic",
+      "location": "The United Arab Emirates",
+      "genre": "Arabic",
+      "countryCode": "AE",
+      "language": null,
+      "clickCount": 11,
+      "bitrate": 637,
+      "streamUrl": "https://admn-radio-cdn-lb.starzplayarabia.com/out/v1/admn_radio_enc/abudhabi_fm/abudhabi_fm_hls_nd/index.m3u8"
+    },
+    {
+      "id": "708090_music_cn_c759111d",
+      "title": "708090 Music",
+      "subtitle": "Golden Oldies",
+      "location": "China",
+      "genre": "Golden Oldies",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 6,
+      "bitrate": 70,
+      "streamUrl": "https://myradio.023520.xyz:4443/hls/pop7890/live.m3u8"
+    },
+    {
+      "id": "station_cn_ccce577d",
+      "title": "长三角公共卫生网络电台",
+      "subtitle": "Health",
+      "location": "China",
+      "genre": "Health",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://rscdn.ajmide.com/r_3142/nglive_3142.m3u8"
+    },
+    {
+      "id": "station_cn_cc621e88",
+      "title": "桐梓电台 综合广播",
+      "subtitle": "Full Service",
+      "location": "China",
+      "genre": "Full Service",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://lhttp-hw.qtfm.cn/live/20212410/64k.mp3"
+    },
+    {
+      "id": "910_cn_6cfee9d8",
+      "title": "广西综合广播 新闻910",
+      "subtitle": "Music",
+      "location": "China",
+      "genre": "Music",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://lhttp-hw.qtfm.cn/live/1753/64k.mp3"
     }
   ]
 }

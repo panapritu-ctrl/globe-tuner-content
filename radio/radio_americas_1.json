@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-01T04:23:07Z",
+  "updated": "2026-11-02T04:27:23Z",
   "region": "americas",
   "part": 1,
   "of": 5,
@@ -10348,19 +10348,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_capitania_84336e3e",
-      "title": "Capitania",
-      "subtitle": "Radio",
-      "imageUrl": "https://i.ibb.co/kVMjwc1K/Logo-Capitania-2025.png",
-      "streamUrl": "https://sv15.hdradios.net:9140/stream",
-      "location": "PE, Brazil",
-      "genre": "Radio",
-      "countryCode": "BR",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 64
-    },
-    {
       "id": "rb2_casa_dos_caipiras_87325c87",
       "title": "Casa dos Caipiras",
       "subtitle": "Caipira, Moda De Viola",
@@ -13866,19 +13853,6 @@
       "countryCode": "BR",
       "language": "brazilian portuguese",
       "clickCount": 0,
-      "bitrate": 64
-    },
-    {
-      "id": "rb2_radio_cnn_b47d9469",
-      "title": "Radio CNN",
-      "subtitle": "Radio",
-      "imageUrl": "https://radiocnn.com.br/admin/assets/img/logo.png?February192025646am12",
-      "streamUrl": "https://stm13.voxhd.com.br:7148/;",
-      "location": "Brazil",
-      "genre": "Radio",
-      "countryCode": "BR",
-      "language": null,
-      "clickCount": 1,
       "bitrate": 64
     },
     {
@@ -17477,19 +17451,6 @@
       "language": "portuguese",
       "clickCount": 0,
       "bitrate": 96
-    },
-    {
-      "id": "rb2_r_dio_mega_87_9_fm_cf19a254",
-      "title": "Rádio Mega 87.9 FM",
-      "subtitle": "Popular",
-      "imageUrl": "https://www.megafm879.com.br/mobile/img/logo_megafm.png",
-      "streamUrl": "https://s1.dvr.ovh:7006/stream",
-      "location": "São Paulo, Brazil",
-      "genre": "Popular",
-      "countryCode": "BR",
-      "language": "portugues do brasil",
-      "clickCount": 0,
-      "bitrate": 128
     },
     {
       "id": "rb2_r_dio_mega_fm_sananduva_8d5776d2",
@@ -28428,6 +28389,66 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://radios.braviahost.com.br:8000/radio.mp3"
+    },
+    {
+      "id": "rqp_cochabamba_104_5_bo_fd13e917",
+      "title": "RQP Cochabamba 104.5",
+      "subtitle": "Cochabamba",
+      "location": "Bolivia",
+      "genre": "Cochabamba",
+      "countryCode": "BO",
+      "language": "#spanish",
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "https://d117va7eyoaef5.cloudfront.net/2/index.m3u8"
+    },
+    {
+      "id": "r_dio_na_o_sandy_e_junior_br_4aa2fcae",
+      "title": "Rádio Nação Sandy e Junior",
+      "subtitle": "Pop",
+      "location": "Brazil",
+      "genre": "Pop",
+      "countryCode": "BR",
+      "language": "brazilian portuguese",
+      "clickCount": 6,
+      "bitrate": 64,
+      "streamUrl": "https://servidor34-1.brlogic.com:8194/live"
+    },
+    {
+      "id": "radio_urbana_95_2_bo_8b29a9a7",
+      "title": "Radio Urbana 95.2",
+      "subtitle": "Pop Music",
+      "location": "Bolivia",
+      "genre": "Pop Music",
+      "countryCode": "BO",
+      "language": "#spanish",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://radio.yoemito.net:8110/stream"
+    },
+    {
+      "id": "ipe_br_309eca41",
+      "title": "Ipe",
+      "subtitle": "Death Metal",
+      "location": "Brazil",
+      "genre": "Death Metal",
+      "countryCode": "BR",
+      "language": "japanese",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "http://152.53.178.148:6670/"
+    },
+    {
+      "id": "tramanda_fm_96_5_br_c0a87982",
+      "title": "Tramandaí FM 96,5",
+      "subtitle": "2000'S",
+      "location": "Brazil",
+      "genre": "2000'S",
+      "countryCode": "BR",
+      "language": "brazilian portuguese",
+      "clickCount": 4,
+      "bitrate": 96,
+      "streamUrl": "https://cast4.audiostream.com.br:2658/mp3"
     }
   ]
 }

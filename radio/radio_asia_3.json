@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-01T04:23:07Z",
+  "updated": "2026-11-02T04:27:23Z",
   "region": "asia",
   "part": 3,
   "of": 3,
@@ -3596,19 +3596,6 @@
       "bitrate": 96
     },
     {
-      "id": "rb2_yes_fm_iligan_fec8c7b9",
-      "title": "Yes FM Iligan",
-      "subtitle": "Radio",
-      "imageUrl": "https://www.yesthebest.com.ph/apple-touch-icon.png",
-      "streamUrl": "http://proxima.shoutca.st:8181/stream",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 96
-    },
-    {
       "id": "rb2_yes_fm_urdaneta_mp3_6d14692e",
       "title": "Yes FM Urdaneta (mp3)",
       "subtitle": "Radio",
@@ -6294,19 +6281,6 @@
       "language": "turkish",
       "clickCount": 2,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_bayram_fm_8b4a6d48",
-      "title": "Bayram FM",
-      "subtitle": "Radio",
-      "imageUrl": "https://www.radyodinletv.com/wp-content/uploads/bayram-fm-300x159.jpg",
-      "streamUrl": "https://sslyayin.netyayin.net:10962/320.mp3",
-      "location": "Türkiye",
-      "genre": "Radio",
-      "countryCode": "TR",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 96
     },
     {
       "id": "best_fm_tr_837f9f",
@@ -13035,18 +13009,6 @@
       "streamUrl": "https://radio.universalhealthradio.org/uhr-ar.mp3"
     },
     {
-      "id": "station_th_11cedfae",
-      "title": "วัดปากบ่อ",
-      "subtitle": "Fm 91.75 Mhz",
-      "location": "Thailand",
-      "genre": "Fm 91.75 Mhz",
-      "countryCode": "TH",
-      "language": "thai",
-      "clickCount": 7,
-      "bitrate": 64,
-      "streamUrl": "http://radio1.siamlivehost.com:8001/;"
-    },
-    {
       "id": "fm_94_5_tw_c107a4cb",
       "title": "警察廣播電臺 - 臺中分臺 FM 94.5",
       "subtitle": "Emergency & Public Safety",
@@ -14581,18 +14543,6 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "http://stream.zenolive.com/4xptk2enz9duv"
-    },
-    {
-      "id": "radyo_2000_i_stanbul_tr_d325ce99",
-      "title": "Radyo 2000 İstanbul",
-      "subtitle": "Hits",
-      "location": "Türkiye",
-      "genre": "Hits",
-      "countryCode": "TR",
-      "language": "turkish",
-      "clickCount": 4,
-      "bitrate": 32,
-      "streamUrl": "https://edge.taksimbilisim.com/radyo2000/bant1/icecast.audio"
     },
     {
       "id": "a_line_radio_tw_496f3c2e",
@@ -17379,18 +17329,6 @@
       "streamUrl": "http://us1.amfmph.com:8849/live"
     },
     {
-      "id": "bell_fm_106_3_ph_b6019e5d",
-      "title": "BELL FM 106.3",
-      "subtitle": "Radio",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "language": null,
-      "clickCount": 6,
-      "bitrate": 64,
-      "streamUrl": "http://209.126.124.126:8904/stream"
-    },
-    {
       "id": "rmn_dxcc_828_cagayan_de_oro_ph_03ab8298",
       "title": "RMN DXCC 828 Cagayan De Oro",
       "subtitle": "Radio",
@@ -17509,6 +17447,66 @@
       "clickCount": 4,
       "bitrate": 148,
       "streamUrl": "https://live.radyofenomen.com/fenomen2010/abr/playlist.m3u8"
+    },
+    {
+      "id": "mor_93_9_legazpi_ph_82e1ff57",
+      "title": "MOR 93.9 Legazpi",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 64,
+      "streamUrl": "http://streamnavs.net:8089/live"
+    },
+    {
+      "id": "95_1_ifm_iloilo_ph_f16a720e",
+      "title": "95.1 iFM Iloilo",
+      "subtitle": "Contemporary",
+      "location": "The Philippines",
+      "genre": "Contemporary",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 96,
+      "streamUrl": "https://livestream.rmn.ph/ifmiloilo"
+    },
+    {
+      "id": "ifm_tacloban_ph_7aec7fd4",
+      "title": "iFM Tacloban",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 96,
+      "streamUrl": "http://livestream.rmn.ph:8000/rmntacloban"
+    },
+    {
+      "id": "qbs_radio_97_5_qa_574db7a4",
+      "title": "QBS Radio 97.5",
+      "subtitle": "Music",
+      "location": "Qatar",
+      "genre": "Music",
+      "countryCode": "QA",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 96,
+      "streamUrl": "https://live.kwikmotion.com/qmcqbsradiolive/qbsradio/playlist.m3u8"
+    },
+    {
+      "id": "fenomen_2010_lar_256_tr_88b668cd",
+      "title": "Fenomen 2010'lar 256",
+      "subtitle": "Radio",
+      "location": "Türkiye",
+      "genre": "Radio",
+      "countryCode": "TR",
+      "language": "turkish",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://live.radyofenomen.com/fenomen2010/256/chunks.m3u8"
     }
   ]
 }

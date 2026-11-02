@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-01T04:23:07Z",
+  "updated": "2026-11-02T04:27:23Z",
   "region": "europe",
   "part": 1,
   "of": 8,
@@ -8973,19 +8973,6 @@
       "language": null,
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_cyberfolk_b3068222",
-      "title": "Radio Cyberfolk",
-      "subtitle": "Pop-Folk",
-      "imageUrl": "https://radiocyberfolk.com/cyberfolk.png",
-      "streamUrl": "http://91.227.77.124/cyberfolk",
-      "location": "Sofia City, Bulgaria",
-      "genre": "Pop-Folk",
-      "countryCode": "BG",
-      "language": "bulgarian",
-      "clickCount": 0,
-      "bitrate": 320
     },
     {
       "id": "rb2_radio_dance_with_me_d50058fc",
@@ -29498,18 +29485,6 @@
       "streamUrl": "https://nova-radio.neterra.tv/veselinafolk"
     },
     {
-      "id": "bg_voice_hit_mix_bg_4c99ff42",
-      "title": "BG Voice Hit Mix",
-      "subtitle": "Bulgarian",
-      "location": "Bulgaria",
-      "genre": "Bulgarian",
-      "countryCode": "BG",
-      "language": "bulgarian",
-      "clickCount": 5,
-      "bitrate": 128,
-      "streamUrl": "https://stream.radio.co/s53f1b7497/listen"
-    },
-    {
       "id": "city_k_pop_bg_63a78803",
       "title": "City K-Pop",
       "subtitle": "K-Pop",
@@ -31272,18 +31247,6 @@
       "clickCount": 3,
       "bitrate": 256,
       "streamUrl": "https://mht.hopto.org:8444/stream/1"
-    },
-    {
-      "id": "top_fm_bg_ce793ff6",
-      "title": "top.fm",
-      "subtitle": "Chalga",
-      "location": "Bulgaria",
-      "genre": "Chalga",
-      "countryCode": "BG",
-      "language": "bulgarian",
-      "clickCount": 3,
-      "bitrate": 320,
-      "streamUrl": "http://91.227.77.124/topfm"
     },
     {
       "id": "station_bg_6bedf26f",
@@ -33564,6 +33527,102 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "http://81.169.136.95/DAB_Stream"
+    },
+    {
+      "id": "wdr4_s_dwestfalen_de_543da36a",
+      "title": "WDR4 Südwestfalen",
+      "subtitle": "Oldies",
+      "location": "Germany",
+      "genre": "Oldies",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 6,
+      "bitrate": 102,
+      "streamUrl": "https://wdr-radio.ard-mcdn.de/wdr/radio/wdr4swf/hls/master.m3u8"
+    },
+    {
+      "id": "radio_hellbach_de_2876ea2d",
+      "title": "Radio Hellbach",
+      "subtitle": "60S",
+      "location": "Germany",
+      "genre": "60S",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://server3.streamserver-unlimited.de:8569/stream1"
+    },
+    {
+      "id": "absolut_ai_de_7d590fe2",
+      "title": "Absolut AI",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://edge69.live-sm.absolutradio.de/absolut-ai"
+    },
+    {
+      "id": "bigfm_nrw_de_f9e8bfa3",
+      "title": "bigFM NRW",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://stream.bigfm.de/nrw/mp3-128/private"
+    },
+    {
+      "id": "clubradio24_de_ed9b59d7",
+      "title": "Clubradio24",
+      "subtitle": "Beats",
+      "location": "Germany",
+      "genre": "Beats",
+      "countryCode": "DE",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream.laut.fm/clubradio24"
+    },
+    {
+      "id": "milit_rmusikradio_de_9eed48fd",
+      "title": "Militärmusikradio",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://paradiso.stream44.radiohost.de/paradiso-militaermusik_mp3-192?ref=radio-de%5C&upd-meta&upd-scheme=https&_art=dD0xNzkzNTUxOTE0JmQ9NDM0MGI0YmQwYjJjZDgzNzdkYWY"
+    },
+    {
+      "id": "sunshine_live_charts_aac_64_de_41882f81",
+      "title": "Sunshine Live Charts AAC 64",
+      "subtitle": "Charts",
+      "location": "Germany",
+      "genre": "Charts",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://sunsl.streamabc.net/sunsl_dyxdwigvf_flmk-aacplus-64-6059500?sABC=6nr6qp4o%230%23nq59s62359o2nr38nsp8150610pq18p9%23fgernz.fhafuvar-yvir.qr&aw_0_1st.playerid=stream.sunshine-live.de&amsparams=playerid:stream.sunshine-live.de;skey:1793514571"
+    },
+    {
+      "id": "rock_antenne_munich_city_nights_de_1b32904b",
+      "title": "Rock Antenne Munich City Nights",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://s6-webradio.rockantenne.bayern/munich-city-nights/stream/mp3"
     }
   ]
 }

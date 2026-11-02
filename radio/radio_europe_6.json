@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-01T04:23:07Z",
+  "updated": "2026-11-02T04:27:23Z",
   "region": "europe",
   "part": 6,
   "of": 8,
@@ -18196,19 +18196,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_xerosradio_top_40_b77fc9e5",
-      "title": "XerosRadio Top 40",
-      "subtitle": "Top 40",
-      "imageUrl": "https://res.cloudinary.com/xerosradio/image/upload/f_webp,q_auto/XerosRadio_Logo_Top40",
-      "streamUrl": "https://az.streamxerosradio.duckdns.org/radio/8010/xerosradiotop40",
-      "location": "The Netherlands",
-      "genre": "Top 40",
-      "countryCode": "NL",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_xmas_radio_db531279",
       "title": "Xmas Radio",
       "subtitle": "Holiday Music (Nov-Dec), Seasonal/Holiday",
@@ -24312,18 +24299,6 @@
       "streamUrl": "https://stream.oradio.no/oradio_hq"
     },
     {
-      "id": "u_luistert_naar_www_muziekteam_nl_voor_de_beste_piraten_hits_nl_91ae3acb",
-      "title": "U luistert naar www.muziekteam.nl voor de beste piraten hits",
-      "subtitle": "Radio",
-      "location": "The Netherlands",
-      "genre": "Radio",
-      "countryCode": "NL",
-      "language": null,
-      "clickCount": 5,
-      "bitrate": 192,
-      "streamUrl": "https://mcp-1.streampanel.nl:8036/stream"
-    },
-    {
       "id": "radio_cafe_moldova_md_00a7f248",
       "title": "Radio Cafe Moldova",
       "subtitle": "Radio",
@@ -26976,18 +26951,6 @@
       "streamUrl": "https://klausyk.upsoradijas.lt/upsas_320"
     },
     {
-      "id": "mrpl_lt_ce783ed1",
-      "title": "MRPL",
-      "subtitle": "Radio",
-      "location": "Lithuania",
-      "genre": "Radio",
-      "countryCode": "LT",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 128,
-      "streamUrl": "https://mrpl.babrai.com/stream"
-    },
-    {
       "id": "radio_relax_sanremo_md_7bf769aa",
       "title": "Radio Relax - SanRemo",
       "subtitle": "Radio",
@@ -27094,18 +27057,6 @@
       "clickCount": 3,
       "bitrate": 192,
       "streamUrl": "https://stream.m-1.fm/lietus/mp3"
-    },
-    {
-      "id": "radio_moon_lt_91f8db54",
-      "title": "RADIO MOON",
-      "subtitle": "Smooth Jazz",
-      "location": "Lithuania",
-      "genre": "Smooth Jazz",
-      "countryCode": "LT",
-      "language": "english",
-      "clickCount": 3,
-      "bitrate": 0,
-      "streamUrl": "http://193.70.34.27:20330/kdime"
     },
     {
       "id": "station_lv_1bf4dcfe",
@@ -27492,18 +27443,6 @@
       "streamUrl": "https://nettradio.sorlandsradioen.no/sorlandsradioen_hq"
     },
     {
-      "id": "radio_puls_luxembourg_lu_6e9bf34e",
-      "title": "Radio Puls Luxembourg",
-      "subtitle": "Folk",
-      "location": "Luxembourg",
-      "genre": "Folk",
-      "countryCode": "LU",
-      "language": "serbian",
-      "clickCount": 7,
-      "bitrate": 0,
-      "streamUrl": "https://uk1.listen2myradio.com:2199/listen.php?port=8312&type=s2&mount=/stream"
-    },
-    {
       "id": "relax_fm_100_hitu_lt_a3580a6c",
       "title": "Relax FM 100 Hitu",
       "subtitle": "Radio",
@@ -27730,6 +27669,66 @@
       "clickCount": 4,
       "bitrate": 320,
       "streamUrl": "https://caster.hosting078.nl:1405/stream"
+    },
+    {
+      "id": "cool_radio_lt_1756e86e",
+      "title": "COOL RADIO",
+      "subtitle": "Hits",
+      "location": "Lithuania",
+      "genre": "Hits",
+      "countryCode": "LT",
+      "language": "lithuanian",
+      "clickCount": 7,
+      "bitrate": 320,
+      "streamUrl": "https://c34.radioboss.fm:9058/stream"
+    },
+    {
+      "id": "haze_pub_radio_lt_b4b0b608",
+      "title": "Haze Pub Radio",
+      "subtitle": "Alternative",
+      "location": "Lithuania",
+      "genre": "Alternative",
+      "countryCode": "LT",
+      "language": "lithuanian",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://live.leproradio.com/rocks.ogg"
+    },
+    {
+      "id": "radio_puls_luxembourg_lu_6e9bf34e",
+      "title": "Radio Puls Luxembourg",
+      "subtitle": "Folk",
+      "location": "Luxembourg",
+      "genre": "Folk",
+      "countryCode": "LU",
+      "language": "serbian",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://uk1.listen2myradio.com:2199/listen.php?port=8312&type=s2&mount=/stream"
+    },
+    {
+      "id": "the_dutch_eagles_nl_d6c7f86f",
+      "title": "the dutch eagles",
+      "subtitle": "Radio",
+      "location": "The Netherlands",
+      "genre": "Radio",
+      "countryCode": "NL",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://paneel.streambudget.nl/listen/thedutcheagles/stream"
+    },
+    {
+      "id": "radio_apeldoorn_nl_9a7ed2c7",
+      "title": "Radio Apeldoorn",
+      "subtitle": "Local Music",
+      "location": "The Netherlands",
+      "genre": "Local Music",
+      "countryCode": "NL",
+      "language": "dutch",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://streamingradio.rtv-apeldoorn.nl/listen/radio_apeldoorn/rtvapeldoornmid.mp3"
     }
   ]
 }

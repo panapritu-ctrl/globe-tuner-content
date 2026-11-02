@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-01T04:23:07Z",
+  "updated": "2026-11-02T04:27:23Z",
   "region": "europe",
   "part": 4,
   "of": 8,
@@ -9860,19 +9860,6 @@
       "bitrate": 320
     },
     {
-      "id": "rb2_louder_than_war_43410501",
-      "title": "Louder Than War",
-      "subtitle": "Punk Postpunk",
-      "imageUrl": "",
-      "streamUrl": "https://s2.radio.co/sab795a38d/listen",
-      "location": "The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "Punk Postpunk",
-      "countryCode": "GB",
-      "language": "en gb",
-      "clickCount": 2,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_love_80s_liverpool_81e5ca10",
       "title": "Love 80s (Liverpool)",
       "subtitle": "1980S, 80S",
@@ -17061,19 +17048,6 @@
       "bitrate": 64
     },
     {
-      "id": "rb2_youthcomm_radio_070cee68",
-      "title": "Youthcomm Radio",
-      "subtitle": "Hereford, Students",
-      "imageUrl": "https://mmo.aiircdn.com/366/601ec9bad9621.png",
-      "streamUrl": "http://radio.canstream.co.uk:8039/live.mp3",
-      "location": "Hereford and Worcester, The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "Hereford",
-      "countryCode": "GB",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 160
-    },
-    {
       "id": "rb2_zack_fm_7df157a2",
       "title": "Zack FM",
       "subtitle": "Radio",
@@ -20126,19 +20100,6 @@
       "bitrate": 192
     },
     {
-      "id": "rb2_diva_fm_fbaf6ca3",
-      "title": "Diva FM",
-      "subtitle": "Radio",
-      "imageUrl": "https://www.divaradio.gr/logo_diva.png",
-      "streamUrl": "http://176.31.120.166:6404/;",
-      "location": "Greece",
-      "genre": "Radio",
-      "countryCode": "GR",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_dj_grigoris_306_fb9adc2a",
       "title": "Dj Grigoris 306",
       "subtitle": "Radio",
@@ -20573,19 +20534,6 @@
       "genre": "Ert",
       "countryCode": "GR",
       "language": "greek",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_ert_tripoli_41684af3",
-      "title": "ERT Tripoli",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://radiostreaming.ert.gr/ert-tripoli",
-      "location": "Greece",
-      "genre": "Radio",
-      "countryCode": "GR",
-      "language": null,
       "clickCount": 0,
       "bitrate": 128
     },
@@ -26069,18 +26017,6 @@
       "streamUrl": "https://rpieria.radioca.st/;"
     },
     {
-      "id": "fresh_105_gr_2e4ae3dc",
-      "title": "Fresh 105",
-      "subtitle": "Mainstream",
-      "location": "Greece",
-      "genre": "Mainstream",
-      "countryCode": "GR",
-      "language": "greek",
-      "clickCount": 3,
-      "bitrate": 96,
-      "streamUrl": "https://webradio.neatv.gr:8443/stream?1637751294799"
-    },
-    {
       "id": "city_102_8_gr_473e3210",
       "title": "City 102.8",
       "subtitle": "Adult Pop",
@@ -27029,18 +26965,6 @@
       "streamUrl": "http://edge-audio-03-gos2.sharp-stream.com/khushkhabri.mp3"
     },
     {
-      "id": "air_fm_gold_delhi_in_5ee4f37d",
-      "title": "AIR Fm Gold Delhi",
-      "subtitle": "Radio",
-      "location": "India",
-      "genre": "Radio",
-      "countryCode": "IN",
-      "language": null,
-      "clickCount": 40,
-      "bitrate": 0,
-      "streamUrl": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio005/hlspbaudio00564kbps.m3u8"
-    },
-    {
       "id": "fm_rainbow_delhi_in_f9c39239",
       "title": "Fm Rainbow Delhi",
       "subtitle": "Local Talk",
@@ -27807,6 +27731,102 @@
       "clickCount": 4,
       "bitrate": 64,
       "streamUrl": "https://usa8.fastcast4u.com/proxy/auralradio?mp=/1"
+    },
+    {
+      "id": "aaj_tak_news_radio_live_in_7d4e8246",
+      "title": "Aaj Tak News Radio Live",
+      "subtitle": "Radio",
+      "location": "India",
+      "genre": "Radio",
+      "countryCode": "IN",
+      "language": "hindi",
+      "clickCount": 60,
+      "bitrate": 255,
+      "streamUrl": "https://feeds.intoday.in/aajtak/api/master.m3u8"
+    },
+    {
+      "id": "air_fm_gold_delhi_in_5ee4f37d",
+      "title": "AIR Fm Gold Delhi",
+      "subtitle": "Radio",
+      "location": "India",
+      "genre": "Radio",
+      "countryCode": "IN",
+      "language": null,
+      "clickCount": 23,
+      "bitrate": 0,
+      "streamUrl": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio005/hlspbaudio00564kbps.m3u8"
+    },
+    {
+      "id": "air_fm_rainbow_mumbai_in_b396c1d2",
+      "title": "AIR FM Rainbow Mumbai",
+      "subtitle": "Radio",
+      "location": "India",
+      "genre": "Radio",
+      "countryCode": "IN",
+      "language": null,
+      "clickCount": 16,
+      "bitrate": 32,
+      "streamUrl": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio008/hlspbaudio008_Auto.m3u8"
+    },
+    {
+      "id": "ilayaraja_radio_in_8ab8d139",
+      "title": "Ilayaraja Radio",
+      "subtitle": "Tamil Cinema Music",
+      "location": "India",
+      "genre": "Tamil Cinema Music",
+      "countryCode": "IN",
+      "language": "tamil",
+      "clickCount": 10,
+      "bitrate": 64,
+      "streamUrl": "https://psrlive2.listenon.in/ir?ah=0e81749e37789e5fb8c290926ce87e3f"
+    },
+    {
+      "id": "kannadasan_radio_in_c58515eb",
+      "title": "Kannadasan Radio",
+      "subtitle": "India",
+      "location": "India",
+      "genre": "India",
+      "countryCode": "IN",
+      "language": "tamil",
+      "clickCount": 8,
+      "bitrate": 64,
+      "streamUrl": "https://psrlive2.listenon.in/kavi?station=kaviyarasarradio"
+    },
+    {
+      "id": "fm_rainbow_delhi_32_kbps_in_a4619f65",
+      "title": "Fm Rainbow Delhi 32 kbps",
+      "subtitle": "Added By Shivam",
+      "location": "India",
+      "genre": "Added By Shivam",
+      "countryCode": "IN",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio004/hlspbaudio00432kbps.m3u8"
+    },
+    {
+      "id": "rock_hard_greece_gr_49c35d29",
+      "title": "Rock Hard Greece",
+      "subtitle": "Radio",
+      "location": "Greece",
+      "genre": "Radio",
+      "countryCode": "GR",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 320,
+      "streamUrl": "https://noc.ezhellas.com:44450/live"
+    },
+    {
+      "id": "tms_radio_in_f89223b5",
+      "title": "TMS Radio",
+      "subtitle": "South India",
+      "location": "India",
+      "genre": "South India",
+      "countryCode": "IN",
+      "language": "tamil",
+      "clickCount": 4,
+      "bitrate": 64,
+      "streamUrl": "https://psrlive2.listenon.in/tms?station=tmsradio"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-01T04:23:07Z",
+  "updated": "2026-11-02T04:27:23Z",
   "region": "asia",
   "part": 2,
   "of": 3,
@@ -9792,15 +9792,6 @@
       "genre": "Radio",
       "countryCode": "IN",
       "streamUrl": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio007/hlspbaudio007_Auto.m3u8"
-    },
-    {
-      "id": "fm_rainbow_mumbai_in_058dca",
-      "title": "FM Rainbow Mumbai",
-      "subtitle": "Radio",
-      "location": "India",
-      "genre": "Radio",
-      "countryCode": "IN",
-      "streamUrl": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio008/hlspbaudio008_Auto.m3u8"
     },
     {
       "id": "fever_104_fm_in_f49384",
@@ -23073,18 +23064,6 @@
       "streamUrl": "https://nhkworld-radio.nhkworld.jp/hls/live/nhkworld-radio-media13/index.m3u8"
     },
     {
-      "id": "cir_lk_8569dd2a",
-      "title": "CIR",
-      "subtitle": "Radio",
-      "location": "Sri Lanka",
-      "genre": "Radio",
-      "countryCode": "LK",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 64,
-      "streamUrl": "http://220.247.234.207:8000/cirstream"
-    },
-    {
       "id": "radio_cmn_id_df6c792f",
       "title": "Radio CMN",
       "subtitle": "Asean",
@@ -24093,18 +24072,6 @@
       "streamUrl": "https://streamasiacdn.atc-labs.com/gunjanradio.aac"
     },
     {
-      "id": "java_hits_in_6e0f2ae8",
-      "title": "JAVA HITS",
-      "subtitle": "Bollywood Music",
-      "location": "India",
-      "genre": "Bollywood Music",
-      "countryCode": "IN",
-      "language": "english hindi",
-      "clickCount": 4,
-      "bitrate": 0,
-      "streamUrl": "http://89.106.84.153:6731/"
-    },
-    {
       "id": "merdeka_id_1fccabe1",
       "title": "MERDEKA",
       "subtitle": "Radio",
@@ -24583,30 +24550,6 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://live.zhanafm.kz:8443/zhanalounge"
-    },
-    {
-      "id": "aaj_tak_news_radio_live_in_7d4e8246",
-      "title": "Aaj Tak News Radio Live",
-      "subtitle": "Radio",
-      "location": "India",
-      "genre": "Radio",
-      "countryCode": "IN",
-      "language": "hindi",
-      "clickCount": 47,
-      "bitrate": 255,
-      "streamUrl": "https://feeds.intoday.in/aajtak/api/master.m3u8"
-    },
-    {
-      "id": "melody_fm_malaysia_my_432f3c8c",
-      "title": "Melody FM Malaysia",
-      "subtitle": "Classical",
-      "location": "Malaysia",
-      "genre": "Classical",
-      "countryCode": "MY",
-      "language": null,
-      "clickCount": 43,
-      "bitrate": 0,
-      "streamUrl": "https://n09.rcs.revma.com/2u1n6dtbv4uvv/9_11l86ncot7z1w02/playlist.m3u8"
     },
     {
       "id": "neko_network_radio_anime_japanese_jp_30e7995e",
@@ -26553,18 +26496,6 @@
       "streamUrl": "https://radiolive.sbs.co.kr/lovepc/lovefm.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTM1MzIwMDksInBhdGgiOiIvbG92ZWZtLnN0cmVhbSIsImR1cmF0aW9uIjotMSwidW5vIjoiMGRlMTZiNDAtY2QwOC00YWE3LTlmMzItNjMwMTdmY2U2YWRmIiwiaWF0IjoxNzkzNDg4ODA5fQ.zf9ccNbG4dsNoGSXfjhnfPdjsOyeifxWhIYV7u5aaoU"
     },
     {
-      "id": "mbc_kr_356420de",
-      "title": "MBC 올댓뮤직",
-      "subtitle": "Radio",
-      "location": "The Republic Of Korea",
-      "genre": "Radio",
-      "countryCode": "KR",
-      "language": null,
-      "clickCount": 13,
-      "bitrate": 67,
-      "streamUrl": "https://minicw.imbc.com/dchm/_definst_/chm.stream/playlist.m3u8?_lsu_sa_=6A71131C038E39F49540D5E63ED1584085D733055909928333D051a196FF3B76AEaAC3B83782B549F0233CE1F5bAC180FA8CD728C8806F606043C9216F103A59C6862DD5A545E567774298503DEA20FE843CEC51F6F3D62FB745E6ED2328D6F040153655E9C909A101E1638D548D0A4C"
-    },
-    {
       "id": "nhk_world_radio_12_jp_d0d30205",
       "title": "NHK WORLD RADIO 12",
       "subtitle": "International",
@@ -26599,6 +26530,162 @@
       "clickCount": 4,
       "bitrate": 56,
       "streamUrl": "http://c5.siar.us/proxy/ssfm/stream"
+    },
+    {
+      "id": "abc_red_fm_lb_baad728f",
+      "title": "ABC Red FM",
+      "subtitle": "Dance",
+      "location": "Lebanon",
+      "genre": "Dance",
+      "countryCode": "LB",
+      "language": null,
+      "clickCount": 9,
+      "bitrate": 128,
+      "streamUrl": "https://stream.zeno.fm/uq9wmejy9hytv"
+    },
+    {
+      "id": "radio_joie_lb_75077706",
+      "title": "Radio Joie",
+      "subtitle": "Radio",
+      "location": "Lebanon",
+      "genre": "Radio",
+      "countryCode": "LB",
+      "language": "arabic",
+      "clickCount": 8,
+      "bitrate": 128,
+      "streamUrl": "https://charbyone.radioca.st/;"
+    },
+    {
+      "id": "kbs_classic_fm_zstream_kr_13bbf185",
+      "title": "KBS Classic FM zstream",
+      "subtitle": "Radio",
+      "location": "The Republic Of Korea",
+      "genre": "Radio",
+      "countryCode": "KR",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTM3NDAxNzR9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=bN8G3rQIHEgoBj9UTMmJ5kEuK99fnd2Zl73Wjst8PwPUO6jdAoP92Rt0R8BVDJGR0aFVbzqTvPeH-s3anJuwiSv1fljkVVMBrlZhiWDhmtyiYXG02qLXI6PyeQKOKYQGiz2vTSBl6Ezz2jm~EcFwN3BGsAbB-RYttArgPHwQMDmcknpEpWAGf08NCOahi11dPGUliec9lDhcbI-UjLyQ67JF4x258ndtjmxN-bdUyq~bnpyPPNn-JNI-vSbDTog8maW6CVM0F2yctHjxmitlkHcJyLYujBoA~814JCgXCxDeBIkp7-obKp5n1sUOVRqLtabEfTXSTPZZ5pbrQZ7WVQ__"
+    },
+    {
+      "id": "saint_charbel_radio_lb_5d83b36e",
+      "title": "Saint Charbel Radio",
+      "subtitle": "Christian",
+      "location": "Lebanon",
+      "genre": "Christian",
+      "countryCode": "LB",
+      "language": "arabic",
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://a7.asurahosting.com:7600/radio.mp3"
+    },
+    {
+      "id": "kan_reshet_bet_il_79f04921",
+      "title": "Kan Reshet Bet",
+      "subtitle": "192Kbps",
+      "location": "Israel",
+      "genre": "192Kbps",
+      "countryCode": "IL",
+      "language": "hebrew",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/radio/kan_reshet_bet/live.livx/playlist.m3u8?renditions"
+    },
+    {
+      "id": "sawt_al_hoda_92_1_fm_lb_3db4083d",
+      "title": "Sawt Al Hoda 92.1 FM",
+      "subtitle": "Radio",
+      "location": "Lebanon",
+      "genre": "Radio",
+      "countryCode": "LB",
+      "language": "arabic",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://l3.itworkscdn.net/itwaudio/9032/stream"
+    },
+    {
+      "id": "al_salam_radio_90_3_fm_lb_ede769d1",
+      "title": "Al Salam Radio 90.3 FM",
+      "subtitle": "Christian",
+      "location": "Lebanon",
+      "genre": "Christian",
+      "countryCode": "LB",
+      "language": "arabic",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://audio.osina.cloud:9304/stream"
+    },
+    {
+      "id": "irtiqaa_way_radio_87_5_fm_lb_b465ce68",
+      "title": "Irtiqaa Way Radio 87.5 FM",
+      "subtitle": "Islamic",
+      "location": "Lebanon",
+      "genre": "Islamic",
+      "countryCode": "LB",
+      "language": "arabic",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://streams.radio.co/s8c9468a81/listen"
+    },
+    {
+      "id": "radio_m_lebanon_lb_918cb7b0",
+      "title": "Radio M Lebanon",
+      "subtitle": "Hits",
+      "location": "Lebanon",
+      "genre": "Hits",
+      "countryCode": "LB",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://stream-286.surfernetwork.com/r6c62w0rmrhvv"
+    },
+    {
+      "id": "tetarto_live_cy_81a58bb1",
+      "title": "Tetarto Live",
+      "subtitle": "Classical",
+      "location": "Cyprus",
+      "genre": "Classical",
+      "countryCode": "CY",
+      "language": "greek",
+      "clickCount": 4,
+      "bitrate": 56,
+      "streamUrl": "http://r1.cloudskep.com/cybcr/cybc4/icecast.audio"
+    },
+    {
+      "id": "http_serpent0_duckdns_org_8088_kbs2fm_pls_kr_e35d1040",
+      "title": "http://serpent0.duckdns.org:8088/kbs2fm.pls",
+      "subtitle": "Radio",
+      "location": "The Republic Of Korea",
+      "genre": "Radio",
+      "countryCode": "KR",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://2fm-ad.gscdn.kbs.co.kr/2fm_ad_192_1.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8yZm0tYWQuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTM3MTkxODF9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=dq1k2xpzLX1DE83aQngZ19kW3PS0yrlCNWW0IyeFNV3xJWcIsw6O1JVN5kQdoqj4w6zUhTmEyiCWlTMaFJ2YYCqlsOHL66VYndakubbOUnOHa-8ubGMZ9rkvo02Pm5tg7aEmxd-KTLFyxE~NqtwKzkYDIISkEqktP~zT4XKLOl0EF-4DlFYnI~R1mCmkITpT--XYG3tyVsXC7w1C4sPwddD7UblTOMVDouRo2dY7TwK2u9jrc4sj4~lmfEavJhY6IWb-9IWxgn61A~X9L0Us2NC~cFbTO7r4mg7I0~KYHVDbp6HNFcdD1MzcwerQyItP6SPZhAXlsd~YRQLpnX5b5w__"
+    },
+    {
+      "id": "charity_taratil_105_7_fm_lb_26e1dbf0",
+      "title": "Charity Taratil 105.7 FM",
+      "subtitle": "Christian",
+      "location": "Lebanon",
+      "genre": "Christian",
+      "countryCode": "LB",
+      "language": "arabic",
+      "clickCount": 4,
+      "bitrate": 96,
+      "streamUrl": "http://65.108.198.245:8032/stream"
+    },
+    {
+      "id": "fire_hit_music_lb_712a0165",
+      "title": "FiRE Hit Music",
+      "subtitle": "Dance",
+      "location": "Lebanon",
+      "genre": "Dance",
+      "countryCode": "LB",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream.zeno.fm/0qdxrspavofvv"
     }
   ]
 }

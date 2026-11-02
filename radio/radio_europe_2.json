@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-01T04:23:07Z",
+  "updated": "2026-11-02T04:27:23Z",
   "region": "europe",
   "part": 2,
   "of": 8,
@@ -3672,19 +3672,6 @@
       "genre": "Classical",
       "countryCode": "DE",
       "streamUrl": "http://stream.klassikradio.de/mozart/mp3-128/vtuner/"
-    },
-    {
-      "id": "rb2_klassik_radio_pure_verdi_963d01f0",
-      "title": "Klassik Radio - Pure Verdi",
-      "subtitle": "Classical, Opera",
-      "imageUrl": "http://www.klassikradio.de/img/ms-mediumtile.png",
-      "streamUrl": "http://stream.klassikradio.de/verdi/mp3-128/",
-      "location": "Hamburg, Germany",
-      "genre": "Classical",
-      "countryCode": "DE",
-      "language": "german",
-      "clickCount": 1,
-      "bitrate": 128
     },
     {
       "id": "rb2_klassik_radio_rock_meets_klassik_96125077",
@@ -22157,19 +22144,6 @@
       "bitrate": 320
     },
     {
-      "id": "rb2_sky_plus_d_n_b_d3d942e0",
-      "title": "Sky Plus D'N'B",
-      "subtitle": "Dnb, Drum 'N' Bass",
-      "imageUrl": "https://site.prelive.sky.ee/sites/default/files/2021-08/skyplus.svg",
-      "streamUrl": "https://edge01.cdn.bitflip.ee:8888/NRJdnb",
-      "location": "Estonia",
-      "genre": "Dnb",
-      "countryCode": "EE",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 256
-    },
-    {
       "id": "rb2_sky_radio_a1b766be",
       "title": "Sky-Radio",
       "subtitle": "Radio",
@@ -29457,18 +29431,6 @@
       "streamUrl": "https://stream.89.0rtl.de/deutsch-rap/mp3-256"
     },
     {
-      "id": "world_radio_de_e82bab4a",
-      "title": "World Radio",
-      "subtitle": "Radio",
-      "location": "Germany",
-      "genre": "Radio",
-      "countryCode": "DE",
-      "language": null,
-      "clickCount": 3,
-      "bitrate": 320,
-      "streamUrl": "http://mediaserv38.live-streams.nl:8027/live"
-    },
-    {
       "id": "denge_cudi_de_1a129821",
       "title": "Denge Cudi",
       "subtitle": "Radio",
@@ -30703,18 +30665,6 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "https://mdr-radio-hls.akamaized.net/hls/live/2112903/mdr-284310-0-hls/192/seglist.m3u8"
-    },
-    {
-      "id": "kika_de_be441daf",
-      "title": "Kika",
-      "subtitle": "Kinder",
-      "location": "Germany",
-      "genre": "Kinder",
-      "countryCode": "DE",
-      "language": "german",
-      "clickCount": 4,
-      "bitrate": 1672,
-      "streamUrl": "https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8"
     },
     {
       "id": "radio_bob_gaming_de_50919cc8",
@@ -32229,18 +32179,6 @@
       "streamUrl": "http://stream.radiotop40.de/charts/mp3-192/web/"
     },
     {
-      "id": "dr_p6_beat_aac_dk_29e901b6",
-      "title": "DR P6 BEAT (AAC)",
-      "subtitle": "Beat",
-      "location": "Denmark",
-      "genre": "Beat",
-      "countryCode": "DK",
-      "language": "danish",
-      "clickCount": 3,
-      "bitrate": 324,
-      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p6beat/masterab.m3u8"
-    },
-    {
       "id": "ella_radio_love_smooth_jazz_de_df23688e",
       "title": "Ella Radio - Love Smooth Jazz",
       "subtitle": "Jazz",
@@ -32359,18 +32297,6 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://s35.derstream.net/reeperbahn-ch3.mp3"
-    },
-    {
-      "id": "munich_vinyl_radio_de_18b406f1",
-      "title": "Munich Vinyl Radio",
-      "subtitle": "Jazz",
-      "location": "Germany",
-      "genre": "Jazz",
-      "countryCode": "DE",
-      "language": "german",
-      "clickCount": 4,
-      "bitrate": 296,
-      "streamUrl": "https://stream.munichvinylradio.de/listen/mvr/stream.aac"
     },
     {
       "id": "rtl_nfl_radio_de_ace9076c",
@@ -33871,6 +33797,150 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "http://streams.rsh.de/rsh-mittmannmix/mp3-192/homepage/"
+    },
+    {
+      "id": "mdr_jump_aac_de_a2fd49fe",
+      "title": "MDR Jump (AAC)",
+      "subtitle": "Youth",
+      "location": "Germany",
+      "genre": "Youth",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 7,
+      "bitrate": 128,
+      "streamUrl": "http://mdr-284320-0.sslcast.mdr.de/mdr/284320/0/mp3/high/stream.mp3"
+    },
+    {
+      "id": "hochschulradio_d_sseldorf_de_49789866",
+      "title": "Hochschulradio Düsseldorf",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 192,
+      "streamUrl": "https://listen.hochschulradio.de/hsr-192"
+    },
+    {
+      "id": "kika_hd_kinderkanal_von_ard_und_zdf_de_be441daf",
+      "title": "KiKA HD - Kinderkanal von ARD und ZDF",
+      "subtitle": "Ard",
+      "location": "Germany",
+      "genre": "Ard",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 6,
+      "bitrate": 1672,
+      "streamUrl": "https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8"
+    },
+    {
+      "id": "1_liga_spiel_9_sportschau_de_3e70daa9",
+      "title": "1. Liga Spiel 9 - Sportschau",
+      "subtitle": "Bundesliga",
+      "location": "Germany",
+      "genre": "Bundesliga",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://dispatcher.rndfnk.com/wdr/sportschau/liga1spiel9/mp3/128/stream.mp3"
+    },
+    {
+      "id": "dr_p4_stjylland_aac_dk_86d978b1",
+      "title": "DR P4 Østjylland (AAC)",
+      "subtitle": "Regional Radio",
+      "location": "Denmark",
+      "genre": "Regional Radio",
+      "countryCode": "DK",
+      "language": "danish",
+      "clickCount": 5,
+      "bitrate": 324,
+      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4ostjylland/masterab.m3u8"
+    },
+    {
+      "id": "punk_fm_ee_d0362c1a",
+      "title": "PUNK FM",
+      "subtitle": "Alternative",
+      "location": "Estonia",
+      "genre": "Alternative",
+      "countryCode": "EE",
+      "language": "estonian",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://sapircast.caster.fm:11309/OsZpV"
+    },
+    {
+      "id": "tunitemusic_ee_19634b9e",
+      "title": "Tunitemusic",
+      "subtitle": "Ambient",
+      "location": "Estonia",
+      "genre": "Ambient",
+      "countryCode": "EE",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://stream.radiojar.com/6x51bmzpfy3vv"
+    },
+    {
+      "id": "backroad_country_radio_de_9c73aaf9",
+      "title": "Backroad Country Radio",
+      "subtitle": "Americana",
+      "location": "Germany",
+      "genre": "Americana",
+      "countryCode": "DE",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream.backroadcountryradio.com/listen/backroad/radio.mp3"
+    },
+    {
+      "id": "radio_hafenstrasse_de_a22eac23",
+      "title": "RADIO HAFENSTRASSE",
+      "subtitle": "Football",
+      "location": "Germany",
+      "genre": "Football",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://listen.radioking.com/radio/212434/stream/255523"
+    },
+    {
+      "id": "tagesschau24_hd_de_b8958182",
+      "title": "tagesschau24 HD",
+      "subtitle": "Tv",
+      "location": "Germany",
+      "genre": "Tv",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 1672,
+      "streamUrl": "https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8"
+    },
+    {
+      "id": "hits_show_radio_est_ee_da32cdc4",
+      "title": "Hits Show Radio - EST",
+      "subtitle": "Dance",
+      "location": "Estonia",
+      "genre": "Dance",
+      "countryCode": "EE",
+      "language": "estonian",
+      "clickCount": 4,
+      "bitrate": 112,
+      "streamUrl": "https://stream.zeno.fm/dghp9excl67vv"
+    },
+    {
+      "id": "r2extra_chill_ee_a273adec",
+      "title": "R2Extra - Chill",
+      "subtitle": "Ambient",
+      "location": "Estonia",
+      "genre": "Ambient",
+      "countryCode": "EE",
+      "language": "estonian",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://sb.err.ee/live/r2chill.m3u8?short=true"
     }
   ]
 }

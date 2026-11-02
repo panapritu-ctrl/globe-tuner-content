@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-01T04:23:07Z",
+  "updated": "2026-11-02T04:27:23Z",
   "region": "europe",
   "part": 7,
   "of": 8,
@@ -8914,19 +8914,6 @@
       "genre": "Pop",
       "countryCode": "RO",
       "streamUrl": "http://edge126.rdsnet.ro:84/profm/profm.mp3"
-    },
-    {
-      "id": "rb2_pro_fm_sta_ia_cluj_napoca_99_8_fm_775eeca3",
-      "title": "Pro FM -stația Cluj Napoca 99,8 FM",
-      "subtitle": "Local Radio, Pop",
-      "imageUrl": "https://www.profm.ro/static/theme-repo/bin/images/logo-profm.png",
-      "streamUrl": "https://radioendirect.net/stream/125928",
-      "location": "Romania",
-      "genre": "Local Radio",
-      "countryCode": "RO",
-      "language": "română",
-      "clickCount": 0,
-      "bitrate": 128
     },
     {
       "id": "rb2_prob_radio_e1651914",
@@ -23618,18 +23605,6 @@
       "streamUrl": "https://radio.sonicpanel.ro/8036/stream"
     },
     {
-      "id": "luna_radio_rs_383e0faf",
-      "title": "Luna Radio",
-      "subtitle": "Radio",
-      "location": "Serbia",
-      "genre": "Radio",
-      "countryCode": "RS",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 64,
-      "streamUrl": "https://eu10.fastcast4u.com:6110/stream/7/"
-    },
-    {
       "id": "r_di_gaga_gold_ro_9d5c0336",
       "title": "Rádió GaGa Gold",
       "subtitle": "Gold",
@@ -24830,18 +24805,6 @@
       "streamUrl": "https://stream03.pcradio.app/krematoriy-hi"
     },
     {
-      "id": "naxi_fitness_rs_f2e3a070",
-      "title": "Naxi Fitness",
-      "subtitle": "Electronic",
-      "location": "Serbia",
-      "genre": "Electronic",
-      "countryCode": "RS",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 128,
-      "streamUrl": "https://naxidigital-fitness128ssl.streaming.rs:8292/;stream.nsv"
-    },
-    {
       "id": "radio_caprice_hip_hop_ru_0c3ad254",
       "title": "Radio Caprice - Hip Hop",
       "subtitle": "Naci Alex Naci Alex Naci Alex Naci Alex Naci Alex",
@@ -25056,18 +25019,6 @@
       "clickCount": 6,
       "bitrate": 128,
       "streamUrl": "https://asculta.superfmradio.ro/9720/stream"
-    },
-    {
-      "id": "naxi_radio_cafe_radio_rs_a73dcd72",
-      "title": "naxi radio - cafe radio",
-      "subtitle": "Cafe",
-      "location": "Serbia",
-      "genre": "Cafe",
-      "countryCode": "RS",
-      "language": null,
-      "clickCount": 6,
-      "bitrate": 128,
-      "streamUrl": "http://naxidigital-cafe128.streaming.rs:8020/;stream.nsv"
     },
     {
       "id": "vocea_credin_ei_ro_eb1929e7",
@@ -25692,6 +25643,102 @@
       "clickCount": 4,
       "bitrate": 320,
       "streamUrl": "http://antenaradio.org:4560/;stream.nsv"
+    },
+    {
+      "id": "magic_tv_ro_4b528777",
+      "title": "Magic tv",
+      "subtitle": "Radio",
+      "location": "Romania",
+      "genre": "Radio",
+      "countryCode": "RO",
+      "language": "romanian",
+      "clickCount": 6,
+      "bitrate": 1408,
+      "streamUrl": "https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8"
+    },
+    {
+      "id": "radio_petrec_retzu_ro_7009cace",
+      "title": "Radio Petrecăretzu",
+      "subtitle": "Etno",
+      "location": "Romania",
+      "genre": "Etno",
+      "countryCode": "RO",
+      "language": "romanian",
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "http://live.radiopetrecaretzu.ro:8383/;"
+    },
+    {
+      "id": "radiumfm_warsaw_pl_25ea2521",
+      "title": "RadiumFM Warsaw",
+      "subtitle": "Ai Generated",
+      "location": "Poland",
+      "genre": "Ai Generated",
+      "countryCode": "PL",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream.radiumfm.com/warsaw"
+    },
+    {
+      "id": "futrzak_fm_320kbps_pl_e5734206",
+      "title": "FUTRZAK.FM - 320kbps",
+      "subtitle": "Edm",
+      "location": "Poland",
+      "genre": "Edm",
+      "countryCode": "PL",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 320,
+      "streamUrl": "https://audio.futrzak.fm/futrzakfm-320"
+    },
+    {
+      "id": "radio_praga_pl_bc43ef9f",
+      "title": "Radio Praga",
+      "subtitle": "Radio",
+      "location": "Poland",
+      "genre": "Radio",
+      "countryCode": "PL",
+      "language": "polish",
+      "clickCount": 4,
+      "bitrate": 320,
+      "streamUrl": "https://stream20.hosterion.pl:6185/stream"
+    },
+    {
+      "id": "80rock_pt_pt_ee333e5e",
+      "title": "80ROCK.pt",
+      "subtitle": "80S",
+      "location": "Portugal",
+      "genre": "80S",
+      "countryCode": "PT",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://rs2.ptservidor.com:2199/proxy/febrites?mp=/stream"
+    },
+    {
+      "id": "valoare_radio_manele_vechi_ro_f8ae0ed3",
+      "title": "Valoare Radio -Manele Vechi",
+      "subtitle": "Manele",
+      "location": "Romania",
+      "genre": "Manele",
+      "countryCode": "RO",
+      "language": "romania",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://ssl.omegahost.ro/8000/stream"
+    },
+    {
+      "id": "station_ru_600f3d1e",
+      "title": "АЭС",
+      "subtitle": "Music",
+      "location": "The Russian Federation",
+      "genre": "Music",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://radio.4m3.ru/listen/aes/radio.mp3"
     }
   ]
 }
