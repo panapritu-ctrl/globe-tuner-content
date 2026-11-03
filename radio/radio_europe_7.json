@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-02T04:27:23Z",
+  "updated": "2026-11-03T05:22:59Z",
   "region": "europe",
   "part": 7,
   "of": 8,
@@ -2590,19 +2590,6 @@
       "language": "polish",
       "clickCount": 2,
       "bitrate": 160
-    },
-    {
-      "id": "rb2_radio_wiatraczek_566e9860",
-      "title": "Radio Wiatraczek",
-      "subtitle": "Disco Polo, Folk",
-      "imageUrl": "",
-      "streamUrl": "https://s3.slotex.pl:7082/stream",
-      "location": "Poland",
-      "genre": "Disco Polo",
-      "countryCode": "PL",
-      "language": "polish",
-      "clickCount": 0,
-      "bitrate": 64
     },
     {
       "id": "radio_wnet_pl_9610ee",
@@ -13820,15 +13807,6 @@
       "bitrate": 192
     },
     {
-      "id": "psychedelic_travel_radio_rs_a5caf1",
-      "title": "Psychedelic Travel Radio",
-      "subtitle": "Forest Psytrance",
-      "location": "Serbia",
-      "genre": "Forest Psytrance",
-      "countryCode": "RS",
-      "streamUrl": "https://e20.yesstreaming.net:6148/stream"
-    },
-    {
       "id": "rb2_puls_7f88ecf4",
       "title": "Puls",
       "subtitle": "Radio",
@@ -21589,18 +21567,6 @@
       "streamUrl": "https://rusradio.hostingradio.ru/rusradio96.aacp"
     },
     {
-      "id": "cyberstacja_pl_49037d38",
-      "title": "CYBERStacja",
-      "subtitle": "Dance",
-      "location": "Poland",
-      "genre": "Dance",
-      "countryCode": "PL",
-      "language": "english",
-      "clickCount": 5,
-      "bitrate": 192,
-      "streamUrl": "https://sc.cyberstacja.pl:8000/radio.mp3"
-    },
-    {
       "id": "station_ru_12dbf1cb",
       "title": "Радио Ностальжи Россия",
       "subtitle": "70S",
@@ -24865,42 +24831,6 @@
       "streamUrl": "http://live.radiolautaru.ro:9000/;stream.nsv"
     },
     {
-      "id": "fm_radio_manele_ro_ea4cab3d",
-      "title": "FM Radio Manele",
-      "subtitle": "Manele",
-      "location": "Romania",
-      "genre": "Manele",
-      "countryCode": "RO",
-      "language": "romanian",
-      "clickCount": 5,
-      "bitrate": 128,
-      "streamUrl": "http://a.fmradiomanele.ro:8054/stream"
-    },
-    {
-      "id": "radio_folclor_ro_6a108776",
-      "title": "Radio Folclor",
-      "subtitle": "Folclor",
-      "location": "Romania",
-      "genre": "Folclor",
-      "countryCode": "RO",
-      "language": "romanian",
-      "clickCount": 5,
-      "bitrate": 128,
-      "streamUrl": "https://ssl.omegahost.ro/8092/stream"
-    },
-    {
-      "id": "anima_amoris_dub_techno_mix_ru_0e2c3d6c",
-      "title": "Anima Amoris Dub Techno Mix",
-      "subtitle": "Dub",
-      "location": "The Russian Federation",
-      "genre": "Dub",
-      "countryCode": "RU",
-      "language": null,
-      "clickCount": 5,
-      "bitrate": 0,
-      "streamUrl": "http://amoris.sknt.ru/dubtechnomix.mp3"
-    },
-    {
       "id": "eska_katowice_pl_244d139f",
       "title": "Eska Katowice",
       "subtitle": "Dance",
@@ -25717,18 +25647,6 @@
       "streamUrl": "https://rs2.ptservidor.com:2199/proxy/febrites?mp=/stream"
     },
     {
-      "id": "valoare_radio_manele_vechi_ro_f8ae0ed3",
-      "title": "Valoare Radio -Manele Vechi",
-      "subtitle": "Manele",
-      "location": "Romania",
-      "genre": "Manele",
-      "countryCode": "RO",
-      "language": "romania",
-      "clickCount": 4,
-      "bitrate": 128,
-      "streamUrl": "https://ssl.omegahost.ro/8000/stream"
-    },
-    {
       "id": "station_ru_600f3d1e",
       "title": "АЭС",
       "subtitle": "Music",
@@ -25739,6 +25657,138 @@
       "clickCount": 4,
       "bitrate": 192,
       "streamUrl": "https://radio.4m3.ru/listen/aes/radio.mp3"
+    },
+    {
+      "id": "balcan_radio_manele_br_ila_ro_8336572f",
+      "title": "Balcan Radio Manele -Brăila",
+      "subtitle": "Music",
+      "location": "Romania",
+      "genre": "Music",
+      "countryCode": "RO",
+      "language": "română",
+      "clickCount": 16,
+      "bitrate": 128,
+      "streamUrl": "https://radio.sonicpanel.ro/8112/stream"
+    },
+    {
+      "id": "hit_radio_istok_rs_9bf5d4f9",
+      "title": "Hit Radio Istok",
+      "subtitle": "Folk",
+      "location": "Serbia",
+      "genre": "Folk",
+      "countryCode": "RS",
+      "language": "serbian",
+      "clickCount": 7,
+      "bitrate": 128,
+      "streamUrl": "https://radio.tvistok.com/radio/8000/live"
+    },
+    {
+      "id": "ok_radio_boem_rs_58dd38d9",
+      "title": "OK Radio Boem",
+      "subtitle": "Radio",
+      "location": "Serbia",
+      "genre": "Radio",
+      "countryCode": "RS",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://stream.okplus.rs/listen/boem/radio.mp3"
+    },
+    {
+      "id": "naxi_fitness_rs_f2e3a070",
+      "title": "Naxi Fitness",
+      "subtitle": "Electronic",
+      "location": "Serbia",
+      "genre": "Electronic",
+      "countryCode": "RS",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://naxidigital-fitness128ssl.streaming.rs:8292/;stream.nsv"
+    },
+    {
+      "id": "get_radio_ru_f80912fe",
+      "title": "get.radio — Поп (Русский)",
+      "subtitle": "Music",
+      "location": "The Russian Federation",
+      "genre": "Music",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://get-radio.sipout.ai/stream/pop-ru.mp3"
+    },
+    {
+      "id": "europarussia_ru_e0dfbf37",
+      "title": "EuropaRussia",
+      "subtitle": "Radio",
+      "location": "The Russian Federation",
+      "genre": "Radio",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "https://europarussia.ru:8006/live"
+    },
+    {
+      "id": "folk_bun_ro_2bb44d65",
+      "title": "Folk Bun",
+      "subtitle": "Folk",
+      "location": "Romania",
+      "genre": "Folk",
+      "countryCode": "RO",
+      "language": "romanian",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://dc.digi.live.kissfm.ro/rockfolk"
+    },
+    {
+      "id": "get_radio_ru_c1e2cdb4",
+      "title": "get.radio — Хаус (Без вокала)",
+      "subtitle": "House",
+      "location": "The Russian Federation",
+      "genre": "House",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://get-radio.sipout.ai/stream/house-instrumental.mp3"
+    },
+    {
+      "id": "get_radio_ru_c166120c",
+      "title": "get.radio — Эмбиент (Русский)",
+      "subtitle": "Ambient",
+      "location": "The Russian Federation",
+      "genre": "Ambient",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://get-radio.sipout.ai/stream/ambient-ru.mp3"
+    },
+    {
+      "id": "60_ru_fe21019f",
+      "title": "Ретроклуб Радио 60-х",
+      "subtitle": "Ретро",
+      "location": "The Russian Federation",
+      "genre": "Ретро",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://retroclub.hostingradio.ru/retroclubdbl128.aacp"
+    },
+    {
+      "id": "dzhon_radio_ru_8edac945",
+      "title": "Dzhon Radio",
+      "subtitle": "Ambient",
+      "location": "The Russian Federation",
+      "genre": "Ambient",
+      "countryCode": "RU",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream.drugradio.ru:8000/stream128"
     }
   ]
 }

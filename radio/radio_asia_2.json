@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-02T04:27:23Z",
+  "updated": "2026-11-03T05:22:59Z",
   "region": "asia",
   "part": 2,
   "of": 3,
@@ -5671,19 +5671,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_pandu_musik_radio_cd51c68a",
-      "title": "Pandu Musik Radio",
-      "subtitle": "Anime, Easy Listening",
-      "imageUrl": "https://forwardmystream.com/stations/300/pandumusikradio-2013.png",
-      "streamUrl": "https://usa3.fastcast4u.com/proxy/pandumusikradio?mp=/1",
-      "location": "Tuban, East Java, Indonesia",
-      "genre": "Anime",
-      "countryCode": "ID",
-      "language": "indonesian",
-      "clickCount": 4,
-      "bitrate": 96
-    },
-    {
       "id": "rb2_pejuang_kopi_b5e68d2f",
       "title": "Pejuang Kopi",
       "subtitle": "Contemporary Hits, Hits",
@@ -6320,19 +6307,6 @@
       "language": "indonesian",
       "clickCount": 1,
       "bitrate": 48
-    },
-    {
-      "id": "rb2_radio_4_you_tv_61730ac1",
-      "title": "Radio 4 You TV",
-      "subtitle": "Radio",
-      "imageUrl": "https://radio4you.net/wp-content/uploads/2021/07/city4you-tv-logo.jpg",
-      "streamUrl": "https://streamsrv2.nets-sr.com:19360/4youtv/4youtv.m3u8",
-      "location": "Indonesia",
-      "genre": "Radio",
-      "countryCode": "ID",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 140
     },
     {
       "id": "rb2_radio_andika_023b7d50",
@@ -13620,19 +13594,6 @@
       "countryCode": "IN",
       "language": "kannada",
       "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_ndtv_75698c7c",
-      "title": "ndtv",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8",
-      "location": "India",
-      "genre": "Radio",
-      "countryCode": "IN",
-      "language": null,
-      "clickCount": 3,
       "bitrate": 128
     },
     {
@@ -24696,18 +24657,6 @@
       "streamUrl": "https://stream.yojosuknam.com/live.mp3"
     },
     {
-      "id": "nhk_fm_jp_4100302f",
-      "title": "NHK-FM",
-      "subtitle": "Classical",
-      "location": "Japan",
-      "genre": "Classical",
-      "countryCode": "JP",
-      "language": "#japan",
-      "clickCount": 23,
-      "bitrate": 52,
-      "streamUrl": "http://mnet.x10.mx/nhkfm.m3u8"
-    },
-    {
       "id": "jazzwave_radio_om_9f162749",
       "title": "JazzWave Radio",
       "subtitle": "Jazz",
@@ -26148,18 +26097,6 @@
       "streamUrl": "https://live.radi.fm/stream/ja.aac"
     },
     {
-      "id": "kbs_kor_kr_fed1a0fb",
-      "title": "KBS_kor",
-      "subtitle": "Radio",
-      "location": "The Republic Of Korea",
-      "genre": "Radio",
-      "countryCode": "KR",
-      "language": null,
-      "clickCount": 5,
-      "bitrate": 0,
-      "streamUrl": "https://1radio-bora.gscdn.kbs.co.kr/1radio-bora-01/1radio-bora-01_hd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xcmFkaW8tYm9yYS5nc2Nkbi5rYnMuY28ua3IvMXJhZGlvLWJvcmEtMDEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MzMwMDQwOH19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=BGty2caufasjgBH2AdsEZKF5w7yLTTUqfGkHcj83P5R~BfM5LYomRCta~uOv3aT3XiJ6UxSTnP5t-gZIESCvHchb8CYYaBEdq7P4jytqsKU-YM1YB8wPj-t7PUogLiCCgjwt-kmD2o2Ghbra43maa7H2TyS-L935LW2j6XDDnlYf-UrYqcs6~2kLEuG2vHLQCm9duqDjvCwrNIzxx5z5clnS0w3UCSm1ZY9a5AOzKRgXeUY55MIE4JxHo7pk5bNtMeSoQqR-dbv5BIulLEfXHDzxgixZan0o0EjAT8TftEWCKTYNXjIqEtxui~vjKO-TBXbUfLHQo2ZMz0VQ3IlCaQ__"
-    },
-    {
       "id": "mongolyn_radio_mnb_radio_1_mn_6f151ea9",
       "title": "Mongolyn radio (MNB Radio 1)",
       "subtitle": "News",
@@ -26686,6 +26623,66 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://stream.zeno.fm/0qdxrspavofvv"
+    },
+    {
+      "id": "nhk_fm_jp_4100302f",
+      "title": "NHK-FM",
+      "subtitle": "Classical",
+      "location": "Japan",
+      "genre": "Classical",
+      "countryCode": "JP",
+      "language": "#japan",
+      "clickCount": 63,
+      "bitrate": 52,
+      "streamUrl": "http://mnet.x10.mx/nhkfm.m3u8"
+    },
+    {
+      "id": "vocaloid_radio_classic_legacy_stream_jp_f0e73f3f",
+      "title": "Vocaloid Radio (Classic & Legacy Stream)",
+      "subtitle": "Radio",
+      "location": "Japan",
+      "genre": "Radio",
+      "countryCode": "JP",
+      "language": null,
+      "clickCount": 10,
+      "bitrate": 128,
+      "streamUrl": "https://stream.zeno.fm/0qmy834zm7zuv?aw_0_req_lsid=466c98abd83ac97274346856d171d0ba"
+    },
+    {
+      "id": "kbs_kor_kr_cbea3845",
+      "title": "KBS_kor",
+      "subtitle": "Radio",
+      "location": "The Republic Of Korea",
+      "genre": "Radio",
+      "countryCode": "KR",
+      "language": null,
+      "clickCount": 8,
+      "bitrate": 0,
+      "streamUrl": "https://1radio-bora.gscdn.kbs.co.kr/1radio-bora-01/1radio-bora-01_hd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xcmFkaW8tYm9yYS5nc2Nkbi5rYnMuY28ua3IvMXJhZGlvLWJvcmEtMDEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MzczMjM3Mn19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=d-pkwi33fs3YAGtTdqWALlcvE0jVCIiC5jqhO3t1NA3w2Ye5~PHt-DIHx1JLBcnEmYgFm8Zun-c42E9dtCkKVDRtOapCa0Ncrlh~t-vxrKieI5kt~e6lNCQ2tMUR~8FWNDHM7QKOsJd6mImGKpyUlVhLAdLWbaOYlOM7R7DHCqd2WezjSSj2nMA-KrhtZJWZ8Es9VVA8nDXzTGZ-uayogc1XBQ8sdKu7ODgRt-aKHRDObq6YHteberAcHE2FxA80NqQDkYGYG7ASxBlm3YQs0l93aZdTjCthv4REUp6meeQG-UxKse4HQd8CZ9LwPc~mSewrezhVtcQx8riPvzz3zA__"
+    },
+    {
+      "id": "vikentis_radio_ge_7c1a0b2e",
+      "title": "Vikentis Radio",
+      "subtitle": "Community Radio",
+      "location": "Georgia",
+      "genre": "Community Radio",
+      "countryCode": "GE",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "https://servidor33-3.brlogic.com:7210/live"
+    },
+    {
+      "id": "radiks_fm_semarang_id_b7bc1fd8",
+      "title": "RADIKS FM SEMARANG",
+      "subtitle": "Dangdut",
+      "location": "Indonesia",
+      "genre": "Dangdut",
+      "countryCode": "ID",
+      "language": "indonesian",
+      "clickCount": 5,
+      "bitrate": 64,
+      "streamUrl": "https://i.klikhost.com:9620/stream"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-02T04:27:23Z",
+  "updated": "2026-11-03T05:22:59Z",
   "region": "europe",
   "part": 4,
   "of": 8,
@@ -4425,19 +4425,6 @@
       "bitrate": 192
     },
     {
-      "id": "rb2_cotswold_hospital_radio_6f2cd94d",
-      "title": "Cotswold Hospital Radio",
-      "subtitle": "Radio",
-      "imageUrl": "https://www.patientstation.org.uk/wp-content/uploads/2015/03/Simple-banner.jpg",
-      "streamUrl": "http://195.201.166.244:8525/stream",
-      "location": "The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "Radio",
-      "countryCode": "GB",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 96
-    },
-    {
       "id": "rb2_country_gospel_radio_c82c3825",
       "title": "Country Gospel Radio",
       "subtitle": "Bluegrass Gospel, Christian",
@@ -5876,19 +5863,6 @@
       "countryCode": "GB",
       "language": "english",
       "clickCount": 1,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_funkerfm_9638da2f",
-      "title": "FUNKERFM",
-      "subtitle": "World Music",
-      "imageUrl": "",
-      "streamUrl": "http://167.114.131.90:5968/ffm",
-      "location": "Ipswich, Suffolk, The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "World Music",
-      "countryCode": "GB",
-      "language": "english",
-      "clickCount": 0,
       "bitrate": 128
     },
     {
@@ -26809,18 +26783,6 @@
       "streamUrl": "http://s4.onweb.gr:8862/;"
     },
     {
-      "id": "air_urdu_in_ede8f82f",
-      "title": "AIR Urdu",
-      "subtitle": "Radio",
-      "location": "India",
-      "genre": "Radio",
-      "countryCode": "IN",
-      "language": null,
-      "clickCount": 7,
-      "bitrate": 0,
-      "streamUrl": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio006/hlspbaudio00632kbps.m3u8"
-    },
-    {
       "id": "yuvan_shankar_raja_radio_in_b7a20949",
       "title": "Yuvan Shankar Raja Radio",
       "subtitle": "Tamil Cinema Music",
@@ -26831,18 +26793,6 @@
       "clickCount": 4,
       "bitrate": 64,
       "streamUrl": "https://psrlive2.listenon.in/ysr?ah=0e81749e37789e5fb8c290926ce87e3f"
-    },
-    {
-      "id": "radio_terna_90_4_fm_in_b31fa58f",
-      "title": "Radio Terna 90.4 FM",
-      "subtitle": "Radio",
-      "location": "India",
-      "genre": "Radio",
-      "countryCode": "IN",
-      "language": "hindi",
-      "clickCount": 4,
-      "bitrate": 64,
-      "streamUrl": "https://radio.garden/api/ara/content/listen/MzpZd2nQ/channel.mp3"
     },
     {
       "id": "arion_gr_e5952aec",
@@ -27827,6 +27777,126 @@
       "clickCount": 4,
       "bitrate": 64,
       "streamUrl": "https://psrlive2.listenon.in/tms?station=tmsradio"
+    },
+    {
+      "id": "nostalgic_bollywood_90s_in_91c74f69",
+      "title": "Nostalgic Bollywood 90s",
+      "subtitle": "90S",
+      "location": "India",
+      "genre": "90S",
+      "countryCode": "IN",
+      "language": "hindi",
+      "clickCount": 114,
+      "bitrate": 128,
+      "streamUrl": "https://www.desizoneradio.com/relay3"
+    },
+    {
+      "id": "desi_hits_2000s_in_2aba0907",
+      "title": "Desi Hits 2000s",
+      "subtitle": "2000S",
+      "location": "India",
+      "genre": "2000S",
+      "countryCode": "IN",
+      "language": "hindi",
+      "clickCount": 18,
+      "bitrate": 128,
+      "streamUrl": "https://www.desizoneradio.com/relay2"
+    },
+    {
+      "id": "radio_macfest_90_4_fm_tiruvalla_in_5835ba4e",
+      "title": "Radio Macfest 90.4 FM Tiruvalla",
+      "subtitle": "Radio",
+      "location": "India",
+      "genre": "Radio",
+      "countryCode": "IN",
+      "language": "malayalam",
+      "clickCount": 11,
+      "bitrate": 96,
+      "streamUrl": "https://icecast.octosignals.com/radiomacfast"
+    },
+    {
+      "id": "ndtv_in_5b0d8e45",
+      "title": "ndtv",
+      "subtitle": "Radio",
+      "location": "India",
+      "genre": "Radio",
+      "countryCode": "IN",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8"
+    },
+    {
+      "id": "radio_khushi_in_516a13ae",
+      "title": "Radio Khushi",
+      "subtitle": "Music",
+      "location": "India",
+      "genre": "Music",
+      "countryCode": "IN",
+      "language": "hindi",
+      "clickCount": 6,
+      "bitrate": 64,
+      "streamUrl": "https://stream.zeno.fm/etf3x2h5rrhvv"
+    },
+    {
+      "id": "radio_terna_90_4_fm_in_b31fa58f",
+      "title": "Radio Terna 90.4 FM",
+      "subtitle": "Radio",
+      "location": "India",
+      "genre": "Radio",
+      "countryCode": "IN",
+      "language": "hindi",
+      "clickCount": 5,
+      "bitrate": 64,
+      "streamUrl": "https://radio.garden/api/ara/content/listen/MzpZd2nQ/channel.mp3"
+    },
+    {
+      "id": "radio_art_jazz_trios_gr_808dddf6",
+      "title": "Radio Art - Jazz Trios",
+      "subtitle": "Jazz",
+      "location": "Greece",
+      "genre": "Jazz",
+      "countryCode": "GR",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 96,
+      "streamUrl": "https://live.radioart.com/fJazz_trios.mp3"
+    },
+    {
+      "id": "music_galaxy_gr_gr_0b9001d8",
+      "title": "Music Galaxy GR",
+      "subtitle": "Pop",
+      "location": "Greece",
+      "genre": "Pop",
+      "countryCode": "GR",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://rdst.win:37474/;"
+    },
+    {
+      "id": "radio_welcome_90_8fm_in_c67184b7",
+      "title": "Radio Welcome 90.8fm",
+      "subtitle": "Radio",
+      "location": "India",
+      "genre": "Radio",
+      "countryCode": "IN",
+      "language": "hindi",
+      "clickCount": 4,
+      "bitrate": 96,
+      "streamUrl": "https://stream.zeno.fm/2tm4yz0pvxhvv"
+    },
+    {
+      "id": "thaalam_radio_in_87c6081b",
+      "title": "thaalam-radio",
+      "subtitle": "Radio",
+      "location": "India",
+      "genre": "Radio",
+      "countryCode": "IN",
+      "language": "tamil",
+      "clickCount": 4,
+      "bitrate": 64,
+      "streamUrl": "https://thaalam.out.airtime.pro/thaalam_b"
     }
   ]
 }

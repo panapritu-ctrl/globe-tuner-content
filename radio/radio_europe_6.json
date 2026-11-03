@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-02T04:27:23Z",
+  "updated": "2026-11-03T05:22:59Z",
   "region": "europe",
   "part": 6,
   "of": 8,
@@ -4615,19 +4615,6 @@
       "genre": "Ambient",
       "countryCode": "IT",
       "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_romaradio_the_tube_station_458c463e",
-      "title": "RomaRadio - The Tube Station",
-      "subtitle": "News, Roma",
-      "imageUrl": "",
-      "streamUrl": "http://nr9.newradio.it:9021/stream",
-      "location": "Lazio, Italy",
-      "genre": "News",
-      "countryCode": "IT",
-      "language": "italian",
       "clickCount": 0,
       "bitrate": 128
     },
@@ -27431,18 +27418,6 @@
       "streamUrl": "https://audio.cloudrad.io/a77e5da3/mp3"
     },
     {
-      "id": "s_rlandsradioen_no_077ff736",
-      "title": "Sørlandsradioen",
-      "subtitle": "Radio",
-      "location": "Norway",
-      "genre": "Radio",
-      "countryCode": "NO",
-      "language": "norsk",
-      "clickCount": 4,
-      "bitrate": 160,
-      "streamUrl": "https://nettradio.sorlandsradioen.no/sorlandsradioen_hq"
-    },
-    {
       "id": "relax_fm_100_hitu_lt_a3580a6c",
       "title": "Relax FM 100 Hitu",
       "subtitle": "Radio",
@@ -27729,6 +27704,90 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://streamingradio.rtv-apeldoorn.nl/listen/radio_apeldoorn/rtvapeldoornmid.mp3"
+    },
+    {
+      "id": "groovetime_lu_2e1e744d",
+      "title": "Groovetime",
+      "subtitle": "Acid Jazz",
+      "location": "Luxembourg",
+      "genre": "Acid Jazz",
+      "countryCode": "LU",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 320,
+      "streamUrl": "http://kotdt.com:8000/groovetime"
+    },
+    {
+      "id": "radio_skonto_m_s_jie_lv_adda5fc3",
+      "title": "Radio Skonto Mūsējie",
+      "subtitle": "Folk",
+      "location": "Latvia",
+      "genre": "Folk",
+      "countryCode": "LV",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "https://streams.radioskonto.lv:8443/skonto-musejie"
+    },
+    {
+      "id": "radio_energy_russian_radio_lv_d62bb021",
+      "title": "Radio Energy - Russian Radio",
+      "subtitle": "Adult Contemporary",
+      "location": "Latvia",
+      "genre": "Adult Contemporary",
+      "countryCode": "LV",
+      "language": "russian",
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "http://radioenergy.lv:9000/;stream.mp3"
+    },
+    {
+      "id": "ehr_latvie_u_hiti_lv_reps_lv_4698ab4e",
+      "title": "EHR Latviešu Hiti - LV Reps",
+      "subtitle": "Rap",
+      "location": "Latvia",
+      "genre": "Rap",
+      "countryCode": "LV",
+      "language": "latvian",
+      "clickCount": 5,
+      "bitrate": 96,
+      "streamUrl": "https://25643.live.streamtheworld.com/LATVIESU_HITI_LV_REPSAAC.aac"
+    },
+    {
+      "id": "radio_calypso_nl_15fbce5b",
+      "title": "Radio Calypso",
+      "subtitle": "Oldies",
+      "location": "The Netherlands",
+      "genre": "Oldies",
+      "countryCode": "NL",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "http://mcp-1.streampanel.nl:18024/stream"
+    },
+    {
+      "id": "hitspowerfm_nl_ae6f2ace",
+      "title": "hitspowerfm",
+      "subtitle": "Radio",
+      "location": "The Netherlands",
+      "genre": "Radio",
+      "countryCode": "NL",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 320,
+      "streamUrl": "http://everestcastprohostingbudget.nl:3940/stream"
+    },
+    {
+      "id": "pepperbox_nl_dbb3e1cf",
+      "title": "Pepperbox",
+      "subtitle": "Radio",
+      "location": "The Netherlands",
+      "genre": "Radio",
+      "countryCode": "NL",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://stream.pepperboxradio.nl:8000/radio.mp3"
     }
   ]
 }

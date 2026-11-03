@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-02T04:27:23Z",
+  "updated": "2026-11-03T05:22:59Z",
   "region": "europe",
   "part": 8,
   "of": 8,
@@ -12749,19 +12749,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_station_3c191d29",
-      "title": "Радио России ГТРК Вологда",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://radio.gtrk35.ru/RadioRossii",
-      "location": "The Russian Federation",
-      "genre": "Radio",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 0,
-      "bitrate": 256
-    },
-    {
       "id": "rb2_91_6_fm_ba21d9d3",
       "title": "Радио России ГТРК Коми Гор 91.6 FM",
       "subtitle": "News, Talk",
@@ -15026,19 +15013,6 @@
       "bitrate": 96
     },
     {
-      "id": "rb2_station_3929ae77",
-      "title": "Экорадио",
-      "subtitle": "Поп-Музыка",
-      "imageUrl": "",
-      "streamUrl": "https://online.ekoradio.ru/stream.mp3",
-      "location": "Нижний Тагил, The Russian Federation",
-      "genre": "Поп-Музыка",
-      "countryCode": "RU",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_station_e813569f",
       "title": "Эхо",
       "subtitle": "Radio",
@@ -15758,19 +15732,6 @@
       "language": "english",
       "clickCount": 1,
       "bitrate": 2790
-    },
-    {
-      "id": "rb2_kpop_97c34f30",
-      "title": "Kpop",
-      "subtitle": "K-Pop, Korean Pop",
-      "imageUrl": "https://madmix.se/images/logo.jpg",
-      "streamUrl": "https://mml2.prostream.se/listen/kpop/radio.mp3",
-      "location": "Sweden",
-      "genre": "K-Pop",
-      "countryCode": "SE",
-      "language": "english",
-      "clickCount": 1,
-      "bitrate": 128
     },
     {
       "id": "rb2_latin_1ce736f3",
@@ -19141,15 +19102,6 @@
       "streamUrl": "https://d18ufyp3q60j7u.cloudfront.net/radio-ch01/radio-ch02/playlist.m3u8"
     },
     {
-      "id": "usmaradio_sm",
-      "title": "USMARADIO",
-      "subtitle": "Città Di San Marino / University Radio",
-      "location": "Città di San Marino, San Marino",
-      "genre": "Music",
-      "countryCode": "SM",
-      "streamUrl": "http://usmaradio.out.airtime.pro:8000/usmaradio_a"
-    },
-    {
       "id": "rb2_103_7_da_beat_ab0fc687",
       "title": "103.7 Da Beat",
       "subtitle": "Hip-Hop, Rap",
@@ -22038,18 +21990,6 @@
       "streamUrl": "https://online.z-polus.info/mobile"
     },
     {
-      "id": "best_fm_95_6_ua_3db36710",
-      "title": "Best fm 95,6",
-      "subtitle": "Radio",
-      "location": "Ukraine",
-      "genre": "Radio",
-      "countryCode": "UA",
-      "language": null,
-      "clickCount": 3,
-      "bitrate": 160,
-      "streamUrl": "http://radio.bestfm.ua/bestfm"
-    },
-    {
       "id": "radio_rocks_kyiv_103_6fm_hd_ua_76f4c2ab",
       "title": "Radio ROCKS Kyiv 103.6FM HD",
       "subtitle": "Classic Rock",
@@ -23262,18 +23202,6 @@
       "streamUrl": "https://channels.fonotron.ru:8000/Chan_73_256.mp3"
     },
     {
-      "id": "teyvat_radio_genshin_impact_ru_0e9e57ad",
-      "title": "Teyvat Radio (Genshin Impact)",
-      "subtitle": "Radio",
-      "location": "The Russian Federation",
-      "genre": "Radio",
-      "countryCode": "RU",
-      "language": "chinese",
-      "clickCount": 4,
-      "bitrate": 0,
-      "streamUrl": "http://170.168.112.96:8000/live-mp3"
-    },
-    {
       "id": "melodiclab_radio_ru_515d9ba3",
       "title": "MelodiClab Radio",
       "subtitle": "Radio",
@@ -24124,18 +24052,6 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "http://79.120.39.202:8000/soul"
-    },
-    {
-      "id": "top_radio_from_ukraine_to_spain_ua_bb7c5f6e",
-      "title": "Top Radio FROM UKRAINE TO SPAIN",
-      "subtitle": "Radio",
-      "location": "Ukraine",
-      "genre": "Radio",
-      "countryCode": "UA",
-      "language": "castellano. español",
-      "clickCount": 4,
-      "bitrate": 128,
-      "streamUrl": "https://laut.fm/topradio"
     },
     {
       "id": "maximum_ru_ee1b6aad",
@@ -25864,6 +25780,114 @@
       "clickCount": 4,
       "bitrate": 320,
       "streamUrl": "http://195.182.22.130:8000/Streamogg"
+    },
+    {
+      "id": "radiumfm_kyiv_ua_9fa9c196",
+      "title": "RadiumFM Kyiv",
+      "subtitle": "Ai Generated",
+      "location": "Ukraine",
+      "genre": "Ai Generated",
+      "countryCode": "UA",
+      "language": "english",
+      "clickCount": 7,
+      "bitrate": 128,
+      "streamUrl": "https://stream.radiumfm.com/kyiv"
+    },
+    {
+      "id": "radio_robin_si_88f8d48f",
+      "title": "Radio robin",
+      "subtitle": "Entertainment",
+      "location": "Slovenia",
+      "genre": "Entertainment",
+      "countryCode": "SI",
+      "language": "slovenian",
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "https://live.radio.si/Robin"
+    },
+    {
+      "id": "meder_fm_ua_7abfbf94",
+      "title": "Meder FM",
+      "subtitle": "Dance",
+      "location": "Ukraine",
+      "genre": "Dance",
+      "countryCode": "UA",
+      "language": "english",
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://myradio24.org/7934"
+    },
+    {
+      "id": "get_radio_ru_69e92d94",
+      "title": "get.radio — Рок (Прочие языки)",
+      "subtitle": "Music",
+      "location": "The Russian Federation",
+      "genre": "Music",
+      "countryCode": "RU",
+      "language": "french",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://get-radio.sipout.ai/stream/rock-other.mp3"
+    },
+    {
+      "id": "gta_iv_k109_the_studio_gtaradio_net_ru_2ef67dd6",
+      "title": "[GTA IV] K109 The Studio [GTARadio.net]",
+      "subtitle": "Disco",
+      "location": "The Russian Federation",
+      "genre": "Disco",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://audio.gtaradio.net/4/k109_the_studio"
+    },
+    {
+      "id": "retro_ua_30626fc2",
+      "title": "Радіо Київстар Retro",
+      "subtitle": "256 Kbit/S",
+      "location": "Ukraine",
+      "genre": "256 Kbit/S",
+      "countryCode": "UA",
+      "language": "ukranian",
+      "clickCount": 5,
+      "bitrate": 281,
+      "streamUrl": "https://radio.kyivstar.ua/stream/retromusic/master.m3u8"
+    },
+    {
+      "id": "get_radio_ru_5e8ce758",
+      "title": "get.radio — Джаз (Русский)",
+      "subtitle": "Jazz",
+      "location": "The Russian Federation",
+      "genre": "Jazz",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://get-radio.sipout.ai/stream/jazz-ru.mp3"
+    },
+    {
+      "id": "gta_iv_liberty_rock_radio_97_8_gtaradio_net_ru_a6238db0",
+      "title": "[GTA IV] Liberty Rock Radio 97.8 [GTARadio.net]",
+      "subtitle": "Alternative Rock",
+      "location": "The Russian Federation",
+      "genre": "Alternative Rock",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://audio.gtaradio.net/4/liberty_rock"
+    },
+    {
+      "id": "2_international_ru_c5bcc3ef",
+      "title": "Музыка2 International",
+      "subtitle": "90S Eurodance",
+      "location": "The Russian Federation",
+      "genre": "90S Eurodance",
+      "countryCode": "RU",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "http://kino-1.catcast.tv/content/37742/index.m3u8"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-02T04:27:23Z",
+  "updated": "2026-11-03T05:22:59Z",
   "region": "europe",
   "part": 1,
   "of": 8,
@@ -2318,19 +2318,6 @@
       "language": "german",
       "clickCount": 1,
       "bitrate": 192
-    },
-    {
-      "id": "rb2_radio_fro_961d67e0",
-      "title": "Radio FRO",
-      "subtitle": "Art, Charitable",
-      "imageUrl": "https://www.fro.at/wp-content/themes/fro/images/fro_favicon_32x32pxl.png",
-      "streamUrl": "http://www.fro.at:8008/fro-128.ogg",
-      "location": "Upper Austria, Austria",
-      "genre": "Art",
-      "countryCode": "AT",
-      "language": "german",
-      "clickCount": 0,
-      "bitrate": 131
     },
     {
       "id": "rb2_radio_flamingo_378f155b",
@@ -32257,18 +32244,6 @@
       "streamUrl": "https://listen.radioking.com/radio/320837/stream/503612"
     },
     {
-      "id": "intradio_al_248fc323",
-      "title": "Intradio",
-      "subtitle": "Hip Hop",
-      "location": "Albania",
-      "genre": "Hip Hop",
-      "countryCode": "AL",
-      "language": "albanian",
-      "clickCount": 3,
-      "bitrate": 96,
-      "streamUrl": "https://stream.zeno.fm/z61vrp6rmd0uv"
-    },
-    {
       "id": "schlager_antenne_sterreich_at_0823849f",
       "title": "Schlager Antenne Österreich",
       "subtitle": "Radio",
@@ -33623,6 +33598,138 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://s6-webradio.rockantenne.bayern/munich-city-nights/stream/mp3"
+    },
+    {
+      "id": "radio_regenbogen_sommerhits_de_ea7494ce",
+      "title": "Radio Regenbogen Sommerhits",
+      "subtitle": "Dance",
+      "location": "Germany",
+      "genre": "Dance",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 8,
+      "bitrate": 0,
+      "streamUrl": "https://stream.regenbogen.de/sommerhits/aac-128/radiobrowser"
+    },
+    {
+      "id": "munich_vinyl_radio_de_18b406f1",
+      "title": "Munich Vinyl Radio",
+      "subtitle": "Jazz",
+      "location": "Germany",
+      "genre": "Jazz",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 8,
+      "bitrate": 296,
+      "streamUrl": "https://stream.munichvinylradio.de/listen/mvr/stream.aac"
+    },
+    {
+      "id": "radio_regenbogen_80er_pop_rock_de_ac526f89",
+      "title": "Radio Regenbogen - 80er Pop-Rock",
+      "subtitle": "80S",
+      "location": "Germany",
+      "genre": "80S",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 8,
+      "bitrate": 0,
+      "streamUrl": "https://stream.regenbogen.de/80erpoprock/mp3-128/radiobrowser"
+    },
+    {
+      "id": "top_gold_radio_al_b4c88dfb",
+      "title": "Top Gold Radio",
+      "subtitle": "Radio",
+      "location": "Albania",
+      "genre": "Radio",
+      "countryCode": "AL",
+      "language": null,
+      "clickCount": 7,
+      "bitrate": 128,
+      "streamUrl": "https://live.topgold.al/topgold"
+    },
+    {
+      "id": "antenne_bayern_party_hits_de_c61c6639",
+      "title": "Antenne Bayern - Party Hits",
+      "subtitle": "German",
+      "location": "Germany",
+      "genre": "German",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 7,
+      "bitrate": 128,
+      "streamUrl": "https://s3-webradio.antenne.de/party-hits/stream/mp3"
+    },
+    {
+      "id": "antenne_bad_kreuznach_de_ecb76221",
+      "title": "Antenne Bad Kreuznach",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 192,
+      "streamUrl": "https://stream.radiogroup.de/antenne-badkreuznach/mp3-192/?ref=website"
+    },
+    {
+      "id": "energy_nrw_de_4ce8ee2e",
+      "title": "Energy NRW",
+      "subtitle": "Charts",
+      "location": "Germany",
+      "genre": "Charts",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://edge20.streamonkey.net/energy-nrw/stream/mp3?aggregator=shorty"
+    },
+    {
+      "id": "star_fm_maximum_rock_national_de_cfaede32",
+      "title": "Star FM Maximum Rock | National",
+      "subtitle": "Rock",
+      "location": "Germany",
+      "genre": "Rock",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "https://stream.starfm.de/national/mp3-192/iradio"
+    },
+    {
+      "id": "antenne_tirol_at_123e1f72",
+      "title": "Antenne Tirol",
+      "subtitle": "Classic Hits",
+      "location": "Austria",
+      "genre": "Classic Hits",
+      "countryCode": "AT",
+      "language": "german",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://frontend.streamonkey.net/anttirol-live"
+    },
+    {
+      "id": "harmony_feelings_de_0de5afbc",
+      "title": "HARMONY FEELINGS",
+      "subtitle": "80S",
+      "location": "Germany",
+      "genre": "80S",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "http://mp3.harmonyfm.de/hrmchannels/hqfeelings.mp3?aw_0_req.gdpr=true"
+    },
+    {
+      "id": "music_box_classic_cz_c57a27bb",
+      "title": "MUSIC BOX CLASSIC",
+      "subtitle": "Iconic Rock.",
+      "location": "Czechia",
+      "genre": "Iconic Rock.",
+      "countryCode": "CZ",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://dash2.antik.sk/live/mb_classic/index.m3u8"
     }
   ]
 }

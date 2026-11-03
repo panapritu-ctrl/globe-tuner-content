@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-02T04:27:23Z",
+  "updated": "2026-11-03T05:22:59Z",
   "region": "africa",
   "stations": [
     {
@@ -3605,19 +3605,6 @@
       "genre": "974",
       "streamUrl": "https://ecmanager2.pro-fhi.net:1535/stream",
       "countryCode": "RE"
-    },
-    {
-      "id": "rb2_radio_star_r_union_1cf21d0f",
-      "title": "Radio Star Réunion",
-      "subtitle": "Réunion",
-      "imageUrl": "https://i.ibb.co/m5CLJbxc/67a887528dc318-57430710-upscayl-2x-digital-art-4x.png",
-      "streamUrl": "https://cdnradio.streamakaci.com/radiostar.mp3",
-      "location": "Reunion",
-      "genre": "Réunion",
-      "countryCode": "RE",
-      "language": "french",
-      "clickCount": 0,
-      "bitrate": 192
     },
     {
       "id": "rb_rire_et_chansons_r_union_e304887a",
@@ -9484,18 +9471,6 @@
       "streamUrl": "https://panel.radiocast.net/listen/secret_of_future/radio.mp3"
     },
     {
-      "id": "radio_786_za_62bd3ab8",
-      "title": "Radio 786",
-      "subtitle": "Radio",
-      "location": "South Africa",
-      "genre": "Radio",
-      "countryCode": "ZA",
-      "language": null,
-      "clickCount": 6,
-      "bitrate": 56,
-      "streamUrl": "http://stream.krypton.co.za:8040/stream/"
-    },
-    {
       "id": "jazz_et_0041db41",
       "title": "jazz",
       "subtitle": "Jazz",
@@ -11056,18 +11031,6 @@
       "streamUrl": "https://live.netradio.pro/listen/jojofm/radio.mp3"
     },
     {
-      "id": "angoni_radio_station_mw_a836715e",
-      "title": "Angoni Radio Station",
-      "subtitle": "Education",
-      "location": "Malawi",
-      "genre": "Education",
-      "countryCode": "MW",
-      "language": "chichewa",
-      "clickCount": 4,
-      "bitrate": 192,
-      "streamUrl": "https://live.netradio.pro/listen/angoni/radio.mp3"
-    },
-    {
       "id": "tiwale_radio_station_mw_55989549",
       "title": "TIWALE RADIO STATION",
       "subtitle": "Christian",
@@ -11908,18 +11871,6 @@
       "streamUrl": "https://paineldj5.com.br:20095/stream"
     },
     {
-      "id": "r_dio_ispi_ao_ad8138b6",
-      "title": "Rádio ISPI",
-      "subtitle": "Education",
-      "location": "Angola",
-      "genre": "Education",
-      "countryCode": "AO",
-      "language": "portuguese",
-      "clickCount": 3,
-      "bitrate": 128,
-      "streamUrl": "https://radios2.justweb.pt/8058/stream"
-    },
-    {
       "id": "fm_afro_ao_1f614f30",
       "title": "FM Afro",
       "subtitle": "Afro Beat",
@@ -12086,18 +12037,6 @@
       "clickCount": 10,
       "bitrate": 128,
       "streamUrl": "https://listen.tropicastradio.com/stations/gwjhbnsfzq/live.mp3"
-    },
-    {
-      "id": "radio_svein_cd_a293250e",
-      "title": "Radio Svein",
-      "subtitle": "Radio Comunitaria",
-      "location": "The Democratic Republic Of The Congo",
-      "genre": "Radio Comunitaria",
-      "countryCode": "CD",
-      "language": "french",
-      "clickCount": 7,
-      "bitrate": 128,
-      "streamUrl": "https://radiosvein2.ice.infomaniak.ch/radiosvein2-64.mp3"
     },
     {
       "id": "r_dio_cuando_cubango_91_4_fm_ao_997575df",
@@ -13274,6 +13213,246 @@
       "clickCount": 5,
       "bitrate": 128,
       "streamUrl": "https://radio.gotright.net/radio/8010/radio.mp3"
+    },
+    {
+      "id": "radio_rwanda_rw_238ca828",
+      "title": "Radio Rwanda",
+      "subtitle": "Radio",
+      "location": "Rwanda",
+      "genre": "Radio",
+      "countryCode": "RW",
+      "language": null,
+      "clickCount": 41,
+      "bitrate": 128,
+      "streamUrl": "https://listen.rba.co.rw:8008/rwanda/"
+    },
+    {
+      "id": "omniradio_salah_bukhatir_eg_14153ec2",
+      "title": "OmniRadio - Salah Bukhatir (صلاح بوخاطر)",
+      "subtitle": "Arabic",
+      "location": "Egypt",
+      "genre": "Arabic",
+      "countryCode": "EG",
+      "language": "ar",
+      "clickCount": 11,
+      "bitrate": 32,
+      "streamUrl": "https://radio.xecod.com/station/salah-bukhatir"
+    },
+    {
+      "id": "omniradio_sheikh_adelrayan_eg_a5af3052",
+      "title": "OmniRadio - SHEIKH AdelRayan (الشيخ عادل ريان)",
+      "subtitle": "Arabic",
+      "location": "Egypt",
+      "genre": "Arabic",
+      "countryCode": "EG",
+      "language": "ar",
+      "clickCount": 9,
+      "bitrate": 32,
+      "streamUrl": "https://radio.xecod.com/station/AdelRayan"
+    },
+    {
+      "id": "r_dio_cultura_angola_ao_20b9ca04",
+      "title": "Rádio Cultura Angola",
+      "subtitle": "Folk",
+      "location": "Angola",
+      "genre": "Folk",
+      "countryCode": "AO",
+      "language": "portuguese",
+      "clickCount": 7,
+      "bitrate": 48,
+      "streamUrl": "https://paineldj5.com.br:20091/stream"
+    },
+    {
+      "id": "omniradio_sheikh_bandar_balila_eg_b92b6347",
+      "title": "OmniRadio - Sheikh Bandar Balila (الشيخ بندر بليلة)",
+      "subtitle": "Arabic",
+      "location": "Egypt",
+      "genre": "Arabic",
+      "countryCode": "EG",
+      "language": "ar",
+      "clickCount": 7,
+      "bitrate": 32,
+      "streamUrl": "https://radio.xecod.com/station/bandar-balila"
+    },
+    {
+      "id": "r_dio_solid_ria_ao_61d3c34a",
+      "title": "Rádio Solidária",
+      "subtitle": "News",
+      "location": "Angola",
+      "genre": "News",
+      "countryCode": "AO",
+      "language": "portuguese",
+      "clickCount": 6,
+      "bitrate": 64,
+      "streamUrl": "https://link.radio.br:16052/stream"
+    },
+    {
+      "id": "r_dio_maranata_ao_72b25833",
+      "title": "Rádio Maranata",
+      "subtitle": "Christian",
+      "location": "Angola",
+      "genre": "Christian",
+      "countryCode": "AO",
+      "language": "portuguese",
+      "clickCount": 6,
+      "bitrate": 48,
+      "streamUrl": "https://azura4.cmaudioevideo.com:8450/radio.aac"
+    },
+    {
+      "id": "omniradio_abu_bakr_al_shatri_eg_08217ab3",
+      "title": "OmniRadio - Abu Bakr Al-Shatri (أبوبكر الشاطري)",
+      "subtitle": "Arabic",
+      "location": "Egypt",
+      "genre": "Arabic",
+      "countryCode": "EG",
+      "language": "ar",
+      "clickCount": 6,
+      "bitrate": 32,
+      "streamUrl": "https://radio.xecod.com/station/abubakr-shatri"
+    },
+    {
+      "id": "omniradio_khalid_abu_shadi_eg_dc72dbc3",
+      "title": "OmniRadio - Khalid Abu Shadi (خالد أبو شادي)",
+      "subtitle": "Arabic",
+      "location": "Egypt",
+      "genre": "Arabic",
+      "countryCode": "EG",
+      "language": "ar",
+      "clickCount": 6,
+      "bitrate": 32,
+      "streamUrl": "https://radio.xecod.com/station/khaledabushady"
+    },
+    {
+      "id": "omniradio_sheikh_ammar_al_mulla_eg_f6d78020",
+      "title": "OmniRadio - Sheikh Ammar Al-Mulla (الشيخ عمار الملا)",
+      "subtitle": "Arabic",
+      "location": "Egypt",
+      "genre": "Arabic",
+      "countryCode": "EG",
+      "language": "ar",
+      "clickCount": 6,
+      "bitrate": 32,
+      "streamUrl": "https://radio.xecod.com/station/ammar-almulla"
+    },
+    {
+      "id": "omniradio_islamic_audio_library_uploads_eg_28e526c8",
+      "title": "OmniRadio - Islamic Audio Library (Uploads) (متنوع)",
+      "subtitle": "Arabic",
+      "location": "Egypt",
+      "genre": "Arabic",
+      "countryCode": "EG",
+      "language": "ar",
+      "clickCount": 6,
+      "bitrate": 32,
+      "streamUrl": "https://radio.xecod.com/station/local-library"
+    },
+    {
+      "id": "radio_fr_quence_3_93_8_bamako_ml_9b3ee76d",
+      "title": "Radio Fréquence 3 93.8 Bamako",
+      "subtitle": "Music",
+      "location": "Mali",
+      "genre": "Music",
+      "countryCode": "ML",
+      "language": "french",
+      "clickCount": 6,
+      "bitrate": 64,
+      "streamUrl": "http://ice.stream.frequence3.net/frequence3-64.aac"
+    },
+    {
+      "id": "kuwala_fm_mw_c94fa505",
+      "title": "Kuwala FM",
+      "subtitle": "Education",
+      "location": "Malawi",
+      "genre": "Education",
+      "countryCode": "MW",
+      "language": "chichewa",
+      "clickCount": 6,
+      "bitrate": 64,
+      "streamUrl": "https://host2.streamafrica.net/listen/kuwala_radio/radio.mp3"
+    },
+    {
+      "id": "r_dio_mais_hu_la_ao_d71f2d35",
+      "title": "Rádio Mais Huíla",
+      "subtitle": "News",
+      "location": "Angola",
+      "genre": "News",
+      "countryCode": "AO",
+      "language": "portuguese",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://radios.justweb.pt/8048/stream"
+    },
+    {
+      "id": "protestant_voice_radio_cm_efeea6b2",
+      "title": "Protestant Voice Radio",
+      "subtitle": "Christian",
+      "location": "Cameroon",
+      "genre": "Christian",
+      "countryCode": "CM",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://stream.zeno.fm/ksvcx4vdulsuv"
+    },
+    {
+      "id": "omniradio_sheikh_majid_farouk_eg_65e33504",
+      "title": "OmniRadio - Sheikh Majid Farouk (الشيخ ماجد فاروق)",
+      "subtitle": "Arabic",
+      "location": "Egypt",
+      "genre": "Arabic",
+      "countryCode": "EG",
+      "language": "ar",
+      "clickCount": 5,
+      "bitrate": 32,
+      "streamUrl": "https://radio.xecod.com/station/majid-farouk"
+    },
+    {
+      "id": "radio_madjoura_nourou_dine_touba_ml_c736ed6b",
+      "title": "Radio Madjoura Nourou Dine Touba",
+      "subtitle": "Radio",
+      "location": "Mali",
+      "genre": "Radio",
+      "countryCode": "ML",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://stream.zeno.fm/kgnvaarqu0quv"
+    },
+    {
+      "id": "r_dio_malange_ao_eae11b14",
+      "title": "Rádio Malange",
+      "subtitle": "News",
+      "location": "Angola",
+      "genre": "News",
+      "countryCode": "AO",
+      "language": "portuguese",
+      "clickCount": 4,
+      "bitrate": 64,
+      "streamUrl": "https://paineldj6.com.br:20116/stream"
+    },
+    {
+      "id": "platina_fm_ao_40404cd9",
+      "title": "Platina FM",
+      "subtitle": "News",
+      "location": "Angola",
+      "genre": "News",
+      "countryCode": "AO",
+      "language": "portuguese",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream.zeno.fm/bckqpsxrqv8uv"
+    },
+    {
+      "id": "the_ark_of_nigeria_radio_ng_32262387",
+      "title": "The Ark of Nigeria Radio",
+      "subtitle": "Community / Talk / Culture",
+      "location": "Nigeria",
+      "genre": "Community / Talk / Culture",
+      "countryCode": "NG",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 64,
+      "streamUrl": "https://fm.imediaport.com/theark"
     }
   ]
 }
