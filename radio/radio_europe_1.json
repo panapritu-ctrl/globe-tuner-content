@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-03T05:22:59Z",
+  "updated": "2026-11-04T04:53:07Z",
   "region": "europe",
   "part": 1,
   "of": 8,
@@ -15830,19 +15830,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_hv_zda_3f4770f8",
-      "title": "Hvězda",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://hls.hvezda.info/session01/128k/s.m3u8",
-      "location": "Czechia",
-      "genre": "Radio",
-      "countryCode": "CZ",
-      "language": "czech",
-      "clickCount": 3,
-      "bitrate": 128000
-    },
-    {
       "id": "j_1_televize_ji_n_echy_cz",
       "title": "JČ1 - Televize jižní Čechy",
       "subtitle": "Local News / News Talk",
@@ -26952,18 +26939,6 @@
       "streamUrl": "https://eilo.org/streamer.php?ch=trance"
     },
     {
-      "id": "cr_94_4_at_17cda85b",
-      "title": "CR 94.4",
-      "subtitle": "Radio",
-      "location": "Austria",
-      "genre": "Radio",
-      "countryCode": "AT",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 0,
-      "streamUrl": "https://cr944.at:50443/cr944"
-    },
-    {
       "id": "argusradio_al_b3c3f73f",
       "title": "ArgusRadio",
       "subtitle": "Deep House",
@@ -29592,18 +29567,6 @@
       "streamUrl": "https://ssl22.radyotelekom.com/8386/stream"
     },
     {
-      "id": "radio_balkanika_bg_8966040d",
-      "title": "Radio Balkanika",
-      "subtitle": "Balkan",
-      "location": "Bulgaria",
-      "genre": "Balkan",
-      "countryCode": "BG",
-      "language": "bulgarian",
-      "clickCount": 4,
-      "bitrate": 64,
-      "streamUrl": "https://ssl120.radyotelekom.com.tr/8122/stream"
-    },
-    {
       "id": "radioto_bg_bg_b532e3bd",
       "title": "Radioto.bg",
       "subtitle": "Radio",
@@ -31054,18 +31017,6 @@
       "clickCount": 3,
       "bitrate": 128,
       "streamUrl": "https://stream.mbg-hsw.de/radio/8000/radio.mp3"
-    },
-    {
-      "id": "kef_fm_bg_bfafc1bd",
-      "title": "kef.fm",
-      "subtitle": "Folk",
-      "location": "Bulgaria",
-      "genre": "Folk",
-      "countryCode": "BG",
-      "language": "bulgarian",
-      "clickCount": 5,
-      "bitrate": 0,
-      "streamUrl": "http://91.227.77.124/keffm"
     },
     {
       "id": "slow_down_r_dijo_cz_3511eaa0",
@@ -33730,6 +33681,150 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "https://dash2.antik.sk/live/mb_classic/index.m3u8"
+    },
+    {
+      "id": "a_z_60s_de_b9979b48",
+      "title": "A-Z 60s",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 10,
+      "bitrate": 128,
+      "streamUrl": "https://ip45.ip-164-132-158.eu:8030/radio.mp3"
+    },
+    {
+      "id": "hv_zda_cz_4ce2a185",
+      "title": "Hvězda",
+      "subtitle": "Radio",
+      "location": "Czechia",
+      "genre": "Radio",
+      "countryCode": "CZ",
+      "language": "czech",
+      "clickCount": 6,
+      "bitrate": 128000,
+      "streamUrl": "https://hls.hvezda.info/session01/128k/s.m3u8"
+    },
+    {
+      "id": "faf_records_979_de_f275d365",
+      "title": "FAF Records 979",
+      "subtitle": "Afro House",
+      "location": "Germany",
+      "genre": "Afro House",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://stream.laut.fm/faf-records-979"
+    },
+    {
+      "id": "radio_dresden_weihnachtsradio_de_3ac0b1a0",
+      "title": "Radio Dresden - Weihnachtsradio",
+      "subtitle": "Christmas",
+      "location": "Germany",
+      "genre": "Christmas",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://web.radio.radiodresden.de/radiodresden-weihnachten/stream/mp3"
+    },
+    {
+      "id": "klassik_radio_pure_verdi_de_d43c69eb",
+      "title": "Klassik Radio - Pure Verdi",
+      "subtitle": "Classical",
+      "location": "Germany",
+      "genre": "Classical",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "http://stream.klassikradio.de/verdi/mp3-128/"
+    },
+    {
+      "id": "radio_bob_metal_192kbps_de_d809c5ee",
+      "title": "Radio BOB! Metal (192kbps)",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://streams.radiobob.de/bob-metal/mp3-192/streams.radiobob.de/"
+    },
+    {
+      "id": "radio_f_94_5_de_a34bb8f5",
+      "title": "Radio F 94.5",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://edge63.streamonkey.net/fhn-radiof945/stream/mp3?aggregator=webseite"
+    },
+    {
+      "id": "inselradio_f_hr_de_d1cf317b",
+      "title": "Inselradio Föhr",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "https://s10.streamingcloud.online:13192/stream"
+    },
+    {
+      "id": "esk_rozhlas_karlovy_vary_cz_a9002d11",
+      "title": "Český rozhlas Karlovy Vary",
+      "subtitle": "Music",
+      "location": "Czechia",
+      "genre": "Music",
+      "countryCode": "CZ",
+      "language": "czech",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://rozhlas.stream/karlovy_vary.mp3"
+    },
+    {
+      "id": "dw_espa_ol_de_475b6040",
+      "title": "DW Español",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 1061,
+      "streamUrl": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8"
+    },
+    {
+      "id": "ayurveda_lounge_de_c43a3ef8",
+      "title": "Ayurveda Lounge",
+      "subtitle": "Zen Lounge ~ Meditation ~ Ayurveda ~ Yoga",
+      "location": "Germany",
+      "genre": "Zen Lounge ~ Meditation ~ Ayurveda ~ Yoga",
+      "countryCode": "DE",
+      "language": "various languages",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream.laut.fm/ayurveda-lounge"
+    },
+    {
+      "id": "radio_wellenrausch_aac_de_9f7dc65a",
+      "title": "Radio Wellenrausch [AAC]",
+      "subtitle": "Classical",
+      "location": "Germany",
+      "genre": "Classical",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "http://stream.radio-wellenrausch.de/rwrlive/aac-64/stream.radio-wellenrausch.de/"
     }
   ]
 }

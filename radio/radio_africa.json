@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-03T05:22:59Z",
+  "updated": "2026-11-04T04:53:07Z",
   "region": "africa",
   "stations": [
     {
@@ -13347,18 +13347,6 @@
       "streamUrl": "https://radio.xecod.com/station/local-library"
     },
     {
-      "id": "radio_fr_quence_3_93_8_bamako_ml_9b3ee76d",
-      "title": "Radio Fréquence 3 93.8 Bamako",
-      "subtitle": "Music",
-      "location": "Mali",
-      "genre": "Music",
-      "countryCode": "ML",
-      "language": "french",
-      "clickCount": 6,
-      "bitrate": 64,
-      "streamUrl": "http://ice.stream.frequence3.net/frequence3-64.aac"
-    },
-    {
       "id": "kuwala_fm_mw_c94fa505",
       "title": "Kuwala FM",
       "subtitle": "Education",
@@ -13453,6 +13441,54 @@
       "clickCount": 4,
       "bitrate": 64,
       "streamUrl": "https://fm.imediaport.com/theark"
+    },
+    {
+      "id": "96_3_favour_fm_juba_ss_3c5b9c39",
+      "title": "96.3 Favour FM Juba",
+      "subtitle": "Radio",
+      "location": "South Sudan",
+      "genre": "Radio",
+      "countryCode": "SS",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "https://us5new.listen2myradio.com:2199/listen.php?port=8106&type=ice&mount=live"
+    },
+    {
+      "id": "radio_bonne_nouvelle_cm_ec569df9",
+      "title": "Radio Bonne Nouvelle",
+      "subtitle": "Christian",
+      "location": "Cameroon",
+      "genre": "Christian",
+      "countryCode": "CM",
+      "language": "french",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://radiobonnenouvelle2.ice.infomaniak.ch/radiobonnenouvelle2-96.mp3"
+    },
+    {
+      "id": "godfrey_okoye_university_radio_106_9fm_ng_54c0b63c",
+      "title": "Godfrey Okoye University Radio 106.9fm",
+      "subtitle": "Radio",
+      "location": "Nigeria",
+      "genre": "Radio",
+      "countryCode": "NG",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://us5new.listen2myradio.com:2199/stream.php?port=8178"
+    },
+    {
+      "id": "voice_of_hope_africa_ng_e6ab496e",
+      "title": "Voice of Hope Africa",
+      "subtitle": "Community",
+      "location": "Nigeria",
+      "genre": "Community",
+      "countryCode": "NG",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 64,
+      "streamUrl": "https://fm.imediaport.com/voha"
     }
   ]
 }

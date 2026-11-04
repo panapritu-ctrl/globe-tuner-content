@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-03T05:22:59Z",
+  "updated": "2026-11-04T04:53:07Z",
   "region": "americas",
   "part": 2,
   "of": 5,
@@ -7384,19 +7384,6 @@
       "subtitle": "Radio",
       "imageUrl": "http://radioadminassets.rogersdigitalmedia.com/uploads/ciww-600x600.png",
       "streamUrl": "https://rogers-hls.leanstream.co/rogers/ott1011.stream/icy?environment=tunein&args=tunein_01",
-      "location": "Canada",
-      "genre": "Radio",
-      "countryCode": "CA",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 48
-    },
-    {
-      "id": "rb2_citynews_95_7_halifax_7893b26d",
-      "title": "CityNews 95.7 Halifax",
-      "subtitle": "Radio",
-      "imageUrl": "http://radioadminassets.rogersdigitalmedia.com/uploads/CityNews_957_Vertical_Secondary_RGB.png",
-      "streamUrl": "http://rogers-hls.leanstream.co/rogers/hal957.stream/icy?environment=tunein&args=tunein_01",
       "location": "Canada",
       "genre": "Radio",
       "countryCode": "CA",
@@ -27134,18 +27121,6 @@
       "streamUrl": "http://scratchradio.ca:8000/stream"
     },
     {
-      "id": "beach_booster_radio_wasaga_beach_on_ca_1739e163",
-      "title": "Beach Booster Radio - Wasaga Beach, ON",
-      "subtitle": "Classic Hits",
-      "location": "Canada",
-      "genre": "Classic Hits",
-      "countryCode": "CA",
-      "language": "english",
-      "clickCount": 3,
-      "bitrate": 128,
-      "streamUrl": "http://us3.streamingpulse.com:8082/stream"
-    },
-    {
       "id": "chms_97_7_moose_fm_bancroft_ca_e771f0b9",
       "title": "CHMS 97.7 Moose FM Bancroft",
       "subtitle": "Radio",
@@ -28010,18 +27985,6 @@
       "streamUrl": "https://master.letio.com/io/?gs=9104&type=live.m3u8"
     },
     {
-      "id": "radio_cimarrona_do_37f09154",
-      "title": "Radio Cimarrona",
-      "subtitle": "Community Radio",
-      "location": "The Dominican Republic",
-      "genre": "Community Radio",
-      "countryCode": "DO",
-      "language": "spanish",
-      "clickCount": 3,
-      "bitrate": 128,
-      "streamUrl": "http://radiocimarrona.out.airtime.pro:8000/radiocimarrona_a"
-    },
-    {
       "id": "genial_fm_do_595dfc85",
       "title": "Genial FM",
       "subtitle": "Radio",
@@ -28608,6 +28571,66 @@
       "clickCount": 4,
       "bitrate": 56,
       "streamUrl": "https://sp.sintonizapp.com:7003/;type=mp3"
+    },
+    {
+      "id": "radio_progreso_90_3_fm_cu_6cc544ba",
+      "title": "Radio Progreso 90.3 FM",
+      "subtitle": "90.3 Fm",
+      "location": "Cuba",
+      "genre": "90.3 Fm",
+      "countryCode": "CU",
+      "language": "spanish",
+      "clickCount": 12,
+      "bitrate": 64,
+      "streamUrl": "https://securestreams7.autopo.st/?uri=https://icecast.teveo.cu/XjfW7qWN"
+    },
+    {
+      "id": "el_sol_de_la_ma_ana_do_c12d3a0c",
+      "title": "EL SOL DE LA MAÑANA",
+      "subtitle": "Radio",
+      "location": "The Dominican Republic",
+      "genre": "Radio",
+      "countryCode": "DO",
+      "language": null,
+      "clickCount": 8,
+      "bitrate": 64,
+      "streamUrl": "http://radio.domiplay.net:2002/;stream.mp3"
+    },
+    {
+      "id": "radio_unal_bogota_co_9b9dfd54",
+      "title": "Radio UNAL Bogota",
+      "subtitle": "University",
+      "location": "Colombia",
+      "genre": "University",
+      "countryCode": "CO",
+      "language": "spanish",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://radio.unal.edu.co/streaming/bogota/;stream.mp3"
+    },
+    {
+      "id": "crv_radio_vida_latina_co_db1fa8cc",
+      "title": "crv radio Vida latina",
+      "subtitle": "Cristiana",
+      "location": "Colombia",
+      "genre": "Cristiana",
+      "countryCode": "CO",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 64,
+      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/VIDA_LATINA_S01AAC.aac"
+    },
+    {
+      "id": "radio_cimarrona_do_37f09154",
+      "title": "Radio Cimarrona",
+      "subtitle": "Community Radio",
+      "location": "The Dominican Republic",
+      "genre": "Community Radio",
+      "countryCode": "DO",
+      "language": "spanish",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://radiocimarrona.out.airtime.pro:8000/radiocimarrona_a"
     }
   ]
 }

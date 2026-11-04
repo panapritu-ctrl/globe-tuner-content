@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-03T05:22:59Z",
+  "updated": "2026-11-04T04:53:08Z",
   "region": "europe",
   "part": 7,
   "of": 8,
@@ -7589,19 +7589,6 @@
       "language": "romanian",
       "clickCount": 0,
       "bitrate": 320
-    },
-    {
-      "id": "rb2_ebs_radio_a8691211",
-      "title": "EBS Radio",
-      "subtitle": "Adult Contemporary, Top Hits",
-      "imageUrl": "https://ebsradio.ro/wp-content/themes/ebs/favicons/apple-touch-icon.png",
-      "streamUrl": "https://azura.ebsmedia.ro/listen/live/live96.aac",
-      "location": "Cluj, Romania",
-      "genre": "Adult Contemporary",
-      "countryCode": "RO",
-      "language": "romanian",
-      "clickCount": 0,
-      "bitrate": 96
     },
     {
       "id": "rb2_ebs_radio_live_cluj_napoca_90_4_fm_8176fb6d",
@@ -24855,18 +24842,6 @@
       "streamUrl": "https://141-144-200-199.nip.io/darkjazz.mp3"
     },
     {
-      "id": "naxi_90s_rs_453cfb23",
-      "title": "Naxi 90s",
-      "subtitle": "Pop",
-      "location": "Serbia",
-      "genre": "Pop",
-      "countryCode": "RS",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 128,
-      "streamUrl": "https://naxidigital-90s128ssl.streaming.rs:8282/;stream.nsv"
-    },
-    {
       "id": "station_ru_5445aa03",
       "title": "Песни всех времен",
       "subtitle": "Radio",
@@ -25789,6 +25764,42 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://stream.drugradio.ru:8000/stream128"
+    },
+    {
+      "id": "radio_slavoslovlje_rs_ccb7264a",
+      "title": "Radio Slavoslovlje",
+      "subtitle": "Orthodox Christian",
+      "location": "Serbia",
+      "genre": "Orthodox Christian",
+      "countryCode": "RS",
+      "language": "serbian",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "http://radio.eparhijabacka.info:8000/RadioSlavoslovlje"
+    },
+    {
+      "id": "radio_1_manele_rom_nia_bra_ov_ro_f8ae0ed3",
+      "title": "Radio 1 Manele România -Brașov",
+      "subtitle": "Manele",
+      "location": "Romania",
+      "genre": "Manele",
+      "countryCode": "RO",
+      "language": "română",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://ssl.omegahost.ro/8000/stream"
+    },
+    {
+      "id": "naxi_radio_cafe_radio_rs_a73dcd72",
+      "title": "naxi radio - cafe radio",
+      "subtitle": "Cafe",
+      "location": "Serbia",
+      "genre": "Cafe",
+      "countryCode": "RS",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://naxidigital-cafe128.streaming.rs:8020/;stream.nsv"
     }
   ]
 }

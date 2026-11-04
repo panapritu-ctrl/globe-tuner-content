@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-03T05:22:59Z",
+  "updated": "2026-11-04T04:53:08Z",
   "region": "europe",
   "part": 6,
   "of": 8,
@@ -10006,19 +10006,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_amsterdam_funk_channel_afc_a2690cef",
-      "title": "Amsterdam Funk Channel (AFC)",
-      "subtitle": "Dutch, Funk",
-      "imageUrl": "https://www.afc.fm/wp-content/uploads/2023/12/afcfm.png",
-      "streamUrl": "https://stream.afc.fm/",
-      "location": "Noord-Holland, Amsterdam, The Netherlands",
-      "genre": "Dutch",
-      "countryCode": "NL",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 192
-    },
-    {
       "id": "rb2_amsterdam_funk_channel_afc_low_bandwidth_c0b0bbf6",
       "title": "Amsterdam Funk Channel (AFC) low bandwidth",
       "subtitle": "80'S, 90'S",
@@ -10517,19 +10504,6 @@
       "language": null,
       "clickCount": 0,
       "bitrate": 192
-    },
-    {
-      "id": "rb2_columbia_am_1395_c30fcd83",
-      "title": "Columbia AM 1395",
-      "subtitle": "Radio",
-      "imageUrl": "https://columbia-am.nl/wp-content/uploads/2021/11/cropped-Logo-Columbia-Blau.png",
-      "streamUrl": "https://caster04.streampakket.com/proxy/8031/stream",
-      "location": "The Netherlands",
-      "genre": "Radio",
-      "countryCode": "NL",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 256
     },
     {
       "id": "rb2_concertgebouworkest_webradio_f60944f6",
@@ -16693,19 +16667,6 @@
       "countryCode": "NL",
       "language": "dutch",
       "clickCount": 3,
-      "bitrate": 192
-    },
-    {
-      "id": "rb2_relax_fm_online_0a1e6519",
-      "title": "Relax FM Online",
-      "subtitle": "80'S, Disco",
-      "imageUrl": "https://www.relaxfmonline.nl/favicon.ico",
-      "streamUrl": "https://caster04.streampakket.com/proxy/8009/stream",
-      "location": "South-Holland, The Netherlands",
-      "genre": "80'S",
-      "countryCode": "NL",
-      "language": "dutch",
-      "clickCount": 2,
       "bitrate": 192
     },
     {
@@ -27788,6 +27749,42 @@
       "clickCount": 4,
       "bitrate": 192,
       "streamUrl": "https://stream.pepperboxradio.nl:8000/radio.mp3"
+    },
+    {
+      "id": "nebula_radio_md_465502af",
+      "title": "Nebula-Radio",
+      "subtitle": "Radio",
+      "location": "The Republic Of Moldova",
+      "genre": "Radio",
+      "countryCode": "MD",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "http://myradio24.org/donsergio"
+    },
+    {
+      "id": "power_fm_lv_eef150b4",
+      "title": "Power FM",
+      "subtitle": "Dance",
+      "location": "Latvia",
+      "genre": "Dance",
+      "countryCode": "LV",
+      "language": "russian",
+      "clickCount": 4,
+      "bitrate": 64,
+      "streamUrl": "https://radio.powerfm.lv:1095/stream"
+    },
+    {
+      "id": "booty_bay_pirate_radio_nl_7c95c7e6",
+      "title": "Booty Bay Pirate Radio",
+      "subtitle": "Radio",
+      "location": "The Netherlands",
+      "genre": "Radio",
+      "countryCode": "NL",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 256,
+      "streamUrl": "https://radio.octowow.st/listen/booty_bay_pirate_radio/radio.mp3"
     }
   ]
 }

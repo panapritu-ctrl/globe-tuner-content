@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-03T05:22:59Z",
+  "updated": "2026-11-04T04:53:07Z",
   "region": "europe",
   "part": 4,
   "of": 8,
@@ -1425,19 +1425,6 @@
       "language": "english",
       "clickCount": 3,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_atlantis_9efc1e9a",
-      "title": "Atlantis",
-      "subtitle": "Radio",
-      "imageUrl": "https://image.radioking.io/radios/776405/coverdefault/81276098-66cf-4c28-9700-87f8320ac59d.png",
-      "streamUrl": "http://listen.radioking.com/radio/776405/stream/843824",
-      "location": "The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "Radio",
-      "countryCode": "GB",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 192
     },
     {
       "id": "rb2_audio_force_radio_eb4fbedb",
@@ -9385,19 +9372,6 @@
       "language": "english",
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_like_radio_chill_aac_0058eb47",
-      "title": "Like Radio - CHILL (AAC+)",
-      "subtitle": "Chill, Pop",
-      "imageUrl": "https://i.ibb.co/sJrSjYY/chill.png",
-      "streamUrl": "http://likeradiostream.com/likechillaac",
-      "location": "England, The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "Chill",
-      "countryCode": "GB",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 48
     },
     {
       "id": "rb2_like_radio_christmas_aac_e00dc024",
@@ -27659,18 +27633,6 @@
       "streamUrl": "https://psrlive2.listenon.in/80?station=tamil80shitsradio"
     },
     {
-      "id": "ndtvprofit_in_d758a18c",
-      "title": "ndtvProfit",
-      "subtitle": "India",
-      "location": "India",
-      "genre": "India",
-      "countryCode": "IN",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 5882,
-      "streamUrl": "https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/master.m3u8"
-    },
-    {
       "id": "hallos_radio_in_ec99a849",
       "title": "Hallos Radio",
       "subtitle": "Radio",
@@ -27897,6 +27859,114 @@
       "clickCount": 4,
       "bitrate": 64,
       "streamUrl": "https://thaalam.out.airtime.pro/thaalam_b"
+    },
+    {
+      "id": "fm_gold_mumbai_in_46cf4794",
+      "title": "FM Gold Mumbai",
+      "subtitle": "Radio",
+      "location": "India",
+      "genre": "Radio",
+      "countryCode": "IN",
+      "language": "hindi",
+      "clickCount": 20,
+      "bitrate": 32,
+      "streamUrl": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio007/hlspbaudio007_Auto.m3u8"
+    },
+    {
+      "id": "akashvani_asmita_vahini_fm_in_7dd5066b",
+      "title": "Akashvani Asmita Vahini FM",
+      "subtitle": "Radio",
+      "location": "India",
+      "genre": "Radio",
+      "countryCode": "IN",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 32,
+      "streamUrl": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio010/hlspbaudio010_Auto.m3u8"
+    },
+    {
+      "id": "old_radio_love_gr_065270c4",
+      "title": "Old Radio Love",
+      "subtitle": "Adult Hits",
+      "location": "Greece",
+      "genre": "Adult Hits",
+      "countryCode": "GR",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://sounder.ovh:8270/live.mp3"
+    },
+    {
+      "id": "97_4_gr_27438de5",
+      "title": "Νότες 97.4",
+      "subtitle": "Greek Pop",
+      "location": "Greece",
+      "genre": "Greek Pop",
+      "countryCode": "GR",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://tls-chrome.live24.gr/3468?http://sc2.streamwithq.com:8034/;stream.mp3"
+    },
+    {
+      "id": "alpha_radio_88_6_kavala_gr_28822ce1",
+      "title": "Alpha Radio 88,6 Kavala",
+      "subtitle": "Radio",
+      "location": "Greece",
+      "genre": "Radio",
+      "countryCode": "GR",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://stream2.proradio.gr:8004/alpharadio"
+    },
+    {
+      "id": "desizone_radio_in_81009c0a",
+      "title": "DesiZone Radio",
+      "subtitle": "Bollywood",
+      "location": "India",
+      "genre": "Bollywood",
+      "countryCode": "IN",
+      "language": "hindi",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://www.desizoneradio.com/relay1"
+    },
+    {
+      "id": "air_urdu_in_ede8f82f",
+      "title": "AIR Urdu",
+      "subtitle": "Radio",
+      "location": "India",
+      "genre": "Radio",
+      "countryCode": "IN",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio006/hlspbaudio00632kbps.m3u8"
+    },
+    {
+      "id": "ndtvprofit_in_d758a18c",
+      "title": "ndtvProfit",
+      "subtitle": "India",
+      "location": "India",
+      "genre": "India",
+      "countryCode": "IN",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 5882,
+      "streamUrl": "https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/master.m3u8"
+    },
+    {
+      "id": "just_odisha_radio_in_1015a010",
+      "title": "Just Odisha Radio",
+      "subtitle": "Odia",
+      "location": "India",
+      "genre": "Odia",
+      "countryCode": "IN",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream-282.surfernetwork.com/06k46a9mk98uv"
     }
   ]
 }

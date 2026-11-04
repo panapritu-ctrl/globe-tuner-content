@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-03T05:22:59Z",
+  "updated": "2026-11-04T04:53:08Z",
   "region": "oceania",
   "stations": [
     {
@@ -5026,19 +5026,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_australian_digital_radio_network_synth_p_7068b939",
-      "title": "Australian Digital Radio Network - Synth Pop (MP3)",
-      "subtitle": "Synthpop",
-      "imageUrl": "http://www.australiandigitalradio.com/favicon.ico",
-      "streamUrl": "http://abm22.com.au:8000/CONTAINER17",
-      "location": "Sydney NSW, Australia",
-      "genre": "Synthpop",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_australian_digital_radio_network_tech_ho_bfac88fd",
       "title": "Australian Digital Radio Network - Tech House (MP3)",
       "subtitle": "Tech House",
@@ -5241,19 +5228,6 @@
       "streamUrl": "http://abm22.com.au:8000/CONTAINER65",
       "location": "Sydney NSW, Australia",
       "genre": "Uk Dub",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_australian_digital_radio_network_uk_hous_1e10a569",
-      "title": "Australian Digital Radio Network - UK House (MP3)",
-      "subtitle": "Uk House",
-      "imageUrl": "http://www.australiandigitalradio.com/favicon.ico",
-      "streamUrl": "http://abm22.com.au:8000/CONTAINER64",
-      "location": "Sydney NSW, Australia",
-      "genre": "Uk House",
       "countryCode": "AU",
       "language": "english",
       "clickCount": 0,
@@ -9908,19 +9882,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_ramfm_goulburn_103_3_fm_mp3_833bfac9",
-      "title": "RAMfm - Goulburn - 103.3 FM (MP3)",
-      "subtitle": "Community Radio, Pop",
-      "imageUrl": "https://i.ibb.co/0Rk0dHr1/RAMfm-Official-Logo-sml.jpg",
-      "streamUrl": "http://playerservices.streamtheworld.com/api/livestream-redirect/2GCR.mp3",
-      "location": "Goulburn NSW, Australia",
-      "genre": "Community Radio",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_roq_fm_australia_s_favourite_roq_mp3_320_8c53b9be",
       "title": "ROQ FM - Australia's Favourite ROQ (MP3 320k)",
       "subtitle": "Active Rock, Classic Rock",
@@ -12227,19 +12188,6 @@
       "language": "english",
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_tribe_fm_willunga_0648bcb5",
-      "title": "Tribe FM Willunga",
-      "subtitle": "Community",
-      "imageUrl": "https://www.tribefm.org.au/favicon.ico",
-      "streamUrl": "https://stream04.sigile.net/tribefm-128-mp3",
-      "location": "Australia",
-      "genre": "Community",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 256
     },
     {
       "id": "rb2_triple_a_brisbane_98_9_fm_aac_39e16e55",
@@ -16037,18 +15985,6 @@
       "streamUrl": "https://dg6dce7w867bz.cloudfront.net/playlist.m3u8"
     },
     {
-      "id": "australian_digital_radio_network_techno_mp3_au_cb0d13cd",
-      "title": "Australian Digital Radio Network - Techno (MP3)",
-      "subtitle": "Techno",
-      "location": "Australia",
-      "genre": "Techno",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 3,
-      "bitrate": 128,
-      "streamUrl": "http://abm22.com.au:8000/CONTAINER19"
-    },
-    {
       "id": "abc_classic_2_au_edf4d3c1",
       "title": "ABC Classic 2",
       "subtitle": "Classical",
@@ -16635,6 +16571,42 @@
       "clickCount": 10,
       "bitrate": 128,
       "streamUrl": "https://radio.autismo.biz/all"
+    },
+    {
+      "id": "a_i_r_station_au_de34e180",
+      "title": "A.i.R Station",
+      "subtitle": "Radio",
+      "location": "Australia",
+      "genre": "Radio",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://listen.autismo.biz/radio.mp3"
+    },
+    {
+      "id": "abc_radio_gold_coast_au_3db4cd7c",
+      "title": "ABC Radio Gold Coast",
+      "subtitle": "Local",
+      "location": "Australia",
+      "genre": "Local",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 238,
+      "streamUrl": "https://streaming.abc-cdn.net.au/audio/hls/localgoldcoast.m3u8?source=web"
+    },
+    {
+      "id": "hope_103_2_sydney_au_bb24881c",
+      "title": "Hope 103.2 Sydney",
+      "subtitle": "Radio",
+      "location": "Australia",
+      "genre": "Radio",
+      "countryCode": "AU",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://28853.live.streamtheworld.com/2CBAAAC.aac"
     }
   ]
 }
