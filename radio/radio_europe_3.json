@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-04T04:53:07Z",
+  "updated": "2026-11-05T05:08:32Z",
   "region": "europe",
   "part": 3,
   "of": 8,
@@ -1861,19 +1861,6 @@
       "language": "spanish",
       "clickCount": 1,
       "bitrate": 96
-    },
-    {
-      "id": "rb2_radio_ebro_b6eb036e",
-      "title": "Radio Ebro",
-      "subtitle": "Radio",
-      "imageUrl": "https://cdn.onlineradiobox.com/img/l/1/5271.v12.png",
-      "streamUrl": "http://s2.prositel.net:7010/ebrofm",
-      "location": "Spain",
-      "genre": "Radio",
-      "countryCode": "ES",
-      "language": "spanish",
-      "clickCount": 1,
-      "bitrate": 128
     },
     {
       "id": "rb2_radio_el_palmar_33d96e62",
@@ -8935,19 +8922,6 @@
       "language": "french",
       "clickCount": 0,
       "bitrate": 192
-    },
-    {
-      "id": "rb2_com_te_fm_9614a33b",
-      "title": "Comète FM",
-      "subtitle": "Radio",
-      "imageUrl": "https://static.wixstatic.com/media/b230a4_229c38b64c094a0bbd984e0d4cb2085d.png/v1/fill/w_431,h_90,al_c,usm_0.66_1.00_0.01/b230a4_229c38b64c094a0bbd984e0d4cb2085d.png",
-      "streamUrl": "http://str0.creacast.com/cometefm",
-      "location": "Provence-Alpes-Côte d'Azur, France",
-      "genre": "Radio",
-      "countryCode": "FR",
-      "language": "french",
-      "clickCount": 0,
-      "bitrate": 128
     },
     {
       "id": "rb2_cool_radio_b4e36350",
@@ -19192,19 +19166,6 @@
       "bitrate": 256
     },
     {
-      "id": "rb2_radio_brony_ogg_35eab8a2",
-      "title": "Radio Brony (OGG)",
-      "subtitle": "Brony, Fan Music",
-      "imageUrl": "https://radiobrony.fr/img/icons/bwavatar-details.png",
-      "streamUrl": "https://radio.radiobrony.fr/ogg",
-      "location": "France",
-      "genre": "Brony",
-      "countryCode": "FR",
-      "language": "french",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_radio_broussaille_e2463686",
       "title": "Radio Broussaille",
       "subtitle": "Adfree, Broussaille",
@@ -26298,18 +26259,6 @@
       "streamUrl": "https://streaming.nrjaudio.fm/ou76qmf3s5gi"
     },
     {
-      "id": "clapas_jazz_fr_cec635b3",
-      "title": "Clapas Jazz",
-      "subtitle": "Radio",
-      "location": "France",
-      "genre": "Radio",
-      "countryCode": "FR",
-      "language": "french",
-      "clickCount": 5,
-      "bitrate": 128,
-      "streamUrl": "https://stream.radioclapas.fr/listen/clapas_jazz/radio.mp3"
-    },
-    {
       "id": "arabika_radio_gb_5bd057b5",
       "title": "Arabika Radio - راديو أرابيكا",
       "subtitle": "Radio",
@@ -26800,6 +26749,150 @@
       "clickCount": 4,
       "bitrate": 192,
       "streamUrl": "http://s3.radio.co/s143113707/listen"
+    },
+    {
+      "id": "bbc_arabic_radio_gb_fdfbc1fe",
+      "title": "BBC Arabic Radio",
+      "subtitle": "Arabic",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Arabic",
+      "countryCode": "GB",
+      "language": "arabic",
+      "clickCount": 13,
+      "bitrate": 101,
+      "streamUrl": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_arabic_radio.m3u8"
+    },
+    {
+      "id": "easy_radio_network_gb_a87b0258",
+      "title": "Easy Radio Network",
+      "subtitle": "Beautiful Music",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Beautiful Music",
+      "countryCode": "GB",
+      "language": "english",
+      "clickCount": 7,
+      "bitrate": 192,
+      "streamUrl": "https://easyradio-radiohosting.radioca.st/stream"
+    },
+    {
+      "id": "funados_fr_1af83fea",
+      "title": "FunAdos",
+      "subtitle": "Hits",
+      "location": "France",
+      "genre": "Hits",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://funados.ice.infomaniak.ch/funados.mp3"
+    },
+    {
+      "id": "nrj_la_french_pop_fr_a26754ca",
+      "title": "NRJ La French Pop",
+      "subtitle": "Nrj",
+      "location": "France",
+      "genre": "Nrj",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://streaming.nrjaudio.fm/ouv6kjoarp52"
+    },
+    {
+      "id": "ch_rie_fm_chartres_fr_0caee72c",
+      "title": "Chérie FM Chartres",
+      "subtitle": "Cherie Fm",
+      "location": "France",
+      "genre": "Cherie Fm",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 5,
+      "bitrate": 64,
+      "streamUrl": "https://streaming.nrjaudio.fm/ouamkbw2dqao"
+    },
+    {
+      "id": "radio_espiritrompa_es_69e3435d",
+      "title": "Radio Espiritrompa",
+      "subtitle": "Radio Libre",
+      "location": "Spain",
+      "genre": "Radio Libre",
+      "countryCode": "ES",
+      "language": "spanish",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://radiobot.radioslibres.info/listen/radio_espiritrompa/radio.mp3"
+    },
+    {
+      "id": "tbm06_fr_fr_116349ce",
+      "title": "TBM06.FR",
+      "subtitle": "Alpes-Maritimes",
+      "location": "France",
+      "genre": "Alpes-Maritimes",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://listen.radioking.com/radio/806511/stream/875226"
+    },
+    {
+      "id": "radio_maria_france_fr_890646b5",
+      "title": "RADIO MARIA FRANCE",
+      "subtitle": "Catholic",
+      "location": "France",
+      "genre": "Catholic",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 4,
+      "bitrate": 32,
+      "streamUrl": "http://dreamsiteradiocp2.com:8110/stream"
+    },
+    {
+      "id": "corail_radio_fr_56b050d0",
+      "title": "Corail Radio",
+      "subtitle": "Hits",
+      "location": "France",
+      "genre": "Hits",
+      "countryCode": "FR",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://listen.radioking.com/radio/409087/stream/461632"
+    },
+    {
+      "id": "futuradio_bands_camp_fr_5a763909",
+      "title": "Futuradio Bands-Camp",
+      "subtitle": "Hits",
+      "location": "France",
+      "genre": "Hits",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://futuradiorock.ice.infomaniak.ch/frrock-128.mp3"
+    },
+    {
+      "id": "yoga_chill_on_vip_radios_fm_fr_980e4676",
+      "title": "Yoga Chill on Vip-Radios.fm",
+      "subtitle": "Chillout & Relaxation Music",
+      "location": "France",
+      "genre": "Chillout & Relaxation Music",
+      "countryCode": "FR",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://radio4.vip-radios.fm:18027/stream-128kmp3-YogaChill"
+    },
+    {
+      "id": "nostalgie_rock_fr_fefa6345",
+      "title": "Nostalgie Rock",
+      "subtitle": "Rock",
+      "location": "France",
+      "genre": "Rock",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://streaming.nrjaudio.fm/ouwrpwsk6j4d?origine=fluxradios&aw_0_1st.station=Nostalgie-Rock"
     }
   ]
 }

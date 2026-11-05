@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-04T04:53:08Z",
+  "updated": "2026-11-05T05:08:32Z",
   "region": "oceania",
   "stations": [
     {
@@ -3622,19 +3622,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_australian_digital_radio_network_club_tr_19a3561a",
-      "title": "Australian Digital Radio Network - Club Tracks (MP3)",
-      "subtitle": "Club Tracks",
-      "imageUrl": "http://www.australiandigitalradio.com/favicon.ico",
-      "streamUrl": "http://abm22.com.au:8000/CONTAINER12",
-      "location": "Sydney NSW, Australia",
-      "genre": "Club Tracks",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_australian_digital_radio_network_comedy__b7c3ba82",
       "title": "Australian Digital Radio Network - Comedy Channel - Music (MP3)",
       "subtitle": "Comedy, Music",
@@ -4981,19 +4968,6 @@
       "streamUrl": "http://abm21.com.au:8000/CONTAINER20",
       "location": "Sydney NSW, Australia",
       "genre": "Ska",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_australian_digital_radio_network_space_e_783e292c",
-      "title": "Australian Digital Radio Network - Space Exploration (MP3)",
-      "subtitle": "Space Music",
-      "imageUrl": "http://www.australiandigitalradio.com/favicon.ico",
-      "streamUrl": "http://abm21.com.au:8000/CONTAINER26",
-      "location": "Sydney NSW, Australia",
-      "genre": "Space Music",
       "countryCode": "AU",
       "language": "english",
       "clickCount": 0,
@@ -12828,19 +12802,6 @@
       "bitrate": 64
     },
     {
-      "id": "rb2_yarra_valley_fm_0762e803",
-      "title": "Yarra Valley FM",
-      "subtitle": "Radio",
-      "imageUrl": "https://yarravalleyfm.org.au/favicon.ico",
-      "streamUrl": "http://live.yarravalleyfm.org.au:8080/stream",
-      "location": "Australia",
-      "genre": "Radio",
-      "countryCode": "AU",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_yass_fm_yass_100_3_fm_aac_c92e6e2c",
       "title": "Yass FM - Yass - 100.3 FM (AAC+)",
       "subtitle": "Community Radio, Miscellaneous",
@@ -16057,18 +16018,6 @@
       "streamUrl": "https://wz0liw.scahw.com.au/live/drumnbass_128.stream/playlist.m3u8"
     },
     {
-      "id": "listnr_crooners_swooners_hls_au_a2425dc2",
-      "title": "LiSTNR - Crooners & Swooners (HLS)",
-      "subtitle": "Crooners",
-      "location": "Australia",
-      "genre": "Crooners",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 3,
-      "bitrate": 0,
-      "streamUrl": "http://wz0liw.scahw.com.au/live/crooners-n-swooners.stream/playlist.m3u8"
-    },
-    {
       "id": "936_abc_hobart_au_1d9d7ce8",
       "title": "936 ABC Hobart",
       "subtitle": "Local",
@@ -16489,18 +16438,6 @@
       "streamUrl": "https://streaming.abc-cdn.net.au/audio/hls/localnorthwest.m3u8?source=web"
     },
     {
-      "id": "listnr_cooling_fan_white_noise_soundscapes_au_161fe3af",
-      "title": "LiSTNR - Cooling Fan (White Noise) [Soundscapes]",
-      "subtitle": "Cooling Fan",
-      "location": "Australia",
-      "genre": "Cooling Fan",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 8,
-      "bitrate": 0,
-      "streamUrl": "http://wz0liw.scahw.com.au/live/fan_128.stream/playlist.m3u8"
-    },
-    {
       "id": "flipfloppy_s_web_cafe_au_3b38339b",
       "title": "flipfloppy's web cafe",
       "subtitle": "Radio",
@@ -16607,6 +16544,78 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://28853.live.streamtheworld.com/2CBAAAC.aac"
+    },
+    {
+      "id": "2rph_sydney_1224_au_e6a11017",
+      "title": "2RPH Sydney 1224",
+      "subtitle": "Radio",
+      "location": "Australia",
+      "genre": "Radio",
+      "countryCode": "AU",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://23203.live.streamtheworld.com/2RPH.mp3"
+    },
+    {
+      "id": "sapphire_fm_merimbula_97_5_au_3e376b42",
+      "title": "Sapphire FM Merimbula 97.5",
+      "subtitle": "Radio",
+      "location": "Australia",
+      "genre": "Radio",
+      "countryCode": "AU",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://stream.sapphirefm.au/live"
+    },
+    {
+      "id": "radio_dungog_107_9_au_79ae3303",
+      "title": "Radio Dungog 107.9",
+      "subtitle": "Radio",
+      "location": "Australia",
+      "genre": "Radio",
+      "countryCode": "AU",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://28853.live.streamtheworld.com/RADIO_DUNGOGAAC.aac"
+    },
+    {
+      "id": "middle_east_radio_87_6_fm_melbourne_au_68389f24",
+      "title": "Middle East Radio 87.6 FM Melbourne",
+      "subtitle": "Arabic",
+      "location": "Australia",
+      "genre": "Arabic",
+      "countryCode": "AU",
+      "language": "arabic",
+      "clickCount": 4,
+      "bitrate": 64,
+      "streamUrl": "http://hyades.shoutca.st:8998/live"
+    },
+    {
+      "id": "australian_digital_radio_network_1930s_mp3_au_1cc12fb9",
+      "title": "Australian Digital Radio Network - 1930s (MP3)",
+      "subtitle": "1930S",
+      "location": "Australia",
+      "genre": "1930S",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://abm21.com.au:8000/CONTAINER99"
+    },
+    {
+      "id": "live_radio_tirol_au_a2f88f60",
+      "title": "Live Radio Tirol",
+      "subtitle": "Radio",
+      "location": "Australia",
+      "genre": "Radio",
+      "countryCode": "AU",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://stream.liferadio.tirol/live/mp3-192/"
     }
   ]
 }

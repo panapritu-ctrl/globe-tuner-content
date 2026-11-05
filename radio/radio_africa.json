@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-04T04:53:07Z",
+  "updated": "2026-11-05T05:08:32Z",
   "region": "africa",
   "stations": [
     {
@@ -7563,18 +7563,6 @@
       "streamUrl": "http://82.201.132.237:8000/;stream.mp3"
     },
     {
-      "id": "eritrean_ethiopian_music_er_c5f954e3",
-      "title": "Eritrean/Ethiopian music",
-      "subtitle": "Radio",
-      "location": "Eritrea",
-      "genre": "Radio",
-      "countryCode": "ER",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 56,
-      "streamUrl": "https://linuxfreelancer.com:8443/test.mp3"
-    },
-    {
       "id": "radio_kwizera_tz_61bf15e7",
       "title": "Radio Kwizera",
       "subtitle": "Radio",
@@ -13443,18 +13431,6 @@
       "streamUrl": "https://fm.imediaport.com/theark"
     },
     {
-      "id": "96_3_favour_fm_juba_ss_3c5b9c39",
-      "title": "96.3 Favour FM Juba",
-      "subtitle": "Radio",
-      "location": "South Sudan",
-      "genre": "Radio",
-      "countryCode": "SS",
-      "language": null,
-      "clickCount": 6,
-      "bitrate": 0,
-      "streamUrl": "https://us5new.listen2myradio.com:2199/listen.php?port=8106&type=ice&mount=live"
-    },
-    {
       "id": "radio_bonne_nouvelle_cm_ec569df9",
       "title": "Radio Bonne Nouvelle",
       "subtitle": "Christian",
@@ -13489,6 +13465,90 @@
       "clickCount": 4,
       "bitrate": 64,
       "streamUrl": "https://fm.imediaport.com/voha"
+    },
+    {
+      "id": "eritrean_ethiopian_music_er_c5f954e3",
+      "title": "Eritrean/Ethiopian music",
+      "subtitle": "Radio",
+      "location": "Eritrea",
+      "genre": "Radio",
+      "countryCode": "ER",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 56,
+      "streamUrl": "https://linuxfreelancer.com:8443/test.mp3"
+    },
+    {
+      "id": "medi1_tarab_ma_705a783d",
+      "title": "Medi1 Tarab",
+      "subtitle": "Arabic",
+      "location": "Morocco",
+      "genre": "Arabic",
+      "countryCode": "MA",
+      "language": "arabic",
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://cdn.live.easybroadcast.io/medi1radio/Tarab"
+    },
+    {
+      "id": "radio_plus_ma_e7d3a774",
+      "title": "Radio plus",
+      "subtitle": "Generalist",
+      "location": "Morocco",
+      "genre": "Generalist",
+      "countryCode": "MA",
+      "language": "arabic",
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://hosting.studioradiomedia.fr:3040/stream"
+    },
+    {
+      "id": "nehanda_radio_zw_55a84a2a",
+      "title": "Nehanda Radio",
+      "subtitle": "Radio",
+      "location": "Zimbabwe",
+      "genre": "Radio",
+      "countryCode": "ZW",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://eu4.fastcast4u.com/proxy/lancguma?mp=/1"
+    },
+    {
+      "id": "chanco_community_radio_mw_f0090ed6",
+      "title": "Chanco Community Radio",
+      "subtitle": "Education",
+      "location": "Malawi",
+      "genre": "Education",
+      "countryCode": "MW",
+      "language": "chichewa",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://live.netradio.pro/listen/chanco/radio.mp3"
+    },
+    {
+      "id": "c_y_a_m_a_radio_malawi_mw_aa183add",
+      "title": "C.Y.A.M.A Radio Malawi",
+      "subtitle": "Christian",
+      "location": "Malawi",
+      "genre": "Christian",
+      "countryCode": "MW",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream.zeno.fm/rzruhittblsvv"
+    },
+    {
+      "id": "radio_786_za_62bd3ab8",
+      "title": "Radio 786",
+      "subtitle": "Radio",
+      "location": "South Africa",
+      "genre": "Radio",
+      "countryCode": "ZA",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 56,
+      "streamUrl": "http://stream.krypton.co.za:8040/stream/"
     }
   ]
 }

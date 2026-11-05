@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-04T04:53:08Z",
+  "updated": "2026-11-05T05:08:32Z",
   "region": "europe",
   "part": 7,
   "of": 8,
@@ -204,15 +204,6 @@
       "language": "polish",
       "clickCount": 1,
       "bitrate": 128
-    },
-    {
-      "id": "radio_anime24_pl_961157",
-      "title": "Radio Anime24",
-      "subtitle": "Anime",
-      "location": "Poland",
-      "genre": "Anime",
-      "streamUrl": "http://91.232.4.33:7028/;",
-      "countryCode": "PL"
     },
     {
       "id": "rb2_radio_anio_ek_a4ba185b",
@@ -1341,19 +1332,6 @@
       "countryCode": "PL",
       "language": null,
       "clickCount": 2,
-      "bitrate": 256
-    },
-    {
-      "id": "rb2_radio_mirage_prywatka_95dc0cfd",
-      "title": "Radio Mirage - Prywatka",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://ssl-1.radiohost.pl:7214/stream?ver=661798",
-      "location": "Poland",
-      "genre": "Radio",
-      "countryCode": "PL",
-      "language": "polish",
-      "clickCount": 0,
       "bitrate": 256
     },
     {
@@ -19081,19 +19059,6 @@
       "bitrate": 320
     },
     {
-      "id": "rb2_kch_radio_fm_8877b453",
-      "title": "KCH Radio FM",
-      "subtitle": "Classic Hits, Hits",
-      "imageUrl": "",
-      "streamUrl": "http://radiokchr.ru/kchrfm.aac",
-      "location": "The Russian Federation",
-      "genre": "Classic Hits",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 1,
-      "bitrate": 64
-    },
-    {
       "id": "rb2_kids_hits_befd15f4",
       "title": "KIDS HITS",
       "subtitle": "Radio",
@@ -25238,18 +25203,6 @@
       "streamUrl": "http://petrecere.fmradiomanele.ro:8123/;stream.nsv"
     },
     {
-      "id": "radioradio_pl_8be10ced",
-      "title": "RadioRadio",
-      "subtitle": "Radio",
-      "location": "Poland",
-      "genre": "Radio",
-      "countryCode": "PL",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 128,
-      "streamUrl": "https://c16.radioboss.fm:18014/stream"
-    },
-    {
       "id": "radio_opole_1_96_kbps_pl_f6615331",
       "title": "Radio Opole 1 96 kbps",
       "subtitle": "Information",
@@ -25800,6 +25753,78 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "http://naxidigital-cafe128.streaming.rs:8020/;stream.nsv"
+    },
+    {
+      "id": "radcap_post_metal_ru_c17b213a",
+      "title": "RadCap - Post Metal",
+      "subtitle": "Metal",
+      "location": "The Russian Federation",
+      "genre": "Metal",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 7,
+      "bitrate": 320,
+      "streamUrl": "http://79.120.39.202:8004/postmetal"
+    },
+    {
+      "id": "fm_radio_manele_ro_ea4cab3d",
+      "title": "FM Radio Manele",
+      "subtitle": "Manele",
+      "location": "Romania",
+      "genre": "Manele",
+      "countryCode": "RO",
+      "language": "romanian",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "http://a.fmradiomanele.ro:8054/stream"
+    },
+    {
+      "id": "tequila_rom_nia_radio_dance_ro_bfa82f4f",
+      "title": "Tequila România -Radio Dance",
+      "subtitle": "Dance",
+      "location": "Romania",
+      "genre": "Dance",
+      "countryCode": "RO",
+      "language": "romania",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://dance.radiotequila.ro/7000/stream"
+    },
+    {
+      "id": "usce_shopping_radio_rs_923f86f6",
+      "title": "Usce Shopping Radio",
+      "subtitle": "Radio",
+      "location": "Serbia",
+      "genre": "Radio",
+      "countryCode": "RS",
+      "language": "serbian",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://naxidigital-usce128.streaming.rs:8000/;stream.nsv"
+    },
+    {
+      "id": "naxi_90s_rs_453cfb23",
+      "title": "Naxi 90s",
+      "subtitle": "Pop",
+      "location": "Serbia",
+      "genre": "Pop",
+      "countryCode": "RS",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://naxidigital-90s128ssl.streaming.rs:8282/;stream.nsv"
+    },
+    {
+      "id": "get_radio_ru_96b44893",
+      "title": "get.radio — Чилл",
+      "subtitle": "Chill",
+      "location": "The Russian Federation",
+      "genre": "Chill",
+      "countryCode": "RU",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://get-radio.sipout.ai/stream/chill.mp3"
     }
   ]
 }

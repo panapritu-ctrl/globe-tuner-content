@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-04T04:53:07Z",
+  "updated": "2026-11-05T05:08:32Z",
   "region": "asia",
   "part": 2,
   "of": 3,
@@ -4231,19 +4231,6 @@
       "genre": "Radio",
       "countryCode": "ID",
       "language": "bahasa indonesia",
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_cosmopolitan_fm_a3fbed44",
-      "title": "Cosmopolitan FM",
-      "subtitle": "Family",
-      "imageUrl": "https://i.ibb.co/sypbbhj/untitled-design-2.png",
-      "streamUrl": "https://n0c.radiojar.com/u7d8heq3bnzuv",
-      "location": "Jakarta, Indonesia",
-      "genre": "Family",
-      "countryCode": "ID",
-      "language": "indonesian",
       "clickCount": 1,
       "bitrate": 128
     },
@@ -16875,15 +16862,6 @@
       "countryCode": "LB"
     },
     {
-      "id": "sawt_el_shaeb_lb_f76343",
-      "title": "Sawt El Shaeb",
-      "subtitle": "Radio",
-      "location": "Lebanon",
-      "genre": "Radio",
-      "countryCode": "LB",
-      "streamUrl": "https://audio.osina.cloud:9320/stream"
-    },
-    {
       "id": "tripoli_fm_lebanon_lb_7defb8",
       "title": "Tripoli FM Lebanon",
       "subtitle": "Music",
@@ -21231,18 +21209,6 @@
       "streamUrl": "https://r5.siar.us:9420/aac.m4a?_=1"
     },
     {
-      "id": "ze_rock_radio_il_3fda477b",
-      "title": "Ze Rock Radio",
-      "subtitle": "Indy",
-      "location": "Israel",
-      "genre": "Indy",
-      "countryCode": "IL",
-      "language": "english",
-      "clickCount": 3,
-      "bitrate": 128,
-      "streamUrl": "https://icecast.live/proxy/zerock/zerock"
-    },
-    {
       "id": "btv_cn_a9049f1c",
       "title": "BTV生活伴音",
       "subtitle": "Tv",
@@ -24735,18 +24701,6 @@
       "streamUrl": "https://live.zhanafm.kz:8443/pionerfm"
     },
     {
-      "id": "diverse_fm_in_7ef41197",
-      "title": "Diverse FM",
-      "subtitle": "Radio",
-      "location": "India",
-      "genre": "Radio",
-      "countryCode": "IN",
-      "language": "hindi",
-      "clickCount": 164,
-      "bitrate": 128,
-      "streamUrl": "https://carol.epichosts.co.uk:8570/;"
-    },
-    {
       "id": "radio_love_soft_romantic_il_abcff86f",
       "title": "Radio Love Soft Romantic",
       "subtitle": "Easy Listening",
@@ -24757,18 +24711,6 @@
       "clickCount": 10,
       "bitrate": 320,
       "streamUrl": "https://liveradio.co.il:9000/stream"
-    },
-    {
-      "id": "all_india_radio_neighbourhood_service_1_in_fb012ee4",
-      "title": "All India Radio Neighbourhood Service 1",
-      "subtitle": "Public Radio",
-      "location": "India",
-      "genre": "Public Radio",
-      "countryCode": "IN",
-      "language": null,
-      "clickCount": 9,
-      "bitrate": 32,
-      "streamUrl": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio233/hlspbaudio233_Auto.m3u8"
     },
     {
       "id": "kumar_sanu_radio_in_cf1f5f71",
@@ -24805,18 +24747,6 @@
       "clickCount": 5,
       "bitrate": 128,
       "streamUrl": "https://glzwizzlv.bynetcdn.com/glglz_alt_mp3"
-    },
-    {
-      "id": "yarmouk_university_fm_jo_10be34c3",
-      "title": "Yarmouk University FM",
-      "subtitle": "Radio",
-      "location": "Jordan",
-      "genre": "Radio",
-      "countryCode": "JO",
-      "language": "arabic",
-      "clickCount": 5,
-      "bitrate": 0,
-      "streamUrl": "https://yufm.yu.edu.jo/broadwave.mp3"
     },
     {
       "id": "mohammed_aziz_radio_in_e46e6984",
@@ -27193,6 +27123,102 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://serverkw.quran-uni.com:8356/;"
+    },
+    {
+      "id": "yarmouk_university_fm_jo_10be34c3",
+      "title": "Yarmouk University FM",
+      "subtitle": "Radio",
+      "location": "Jordan",
+      "genre": "Radio",
+      "countryCode": "JO",
+      "language": "arabic",
+      "clickCount": 11,
+      "bitrate": 0,
+      "streamUrl": "https://yufm.yu.edu.jo/broadwave.mp3"
+    },
+    {
+      "id": "radio_ntala_gewang_id_9d91c21c",
+      "title": "Radio Ntala Gewang",
+      "subtitle": "Hits",
+      "location": "Indonesia",
+      "genre": "Hits",
+      "countryCode": "ID",
+      "language": "bahasa indonesia",
+      "clickCount": 10,
+      "bitrate": 128,
+      "streamUrl": "https://live.radiostream.id/listen/radiontalagewang/live"
+    },
+    {
+      "id": "nonstop_casiopea_jp_ffd02b41",
+      "title": "Nonstop Casiopea",
+      "subtitle": "Jazz",
+      "location": "Japan",
+      "genre": "Jazz",
+      "countryCode": "JP",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://nonstopcasiopea.radioca.st/;"
+    },
+    {
+      "id": "radio_dakwah_islam_id_57690721",
+      "title": "Radio Dakwah Islam",
+      "subtitle": "Islami",
+      "location": "Indonesia",
+      "genre": "Islami",
+      "countryCode": "ID",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 96,
+      "streamUrl": "https://i.klikhost.com/8260/;radio.mp3"
+    },
+    {
+      "id": "radio_swara_koncotani_711_khz_id_855c7dda",
+      "title": "RADIO SWARA KONCOTANI 711 Khz",
+      "subtitle": "Radio",
+      "location": "Indonesia",
+      "genre": "Radio",
+      "countryCode": "ID",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://r5.siar.us:8711/-"
+    },
+    {
+      "id": "kharisma_fm_kediri_id_d8145297",
+      "title": "Kharisma FM Kediri",
+      "subtitle": "Radio",
+      "location": "Indonesia",
+      "genre": "Radio",
+      "countryCode": "ID",
+      "language": "indonesian",
+      "clickCount": 4,
+      "bitrate": 32,
+      "streamUrl": "http://stream.kharismafm.com:9550/kharismafm"
+    },
+    {
+      "id": "energy_fm_102_2_almaty_kz_4e2f915a",
+      "title": "Energy FM 102.2 Almaty",
+      "subtitle": "Dance",
+      "location": "Kazakhstan",
+      "genre": "Dance",
+      "countryCode": "KZ",
+      "language": "russian",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://89.219.34.117:8008/NEWENERGY"
+    },
+    {
+      "id": "lux_fm_kazakhstan_kz_09c12ced",
+      "title": "Lux FM Kazakhstan",
+      "subtitle": "Culture",
+      "location": "Kazakhstan",
+      "genre": "Culture",
+      "countryCode": "KZ",
+      "language": "russian",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://service.luxfm.kz/bc/live"
     }
   ]
 }

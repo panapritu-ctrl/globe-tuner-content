@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-04T04:53:08Z",
+  "updated": "2026-11-05T05:08:33Z",
   "region": "europe",
   "part": 6,
   "of": 8,
@@ -4769,15 +4769,6 @@
       "language": "italian",
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "spore_it_b3c31d",
-      "title": "Spore",
-      "subtitle": "Casino",
-      "location": "Italy",
-      "genre": "Casino",
-      "streamUrl": "https://stream.radiospore.oziosi.org:8003/spore.ogg",
-      "countryCode": "IT"
     },
     {
       "id": "rb2_spore_lq_fcac861e",
@@ -12968,19 +12959,6 @@
       "bitrate": 192
     },
     {
-      "id": "rb2_mixstream_radio_country_0cd1fbe2",
-      "title": "MixStream Radio - Country",
-      "subtitle": "24/7, Acoustic",
-      "imageUrl": "https://mixstream.info/favicon-512x512.png",
-      "streamUrl": "https://radio.mixstream.nl/country.mp3",
-      "location": "Noord-Brabant, The Netherlands",
-      "genre": "24/7",
-      "countryCode": "NL",
-      "language": "english",
-      "clickCount": 1,
-      "bitrate": 192
-    },
-    {
       "id": "rb2_mixstream_radio_dance_08eb5a46",
       "title": "MixStream Radio - Dance",
       "subtitle": "24/7, Club",
@@ -12990,19 +12968,6 @@
       "genre": "24/7",
       "countryCode": "NL",
       "language": "dutch",
-      "clickCount": 1,
-      "bitrate": 192
-    },
-    {
-      "id": "rb2_mixstream_radio_disco_1617aae3",
-      "title": "MixStream Radio - Disco",
-      "subtitle": "24/7, 70S",
-      "imageUrl": "https://mixstream.info/favicon-512x512.png",
-      "streamUrl": "https://radio.mixstream.nl/disco.mp3",
-      "location": "Noord-Brabant, The Netherlands",
-      "genre": "24/7",
-      "countryCode": "NL",
-      "language": "english",
       "clickCount": 1,
       "bitrate": 192
     },
@@ -13055,19 +13020,6 @@
       "genre": "24/7",
       "countryCode": "NL",
       "language": "dutch",
-      "clickCount": 1,
-      "bitrate": 192
-    },
-    {
-      "id": "rb2_mixstream_radio_r_b_1705311d",
-      "title": "MixStream Radio - R&B",
-      "subtitle": "24/7, Mixstream",
-      "imageUrl": "https://mixstream.info/favicon-512x512.png",
-      "streamUrl": "https://radio.mixstream.nl/rnb.mp3",
-      "location": "Noord-Brabant, The Netherlands",
-      "genre": "24/7",
-      "countryCode": "NL",
-      "language": "english",
       "clickCount": 1,
       "bitrate": 192
     },
@@ -17587,19 +17539,6 @@
       "language": null,
       "clickCount": 4,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_the_mod_station_235641a0",
-      "title": "The MOD Station",
-      "subtitle": "16Bit, Chiptunes",
-      "imageUrl": "",
-      "streamUrl": "http://23.81.35.187:8030/stream",
-      "location": "The Netherlands",
-      "genre": "16Bit",
-      "countryCode": "NL",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 256
     },
     {
       "id": "rb2_tigray_beat_fm_radio_35f261d6",
@@ -27785,6 +27724,30 @@
       "clickCount": 4,
       "bitrate": 256,
       "streamUrl": "https://radio.octowow.st/listen/booty_bay_pirate_radio/radio.mp3"
+    },
+    {
+      "id": "pearl_fm_98_1_philipsburg_nl_eb2ad2fa",
+      "title": "Pearl FM 98.1 Philipsburg",
+      "subtitle": "Philipsburg",
+      "location": "The Netherlands",
+      "genre": "Philipsburg",
+      "countryCode": "NL",
+      "language": "dutch",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://201.220.14.41:8060/channel6.mp3"
+    },
+    {
+      "id": "rammel_radio_nl_c23a11c4",
+      "title": "Rammel Radio",
+      "subtitle": "Ai",
+      "location": "The Netherlands",
+      "genre": "Ai",
+      "countryCode": "NL",
+      "language": "dutch",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://rammelradio.nl/stream.mp3"
     }
   ]
 }

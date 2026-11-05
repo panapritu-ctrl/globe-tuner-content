@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-04T04:53:07Z",
+  "updated": "2026-11-05T05:08:32Z",
   "region": "europe",
   "part": 8,
   "of": 8,
@@ -11114,19 +11114,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_97_0_fm_6da8d193",
-      "title": "Радио Дача Санкт-Петербург 97.0 FM",
-      "subtitle": "97_0 Fm, Chanson",
-      "imageUrl": "",
-      "streamUrl": "http://microit.n340.com:9000/VgMv0WV17ZVx1uuo_12_dacha_128_reg_3375",
-      "location": "The Russian Federation",
-      "genre": "97_0 Fm",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_107_2_fm_8db315bb",
       "title": "Радио Дача Тверь 107.2 FM",
       "subtitle": "Music, Pop",
@@ -15543,15 +15530,6 @@
       "bitrate": 320
     },
     {
-      "id": "epic_soundtracks_only_se_19ea30",
-      "title": "Epic Soundtracks Only",
-      "subtitle": "Cinematic",
-      "location": "Sweden",
-      "genre": "Cinematic",
-      "streamUrl": "https://mml2.prostream.se/listen/epic_soundtracks_only/radio.mp3",
-      "countryCode": "SE"
-    },
-    {
       "id": "rb2_fun_radio_95_3_sweden_386b8b9b",
       "title": "FUN RADIO 95,3 Sweden",
       "subtitle": "Pop",
@@ -15730,19 +15708,6 @@
       "genre": "Radio",
       "countryCode": "SE",
       "language": "swedish",
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_mad_mix_beats_734e8191",
-      "title": "Mad Mix Beats",
-      "subtitle": "Classics, Hits",
-      "imageUrl": "https://madmix.se/images/logo.jpg",
-      "streamUrl": "https://mml1.prostream.se/listen/mad_mix_beats/radio.mp3",
-      "location": "Sweden",
-      "genre": "Classics",
-      "countryCode": "SE",
-      "language": "english",
       "clickCount": 1,
       "bitrate": 128
     },
@@ -24324,18 +24289,6 @@
       "streamUrl": "https://a9.asurahosting.com:7390/radio.mp3"
     },
     {
-      "id": "adskoe_radio_ru_77b1f482",
-      "title": "adskoe_radio",
-      "subtitle": "Radio",
-      "location": "The Russian Federation",
-      "genre": "Radio",
-      "countryCode": "RU",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 192,
-      "streamUrl": "https://radio.openos.pp.ua/listen/adskoe_radio/radio.mp3"
-    },
-    {
       "id": "coffee_wave_ru_3f6cff08",
       "title": "Coffee Wave",
       "subtitle": "Ai",
@@ -24382,18 +24335,6 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://station.waveradio.org/soviet.mp3?pltsukioahxdexkqsjgf"
-    },
-    {
-      "id": "legend_fm_ru_13044f7f",
-      "title": "Legend Fm",
-      "subtitle": "Рок",
-      "location": "The Russian Federation",
-      "genre": "Рок",
-      "countryCode": "RU",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 0,
-      "streamUrl": "https://legendfm.in/player/relaying.php"
     },
     {
       "id": "station_ru_82a86a1d",
@@ -25894,6 +25835,102 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "https://get-radio.sipout.ai/stream/cinema-ru.mp3"
+    },
+    {
+      "id": "gta_iii_chatterbox_fm_gtaradio_net_ru_babf4cee",
+      "title": "[GTA:III] Chatterbox FM [GTARadio.net]",
+      "subtitle": "Talk Radio",
+      "location": "The Russian Federation",
+      "genre": "Talk Radio",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 11,
+      "bitrate": 128,
+      "streamUrl": "https://audio.gtaradio.net/3/chat"
+    },
+    {
+      "id": "gta_iv_liberty_city_hardcore_gtaradio_net_ru_12be52f6",
+      "title": "[GTA IV] Liberty City Hardcore [GTARadio.net]",
+      "subtitle": "Crossover Thrash Metal",
+      "location": "The Russian Federation",
+      "genre": "Crossover Thrash Metal",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://audio.gtaradio.net/4/hardcore"
+    },
+    {
+      "id": "anima_amoris_dub_techno_mix_ru_0e2c3d6c",
+      "title": "Anima Amoris Dub Techno Mix",
+      "subtitle": "Dub",
+      "location": "The Russian Federation",
+      "genre": "Dub",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "http://amoris.sknt.ru/dubtechnomix.mp3"
+    },
+    {
+      "id": "null_fm_ru_feadb285",
+      "title": "null fm",
+      "subtitle": "Eclectic",
+      "location": "The Russian Federation",
+      "genre": "Eclectic",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "http://nullfm.dedyn.io:8000/radio.mp3"
+    },
+    {
+      "id": "office_ru_995c5963",
+      "title": "Office",
+      "subtitle": "Электронная",
+      "location": "The Russian Federation",
+      "genre": "Электронная",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 80,
+      "streamUrl": "https://s0.radioheart.ru:8000/office"
+    },
+    {
+      "id": "get_radio_ru_fb31a00c",
+      "title": "get.radio — Джаз",
+      "subtitle": "Jazz",
+      "location": "The Russian Federation",
+      "genre": "Jazz",
+      "countryCode": "RU",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://get-radio.sipout.ai/stream/jazz.mp3"
+    },
+    {
+      "id": "happy_radio_ua_1e998c0e",
+      "title": "Happy Radio",
+      "subtitle": "Pop",
+      "location": "Ukraine",
+      "genre": "Pop",
+      "countryCode": "UA",
+      "language": "ukrainian",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream.zeno.fm/nkeaps48xg0uv"
+    },
+    {
+      "id": "station_ua_5c1060c8",
+      "title": "На своїй хвилі Новодністровськ",
+      "subtitle": "Radio",
+      "location": "Ukraine",
+      "genre": "Radio",
+      "countryCode": "UA",
+      "language": "ukrainian",
+      "clickCount": 4,
+      "bitrate": 320,
+      "streamUrl": "https://online-novodnistrovsk.pp.ua:8443/playHD"
     }
   ]
 }
