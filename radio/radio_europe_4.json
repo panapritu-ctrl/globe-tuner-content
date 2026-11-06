@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-05T05:08:32Z",
+  "updated": "2026-11-06T05:36:53Z",
   "region": "europe",
   "part": 4,
   "of": 8,
@@ -13789,19 +13789,6 @@
       "bitrate": 320
     },
     {
-      "id": "rb2_rewind_radio_3199aaa9",
-      "title": "Rewind Radio",
-      "subtitle": "00S, 90S",
-      "imageUrl": "",
-      "streamUrl": "http://s4.radio.co/s2eaa194f6/listen",
-      "location": "The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "00S",
-      "countryCode": "GB",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_rhubarb_radio_48683066",
       "title": "Rhubarb Radio",
       "subtitle": "Local Radio, Music",
@@ -26886,18 +26873,6 @@
       "streamUrl": "https://stream.hamropatro.com/8389"
     },
     {
-      "id": "clubmirchi_in_59132432",
-      "title": "clubmirchi",
-      "subtitle": "Radio",
-      "location": "India",
-      "genre": "Radio",
-      "countryCode": "IN",
-      "language": "hindi",
-      "clickCount": 4,
-      "bitrate": 64,
-      "streamUrl": "https://mirchiplaylive.akamaized.net/hls/live/2036929-b/MUM/CLUBMI_Auto.m3u8"
-    },
-    {
       "id": "yaazhisai_fm_in_79fe255c",
       "title": "yaazhisai-fm",
       "subtitle": "Radio",
@@ -27690,18 +27665,6 @@
       "streamUrl": "https://noc.ezhellas.com:44450/live"
     },
     {
-      "id": "tms_radio_in_f89223b5",
-      "title": "TMS Radio",
-      "subtitle": "South India",
-      "location": "India",
-      "genre": "South India",
-      "countryCode": "IN",
-      "language": "tamil",
-      "clickCount": 4,
-      "bitrate": 64,
-      "streamUrl": "https://psrlive2.listenon.in/tms?station=tmsradio"
-    },
-    {
       "id": "nostalgic_bollywood_90s_in_91c74f69",
       "title": "Nostalgic Bollywood 90s",
       "subtitle": "90S",
@@ -27942,16 +27905,28 @@
       "streamUrl": "https://carol.epichosts.co.uk:8570/;"
     },
     {
-      "id": "air_thrissur_in_614c1329",
-      "title": "AIR Thrissur",
-      "subtitle": "Local Radio",
+      "id": "sandesh_radio_in_bef049be",
+      "title": "Sandesh Radio",
+      "subtitle": "Hindustani",
       "location": "India",
-      "genre": "Local Radio",
+      "genre": "Hindustani",
       "countryCode": "IN",
-      "language": "malayalam",
-      "clickCount": 8,
-      "bitrate": 0,
-      "streamUrl": "https://d1tmej9eu7kw5c.cloudfront.net/f70fdeca437dc326/f70fdeca437dc326.m3u8"
+      "language": "hindi",
+      "clickCount": 15,
+      "bitrate": 128,
+      "streamUrl": "http://radio.garden/api/ara/content/listen/Myo7zNpV/channel.mp3?1667634784436"
+    },
+    {
+      "id": "vaigai_fm_in_1c09fe80",
+      "title": "Vaigai FM",
+      "subtitle": "Radio",
+      "location": "India",
+      "genre": "Radio",
+      "countryCode": "IN",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 320,
+      "streamUrl": "https://centova1.dribbcast.com/proxy/vaigaifm/stream"
     }
   ]
 }

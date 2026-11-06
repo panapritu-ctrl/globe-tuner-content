@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-05T05:08:32Z",
+  "updated": "2026-11-06T05:36:53Z",
   "region": "africa",
   "stations": [
     {
@@ -2160,19 +2160,6 @@
       "genre": "Classic",
       "streamUrl": "http://media-ice.musicradio.com/ClassicFMMP3",
       "countryCode": "KE"
-    },
-    {
-      "id": "rb2_ghett_kenya_6b002723",
-      "title": "ghett kenya",
-      "subtitle": "Classical",
-      "imageUrl": "",
-      "streamUrl": "http://stream-27.zeno.fm/kvudezx1h2zuv?zs=hCl2Q4ZVSPykhlahMviRpQ",
-      "location": "Kenya",
-      "genre": "Classical",
-      "countryCode": "KE",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 128
     },
     {
       "id": "radio_chifa_km",
@@ -9111,18 +9098,6 @@
       "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/PHALAPHALAAAC.aac"
     },
     {
-      "id": "ghett_ke_ac43311f",
-      "title": "GHETT",
-      "subtitle": "Classical",
-      "location": "Kenya",
-      "genre": "Classical",
-      "countryCode": "KE",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 0,
-      "streamUrl": "http://stream.zeno.fm/kvudezx1h2zuv"
-    },
-    {
       "id": "medina_fm_nachat_128_kbps_ma_7aef5b76",
       "title": "Medina FM Nachat (128 kbps)",
       "subtitle": "Chaabi",
@@ -12351,18 +12326,6 @@
       "streamUrl": "https://paineldj5.com.br:20093/stream"
     },
     {
-      "id": "radio_sant_ci_ci_f1a64cca",
-      "title": "Radio Santé CI",
-      "subtitle": "News",
-      "location": "Coted Ivoire",
-      "genre": "News",
-      "countryCode": "CI",
-      "language": "french",
-      "clickCount": 3,
-      "bitrate": 128,
-      "streamUrl": "https://stream-179.surfernetwork.com/ghjewb6oraitv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJnaGpld2I2b3JhaXR2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Ikc2RlVSeUtjVGw2M0tKby1NQkN0NFEiLCJpYXQiOjE3OTI2Njg4MDIsImV4cCI6MTc5MjY2ODg2Mn0.uO5auc44MaDvmR756ZS0tSFqiXxcy461C-xb3kWtVEw"
-    },
-    {
       "id": "radio_tropic1_korhogo_ci_6a751ff1",
       "title": "Radio Tropic1 Korhogo",
       "subtitle": "News",
@@ -13549,6 +13512,30 @@
       "clickCount": 4,
       "bitrate": 56,
       "streamUrl": "http://stream.krypton.co.za:8040/stream/"
+    },
+    {
+      "id": "babnet_tunisie_tn_ea943ed8",
+      "title": "Babnet Tunisie",
+      "subtitle": "Arabic",
+      "location": "Tunisia",
+      "genre": "Arabic",
+      "countryCode": "TN",
+      "language": "arabic",
+      "clickCount": 11,
+      "bitrate": 128,
+      "streamUrl": "https://radio.babnet.net/?type=https"
+    },
+    {
+      "id": "ghett_kenya_ke_3061ebf5",
+      "title": "ghett kenya",
+      "subtitle": "Classical",
+      "location": "Kenya",
+      "genre": "Classical",
+      "countryCode": "KE",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "http://stream-27.zeno.fm/kvudezx1h2zuv?zs=hCl2Q4ZVSPykhlahMviRpQ"
     }
   ]
 }

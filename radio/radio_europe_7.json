@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-05T05:08:32Z",
+  "updated": "2026-11-06T05:36:53Z",
   "region": "europe",
   "part": 7,
   "of": 8,
@@ -9375,19 +9375,6 @@
       "bitrate": 192
     },
     {
-      "id": "rb2_radio_boom_energy_a729b1ff",
-      "title": "Radio Boom Energy",
-      "subtitle": "Dance, Pop",
-      "imageUrl": "https://stream.radioboom.ro/static/uploads/boom_energy/album_art.1711440856.jpg",
-      "streamUrl": "https://stream.radioboom.ro/listen/boom_energy/radio.mp3",
-      "location": "Romania",
-      "genre": "Dance",
-      "countryCode": "RO",
-      "language": "romanian",
-      "clickCount": 0,
-      "bitrate": 320
-    },
-    {
       "id": "rb2_radio_boom_gold_be67303b",
       "title": "Radio Boom Gold",
       "subtitle": "Gold, Hits",
@@ -11139,19 +11126,6 @@
       "language": "romanian",
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_zen_1453d748",
-      "title": "Radio ZEN",
-      "subtitle": "Radio",
-      "imageUrl": "https://radiozen.ro/wp-content/uploads/2021/04/favicon.png",
-      "streamUrl": "https://streaming.shoutcast.com/radiozen",
-      "location": "Romania",
-      "genre": "Radio",
-      "countryCode": "RO",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 64
     },
     {
       "id": "rb2_radio_zu_85f02a44",
@@ -24219,18 +24193,6 @@
       "streamUrl": "https://streaming-live.rtp.pt/liveradio/antena2opera80a/playlist.m3u8"
     },
     {
-      "id": "radio_super_manele_ro_955594bc",
-      "title": "Radio Super Manele",
-      "subtitle": "Manele",
-      "location": "Romania",
-      "genre": "Manele",
-      "countryCode": "RO",
-      "language": "romanian",
-      "clickCount": 4,
-      "bitrate": 128,
-      "streamUrl": "http://manele.capitalfm.ro:8020/stream"
-    },
-    {
       "id": "activ_fm_ro_253cf39b",
       "title": "Activ FM",
       "subtitle": "News",
@@ -24433,18 +24395,6 @@
       "clickCount": 3,
       "bitrate": 192,
       "streamUrl": "https://a9.asurahosting.com:7030/radio.mp3"
-    },
-    {
-      "id": "deep_house_energy_ro_bbf780e2",
-      "title": "Deep House Energy",
-      "subtitle": "Deep House",
-      "location": "Romania",
-      "genre": "Deep House",
-      "countryCode": "RO",
-      "language": null,
-      "clickCount": 6,
-      "bitrate": 0,
-      "streamUrl": "https://fra-pioneer01.dedicateware.com:3410/stream"
     },
     {
       "id": "mind_fuel_radio_ambient_ro_f385887b",
@@ -25825,6 +25775,54 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "https://get-radio.sipout.ai/stream/chill.mp3"
+    },
+    {
+      "id": "rtp_mundo_pt_b9a75cc3",
+      "title": "RTP Mundo",
+      "subtitle": "Radio",
+      "location": "Portugal",
+      "genre": "Radio",
+      "countryCode": "PT",
+      "language": "portuguese",
+      "clickCount": 56,
+      "bitrate": 0,
+      "streamUrl": "https://streaming-live.rtp.pt/liveradio/rdpint80a/chunklist_DVR.m3u"
+    },
+    {
+      "id": "r_dio_m_dio_tejo_pt_d551db90",
+      "title": "Rádio Médio Tejo",
+      "subtitle": "Abrantes",
+      "location": "Portugal",
+      "genre": "Abrantes",
+      "countryCode": "PT",
+      "language": "portuguese",
+      "clickCount": 39,
+      "bitrate": 128,
+      "streamUrl": "https://stream.expandenarrativa.pt/radio"
+    },
+    {
+      "id": "cyberstacja_pl_49037d38",
+      "title": "CYBERStacja",
+      "subtitle": "Dance",
+      "location": "Poland",
+      "genre": "Dance",
+      "countryCode": "PL",
+      "language": "english",
+      "clickCount": 9,
+      "bitrate": 192,
+      "streamUrl": "https://sc.cyberstacja.pl:8000/radio.mp3"
+    },
+    {
+      "id": "naxi_lounge_radio_rs_98aa0eb8",
+      "title": "Naxi Lounge Radio",
+      "subtitle": "Radio",
+      "location": "Serbia",
+      "genre": "Radio",
+      "countryCode": "RS",
+      "language": "serbian",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://naxidigital-lounge128ssl.streaming.rs:8252/;stream.nsv"
     }
   ]
 }

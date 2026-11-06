@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-05T05:08:32Z",
+  "updated": "2026-11-06T05:36:53Z",
   "region": "europe",
   "part": 3,
   "of": 8,
@@ -3246,19 +3246,6 @@
       "genre": "Radio",
       "countryCode": "ES",
       "language": "espanish",
-      "clickCount": 0,
-      "bitrate": 320
-    },
-    {
-      "id": "rb2_radioboss_634dfbe8",
-      "title": "RadioBoss",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://178.32.146.187:5001/live",
-      "location": "Spain",
-      "genre": "Radio",
-      "countryCode": "ES",
-      "language": null,
       "clickCount": 0,
       "bitrate": 320
     },
@@ -6781,15 +6768,6 @@
       "language": null,
       "clickCount": 1,
       "bitrate": 128
-    },
-    {
-      "id": "5sens_radio_fr",
-      "title": "5Sens Radio",
-      "subtitle": "Games / Talk Radio",
-      "location": "France",
-      "genre": "Talk",
-      "countryCode": "FR",
-      "streamUrl": "https://radio.5sens.fr/radio/stream.php"
     },
     {
       "id": "magic_radio_fr_7a0c29",
@@ -26893,6 +26871,174 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://streaming.nrjaudio.fm/ouwrpwsk6j4d?origine=fluxradios&aw_0_1st.station=Nostalgie-Rock"
+    },
+    {
+      "id": "bbc_radio_5_live_uk_hls_akamai_gb_27714514",
+      "title": "BBC Radio 5 Live (UK-HLS-Akamai)",
+      "subtitle": "Radio",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Radio",
+      "countryCode": "GB",
+      "language": null,
+      "clickCount": 24,
+      "bitrate": 339,
+      "streamUrl": "http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/audio_syndication_high_sbr_v1/ak/bbc_radio_five_live.m3u8"
+    },
+    {
+      "id": "bbc_afrique_radio_gb_bd80f7c9",
+      "title": "BBC Afrique Radio",
+      "subtitle": "Africa",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Africa",
+      "countryCode": "GB",
+      "language": "english",
+      "clickCount": 21,
+      "bitrate": 101,
+      "streamUrl": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_afrique_radio.m3u8"
+    },
+    {
+      "id": "soul_city_radio_uk_gb_c3debc6a",
+      "title": "Soul City Radio UK",
+      "subtitle": "Soul",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Soul",
+      "countryCode": "GB",
+      "language": "english",
+      "clickCount": 8,
+      "bitrate": 0,
+      "streamUrl": "https://sirius.nucast.co.uk/listen/soul_city_radio/radio.mp3"
+    },
+    {
+      "id": "rtvce_es_22b1f89a",
+      "title": "RTVCE",
+      "subtitle": "Radio",
+      "location": "Spain",
+      "genre": "Radio",
+      "countryCode": "ES",
+      "language": "castellano. español",
+      "clickCount": 6,
+      "bitrate": 322,
+      "streamUrl": "https://5924d3ad0efcf.streamlock.net/ceutaradio/ceutaradiolive/playlist.m3u8"
+    },
+    {
+      "id": "bls_guyane_fr_768f965c",
+      "title": "BLS  GUYANE",
+      "subtitle": "Radio",
+      "location": "France",
+      "genre": "Radio",
+      "countryCode": "FR",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://servidor15-2.brlogic.com:7292/live"
+    },
+    {
+      "id": "one_station_fr_d2ecd788",
+      "title": "One Station",
+      "subtitle": "Funk",
+      "location": "France",
+      "genre": "Funk",
+      "countryCode": "FR",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://stream.onestation.fr/128.mp3"
+    },
+    {
+      "id": "jordanne_fm_mauriac_fr_26a80757",
+      "title": "Jordanne FM Mauriac",
+      "subtitle": "Auvergne",
+      "location": "France",
+      "genre": "Auvergne",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://live.jordannefm.fr/JFM-MAU-WEB.mp3"
+    },
+    {
+      "id": "https_lgrradio_com_gb_bc6d07d0",
+      "title": "https://lgrradio.com/",
+      "subtitle": "Radio",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Radio",
+      "countryCode": "GB",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://icy.cloudrad.io/78aaef67"
+    },
+    {
+      "id": "delicious_beach_es_f3ce61e1",
+      "title": "Delicious Beach",
+      "subtitle": "Bossanova",
+      "location": "Spain",
+      "genre": "Bossanova",
+      "countryCode": "ES",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://streamplus55.leonex.de:10636/stream/1/"
+    },
+    {
+      "id": "france24_arabic_fr_a2a63f6f",
+      "title": "France24 arabic",
+      "subtitle": "News",
+      "location": "France",
+      "genre": "News",
+      "countryCode": "FR",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 1095,
+      "streamUrl": "http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8"
+    },
+    {
+      "id": "melodia_fr_quence_passion_fr_fec43e91",
+      "title": "Melodia Fréquence Passion",
+      "subtitle": "Hits",
+      "location": "France",
+      "genre": "Hits",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://manager11.streamradio.fr:3315/stream"
+    },
+    {
+      "id": "party_vibe_radio_rap_gb_d97bcd8b",
+      "title": "PARTY VIBE RADIO : RAP",
+      "subtitle": "Hip Hop",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Hip Hop",
+      "countryCode": "GB",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 320,
+      "streamUrl": "http://www.partyviberadio.com:8016/stream"
+    },
+    {
+      "id": "rocknationfm_gb_9689520d",
+      "title": "RocknationFm",
+      "subtitle": "Aor / Slow Rock / Soft Rock (Adult-Orientated Rock E.G. The Eagles.)",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Aor / Slow Rock / Soft Rock (Adult-Orientated Rock E.G. The Eagles.)",
+      "countryCode": "GB",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://s8.myradiostream.com:56048/;listen.mp3"
+    },
+    {
+      "id": "beckview_studios_radio_gb_f828cc78",
+      "title": "Beckview Studios Radio",
+      "subtitle": "Indie",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Indie",
+      "countryCode": "GB",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://a6.asurahosting.com:6700/radio.mp3"
     }
   ]
 }

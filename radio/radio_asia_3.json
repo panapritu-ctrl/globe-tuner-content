@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-05T05:08:32Z",
+  "updated": "2026-11-06T05:36:53Z",
   "region": "asia",
   "part": 3,
   "of": 3,
@@ -9408,19 +9408,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_ses_fm_a26fc331",
-      "title": "SES FM",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://yayin.sesfm.com.tr:8090/stream",
-      "location": "Türkiye",
-      "genre": "Radio",
-      "countryCode": "TR",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_sizir_fm_37ba98b1",
       "title": "SIZIR FM",
       "subtitle": "Arabesk, Arabesk Fantazi",
@@ -16415,18 +16402,6 @@
       "streamUrl": "https://stream-13.zeno.fm/g1pmt17nz9duv"
     },
     {
-      "id": "powert_rk_akustik_tr_3eb6f181",
-      "title": "PowerTürk Akustik",
-      "subtitle": "Radio",
-      "location": "Türkiye",
-      "genre": "Radio",
-      "countryCode": "TR",
-      "language": null,
-      "clickCount": 6,
-      "bitrate": 277,
-      "streamUrl": "https://listen.powerapp.com.tr/powerturkakustik/abr/playlist.m3u8"
-    },
-    {
       "id": "station_tw_debd508b",
       "title": "新竹勞工之聲",
       "subtitle": "Music",
@@ -17529,6 +17504,102 @@
       "clickCount": 4,
       "bitrate": 64,
       "streamUrl": "http://209.126.124.126:8681/stream"
+    },
+    {
+      "id": "x_fm_naga_city_philippines_ph_c0708508",
+      "title": "X FM Naga City, Philippines",
+      "subtitle": "Classic Hits",
+      "location": "The Philippines",
+      "genre": "Classic Hits",
+      "countryCode": "PH",
+      "language": "english",
+      "clickCount": 7,
+      "bitrate": 96,
+      "streamUrl": "https://stream.impnlee.com/xfmnaga"
+    },
+    {
+      "id": "99_5_dzyw_koolfm_ph_5e63b19a",
+      "title": "99.5 DZYW koolFM",
+      "subtitle": "Adult Contemporary",
+      "location": "The Philippines",
+      "genre": "Adult Contemporary",
+      "countryCode": "PH",
+      "language": "english",
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://listen.smilemediaph.com/listen/koolfm/radio.mp3"
+    },
+    {
+      "id": "a_news_radio_tr_14b14191",
+      "title": "A News Radio",
+      "subtitle": "News",
+      "location": "Türkiye",
+      "genre": "News",
+      "countryCode": "TR",
+      "language": "english",
+      "clickCount": 6,
+      "bitrate": 64,
+      "streamUrl": "https://trkvz-radyolar.ercdn.net/anewsradyo/playlist.m3u8"
+    },
+    {
+      "id": "neon_current_sg_3d1717a3",
+      "title": "Neon Current",
+      "subtitle": "Ai Music",
+      "location": "Singapore",
+      "genre": "Ai Music",
+      "countryCode": "SG",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "https://stream.neoncurrent.dev/radio.mp3"
+    },
+    {
+      "id": "i_mbat_fm_tr_8f7ed56d",
+      "title": "İmbat FM",
+      "subtitle": "Radio",
+      "location": "Türkiye",
+      "genre": "Radio",
+      "countryCode": "TR",
+      "language": "tr",
+      "clickCount": 5,
+      "bitrate": 96,
+      "streamUrl": "https://radyo.medyahost.com.tr/8034/stream"
+    },
+    {
+      "id": "magic_89_9_dwtm_ph_cec6a8cc",
+      "title": "Magic 89.9 - DWTM",
+      "subtitle": "Contemporary Hits",
+      "location": "The Philippines",
+      "genre": "Contemporary Hits",
+      "countryCode": "PH",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream.zeno.fm/hcbrvvfd938uv"
+    },
+    {
+      "id": "champion_internet_christian_radio_sg_9da22ed5",
+      "title": "Champion Internet Christian Radio",
+      "subtitle": "Christian",
+      "location": "Singapore",
+      "genre": "Christian",
+      "countryCode": "SG",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://icy.cloudrad.io/932980dd"
+    },
+    {
+      "id": "mun_forward_103_th_b4214f09",
+      "title": "MUN Forward 103",
+      "subtitle": "Radio",
+      "location": "Thailand",
+      "genre": "Radio",
+      "countryCode": "TH",
+      "language": "thai",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://cdn-th2.livestreaming.in.th/shoutcast/8730"
     }
   ]
 }

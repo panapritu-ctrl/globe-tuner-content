@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-05T05:08:32Z",
+  "updated": "2026-11-06T05:36:53Z",
   "region": "europe",
   "part": 2,
   "of": 8,
@@ -21471,19 +21471,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_elmari_kuld_a13e6834",
-      "title": "Elmari Kuld",
-      "subtitle": "1970S, 1980S",
-      "imageUrl": "https://elmar.pleier.ee/favicons/elmar/apple-touch-icon.png",
-      "streamUrl": "https://le11.euddn.net/d15d071d4f73afad16807c29a8cfe7447ef9fb6dc8928de64be3300e8ca0f3ca5c5b547137da3e2640917468e13ac1d7701b052f6ec9a2a3e207246d31ad7e936db6e1331b35e581cf1c988b303c617e81caf69b44a4afdcaceb809a218d0a9dd4aec230d75e57587a911bdb0faaaaa126ba9f040b7014729c340e2ab241ccfc0af5a1112d14756b8f322bf7a153eace53f699eeebaffdff8ab7ca1c91e4b2505f8f7dee05e2d8150305addddea91bd3/elmarikuld.aac",
-      "location": "Estonia",
-      "genre": "1970S",
-      "countryCode": "EE",
-      "language": "estonian",
-      "clickCount": 0,
-      "bitrate": 160
-    },
-    {
       "id": "rb2_elmari_tantsu_htu_24_7_e1aa6731",
       "title": "Elmari tantsuõhtu 24/7",
       "subtitle": "Dance, Folk",
@@ -26750,19 +26737,6 @@
       "language": "castellano. español",
       "clickCount": 2,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_mega_star_fm_b19b79d4",
-      "title": "MEGA STAR FM",
-      "subtitle": "International",
-      "imageUrl": "",
-      "streamUrl": "https://megastar-cope.flumotion.com/playlist.m3u8",
-      "location": "Spain",
-      "genre": "International",
-      "countryCode": "ES",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 64
     },
     {
       "id": "rb2_mad_radio_barcelona_29ba74b4",
@@ -33118,18 +33092,6 @@
       "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4nordjylland/masterab.m3u8"
     },
     {
-      "id": "dr_p4_midt_vest_aac_dk_ed0c0d93",
-      "title": "DR P4 Midt-Vest (AAC)",
-      "subtitle": "Regional Radio",
-      "location": "Denmark",
-      "genre": "Regional Radio",
-      "countryCode": "DK",
-      "language": "danish",
-      "clickCount": 3,
-      "bitrate": 324,
-      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4midtvest/masterab.m3u8"
-    },
-    {
       "id": "dr_p1_aac_dk_5bbf616a",
       "title": "DR P1 (AAC)",
       "subtitle": "Radio",
@@ -34172,6 +34134,78 @@
       "clickCount": 4,
       "bitrate": 192,
       "streamUrl": "https://christmas-high.rautemusik.fm/?upd-meta&upd-scheme=https&_art=dD0xNzkzNTIxMjUzJmQ9ZmRlMTgxM2VkZjZmYjhhZTIxN2E"
+    },
+    {
+      "id": "radio_q_de_accd7d40",
+      "title": "Radio Q",
+      "subtitle": "Alternative",
+      "location": "Germany",
+      "genre": "Alternative",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "https://rqstream.radioq.de/stream/192.mp3"
+    },
+    {
+      "id": "rpr_1_de_71fe0d02",
+      "title": "RPR 1",
+      "subtitle": "Pop",
+      "location": "Germany",
+      "genre": "Pop",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://stream.rpr1.de/trier/mp3-128"
+    },
+    {
+      "id": "gute_laune_welle_de_4707d1e8",
+      "title": "Gute Laune Welle",
+      "subtitle": "80'S",
+      "location": "Germany",
+      "genre": "80'S",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://gute-laune-welle.stream.laut.fm/gute-laune-welle?;stream.mp3"
+    },
+    {
+      "id": "rockland_radio_ma_lu_aac_64_de_2e2159dc",
+      "title": "Rockland Radio - MA/LU | aac-64",
+      "subtitle": "Bester Rock 'N Pop",
+      "location": "Germany",
+      "genre": "Bester Rock 'N Pop",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://streams.rockland.de/lu/aac-64"
+    },
+    {
+      "id": "metal_xmas_de_dafac9c3",
+      "title": "METAL XMAS",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://metal-xmas.stream.laut.fm/metal-xmas?aw_0_req.userConsentV2="
+    },
+    {
+      "id": "noise_on_fm_de_715beae1",
+      "title": "Noise On FM",
+      "subtitle": "Dance",
+      "location": "Germany",
+      "genre": "Dance",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://noiseonfm.stream.laut.fm/noiseonfm"
     }
   ]
 }
