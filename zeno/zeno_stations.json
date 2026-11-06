@@ -1,6 +1,6 @@
 {
-  "version": 86,
-  "updated": "2026-11-05T10:44:30Z",
+  "version": 87,
+  "updated": "2026-11-06T10:46:13Z",
   "stations": [
     {
       "id": "80s80s_radio_de_9adaa6e1",
@@ -829,15 +829,6 @@
       "genre": "Rock",
       "streamUrl": "https://stream.nextmedia.si/proxy/rockr1_1?mp=/rock;",
       "countryCode": "SI"
-    },
-    {
-      "id": "radio_z_ri_i_shtimes_xk_f02405a7",
-      "title": "Radio Zëri i Shtimes",
-      "subtitle": "AAC+",
-      "location": "Kosovo",
-      "genre": "Kosova",
-      "streamUrl": "http://radio.1dhe1.com:8090/stream",
-      "countryCode": "XK"
     },
     {
       "id": "exclusively_meat_loaf_sy_06eae4bd",
@@ -2611,15 +2602,6 @@
       "genre": "Pop Rock",
       "streamUrl": "http://25653.live.streamtheworld.com/VIRGIN_RADIO_SC",
       "countryCode": "TR"
-    },
-    {
-      "id": "discovertranceradio_mp3_hq_stereo_192kbi_ru_78270f0b",
-      "title": "DiscoverTranceRadio (MP3 HQ stereo 192kBit/s)",
-      "subtitle": "MP3",
-      "location": "The Russian Federation",
-      "genre": "Dance",
-      "streamUrl": "http://chicago.discovertrance.com:9216//",
-      "countryCode": "RU"
     },
     {
       "id": "rmf_classic_pl_2402a57e",
@@ -6960,15 +6942,6 @@
       "countryCode": "TR"
     },
     {
-      "id": "discovertranceradio_mp3_hq_stereo_192kbi_ru_405227dd",
-      "title": "DiscoverTranceRadio (MP3 HQ stereo 192kBit/s)",
-      "subtitle": "MP3",
-      "location": "The Russian Federation",
-      "genre": "Dance",
-      "streamUrl": "http://uk01.discovertrance.com//",
-      "countryCode": "RU"
-    },
-    {
       "id": "los_40_principales_m_xico_mx_74c1768d",
       "title": "Los 40 Principales México",
       "subtitle": "MP3",
@@ -7075,14 +7048,6 @@
       "genre": "Radio",
       "streamUrl": "http://27223.live.streamtheworld.com:3690/MYXFM_SC",
       "countryCode": "PH"
-    },
-    {
-      "id": "color_music_radio_xx_8d5ceb35",
-      "title": "Color Music Radio",
-      "subtitle": "MP3",
-      "location": "Unknown",
-      "genre": "Funky",
-      "streamUrl": "http://icecast6.play.cz/color192.mp3"
     },
     {
       "id": "italia_dance_music_it_1ba7320f",
@@ -10418,15 +10383,6 @@
       "countryCode": "US"
     },
     {
-      "id": "discovertranceradio_mp3_hq_stereo_192kbi_ru_471f0977",
-      "title": "DiscoverTranceRadio (MP3 HQ stereo 192kBit/s)",
-      "subtitle": "MP3",
-      "location": "The Russian Federation",
-      "genre": "Dance",
-      "streamUrl": "http://chicago.discovertrance.com:9214//",
-      "countryCode": "RU"
-    },
-    {
       "id": "m_quina_do_tempo_mpb_brasil_br_44e566a5",
       "title": "Máquina do Tempo (MPB Brasil)",
       "subtitle": "MP3",
@@ -11347,15 +11303,6 @@
       "genre": "Pop",
       "streamUrl": "http://24503.live.streamtheworld.com/FMDOSAAC_SC",
       "countryCode": "CL"
-    },
-    {
-      "id": "ar_rahman_radio_in_b7c06c99",
-      "title": "AR Rahman Radio",
-      "subtitle": "AAC+",
-      "location": "India",
-      "genre": "Tamil Cinema Music",
-      "streamUrl": "https://psrlive2.listenon.in/arr?ah=0e81749e37789e5fb8c290926ce87e3f",
-      "countryCode": "IN"
     },
     {
       "id": "radio_popular_herri_irratia_bilbao_es_fa13d764",
@@ -12488,6 +12435,274 @@
       "genre": "1970S",
       "streamUrl": "https://streaming.positivity.radio/pr/posi70s/icecast.audio",
       "countryCode": "AE"
+    },
+    {
+      "id": "977_country_us_24896cde",
+      "title": ".977 Country",
+      "subtitle": "MP3",
+      "location": "Florida, The United States Of America",
+      "genre": "Country",
+      "streamUrl": "http://24293.live.streamtheworld.com:3690/977_COUNTRY_SC",
+      "countryCode": "US"
+    },
+    {
+      "id": "iran_on_air_ir_6c0f7fb3",
+      "title": "Iran On Air",
+      "subtitle": "AAC+",
+      "location": "Tehran, Islamic Republic Of Iran",
+      "genre": "Radio",
+      "streamUrl": "http://ice41.securenetsystems.net/KIRN",
+      "countryCode": "IR"
+    },
+    {
+      "id": "station_ru_9380411d",
+      "title": "Спокойное радио",
+      "subtitle": "MP3",
+      "location": "Moscow, The Russian Federation",
+      "genre": "Ambient",
+      "streamUrl": "https://listen1.myradio24.com/6262",
+      "countryCode": "RU"
+    },
+    {
+      "id": "virgin_radio_t_rkiye_tr_dee1f456",
+      "title": "Virgin Radio Türkiye",
+      "subtitle": "MP3",
+      "location": "Türkiye",
+      "genre": "Pop Rock",
+      "streamUrl": "http://25443.live.streamtheworld.com:3690/VIRGIN_RADIO_SC",
+      "countryCode": "TR"
+    },
+    {
+      "id": "los_40_principales_m_xico_mx_9fac5a99",
+      "title": "Los 40 Principales México",
+      "subtitle": "MP3",
+      "location": "Ciudad de México, Mexico",
+      "genre": "Hits",
+      "streamUrl": "http://27053.live.streamtheworld.com:3690/LOS40_MEXICO_SC",
+      "countryCode": "MX"
+    },
+    {
+      "id": "jb_fm_br_9d09ec5d",
+      "title": "JB FM",
+      "subtitle": "AAC+",
+      "location": "Rio de Janeiro, Brazil",
+      "genre": "Radio",
+      "streamUrl": "http://26683.live.streamtheworld.com:3690/JBFMAAC_SC",
+      "countryCode": "BR"
+    },
+    {
+      "id": "candela_est_reo_bogot_hjpu_101_9_co_dc500b5b",
+      "title": "Candela Estéreo Bogotá (HJPU 101.9)",
+      "subtitle": "MP3",
+      "location": "Bogotá, Colombia",
+      "genre": "Bogota",
+      "streamUrl": "http://26673.live.streamtheworld.com:3690/CANDELAESTEREO_SC",
+      "countryCode": "CO"
+    },
+    {
+      "id": "deutschrap_de_795b1660",
+      "title": "Deutschrap",
+      "subtitle": "MP3",
+      "location": "Lower Saxony, Germany",
+      "genre": "Deutscher Hip-Hop",
+      "streamUrl": "http://deutschrap.stream.laut.fm/deutschrap?uuid=93344d17-6049-7f26-884e-d5e21d3a31f4&t302=2026-11-06_01-45-01",
+      "countryCode": "DE"
+    },
+    {
+      "id": "cfrb_news_talk_1010_toronto_on_ca_881a6769",
+      "title": "CFRB News/Talk 1010 (Toronto, ON)",
+      "subtitle": "AAC+",
+      "location": "Ontario, Canada",
+      "genre": "Commercial",
+      "streamUrl": "http://29324.live.streamtheworld.com:3690/CFRBAMAAC_SC",
+      "countryCode": "CA"
+    },
+    {
+      "id": "radiol_es_bd0419d3",
+      "title": "Radiolé",
+      "subtitle": "AAC+",
+      "location": "Andalucía, Spain",
+      "genre": "Radio",
+      "streamUrl": "http://27903.live.streamtheworld.com:3690/RADIOLEAAC_SC",
+      "countryCode": "ES"
+    },
+    {
+      "id": "94_7_za_92c852a8",
+      "title": "94.7",
+      "subtitle": "AAC+",
+      "location": "Gauteng, South Africa",
+      "genre": "Classic Hits",
+      "streamUrl": "http://27913.live.streamtheworld.com:3690/FM947AAC_SC",
+      "countryCode": "ZA"
+    },
+    {
+      "id": "rock_and_pop_cl_753e56d8",
+      "title": "Rock and Pop",
+      "subtitle": "AAC+",
+      "location": "Santiago, Chile",
+      "genre": "Pop",
+      "streamUrl": "http://24363.live.streamtheworld.com/ROCK_AND_POPAAC_SC",
+      "countryCode": "CL"
+    },
+    {
+      "id": "radio_10_60_s_70_s_hits_nl_8863f803",
+      "title": "Radio 10 60's & 70's Hits",
+      "subtitle": "MP3",
+      "location": "The Netherlands",
+      "genre": "Radio",
+      "streamUrl": "http://22323.live.streamtheworld.com/TLPSTR18_SC",
+      "countryCode": "NL"
+    },
+    {
+      "id": "light_fm_90_5_90_7_beirut_lb_c64308f4",
+      "title": "Light FM 90.5 & 90.7 Beirut",
+      "subtitle": "AAC+",
+      "location": "Lebanon",
+      "genre": "Beirut",
+      "streamUrl": "http://23613.live.streamtheworld.com/LIGHTFMAAC_SC",
+      "countryCode": "LB"
+    },
+    {
+      "id": "myx_philippines_ph_a47360f3",
+      "title": "MYX Philippines",
+      "subtitle": "MP3",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "streamUrl": "http://22283.live.streamtheworld.com/MYXFM_SC",
+      "countryCode": "PH"
+    },
+    {
+      "id": "dark_metal_radio_xx_694a8d9c",
+      "title": "Dark Metal-Radio",
+      "subtitle": "MP3",
+      "location": "Unknown",
+      "genre": "Dark Electro",
+      "streamUrl": "http://stream.laut.fm/dark-metal-radio"
+    },
+    {
+      "id": "myhits_ee_980bdc0f",
+      "title": "MyHits",
+      "subtitle": "AAC",
+      "location": "Estonia",
+      "genre": "Hits",
+      "streamUrl": "http://le303.euddn.net/82b4a429105dd4c4b7b6f90ec07f3f321662bd27d9377d40e1c1a937b788903aa8dd05458cd8fd63b0d4678a65b8a030848b9473412a56dae8a0c09a3c26ab7d81c177541c8066a6379ac354745ccdae5ae692477eaf6ae30d74f8b0b927832c14a4d39190326734ac08e4c780897de2b5e0c3303bf49b3a80ecebb5a7519a6a652e270a904711d3cfb5bf92210174a576267f24aefa9dcb97dcc217a88b0bd856d3e7a0c921734bb5dea86d49590c9d/myhits.aac",
+      "countryCode": "EE"
+    },
+    {
+      "id": "rock_the_world_heavy_metal_ae_c5dbc576",
+      "title": "Rock The World - Heavy Metal",
+      "subtitle": "MP3",
+      "location": "Dubai, The United Arab Emirates",
+      "genre": "Heavy Metal",
+      "streamUrl": "https://drive.uber.radio/uber/rtwheavymetal/icecast.audio",
+      "countryCode": "AE"
+    },
+    {
+      "id": "antenna_sterreich_at_b15b43b0",
+      "title": "Antenna Österreich",
+      "subtitle": "AAC",
+      "location": "Austria",
+      "genre": "Pop",
+      "streamUrl": "https://edge60.streamonkey.net/antoesterreich-live",
+      "countryCode": "AT"
+    },
+    {
+      "id": "1000_hits_90s_fr_13a8dd41",
+      "title": "1000 Hits 90s",
+      "subtitle": "MP3",
+      "location": "France",
+      "genre": "90S",
+      "streamUrl": "https://c4.auracast.net:8050/;",
+      "countryCode": "FR"
+    },
+    {
+      "id": "over_the_west_online_radio_ie_81238a7c",
+      "title": "Over the West Online Radio",
+      "subtitle": "AAC",
+      "location": "Ireland",
+      "genre": "Country",
+      "streamUrl": "https://fast.citrus3.com:8302/stream",
+      "countryCode": "IE"
+    },
+    {
+      "id": "country_radio_switzerland_ch_96b27bcf",
+      "title": "Country Radio Switzerland",
+      "subtitle": "MP3",
+      "location": "Switzerland",
+      "genre": "Country",
+      "streamUrl": "http://stream.countryradio.ch/crs-64.mp3",
+      "countryCode": "CH"
+    },
+    {
+      "id": "i_love_radio_us_only_rap_hiphop_radio_de_ccf12b15",
+      "title": "i love radio - US Only Rap&HipHop Radio",
+      "subtitle": "MP3",
+      "location": "Germany",
+      "genre": "Hiphop",
+      "streamUrl": "https://ilm.stream12.radiohost.de/ilm_iloveusonlyrapradio_mp3-192?upd-meta&upd-scheme=https&_art=dD0xNzkzOTI0ODU2JmQ9YjdjNTQxMzg0OWU0YTJlM2UwYmE",
+      "countryCode": "DE"
+    },
+    {
+      "id": "cope_albacete_es_655ea347",
+      "title": "COPE Albacete",
+      "subtitle": "MP3",
+      "location": "Spain",
+      "genre": "Albacete",
+      "streamUrl": "https://wecast02-o-cloud.flumotion.com/copesedes/albacete.mp3",
+      "countryCode": "ES"
+    },
+    {
+      "id": "cape_talk_za_a9423be5",
+      "title": "Cape Talk",
+      "subtitle": "MP3",
+      "location": "Western Cape, South Africa",
+      "genre": "Current Affairs",
+      "streamUrl": "http://14203.live.streamtheworld.com/CAPE_TALK_SC",
+      "countryCode": "ZA"
+    },
+    {
+      "id": "radio_538_nonstop_nl_6416ce8e",
+      "title": "Radio 538 Nonstop",
+      "subtitle": "MP3",
+      "location": "The Netherlands",
+      "genre": "Radio",
+      "streamUrl": "http://22613.live.streamtheworld.com/TLPSTR09_SC",
+      "countryCode": "NL"
+    },
+    {
+      "id": "wfmu_rock_n_soul_radio_xx_4f974029",
+      "title": "WFMU Rock 'n' Soul Radio",
+      "subtitle": "MP3",
+      "location": "New Jersey",
+      "genre": "Community Radio",
+      "streamUrl": "http://stream2.wfmu.org/rocknsoul"
+    },
+    {
+      "id": "raadio_kuku_ee_a03bea32",
+      "title": "Raadio KUKU",
+      "subtitle": "MP3",
+      "location": "Estonia",
+      "genre": "Talk",
+      "streamUrl": "http://le305.euddn.net/7f2248ab5b8765ad10a291cbc581a5f10e58c4e8116cf781bb42692a9f3f448bb9d5b99bfec3660840da8d1ab078a938c04c73bd97bd92f36280f30d6cf3da21b1f80de581cd132aca3fd39e2d5ef8bf3a86cf3358ca09bda3bdec55419357a928dffbf7397b3ede121e9a419610567765996a0f36f80cb47c22252bdcc11e90185335d8ca025c7cc13bf3714a2e8b7d5157642ae87f6e1353865aa4ab7152be700da070eca6aed8f220fb4d9a7ea8aa/kuku_low.mp3",
+      "countryCode": "EE"
+    },
+    {
+      "id": "rock_the_world_punk_rock_ae_d49b81b4",
+      "title": "Rock The World - Punk Rock",
+      "subtitle": "MP3",
+      "location": "Dubai, The United Arab Emirates",
+      "genre": "Punk Rock",
+      "streamUrl": "https://drive.uber.radio/uber/rtwpunk/icecast.audio",
+      "countryCode": "AE"
+    },
+    {
+      "id": "sunshine_live_vocal_trance_de_189209b6",
+      "title": "sunshine live - Vocal Trance",
+      "subtitle": "MP3",
+      "location": "Germany",
+      "genre": "192Kbps",
+      "streamUrl": "https://sunsl.streamabc.net/sunsl-vocaltrance-mp3-192-5826863?sABC=6nrq334o%230%23nq59s62359o2nr38nsp8150610pq18p9%23fgernz.fhafuvar-yvir.qr&aw_0_1st.playerid=stream.sunshine-live.de&amsparams=playerid:stream.sunshine-live.de;skey:1793930059",
+      "countryCode": "DE"
     }
   ]
 }
