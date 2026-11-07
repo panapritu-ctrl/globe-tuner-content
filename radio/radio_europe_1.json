@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-06T05:36:22Z",
+  "updated": "2026-11-07T04:41:03Z",
   "region": "europe",
   "part": 1,
   "of": 8,
@@ -3168,19 +3168,6 @@
       "language": "german",
       "clickCount": 1,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_welle_1_ober_sterreich_hq_65d4ae6a",
-      "title": "WELLE 1 - Oberösterreich - HQ",
-      "subtitle": "At_Welle1",
-      "imageUrl": "https://welle1.at/wp-content/uploads/2020/06/cropped-radiopro_theme_icon_1080x1080_2020-180x180.png",
-      "streamUrl": "https://live.welle1.at:17256/stream",
-      "location": "Oberösterreich, Austria",
-      "genre": "At_Welle1",
-      "countryCode": "AT",
-      "language": "german",
-      "clickCount": 2,
-      "bitrate": 256
     },
     {
       "id": "rb2_welle_1_salzburg_4afd638b",
@@ -33909,6 +33896,42 @@
       "clickCount": 3,
       "bitrate": 256,
       "streamUrl": "https://play.primeradio.al/prime"
+    },
+    {
+      "id": "radio_dudelsack_de_ecdf7779",
+      "title": "Radio Dudelsack",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://dudelsack.stream.laut.fm/dudelsack"
+    },
+    {
+      "id": "rt1_2000er_de_a25bb003",
+      "title": "RT1 2000er",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://frontend.streamonkey.net/rt1-ch10/stream/mp3"
+    },
+    {
+      "id": "ella_radio_live_jazz_de_1ec5c387",
+      "title": "Ella Radio - Live Jazz",
+      "subtitle": "Jazz",
+      "location": "Germany",
+      "genre": "Jazz",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://stream.ella-radio.de/ella-live-jazz/mp3-192/?ref=radio-browser"
     }
   ]
 }

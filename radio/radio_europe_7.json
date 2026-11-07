@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-06T05:36:53Z",
+  "updated": "2026-11-07T04:41:03Z",
   "region": "europe",
   "part": 7,
   "of": 8,
@@ -5252,19 +5252,6 @@
       "genre": "Musica Portuguesa",
       "countryCode": "PT",
       "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_r_dio_altitude_fm_e451bd02",
-      "title": "Rádio Altitude FM",
-      "subtitle": "Classic Hits, Hits",
-      "imageUrl": "https://www.altitude.fm/favicon.ico",
-      "streamUrl": "http://centova.radios.pt:9034/;",
-      "location": "Portugal",
-      "genre": "Classic Hits",
-      "countryCode": "PT",
-      "language": "english",
       "clickCount": 0,
       "bitrate": 128
     },
@@ -24361,30 +24348,6 @@
       "streamUrl": "https://live.radioclasic.com/listen/radio_clasic_summerhits/live.mp3"
     },
     {
-      "id": "antyradio_warszawa_pl_1b8bea60",
-      "title": "Antyradio Warszawa",
-      "subtitle": "Radio",
-      "location": "Poland",
-      "genre": "Radio",
-      "countryCode": "PL",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 128,
-      "streamUrl": "https://an.cdn.eurozet.pl/ant-web.mp3?t=1703697029993"
-    },
-    {
-      "id": "radio_manele_petrecere_ro_654ca63d",
-      "title": "RADIO MANELE PETRECERE",
-      "subtitle": "Manele",
-      "location": "Romania",
-      "genre": "Manele",
-      "countryCode": "RO",
-      "language": "romanian",
-      "clickCount": 10,
-      "bitrate": 128,
-      "streamUrl": "https://ssl.servereradio.ro/8123/stream"
-    },
-    {
       "id": "radio_magia_inimii_tale_ro_6467ce0a",
       "title": "RADIO MAGIA INIMII TALE",
       "subtitle": "Blues",
@@ -24635,18 +24598,6 @@
       "clickCount": 14,
       "bitrate": 128,
       "streamUrl": "http://a.fmradiomanele.ro:8054/;"
-    },
-    {
-      "id": "tequila_rom_nia_radio_hip_hop_ro_edf145ec",
-      "title": "Tequila România -Radio Hip-Hop",
-      "subtitle": "Hip-Hop",
-      "location": "Romania",
-      "genre": "Hip-Hop",
-      "countryCode": "RO",
-      "language": "romanian",
-      "clickCount": 6,
-      "bitrate": 128,
-      "streamUrl": "http://necenzurat.radiotequila.ro:7000/;"
     },
     {
       "id": "tranquila_manele_rom_nia_ro_b86a2c4d",
@@ -25489,18 +25440,6 @@
       "streamUrl": "https://stream.radiumfm.com/warsaw"
     },
     {
-      "id": "futrzak_fm_320kbps_pl_e5734206",
-      "title": "FUTRZAK.FM - 320kbps",
-      "subtitle": "Edm",
-      "location": "Poland",
-      "genre": "Edm",
-      "countryCode": "PL",
-      "language": "english",
-      "clickCount": 4,
-      "bitrate": 320,
-      "streamUrl": "https://audio.futrzak.fm/futrzakfm-320"
-    },
-    {
       "id": "radio_praga_pl_bc43ef9f",
       "title": "Radio Praga",
       "subtitle": "Radio",
@@ -25823,6 +25762,78 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://naxidigital-lounge128ssl.streaming.rs:8252/;stream.nsv"
+    },
+    {
+      "id": "radio_sljivovica_rs_aac8db44",
+      "title": "Radio Sljivovica",
+      "subtitle": "Radio",
+      "location": "Serbia",
+      "genre": "Radio",
+      "countryCode": "RS",
+      "language": "serbian",
+      "clickCount": 10,
+      "bitrate": 128,
+      "streamUrl": "http://stream.iradio.pro:8114/;stream.nsv"
+    },
+    {
+      "id": "radio_anime24_pl_54cbcf86",
+      "title": "Radio Anime24",
+      "subtitle": "Anime",
+      "location": "Poland",
+      "genre": "Anime",
+      "countryCode": "PL",
+      "language": "polish",
+      "clickCount": 4,
+      "bitrate": 320,
+      "streamUrl": "http://91.232.4.33:7028/;"
+    },
+    {
+      "id": "antena_3_madeira_portugal_pt_5d39d71d",
+      "title": "Antena 3 Madeira (Portugal)",
+      "subtitle": "Antena 1",
+      "location": "Portugal",
+      "genre": "Antena 1",
+      "countryCode": "PT",
+      "language": "portuguese",
+      "clickCount": 4,
+      "bitrate": 164,
+      "streamUrl": "https://streaming-live.rtp.pt/liveradio/antena3madeira80a/playlist.m3u8"
+    },
+    {
+      "id": "radio_flac_ra_rusaliilor_ro_7f741f6c",
+      "title": "Radio Flacăra Rusaliilor",
+      "subtitle": "Evangelical",
+      "location": "Romania",
+      "genre": "Evangelical",
+      "countryCode": "RO",
+      "language": "românä",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream.radio-flacararusaliilor.ro/stream"
+    },
+    {
+      "id": "naxi_max_rs_53a4d018",
+      "title": "Naxi MAX",
+      "subtitle": "Radio",
+      "location": "Serbia",
+      "genre": "Radio",
+      "countryCode": "RS",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 96,
+      "streamUrl": "http://max96-naxinacional.streaming.rs:8530/;stream.nsv"
+    },
+    {
+      "id": "fm_ru_7fcb4c3d",
+      "title": "КРАСНОЯРСК FM",
+      "subtitle": "Denc",
+      "location": "The Russian Federation",
+      "genre": "Denc",
+      "countryCode": "RU",
+      "language": "язык: русский",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream2.krasnoyarskfm.ru/krasnoyarskfm_mp3"
     }
   ]
 }

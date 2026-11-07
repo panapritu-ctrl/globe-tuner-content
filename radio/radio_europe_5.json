@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-06T05:36:53Z",
+  "updated": "2026-11-07T04:41:03Z",
   "region": "europe",
   "part": 5,
   "of": 8,
@@ -13823,19 +13823,6 @@
       "bitrate": 64
     },
     {
-      "id": "rb2_duna_world_r_di_96182b3c",
-      "title": "Duna World Rádió",
-      "subtitle": "Duna Média, News",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/hu/thumb/5/56/DW_radio.png/250px-DW_radio.png",
-      "streamUrl": "http://mr-stream.mediaconnect.hu/4760/dwr.aac",
-      "location": "Hungary",
-      "genre": "Duna Média",
-      "countryCode": "HU",
-      "language": "hungarian",
-      "clickCount": 2,
-      "bitrate": 40
-    },
-    {
       "id": "rb2_enying_fm_hungary_5717f17f",
       "title": "Enying FM Hungary",
       "subtitle": "Variety",
@@ -15903,19 +15890,6 @@
       "genre": "Electronic",
       "countryCode": "IE",
       "streamUrl": "http://stream.audioxi.com/BEATAAC"
-    },
-    {
-      "id": "rb2_c103_north_e4e13330",
-      "title": "C103 North",
-      "subtitle": "Radio",
-      "imageUrl": "https://mm.aiircdn.com/619/5d5199be0aa8e.png",
-      "streamUrl": "http://wg.cdn.tibus.net/C103",
-      "location": "Ireland",
-      "genre": "Radio",
-      "countryCode": "IE",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 128
     },
     {
       "id": "rb2_cfc_fm_973aedb0",
@@ -26787,18 +26761,6 @@
       "streamUrl": "https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S3822289/9T4F68Q3TT4m/icecast"
     },
     {
-      "id": "free_radio_jolly_it_c166cd50",
-      "title": "Free Radio Jolly",
-      "subtitle": "Italiana",
-      "location": "Italy",
-      "genre": "Italiana",
-      "countryCode": "IT",
-      "language": "italian",
-      "clickCount": 3,
-      "bitrate": 128,
-      "streamUrl": "https://a3.asurahosting.com/listen/freeradiojolly.it/radio.mp3"
-    },
-    {
       "id": "radio_italia_anni_60_sicilia_trapani_it_bdc0863d",
       "title": "Radio Italia Anni 60 (Sicilia-Trapani)",
       "subtitle": "Oldies",
@@ -27687,18 +27649,6 @@
       "streamUrl": "https://stream.frekvenci.com/dark"
     },
     {
-      "id": "raitg_it_7f79c86d",
-      "title": "RAITG",
-      "subtitle": "Radio",
-      "location": "Italy",
-      "genre": "Radio",
-      "countryCode": "IT",
-      "language": null,
-      "clickCount": 3,
-      "bitrate": 1998,
-      "streamUrl": "https://tgrcampania-live.akamaized.net/hls/live/2025562/tgrcampania/tgrcampania/playlist.m3u8"
-    },
-    {
       "id": "radio_parsifal_it_cc974803",
       "title": "Radio Parsifal",
       "subtitle": "Italian Pop",
@@ -27937,6 +27887,42 @@
       "clickCount": 4,
       "bitrate": 192,
       "streamUrl": "https://radioinside.eu/live.mp3"
+    },
+    {
+      "id": "ruggine_it_f1fdf946",
+      "title": "Ruggine",
+      "subtitle": "Alternative",
+      "location": "Italy",
+      "genre": "Alternative",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://radio.celodex.com/stream/ruggine.mp3"
+    },
+    {
+      "id": "coolfm_rap_hip_hop_hu_2f086acc",
+      "title": "COOLFM Rap/Hip-hop",
+      "subtitle": "Hip-Hop",
+      "location": "Hungary",
+      "genre": "Hip-Hop",
+      "countryCode": "HU",
+      "language": "hungarian",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://mediagw.e-tiger.net/stream/zc08"
+    },
+    {
+      "id": "radio_studio_93_it_dbc0ab9c",
+      "title": "Radio Studio 93",
+      "subtitle": "Pop",
+      "location": "Italy",
+      "genre": "Pop",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "http://onair15.xdevel.com:9160/listen.pls"
     }
   ]
 }

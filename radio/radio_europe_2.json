@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-06T05:36:53Z",
+  "updated": "2026-11-07T04:41:03Z",
   "region": "europe",
   "part": 2,
   "of": 8,
@@ -21379,15 +21379,6 @@
       "bitrate": 128
     },
     {
-      "id": "nordic_lodge_copenhagen_dk_2ee815",
-      "title": "nordic lodge copenhagen",
-      "subtitle": "Radio",
-      "location": "Copenhagen, Denmark",
-      "genre": "Radio",
-      "streamUrl": "http://radio.streemlion.com:1160/stream",
-      "countryCode": "DK"
-    },
-    {
       "id": "rb2_r8dio_6c8287a6",
       "title": "r8Dio",
       "subtitle": "Radio",
@@ -26693,19 +26684,6 @@
       "imageUrl": "https://masterfm.es/wp-content/uploads/2022/02/proradio-demo2-logo-negative-1-1.png.webp",
       "streamUrl": "https://radios.lamaster.es:8000/web24",
       "location": "Madrid, Spain",
-      "genre": "Radio",
-      "countryCode": "ES",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 192
-    },
-    {
-      "id": "rb2_mdt_radio_alicante_90_4_fm_3996871f",
-      "title": "MDT RADIO Alicante 90.4 FM",
-      "subtitle": "Radio",
-      "imageUrl": "https://mdtradio.com/wp-content/uploads/2022/11/logobanner.png",
-      "streamUrl": "https://streams1.mdtradio.com:8443/MdtAlicante",
-      "location": "Spain",
       "genre": "Radio",
       "countryCode": "ES",
       "language": null,
@@ -32684,18 +32662,6 @@
       "streamUrl": "https://stream.skymedia.ee/live/RETRO"
     },
     {
-      "id": "dr_p4_k_benhavn_aac_dk_b9ea5518",
-      "title": "DR P4 København (AAC)",
-      "subtitle": "Regional Radio",
-      "location": "Denmark",
-      "genre": "Regional Radio",
-      "countryCode": "DK",
-      "language": "danish",
-      "clickCount": 7,
-      "bitrate": 324,
-      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4kobenhavn/masterab.m3u8"
-    },
-    {
       "id": "absolut_radio_ai_de_2af3ccca",
       "title": "Absolut Radio AI",
       "subtitle": "Radio",
@@ -33078,30 +33044,6 @@
       "clickCount": 3,
       "bitrate": 128,
       "streamUrl": "http://stream.laut.fm/schlagerwelle24"
-    },
-    {
-      "id": "dr_p4_nordjylland_aac_dk_412ae0ef",
-      "title": "DR P4 Nordjylland (AAC)",
-      "subtitle": "Regional Radio",
-      "location": "Denmark",
-      "genre": "Regional Radio",
-      "countryCode": "DK",
-      "language": "danish",
-      "clickCount": 3,
-      "bitrate": 324,
-      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4nordjylland/masterab.m3u8"
-    },
-    {
-      "id": "dr_p1_aac_dk_5bbf616a",
-      "title": "DR P1 (AAC)",
-      "subtitle": "Radio",
-      "location": "Denmark",
-      "genre": "Radio",
-      "countryCode": "DK",
-      "language": "danish",
-      "clickCount": 3,
-      "bitrate": 324,
-      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p1/masterab.m3u8"
     },
     {
       "id": "duo_party_ee_ef3b8ada",
@@ -33992,18 +33934,6 @@
       "streamUrl": "https://mdr-284280-1.sslcast.mdr.de/mdr/284280/1/mp3/high/stream.mp3"
     },
     {
-      "id": "bayern1_obb_de_6d39ba57",
-      "title": "Bayern1 Obb",
-      "subtitle": "70/8",
-      "location": "Germany",
-      "genre": "70/8",
-      "countryCode": "DE",
-      "language": "bayrisch",
-      "clickCount": 5,
-      "bitrate": 0,
-      "streamUrl": "https://streams.br.de/bayern1obb_2.m3u"
-    },
-    {
       "id": "bigfm_xmas_de_7b064855",
       "title": "bigFM - XMAS",
       "subtitle": "Radio",
@@ -34206,6 +34136,126 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "http://noiseonfm.stream.laut.fm/noiseonfm"
+    },
+    {
+      "id": "dr_p4_k_benhavn_aac_dk_b9ea5518",
+      "title": "DR P4 København (AAC)",
+      "subtitle": "Regional Radio",
+      "location": "Denmark",
+      "genre": "Regional Radio",
+      "countryCode": "DK",
+      "language": "danish",
+      "clickCount": 7,
+      "bitrate": 324,
+      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4kobenhavn/masterab.m3u8"
+    },
+    {
+      "id": "solidcast_flac_de_bdf80681",
+      "title": "SolidCast FLAC",
+      "subtitle": "Various",
+      "location": "Germany",
+      "genre": "Various",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 1411,
+      "streamUrl": "https://stream.solid-software.net/flac"
+    },
+    {
+      "id": "wdr_4_m_nsterland_de_f715de65",
+      "title": "WDR 4 \\ Münsterland",
+      "subtitle": "80Er",
+      "location": "Germany",
+      "genre": "80Er",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 102,
+      "streamUrl": "https://wdrhf.akamaized.net/hls/live/2104535/wdr4muensterland/master.m3u8"
+    },
+    {
+      "id": "r_sh_musik_mix_nonstop_de_ed85c6b1",
+      "title": "R.SH Musik-Mix-Nonstop",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://streams.rsh.de/musikmix/mp3-192/streams.rsh.de/"
+    },
+    {
+      "id": "radio_narcan_de_b70f78a9",
+      "title": "Radio Narcan",
+      "subtitle": "Alternative",
+      "location": "Germany",
+      "genre": "Alternative",
+      "countryCode": "DE",
+      "language": "deutch",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://stream.laut.fm/radionarcan"
+    },
+    {
+      "id": "dr_p4_midt_vest_aac_dk_ed0c0d93",
+      "title": "DR P4 Midt-Vest (AAC)",
+      "subtitle": "Regional Radio",
+      "location": "Denmark",
+      "genre": "Regional Radio",
+      "countryCode": "DK",
+      "language": "danish",
+      "clickCount": 5,
+      "bitrate": 324,
+      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4midtvest/masterab.m3u8"
+    },
+    {
+      "id": "dr_p1_aac_dk_5bbf616a",
+      "title": "DR P1 (AAC)",
+      "subtitle": "Radio",
+      "location": "Denmark",
+      "genre": "Radio",
+      "countryCode": "DK",
+      "language": "danish",
+      "clickCount": 5,
+      "bitrate": 324,
+      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p1/masterab.m3u8"
+    },
+    {
+      "id": "bayern_1_oberbayern_hls_96_de_e422c06c",
+      "title": "Bayern 1 Oberbayern (HLS 96)",
+      "subtitle": "Oldies",
+      "location": "Germany",
+      "genre": "Oldies",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://br-radio.ard-mcdn.de/br/radio/b1obb/hls/96/seglist.m3u8"
+    },
+    {
+      "id": "energybremen_de_7796b6e6",
+      "title": "EnergyBremen",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://stream.ffn.de/energybremen/mp3-192/livestream.mp3"
+    },
+    {
+      "id": "dr_p2_aac_dk_0aeeaf1d",
+      "title": "DR P2 (AAC)",
+      "subtitle": "Radio",
+      "location": "Denmark",
+      "genre": "Radio",
+      "countryCode": "DK",
+      "language": "danish",
+      "clickCount": 4,
+      "bitrate": 324,
+      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p2/masterab.m3u8"
     }
   ]
 }
