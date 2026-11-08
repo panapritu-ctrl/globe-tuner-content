@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-07T04:41:03Z",
+  "updated": "2026-11-08T04:27:07Z",
   "region": "europe",
   "part": 5,
   "of": 8,
@@ -16040,19 +16040,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_cork_96_fm_cd81d32c",
-      "title": "Cork 96 FM",
-      "subtitle": "Talk & Speech",
-      "imageUrl": "",
-      "streamUrl": "http://wg.cdn.tibus.net/96fm",
-      "location": "Ireland",
-      "genre": "Talk & Speech",
-      "countryCode": "IE",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_cork_s_redfm_b75b0946",
       "title": "Cork's RedFM",
       "subtitle": "Pop",
@@ -27923,6 +27910,42 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "http://onair15.xdevel.com:9160/listen.pls"
+    },
+    {
+      "id": "ireland_s_love_radio_ie_db50e8ce",
+      "title": "Ireland's Love Radio",
+      "subtitle": "Radio",
+      "location": "Ireland",
+      "genre": "Radio",
+      "countryCode": "IE",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://stream.btsstream.com:8092/loveradio.aac"
+    },
+    {
+      "id": "radio_easy_network_it_1eb02e07",
+      "title": "Radio Easy Network",
+      "subtitle": "Radio",
+      "location": "Italy",
+      "genre": "Radio",
+      "countryCode": "IT",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 64,
+      "streamUrl": "https://sphera.fluidstream.eu/easy.aac"
+    },
+    {
+      "id": "minimal_techno_on_mixlive_net_ie_17321057",
+      "title": "Minimal & Techno on MixLive.net",
+      "subtitle": "Minimal",
+      "location": "Ireland",
+      "genre": "Minimal",
+      "countryCode": "IE",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://free.rcast.net/200701"
     }
   ]
 }

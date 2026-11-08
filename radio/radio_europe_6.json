@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-07T04:41:03Z",
+  "updated": "2026-11-08T04:27:07Z",
   "region": "europe",
   "part": 6,
   "of": 8,
@@ -1471,19 +1471,6 @@
       "streamUrl": "https://nrf1.newradio.it:9516/stream",
       "location": "Milano, Italy",
       "genre": "Radio",
-      "countryCode": "IT",
-      "language": "italian",
-      "clickCount": 0,
-      "bitrate": 96
-    },
-    {
-      "id": "rb2_radio_musica_indie_bc9226a1",
-      "title": "Radio Musica Indie",
-      "subtitle": "Indie, Italian",
-      "imageUrl": "",
-      "streamUrl": "http://nrf1.newradio.it:9884/stream",
-      "location": "Milano, Italy",
-      "genre": "Indie",
       "countryCode": "IT",
       "language": "italian",
       "clickCount": 0,
@@ -3426,19 +3413,6 @@
       "language": "italian",
       "clickCount": 3,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_sud_orientale_rso_e10278bb",
-      "title": "Radio Sud Orientale RSO",
-      "subtitle": "Radio",
-      "imageUrl": "https://www.rsoradio.it/images/sponsor/banner4.jpg",
-      "streamUrl": "https://nrf1.newradio.it/stream/9750",
-      "location": "Italy",
-      "genre": "Radio",
-      "countryCode": "IT",
-      "language": "italian",
-      "clickCount": 0,
-      "bitrate": 96
     },
     {
       "id": "rb2_radio_sunbeat_50487a4e",
@@ -24953,18 +24927,6 @@
       "streamUrl": "http://audio.visto.no/radionordkapp.ogg"
     },
     {
-      "id": "nrs_it_4ebcaa93",
-      "title": "NRS",
-      "subtitle": "Italian",
-      "location": "Italy",
-      "genre": "Italian",
-      "countryCode": "IT",
-      "language": "italian",
-      "clickCount": 7,
-      "bitrate": 96,
-      "streamUrl": "https://nrf1.newradio.it:9790/stream"
-    },
-    {
       "id": "hit_fm_chi_in_u_101_7_fm_md_a824b9c7",
       "title": "Hit FM Chișinău 101.7 fm",
       "subtitle": "Pop",
@@ -27855,6 +27817,138 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://radio.harder-fm.nl/listen/radio/;"
+    },
+    {
+      "id": "talsi_lounge_radio_lv_1ac5e019",
+      "title": "Talsi Lounge Radio",
+      "subtitle": "Chill Out",
+      "location": "Latvia",
+      "genre": "Chill Out",
+      "countryCode": "LV",
+      "language": "latvian",
+      "clickCount": 5,
+      "bitrate": 320,
+      "streamUrl": "http://radio.kuums.lv:5555/;stream.mp3"
+    },
+    {
+      "id": "radio_2go_liechtenstein_li_2e64fe77",
+      "title": "Radio 2Go - Liechtenstein",
+      "subtitle": "Eclectic",
+      "location": "Liechtenstein",
+      "genre": "Eclectic",
+      "countryCode": "LI",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://uksoutha.streaming.broadcast.radio/radio2go"
+    },
+    {
+      "id": "radio_audiomastering_lt_lt_734384ec",
+      "title": "radio.audiomastering.lt",
+      "subtitle": "Radio",
+      "location": "Lithuania",
+      "genre": "Radio",
+      "countryCode": "LT",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://transliacija.audiomastering.lt/pure"
+    },
+    {
+      "id": "radiobeat_md_2e81f51d",
+      "title": "RadioBEAT",
+      "subtitle": "Pop",
+      "location": "The Republic Of Moldova",
+      "genre": "Pop",
+      "countryCode": "MD",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://ssl.omegahost.ro/9998/stream"
+    },
+    {
+      "id": "mixstream_radio_disco_nl_78c0128a",
+      "title": "MixStream Radio - Disco",
+      "subtitle": "24/7",
+      "location": "The Netherlands",
+      "genre": "24/7",
+      "countryCode": "NL",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://radio.mixstream.nl/disco.mp3"
+    },
+    {
+      "id": "mixstream_radio_country_nl_ae218f74",
+      "title": "MixStream Radio - Country",
+      "subtitle": "24/7",
+      "location": "The Netherlands",
+      "genre": "24/7",
+      "countryCode": "NL",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://radio.mixstream.nl/country.mp3"
+    },
+    {
+      "id": "the_mood_swing_station_nl_78864532",
+      "title": "The Mood Swing Station",
+      "subtitle": "Chillout",
+      "location": "The Netherlands",
+      "genre": "Chillout",
+      "countryCode": "NL",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://a12.asurahosting.com/listen/the_mood_swing_station/radio.mp3"
+    },
+    {
+      "id": "db962_amsterdam_nl_4803d4f1",
+      "title": "dB962 Amsterdam",
+      "subtitle": "Radio",
+      "location": "The Netherlands",
+      "genre": "Radio",
+      "countryCode": "NL",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 320,
+      "streamUrl": "http://stream.db962.nl:8030/;"
+    },
+    {
+      "id": "das_total_erlebnis_nl_50cc36cf",
+      "title": "das total erlebnis",
+      "subtitle": "Radio",
+      "location": "The Netherlands",
+      "genre": "Radio",
+      "countryCode": "NL",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 256,
+      "streamUrl": "https://radio.dastotalerlebnis.com/listen/main/hifi.aac"
+    },
+    {
+      "id": "radio_g_fm_nederland_nl_b8003de5",
+      "title": "Radio G-FM Nederland",
+      "subtitle": "80S",
+      "location": "The Netherlands",
+      "genre": "80S",
+      "countryCode": "NL",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 64,
+      "streamUrl": "https://stream.radiogfm.nl:8200/high.aac"
+    },
+    {
+      "id": "radio_free_amsterdam_nl_393b7c88",
+      "title": "Radio Free Amsterdam",
+      "subtitle": "Radio",
+      "location": "The Netherlands",
+      "genre": "Radio",
+      "countryCode": "NL",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://cdn.voscast.com/resources/?key=07310b2448cdea5d13faff91268e178d&c=winamp"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-07T04:41:03Z",
+  "updated": "2026-11-08T04:27:06Z",
   "region": "europe",
   "part": 3,
   "of": 8,
@@ -8433,19 +8433,6 @@
       "language": null,
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_cn_o_362702c9",
-      "title": "CN'O",
-      "subtitle": "Radio",
-      "imageUrl": "https://www.cno-radio.fr/assets/img/basic/logo.png",
-      "streamUrl": "http://master.net-radio.fr/cno-96.aac",
-      "location": "France",
-      "genre": "Radio",
-      "countryCode": "FR",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 96
     },
     {
       "id": "rb2_cob_fm_saint_brieuc_1d3f3033",
@@ -27095,6 +27082,174 @@
       "clickCount": 4,
       "bitrate": 64,
       "streamUrl": "https://play.lrradio.uk/"
+    },
+    {
+      "id": "cope_madrid_fm_es_e696c5a4",
+      "title": "Cope Madrid FM",
+      "subtitle": "Radio",
+      "location": "Spain",
+      "genre": "Radio",
+      "countryCode": "ES",
+      "language": "spanish",
+      "clickCount": 86,
+      "bitrate": 64,
+      "streamUrl": "https://net1-cope-rrcast.flumotion.com/cope/net1-low.mp3"
+    },
+    {
+      "id": "cope_alicante_es_019829e4",
+      "title": "COPE Alicante",
+      "subtitle": "News",
+      "location": "Spain",
+      "genre": "News",
+      "countryCode": "ES",
+      "language": "spanish",
+      "clickCount": 12,
+      "bitrate": 96,
+      "streamUrl": "https://wecast-bl01.flumotion.com/copesedes/alicante.mp3"
+    },
+    {
+      "id": "bbc_radio_5_sports_extra_uk_only_gb_7ca967df",
+      "title": "BBC Radio 5 Sports Extra (UK only)",
+      "subtitle": "Sports",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Sports",
+      "countryCode": "GB",
+      "language": "english",
+      "clickCount": 11,
+      "bitrate": 135,
+      "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/audio_syndication_med_sbr_v1/aks/bbc_radio_five_live_sports_extra.m3u8"
+    },
+    {
+      "id": "hitwest_fr_92eed14d",
+      "title": "HITWEST",
+      "subtitle": "Radio",
+      "location": "France",
+      "genre": "Radio",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 7,
+      "bitrate": 0,
+      "streamUrl": "https://stream.rcs.revma.com/nvsuedfwcy3vv"
+    },
+    {
+      "id": "rfm_100_new_wave_fr_a7428a7b",
+      "title": "RFM - 100% New Wave",
+      "subtitle": "80S",
+      "location": "France",
+      "genre": "80S",
+      "countryCode": "FR",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "http://stream.rfm.fr/rfm-wr12.aac/playlist.m3u8"
+    },
+    {
+      "id": "rcu_radio_fr_6d0be166",
+      "title": "RCU Radio",
+      "subtitle": "Radio",
+      "location": "France",
+      "genre": "Radio",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 5,
+      "bitrate": 96,
+      "streamUrl": "http://91.121.59.45:8169/rcu_live"
+    },
+    {
+      "id": "wrg_la_radio_du_grand_ouest_fr_ea9017c7",
+      "title": "WRG la radio du Grand'Ouest",
+      "subtitle": "Grand Ouest",
+      "location": "France",
+      "genre": "Grand Ouest",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 5,
+      "bitrate": 320,
+      "streamUrl": "https://manager11.streamradio.fr:1345/stream"
+    },
+    {
+      "id": "kvf_tingvarp_fo_63309620",
+      "title": "KVF - Tingvarp",
+      "subtitle": "Radio",
+      "location": "The Faroe Islands",
+      "genre": "Radio",
+      "countryCode": "FO",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 96,
+      "streamUrl": "http://netvarp.kringvarp.fo:4443/tingvarp"
+    },
+    {
+      "id": "beaub_fm_fr_77afea8a",
+      "title": "Beaub'FM",
+      "subtitle": "Radio",
+      "location": "France",
+      "genre": "Radio",
+      "countryCode": "FR",
+      "language": "francaise",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "http://beaubfm2.ice.infomaniak.ch/beaubfm2-96.mp3"
+    },
+    {
+      "id": "nostalgie_les_plus_grands_tubes_fr_7033651d",
+      "title": "Nostalgie Les Plus Grands Tubes",
+      "subtitle": "Nostalgie",
+      "location": "France",
+      "genre": "Nostalgie",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://streaming.nrjaudio.fm/ourf3jvukkaq"
+    },
+    {
+      "id": "fr_quence_3_flac_fr_8a73ee12",
+      "title": "Fréquence 3 FLAC",
+      "subtitle": "Pop",
+      "location": "France",
+      "genre": "Pop",
+      "countryCode": "FR",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://hd.stream.frequence3.net/frequence3.flac"
+    },
+    {
+      "id": "rain_thunderstorms_sounds_gb_3b117884",
+      "title": "Rain & Thunderstorms Sounds",
+      "subtitle": "Ambient And Relaxation Music",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Ambient And Relaxation Music",
+      "countryCode": "GB",
+      "language": "english uk",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://boxradio-edge-00.streamafrica.net/rain?"
+    },
+    {
+      "id": "ram_fm_80s_hit_radio_gb_3ece21a2",
+      "title": "Ram FM 80s Hit Radio",
+      "subtitle": "70S",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "70S",
+      "countryCode": "GB",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 64,
+      "streamUrl": "https://usa1-vn.mixstream.net/8084/listen.mp3"
+    },
+    {
+      "id": "bbc_radio_5_sports_extra_3_uk_only_gb_15a11830",
+      "title": "BBC Radio 5 Sports Extra 3 (UK only)",
+      "subtitle": "Sports",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Sports",
+      "countryCode": "GB",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 135,
+      "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/audio_syndication_med_sbr_v1/aks/bbc_radio_five_sports_extra_3.m3u8"
     }
   ]
 }

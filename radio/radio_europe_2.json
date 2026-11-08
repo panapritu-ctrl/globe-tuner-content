@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-07T04:41:03Z",
+  "updated": "2026-11-08T04:27:06Z",
   "region": "europe",
   "part": 2,
   "of": 8,
@@ -2145,19 +2145,6 @@
       "genre": "2000S",
       "countryCode": "DE",
       "language": "german",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_hamburg_zwei_228fa157",
-      "title": "Hamburg Zwei",
-      "subtitle": "Radio",
-      "imageUrl": "https://www.hamburg-zwei.de/assets/icons/apple-touch-icon.png",
-      "streamUrl": "https://frontend.streamonkey.net/hh2-950?aggregator=linkhamburgzweide",
-      "location": "Hamburg, Germany",
-      "genre": "Radio",
-      "countryCode": "DE",
-      "language": null,
       "clickCount": 0,
       "bitrate": 128
     },
@@ -26912,19 +26899,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_megastarfm_stereo_aac_9d557f8a",
-      "title": "MegastarFM (stereo_aac)",
-      "subtitle": "Contemporary Hit Radio",
-      "imageUrl": "",
-      "streamUrl": "https://megastar-cope.flumotion.com/chunks.m3u8",
-      "location": "Madrid, Spain",
-      "genre": "Contemporary Hit Radio",
-      "countryCode": "ES",
-      "language": "spanish",
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_melodia_para_dos_3f5222eb",
       "title": "Melodia Para Dos",
       "subtitle": "Romantic",
@@ -32986,18 +32960,6 @@
       "streamUrl": "https://stream.laut.fm/just80s_maximal"
     },
     {
-      "id": "dr_p5_k_benhavn_aac_dk_590a0c64",
-      "title": "DR P5 København (AAC)",
-      "subtitle": "Regional Radio",
-      "location": "Denmark",
-      "genre": "Regional Radio",
-      "countryCode": "DK",
-      "language": "danish",
-      "clickCount": 4,
-      "bitrate": 324,
-      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p5kobenhavn/masterab.m3u8"
-    },
-    {
       "id": "radio_galaxy_bayern_de_e7c620b7",
       "title": "Radio Galaxy Bayern",
       "subtitle": "Dance",
@@ -34256,6 +34218,90 @@
       "clickCount": 4,
       "bitrate": 324,
       "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p2/masterab.m3u8"
+    },
+    {
+      "id": "nordic_lodge_copenhagen_dk_27f714aa",
+      "title": "nordic lodge copenhagen",
+      "subtitle": "Radio",
+      "location": "Denmark",
+      "genre": "Radio",
+      "countryCode": "DK",
+      "language": null,
+      "clickCount": 17,
+      "bitrate": 128,
+      "streamUrl": "http://radio.streemlion.com:1160/stream"
+    },
+    {
+      "id": "bayern1_obb_de_6d39ba57",
+      "title": "Bayern1 Obb",
+      "subtitle": "70/8",
+      "location": "Germany",
+      "genre": "70/8",
+      "countryCode": "DE",
+      "language": "bayrisch",
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "https://streams.br.de/bayern1obb_2.m3u"
+    },
+    {
+      "id": "r_sa_italo_disco_de_5e620362",
+      "title": "R.SA Italo Disco",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://rsa.streamabc.net/regc-rsasachsenitalo3107586-mp3-128-5550303?"
+    },
+    {
+      "id": "antenne_nrw_70er_hits_de_d19f6f79",
+      "title": "Antenne NRW 70er Hits",
+      "subtitle": "70'S Hits",
+      "location": "Germany",
+      "genre": "70'S Hits",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 5,
+      "bitrate": 48,
+      "streamUrl": "https://stream.antenne.nrw/antenne-nrw-70er-hits/stream/aacp"
+    },
+    {
+      "id": "black_tapes_on_air_de_dc2b1e9b",
+      "title": "Black Tapes On Air",
+      "subtitle": "Hardcore",
+      "location": "Germany",
+      "genre": "Hardcore",
+      "countryCode": "DE",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://stream.laut.fm/black-tapes-on-air"
+    },
+    {
+      "id": "dr_p6_beat_aac_dk_29e901b6",
+      "title": "DR P6 BEAT (AAC)",
+      "subtitle": "Beat",
+      "location": "Denmark",
+      "genre": "Beat",
+      "countryCode": "DK",
+      "language": "danish",
+      "clickCount": 4,
+      "bitrate": 324,
+      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p6beat/masterab.m3u8"
+    },
+    {
+      "id": "dr_p5_k_benhavn_aac_dk_590a0c64",
+      "title": "DR P5 København (AAC)",
+      "subtitle": "Regional Radio",
+      "location": "Denmark",
+      "genre": "Regional Radio",
+      "countryCode": "DK",
+      "language": "danish",
+      "clickCount": 4,
+      "bitrate": 324,
+      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p5kobenhavn/masterab.m3u8"
     }
   ]
 }

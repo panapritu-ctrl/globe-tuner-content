@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-07T04:41:03Z",
+  "updated": "2026-11-08T04:27:07Z",
   "region": "asia",
   "part": 1,
   "of": 3,
@@ -15169,19 +15169,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_1058_65839c3b",
-      "title": "孟村综合广播 沧州1058汽车音乐广播",
-      "subtitle": "Entertainment, Music",
-      "imageUrl": "https://pic.qtfm.cn/2026/0121/20260121091136.png",
-      "streamUrl": "https://lhttp-hw.qtfm.cn/live/5021914/64k.mp3",
-      "location": "Hopei, China",
-      "genre": "Entertainment",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_station_2b2d1032",
       "title": "宁夏交通广播",
       "subtitle": "Traffic Radio Broadcast",
@@ -24622,18 +24609,6 @@
       "streamUrl": "https://lhttp-hw.qtfm.cn/live/2792/64k.mp3"
     },
     {
-      "id": "lratvakan_radio_am_ee4f2e7f",
-      "title": "Lratvakan Radio",
-      "subtitle": "Armenian",
-      "location": "Armenia",
-      "genre": "Armenian",
-      "countryCode": "AM",
-      "language": "armenian",
-      "clickCount": 3,
-      "bitrate": 128,
-      "streamUrl": "http://212.34.233.78:8000/live"
-    },
-    {
       "id": "btv_cn_0404a179",
       "title": "BTV财经伴音",
       "subtitle": "Economics",
@@ -25700,18 +25675,6 @@
       "clickCount": 4,
       "bitrate": 64,
       "streamUrl": "http://as3.digitalsynapsebd.com:8582/stream"
-    },
-    {
-      "id": "r_dio_gua_azul_bn_4e3766cc",
-      "title": "Rádio Água Azul",
-      "subtitle": "Radio",
-      "location": "Brunei Darussalam",
-      "genre": "Radio",
-      "countryCode": "BN",
-      "language": "inglés/portugués/español",
-      "clickCount": 3,
-      "bitrate": 64,
-      "streamUrl": "https://stm4.srvif.com:8460/stream"
     },
     {
       "id": "station_cn_d42c0cae",
@@ -27284,6 +27247,18 @@
       "clickCount": 8,
       "bitrate": 192,
       "streamUrl": "https://a9.asurahosting.com/listen/bakujazzredio/radio.mp3"
+    },
+    {
+      "id": "brtv_cn_525ade42",
+      "title": "BRTV北京文艺广播",
+      "subtitle": "Crosstalk",
+      "location": "China",
+      "genre": "Crosstalk",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 10,
+      "bitrate": 0,
+      "streamUrl": "https://brtv-radiolive.rbc.cn/alive/fm876.m3u8"
     }
   ]
 }

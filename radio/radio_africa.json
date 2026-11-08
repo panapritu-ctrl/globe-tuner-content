@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-07T04:41:03Z",
+  "updated": "2026-11-08T04:27:07Z",
   "region": "africa",
   "stations": [
     {
@@ -3614,15 +3614,6 @@
       "genre": "Local News",
       "streamUrl": "https://reunion.ice.infomaniak.ch/reunion-128.mp3",
       "countryCode": "RE"
-    },
-    {
-      "id": "sun_fm_97_8_102_94_1_re_cbf511",
-      "title": "SUN FM | 97.8 | 102 | 94.1",
-      "subtitle": "974",
-      "location": "Reunion",
-      "genre": "974",
-      "countryCode": "RE",
-      "streamUrl": "https://listen.radioking.com/radio/669814/stream/733864"
     },
     {
       "id": "rb2_sensuelle_radio_r_union_b8a78bf0",
@@ -9650,18 +9641,6 @@
       "streamUrl": "https://radio.eclipse-streaming.co.za/listen/zoibi_fm/zoibifm.mp3"
     },
     {
-      "id": "good_news_radio_ug_c59d6fdf",
-      "title": "Good News Radio",
-      "subtitle": "Christian",
-      "location": "Uganda",
-      "genre": "Christian",
-      "countryCode": "UG",
-      "language": "english",
-      "clickCount": 3,
-      "bitrate": 128,
-      "streamUrl": "http://node-01.zeno.fm/km203bn6qnruv"
-    },
-    {
       "id": "trace_fm_c_te_d_ivoire_ci_c2dcfbbc",
       "title": "Trace FM Côte d’Ivoire",
       "subtitle": "African Music",
@@ -12410,18 +12389,6 @@
       "streamUrl": "https://atunwadigital.streamguys1.com/neatfm"
     },
     {
-      "id": "pikine_diaspora_radio_sn_368c735a",
-      "title": "Pikine Diaspora Radio",
-      "subtitle": "Radio",
-      "location": "Senegal",
-      "genre": "Radio",
-      "countryCode": "SN",
-      "language": null,
-      "clickCount": 5,
-      "bitrate": 0,
-      "streamUrl": "http://cdn.voscast.com/resources/?key=563fcd75f43e77334d6fb664b7358f9e&c=winamp"
-    },
-    {
       "id": "on_sports_fm_eg_b125bc00",
       "title": "On sports FM",
       "subtitle": "Radio",
@@ -13620,6 +13587,114 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://stream.zeno.fm/xnamppblrnlvv"
+    },
+    {
+      "id": "radio_svein_cd_a293250e",
+      "title": "Radio Svein",
+      "subtitle": "Radio Comunitaria",
+      "location": "The Democratic Republic Of The Congo",
+      "genre": "Radio Comunitaria",
+      "countryCode": "CD",
+      "language": "french",
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://radiosvein2.ice.infomaniak.ch/radiosvein2-64.mp3"
+    },
+    {
+      "id": "mwandi_community_radio_station_zm_dd4c1559",
+      "title": "Mwandi Community Radio Station",
+      "subtitle": "News",
+      "location": "Zambia",
+      "genre": "News",
+      "countryCode": "ZM",
+      "language": "english",
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://c30.radioboss.fm:9050/stream"
+    },
+    {
+      "id": "lilanguka_radio_mw_b2a58b07",
+      "title": "Lilanguka Radio",
+      "subtitle": "Christian",
+      "location": "Malawi",
+      "genre": "Christian",
+      "countryCode": "MW",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://live.netradio.pro/listen/nguka/radio.mp3"
+    },
+    {
+      "id": "pikine_diaspora_radio_sn_368c735a",
+      "title": "Pikine Diaspora Radio",
+      "subtitle": "Radio",
+      "location": "Senegal",
+      "genre": "Radio",
+      "countryCode": "SN",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "http://cdn.voscast.com/resources/?key=563fcd75f43e77334d6fb664b7358f9e&c=winamp"
+    },
+    {
+      "id": "radio_tokpa_bj_d2f98745",
+      "title": "Radio Tokpa",
+      "subtitle": "Radio",
+      "location": "Benin",
+      "genre": "Radio",
+      "countryCode": "BJ",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 64,
+      "streamUrl": "https://radiotokpa.info/liveradio"
+    },
+    {
+      "id": "atlantic_fm_ortb_bj_2b2f125f",
+      "title": "Atlantic FM ORTB",
+      "subtitle": "Radio",
+      "location": "Benin",
+      "genre": "Radio",
+      "countryCode": "BJ",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://listen.radioking.com/radio/613798/stream/675604"
+    },
+    {
+      "id": "congo_rdc_radio_time_kinshasa_cd_ebaa86c8",
+      "title": "Congo RDC - Radio Time Kinshasa",
+      "subtitle": "Radio",
+      "location": "The Democratic Republic Of The Congo",
+      "genre": "Radio",
+      "countryCode": "CD",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream-204.surfernetwork.com/znnewqpvi8tuv"
+    },
+    {
+      "id": "radio_balafon_cm_ab05e336",
+      "title": "Radio Balafon",
+      "subtitle": "African",
+      "location": "Cameroon",
+      "genre": "African",
+      "countryCode": "CM",
+      "language": "french",
+      "clickCount": 4,
+      "bitrate": 96,
+      "streamUrl": "https://broadcasting-channels.com:9043/listen.mp3"
+    },
+    {
+      "id": "jabulani_radio_eldoret_kenya_ke_5c4a3b24",
+      "title": "Jabulani Radio - Eldoret (Kenya)",
+      "subtitle": "African Music",
+      "location": "Kenya",
+      "genre": "African Music",
+      "countryCode": "KE",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://listen.radioking.com/radio/626272/stream/688567"
     }
   ]
 }

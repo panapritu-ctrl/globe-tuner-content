@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-07T04:41:03Z",
+  "updated": "2026-11-08T04:27:07Z",
   "region": "europe",
   "part": 8,
   "of": 8,
@@ -11010,19 +11010,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_104_5_fm_95c65136",
-      "title": "Радио Дача Нижний Новгород 104.5 FM",
-      "subtitle": "Music, Nizhniy Novgorod",
-      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250111_194834420.jpg?alt=media&token=96e16374-2d2e-4a1d-a913-61a998de38b7",
-      "streamUrl": "http://microit.n340.com:9000/VgMv0WV17ZVx1uuo_12_dacha_128_reg_412",
-      "location": "The Russian Federation",
-      "genre": "Music",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_102_1_fm_a0e8c983",
       "title": "Радио Дача Самара 102.1 FM",
       "subtitle": "Music, Pop",
@@ -15113,19 +15100,6 @@
       "bitrate": 48
     },
     {
-      "id": "rb2_station_44f89474",
-      "title": "радио Дача Новосибирск",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://stream2.n340.com/12_dacha_28_reg_316?type=.aac&UID=0E7ACB8332B0F838199083C383FB7F40",
-      "location": "The Russian Federation",
-      "genre": "Radio",
-      "countryCode": "RU",
-      "language": "язык: ру",
-      "clickCount": 0,
-      "bitrate": 28
-    },
-    {
       "id": "rb2_station_096a158b",
       "title": "радио Забытая кассета",
       "subtitle": "Pop Music",
@@ -15879,19 +15853,6 @@
       "language": null,
       "clickCount": 0,
       "bitrate": 320
-    },
-    {
-      "id": "rb2_radio_b_stad_893636b3",
-      "title": "Radio Båstad",
-      "subtitle": "Radio",
-      "imageUrl": "https://impro.usercontent.one/appid/oneComWsb/domain/radiobastad.se/media/radiobastad.se/onewebmedia/256742-314242-gh757dh3xq.png?etag=%2215a98-64edeed2%22&sourceContentType=image%2Fpng&ignoreAspectRatio&resize=576%2B576&extract=0%2B0%2B576%2B544",
-      "streamUrl": "https://audio-edge-hy4wy.blr.d.radiomast.io/0cf89221-143e-4e91-8c1a-3668a99404ac",
-      "location": "Sweden",
-      "genre": "Radio",
-      "countryCode": "SE",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 128
     },
     {
       "id": "rb2_radio_gbg_sevdah_5edaeb8f",
@@ -18772,19 +18733,6 @@
       "countryCode": "SK",
       "language": null,
       "clickCount": 2,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_tich_r_dio_2a296a53",
-      "title": "Tiché Rádio",
-      "subtitle": "Soft Adult Contemporary",
-      "imageUrl": "",
-      "streamUrl": "https://stream.ticheradio.sk/tiche.mp3",
-      "location": "Slovakia",
-      "genre": "Soft Adult Contemporary",
-      "countryCode": "SK",
-      "language": "slovak",
-      "clickCount": 4,
       "bitrate": 128
     },
     {
@@ -21686,18 +21634,6 @@
       "clickCount": 3,
       "bitrate": 0,
       "streamUrl": "http://195.138.81.134:8000/radio1-256"
-    },
-    {
-      "id": "chill_lounge_ua_3b5ca3c0",
-      "title": "Радіо Київстар Chill & Lounge",
-      "subtitle": "256 Kbit/S",
-      "location": "Ukraine",
-      "genre": "256 Kbit/S",
-      "countryCode": "UA",
-      "language": "ukranian",
-      "clickCount": 3,
-      "bitrate": 281,
-      "streamUrl": "https://radio.kyivstar.ua/stream/chill/master.m3u8"
     },
     {
       "id": "west_pole_32k_aac_ua_ebe347ae",
@@ -24976,18 +24912,6 @@
       "streamUrl": "https://amoris.sknt.ru/minimal.mp3"
     },
     {
-      "id": "love_radio_107_6_fm_ru_3a786ebd",
-      "title": "Love Radio Брянск 107.6 FM",
-      "subtitle": "107_6 Fm",
-      "location": "The Russian Federation",
-      "genre": "107_6 Fm",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 5,
-      "bitrate": 128,
-      "streamUrl": "http://microit.n340.com:9000/VgMv0WV17ZVx1uuo_12_love_128_reg_80933"
-    },
-    {
       "id": "radio_caprice_power_metal_ru_4201092d",
       "title": "Radio Caprice - Power Metal",
       "subtitle": "Heavy Metal",
@@ -25922,6 +25846,102 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://stream.kaef.fun/stream"
+    },
+    {
+      "id": "lounge_fm_acoustic_ua_5ef1112b",
+      "title": "Lounge FM Acoustic",
+      "subtitle": "Acoustic",
+      "location": "Ukraine",
+      "genre": "Acoustic",
+      "countryCode": "UA",
+      "language": null,
+      "clickCount": 8,
+      "bitrate": 320,
+      "streamUrl": "https://cast.mediaonline.net.ua/acoustic320"
+    },
+    {
+      "id": "usmaradio_sm_61a87fc5",
+      "title": "USMARADIO",
+      "subtitle": "Città Di San Marino",
+      "location": "San Marino",
+      "genre": "Città Di San Marino",
+      "countryCode": "SM",
+      "language": "italian",
+      "clickCount": 7,
+      "bitrate": 192,
+      "streamUrl": "http://usmaradio.out.airtime.pro:8000/usmaradio_a"
+    },
+    {
+      "id": "hackerspace_radio_se_c36f0735",
+      "title": "Hackerspace radio",
+      "subtitle": "Radio",
+      "location": "Sweden",
+      "genre": "Radio",
+      "countryCode": "SE",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://broadcast.sonologic.net/signal.ogg"
+    },
+    {
+      "id": "melody_eskoslovensk_diskot_ka_sk_360de59e",
+      "title": "Melody - Československá diskotéka",
+      "subtitle": "Cz-Sk",
+      "location": "Slovakia",
+      "genre": "Cz-Sk",
+      "countryCode": "SK",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 96,
+      "streamUrl": "https://stream.bauermedia.sk/ceskoslovenska-diskoteka-hi.aac"
+    },
+    {
+      "id": "revolution_radio_ru_57e86c62",
+      "title": "REVOLUTION Radio",
+      "subtitle": "Клубная",
+      "location": "The Russian Federation",
+      "genre": "Клубная",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://revolutionradio.ru:8443/live.mp3"
+    },
+    {
+      "id": "station_ru_04bc2e0a",
+      "title": "радио сердце Хакасии",
+      "subtitle": "Music",
+      "location": "The Russian Federation",
+      "genre": "Music",
+      "countryCode": "RU",
+      "language": "язык: русский",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://s0.radioheart.ru:8000/RH63227"
+    },
+    {
+      "id": "violin_radio_caprice_ru_11b31d70",
+      "title": "Violin - Radio Caprice",
+      "subtitle": "Radio",
+      "location": "The Russian Federation",
+      "genre": "Radio",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 320,
+      "streamUrl": "http://213.141.131.10:8004/violin"
+    },
+    {
+      "id": "europa_2_fitness_sk_0698ed34",
+      "title": "Europa 2 - Fitness",
+      "subtitle": "Fitness",
+      "location": "Slovakia",
+      "genre": "Fitness",
+      "countryCode": "SK",
+      "language": "slovak",
+      "clickCount": 4,
+      "bitrate": 95,
+      "streamUrl": "https://stream.bauermedia.sk/fitness-hi.aac"
     }
   ]
 }
