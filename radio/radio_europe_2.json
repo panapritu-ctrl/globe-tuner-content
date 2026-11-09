@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-08T04:27:06Z",
+  "updated": "2026-11-09T04:41:04Z",
   "region": "europe",
   "part": 2,
   "of": 8,
@@ -16185,19 +16185,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_unserding_schwarz_96060fa2",
-      "title": "UnserDing - Schwarz",
-      "subtitle": "Ard, Black",
-      "imageUrl": "",
-      "streamUrl": "http://liveradio.sr.de/sr/udc1/mp3/128/stream.mp3?aggregator=custom1",
-      "location": "Saarland, Germany",
-      "genre": "Ard",
-      "countryCode": "DE",
-      "language": "german",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_vinyl_maxi_fm_d444d17e",
       "title": "Vinyl Maxi FM",
       "subtitle": "Decades",
@@ -21364,19 +21351,6 @@
       "language": "danish",
       "clickCount": 5,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_r8dio_6c8287a6",
-      "title": "r8Dio",
-      "subtitle": "Radio",
-      "imageUrl": "https://r8dio.dk/favicon.ico",
-      "streamUrl": "https://s3.radio.co/s7cd1ffe2f/listen",
-      "location": "Denmark",
-      "genre": "Radio",
-      "countryCode": "DK",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 192
     },
     {
       "id": "rb2_duo_country_19233009",
@@ -32708,18 +32682,6 @@
       "streamUrl": "https://stream.laut.fm/70s-hits"
     },
     {
-      "id": "ai_slop_radio_de_d5ae1773",
-      "title": "AI Slop Radio",
-      "subtitle": "Ai",
-      "location": "Germany",
-      "genre": "Ai",
-      "countryCode": "DE",
-      "language": "english",
-      "clickCount": 5,
-      "bitrate": 320,
-      "streamUrl": "https://radio.node-io.dev/live.mp3"
-    },
-    {
       "id": "antenne_niedersachsen_sch_tzenfest_hits_de_2da4ba2e",
       "title": "Antenne Niedersachsen - Schützenfest Hits",
       "subtitle": "Radio",
@@ -34302,6 +34264,234 @@
       "clickCount": 4,
       "bitrate": 324,
       "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p5kobenhavn/masterab.m3u8"
+    },
+    {
+      "id": "sss_radio_ee_831764b9",
+      "title": "SSS-Radio",
+      "subtitle": "News",
+      "location": "Estonia",
+      "genre": "News",
+      "countryCode": "EE",
+      "language": "finnish",
+      "clickCount": 7,
+      "bitrate": 320,
+      "streamUrl": "https://uvn-67-97.tll01.zonevs.eu/sss-radio"
+    },
+    {
+      "id": "tagatuba_fm_ee_b663e522",
+      "title": "Tagatuba FM",
+      "subtitle": "Rock",
+      "location": "Estonia",
+      "genre": "Rock",
+      "countryCode": "EE",
+      "language": "estonian",
+      "clickCount": 7,
+      "bitrate": 320,
+      "streamUrl": "https://mcr.streams.gr:10416/stream"
+    },
+    {
+      "id": "xfm_eesti_ee_eb068ca4",
+      "title": "XFM Eesti",
+      "subtitle": "Dance",
+      "location": "Estonia",
+      "genre": "Dance",
+      "countryCode": "EE",
+      "language": "estonian",
+      "clickCount": 6,
+      "bitrate": 320,
+      "streamUrl": "https://sc2.treraadio.ee/xfm-tallinn"
+    },
+    {
+      "id": "retro_fm_eestikas_ee_d1d872fb",
+      "title": "Retro FM Eestikas",
+      "subtitle": "Adult Contemporary",
+      "location": "Estonia",
+      "genre": "Adult Contemporary",
+      "countryCode": "EE",
+      "language": "estonian",
+      "clickCount": 6,
+      "bitrate": 256,
+      "streamUrl": "https://stream.skymedia.ee/live/retro2.mp3"
+    },
+    {
+      "id": "elmari_ballaadid_ee_57d14ef8",
+      "title": "Elmari ballaadid",
+      "subtitle": "Balada",
+      "location": "Estonia",
+      "genre": "Balada",
+      "countryCode": "EE",
+      "language": "estonian",
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://le305.euddn.net/118f1571883cc5373ce1c85650d7da0165104ec74ff75963bb53fe08f2c7ba5c266ff45363659c6750f73ab3f9c9479e307f1262bee9b7b00bf654d09d9a4b6f813b198d68d6c74c31f350fbeac22a5f09b7a7ede28316e917fba3802098a8e73c5e601a87648b94874b72d4124cbea30f0f4999b7b074b1cc1cc7002f2b457f04196dea375d18628e82c94c91c4e0fe6252f7a5264d96fdb60937be3cbfacbea7fbd6d9547fa3817327d661d44e6f7bb2dba535395069e32de4ad5ee833639d/EB_elmariballaadid.aac"
+    },
+    {
+      "id": "radio_druzi_ee_4ade1c79",
+      "title": "Radio DRUZI",
+      "subtitle": "Culture",
+      "location": "Estonia",
+      "genre": "Culture",
+      "countryCode": "EE",
+      "language": "ukrainian",
+      "clickCount": 5,
+      "bitrate": 256,
+      "streamUrl": "https://stream.druzi.media/192mp3"
+    },
+    {
+      "id": "bigfm_ee_925a5364",
+      "title": "BIGfm",
+      "subtitle": "Hits",
+      "location": "Estonia",
+      "genre": "Hits",
+      "countryCode": "EE",
+      "language": "estonian",
+      "clickCount": 5,
+      "bitrate": 320,
+      "streamUrl": "https://sc2.flamebox.org/bigfm-hd"
+    },
+    {
+      "id": "xl_radio_estonia_ee_8de0f26b",
+      "title": "XL Radio Estonia",
+      "subtitle": "Club",
+      "location": "Estonia",
+      "genre": "Club",
+      "countryCode": "EE",
+      "language": "estonian",
+      "clickCount": 5,
+      "bitrate": 320,
+      "streamUrl": "https://stream.rcast.net/69794"
+    },
+    {
+      "id": "absolut_top_clubnight_mp3_de_109cec87",
+      "title": "Absolut Top ClubNight Mp3",
+      "subtitle": "Dance",
+      "location": "Germany",
+      "genre": "Dance",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://edge68.live-sm.absolutradio.de/absolut-clubnight/stream/mp3"
+    },
+    {
+      "id": "dein_schlager_radio_de_18dc2969",
+      "title": "Dein Schlager Radio",
+      "subtitle": "1980S",
+      "location": "Germany",
+      "genre": "1980S",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "http://rnrw.cast.addradio.de/rnrw-0185/deinschlager/high/stream.mp3"
+    },
+    {
+      "id": "radioeins_cottbus_de_0d9841d7",
+      "title": "RadioEins Cottbus",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 64,
+      "streamUrl": "http://d121.rndfnk.com/ard/rbb/radioeins/cottbus/mp3/48/stream.mp3?cid=01FC1WHFSFWTTWFW1PFXJBT2DY&sid=3LkVUB9eBPB2pIQemjveKNb8S1V&token=rs_2A6rBKi60LseIKvcWzRIl90VvI37rSImv76uYioY&tvf=mWFviWGj5RhkMTIxLnJuZGZuay5jb20"
+    },
+    {
+      "id": "antenne_niedersachsen_greatest_hits_de_d8c879b6",
+      "title": "Antenne Niedersachsen Greatest Hits",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "http://stream.antenne.com/greatesthits/mp3-192/linux/"
+    },
+    {
+      "id": "handwerker_radio_de_6f34469e",
+      "title": "Handwerker Radio",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://edge65.streamonkey.net/handwerkerradio-live/stream/mp3?aggregator=hwr-website"
+    },
+    {
+      "id": "secondradio_zwei_de_08c98f18",
+      "title": "SecondRadio ZWEI",
+      "subtitle": "80Er",
+      "location": "Germany",
+      "genre": "80Er",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "http://mirror.secondradio.de:7070/test?aggregator=FreieRadiosSachsen"
+    },
+    {
+      "id": "raadio_remix_ee_038930db",
+      "title": "Raadio REMIX",
+      "subtitle": "Alternative",
+      "location": "Estonia",
+      "genre": "Alternative",
+      "countryCode": "EE",
+      "language": "estonian",
+      "clickCount": 4,
+      "bitrate": 320,
+      "streamUrl": "https://stream.hostbee.nl:5740/stream"
+    },
+    {
+      "id": "druzi_ee_c7d16800",
+      "title": "Радіо DrUzi",
+      "subtitle": "Dance",
+      "location": "Estonia",
+      "genre": "Dance",
+      "countryCode": "EE",
+      "language": "ukrainian",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://druzi.fm:8443/192mp3"
+    },
+    {
+      "id": "chat_raadio_ee_78a9d2ef",
+      "title": "Chat Raadio",
+      "subtitle": "Dance",
+      "location": "Estonia",
+      "genre": "Dance",
+      "countryCode": "EE",
+      "language": "estonian",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://puma.streemlion.com:1830/stream"
+    },
+    {
+      "id": "nrj_estonia_ee_d6a1301f",
+      "title": "NRJ Estonia",
+      "subtitle": "Dance",
+      "location": "Estonia",
+      "genre": "Dance",
+      "countryCode": "EE",
+      "language": "estonian",
+      "clickCount": 4,
+      "bitrate": 320,
+      "streamUrl": "https://stream.skymedia.ee/live/NRJ"
+    },
+    {
+      "id": "radio_maximum_ee_002a877b",
+      "title": "Radio Maximum",
+      "subtitle": "Adult Contemporary",
+      "location": "Estonia",
+      "genre": "Adult Contemporary",
+      "countryCode": "EE",
+      "language": "russian",
+      "clickCount": 4,
+      "bitrate": 320,
+      "streamUrl": "https://stream.radiomaximum.ee/stream"
     }
   ]
 }

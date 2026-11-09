@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-08T04:27:07Z",
+  "updated": "2026-11-09T04:41:03Z",
   "region": "europe",
   "part": 4,
   "of": 8,
@@ -17567,19 +17567,6 @@
       "bitrate": 192
     },
     {
-      "id": "rb2_1431am_4fc1018e",
-      "title": "1431AM",
-      "subtitle": "Antifa News, Electronic",
-      "imageUrl": "https://www.1431am.org/wp-content/uploads/2021/12/logo-full-gr-white-site.png",
-      "streamUrl": "https://www.1431am.org:8001/1431high",
-      "location": "Thessaloniki, Greece",
-      "genre": "Antifa News",
-      "countryCode": "GR",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 192
-    },
-    {
       "id": "1o_gr",
       "title": "1o Ερασιτεχνικό Πρόγραμμα Γαργαλιάνων",
       "subtitle": "Greek Folk Music",
@@ -26761,18 +26748,6 @@
       "streamUrl": "https://stream.zeno.fm/nxb2dpmmhm8uv"
     },
     {
-      "id": "all_india_radio_news_24x7_in_eeeed976",
-      "title": "All India Radio News 24X7",
-      "subtitle": "Radio",
-      "location": "India",
-      "genre": "Radio",
-      "countryCode": "IN",
-      "language": "hindi",
-      "clickCount": 29,
-      "bitrate": 32,
-      "streamUrl": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio002/hlspbaudio002_Auto.m3u8"
-    },
-    {
       "id": "laikinota_gr_5ee027c8",
       "title": "LaikiNota",
       "subtitle": "Laika",
@@ -27025,18 +27000,6 @@
       "streamUrl": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio004/hlspbaudio004_Auto.m3u8"
     },
     {
-      "id": "air_indore_in_c5fc105c",
-      "title": "AIR Indore",
-      "subtitle": "Infotainment",
-      "location": "India",
-      "genre": "Infotainment",
-      "countryCode": "IN",
-      "language": "english",
-      "clickCount": 7,
-      "bitrate": 71,
-      "streamUrl": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio212/playlist.m3u8"
-    },
-    {
       "id": "dromos_89_8_gr_230c0f03",
       "title": "Dromos 89,8",
       "subtitle": "Greek Music",
@@ -27059,18 +27022,6 @@
       "clickCount": 6,
       "bitrate": 128,
       "streamUrl": "http://play.streams.gr:22058/live"
-    },
-    {
-      "id": "air_bhopal_in_3ff59dd2",
-      "title": "AIR bhopal",
-      "subtitle": "Radio",
-      "location": "India",
-      "genre": "Radio",
-      "countryCode": "IN",
-      "language": "hindi",
-      "clickCount": 6,
-      "bitrate": 0,
-      "streamUrl": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio212/chunklist.m3u8"
     },
     {
       "id": "hindiretro_in_f0b8f868",
@@ -27947,6 +27898,66 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://my.ssl-stream.com/Suvidha_Radio"
+    },
+    {
+      "id": "all_india_radio_news_24x7_in_eeeed976",
+      "title": "All India Radio News 24X7",
+      "subtitle": "Infotainment",
+      "location": "India",
+      "genre": "Infotainment",
+      "countryCode": "IN",
+      "language": "hindi",
+      "clickCount": 43,
+      "bitrate": 32,
+      "streamUrl": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio002/hlspbaudio002_Auto.m3u8"
+    },
+    {
+      "id": "station_gr_ce95682d",
+      "title": "Ράδιο Πειρατής",
+      "subtitle": "Greek Folk",
+      "location": "Greece",
+      "genre": "Greek Folk",
+      "countryCode": "GR",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://eu10.fastcast4u.com:11240/stream"
+    },
+    {
+      "id": "pao_radio_gr_84c80427",
+      "title": "PAO Radio",
+      "subtitle": "Rock",
+      "location": "Greece",
+      "genre": "Rock",
+      "countryCode": "GR",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 64,
+      "streamUrl": "https://s32.radiolize.com:8010/radio.mp3?t=1794158757424"
+    },
+    {
+      "id": "top_fm_gr_332654d1",
+      "title": "Πειραιάς Top  FM",
+      "subtitle": "Greek Pop",
+      "location": "Greece",
+      "genre": "Greek Pop",
+      "countryCode": "GR",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 320,
+      "streamUrl": "https://stream.peiraiasfm.com/stream"
+    },
+    {
+      "id": "sirios_95_8_gr_ea468974",
+      "title": "Sirios 95.8",
+      "subtitle": "Greek Music",
+      "location": "Greece",
+      "genre": "Greek Music",
+      "countryCode": "GR",
+      "language": "greek",
+      "clickCount": 4,
+      "bitrate": 256,
+      "streamUrl": "https://sp1.19cloudsnetwork.gr/8006/stream"
     }
   ]
 }

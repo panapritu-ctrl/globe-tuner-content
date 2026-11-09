@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-08T04:27:07Z",
+  "updated": "2026-11-09T04:41:03Z",
   "region": "asia",
   "part": 3,
   "of": 3,
@@ -10284,19 +10284,6 @@
       "bitrate": 277
     },
     {
-      "id": "rb2_powerturk_c143d7ad",
-      "title": "powerturk",
-      "subtitle": "Pop",
-      "imageUrl": "",
-      "streamUrl": "https://live.powerapp.com.tr/powerturk/abr/playlist.m3u8",
-      "location": "Türkiye",
-      "genre": "Pop",
-      "countryCode": "TR",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 277
-    },
-    {
       "id": "rb2_radio_megasite_268cc697",
       "title": "radio Megasite",
       "subtitle": "Music",
@@ -14385,18 +14372,6 @@
       "streamUrl": "https://cdn-edge.iiptvcdn.com/radio_edge/45d4-d521-cbfc-d686-0123/playlist.m3u8"
     },
     {
-      "id": "mcbs_tw_14d1f9f7",
-      "title": "MCBS 銘傳廣播電台",
-      "subtitle": "Full Service",
-      "location": "Taiwan, Republic Of China",
-      "genre": "Full Service",
-      "countryCode": "TW",
-      "language": "chinese",
-      "clickCount": 3,
-      "bitrate": 128,
-      "streamUrl": "http://radio.mcu.edu.tw:8080/radio?1747274117052"
-    },
-    {
       "id": "factbusters_radio_ph_5cabbc33",
       "title": "FactBusters Radio",
       "subtitle": "Radio",
@@ -17659,6 +17634,66 @@
       "clickCount": 4,
       "bitrate": 3128,
       "streamUrl": "https://cdn-edge.iiptvcdn.com/live_event/smil:98ff-027d-46aa-1a6a-8480.smil/playlist.m3u8?null"
+    },
+    {
+      "id": "powerturk_tr_de03d105",
+      "title": "powerturk",
+      "subtitle": "Pop",
+      "location": "Türkiye",
+      "genre": "Pop",
+      "countryCode": "TR",
+      "language": null,
+      "clickCount": 23,
+      "bitrate": 277,
+      "streamUrl": "https://live.powerapp.com.tr/powerturk/abr/playlist.m3u8"
+    },
+    {
+      "id": "mars_fm_uzbekistan_uz_03aca3a0",
+      "title": "Mars FM Uzbekistan",
+      "subtitle": "Music",
+      "location": "Uzbekistan",
+      "genre": "Music",
+      "countryCode": "UZ",
+      "language": "uzbek",
+      "clickCount": 7,
+      "bitrate": 192,
+      "streamUrl": "https://marsfm.uz/stream.php"
+    },
+    {
+      "id": "ifm_roxas_ph_d5fcf83e",
+      "title": "iFM Roxas",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 96,
+      "streamUrl": "https://livestream.rmn.ph/ifmroxas"
+    },
+    {
+      "id": "ifm_dagupan_ph_d74ed43a",
+      "title": "iFM Dagupan",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 96,
+      "streamUrl": "http://livestream.rmn.ph:8000/ifmdagupan"
+    },
+    {
+      "id": "vybe_103_5_th_4be68bba",
+      "title": "VYBE 103.5 ลำปาง",
+      "subtitle": "Radio",
+      "location": "Thailand",
+      "genre": "Radio",
+      "countryCode": "TH",
+      "language": "thai",
+      "clickCount": 5,
+      "bitrate": 320,
+      "streamUrl": "https://radio9.plathong.net/7076"
     }
   ]
 }

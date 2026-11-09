@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-08T04:27:07Z",
+  "updated": "2026-11-09T04:41:04Z",
   "region": "europe",
   "part": 1,
   "of": 8,
@@ -16240,19 +16240,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_radio_depeche_mode_961d4a91",
-      "title": "Radio Depeche Mode",
-      "subtitle": "Radio",
-      "imageUrl": "https://radia.cz/media/images/0001/01/thumb_246_images_w200.png",
-      "streamUrl": "http://mp3stream4.abradio.cz/depeche128.mp3",
-      "location": "Czechia",
-      "genre": "Radio",
-      "countryCode": "CZ",
-      "language": "czech",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_radio_folk_2111400a",
       "title": "Radio Folk",
       "subtitle": "Czech Folk Music, Folk",
@@ -26230,18 +26217,6 @@
       "streamUrl": "https://icecast8.play.cz/classic128.mp3"
     },
     {
-      "id": "freirad_at_1a14e475",
-      "title": "FREIRAD",
-      "subtitle": "Radio",
-      "location": "Austria",
-      "genre": "Radio",
-      "countryCode": "AT",
-      "language": null,
-      "clickCount": 3,
-      "bitrate": 64,
-      "streamUrl": "https://stream.freirad.at/live.mp3"
-    },
-    {
       "id": "fusion7_bg_14c09a25",
       "title": "Fusion7",
       "subtitle": "Radio",
@@ -32662,18 +32637,6 @@
       "streamUrl": "https://radio.das.pub/stream.mp3"
     },
     {
-      "id": "ora_news_al_fb65a00b",
-      "title": "Ora News",
-      "subtitle": "News",
-      "location": "Albania",
-      "genre": "News",
-      "countryCode": "AL",
-      "language": "albanian",
-      "clickCount": 5,
-      "bitrate": 0,
-      "streamUrl": "https://live1.mediadesk.al/oranews.m3u8"
-    },
-    {
       "id": "radio_1_al_224445dd",
       "title": "Radio 1",
       "subtitle": "Education",
@@ -33980,6 +33943,198 @@
       "clickCount": 5,
       "bitrate": 0,
       "streamUrl": "https://streams.radiobob.de/bob-christmas/mp3-128"
+    },
+    {
+      "id": "radio_tirana_3_al_826c584f",
+      "title": "Radio Tirana 3",
+      "subtitle": "Folk",
+      "location": "Albania",
+      "genre": "Folk",
+      "countryCode": "AL",
+      "language": "albanian",
+      "clickCount": 5,
+      "bitrate": 96,
+      "streamUrl": "http://79.106.48.2:8000/radiotirana3"
+    },
+    {
+      "id": "kronehit_dance_de_2149181d",
+      "title": "Kronehit Dance",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://kronehit.streamabc.net/50-fschannel39-aac-128-3397335"
+    },
+    {
+      "id": "xmasfm_de_5a8c2491",
+      "title": "XmasFM",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://xmasfm.stream.laut.fm/xmasfm"
+    },
+    {
+      "id": "hit_radio_ffh_nordhessen_de_aaec80a3",
+      "title": "HIT RADIO FFH Nordhessen",
+      "subtitle": "Pop",
+      "location": "Germany",
+      "genre": "Pop",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://mp3.ffh.de/radioffh/hqlivestream-nordhessen.mp3"
+    },
+    {
+      "id": "schlagermania_de_22b85d07",
+      "title": "Schlagermania",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://0-24schlagermania.stream.laut.fm/0-24schlagermania"
+    },
+    {
+      "id": "pulse_fm_al_ccd8699f",
+      "title": "Pulse FM",
+      "subtitle": "Dance",
+      "location": "Albania",
+      "genre": "Dance",
+      "countryCode": "AL",
+      "language": "albanian",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://onair.pulsefm.cloud/listen/pulsefm/pulsefm"
+    },
+    {
+      "id": "radio_club_bar_bit_al_2d441cd5",
+      "title": "Radio Club Bar Bit",
+      "subtitle": "Dance",
+      "location": "Albania",
+      "genre": "Dance",
+      "countryCode": "AL",
+      "language": "albanian",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://cp1.sednastream.com/proxy/clubbit/stream"
+    },
+    {
+      "id": "radio_logos_mk_al_74ffe208",
+      "title": "Radio Logos MK",
+      "subtitle": "Christian",
+      "location": "Albania",
+      "genre": "Christian",
+      "countryCode": "AL",
+      "language": "macedonian",
+      "clickCount": 4,
+      "bitrate": 64,
+      "streamUrl": "https://s2.stationplaylist.com:9280/macedonia.aac"
+    },
+    {
+      "id": "radio_postaja_odzak_ba_483bf16f",
+      "title": "Radio Postaja Odzak",
+      "subtitle": "Classic Rock",
+      "location": "Bosnia And Herzegovina",
+      "genre": "Classic Rock",
+      "countryCode": "BA",
+      "language": "bosnian",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream.rcast.net/70602"
+    },
+    {
+      "id": "fluxfm_electronic_chillout_64k_mp3_de_4e107151",
+      "title": "FluxFM Electronic Chillout | 64k MP3",
+      "subtitle": "Contemporary",
+      "location": "Germany",
+      "genre": "Contemporary",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://fluxmusic.api.radiosphere.io/channels/electronic-chillout/stream.mp3?quality=1"
+    },
+    {
+      "id": "radio_mixtape_schlager_de_1b267ea4",
+      "title": "Radio Mixtape - Schlager",
+      "subtitle": "Schlager",
+      "location": "Germany",
+      "genre": "Schlager",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://mixtape.cast.addradio.de/mixtape/schlager/high/stream.mp3"
+    },
+    {
+      "id": "darklupu_laut_fm_de_041066c0",
+      "title": "Darklupu Laut.fm",
+      "subtitle": "Gothic",
+      "location": "Germany",
+      "genre": "Gothic",
+      "countryCode": "DE",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://darklupu.stream.laut.fm/darklupu"
+    },
+    {
+      "id": "g_ssjer_fm_de_76371773",
+      "title": "Gässjer FM",
+      "subtitle": "Culture",
+      "location": "Germany",
+      "genre": "Culture",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://smalltownradio.de:8000/gaessjerfm.mp3"
+    },
+    {
+      "id": "bfx_club_meets_indie_de_cb1b94cd",
+      "title": "BFX – CLUB MEETS INDIE",
+      "subtitle": "Alternative",
+      "location": "Germany",
+      "genre": "Alternative",
+      "countryCode": "DE",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://frontend.stream.playbfx.live/fho-bfx/stream/mp3?aggregator=radio-browser.info"
+    },
+    {
+      "id": "metropol_fm_nrw_de_6032bdd2",
+      "title": "Metropol FM (NRW)",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://metropolfm.streamabc.net/77-mfmnrw-mp3-256-9545414?sABC=69n83sp1%230%23759014699s404754o2p8p1q4q62r578p%23enqvbfcurer&aw_0_1st.playerid=radiosphere&amsparams=playerid:radiosphere;skey:1772634049"
+    },
+    {
+      "id": "news_89_4_de_cb562746",
+      "title": "NEWS 89,4",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": "deutch",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "http://mp3.news894.c.nmdn.net/news894/livestream.mp3"
     }
   ]
 }

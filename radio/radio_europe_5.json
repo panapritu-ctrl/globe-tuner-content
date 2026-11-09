@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-08T04:27:07Z",
+  "updated": "2026-11-09T04:41:04Z",
   "region": "europe",
   "part": 5,
   "of": 8,
@@ -8699,19 +8699,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_station_c00629e7",
-      "title": "Μεθόριος",
-      "subtitle": "Greek Music",
-      "imageUrl": "https://resources.live24.gr/resources/images/stations/a5c47799-b115-4944-a14a-90a4d359caf6.png",
-      "streamUrl": "https://sc2.streamwithq.com:2000/stream/radiomethorios/stream",
-      "location": "Orestiada, Greece",
-      "genre": "Greek Music",
-      "countryCode": "GR",
-      "language": "greek",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_101_1_7b2c992e",
       "title": "Μελωδία 101.1",
       "subtitle": "Folk, Greek",
@@ -14288,19 +14275,6 @@
       "language": "hungarian",
       "clickCount": 1,
       "bitrate": 80
-    },
-    {
-      "id": "rb2_mr8_duna_world_r_di_b75923d4",
-      "title": "MR8 - Duna World Rádió",
-      "subtitle": "News, Public Radio",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/hu/5/56/DW_radio.png",
-      "streamUrl": "https://mr-stream.connectmedia.hu/4761/dwr.mp3",
-      "location": "Hungary",
-      "genre": "News",
-      "countryCode": "HU",
-      "language": "hungarian",
-      "clickCount": 0,
-      "bitrate": 40
     },
     {
       "id": "rb2_magic_disco_radio_c8d5fb09",
@@ -26112,18 +26086,6 @@
       "streamUrl": "http://144.76.219.22:8215/stream.mp3"
     },
     {
-      "id": "r_di_x_hu_6025bea5",
-      "title": "RádióX",
-      "subtitle": "Radio",
-      "location": "Hungary",
-      "genre": "Radio",
-      "countryCode": "HU",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 128,
-      "streamUrl": "https://stream.phost.hu:8002/stream2"
-    },
-    {
       "id": "fm104_ie_48393437",
       "title": "FM104",
       "subtitle": "Radio",
@@ -27396,18 +27358,6 @@
       "streamUrl": "https://app.aloncast.com/api/stream/retro-hitz-cb6975"
     },
     {
-      "id": "radio_ciccio_riccio_it_d00ba74b",
-      "title": "Radio Ciccio Riccio",
-      "subtitle": "Varied",
-      "location": "Italy",
-      "genre": "Varied",
-      "countryCode": "IT",
-      "language": "italian",
-      "clickCount": 5,
-      "bitrate": 0,
-      "streamUrl": "https://stream5.xdevel.com/audio0s975942-758/stream/icecast.audio"
-    },
-    {
       "id": "united_music_progressive_house_it_69c312c2",
       "title": "United Music Progressive House",
       "subtitle": "Progressive House",
@@ -27946,6 +27896,42 @@
       "clickCount": 4,
       "bitrate": 192,
       "streamUrl": "https://free.rcast.net/200701"
+    },
+    {
+      "id": "lolli_dance_it_c64b2f93",
+      "title": "Lolli Dance",
+      "subtitle": "Radio",
+      "location": "Italy",
+      "genre": "Radio",
+      "countryCode": "IT",
+      "language": null,
+      "clickCount": 8,
+      "bitrate": 0,
+      "streamUrl": "https://stream.lolliradio.net/lolli_dance.mp3?FLID=8&amp;aw_0_req.gdpr=true&amp;type=.mp3"
+    },
+    {
+      "id": "storm_north_east_ireland_ie_0c19e92c",
+      "title": "Storm North East Ireland",
+      "subtitle": "Radio",
+      "location": "Ireland",
+      "genre": "Radio",
+      "countryCode": "IE",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://stormnortheast.com:8443/storm"
+    },
+    {
+      "id": "fm_italia_it_52ece4e9",
+      "title": "FM Italia",
+      "subtitle": "Adult Contemporary",
+      "location": "Italy",
+      "genre": "Adult Contemporary",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "http://onair7.xdevel.com:8700/;stream.nsv"
     }
   ]
 }

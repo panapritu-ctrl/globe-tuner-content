@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-08T04:27:07Z",
+  "updated": "2026-11-09T04:41:03Z",
   "region": "americas",
   "part": 1,
   "of": 5,
@@ -14437,19 +14437,6 @@
       "bitrate": 32
     },
     {
-      "id": "rb2_radio_trans_mundial_df804611",
-      "title": "Radio Trans Mundial",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://video.midiaserverbr.com:3975/live/rtmbrlive.m3u8",
-      "location": "São Paulo Braszil, Brazil",
-      "genre": "Radio",
-      "countryCode": "BR",
-      "language": "brazilian portuguese",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_radio_tupa_fm_e65a0663",
       "title": "Radio Tupa FM",
       "subtitle": "Radio",
@@ -25873,18 +25860,6 @@
       "streamUrl": "https://player.g2play.com.br/proxy/27362"
     },
     {
-      "id": "gazeta_fm_1_br_1db4a100",
-      "title": "gazeta FM 1",
-      "subtitle": "Radio",
-      "location": "Brazil",
-      "genre": "Radio",
-      "countryCode": "BR",
-      "language": null,
-      "clickCount": 3,
-      "bitrate": 128,
-      "streamUrl": "https://gazetafmsite.crossradio.com.br:19878/stream/1;"
-    },
-    {
       "id": "r_dio_up_100_1_fm_vitoria_da_conquista_br_357fcb86",
       "title": "Rádio UP 100.1 FM Vitoria da Conquista",
       "subtitle": "Radio",
@@ -27083,18 +27058,6 @@
       "clickCount": 3,
       "bitrate": 48,
       "streamUrl": "https://server02.ouvir.radio.br:8003/stream"
-    },
-    {
-      "id": "cfny_102_1_the_edge_toronto_on_mp3_ca_2916ff27",
-      "title": "CFNY 102.1 \"The Edge\" Toronto, ON (MP3)",
-      "subtitle": "Commercial",
-      "location": "Canada",
-      "genre": "Commercial",
-      "countryCode": "CA",
-      "language": "english",
-      "clickCount": 10,
-      "bitrate": 128,
-      "streamUrl": "http://live.leanstream.co/CFNYFM-MP3"
     },
     {
       "id": "r_dio_maristela_br_30194272",
@@ -28391,6 +28354,126 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://stream.zeno.fm/sczeexhc1eruv"
+    },
+    {
+      "id": "cfny_102_1_the_edge_toronto_on_mp3_ca_2916ff27",
+      "title": "CFNY 102.1 \"The Edge\" Toronto, ON (MP3)",
+      "subtitle": "Commercial",
+      "location": "Canada",
+      "genre": "Commercial",
+      "countryCode": "CA",
+      "language": "english",
+      "clickCount": 12,
+      "bitrate": 128,
+      "streamUrl": "http://live.leanstream.co/CFNYFM-MP3"
+    },
+    {
+      "id": "unitins_fm_br_e66fcfcb",
+      "title": "Unitins FM",
+      "subtitle": "Radio",
+      "location": "Brazil",
+      "genre": "Radio",
+      "countryCode": "BR",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://live.unitins.br/"
+    },
+    {
+      "id": "canal_26_ar_7d5a95c8",
+      "title": "canal 26",
+      "subtitle": "World News",
+      "location": "Argentina",
+      "genre": "World News",
+      "countryCode": "AR",
+      "language": "castellano. español",
+      "clickCount": 4,
+      "bitrate": 211,
+      "streamUrl": "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8"
+    },
+    {
+      "id": "rock_and_pop_tucum_n_106_9_fm_ar_ddff3835",
+      "title": "Rock and Pop Tucumán 106.9 FM",
+      "subtitle": "Radio",
+      "location": "Argentina",
+      "genre": "Radio",
+      "countryCode": "AR",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://streaming.tucumanradio.com.ar:7066/stream"
+    },
+    {
+      "id": "cienradios_80s_internacional_ar_1ffd120c",
+      "title": "Cienradios - 80s Internacional",
+      "subtitle": "Classic Hits 80S",
+      "location": "Argentina",
+      "genre": "Classic Hits 80S",
+      "countryCode": "AR",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://26643.live.streamtheworld.com/80INTERNACIONAL_PYTAAC.aac?"
+    },
+    {
+      "id": "cienradios_new_age_ar_e2cb51e7",
+      "title": "Cienradios - New Age",
+      "subtitle": "New Age",
+      "location": "Argentina",
+      "genre": "New Age",
+      "countryCode": "AR",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 96,
+      "streamUrl": "https://24223.live.streamtheworld.com/NEWAGE_PYTAAC.aac?"
+    },
+    {
+      "id": "activa_fm_93_5_ar_769d0c97",
+      "title": "Activa FM 93.5",
+      "subtitle": "Entretenimiento",
+      "location": "Argentina",
+      "genre": "Entretenimiento",
+      "countryCode": "AR",
+      "language": "spanish",
+      "clickCount": 4,
+      "bitrate": 32,
+      "streamUrl": "https://streaming5.locucionar.com/proxy/activafm?mp=/stream"
+    },
+    {
+      "id": "metropolitana_fm_97_7_macei_br_55ba02d7",
+      "title": "Metropolitana FM 97,7 Maceió",
+      "subtitle": "Pop Rock Popular",
+      "location": "Brazil",
+      "genre": "Pop Rock Popular",
+      "countryCode": "BR",
+      "language": "pt-br",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://streaming.livespanel.com:8032/maceiofm"
+    },
+    {
+      "id": "trash_br_ebe724bc",
+      "title": "TRASH",
+      "subtitle": "Brasil",
+      "location": "Brazil",
+      "genre": "Brasil",
+      "countryCode": "BR",
+      "language": "portuguese",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "http://168.138.140.195:9000/nexo_e5a53aae88cb41359480915ab4c730ed.mp3"
+    },
+    {
+      "id": "93_fm_foz_br_ea943a2f",
+      "title": "93 FM Foz",
+      "subtitle": "Brasil",
+      "location": "Brazil",
+      "genre": "Brasil",
+      "countryCode": "BR",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://radio02.zas.media/proxy/fozdoiguacu93/stream"
     }
   ]
 }

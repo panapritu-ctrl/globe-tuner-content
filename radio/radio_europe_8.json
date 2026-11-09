@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-08T04:27:07Z",
+  "updated": "2026-11-09T04:41:03Z",
   "region": "europe",
   "part": 8,
   "of": 8,
@@ -9450,19 +9450,6 @@
       "countryCode": "RU",
       "language": "russian",
       "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_station_8ec43579",
-      "title": "Маруся ФМ",
-      "subtitle": "Танцевальная Музыка",
-      "imageUrl": "",
-      "streamUrl": "https://listen.vdfm.ru:8000/marusya",
-      "location": "The Russian Federation",
-      "genre": "Танцевальная Музыка",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 6,
       "bitrate": 128
     },
     {
@@ -24552,18 +24539,6 @@
       "streamUrl": "http://91.203.4.121:8000/stream160"
     },
     {
-      "id": "station_ru_3c868601",
-      "title": "Радио дача",
-      "subtitle": "Radio",
-      "location": "The Russian Federation",
-      "genre": "Radio",
-      "countryCode": "RU",
-      "language": "язык: русский",
-      "clickCount": 22,
-      "bitrate": 128,
-      "streamUrl": "http://listen13.vdfm.ru:8000/dacha"
-    },
-    {
       "id": "sade_ru_1feedd91",
       "title": "Sade",
       "subtitle": "Discography",
@@ -24900,18 +24875,6 @@
       "streamUrl": "https://radio.ukr.radio/ur5-aacplus-l"
     },
     {
-      "id": "anima_amoris_minimal_deep_techno_ru_dbc08017",
-      "title": "Anima Amoris Minimal Deep Techno",
-      "subtitle": "Minimal",
-      "location": "The Russian Federation",
-      "genre": "Minimal",
-      "countryCode": "RU",
-      "language": null,
-      "clickCount": 6,
-      "bitrate": 0,
-      "streamUrl": "https://amoris.sknt.ru/minimal.mp3"
-    },
-    {
       "id": "radio_caprice_power_metal_ru_4201092d",
       "title": "Radio Caprice - Power Metal",
       "subtitle": "Heavy Metal",
@@ -24946,18 +24909,6 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "http://jfm1.hostingradio.ru:14536/rock90.mp3"
-    },
-    {
-      "id": "rock_irk_ru_main_mix_ru_1dac1b1a",
-      "title": "rock.irk.ru :: main-mix",
-      "subtitle": "Acoustic",
-      "location": "The Russian Federation",
-      "genre": "Acoustic",
-      "countryCode": "RU",
-      "language": "english",
-      "clickCount": 4,
-      "bitrate": 35,
-      "streamUrl": "https://live.rock.irk.ru/hls/main-mix/live.m3u8"
     },
     {
       "id": "anima_amoris_deep_tech_house_ru_1c9bcb95",
@@ -25138,18 +25089,6 @@
       "clickCount": 5,
       "bitrate": 192,
       "streamUrl": "https://radio.lyubimyehity.ru:1045/stream"
-    },
-    {
-      "id": "retreat_radio_se_f88c583f",
-      "title": "Retreat Radio",
-      "subtitle": "Electronic",
-      "location": "Sweden",
-      "genre": "Electronic",
-      "countryCode": "SE",
-      "language": null,
-      "clickCount": 5,
-      "bitrate": 192,
-      "streamUrl": "http://retreatradio.out.airtime.pro:8000/retreatradio_b"
     },
     {
       "id": "256kbps_ru_1b01340e",
@@ -25428,18 +25367,6 @@
       "streamUrl": "https://audio.gtaradio.net/4/k109_the_studio"
     },
     {
-      "id": "retro_ua_30626fc2",
-      "title": "Радіо Київстар Retro",
-      "subtitle": "256 Kbit/S",
-      "location": "Ukraine",
-      "genre": "256 Kbit/S",
-      "countryCode": "UA",
-      "language": "ukranian",
-      "clickCount": 5,
-      "bitrate": 281,
-      "streamUrl": "https://radio.kyivstar.ua/stream/retromusic/master.m3u8"
-    },
-    {
       "id": "get_radio_ru_5e8ce758",
       "title": "get.radio — Джаз (Русский)",
       "subtitle": "Jazz",
@@ -25486,30 +25413,6 @@
       "clickCount": 7,
       "bitrate": 0,
       "streamUrl": "https://mml1.prostream.se/listen/90s_rewind/radio.mp3"
-    },
-    {
-      "id": "edm_se_e5729408",
-      "title": "EDM",
-      "subtitle": "Dance",
-      "location": "Sweden",
-      "genre": "Dance",
-      "countryCode": "SE",
-      "language": "english",
-      "clickCount": 7,
-      "bitrate": 0,
-      "streamUrl": "https://mml2.prostream.se/listen/edm_/radio.mp3"
-    },
-    {
-      "id": "back_to_the_80s_se_e4886873",
-      "title": "Back to the 80s",
-      "subtitle": "80S",
-      "location": "Sweden",
-      "genre": "80S",
-      "countryCode": "SE",
-      "language": "english",
-      "clickCount": 6,
-      "bitrate": 0,
-      "streamUrl": "https://mml1.prostream.se/listen/back_to_the_80s/radio.mp3"
     },
     {
       "id": "sector_space_ru_e3519012",
@@ -25942,6 +25845,90 @@
       "clickCount": 4,
       "bitrate": 95,
       "streamUrl": "https://stream.bauermedia.sk/fitness-hi.aac"
+    },
+    {
+      "id": "station_ru_cbe3c545",
+      "title": "Маруся ФМ",
+      "subtitle": "Танцевальная Музыка",
+      "location": "The Russian Federation",
+      "genre": "Танцевальная Музыка",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 19,
+      "bitrate": 128,
+      "streamUrl": "https://listen.vdfm.ru:8000/marusya"
+    },
+    {
+      "id": "station_ua_b47dc0b8",
+      "title": "Українські хіти",
+      "subtitle": "Ukrainian",
+      "location": "Ukraine",
+      "genre": "Ukrainian",
+      "countryCode": "UA",
+      "language": "ukrainian",
+      "clickCount": 11,
+      "bitrate": 192,
+      "streamUrl": "https://radio.dobreff.com/ukraine.mp3"
+    },
+    {
+      "id": "station_ru_919b491b",
+      "title": "Гражданская оборона",
+      "subtitle": "Radio",
+      "location": "The Russian Federation",
+      "genre": "Radio",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 8,
+      "bitrate": 0,
+      "streamUrl": "https://stream03.pcradio.app/Grazhdanskaja_oborona-hi.aac"
+    },
+    {
+      "id": "gta_iv_vice_city_fm_gtaradio_net_ru_4183c428",
+      "title": "[GTA IV] Vice City FM [GTARadio.net]",
+      "subtitle": "80S",
+      "location": "The Russian Federation",
+      "genre": "80S",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 8,
+      "bitrate": 128,
+      "streamUrl": "https://audio.gtaradio.net/4/vcfm"
+    },
+    {
+      "id": "anima_amoris_minimal_deep_techno_ru_dbc08017",
+      "title": "Anima Amoris Minimal Deep Techno",
+      "subtitle": "Minimal",
+      "location": "The Russian Federation",
+      "genre": "Minimal",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 7,
+      "bitrate": 0,
+      "streamUrl": "https://amoris.sknt.ru/minimal.mp3"
+    },
+    {
+      "id": "rock_irk_ru_main_mix_ru_1dac1b1a",
+      "title": "rock.irk.ru :: main-mix",
+      "subtitle": "Acoustic",
+      "location": "The Russian Federation",
+      "genre": "Acoustic",
+      "countryCode": "RU",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 35,
+      "streamUrl": "https://live.rock.irk.ru/hls/main-mix/live.m3u8"
+    },
+    {
+      "id": "radio_skovoroda_ua_9769c427",
+      "title": "Radio Skovoroda",
+      "subtitle": "Skovoroda",
+      "location": "Ukraine",
+      "genre": "Skovoroda",
+      "countryCode": "UA",
+      "language": "ukrainian",
+      "clickCount": 5,
+      "bitrate": 320,
+      "streamUrl": "http://stream.radioskovoroda.com:8000/radioskovoroda"
     }
   ]
 }

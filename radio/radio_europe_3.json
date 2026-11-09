@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-08T04:27:06Z",
+  "updated": "2026-11-09T04:41:04Z",
   "region": "europe",
   "part": 3,
   "of": 8,
@@ -27250,6 +27250,66 @@
       "clickCount": 4,
       "bitrate": 135,
       "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/audio_syndication_med_sbr_v1/aks/bbc_radio_five_sports_extra_3.m3u8"
+    },
+    {
+      "id": "kizrock_m_tal_fr_dbc2c255",
+      "title": "Kizrock Métal",
+      "subtitle": "Radio",
+      "location": "France",
+      "genre": "Radio",
+      "countryCode": "FR",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://go.2stream.net/kizrock_metal"
+    },
+    {
+      "id": "radio_aix_fr_3c4a92b0",
+      "title": "Radio Aix",
+      "subtitle": "Radio",
+      "location": "France",
+      "genre": "Radio",
+      "countryCode": "FR",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 320,
+      "streamUrl": "https://puma.streemlion.com:1125/stream"
+    },
+    {
+      "id": "london_cool_gb_f6bab9bc",
+      "title": "London Cool",
+      "subtitle": "Radio",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Radio",
+      "countryCode": "GB",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "http://stream.radio-calico.com:8080/calico.mp3"
+    },
+    {
+      "id": "one_fm_es_24669aa5",
+      "title": "ONE FM",
+      "subtitle": "Dance",
+      "location": "Spain",
+      "genre": "Dance",
+      "countryCode": "ES",
+      "language": "spanish",
+      "clickCount": 4,
+      "bitrate": 320,
+      "streamUrl": "https://stream.onefm.es/listen/one_fm/onefm.mp3"
+    },
+    {
+      "id": "lomond_radio_gb_147a0c74",
+      "title": "Lomond Radio",
+      "subtitle": "Classic Hits",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Classic Hits",
+      "countryCode": "GB",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "http://ukwesta.streaming.broadcast.radio:17210/lomondradio"
     }
   ]
 }
