@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-09T04:41:04Z",
+  "updated": "2026-11-10T06:01:20Z",
   "region": "europe",
   "part": 1,
   "of": 8,
@@ -15295,19 +15295,6 @@
       "countryCode": "CZ",
       "language": null,
       "clickCount": 2,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_dance_club_fm_d82146be",
-      "title": "Dance Club FM",
-      "subtitle": "Dance",
-      "imageUrl": "",
-      "streamUrl": "http://mp3stream4.abradio.cz/dance128.mp3",
-      "location": "Prague, Czechia",
-      "genre": "Dance",
-      "countryCode": "CZ",
-      "language": "czech",
-      "clickCount": 1,
       "bitrate": 128
     },
     {
@@ -32709,18 +32696,6 @@
       "streamUrl": "https://liveradio.swr.de/sw282p3/swr4rp/"
     },
     {
-      "id": "br_bayern_4_klassik_de_48b42f38",
-      "title": "BR Bayern 4 Klassik",
-      "subtitle": "Radio",
-      "location": "Germany",
-      "genre": "Radio",
-      "countryCode": "DE",
-      "language": null,
-      "clickCount": 12,
-      "bitrate": 0,
-      "streamUrl": "http://streams.br.de/br-klassik_2.m3u"
-    },
-    {
       "id": "80s80s_synthiepop_de_7a892773",
       "title": "80s80s Synthiepop",
       "subtitle": "Radio",
@@ -34135,6 +34110,162 @@
       "clickCount": 4,
       "bitrate": 192,
       "streamUrl": "http://mp3.news894.c.nmdn.net/news894/livestream.mp3"
+    },
+    {
+      "id": "br_bayern_4_klassik_de_48b42f38",
+      "title": "BR Bayern 4 Klassik",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 7,
+      "bitrate": 0,
+      "streamUrl": "http://streams.br.de/br-klassik_2.m3u"
+    },
+    {
+      "id": "mdr_klassik_aac_de_9d51d9b4",
+      "title": "MDR Klassik (AAC)",
+      "subtitle": "Classical",
+      "location": "Germany",
+      "genre": "Classical",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "http://mdr-284350-0.sslcast.mdr.de/mdr/284350/0/mp3/high/stream.mp3"
+    },
+    {
+      "id": "laut_fm_smooth_jazz_instrumental_de_1fff99d1",
+      "title": "laut.fm Smooth Jazz Instrumental",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://stream.laut.fm/smooth-jazz"
+    },
+    {
+      "id": "ora_news_al_fb65a00b",
+      "title": "Ora News",
+      "subtitle": "News",
+      "location": "Albania",
+      "genre": "News",
+      "countryCode": "AL",
+      "language": "albanian",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://live1.mediadesk.al/oranews.m3u8"
+    },
+    {
+      "id": "esc_radio_de_e13077c4",
+      "title": "ESC Radio",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "http://icepool.silvacast.com/ESCRADIO.mp3"
+    },
+    {
+      "id": "berliner_rundfunk_rick_de_lisle_de_bc558295",
+      "title": "Berliner Rundfunk - Rick De Lisle",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://topradio-de-hz-fal-stream03-cluster01.radiohost.de/brf-rik_mp3-128"
+    },
+    {
+      "id": "sinfonia_radio_sinfonia_technica_at_53553e99",
+      "title": "Sinfonia Radio - Sinfonia Technica",
+      "subtitle": "Classical",
+      "location": "Austria",
+      "genre": "Classical",
+      "countryCode": "AT",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 160,
+      "streamUrl": "https://sinfonia.ruthner.at/radio"
+    },
+    {
+      "id": "station_by_0d5af295",
+      "title": "Радио Могилёв",
+      "subtitle": "Radio",
+      "location": "Belarus",
+      "genre": "Radio",
+      "countryCode": "BY",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 320,
+      "streamUrl": "https://stream2.datacenter.by/tvrmogilev"
+    },
+    {
+      "id": "loungetunes_de_a130487f",
+      "title": "LOUNGETUNES",
+      "subtitle": "Chill",
+      "location": "Germany",
+      "genre": "Chill",
+      "countryCode": "DE",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream.laut.fm/loungetunes"
+    },
+    {
+      "id": "early_music_de_80d257c5",
+      "title": "Early Music",
+      "subtitle": "Baroque",
+      "location": "Germany",
+      "genre": "Baroque",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://earlymusic.stream.laut.fm/early_music?t302=2026-01-19_21-30-22&uuid=c51eeb0e-57f5-4338-99c9-65711becb6bb"
+    },
+    {
+      "id": "radio_energy_m_nchen_93_3_de_2720d2ac",
+      "title": "Radio Energy München 93,3",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://edge64.streamonkey.net/energy-muenchen/stream/mp3"
+    },
+    {
+      "id": "1_splash_christmas_de_ee1fca71",
+      "title": "#1 Splash Christmas",
+      "subtitle": "Christmas",
+      "location": "Germany",
+      "genre": "Christmas",
+      "countryCode": "DE",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://ais-sa2.cdnstream1.com/2553_128.mp3"
+    },
+    {
+      "id": "gong_fm_workout_de_0825df32",
+      "title": "Gong FM Workout",
+      "subtitle": "Pop",
+      "location": "Germany",
+      "genre": "Pop",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://frontend.streamonkey.net/gongfm-workout/stream/aacp"
     }
   ]
 }

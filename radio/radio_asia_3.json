@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-09T04:41:03Z",
+  "updated": "2026-11-10T06:01:20Z",
   "region": "asia",
   "part": 3,
   "of": 3,
@@ -299,19 +299,6 @@
       "language": null,
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_bilyonaryo_news_channel_9816e4c8",
-      "title": "Bilyonaryo News Channel",
-      "subtitle": "Radio",
-      "imageUrl": "https://bnc.bilyonaryo.com/wp-content/uploads/2024/06/cropped-BNC-LOGO-BLACK-768x220.png",
-      "streamUrl": "https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 5129
     },
     {
       "id": "rb2_bionic_online_radio_9b993759",
@@ -921,19 +908,6 @@
       "countryCode": "PH",
       "language": null,
       "clickCount": 0,
-      "bitrate": 64
-    },
-    {
-      "id": "rb2_fm_radio_davao_region_davao_and_tagum_cf415bb4",
-      "title": "FM Radio Davao Region (Davao and Tagum)",
-      "subtitle": "Radio",
-      "imageUrl": "https://www.amfmph.com/wp-content/uploads/amfmph/tagum-davsur.png?1757031766",
-      "streamUrl": "http://148.72.153.65:9226/stream",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "language": null,
-      "clickCount": 1,
       "bitrate": 64
     },
     {
@@ -16616,18 +16590,6 @@
       "streamUrl": "http://fjuvoice885.fju.edu.tw:8000/fjuvoice885.mp3"
     },
     {
-      "id": "xone_fm_vn_3b095ab8",
-      "title": "XONE FM",
-      "subtitle": "Pop",
-      "location": "Vietnam",
-      "genre": "Pop",
-      "countryCode": "VN",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 0,
-      "streamUrl": "https://vnno-ne-2-tf-multi-playlist-zmp3.zmdcdn.me/Wbo0diyYozY/zhls/playback-realtime/audio/e75e51f26db784e9dda6/audio.m3u8"
-    },
-    {
       "id": "hai_phong_fm_102_2_vn_402940cc",
       "title": "Hai Phong FM 102.2",
       "subtitle": "Hai-Phong",
@@ -16842,18 +16804,6 @@
       "clickCount": 4,
       "bitrate": 192,
       "streamUrl": "https://radio.spectrummediasolutions.co.uk/listen/phuket_global_radio/radio.mp3"
-    },
-    {
-      "id": "tp_tv_channel_digital_tv_channel_10_th_baa918c3",
-      "title": "TP TV channel: digital TV channel 10",
-      "subtitle": "Radio",
-      "location": "Thailand",
-      "genre": "Radio",
-      "countryCode": "TH",
-      "language": "thai",
-      "clickCount": 4,
-      "bitrate": 153,
-      "streamUrl": "https://tv-live.tpchannel.org/live/tv.m3u8"
     },
     {
       "id": "thairadio_96_5_thinking_th_95dab748",
@@ -17612,18 +17562,6 @@
       "streamUrl": "https://yayin.radyomadyo.com:9180/stream"
     },
     {
-      "id": "nbt_south_digital_tv_channel_11_th_db634d92",
-      "title": "NBT South: digital tv channel 11",
-      "subtitle": "Radio",
-      "location": "Thailand",
-      "genre": "Radio",
-      "countryCode": "TH",
-      "language": "thai",
-      "clickCount": 4,
-      "bitrate": 3128,
-      "streamUrl": "https://cdn-edge.iiptvcdn.com/live_event/smil:a834-75a7-a662-db55-5fa3.smil/playlist.m3u8?null"
-    },
-    {
       "id": "nbt_north_ease_digital_tv_channel_11_th_0a9022f5",
       "title": "NBT North Ease: digital TV channel 11",
       "subtitle": "Radio",
@@ -17694,6 +17632,66 @@
       "clickCount": 5,
       "bitrate": 320,
       "streamUrl": "https://radio9.plathong.net/7076"
+    },
+    {
+      "id": "station_sa_602124d0",
+      "title": "ترتيل القرآن الكريم",
+      "subtitle": "Islam",
+      "location": "Saudi Arabia",
+      "genre": "Islam",
+      "countryCode": "SA",
+      "language": "arabic",
+      "clickCount": 11,
+      "bitrate": 96,
+      "streamUrl": "http://usa3.fastcast4u.com:3826/stream"
+    },
+    {
+      "id": "jeepney_pinoy_radio_ph_ed2aafcf",
+      "title": "Jeepney Pinoy Radio",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://usa5.fastcast4u.com/proxy/mcbnjpr?mp=/1"
+    },
+    {
+      "id": "89_3_beat_fm_bunal_ph_01f9442f",
+      "title": "89.3 Beat FM Bunal",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://stream.surfernetwork.com/aw84t8xe66ivv"
+    },
+    {
+      "id": "dxum_davao_ph_9f368302",
+      "title": "DXUM DAVAO",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 64,
+      "streamUrl": "http://148.72.153.65:9229/stream"
+    },
+    {
+      "id": "dzex_fm_ph_3cbbd8fc",
+      "title": "DZEX FM",
+      "subtitle": "Adult Comtemporary",
+      "location": "The Philippines",
+      "genre": "Adult Comtemporary",
+      "countryCode": "PH",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://listen.smilemediaph.com/listen/zexfm/radio.mp3"
     }
   ]
 }

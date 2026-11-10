@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-09T04:41:03Z",
+  "updated": "2026-11-10T06:01:20Z",
   "region": "other",
   "stations": [
     {
@@ -1302,18 +1302,6 @@
       "streamUrl": "https://ais-sa2.cdnstream1.com/2383_128.mp3"
     },
     {
-      "id": "station_us_815b5b5c",
-      "title": "美国中文电台-西雅图",
-      "subtitle": "Chinese",
-      "location": "The United States Of America",
-      "genre": "Chinese",
-      "countryCode": "US",
-      "language": "chinese",
-      "clickCount": 10,
-      "bitrate": 48,
-      "streamUrl": "http://kxparadio.serverroom.us:5852/stream.mp3"
-    },
-    {
       "id": "femmetal_classics_radio_us_bebabac9",
       "title": "Femmetal Classics Radio",
       "subtitle": "Hard Rock",
@@ -2164,18 +2152,6 @@
       "clickCount": 6,
       "bitrate": 192,
       "streamUrl": "https://hd.lagrosseradio.info/lagrosseradio-metal-192.mp3"
-    },
-    {
-      "id": "gozadera_fm_es_77a4d8cf",
-      "title": "Gozadera Fm",
-      "subtitle": "Radio",
-      "location": "Spain",
-      "genre": "Radio",
-      "countryCode": "ES",
-      "language": null,
-      "clickCount": 5,
-      "bitrate": 128,
-      "streamUrl": "https://streaming.shoutcast.com/gozadera"
     },
     {
       "id": "underground_bass_gb_1da76d9a",
@@ -4276,18 +4252,6 @@
       "clickCount": 2,
       "bitrate": 0,
       "streamUrl": "https://streaming.abc-cdn.net.au/audio/hls/localadelaide.m3u8?source=web"
-    },
-    {
-      "id": "volnadavida_radio_ch_87d3d310",
-      "title": "Volnadavida Radio",
-      "subtitle": "Radio",
-      "location": "Switzerland",
-      "genre": "Radio",
-      "countryCode": "CH",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 192,
-      "streamUrl": "http://transmiss.ion.ovh/listen/volnadavida/radio.mp3"
     },
     {
       "id": "alti_radio_ch_7e3a09d2",
@@ -6784,18 +6748,6 @@
       "clickCount": 5,
       "bitrate": 192,
       "streamUrl": "http://hd.lagrosseradio.info/lagrosseradio-metal-192.mp3?"
-    },
-    {
-      "id": "centreforce_883_gb_ee8146a5",
-      "title": "Centreforce 883",
-      "subtitle": "Radio",
-      "location": "The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "Radio",
-      "countryCode": "GB",
-      "language": null,
-      "clickCount": 5,
-      "bitrate": 96,
-      "streamUrl": "https://listen.centreforceradio.com/96"
     },
     {
       "id": "triple_j_wa_au_cdd3dbf4",
@@ -17694,18 +17646,6 @@
       "streamUrl": "https://ice23.securenetsystems.net/WNDR"
     },
     {
-      "id": "espn_1140_us_34feea8e",
-      "title": "ESPN 1140",
-      "subtitle": "Sports",
-      "location": "The United States Of America",
-      "genre": "Sports",
-      "countryCode": "US",
-      "language": "english",
-      "clickCount": 4,
-      "bitrate": 64,
-      "streamUrl": "https://ice8.securenetsystems.net/KSLD"
-    },
-    {
       "id": "alpicat_r_dio_es_60314893",
       "title": "Alpicat Ràdio",
       "subtitle": "Alpicat",
@@ -24642,18 +24582,6 @@
       "streamUrl": "https://wxradio.bobc.io/stream/WWG24"
     },
     {
-      "id": "evebase_radio_be_f696d52d",
-      "title": "Evebase Radio",
-      "subtitle": "Radio",
-      "location": "Belgium",
-      "genre": "Radio",
-      "countryCode": "BE",
-      "language": "english",
-      "clickCount": 5,
-      "bitrate": 128,
-      "streamUrl": "https://stream.evebase.net/live.mp3"
-    },
-    {
       "id": "classic_alternative_villageradio_net_us_502726b6",
       "title": "Classic Alternative.. VillageRadio.Net",
       "subtitle": "80S",
@@ -26488,6 +26416,174 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://listen.radioking.com/radio/873226/stream/943281"
+    },
+    {
+      "id": "lounge_coffee_radio_es_5eff98f9",
+      "title": "Lounge & Coffee Radio",
+      "subtitle": "Cafe Background Music",
+      "location": "Spain",
+      "genre": "Cafe Background Music",
+      "countryCode": "ES",
+      "language": "multiculti",
+      "clickCount": 7,
+      "bitrate": 128,
+      "streamUrl": "https://loungeandcoffee.coolmusicradio.com/"
+    },
+    {
+      "id": "ktyt_107_5_the_yeti_us_eb062323",
+      "title": "KTYT 107.5 The Yeti",
+      "subtitle": "80S",
+      "location": "The United States Of America",
+      "genre": "80S",
+      "countryCode": "US",
+      "language": "english",
+      "clickCount": 7,
+      "bitrate": 128,
+      "streamUrl": "https://streaming.live365.com/a09921"
+    },
+    {
+      "id": "the_civilization_cycle_podcast_us_eda66d84",
+      "title": "The Civilization Cycle Podcast",
+      "subtitle": "Cycles",
+      "location": "The United States Of America",
+      "genre": "Cycles",
+      "countryCode": "US",
+      "language": "english",
+      "clickCount": 7,
+      "bitrate": 128,
+      "streamUrl": "https://stream.radio.co/s859ccc5d7/listen"
+    },
+    {
+      "id": "fr_quence_3_ultra_tubes_de_no_l_fr_259b189f",
+      "title": "Fréquence 3+ Ultra Tubes de Noël",
+      "subtitle": "Christmas",
+      "location": "France",
+      "genre": "Christmas",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 6,
+      "bitrate": 460,
+      "streamUrl": "https://hls.net-radio.fr/Frequence3Plus-12/Frequence3Plus-12.m3u8"
+    },
+    {
+      "id": "metal_radio_uk_gb_b47bdb27",
+      "title": "Metal Radio UK",
+      "subtitle": "Radio",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Radio",
+      "countryCode": "GB",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 160,
+      "streamUrl": "https://metal-radio-uk-c12658c4.radiocult.fm/stream"
+    },
+    {
+      "id": "bruce_radio_be_d69c9a9b",
+      "title": "Bruce-Radio",
+      "subtitle": "Radio",
+      "location": "Belgium",
+      "genre": "Radio",
+      "countryCode": "BE",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "https://stream.bruce-radio.be/bruce-classic-rock"
+    },
+    {
+      "id": "radio_adventista_alicante_es_089c7e83",
+      "title": "Radio Adventista Alicante",
+      "subtitle": "Christian",
+      "location": "Spain",
+      "genre": "Christian",
+      "countryCode": "ES",
+      "language": "spanish",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://stream.radiojar.com/6m7v99btq3bwv"
+    },
+    {
+      "id": "fr_quence_3_le_po_te_de_service_fr_02ab93dc",
+      "title": "Fréquence 3+ Le Poète de Service",
+      "subtitle": "Chanson",
+      "location": "France",
+      "genre": "Chanson",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 5,
+      "bitrate": 460,
+      "streamUrl": "https://hls.net-radio.fr/Frequence3Plus-13/Frequence3Plus-13.m3u8"
+    },
+    {
+      "id": "fr_quence_3_xmas_fr_2358b027",
+      "title": "Fréquence 3+ Xmas",
+      "subtitle": "Christmas",
+      "location": "France",
+      "genre": "Christmas",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 5,
+      "bitrate": 460,
+      "streamUrl": "https://hls.net-radio.fr/Frequence3Plus-19/Frequence3Plus-19.m3u8"
+    },
+    {
+      "id": "sons_iradio_es_83dbe6b9",
+      "title": "SONS iradio",
+      "subtitle": "Classical Music",
+      "location": "Spain",
+      "genre": "Classical Music",
+      "countryCode": "ES",
+      "language": "galician",
+      "clickCount": 4,
+      "bitrate": 320,
+      "streamUrl": "https://pl.crystalweb.net:6640/stream"
+    },
+    {
+      "id": "classikradio_fr_05967108",
+      "title": "ClassikRadio",
+      "subtitle": "Classical",
+      "location": "France",
+      "genre": "Classical",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://stream10.vestaradio.com/ClassikRadio"
+    },
+    {
+      "id": "fr_quence_3_basse_fid_lit_fr_f5135a5e",
+      "title": "Fréquence 3+ Basse Fidélité",
+      "subtitle": "Chillout",
+      "location": "France",
+      "genre": "Chillout",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 4,
+      "bitrate": 460,
+      "streamUrl": "https://hls.net-radio.fr/Frequence3Plus-15/Frequence3Plus-15.m3u8"
+    },
+    {
+      "id": "fr_quence_3_scopitone_fr_18c3872d",
+      "title": "Fréquence 3+ Scopitone",
+      "subtitle": "60S",
+      "location": "France",
+      "genre": "60S",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 4,
+      "bitrate": 460,
+      "streamUrl": "https://hls.net-radio.fr/Frequence3Plus-21/Frequence3Plus-21.m3u8"
+    },
+    {
+      "id": "france24_fran_ais_fr_1ab4e9e9",
+      "title": "France24 Français",
+      "subtitle": "Information",
+      "location": "France",
+      "genre": "Information",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 4,
+      "bitrate": 105,
+      "streamUrl": "http://static.france24.com/live/F24_FR_LO_HLS/live_audio.m3u8"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-09T04:41:03Z",
+  "updated": "2026-11-10T06:01:20Z",
   "region": "asia",
   "part": 1,
   "of": 3,
@@ -17509,19 +17509,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_station_e2dd722a",
-      "title": "新疆柯语广播",
-      "subtitle": "Full Service",
-      "imageUrl": "https://www.tvyan.com/uploads/dianshi/xinjiang.jpg",
-      "streamUrl": "https://live.ximalaya.com/radio-first-page-app/live/1692/64.m3u8?transcode=ts",
-      "location": "Sinkiang, China",
-      "genre": "Full Service",
-      "countryCode": "CN",
-      "language": "kyrgyz",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_station_5b8288c7",
       "title": "新疆汉语综合广播",
       "subtitle": "Full Service",
@@ -24090,18 +24077,6 @@
       "streamUrl": "http://stream9.jlntv.cn/lyjtgb/playlist.m3u8"
     },
     {
-      "id": "fm105_2_cn_dede8943",
-      "title": "百色综合广播 FM105.2",
-      "subtitle": "Full Service",
-      "location": "China",
-      "genre": "Full Service",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 2,
-      "bitrate": 0,
-      "streamUrl": "https://vod.bsyjrb.cn/live/9cb859019bb6.m3u8"
-    },
-    {
       "id": "vintage_radio_azerbaijan_az_f61f3a39",
       "title": "Vintage Radio Azerbaijan",
       "subtitle": "Radio",
@@ -26298,18 +26273,6 @@
       "streamUrl": "https://api.xmgspace.me/api/vom-latest/"
     },
     {
-      "id": "station_cn_31d9ba32",
-      "title": "咸阳音乐广播",
-      "subtitle": "Music",
-      "location": "China",
-      "genre": "Music",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 5,
-      "bitrate": 2560,
-      "streamUrl": "https://hplayer1.juyun.tv/camera/63973146.m3u8"
-    },
-    {
       "id": "station_cn_2869c5d0",
       "title": "十堰交通音乐广播",
       "subtitle": "Music",
@@ -26380,18 +26343,6 @@
       "clickCount": 3,
       "bitrate": 0,
       "streamUrl": "https://lhttp.qtfm.cn/live/1804/64k.mp3"
-    },
-    {
-      "id": "station_cn_e106aceb",
-      "title": "敦煌之声",
-      "subtitle": "Arts",
-      "location": "China",
-      "genre": "Arts",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 3,
-      "bitrate": 2560,
-      "streamUrl": "https://play.kankanlive.com/live/1698383289889932.m3u8"
     },
     {
       "id": "station_cn_8d9a5d24",
@@ -26608,18 +26559,6 @@
       "clickCount": 3,
       "bitrate": 0,
       "streamUrl": "https://rscdn.ajmide.com/r_1968/nglive_1968.m3u8"
-    },
-    {
-      "id": "brtv_cn_af35e99d",
-      "title": "BRTV北京城市广播",
-      "subtitle": "Information",
-      "location": "China",
-      "genre": "Information",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 3,
-      "bitrate": 0,
-      "streamUrl": "https://brtv-radiolive.rbc.cn/alive/fm1073.m3u8"
     },
     {
       "id": "956_cn_6322188f",
@@ -26932,18 +26871,6 @@
       "clickCount": 7,
       "bitrate": 0,
       "streamUrl": "https://lhttp.qingting.fm/live/4906/64k.mp3"
-    },
-    {
-      "id": "brtv_cn_d13d7c50",
-      "title": "BRTV京津冀之声",
-      "subtitle": "Full Service",
-      "location": "China",
-      "genre": "Full Service",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 4,
-      "bitrate": 0,
-      "streamUrl": "https://brtv-radiolive.rbc.cn/alive/fm1006.m3u8"
     },
     {
       "id": "station_cn_f684845c",
@@ -27268,6 +27195,42 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "https://lhttp.qingting.fm/live/1085/64k.mp3"
+    },
+    {
+      "id": "radio_aurora_armenia_am_e4ff49ed",
+      "title": "Radio Aurora Armenia",
+      "subtitle": "Radio",
+      "location": "Armenia",
+      "genre": "Radio",
+      "countryCode": "AM",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 256,
+      "streamUrl": "https://de.auroramedia.am/aurora.mp3"
+    },
+    {
+      "id": "radio_bahrain_102_3_fm_bh_a45ebbda",
+      "title": "Radio Bahrain 102.3 FM",
+      "subtitle": "Radio",
+      "location": "Bahrain",
+      "genre": "Radio",
+      "countryCode": "BH",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 280,
+      "streamUrl": "https://5c7b683162943.streamlock.net/live/ngrp:radio-102-3_all/playlist.m3u8"
+    },
+    {
+      "id": "brtv_cn_16a9759a",
+      "title": "BRTV北京交通广播",
+      "subtitle": "Traffic Radio Broadcast",
+      "location": "China",
+      "genre": "Traffic Radio Broadcast",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://brtv-radiolive.rbc.cn/alive/fm1039.m3u8"
     }
   ]
 }

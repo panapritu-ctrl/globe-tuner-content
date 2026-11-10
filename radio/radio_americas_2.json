@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-09T04:41:04Z",
+  "updated": "2026-11-10T06:01:20Z",
   "region": "americas",
   "part": 2,
   "of": 5,
@@ -14256,19 +14256,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_radio_lautaro_talca_c1d50f77",
-      "title": "Radio Lautaro Talca",
-      "subtitle": "Radio",
-      "imageUrl": "https://radiolautarotalca.cl/wp-content/uploads/2022/01/favicon.png",
-      "streamUrl": "https://audio2.tustreaming.cl/7320/stream",
-      "location": "Chile",
-      "genre": "Radio",
-      "countryCode": "CL",
-      "language": "spanish",
-      "clickCount": 0,
-      "bitrate": 320
-    },
-    {
       "id": "rb2_radio_libra_85992930",
       "title": "Radio Libra",
       "subtitle": "Radio",
@@ -14293,19 +14280,6 @@
       "language": null,
       "clickCount": 0,
       "bitrate": 192
-    },
-    {
-      "id": "rb2_radio_marcela_b3cdcaaa",
-      "title": "Radio Marcela",
-      "subtitle": "Adulto Joven, Música",
-      "imageUrl": "",
-      "streamUrl": "http://archi-us.digitalproserver.com/marcelafm.aac",
-      "location": "Atacama, Chile",
-      "genre": "Adulto Joven",
-      "countryCode": "CL",
-      "language": "spanish",
-      "clickCount": 0,
-      "bitrate": 128
     },
     {
       "id": "rb2_radio_marisol_29f6f8d4",
@@ -24883,18 +24857,6 @@
       "streamUrl": "https://stream.zeno.fm/kmnekh2929duv"
     },
     {
-      "id": "cayena_tv_fundaci_n_magdalena_co_6f237191",
-      "title": "Cayena TV Fundación Magdalena",
-      "subtitle": "Radio",
-      "location": "Colombia",
-      "genre": "Radio",
-      "countryCode": "CO",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 1638,
-      "streamUrl": "https://lbgo.bozztv.com/ssh101/ssh101/cayenaenvivo/playlist.m3u8"
-    },
-    {
       "id": "cayena_stereo_96_3_fundaci_n_magdalena_co_22b30f68",
       "title": "Cayena stereo 96.3 Fundación magdalena",
       "subtitle": "Radio",
@@ -27643,18 +27605,6 @@
       "streamUrl": "https://securestreams7.autopo.st/?uri=https://icecast.teveo.cu/b3jbfThq"
     },
     {
-      "id": "cfmk_fm_96_3_big_fm_kingston_on_aac_stream_ca_7a1c28ae",
-      "title": "CFMK-FM 96.3 \"Big FM\" Kingston, ON (AAC Stream)",
-      "subtitle": "Classic Hits",
-      "location": "Canada",
-      "genre": "Classic Hits",
-      "countryCode": "CA",
-      "language": "english",
-      "clickCount": 9,
-      "bitrate": 57,
-      "streamUrl": "http://live.leanstream.co/CFMKFM"
-    },
-    {
       "id": "cfmk_big_96_3_kingston_on_ca_6d61c8ac",
       "title": "CFMK \"Big 96.3\" Kingston, ON",
       "subtitle": "Classic Rock",
@@ -28589,6 +28539,90 @@
       "clickCount": 4,
       "bitrate": 64,
       "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/VIDA_GOSPEL_S01AAC.aac?dist=CRV-Web"
+    },
+    {
+      "id": "radio_guachi_cr_1395be81",
+      "title": "Radio Guachi",
+      "subtitle": "Radio",
+      "location": "Costa Rica",
+      "genre": "Radio",
+      "countryCode": "CR",
+      "language": null,
+      "clickCount": 7,
+      "bitrate": 128,
+      "streamUrl": "https://stream.zeno.fm/jaovug37fhztv"
+    },
+    {
+      "id": "570_news_kitchener_ca_aa5c5ed1",
+      "title": "570 News Kitchener",
+      "subtitle": "Local News",
+      "location": "Canada",
+      "genre": "Local News",
+      "countryCode": "CA",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 48,
+      "streamUrl": "https://rogers-hls.leanstream.co/rogers/kit570.stream/playlist.m3u8"
+    },
+    {
+      "id": "dadena_radial_vida_890_am_bogot_co_83f0aead",
+      "title": "dadena radial vida 890 am bogotá",
+      "subtitle": "Cristiana",
+      "location": "Colombia",
+      "genre": "Cristiana",
+      "countryCode": "CO",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 56,
+      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/VIDA_BOGOTAAAC.aac"
+    },
+    {
+      "id": "galaxia_stereo_100_5_mompox_co_6e9b0c1c",
+      "title": "galaxia stereo 100.5 mompox",
+      "subtitle": "Crossover",
+      "location": "Colombia",
+      "genre": "Crossover",
+      "countryCode": "CO",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 320,
+      "streamUrl": "https://stream.zenolive.com/p41chbc8zmzuv"
+    },
+    {
+      "id": "altura_fm_cl_9e0a6d8e",
+      "title": "Altura FM",
+      "subtitle": "Latino",
+      "location": "Chile",
+      "genre": "Latino",
+      "countryCode": "CL",
+      "language": "spanish",
+      "clickCount": 4,
+      "bitrate": 256,
+      "streamUrl": "https://club.asdmedios.cl/listen/alturafm/radio.mp3"
+    },
+    {
+      "id": "radio_rodadero_1480_am_co_7cb425f0",
+      "title": "radio rodadero 1480 am",
+      "subtitle": "Crossover",
+      "location": "Colombia",
+      "genre": "Crossover",
+      "countryCode": "CO",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 64,
+      "streamUrl": "https://server1.intermediacolombia.com:8132/stream"
+    },
+    {
+      "id": "paradise_fm_latin_cw_4de99d15",
+      "title": "Paradise FM Latin",
+      "subtitle": "Latin",
+      "location": "Curacao",
+      "genre": "Latin",
+      "countryCode": "CW",
+      "language": "willemstad",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream.paradisefm.cw/ParadiseLatin"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-09T04:41:03Z",
+  "updated": "2026-11-10T06:01:20Z",
   "region": "americas",
   "part": 1,
   "of": 5,
@@ -2311,19 +2311,6 @@
       "language": "spanish",
       "clickCount": 0,
       "bitrate": 32
-    },
-    {
-      "id": "rb2_fm_pasi_n_f686da6d",
-      "title": "FM Pasión",
-      "subtitle": "Radio",
-      "imageUrl": "https://radioarg.net/storage/radios/8193/10315/conversions/fm-pasion-1027-lg.webp",
-      "streamUrl": "https://cdn.instream.audio:9688/stream",
-      "location": "Argentina",
-      "genre": "Radio",
-      "countryCode": "AR",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 96
     },
     {
       "id": "rb2_fm_premium_classics_98_9_dd53e304",
@@ -5351,19 +5338,6 @@
       "language": "spanish",
       "clickCount": 0,
       "bitrate": 24
-    },
-    {
-      "id": "rb2_radio_ancasti_b0e31b47",
-      "title": "Radio Ancasti",
-      "subtitle": "Radio",
-      "imageUrl": "https://radioarg.net/storage/radios/8113/10235/conversions/ancasti-fm-985-lg.webp",
-      "streamUrl": "https://streaming.gostreaming.com.ar:10957/;/;type=mp3",
-      "location": "Argentina",
-      "genre": "Radio",
-      "countryCode": "AR",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 48
     },
     {
       "id": "rb2_radio_arul_online_3415a643",
@@ -22632,18 +22606,6 @@
       "streamUrl": "https://sonic.host-live.com:8140/stream?icy=http"
     },
     {
-      "id": "fm_los_cardales_104_5_ar_4784e2cf",
-      "title": "FM Los Cardales 104.5",
-      "subtitle": "Radio",
-      "location": "Argentina",
-      "genre": "Radio",
-      "countryCode": "AR",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 32,
-      "streamUrl": "https://streaming.escuchanosonline.com/8132/stream"
-    },
-    {
       "id": "fm_omega_96_3_zarate_ar_64244de2",
       "title": "FM Omega 96.3 - Zarate",
       "subtitle": "Radio",
@@ -24660,18 +24622,6 @@
       "streamUrl": "http://stream3.camara.gov.br/radiocamara1t64/manifest.m3u8"
     },
     {
-      "id": "the_lfa_80_station_br_31f4fc0e",
-      "title": "The LFA 80 station",
-      "subtitle": "1980'S",
-      "location": "Brazil",
-      "genre": "1980'S",
-      "countryCode": "BR",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 0,
-      "streamUrl": "https://radio.liv.fran.nom.br/radio.mp3"
-    },
-    {
       "id": "la_radio_104_7_ar_9fddfd16",
       "title": "LA RADIO 104.7",
       "subtitle": "Radio",
@@ -25210,18 +25160,6 @@
       "clickCount": 1,
       "bitrate": 64,
       "streamUrl": "http://server.laradio.online:8741/live"
-    },
-    {
-      "id": "unlam_radio_89_1_fm_ar_78365e14",
-      "title": "UNLaM Radio 89.1 FM",
-      "subtitle": "Radio",
-      "location": "Argentina",
-      "genre": "Radio",
-      "countryCode": "AR",
-      "language": "spanish",
-      "clickCount": 1,
-      "bitrate": 128,
-      "streamUrl": "https://cdn.instream.audio/stream/9612"
     },
     {
       "id": "fm_genoma_102_5_zarate_ar_522d6e64",
@@ -28140,18 +28078,6 @@
       "streamUrl": "https://stream02.ouveai.com.br/8034/stream"
     },
     {
-      "id": "ckwx_news_1130_vancouver_bc_ca_430331a2",
-      "title": "CKWX \"News 1130\" Vancouver, BC",
-      "subtitle": "News Radio",
-      "location": "Canada",
-      "genre": "News Radio",
-      "countryCode": "CA",
-      "language": "english",
-      "clickCount": 6,
-      "bitrate": 48,
-      "streamUrl": "https://rogers-hls.leanstream.co/rogers/van1130.stream/playlist.m3u8"
-    },
-    {
       "id": "eldorado_fm_s_o_paulo_br_2325e844",
       "title": "Eldorado FM - São Paulo",
       "subtitle": "Adult Contemporary",
@@ -28474,6 +28400,54 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://radio02.zas.media/proxy/fozdoiguacu93/stream"
+    },
+    {
+      "id": "r_dio_batuta_mpb_a_webradio_do_instituto_moreira_salles_br_acc68189",
+      "title": "Rádio Batuta MPB - A webradio do Instituto Moreira Salles",
+      "subtitle": "Brazilian Music",
+      "location": "Brazil",
+      "genre": "Brazilian Music",
+      "countryCode": "BR",
+      "language": "portuguese",
+      "clickCount": 9,
+      "bitrate": 128,
+      "streamUrl": "http://radioims.out.airtime.pro:8000/radioims_a"
+    },
+    {
+      "id": "aspen_93_7_corrientes_aac_stream_ar_fbd8b9e5",
+      "title": "Aspen 93.7 Corrientes (AAC Stream)",
+      "subtitle": "Classic Hits",
+      "location": "Argentina",
+      "genre": "Classic Hits",
+      "countryCode": "AR",
+      "language": "español argentina",
+      "clickCount": 4,
+      "bitrate": 80,
+      "streamUrl": "http://centova2.veemesoft.com.ar:8396/live"
+    },
+    {
+      "id": "r_dio_forr_brega_br_2175c45f",
+      "title": "Rádio Forró Brega",
+      "subtitle": "Folclore",
+      "location": "Brazil",
+      "genre": "Folclore",
+      "countryCode": "BR",
+      "language": "brazilian portuguese",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream-280.surfernetwork.com/38zc8xggntzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIzOHpjOHhnZ250enV2IiwiaG9zdCI6InN0cmVhbS0yODAuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IlBfcE5tZEVlUkxta1ZWWERQdFdvTGciLCJpYXQiOjE3OTM5NTM5MjEsImV4cCI6MTc5Mzk1Mzk4MX0.jj7tnp7jY468tvRf9Nsutp4nilEmKn_M9CVh0PHyx0M"
+    },
+    {
+      "id": "radio_alto_astral_br_00fd1319",
+      "title": "Radio Alto Astral",
+      "subtitle": "Radio",
+      "location": "Brazil",
+      "genre": "Radio",
+      "countryCode": "BR",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://centova.euroti.com.br:2199/stream/?porta=8090&svtipo=ShoutCast2"
     }
   ]
 }

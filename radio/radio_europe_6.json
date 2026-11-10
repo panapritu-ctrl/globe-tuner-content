@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-09T04:41:04Z",
+  "updated": "2026-11-10T06:01:20Z",
   "region": "europe",
   "part": 6,
   "of": 8,
@@ -8144,19 +8144,6 @@
       "language": "romanian",
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "rb_radio_dar_9a608389",
-      "title": "Radio DAR",
-      "subtitle": "Classical",
-      "imageUrl": "",
-      "streamUrl": "http://188.138.191.214/RadioDar",
-      "location": "The Republic Of Moldova",
-      "genre": "Classical",
-      "countryCode": "MD",
-      "language": null,
-      "clickCount": 3,
-      "bitrate": 96
     },
     {
       "id": "rb2_radio_fresh_md_62ab091a",
@@ -24615,18 +24602,6 @@
       "streamUrl": "http://stream.lustigsradio.lv/live"
     },
     {
-      "id": "tienilabassa_it_9dd40bf1",
-      "title": "TieniLaBassa",
-      "subtitle": "Radio",
-      "location": "Italy",
-      "genre": "Radio",
-      "countryCode": "IT",
-      "language": null,
-      "clickCount": 6,
-      "bitrate": 0,
-      "streamUrl": "https://stream.esiliati.org:8003/tienilabassa.ogg"
-    },
-    {
       "id": "radio_delta_international_it_50a5c92b",
       "title": "Radio Delta International",
       "subtitle": "Classic Hits",
@@ -26559,18 +26534,6 @@
       "streamUrl": "https://stream5.xdevel.com/audio1s975363-1686/stream/icecast.audio"
     },
     {
-      "id": "radio_caf_it_89c71a34",
-      "title": "Radio Café",
-      "subtitle": "Padova",
-      "location": "Italy",
-      "genre": "Padova",
-      "countryCode": "IT",
-      "language": "italian",
-      "clickCount": 3,
-      "bitrate": 96,
-      "streamUrl": "http://onair11.xdevel.com:8000/;stream.mp3"
-    },
-    {
       "id": "maltin_biss_mt_3b609960",
       "title": "MALTIN BISS",
       "subtitle": "Country",
@@ -28057,6 +28020,30 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "http://176.9.117.123:9996/;"
+    },
+    {
+      "id": "station_lv_9b0377b3",
+      "title": "Авторадио для тех, кто в пути",
+      "subtitle": "Hits",
+      "location": "Latvia",
+      "genre": "Hits",
+      "countryCode": "LV",
+      "language": "russian",
+      "clickCount": 4,
+      "bitrate": 48,
+      "streamUrl": "https://my.radioprocessor.com:8100/avtoradiolv-forthoseonthego-48.aac"
+    },
+    {
+      "id": "radio_golfbreker_nl_1c463b45",
+      "title": "Radio Golfbreker",
+      "subtitle": "Radio",
+      "location": "The Netherlands",
+      "genre": "Radio",
+      "countryCode": "NL",
+      "language": "dutch",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "http://149.202.83.114:8240/stream"
     }
   ]
 }

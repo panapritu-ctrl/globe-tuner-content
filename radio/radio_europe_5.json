@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-09T04:41:04Z",
+  "updated": "2026-11-10T06:01:20Z",
   "region": "europe",
   "part": 5,
   "of": 8,
@@ -27502,18 +27502,6 @@
       "streamUrl": "https://stream12.xdevel.com/audio40s975552-3306/stream/icecast.audio"
     },
     {
-      "id": "banter_fm_ie_e287ab75",
-      "title": "Banter FM",
-      "subtitle": "Chart",
-      "location": "Ireland",
-      "genre": "Chart",
-      "countryCode": "IE",
-      "language": "english",
-      "clickCount": 4,
-      "bitrate": 320,
-      "streamUrl": "https://banterfm.tech/listen/banterfm/radio.mp3"
-    },
-    {
       "id": "7_radiovisione_it_f6444a55",
       "title": "7 RadioVisione",
       "subtitle": "Radio",
@@ -27932,6 +27920,102 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "http://onair7.xdevel.com:8700/;stream.nsv"
+    },
+    {
+      "id": "radio_ciccio_riccio_it_d00ba74b",
+      "title": "Radio Ciccio Riccio",
+      "subtitle": "Varied",
+      "location": "Italy",
+      "genre": "Varied",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 9,
+      "bitrate": 0,
+      "streamUrl": "https://stream5.xdevel.com/audio0s975942-758/stream/icecast.audio"
+    },
+    {
+      "id": "radio_canale_italia_fm_90_4_it_23cbc601",
+      "title": "Radio Canale Italia FM 90.4",
+      "subtitle": "2000S",
+      "location": "Italy",
+      "genre": "2000S",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 8,
+      "bitrate": 0,
+      "streamUrl": "https://rci.canaleitalia.tv:8007/;"
+    },
+    {
+      "id": "r_di_teszmi_hu_d56858fe",
+      "title": "Rádió Teszmi",
+      "subtitle": "Dance",
+      "location": "Hungary",
+      "genre": "Dance",
+      "countryCode": "HU",
+      "language": "hungarian",
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://radioteszmi.hu/radio"
+    },
+    {
+      "id": "radio_liscio_it_52295f0e",
+      "title": "Radio Liscio",
+      "subtitle": "Solo Musica Da Ballo",
+      "location": "Italy",
+      "genre": "Solo Musica Da Ballo",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "https://ssl.audio1.meway.tv/proxy/radioliscio?mp=/stream"
+    },
+    {
+      "id": "radio_d_operett_hu_a7b74ef5",
+      "title": "Radio-D - Operett",
+      "subtitle": "Classical",
+      "location": "Hungary",
+      "genre": "Classical",
+      "countryCode": "HU",
+      "language": "hungarian",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://radio-d.hu:8000/operett"
+    },
+    {
+      "id": "radio_d_magyar_n_ta_hu_4c5c1598",
+      "title": "Radio-D - Magyar Nóta",
+      "subtitle": "Gypsy Music",
+      "location": "Hungary",
+      "genre": "Gypsy Music",
+      "countryCode": "HU",
+      "language": "hungarian",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://radio-d.hu:8000/magyarnota"
+    },
+    {
+      "id": "number_one_it_32b2a1ce",
+      "title": "Number One",
+      "subtitle": "Music",
+      "location": "Italy",
+      "genre": "Music",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://ice18.fluidstream.net/area05.mp3"
+    },
+    {
+      "id": "radiodellaconcia_rock_it_4b3c55e5",
+      "title": "radiodellaconcia-rock",
+      "subtitle": "Grunge",
+      "location": "Italy",
+      "genre": "Grunge",
+      "countryCode": "IT",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://sr6.inmystream.it/proxy/claudio/stream"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-09T04:41:03Z",
+  "updated": "2026-11-10T06:01:20Z",
   "region": "europe",
   "part": 8,
   "of": 8,
@@ -10997,19 +10997,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_102_1_fm_a0e8c983",
-      "title": "Радио Дача Самара 102.1 FM",
-      "subtitle": "Music, Pop",
-      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241004_224743350.jpg?alt=media&token=4c4d28bc-45aa-4563-a280-f903cb0fef01",
-      "streamUrl": "http://microit.n340.com:9000/VgMv0WV17ZVx1uuo_12_dacha_128_reg_319",
-      "location": "The Russian Federation",
-      "genre": "Music",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_106_9_fm_b49a7c45",
       "title": "Радио Дача Тула 106.9 FM",
       "subtitle": "Music, Pop",
@@ -14935,19 +14922,6 @@
       "bitrate": 64
     },
     {
-      "id": "rb2_station_df569b44",
-      "title": "Юнитон",
-      "subtitle": "Информационный, Поп-Музыка",
-      "imageUrl": "https://pcradio.ru/images/stations/62ea3ebe7cfbc.jpg",
-      "streamUrl": "https://online.uniton.ru/uniton/started_at_1715197553405",
-      "location": "Новосибирск, The Russian Federation",
-      "genre": "Информационный",
-      "countryCode": "RU",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_station_22cba05a",
       "title": "Юрий Шатунов Радио",
       "subtitle": "Discography",
@@ -18864,15 +18838,6 @@
       "streamUrl": "http://stream.laut.fm/bluesrock"
     },
     {
-      "id": "brokenbeats_ua_96309e",
-      "title": "Brokenbeats",
-      "subtitle": "Atmospheric",
-      "location": "Ukraine",
-      "genre": "Atmospheric",
-      "countryCode": "UA",
-      "streamUrl": "https://stream.brokenbeats.net/tune"
-    },
-    {
       "id": "rb2_eqve_radio_0d788e6e",
       "title": "EQVE Radio - Экве Радио",
       "subtitle": "Radio",
@@ -21104,19 +21069,6 @@
       "language": null,
       "clickCount": 1,
       "bitrate": 128
-    },
-    {
-      "id": "rb_radio_z_ri_i_shtimes_5ee3d745",
-      "title": "Radio Zëri i Shtimes",
-      "subtitle": "Kosova, Shqip",
-      "imageUrl": "",
-      "streamUrl": "http://radio.1dhe1.com:8090/radio.mp3",
-      "location": "Kosovo",
-      "genre": "Kosova",
-      "countryCode": "XK",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 48
     },
     {
       "id": "station_ru_57ab4eb3",
@@ -25439,18 +25391,6 @@
       "streamUrl": "http://213.141.131.10:8002/lovesongs"
     },
     {
-      "id": "anima_amoris_trip_hop_lounge_ru_6d09266b",
-      "title": "Anima Amoris Trip Hop Lounge",
-      "subtitle": "Radio",
-      "location": "The Russian Federation",
-      "genre": "Radio",
-      "countryCode": "RU",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 0,
-      "streamUrl": "https://amoris.sknt.ru/triphop.mp3"
-    },
-    {
       "id": "get_radio_ru_6d7fcab2",
       "title": "get.radio — Кино (Русский)",
       "subtitle": "Cinema",
@@ -25929,6 +25869,174 @@
       "clickCount": 5,
       "bitrate": 320,
       "streamUrl": "http://stream.radioskovoroda.com:8000/radioskovoroda"
+    },
+    {
+      "id": "bandit_rock_se_3374c04f",
+      "title": "Bandit Rock",
+      "subtitle": "Alternative Rock",
+      "location": "Sweden",
+      "genre": "Alternative Rock",
+      "countryCode": "SE",
+      "language": "swedish",
+      "clickCount": 50,
+      "bitrate": 128,
+      "streamUrl": "http://fm02-ice.stream.khz.se/fm02_mp3"
+    },
+    {
+      "id": "bandit_metal_se_b5d990a1",
+      "title": "Bandit Metal",
+      "subtitle": "Death Metal",
+      "location": "Sweden",
+      "genre": "Death Metal",
+      "countryCode": "SE",
+      "language": null,
+      "clickCount": 17,
+      "bitrate": 128,
+      "streamUrl": "https://wr03-ice.stream.khz.se/wr03_mp3"
+    },
+    {
+      "id": "star_fm_se_ec31cff3",
+      "title": "Star FM",
+      "subtitle": "Radio",
+      "location": "Sweden",
+      "genre": "Radio",
+      "countryCode": "SE",
+      "language": "swedish",
+      "clickCount": 16,
+      "bitrate": 128,
+      "streamUrl": "http://fm05-ice.stream.khz.se/fm05_mp3"
+    },
+    {
+      "id": "hitmix90_s_se_5b5e6b73",
+      "title": "HitMix90's",
+      "subtitle": "Radio",
+      "location": "Sweden",
+      "genre": "Radio",
+      "countryCode": "SE",
+      "language": null,
+      "clickCount": 15,
+      "bitrate": 128,
+      "streamUrl": "https://wr19-ice.stream.khz.se/wr19_mp3"
+    },
+    {
+      "id": "disco_54_se_82ca6570",
+      "title": "Disco 54",
+      "subtitle": "Disco",
+      "location": "Sweden",
+      "genre": "Disco",
+      "countryCode": "SE",
+      "language": "swedish",
+      "clickCount": 14,
+      "bitrate": 128,
+      "streamUrl": "https://wr15-ice.stream.khz.se/wr15_mp3"
+    },
+    {
+      "id": "bandit_ballads_se_e94b76eb",
+      "title": "Bandit Ballads",
+      "subtitle": "Ballads",
+      "location": "Sweden",
+      "genre": "Ballads",
+      "countryCode": "SE",
+      "language": null,
+      "clickCount": 11,
+      "bitrate": 96,
+      "streamUrl": "https://wr21-ice.stream.khz.se/wr21_aac"
+    },
+    {
+      "id": "bandit_metal_se_9b98b243",
+      "title": "Bandit Metal",
+      "subtitle": "Metal",
+      "location": "Sweden",
+      "genre": "Metal",
+      "countryCode": "SE",
+      "language": "swedish",
+      "clickCount": 11,
+      "bitrate": 128,
+      "streamUrl": "http://wr03-ice.stream.khz.se/wr03_mp3"
+    },
+    {
+      "id": "star_fm_107_1_se_c9e073b2",
+      "title": "STAR FM 107,1",
+      "subtitle": "Pop",
+      "location": "Sweden",
+      "genre": "Pop",
+      "countryCode": "SE",
+      "language": "swedish",
+      "clickCount": 11,
+      "bitrate": 96,
+      "streamUrl": "https://fm05-ice.stream.khz.se/fm05_aac"
+    },
+    {
+      "id": "go_country_se_07667647",
+      "title": "Go Country",
+      "subtitle": "Country",
+      "location": "Sweden",
+      "genre": "Country",
+      "countryCode": "SE",
+      "language": "english",
+      "clickCount": 9,
+      "bitrate": 128,
+      "streamUrl": "https://wr14-ice.stream.khz.se/wr14_mp3"
+    },
+    {
+      "id": "rix_fm_se_9fd808bc",
+      "title": "Rix FM",
+      "subtitle": "Radio",
+      "location": "Sweden",
+      "genre": "Radio",
+      "countryCode": "SE",
+      "language": null,
+      "clickCount": 8,
+      "bitrate": 128,
+      "streamUrl": "http://fm01-ice.stream.khz.se/fm01_mp3"
+    },
+    {
+      "id": "rix_fm_106_7_se_f2cab949",
+      "title": "RIX FM 106,7",
+      "subtitle": "Pop",
+      "location": "Sweden",
+      "genre": "Pop",
+      "countryCode": "SE",
+      "language": "swedish",
+      "clickCount": 7,
+      "bitrate": 96,
+      "streamUrl": "https://fm01-ice.stream.khz.se/fm01_aac"
+    },
+    {
+      "id": "star_fm_107_1_se_792a1e44",
+      "title": "STAR FM 107,1",
+      "subtitle": "Pop",
+      "location": "Sweden",
+      "genre": "Pop",
+      "countryCode": "SE",
+      "language": "swedish",
+      "clickCount": 7,
+      "bitrate": 128,
+      "streamUrl": "https://fm05-ice.stream.khz.se/fm05_mp3"
+    },
+    {
+      "id": "r_dio_laskaro_sk_29597e56",
+      "title": "Rádio LASKARO",
+      "subtitle": "Dance Balade Romantic Pop Rock Rock'N'Roll",
+      "location": "Slovakia",
+      "genre": "Dance Balade Romantic Pop Rock Rock'N'Roll",
+      "countryCode": "SK",
+      "language": "slovak",
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "https://servidor38-1.brlogic.com:7204/live"
+    },
+    {
+      "id": "fm_ua_ab0cf81a",
+      "title": "ТЮ FM",
+      "subtitle": "Radio",
+      "location": "Ukraine",
+      "genre": "Radio",
+      "countryCode": "UA",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "https://tyufm.com/radio.mp3"
     }
   ]
 }

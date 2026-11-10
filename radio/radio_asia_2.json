@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-09T04:41:03Z",
+  "updated": "2026-11-10T06:01:20Z",
   "region": "asia",
   "part": 2,
   "of": 3,
@@ -6598,19 +6598,6 @@
       "genre": "Classical",
       "streamUrl": "https://radioislamindonesia.com/rodja.mp3?_=2",
       "countryCode": "ID"
-    },
-    {
-      "id": "rb2_radio_sayang_quran_9b9f9ccf",
-      "title": "Radio Sayang Quran",
-      "subtitle": "Radio",
-      "imageUrl": "https://radio.sayangquran.com/static/uploads/browser_icon/180.1762835340.png",
-      "streamUrl": "https://radio.sayangquran.com/listen/radiosq/radio.mp3",
-      "location": "Indonesia",
-      "genre": "Radio",
-      "countryCode": "ID",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 192
     },
     {
       "id": "rb2_radio_seribatu_d1f18eae",
@@ -15676,19 +15663,6 @@
       "streamUrl": "https://m-aac.cbs.co.kr/cbs939/_definst_/cbs939.stream/playlist.m3u8"
     },
     {
-      "id": "rb2_cbs_music_fm_19f6670a",
-      "title": "CBS 파워라디오 [Music FM]",
-      "subtitle": "Music",
-      "imageUrl": "https://pic.qtfm.cn/2024/0524/20240524014731.gif",
-      "streamUrl": "https://lhttp-hw.qtfm.cn/live/15318233/64k.mp3",
-      "location": "The Republic Of Korea",
-      "genre": "Music",
-      "countryCode": "KR",
-      "language": "korean",
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_cpbc_tv_c649b05d",
       "title": "CPBC TV",
       "subtitle": "Radio",
@@ -22876,18 +22850,6 @@
       "streamUrl": "https://stream.rcs.revma.com/8150ezy4bshvv"
     },
     {
-      "id": "station_cn_e047408a",
-      "title": "江苏新闻广播",
-      "subtitle": "News",
-      "location": "China",
-      "genre": "News",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 13,
-      "bitrate": 0,
-      "streamUrl": "http://lzlive.vojs.cn/5Fo8mMX/92/live.m3u8?"
-    },
-    {
       "id": "ullasamfm_in_24040613",
       "title": "ullasamfm",
       "subtitle": "Radio",
@@ -25480,30 +25442,6 @@
       "streamUrl": "https://stream.tvasean.com/live/test/hls.m3u8"
     },
     {
-      "id": "swadesh_fm_np_1127ebb9",
-      "title": "Swadesh FM",
-      "subtitle": "Radio",
-      "location": "Nepal",
-      "genre": "Radio",
-      "countryCode": "NP",
-      "language": null,
-      "clickCount": 7,
-      "bitrate": 128,
-      "streamUrl": "https://radio.garden/api/ara/content/listen/ApPqIXdm/channel.mp3?1700834587158"
-    },
-    {
-      "id": "nhk_world_radio_11_jp_6ec34b36",
-      "title": "NHK WORLD RADIO 11",
-      "subtitle": "International",
-      "location": "Japan",
-      "genre": "International",
-      "countryCode": "JP",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 66,
-      "streamUrl": "https://master.nhkworld.jp/nhkworld-radio/playlist/gs2/live.m3u8"
-    },
-    {
       "id": "radio_navahang_ir_bce5999e",
       "title": "Radio Navahang",
       "subtitle": "Middle Eastern Music",
@@ -25550,30 +25488,6 @@
       "clickCount": 5,
       "bitrate": 67,
       "streamUrl": "http://mlive2.febc.net:1935/live/seoulfm/playlist.m3u8"
-    },
-    {
-      "id": "thr_gegar_my_4d4d5232",
-      "title": "THR Gegar",
-      "subtitle": "Radio",
-      "location": "Malaysia",
-      "genre": "Radio",
-      "countryCode": "MY",
-      "language": "english",
-      "clickCount": 5,
-      "bitrate": 0,
-      "streamUrl": "https://n09.rcs.revma.com/cn0zcqsbv4uvv/9_1i7eg69ua9k0u02/playlist.m3u8"
-    },
-    {
-      "id": "mbc_fm4u_kr_69430242",
-      "title": "MBC FM4U",
-      "subtitle": "Radio",
-      "location": "The Republic Of Korea",
-      "genre": "Radio",
-      "countryCode": "KR",
-      "language": "korean",
-      "clickCount": 21,
-      "bitrate": 65,
-      "streamUrl": "https://minimw.imbc.com/dmfm/_definst_/mfm.stream/playlist.m3u8?_lsu_sa_=6FF1F31E337D3E448F4895B032811B48A5E33B352803D21A3EA0EDa866BA31A610a843F93A32A145C03B368163b2710B8337DEFC15798CB869381755BE39F57A58BD4566CF2AC5FB7EAE94CF2A14CE837B26EC6CAF843D44D0A4E20C91C9895A414547AFE92895C325FDB01291E5C73F"
     },
     {
       "id": "shaa_fm_lk_3b613ac2",
@@ -27004,18 +26918,6 @@
       "streamUrl": "https://2radio-bora.gscdn.kbs.co.kr/2radio-bora-01/2radio-bora-01_hd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ycmFkaW8tYm9yYS5nc2Nkbi5rYnMuY28ua3IvMnJhZGlvLWJvcmEtMDEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NDEyOTU5Mn19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=iuNprM-kmzIs3v44fdDDXSY9-tVxo~6G7MbzR8SLsrDIFi7goVjAqa4wRYp0FlhTojCapKDZlVouZIG2GWWP7A1bk-WnabZSe5UTCnHpIiK8rVLdbCBT9L3mlkZUpJqnn9Y7QpPfu6hZVrlD47zXgS6Kp28PCjNEGNCW30DQqbcpMt3fbd~P7SUn5kBg6zkFf8Bmf-0c0VxymxBppkAszbzFTBw9~20GwQpPErC8C531gwesQzcGRy-fUVOIjbYFlh4CqCgTMqGaIpiwf9bgwKDSaRWcDIsSW3DvYzlj6UHyaJ~BVrf2JGdroLuCkIdr6Dbf1MaV4-YVqBDrSyrnVQ__"
     },
     {
-      "id": "kbs_1r_kr_e7c7f79d",
-      "title": "KBS 1R",
-      "subtitle": "Radio",
-      "location": "The Republic Of Korea",
-      "genre": "Radio",
-      "countryCode": "KR",
-      "language": "korean",
-      "clickCount": 27,
-      "bitrate": 0,
-      "streamUrl": "https://1radio-bora.gscdn.kbs.co.kr/1radio-bora-01/1radio-bora-01_hd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xcmFkaW8tYm9yYS5nc2Nkbi5rYnMuY28ua3IvMXJhZGlvLWJvcmEtMDEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NDE0NjM5Mn19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=Ui7PH99GHvFk-9xkWhIwzGdzQVdbitKhTCw5uymNaSKcwufkjrDsPnFtjWhppgv7IxbWNxxsLB0Ks0ARvEUPAcQC3IKRaai3qRxl9uXJz6Bb7zN9052tmk7lop93d-HPZSPN5Ufe-zCvnAAGq7mufJWchYneRAlvRodOT58EOmlhLcqOinveEzAL6SNZEcYsxNVIZGadRP422BjfA7z~bf071TR2eMEgIfailRmLnhNvNT7hlWq0hDorP7yrDn55XqyZKhpucgGpmHRu16TB3BKDhYeU7twE38nz-nuMDp7as8db6f~FLr9SU2cuyqCJWaqq9HNP36LI~pTSnPc1GA__"
-    },
-    {
       "id": "ahmet_kaya_anne_bul_beni_anne_iq_21a95426",
       "title": "Ahmet Kaya - Anne Bul Beni Anne",
       "subtitle": "Ahmet Kaya",
@@ -27950,6 +27852,318 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://stream.zeno.fm/zr736mbgqrhvv"
+    },
+    {
+      "id": "nhk_world_radio_11_jp_6ec34b36",
+      "title": "NHK WORLD RADIO 11",
+      "subtitle": "International",
+      "location": "Japan",
+      "genre": "International",
+      "countryCode": "JP",
+      "language": null,
+      "clickCount": 13,
+      "bitrate": 66,
+      "streamUrl": "https://master.nhkworld.jp/nhkworld-radio/playlist/gs2/live.m3u8"
+    },
+    {
+      "id": "al_mushaf_al_muallim_with_english_translation_kw_eb0bfd97",
+      "title": "Al-Mushaf Al-Muallim with English Translation",
+      "subtitle": "English",
+      "location": "Kuwait",
+      "genre": "English",
+      "countryCode": "KW",
+      "language": "english",
+      "clickCount": 9,
+      "bitrate": 128,
+      "streamUrl": "https://serverkw.quran-uni.com:8092/;"
+    },
+    {
+      "id": "swadesh_fm_np_1127ebb9",
+      "title": "Swadesh FM",
+      "subtitle": "Radio",
+      "location": "Nepal",
+      "genre": "Radio",
+      "countryCode": "NP",
+      "language": null,
+      "clickCount": 8,
+      "bitrate": 128,
+      "streamUrl": "https://radio.garden/api/ara/content/listen/ApPqIXdm/channel.mp3?1700834587158"
+    },
+    {
+      "id": "al_mushaf_al_mu_allim_by_sheikh_muhammad_siddiq_al_minshawi_kw_2271371c",
+      "title": "Al-Mushaf Al-Mu`allim by Sheikh Muhammad Siddiq Al-Minshawi",
+      "subtitle": "Arabic",
+      "location": "Kuwait",
+      "genre": "Arabic",
+      "countryCode": "KW",
+      "language": "arabic",
+      "clickCount": 7,
+      "bitrate": 128,
+      "streamUrl": "https://serverkw.quran-uni.com:8242/;"
+    },
+    {
+      "id": "translation_of_the_quran_in_maranao_kw_eaf95fa3",
+      "title": "Translation of the Quran in Maranao",
+      "subtitle": "Islam",
+      "location": "Kuwait",
+      "genre": "Islam",
+      "countryCode": "KW",
+      "language": "maranao",
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://serverkw.quran-uni.com:8090/;"
+    },
+    {
+      "id": "quran_recitation_by_sheikh_abdullah_ali_jabir_kw_a219f78e",
+      "title": "Quran Recitation by Sheikh Abdullah Ali Jabir",
+      "subtitle": "Arabic",
+      "location": "Kuwait",
+      "genre": "Arabic",
+      "countryCode": "KW",
+      "language": "arabic",
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://serverkw.quran-uni.com:8150/;"
+    },
+    {
+      "id": "galuh_fm_bali_id_65556014",
+      "title": "Galuh FM Bali",
+      "subtitle": "Jazz",
+      "location": "Indonesia",
+      "genre": "Jazz",
+      "countryCode": "ID",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 48,
+      "streamUrl": "https://a12.siar.us:8390/stream"
+    },
+    {
+      "id": "quran_recitation_by_sheikh_abdul_aziz_al_ahmad_kw_55865441",
+      "title": "Quran Recitation by Sheikh Abdul-Aziz Al-Ahmad",
+      "subtitle": "Arabic",
+      "location": "Kuwait",
+      "genre": "Arabic",
+      "countryCode": "KW",
+      "language": "arabic",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://serverkw.quran-uni.com:8142/;"
+    },
+    {
+      "id": "quran_recitation_by_sheikh_abu_bakr_al_shatiri_kw_05fdee59",
+      "title": "Quran Recitation by Sheikh Abu Bakr al-Shatiri",
+      "subtitle": "Arabic",
+      "location": "Kuwait",
+      "genre": "Arabic",
+      "countryCode": "KW",
+      "language": "arabic",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://serverkw.quran-uni.com:8162/;"
+    },
+    {
+      "id": "reading_of_qalun_from_nafi_by_mahmoud_khalil_al_husari_kw_19eb334e",
+      "title": "Reading of Qalun from Nafi by Mahmoud Khalil Al-Husari",
+      "subtitle": "Arabic",
+      "location": "Kuwait",
+      "genre": "Arabic",
+      "countryCode": "KW",
+      "language": "arabic",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://serverkw.quran-uni.com:8206/;"
+    },
+    {
+      "id": "fm_95_0_cy_748af14f",
+      "title": "Σπορ FM 95.0",
+      "subtitle": "Greek",
+      "location": "Cyprus",
+      "genre": "Greek",
+      "countryCode": "CY",
+      "language": "greek",
+      "clickCount": 4,
+      "bitrate": 250,
+      "streamUrl": "http://eradio.networksolutions.com.cy:1935/SportFM/SportFM.stream/playlist.m3u8"
+    },
+    {
+      "id": "jujube_radio_classic_rock_cy_ce38a715",
+      "title": "Jujube Radio Classic Rock",
+      "subtitle": "Classic Rock",
+      "location": "Cyprus",
+      "genre": "Classic Rock",
+      "countryCode": "CY",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://jujuberadio.com/classicrock"
+    },
+    {
+      "id": "streaming_murah_id_d6ae0d8a",
+      "title": "Streaming Murah",
+      "subtitle": "Pop",
+      "location": "Indonesia",
+      "genre": "Pop",
+      "countryCode": "ID",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 64,
+      "streamUrl": "https://ssg.streamingmurah.com:7777/stream"
+    },
+    {
+      "id": "nindy_radio_98_2_fm_id_65803273",
+      "title": "Nindy Radio 98.2 FM",
+      "subtitle": "Alternative",
+      "location": "Indonesia",
+      "genre": "Alternative",
+      "countryCode": "ID",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://radio.garden/api/ara/content/listen/823zxnHk/channel.mp3"
+    },
+    {
+      "id": "quran_recitation_by_sheikh_abdullah_khayat_kw_e4097668",
+      "title": "Quran Recitation by Sheikh Abdullah Khayat",
+      "subtitle": "Arabic",
+      "location": "Kuwait",
+      "genre": "Arabic",
+      "countryCode": "KW",
+      "language": "arabic",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://serverkw.quran-uni.com:8152/;"
+    },
+    {
+      "id": "quran_recitation_by_sheikh_hani_ar_rifa_i_kw_b02da84a",
+      "title": "Quran Recitation by Sheikh Hani ar-Rifa`i",
+      "subtitle": "Arabic",
+      "location": "Kuwait",
+      "genre": "Arabic",
+      "countryCode": "KW",
+      "language": "arabic",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://serverkw.quran-uni.com:8154/;"
+    },
+    {
+      "id": "quran_recitation_by_sheikh_muhammad_al_luhaidan_kw_06b2476c",
+      "title": "Quran Recitation by Sheikh Muhammad al-Luhaidan",
+      "subtitle": "Arabic",
+      "location": "Kuwait",
+      "genre": "Arabic",
+      "countryCode": "KW",
+      "language": "arabic",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://serverkw.quran-uni.com:8156/;"
+    },
+    {
+      "id": "quran_recitation_by_sheikh_muhammad_jibreel_kw_c528f2f7",
+      "title": "Quran Recitation by Sheikh Muhammad Jibreel",
+      "subtitle": "Arabic",
+      "location": "Kuwait",
+      "genre": "Arabic",
+      "countryCode": "KW",
+      "language": "arabic",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://serverkw.quran-uni.com:8160/;"
+    },
+    {
+      "id": "quran_recitation_by_sheikh_nasser_al_qatami_kw_8febb71f",
+      "title": "Quran Recitation by Sheikh Nasser Al-Qatami",
+      "subtitle": "Arabic",
+      "location": "Kuwait",
+      "genre": "Arabic",
+      "countryCode": "KW",
+      "language": "arabic",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://serverkw.quran-uni.com:8166/;"
+    },
+    {
+      "id": "quran_recitation_by_sheikh_yasser_al_dosari_kw_60ca67e1",
+      "title": "Quran Recitation by Sheikh Yasser Al-Dosari",
+      "subtitle": "Arabic",
+      "location": "Kuwait",
+      "genre": "Arabic",
+      "countryCode": "KW",
+      "language": "arabic",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://serverkw.quran-uni.com:8168/;"
+    },
+    {
+      "id": "quran_recitation_by_sheikh_abdullah_basfar_kw_0714cab4",
+      "title": "Quran Recitation by Sheikh Abdullah Basfar",
+      "subtitle": "Arabic",
+      "location": "Kuwait",
+      "genre": "Arabic",
+      "countryCode": "KW",
+      "language": "arabic",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://serverkw.quran-uni.com:8182/;"
+    },
+    {
+      "id": "quran_recitation_by_sheikh_abdul_mohsin_al_qasim_kw_f121aa5e",
+      "title": "Quran Recitation by Sheikh Abdul Mohsin Al-Qasim",
+      "subtitle": "Arabic",
+      "location": "Kuwait",
+      "genre": "Arabic",
+      "countryCode": "KW",
+      "language": "arabic",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://serverkw.quran-uni.com:8188/;"
+    },
+    {
+      "id": "quran_recitation_by_sheikh_saud_al_shuraim_kw_4b481046",
+      "title": "Quran Recitation by Sheikh Saud Al-Shuraim",
+      "subtitle": "Arabic",
+      "location": "Kuwait",
+      "genre": "Arabic",
+      "countryCode": "KW",
+      "language": "arabic",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://serverkw.quran-uni.com:8194/;"
+    },
+    {
+      "id": "reading_of_qalun_from_nafi_by_al_dukali_muhammad_al_alim_kw_a69d1c9f",
+      "title": "Reading of Qalun from Nafi by Al-Dukali Muhammad Al-Alim'",
+      "subtitle": "Arabic",
+      "location": "Kuwait",
+      "genre": "Arabic",
+      "countryCode": "KW",
+      "language": "arabic",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://serverkw.quran-uni.com:8200/;"
+    },
+    {
+      "id": "reading_of_warsh_from_nafi_by_abdul_basit_abdul_samad_kw_b7a84306",
+      "title": "Reading of Warsh from Nafi by Abdul-Basit Abdul-Samad",
+      "subtitle": "Arabic",
+      "location": "Kuwait",
+      "genre": "Arabic",
+      "countryCode": "KW",
+      "language": "arabic",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://serverkw.quran-uni.com:8210/;"
+    },
+    {
+      "id": "playloud_radio_lebanon_lb_7a57b290",
+      "title": "Playloud Radio Lebanon",
+      "subtitle": "Dance",
+      "location": "Lebanon",
+      "genre": "Dance",
+      "countryCode": "LB",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://stream.zeno.fm/mtyqgubeunhvv"
     }
   ]
 }

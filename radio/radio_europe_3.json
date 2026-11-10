@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-09T04:41:04Z",
+  "updated": "2026-11-10T06:01:20Z",
   "region": "europe",
   "part": 3,
   "of": 8,
@@ -17109,15 +17109,6 @@
       "bitrate": 128
     },
     {
-      "id": "phaune_radio_fr_9620ac",
-      "title": "Phaune radio",
-      "subtitle": "Sounds Of Nature",
-      "location": "France",
-      "genre": "Sounds Of Nature",
-      "streamUrl": "http://stream.phauneradio.com/phaune_128",
-      "countryCode": "FR"
-    },
-    {
       "id": "rb2_pinata_0deb7fbb",
       "title": "Pinata",
       "subtitle": "Electronica, Hiphop",
@@ -21874,19 +21865,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_radionysos_4740cdb0",
-      "title": "Radionysos",
-      "subtitle": "Alternative, Electronic",
-      "imageUrl": "",
-      "streamUrl": "https://listen.radioking.com/radio/254980/stream/299539",
-      "location": "Paris, France",
-      "genre": "Alternative",
-      "countryCode": "FR",
-      "language": "french",
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_radios_libres_en_perigord_rlp102_3_aac_6_8311c31b",
       "title": "Radios Libres en Perigord - RLP102.3 - AAC+ 64",
       "subtitle": "Local",
@@ -25368,18 +25346,6 @@
       "streamUrl": "https://server5.mediasector.es:8180/moda.mp3"
     },
     {
-      "id": "france24_fran_ais_fr_1ab4e9e9",
-      "title": "France24 Français",
-      "subtitle": "Information",
-      "location": "France",
-      "genre": "Information",
-      "countryCode": "FR",
-      "language": "french",
-      "clickCount": 5,
-      "bitrate": 105,
-      "streamUrl": "http://static.france24.com/live/F24_FR_LO_HLS/live_audio.m3u8"
-    },
-    {
       "id": "onda_aragonesa_es_4e92eada",
       "title": "Onda Aragonesa",
       "subtitle": "News",
@@ -27310,6 +27276,186 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "http://ukwesta.streaming.broadcast.radio:17210/lomondradio"
+    },
+    {
+      "id": "all_out_80s_gb_2ec1afc3",
+      "title": "All Out 80s",
+      "subtitle": "80S",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "80S",
+      "countryCode": "GB",
+      "language": null,
+      "clickCount": 10,
+      "bitrate": 192,
+      "streamUrl": "https://a10.asurahosting.com:7960/radio.mp3"
+    },
+    {
+      "id": "fr_quence_3_chambre_404_fr_e47eef79",
+      "title": "Fréquence 3+ Chambre 404",
+      "subtitle": "Chillout",
+      "location": "France",
+      "genre": "Chillout",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 8,
+      "bitrate": 460,
+      "streamUrl": "https://hls.net-radio.fr/Frequence3Plus-20/Frequence3Plus-20.m3u8"
+    },
+    {
+      "id": "times_radio_127kbps_gb_4e3c4cd2",
+      "title": "Times Radio 127kbps",
+      "subtitle": "Radio",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Radio",
+      "countryCode": "GB",
+      "language": null,
+      "clickCount": 7,
+      "bitrate": 127,
+      "streamUrl": "https://times.live.stream.broadcasting.news/stream"
+    },
+    {
+      "id": "cope_valencia_es_50af620e",
+      "title": "COPE Valencia",
+      "subtitle": "Radio",
+      "location": "Spain",
+      "genre": "Radio",
+      "countryCode": "ES",
+      "language": "spanish",
+      "clickCount": 6,
+      "bitrate": 96,
+      "streamUrl": "https://wecast-bl01.flumotion.com/copesedes/valencia.mp3"
+    },
+    {
+      "id": "fr_quence_3_reboot_fr_26217132",
+      "title": "Fréquence 3+ Reboot",
+      "subtitle": "Dance",
+      "location": "France",
+      "genre": "Dance",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 6,
+      "bitrate": 460,
+      "streamUrl": "https://hls.net-radio.fr/Frequence3Plus-10/Frequence3Plus-10.m3u8"
+    },
+    {
+      "id": "fr_quence_3_sunset_lounge_fr_ea8be3aa",
+      "title": "Fréquence 3+ Sunset Lounge",
+      "subtitle": "Chill House",
+      "location": "France",
+      "genre": "Chill House",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 6,
+      "bitrate": 460,
+      "streamUrl": "https://hls.net-radio.fr/Frequence3Plus-16/Frequence3Plus-16.m3u8"
+    },
+    {
+      "id": "capital_yorkshire_south_and_west_gb_d2a37987",
+      "title": "Capital Yorkshire (South and West)",
+      "subtitle": "Radio",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Radio",
+      "countryCode": "GB",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "http://icecast.thisisdax.com/CapitalYorkshireSouthWestMP3"
+    },
+    {
+      "id": "radio_dikela_aac_m_vil_es_bc6d0d4b",
+      "title": "Radio Dikela (AAC+ Móvil)",
+      "subtitle": "Aac",
+      "location": "Spain",
+      "genre": "Aac",
+      "countryCode": "ES",
+      "language": "spanish",
+      "clickCount": 5,
+      "bitrate": 48,
+      "streamUrl": "https://dikela.org/radio_mobile"
+    },
+    {
+      "id": "fr_quence_3_k7_autoreverse_fr_9f823875",
+      "title": "Fréquence 3+ K7 Autoreverse",
+      "subtitle": "90S",
+      "location": "France",
+      "genre": "90S",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 5,
+      "bitrate": 460,
+      "streamUrl": "https://hls.net-radio.fr/Frequence3Plus-9/Frequence3Plus-9.m3u8"
+    },
+    {
+      "id": "fr_quence_3_polaroid_70_fr_6b1b58a8",
+      "title": "Fréquence 3+ Polaroid 70",
+      "subtitle": "70S",
+      "location": "France",
+      "genre": "70S",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 5,
+      "bitrate": 460,
+      "streamUrl": "https://hls.net-radio.fr/Frequence3Plus-17/Frequence3Plus-17.m3u8"
+    },
+    {
+      "id": "energy_fm_old_school_classics_gb_3b888cab",
+      "title": "Energy FM Old School Classics",
+      "subtitle": "Radio",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Radio",
+      "countryCode": "GB",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://radio.streemlion.com:1045/stream"
+    },
+    {
+      "id": "music_radio_fitness_fr_f8d7e315",
+      "title": "Music Radio Fitness",
+      "subtitle": "Ai Music",
+      "location": "France",
+      "genre": "Ai Music",
+      "countryCode": "FR",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://radio.musicradio.ai/listen/music_radio_fitness/radio.mp3"
+    },
+    {
+      "id": "kickdrum_fr_89f60848",
+      "title": "KickDrum",
+      "subtitle": "Hard Techno",
+      "location": "France",
+      "genre": "Hard Techno",
+      "countryCode": "FR",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://kickdrum.internal-server.work/radio.mp3"
+    },
+    {
+      "id": "afrionde_fr_596c9f91",
+      "title": "AfriOnde",
+      "subtitle": "Afrique & Pop",
+      "location": "France",
+      "genre": "Afrique & Pop",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://live.afrionde.fr/afrionde1"
+    },
+    {
+      "id": "ch_rie_fm_b_ziers_fr_d76cfaee",
+      "title": "Chérie FM Béziers",
+      "subtitle": "Cherie Fm",
+      "location": "France",
+      "genre": "Cherie Fm",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 4,
+      "bitrate": 64,
+      "streamUrl": "https://streaming.nrjaudio.fm/ou2j7upw5hs7"
     }
   ]
 }

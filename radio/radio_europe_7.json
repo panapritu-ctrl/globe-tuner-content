@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-09T04:41:04Z",
+  "updated": "2026-11-10T06:01:20Z",
   "region": "europe",
   "part": 7,
   "of": 8,
@@ -11063,19 +11063,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_radio_zu_85f02a44",
-      "title": "Radio ZU!",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://live7digi.antenaplay.ro/radiozu/radiozu-48000.m3u8",
-      "location": "Romania",
-      "genre": "Radio",
-      "countryCode": "RO",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
       "id": "radio_zu_ro_70d48c",
       "title": "Radio Zu",
       "subtitle": "Top 40",
@@ -19137,19 +19124,6 @@
       "bitrate": 28
     },
     {
-      "id": "rb2_love_radio_96_4_fm_1dc15af4",
-      "title": "Love Radio Вологда 96.4 FM",
-      "subtitle": "Music",
-      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240625_151332217.jpg?alt=media&token=66658f9f-269a-465e-9185-9634760e6586",
-      "streamUrl": "http://microit.n340.com:9000/VgMv0WV17ZVx1uuo_12_love_128_reg_90266",
-      "location": "The Russian Federation",
-      "genre": "Music",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_love_radio_104_9_fm_b54ab3f1",
       "title": "Love Radio Нижний Новгород 104.9 FM",
       "subtitle": "Love Radio, Music",
@@ -22458,18 +22432,6 @@
       "streamUrl": "https://ssl.omegahost.ro/8066/stream"
     },
     {
-      "id": "clasic_radio_80_bucure_ti_ro_10176f58",
-      "title": "Clasic Radio_80 -București",
-      "subtitle": "80S",
-      "location": "Romania",
-      "genre": "80S",
-      "countryCode": "RO",
-      "language": "română",
-      "clickCount": 3,
-      "bitrate": 192,
-      "streamUrl": "https://live.radioclasic.com/listen/radio_clasic_80/live.mp3"
-    },
-    {
       "id": "radio_deea_one_ti_ro_83d8de16",
       "title": "Radio DEEA -Onești",
       "subtitle": "Dance",
@@ -25290,18 +25252,6 @@
       "streamUrl": "https://astreaming.vibefm.ro:8443/vibe_ro64"
     },
     {
-      "id": "antena_krusevac_rs_793f27dd",
-      "title": "Antena Krusevac",
-      "subtitle": "Radio",
-      "location": "Serbia",
-      "genre": "Radio",
-      "countryCode": "RS",
-      "language": "serbian",
-      "clickCount": 4,
-      "bitrate": 320,
-      "streamUrl": "http://antenaradio.org:4560/;stream.nsv"
-    },
-    {
       "id": "magic_tv_ro_4b528777",
       "title": "Magic tv",
       "subtitle": "Radio",
@@ -25828,6 +25778,162 @@
       "clickCount": 5,
       "bitrate": 0,
       "streamUrl": "https://radioendirect.net/stream/125928"
+    },
+    {
+      "id": "egeta_radio_2_narodna_muzika_rs_2b57fd0e",
+      "title": "Egeta Radio 2 (Narodna muzika)",
+      "subtitle": "Folk",
+      "location": "Serbia",
+      "genre": "Folk",
+      "countryCode": "RS",
+      "language": "serbian",
+      "clickCount": 8,
+      "bitrate": 128,
+      "streamUrl": "https://stream.zeno.fm/g7awzbwvzutvv"
+    },
+    {
+      "id": "station_ru_3c868601",
+      "title": "Радио дача",
+      "subtitle": "Radio",
+      "location": "The Russian Federation",
+      "genre": "Radio",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 7,
+      "bitrate": 0,
+      "streamUrl": "http://listen13.vdfm.ru:8000/dacha"
+    },
+    {
+      "id": "antyradio_warszawa_pl_1b8bea60",
+      "title": "Antyradio Warszawa",
+      "subtitle": "Radio",
+      "location": "Poland",
+      "genre": "Radio",
+      "countryCode": "PL",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://an.cdn.eurozet.pl/ant-web.mp3?t=1703697029993"
+    },
+    {
+      "id": "gta_iv_massive_b_soundsystem_96_9_gtaradio_net_ru_107a8774",
+      "title": "[GTA IV] Massive B Soundsystem 96.9 [GTARadio.net]",
+      "subtitle": "Dancehall",
+      "location": "The Russian Federation",
+      "genre": "Dancehall",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://audio.gtaradio.net/4/bobby_konders"
+    },
+    {
+      "id": "radio_stanis_aw_w_pl_18a90fdf",
+      "title": "Radio Stanisławów",
+      "subtitle": "Chillout",
+      "location": "Poland",
+      "genre": "Chillout",
+      "countryCode": "PL",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://stream.radiostanislawow.org/stream"
+    },
+    {
+      "id": "eska2_szczecin_pl_0770bcd8",
+      "title": "ESKA2 Szczecin",
+      "subtitle": "Radio",
+      "location": "Poland",
+      "genre": "Radio",
+      "countryCode": "PL",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://ic1.smcdn.pl/1260-1.mp3"
+    },
+    {
+      "id": "radio_pogoda_wroclaw_pl_a2e28a9a",
+      "title": "Radio Pogoda Wroclaw",
+      "subtitle": "Local News",
+      "location": "Poland",
+      "genre": "Local News",
+      "countryCode": "PL",
+      "language": "polish",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://radiostream.pl/tuba142-1.mp3"
+    },
+    {
+      "id": "radio_zmys_owe_pl_56cf0c1f",
+      "title": "Radio Zmysłowe",
+      "subtitle": "Radio",
+      "location": "Poland",
+      "genre": "Radio",
+      "countryCode": "PL",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://s3.slotex.pl/shoutcast/7166/stream?sid=1"
+    },
+    {
+      "id": "jovembsk_dance_pt_afe71c27",
+      "title": "jovembsk dance",
+      "subtitle": "Electronic",
+      "location": "Portugal",
+      "genre": "Electronic",
+      "countryCode": "PT",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream.zeno.fm/1wux17cbfkcuv"
+    },
+    {
+      "id": "radar_97_8_fm_pt_df783363",
+      "title": "RADAR – 97.8 FM",
+      "subtitle": "Radio",
+      "location": "Portugal",
+      "genre": "Radio",
+      "countryCode": "PT",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "http://proic1.evspt.com/radar_aac"
+    },
+    {
+      "id": "radio_glasul_ortodoxiei_ro_b88866bc",
+      "title": "Radio Glasul Ortodoxiei",
+      "subtitle": "Crestin-Ortodox",
+      "location": "Romania",
+      "genre": "Crestin-Ortodox",
+      "countryCode": "RO",
+      "language": "română",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://sonic.xservere.net:10884/stream"
+    },
+    {
+      "id": "sud_radio_craiova_97_4_fm_ro_14a16d22",
+      "title": "Sud Radio -Craiova 97.4 FM",
+      "subtitle": "Local News",
+      "location": "Romania",
+      "genre": "Local News",
+      "countryCode": "RO",
+      "language": "romania",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "http://radiosud.ro/stream/"
+    },
+    {
+      "id": "station_ru_62e15de6",
+      "title": "Ашкадар",
+      "subtitle": "Music",
+      "location": "The Russian Federation",
+      "genre": "Music",
+      "countryCode": "RU",
+      "language": "bashkir",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://radio.mediacdn.ru/ashkadar.mp3"
     }
   ]
 }
