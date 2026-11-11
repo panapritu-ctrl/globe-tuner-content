@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-10T06:01:20Z",
+  "updated": "2026-11-11T04:44:42Z",
   "region": "europe",
   "part": 6,
   "of": 8,
@@ -23738,18 +23738,6 @@
       "streamUrl": "https://radio.rsi-tv.eu/listen/radio_stars_international/radio.mp3"
     },
     {
-      "id": "lsg_radijas_lt_d81de2b8",
-      "title": "lsg radijas",
-      "subtitle": "Random",
-      "location": "Lithuania",
-      "genre": "Random",
-      "countryCode": "LT",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 128,
-      "streamUrl": "https://streamingp.shoutcast.com/JamendoLounge?lang=lt%3bq%3d0.9"
-    },
-    {
       "id": "hit_fm_orchestral_classics_md_2815687f",
       "title": "HIT FM Orchestral Classics",
       "subtitle": "Classical",
@@ -28044,6 +28032,66 @@
       "clickCount": 4,
       "bitrate": 192,
       "streamUrl": "http://149.202.83.114:8240/stream"
+    },
+    {
+      "id": "the_finest_beat_street_nl_3f907a3a",
+      "title": "The Finest Beat Street",
+      "subtitle": "Radio",
+      "location": "The Netherlands",
+      "genre": "Radio",
+      "countryCode": "NL",
+      "language": "american english",
+      "clickCount": 14,
+      "bitrate": 320,
+      "streamUrl": "http://live.thefinest.amsterdam:8000/mp3"
+    },
+    {
+      "id": "p_kas_2_lt_128c02bd",
+      "title": "Pūkas-2",
+      "subtitle": "Radio",
+      "location": "Lithuania",
+      "genre": "Radio",
+      "countryCode": "LT",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 112,
+      "streamUrl": "http://217.20.120.23:8074/stream"
+    },
+    {
+      "id": "pukas_2_lt_4d2cdd43",
+      "title": "Pukas 2",
+      "subtitle": "Blues Rock",
+      "location": "Lithuania",
+      "genre": "Blues Rock",
+      "countryCode": "LT",
+      "language": "lietuviškai",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "http://217.20.120.23:8000/stream"
+    },
+    {
+      "id": "the_finest_beat_street_nl_cd732918",
+      "title": "The Finest Beat Street",
+      "subtitle": "Breakdance",
+      "location": "The Netherlands",
+      "genre": "Breakdance",
+      "countryCode": "NL",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 320,
+      "streamUrl": "https://beatstreet.thefinest.amsterdam/listen"
+    },
+    {
+      "id": "classic_replay_radio_nl_150ef518",
+      "title": "Classic Replay Radio",
+      "subtitle": "Classic",
+      "location": "The Netherlands",
+      "genre": "Classic",
+      "countryCode": "NL",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 320,
+      "streamUrl": "http://135.181.165.48:8019/stream"
     }
   ]
 }

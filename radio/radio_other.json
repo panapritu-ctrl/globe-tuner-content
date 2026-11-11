@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-10T06:01:20Z",
+  "updated": "2026-11-11T04:44:42Z",
   "region": "other",
   "stations": [
     {
@@ -6618,18 +6618,6 @@
       "streamUrl": "https://relay.stream.enacast-cloud.com:30253/arteradioHD.mp3"
     },
     {
-      "id": "starter_fm_au_048d85f1",
-      "title": "Starter FM",
-      "subtitle": "Radio",
-      "location": "Australia",
-      "genre": "Radio",
-      "countryCode": "AU",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 2328,
-      "streamUrl": "http://10321.cloudrad.io:9054/hd"
-    },
-    {
       "id": "triple_r_au_a2aad268",
       "title": "Triple R",
       "subtitle": "Radio",
@@ -9832,18 +9820,6 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://streaming.live365.com/a30884"
-    },
-    {
-      "id": "florida_man_radio_us_c216ee15",
-      "title": "Florida Man Radio",
-      "subtitle": "News",
-      "location": "The United States Of America",
-      "genre": "News",
-      "countryCode": "US",
-      "language": "engilsh",
-      "clickCount": 4,
-      "bitrate": 32,
-      "streamUrl": "https://ice42.securenetsystems.net/WZLB"
     },
     {
       "id": "nrj_at_work_fr_8ce10ee9",
@@ -22134,18 +22110,6 @@
       "streamUrl": "https://s1.autopo.st/proxy/vps4005?mp=/stream"
     },
     {
-      "id": "thaalam_fm_ch_87d0c199",
-      "title": "Thaalam FM",
-      "subtitle": "Radio",
-      "location": "Switzerland",
-      "genre": "Radio",
-      "countryCode": "CH",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 64,
-      "streamUrl": "http://thaalam.out.airtime.pro/thaalam_b"
-    },
-    {
       "id": "radio_de_no_l_fr_fa7b75f6",
       "title": "Radio de Noël",
       "subtitle": "Misc",
@@ -26584,6 +26548,90 @@
       "clickCount": 4,
       "bitrate": 105,
       "streamUrl": "http://static.france24.com/live/F24_FR_LO_HLS/live_audio.m3u8"
+    },
+    {
+      "id": "vrt_klara_continuo_be_bb2c622c",
+      "title": "VRT Klara Continuo",
+      "subtitle": "Radio",
+      "location": "Belgium",
+      "genre": "Radio",
+      "countryCode": "BE",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "https://vrt.streamabc.net/vrt-klaracontinuo-mp3-128-6851541?sABC=6ns30rr3%230%236o7o9721r626s2oq7s0rq59121rp27p1%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1794313955"
+    },
+    {
+      "id": "hope_for_tomorrow_us_ca59e8d4",
+      "title": "Hope for Tomorrow",
+      "subtitle": "A Cappella",
+      "location": "The United States Of America",
+      "genre": "A Cappella",
+      "countryCode": "US",
+      "language": "persian",
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://radio.truth.fm:8000/pipfa"
+    },
+    {
+      "id": "old_country_church_by_rejoice_radio_us_34494e2a",
+      "title": "Old Country Church by Rejoice Radio",
+      "subtitle": "Gospel Music",
+      "location": "The United States Of America",
+      "genre": "Gospel Music",
+      "countryCode": "US",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://rejoice.primcast.com/proxy/old_country_church/stream"
+    },
+    {
+      "id": "nueva_vida_by_rejoice_radio_us_740a65fc",
+      "title": "Nueva Vida by Rejoice Radio",
+      "subtitle": "Gospel Music",
+      "location": "The United States Of America",
+      "genre": "Gospel Music",
+      "countryCode": "US",
+      "language": "spanish",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://rejoice.primcast.com/proxy/nueva_vida/nueva"
+    },
+    {
+      "id": "radio_recital_us_a8d96576",
+      "title": "Radio Recital",
+      "subtitle": "70'S",
+      "location": "The United States Of America",
+      "genre": "70'S",
+      "countryCode": "US",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 96,
+      "streamUrl": "https://stream20.usastreams.com/8116/stream"
+    },
+    {
+      "id": "kbrn_boerne_radio_103_9_fm_us_b492a50a",
+      "title": "KBRN Boerne Radio 103.9 FM",
+      "subtitle": "Golden Oldies",
+      "location": "The United States Of America",
+      "genre": "Golden Oldies",
+      "countryCode": "US",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 64,
+      "streamUrl": "https://ice42.securenetsystems.net/KBRN"
+    },
+    {
+      "id": "b93_7_sheboygan_us_23cf7cdf",
+      "title": "B93.7 Sheboygan",
+      "subtitle": "Country",
+      "location": "The United States Of America",
+      "genre": "Country",
+      "countryCode": "US",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 64,
+      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/WBFMFM.mp3"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-10T06:01:20Z",
+  "updated": "2026-11-11T04:44:42Z",
   "region": "europe",
   "part": 5,
   "of": 8,
@@ -12434,15 +12434,6 @@
       "bitrate": 96
     },
     {
-      "id": "radio_tvornica_hr_960125",
-      "title": "Radio Tvornica",
-      "subtitle": "Radio",
-      "location": "Grad Zagreb, Croatia",
-      "genre": "Radio",
-      "streamUrl": "https://c8.hostingcentar.com/streams/radiotvornica?type=http&nocache=50001",
-      "countryCode": "HR"
-    },
-    {
       "id": "rb2_radio_velika_gorica_d7a711c5",
       "title": "Radio Velika Gorica",
       "subtitle": "Radio",
@@ -12897,19 +12888,6 @@
       "countryCode": "HU",
       "language": null,
       "clickCount": 1,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_all_star_radio_80_s_feab0004",
-      "title": "All-Star Radio 80's",
-      "subtitle": "Radio",
-      "imageUrl": "https://a3.asurahosting.com/static/uploads/all-star_radio_80s_disco/background.1771604217.png",
-      "streamUrl": "https://a3.asurahosting.com/listen/all-star_radio_80s_disco/radio.mp3",
-      "location": "Hungary",
-      "genre": "Radio",
-      "countryCode": "HU",
-      "language": null,
-      "clickCount": 3,
       "bitrate": 128
     },
     {
@@ -14933,19 +14911,6 @@
       "countryCode": "HU",
       "language": null,
       "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_radiopod_fediverse_60fc55a0",
-      "title": "Radiopod Fediverse",
-      "subtitle": "Jazz, Smooth",
-      "imageUrl": "https://radiopod.top/radiopod.png",
-      "streamUrl": "https://radiopod.top/radio.mp3",
-      "location": "Hungary",
-      "genre": "Jazz",
-      "countryCode": "HU",
-      "language": "hungarian",
-      "clickCount": 1,
       "bitrate": 128
     },
     {
@@ -26278,18 +26243,6 @@
       "streamUrl": "https://live.radio101.hr:8010/;"
     },
     {
-      "id": "deep_house_radio_dhr_ie_c7091117",
-      "title": "Deep House Radio (DHR)",
-      "subtitle": "Chillout+Lounge",
-      "location": "Ireland",
-      "genre": "Chillout+Lounge",
-      "countryCode": "IE",
-      "language": "english",
-      "clickCount": 6,
-      "bitrate": 0,
-      "streamUrl": "https://listen.adtonos.com/deep-house-radio-dhr-4"
-    },
-    {
       "id": "club_music_radio_tambura_hr_fdbbe248",
       "title": "Club Music Radio - TAMBURA",
       "subtitle": "Radio",
@@ -27658,18 +27611,6 @@
       "streamUrl": "https://stream.zeno.fm/bihrwdvaioquv"
     },
     {
-      "id": "radio_dimensione_suono_avola_it_d10d9080",
-      "title": "Radio Dimensione Suono Avola",
-      "subtitle": "Hits",
-      "location": "Italy",
-      "genre": "Hits",
-      "countryCode": "IT",
-      "language": "italian",
-      "clickCount": 5,
-      "bitrate": 128,
-      "streamUrl": "https://be.server89.com:10989/stream.mp3"
-    },
-    {
       "id": "radio_zeta_it_3edc2fe9",
       "title": "Radio Zeta",
       "subtitle": "Radio",
@@ -28016,6 +27957,102 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://sr6.inmystream.it/proxy/claudio/stream"
+    },
+    {
+      "id": "deep_house_radio_dhr_ie_c7091117",
+      "title": "Deep House Radio (DHR)",
+      "subtitle": "Chillout+Lounge",
+      "location": "Ireland",
+      "genre": "Chillout+Lounge",
+      "countryCode": "IE",
+      "language": "english",
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "https://listen.adtonos.com/deep-house-radio-dhr-4"
+    },
+    {
+      "id": "psybient_sunset_on_mixlive_net_ie_26045668",
+      "title": "Psybient Sunset on MixLive.net",
+      "subtitle": "Darkpsy",
+      "location": "Ireland",
+      "genre": "Darkpsy",
+      "countryCode": "IE",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "https://free.rcast.net/64142"
+    },
+    {
+      "id": "radio_lattemiele_rete_sud_it_83f3845e",
+      "title": "Radio LatteMiele Rete Sud",
+      "subtitle": "100% Italian",
+      "location": "Italy",
+      "genre": "100% Italian",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "http://streaminglattemiele.lemcloud.net:12200/lembasilicata2.mp3"
+    },
+    {
+      "id": "tg3rai_it_de0a701f",
+      "title": "TG3RAI",
+      "subtitle": "Radio",
+      "location": "Italy",
+      "genre": "Radio",
+      "countryCode": "IT",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 1990,
+      "streamUrl": "https://tgrcampania-live.akamaized.net/hls/live/2025562/tgrcampania/tgrcampania/playlist.m3u8?auth=daEa4cQd5bWc2dXcZdLdgcKaga2a_c9b5cI-bITV25-c0-GltxyFv&aifp=V001"
+    },
+    {
+      "id": "radio_d_opera_hu_a908de32",
+      "title": "Radio-D - Opera",
+      "subtitle": "Radio",
+      "location": "Hungary",
+      "genre": "Radio",
+      "countryCode": "HU",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://radio-d.hu:8000/opera"
+    },
+    {
+      "id": "ambient_lounge_on_mixlive_net_ie_6999a3b2",
+      "title": "Ambient Lounge on MixLive.net",
+      "subtitle": "Ambient",
+      "location": "Ireland",
+      "genre": "Ambient",
+      "countryCode": "IE",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://free.rcast.net/200707"
+    },
+    {
+      "id": "la_radio_dei_nebrodi_it_fd49931b",
+      "title": "La Radio dei Nebrodi",
+      "subtitle": "Hits",
+      "location": "Italy",
+      "genre": "Hits",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream.laut.fm/radioneb"
+    },
+    {
+      "id": "fm_classic_it_21c492c9",
+      "title": "FM Classic",
+      "subtitle": "70S",
+      "location": "Italy",
+      "genre": "70S",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "http://onair7.xdevel.com:8724/;stream.nsv"
     }
   ]
 }

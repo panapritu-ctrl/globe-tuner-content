@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-10T06:01:20Z",
+  "updated": "2026-11-11T04:44:42Z",
   "region": "europe",
   "part": 1,
   "of": 8,
@@ -9816,19 +9816,6 @@
       "language": "bulgarian",
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_station_762250b3",
-      "title": "БНР – Радио Благоевград",
-      "subtitle": "Public Radio",
-      "imageUrl": "",
-      "streamUrl": "http://stream.bnr.bg:8035/radio-blagoevgrad.aac",
-      "location": "Bulgaria",
-      "genre": "Public Radio",
-      "countryCode": "BG",
-      "language": "bulgarian",
-      "clickCount": 0,
-      "bitrate": 36
     },
     {
       "id": "rb2_opus_f38b4a57",
@@ -22656,19 +22643,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_antenne_th_ringen_a95994f0",
-      "title": "Antenne Thüringen",
-      "subtitle": "Pop, Public",
-      "imageUrl": "",
-      "streamUrl": "https://edge18.streamonkey.net/antthue-mitte/stream/mp3?aggregator=rewrite",
-      "location": "Germany",
-      "genre": "Pop",
-      "countryCode": "DE",
-      "language": "german",
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_antenne_th_ringen_fm_mitte_mp3_192k_d9ec16b3",
       "title": "Antenne Thüringen (fm) (Mitte) (mp3 192k)",
       "subtitle": "Pop, Regional Radio",
@@ -30728,18 +30702,6 @@
       "streamUrl": "https://edge84.streamonkey.net/energy-besthits"
     },
     {
-      "id": "firstradio_de_e21a80c0",
-      "title": "FirstRadio",
-      "subtitle": "80Er",
-      "location": "Germany",
-      "genre": "80Er",
-      "countryCode": "DE",
-      "language": "german",
-      "clickCount": 4,
-      "bitrate": 320,
-      "streamUrl": "http://mirror.secondradio.de:7070/dab-sr?ref=emil.marche@rundfunkkombinat.de"
-    },
-    {
       "id": "ai_revival_radio_cz_5608cd19",
       "title": "AI REVIVAL Radio",
       "subtitle": "80'S",
@@ -34266,6 +34228,90 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "https://frontend.streamonkey.net/gongfm-workout/stream/aacp"
+    },
+    {
+      "id": "chill_albania_al_40bb1f2a",
+      "title": "Chill Albania",
+      "subtitle": "Chill Out",
+      "location": "Albania",
+      "genre": "Chill Out",
+      "countryCode": "AL",
+      "language": "albanian",
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://streams.radiomast.io/346318d3-5312-4a69-8f80-64d75640fd35"
+    },
+    {
+      "id": "radio_k2_bg_9b93c8a8",
+      "title": "Radio K2",
+      "subtitle": "Radio",
+      "location": "Bulgaria",
+      "genre": "Radio",
+      "countryCode": "BG",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "http://stream.radiok2.bg:8000/rk2"
+    },
+    {
+      "id": "streamcp_demo_fm_cz_263fbce5",
+      "title": "StreamCP Demo FM",
+      "subtitle": "Classical",
+      "location": "Czechia",
+      "genre": "Classical",
+      "countryCode": "CZ",
+      "language": "czech",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://streamcp.eu/assets/demo.mp3"
+    },
+    {
+      "id": "marc_presents_the_sound_of_me_de_764d5400",
+      "title": "MARC PRESENTS THE SOUND OF ME",
+      "subtitle": "Dance-Pop",
+      "location": "Germany",
+      "genre": "Dance-Pop",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://icy.aweradio.app/marcpresentsthe/music"
+    },
+    {
+      "id": "0nline_dj_mix_de_fef97fd5",
+      "title": "0nline DJ MIX",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://stream.breakz.fm/"
+    },
+    {
+      "id": "mdr_kultur_klassik_im_konzert_low_de_0455c1f0",
+      "title": "MDR Kultur Klassik im Konzert (low)",
+      "subtitle": "Classical",
+      "location": "Germany",
+      "genre": "Classical",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://mdr-284311-0.sslcast.mdr.de/mdr/284311/0/mp3/high/stream.mp3"
+    },
+    {
+      "id": "radio_regenbogen_oldies_de_a591cb57",
+      "title": "Radio Regenbogen Oldies",
+      "subtitle": "50Er",
+      "location": "Germany",
+      "genre": "50Er",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://stream.regenbogen.de/oldies/mp3-128/radiobrowser"
     }
   ]
 }

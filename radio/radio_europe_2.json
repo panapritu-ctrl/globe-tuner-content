@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-10T06:01:20Z",
+  "updated": "2026-11-11T04:44:42Z",
   "region": "europe",
   "part": 2,
   "of": 8,
@@ -1491,19 +1491,6 @@
       "streamUrl": "http://streams.fluxfm.de/nyir-ger/mp3-320/streams.fluxfm.de/",
       "location": "Berlin, Germany",
       "genre": "Radio",
-      "countryCode": "DE",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_fluxfm_pop_radio_bead28b6",
-      "title": "FluxFM - Pop Radio",
-      "subtitle": "Pop",
-      "imageUrl": "https://www.fluxfm.de/assets/favicons/apple-icon-120x120.png",
-      "streamUrl": "http://streams.fluxfm.de/popradio/mp3-320/streams.fluxfm.de/",
-      "location": "Germany",
-      "genre": "Pop",
       "countryCode": "DE",
       "language": null,
       "clickCount": 0,
@@ -6482,15 +6469,6 @@
       "bitrate": 128
     },
     {
-      "id": "nostalgie_livestream_germany_de_6c017e",
-      "title": "Nostalgie - Livestream Germany",
-      "subtitle": "Radio",
-      "location": "Germany",
-      "genre": "Radio",
-      "streamUrl": "http://nrj.de/nostalgielivestream",
-      "countryCode": "DE"
-    },
-    {
       "id": "rb2_nostalgie_route66_c51bcad9",
       "title": "Nostalgie - Route66",
       "subtitle": "Radio",
@@ -10372,15 +10350,6 @@
       "bitrate": 52
     },
     {
-      "id": "radio_energy_berlin_de_54a660",
-      "title": "Radio Energy Berlin",
-      "subtitle": "Pop",
-      "location": "Berlin, Germany",
-      "genre": "Pop",
-      "countryCode": "DE",
-      "streamUrl": "http://nrj.de/berlin"
-    },
-    {
       "id": "rb2_radio_energy_stuttgart_b37bc03b",
       "title": "Radio Energy Stuttgart",
       "subtitle": "Hits, Pop",
@@ -10518,19 +10487,6 @@
       "streamUrl": "https://frontend.streamonkey.net/fhn-radiofmadeingermany/stream/mp3",
       "location": "Franken, Germany",
       "genre": "German",
-      "countryCode": "DE",
-      "language": "german",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_f_new_c26844aa",
-      "title": "Radio F new",
-      "subtitle": "1970",
-      "imageUrl": "",
-      "streamUrl": "https://frontend.streamonkey.net/fhn-radiof945/stream/mp3?aggregator=webseite.mp3",
-      "location": "Germany",
-      "genre": "1970",
       "countryCode": "DE",
       "language": "german",
       "clickCount": 0,
@@ -20533,19 +20489,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb_partyfm_43f3f332",
-      "title": "PartyFM",
-      "subtitle": "90S, Club",
-      "imageUrl": "",
-      "streamUrl": "http://stream.partyfm.dk/Party320/",
-      "location": "Denmark",
-      "genre": "90S",
-      "countryCode": "DK",
-      "language": "danish",
-      "clickCount": 5,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_psyradio_chillout_d48b5967",
       "title": "Psyradio - Chillout",
       "subtitle": "Radio",
@@ -29046,18 +28989,6 @@
       "streamUrl": "https://ddreins.stream.laut.fm/ddr_eins?t302=2021-04-10_23-03-54&uuid=43c8d3cf-54c4-4ee1-b109-b667d8878cc4"
     },
     {
-      "id": "arabella_kuschelpop_de_704a03e3",
-      "title": "Arabella Kuschelpop",
-      "subtitle": "Love Songs",
-      "location": "Germany",
-      "genre": "Love Songs",
-      "countryCode": "DE",
-      "language": "german",
-      "clickCount": 3,
-      "bitrate": 128,
-      "streamUrl": "https://live.stream.radioarabella.de/radioarabella-kuschelpop/stream/mp3?aggregator=aramuc"
-    },
-    {
       "id": "nightline_radio_de_3a33a0b0",
       "title": "Nightline Radio",
       "subtitle": "Drum And Bass",
@@ -34588,6 +34519,102 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://le304.euddn.net/c59f69940aa92d5d673b6b76f220d5482b60382198d6eb420791fb63eaffb3cb77ca3a9cef7310686b67328941c398407715d64658b227ecc2afd97fb89a5a820e12fd705f8dbe7c3b90325e116161bce4f2a3f696050eb127f5f9d42fda22b9d2998175a28102d9f4fc554d187797e349b171d59aa741c919bee94732a10c4b1b5f79f59d810d5c3f10978df3bbd462914f2e88ed4fecd050e4a79a2a34f20edee291512296a94c3a355ae14f69f165ce76f41de2cd8d09e572e0c3f26200ae/MHR_myhitsrock.aac"
+    },
+    {
+      "id": "radio_energy_berlin_de_8afb67db",
+      "title": "Radio Energy Berlin",
+      "subtitle": "Pop",
+      "location": "Germany",
+      "genre": "Pop",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 14,
+      "bitrate": 0,
+      "streamUrl": "http://nrj.de/berlin"
+    },
+    {
+      "id": "jayhits_radio_de_d91c373e",
+      "title": "JayHits Radio",
+      "subtitle": "00Er",
+      "location": "Germany",
+      "genre": "00Er",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 7,
+      "bitrate": 128,
+      "streamUrl": "https://jayhitsradio.stream.laut.fm/jayhitsradio"
+    },
+    {
+      "id": "depeche_mode_de_24babf25",
+      "title": "Depeche Mode",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://depeche-mode-universe.stream.laut.fm/depeche-mode-universe?0"
+    },
+    {
+      "id": "antenne_th_ringen_de_62e9fcc0",
+      "title": "Antenne Thüringen",
+      "subtitle": "Pop",
+      "location": "Germany",
+      "genre": "Pop",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://edge15.streamonkey.net/antthue-mitte/stream/mp3?aggregator=rewrite"
+    },
+    {
+      "id": "laut_fm_nightcore_de_fb0e8725",
+      "title": "Laut.FM | Nightcore",
+      "subtitle": "Nightcore",
+      "location": "Germany",
+      "genre": "Nightcore",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://laut.fm/nightcoremusic"
+    },
+    {
+      "id": "absolut_hot_no_adds_de_bb7f3a5d",
+      "title": "Absolut Hot - No Adds",
+      "subtitle": "Dance",
+      "location": "Germany",
+      "genre": "Dance",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://edge11.live-sm.absolutradio.de/absolut-hot/stream/mp3"
+    },
+    {
+      "id": "bayern_klassik_256_de_3f33a9ba",
+      "title": "Bayern Klassik 256",
+      "subtitle": "Classical",
+      "location": "Germany",
+      "genre": "Classical",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://streams.br.de/br-klassik_3.m3u"
+    },
+    {
+      "id": "a_passing_feeling_de_5d9a0d32",
+      "title": "A Passing Feeling",
+      "subtitle": "Alternative",
+      "location": "Germany",
+      "genre": "Alternative",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://apassingfeeling.stream.laut.fm/a_passing_feeling"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-10T06:01:20Z",
+  "updated": "2026-11-11T04:44:42Z",
   "region": "oceania",
   "stations": [
     {
@@ -73,19 +73,6 @@
       "genre": "Music",
       "countryCode": "AU",
       "streamUrl": "http://65.108.198.245:7072/stream"
-    },
-    {
-      "id": "rb2_100_9_port_stephens_fm_a86c866e",
-      "title": "100.9 Port Stephens FM",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://audio-edge-jfbmv.sin.d.radiomast.io/8df8102b-51bf-45fb-aac5-aa0254d6b177?t=heatwave",
-      "location": "Australia",
-      "genre": "Radio",
-      "countryCode": "AU",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 112
     },
     {
       "id": "101_fm_logan_101_1_fm_aac_au",
@@ -3817,19 +3804,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_australian_digital_radio_network_def_lep_931c477b",
-      "title": "Australian Digital Radio Network - Def Leppard (MP3)",
-      "subtitle": "Def Leppard",
-      "imageUrl": "http://www.australiandigitalradio.com/favicon.ico",
-      "streamUrl": "http://abm22.com.au:8000/CONTAINER101",
-      "location": "Sydney NSW, Australia",
-      "genre": "Def Leppard",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 2,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_australian_digital_radio_network_destiny_367f8f94",
       "title": "Australian Digital Radio Network - Destiny's Child (MP3)",
       "subtitle": "Destiny'S Child",
@@ -5128,19 +5102,6 @@
       "language": "english",
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_braidwood_radio_af4b8349",
-      "title": "Braidwood Radio",
-      "subtitle": "Radio",
-      "imageUrl": "http://www.braidwoodradio.com.au/favicon.ico",
-      "streamUrl": "https://audio-edge-fp8o9.yyz.d.radiomast.io/ba864be6-11d1-4e13-aa74-f8e8781f64f6",
-      "location": "New South Wales, Australia",
-      "genre": "Radio",
-      "countryCode": "AU",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 120
     },
     {
       "id": "buddha_au_24c6a7",
@@ -15789,18 +15750,6 @@
       "streamUrl": "http://abm22.com.au:8000/CONTAINER174"
     },
     {
-      "id": "fox_news_as_b1da3236",
-      "title": "Fox news",
-      "subtitle": "Radio",
-      "location": "American Samoa",
-      "genre": "Radio",
-      "countryCode": "AS",
-      "language": null,
-      "clickCount": 3,
-      "bitrate": 311,
-      "streamUrl": "https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8"
-    },
-    {
       "id": "reg_fm_radio_east_gippsland_au_5a0011ef",
       "title": "REG FM Radio East Gippsland",
       "subtitle": "Radio",
@@ -16483,6 +16432,54 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "http://abm21.com.au:8000/CONTAINER160"
+    },
+    {
+      "id": "oye_radio_au_c3ed6227",
+      "title": "Oye Radio",
+      "subtitle": "Bollywood",
+      "location": "Australia",
+      "genre": "Bollywood",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 9,
+      "bitrate": 192,
+      "streamUrl": "https://stream.oye.radio/listen/oye_radio/radio.mp3"
+    },
+    {
+      "id": "fox_news_as_b1da3236",
+      "title": "Fox news",
+      "subtitle": "Radio",
+      "location": "American Samoa",
+      "genre": "Radio",
+      "countryCode": "AS",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 311,
+      "streamUrl": "https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8"
+    },
+    {
+      "id": "90_1_nbc_fm_narwee_90_1_fm_aac_au_1ffdbe5b",
+      "title": "90.1 NBC FM - Narwee - 90.1 FM (AAC)",
+      "subtitle": "Community Radio",
+      "location": "Australia",
+      "genre": "Community Radio",
+      "countryCode": "AU",
+      "language": "arabic",
+      "clickCount": 4,
+      "bitrate": 64,
+      "streamUrl": "https://studio.901nbcfm.com.au:8902/newstream"
+    },
+    {
+      "id": "australian_digital_radio_network_led_zeppelin_mp3_au_62825598",
+      "title": "Australian Digital Radio Network - Led Zeppelin (MP3)",
+      "subtitle": "Led Zeppelin",
+      "location": "Australia",
+      "genre": "Led Zeppelin",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://abm21.com.au:8000/CONTAINER147"
     }
   ]
 }

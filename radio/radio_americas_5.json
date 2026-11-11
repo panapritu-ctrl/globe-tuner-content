@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-10T06:00:52Z",
+  "updated": "2026-11-11T04:44:42Z",
   "region": "americas",
   "part": 5,
   "of": 5,
@@ -39,19 +39,6 @@
       "genre": "Radio",
       "countryCode": "UY",
       "streamUrl": "https://streamingcasazorrilla.innovanexo.com:8000/radiocarve850.mp3"
-    },
-    {
-      "id": "rb2_radio_chiveo_0b61338e",
-      "title": "Radio Chiveo",
-      "subtitle": "Infancia, Musica Infantil",
-      "imageUrl": "https://comodin.uy/static/uploads/chiveo/album_art.1680347629.png",
-      "streamUrl": "https://comodin.uy/listen/chiveo/320.mp3",
-      "location": "Montevideo, Uruguay",
-      "genre": "Infancia",
-      "countryCode": "UY",
-      "language": "castellano. español",
-      "clickCount": 1,
-      "bitrate": 320
     },
     {
       "id": "rb2_radio_clarin_3e10abc4",
@@ -2157,6 +2144,18 @@
       "clickCount": 5,
       "bitrate": 64,
       "streamUrl": "https://sp.wnetserver.com:7052/stream"
+    },
+    {
+      "id": "radio_pip_cuc_uy_d85da63f",
+      "title": "Radio Pipí Cucú",
+      "subtitle": "Argentina",
+      "location": "Uruguay",
+      "genre": "Argentina",
+      "countryCode": "UY",
+      "language": "spanish",
+      "clickCount": 7,
+      "bitrate": 0,
+      "streamUrl": "https://comodin.uy/radio/8000/320.mp3"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-10T06:01:20Z",
+  "updated": "2026-11-11T04:44:42Z",
   "region": "africa",
   "stations": [
     {
@@ -7372,19 +7372,6 @@
       "streamUrl": "https://streaming.shoutcast.com/rcv"
     },
     {
-      "id": "rb_sun_fm_zambia_109fdd9b",
-      "title": "Sun Fm Zambia",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://11233.cloudrad.io:9102/live",
-      "location": "Zambia",
-      "genre": "Radio",
-      "countryCode": "ZM",
-      "language": "english",
-      "clickCount": 3,
-      "bitrate": 128
-    },
-    {
       "id": "central_radio_98_5_zw",
       "title": "CENTRAL RADIO 98.5",
       "subtitle": "AAC 256kbps",
@@ -13688,18 +13675,6 @@
       "streamUrl": "https://mainradiostreaming.zbc.co.zw:8030/radio.mp3"
     },
     {
-      "id": "r_dio_kair_s_angola_ao_5fd3e9ed",
-      "title": "Rádio Kairós Angola",
-      "subtitle": "Christian",
-      "location": "Angola",
-      "genre": "Christian",
-      "countryCode": "AO",
-      "language": "portuguese",
-      "clickCount": 4,
-      "bitrate": 0,
-      "streamUrl": "https://www.radiokairosangola.ao/livenow"
-    },
-    {
       "id": "r_dio_cuanza_norte_ao_70411762",
       "title": "Rádio Cuanza Norte",
       "subtitle": "News",
@@ -13818,6 +13793,102 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://play.radioking.io/baladeur-fm"
+    },
+    {
+      "id": "sun_fm_zambia_zm_fd964843",
+      "title": "Sun Fm Zambia",
+      "subtitle": "Radio",
+      "location": "Zambia",
+      "genre": "Radio",
+      "countryCode": "ZM",
+      "language": "english",
+      "clickCount": 8,
+      "bitrate": 128,
+      "streamUrl": "http://11233.cloudrad.io:9102/live"
+    },
+    {
+      "id": "96_5_rock_fm_zm_1595a22e",
+      "title": "96.5 Rock FM",
+      "subtitle": "Dance",
+      "location": "Zambia",
+      "genre": "Dance",
+      "countryCode": "ZM",
+      "language": "english",
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "http://broadcast.shoutcheap.com:8702/stream"
+    },
+    {
+      "id": "congo_rdc_canal_unigom_105_5_fm_goma_cd_1dce5100",
+      "title": "Congo RDC - Canal Unigom 105.5 FM - Goma",
+      "subtitle": "Radio",
+      "location": "The Democratic Republic Of The Congo",
+      "genre": "Radio",
+      "countryCode": "CD",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://stream-179.surfernetwork.com/fggeivo12mruv"
+    },
+    {
+      "id": "radio_delight_kwitonta_89_7_fm_zm_93b864ba",
+      "title": "Radio Delight Kwitonta 89.7 FM",
+      "subtitle": "Gospel",
+      "location": "Zambia",
+      "genre": "Gospel",
+      "countryCode": "ZM",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 48,
+      "streamUrl": "https://s43.myradiostream.com:23820/listen.mp3/"
+    },
+    {
+      "id": "skyz_metro_fm_zw_aa2e260e",
+      "title": "Skyz Metro FM",
+      "subtitle": "Adult Contemporary",
+      "location": "Zimbabwe",
+      "genre": "Adult Contemporary",
+      "countryCode": "ZW",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://stream.zeno.fm/2634b6n4qy8uv"
+    },
+    {
+      "id": "congo_rdc_ouragan_fm_kinshasa_cd_ede0d060",
+      "title": "Congo RDC - Ouragan FM Kinshasa",
+      "subtitle": "Radio",
+      "location": "The Democratic Republic Of The Congo",
+      "genre": "Radio",
+      "countryCode": "CD",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://stream.ouraganbox.cc/listen/ouragan/radio.mp3"
+    },
+    {
+      "id": "congo_rdc_radio_pourim_kinshasa_cd_1db9d65e",
+      "title": "Congo RDC - Radio Pourim Kinshasa",
+      "subtitle": "African Music",
+      "location": "The Democratic Republic Of The Congo",
+      "genre": "African Music",
+      "countryCode": "CD",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://zoka.radioca.st/;"
+    },
+    {
+      "id": "congo_rdc_radio_tayna_rtct_goma_cd_2d7d6ae7",
+      "title": "Congo RDC - Radio Tayna RTCT Goma",
+      "subtitle": "Radio",
+      "location": "The Democratic Republic Of The Congo",
+      "genre": "Radio",
+      "countryCode": "CD",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream-155.zeno.fm/ide8zzvajbcvv"
     }
   ]
 }
