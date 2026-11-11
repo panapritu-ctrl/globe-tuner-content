@@ -1,6 +1,6 @@
 {
-  "version": 91,
-  "updated": "2026-11-10T11:02:44Z",
+  "version": 92,
+  "updated": "2026-11-11T10:43:02Z",
   "stations": [
     {
       "id": "80s80s_radio_de_9adaa6e1",
@@ -3214,15 +3214,6 @@
       "countryCode": "AE"
     },
     {
-      "id": "5fm_za_bdcacfd3",
-      "title": "5FM",
-      "subtitle": "FLV",
-      "location": "South Africa",
-      "genre": "Radio",
-      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/5FM",
-      "countryCode": "ZA"
-    },
-    {
       "id": "bbc_world_service_gb_0247d34c",
       "title": "BBC World Service",
       "subtitle": "AAC+",
@@ -4928,15 +4919,6 @@
       "genre": "News",
       "streamUrl": "http://live-icy.dr.dk/A/A02L.mp3",
       "countryCode": "DK"
-    },
-    {
-      "id": "station_cn_18e994dd",
-      "title": "南京音乐广播",
-      "subtitle": "UNKNOWN",
-      "location": "Kiangsu, China",
-      "genre": "Radio",
-      "streamUrl": "http://hls.njgb.com/live_hls/4/playlist.m3u8",
-      "countryCode": "CN"
     },
     {
       "id": "radio_srf_2_kultur_ch_4b4adedc",
@@ -8728,15 +8710,6 @@
       "countryCode": "DE"
     },
     {
-      "id": "radio_club_80_trance_flac_cl_8ebdbec9",
-      "title": "Radio Club 80 Trance FLAC",
-      "subtitle": "OGG",
-      "location": "Chile",
-      "genre": "Trance",
-      "streamUrl": "https://stream.radioclub80.cl:8052/trance80.flac",
-      "countryCode": "CL"
-    },
-    {
       "id": "cope_albacete_es_e55d469b",
       "title": "COPE Albacete",
       "subtitle": "MP3",
@@ -9207,15 +9180,6 @@
       "genre": "Radio",
       "streamUrl": "http://22723.live.streamtheworld.com:3690/TLPSTR18_SC",
       "countryCode": "NL"
-    },
-    {
-      "id": "cna_938_live_singapore_sg_de13907d",
-      "title": "CNA 938 Live Singapore",
-      "subtitle": "AAC+",
-      "location": "Singapore",
-      "genre": "News",
-      "streamUrl": "http://28443.live.streamtheworld.com:3690/938NOW_PREM_SC",
-      "countryCode": "SG"
     },
     {
       "id": "107_9_pearl_fm_ug_20c526ec",
@@ -10875,15 +10839,6 @@
       "countryCode": "ID"
     },
     {
-      "id": "station_cn_8b2aa834",
-      "title": "江西文艺音乐广播",
-      "subtitle": "UNKNOWN",
-      "location": "China",
-      "genre": "Radio",
-      "streamUrl": "https://fm-live-pull.jxtvcn.com.cn/live-jxrtv/fm1034.m3u8",
-      "countryCode": "CN"
-    },
-    {
       "id": "mdr_jump_de_a2fd49fe",
       "title": "MDR Jump",
       "subtitle": "MP3",
@@ -12124,15 +12079,6 @@
       "countryCode": "NL"
     },
     {
-      "id": "station_cn_747de34b",
-      "title": "江苏经典流行音乐广播",
-      "subtitle": "UNKNOWN",
-      "location": "Kiangsu, China",
-      "genre": "Radio",
-      "streamUrl": "http://lzlive.vojs.cn/2wtSfrS/92/live.m3u8?",
-      "countryCode": "CN"
-    },
-    {
       "id": "generations_rap_u_s_fr_1f13505c",
       "title": "Generations Rap U.S",
       "subtitle": "AAC+",
@@ -13205,15 +13151,6 @@
       "countryCode": "DE"
     },
     {
-      "id": "station_cn_e047408a",
-      "title": "江苏新闻广播",
-      "subtitle": "UNKNOWN",
-      "location": "Kiangsu, China",
-      "genre": "News",
-      "streamUrl": "http://lzlive.vojs.cn/5Fo8mMX/92/live.m3u8?",
-      "countryCode": "CN"
-    },
-    {
       "id": "exclusively_the_clash_ae_a58057be",
       "title": "Exclusively The Clash",
       "subtitle": "MP3",
@@ -13381,6 +13318,201 @@
       "location": "Germany",
       "genre": "90S",
       "streamUrl": "http://dance-wave-radio.stream.laut.fm/dance-wave-radio?uuid=9ea1ef61-a1c3-5175-7617-2b07a7b30375&t302=2026-11-06_20-50-13",
+      "countryCode": "DE"
+    },
+    {
+      "id": "iran_on_air_ir_6c0f7fb3",
+      "title": "Iran On Air",
+      "subtitle": "AAC+",
+      "location": "Tehran, Islamic Republic Of Iran",
+      "genre": "Radio",
+      "streamUrl": "http://ice41.securenetsystems.net/KIRN",
+      "countryCode": "IR"
+    },
+    {
+      "id": "partyfm_dk_48c28bd3",
+      "title": "PartyFM",
+      "subtitle": "MP3",
+      "location": "Denmark",
+      "genre": "90S",
+      "streamUrl": "http://stream.partyfm.dk/Party320/",
+      "countryCode": "DK"
+    },
+    {
+      "id": "radio_shadi_xx_456b3d08",
+      "title": "Radio Shadi",
+      "subtitle": "AAC",
+      "location": "Unknown",
+      "genre": "Radio",
+      "streamUrl": "https://ice9.securenetsystems.net/SHADI"
+    },
+    {
+      "id": "cp24_audio_channel_toronto_on_ca_352c5c12",
+      "title": "CP24 Audio Channel - Toronto, ON",
+      "subtitle": "AAC+",
+      "location": "Ontario, Canada",
+      "genre": "Local News",
+      "streamUrl": "http://26103.live.streamtheworld.com:3690/TV_CP24AAC_SC",
+      "countryCode": "CA"
+    },
+    {
+      "id": "radio_bob_livestream_hessen_de_0a445c26",
+      "title": "Radio Bob! Livestream Hessen",
+      "subtitle": "MP3",
+      "location": "Germany",
+      "genre": "Radio",
+      "streamUrl": "http://regiocast.streamabc.net/regc-boblivehessen-mp3-192-4115873?sABC=6nrr5rnp%230%236q8s7o7o3p7411o9n0871834qs5r90so%23fgernzf.enqvbobo.qr&aw_0_1st.playerid=streams.radiobob.de&amsparams=playerid:streams.radiobob.de;skey:1794006700",
+      "countryCode": "DE"
+    },
+    {
+      "id": "radio_1_rock_bg_38c1a345",
+      "title": "Radio 1 Rock",
+      "subtitle": "AAC",
+      "location": "Sofia, Bulgaria",
+      "genre": "Aac",
+      "streamUrl": "http://play.global.audio/radio1rockhi.aac",
+      "countryCode": "BG"
+    },
+    {
+      "id": "station_cn_747de34b",
+      "title": "江苏经典流行音乐广播",
+      "subtitle": "UNKNOWN",
+      "location": "Kiangsu, China",
+      "genre": "Radio",
+      "streamUrl": "http://lzlive.vojs.cn/2wtSfrS/92/live.m3u8?",
+      "countryCode": "CN"
+    },
+    {
+      "id": "sky_radio_lovesongs_nl_85eeac92",
+      "title": "Sky Radio Lovesongs",
+      "subtitle": "AAC+",
+      "location": "The Netherlands",
+      "genre": "Love Songs",
+      "streamUrl": "http://28983.live.streamtheworld.com/SRGSTR03AAC_SC",
+      "countryCode": "NL"
+    },
+    {
+      "id": "vob_92_9_fm_bb_9a52958c",
+      "title": "VOB 92.9 FM",
+      "subtitle": "AAC",
+      "location": "River road, st Micheal, Bridgetown, Barbados",
+      "genre": "Radio",
+      "streamUrl": "https://ice66.securenetsystems.net/VOB929",
+      "countryCode": "BB"
+    },
+    {
+      "id": "exclusively_enrique_iglesias_ae_02c30b5d",
+      "title": "Exclusively Enrique Iglesias",
+      "subtitle": "MP3",
+      "location": "The United Arab Emirates",
+      "genre": "Adult Contemporary",
+      "streamUrl": "https://streaming.exclusive.radio/er/enriqueiglesias/icecast.audio",
+      "countryCode": "AE"
+    },
+    {
+      "id": "slow_radio_bm_8fc2d00e",
+      "title": "Slow Radio",
+      "subtitle": "MP3",
+      "location": "Bermuda",
+      "genre": "International",
+      "streamUrl": "http://stream6.slowradio.com/",
+      "countryCode": "BM"
+    },
+    {
+      "id": "radio_maria_kenya_nairobi_ke_fde1739e",
+      "title": "Radio Maria Kenya - Nairobi",
+      "subtitle": "AAC+",
+      "location": "Nairobi, Kenya",
+      "genre": "Radio",
+      "streamUrl": "http://141.95.98.87:8069/stream",
+      "countryCode": "KE"
+    },
+    {
+      "id": "damascus_radio_sy_58de0306",
+      "title": "Damascus Radio إذاعة دمشق",
+      "subtitle": "MP3",
+      "location": "Damascus, Syrian Arab Republic",
+      "genre": "Radio",
+      "streamUrl": "https://stream.damasradio.fm/radio",
+      "countryCode": "SY"
+    },
+    {
+      "id": "xhta_fm_dinamica_94_5_piedras_negras_co_mx_1cbc8de5",
+      "title": "XHTA-FM \"Dinamica 94.5\" Piedras Negras, CO",
+      "subtitle": "AAC+",
+      "location": "Coahuila, Mexico",
+      "genre": "Hiphop",
+      "streamUrl": "http://14103.live.streamtheworld.com/XHTAFMAAC_SC",
+      "countryCode": "MX"
+    },
+    {
+      "id": "sea_fm_fi_ea7e19ed",
+      "title": "Sea FM",
+      "subtitle": "MP3",
+      "location": "Finland",
+      "genre": "Dance",
+      "streamUrl": "https://s3.myradiostream.com/4976/listen.mp3",
+      "countryCode": "FI"
+    },
+    {
+      "id": "cliamp_ncs_chill_no_9450afe9",
+      "title": "CLIAMP NCS Chill",
+      "subtitle": "MP3",
+      "location": "Norway",
+      "genre": "Chill",
+      "streamUrl": "https://radio.cliamp.stream/ncs-chill/stream",
+      "countryCode": "NO"
+    },
+    {
+      "id": "kool_fm_my_c2d87b63",
+      "title": "Kool FM",
+      "subtitle": "AAC",
+      "location": "Malaysia",
+      "genre": "Malaysia",
+      "streamUrl": "https://stream.rcs.revma.com/3930238mtd3vv/hls.m3u8",
+      "countryCode": "MY"
+    },
+    {
+      "id": "zaman_al_wasl_xx_b94d9d4b",
+      "title": "Zaman al wasl",
+      "subtitle": "MP3",
+      "location": "Unknown",
+      "genre": "Classical",
+      "streamUrl": "http://zamanalwaslradio.out.airtime.pro:8000/zamanalwaslradio_b"
+    },
+    {
+      "id": "antenne_bayern_de_0960179d",
+      "title": "Antenne Bayern",
+      "subtitle": "AAC",
+      "location": "Bavaria, Germany",
+      "genre": "Radio",
+      "streamUrl": "http://stream.antenne.de/antenne/stream/aacp",
+      "countryCode": "DE"
+    },
+    {
+      "id": "exosfera_radio_mx_8d506c8a",
+      "title": "Exosfera Radio",
+      "subtitle": "MP3",
+      "location": "Mexico City, Mexico",
+      "genre": "Christian",
+      "streamUrl": "https://stream.exosferaradio.com/listen/exosfera/radio.mp3",
+      "countryCode": "MX"
+    },
+    {
+      "id": "radio_caprice_big_bands_xx_611487fc",
+      "title": "Radio Caprice - Big Bands",
+      "subtitle": "AAC+",
+      "location": "Unknown",
+      "genre": "Big Bands",
+      "streamUrl": "http://79.120.39.202:8000/bigband"
+    },
+    {
+      "id": "radio_brocken_de_5f023614",
+      "title": "Radio Brocken",
+      "subtitle": "MP3",
+      "location": "Saxony-Anhalt, Germany",
+      "genre": "Pop",
+      "streamUrl": "http://fhhalle.streamabc.net/fhhal-rblive-mp3-256-3654873?sABC=6nrq7oqs%230%236q8s7o7o3p7411o9n0871834qs5r90so%23qverxgyvaxUC&aw_0_1st.playerid=direktlinkHP&amsparams=playerid:direktlinkHP;skey:1793948639",
       "countryCode": "DE"
     }
   ]
