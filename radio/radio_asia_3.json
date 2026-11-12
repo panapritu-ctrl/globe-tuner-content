@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-11T04:44:42Z",
+  "updated": "2026-11-12T05:48:39Z",
   "region": "asia",
   "part": 3,
   "of": 3,
@@ -10149,19 +10149,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_irvess_0677809b",
-      "title": "irvess",
-      "subtitle": "Aura, Electronic",
-      "imageUrl": "https://irvess.com/assets/img/icon-512.png",
-      "streamUrl": "https://irvess.com/stream/irvess",
-      "location": "Konya, Türkiye",
-      "genre": "Aura",
-      "countryCode": "TR",
-      "language": "dansk/oldnordisk",
-      "clickCount": 4,
-      "bitrate": 192
-    },
-    {
       "id": "rb2_literal_f72ecd95",
       "title": "literal",
       "subtitle": "International",
@@ -10439,19 +10426,6 @@
       "genre": "Classical",
       "countryCode": "TW",
       "streamUrl": "http://59.120.88.155:8000/live.mp3"
-    },
-    {
-      "id": "rb2_fm_90_5_a5b116a3",
-      "title": "FM 90.5 大樹下電台",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://60.250.148.112:8000/live",
-      "location": "Taiwan, Republic Of China",
-      "genre": "Radio",
-      "countryCode": "TW",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 96
     },
     {
       "id": "rb2_icrt_ea2a84ca",
@@ -16893,18 +16867,6 @@
       "streamUrl": "https://rstream.hadara.ps/proxy/amen24/stream"
     },
     {
-      "id": "y101_cebu_ph_6cf6a35a",
-      "title": "Y101 Cebu",
-      "subtitle": "Radio",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "language": null,
-      "clickCount": 6,
-      "bitrate": 64,
-      "streamUrl": "http://us1.amfmph.com:8849/live"
-    },
-    {
       "id": "rmn_dxcc_828_cagayan_de_oro_ph_03ab8298",
       "title": "RMN DXCC 828 Cagayan De Oro",
       "subtitle": "Radio",
@@ -17671,6 +17633,90 @@
       "clickCount": 4,
       "bitrate": 32,
       "streamUrl": "https://cast5.servcast.net/proxy/truefmph/stream"
+    },
+    {
+      "id": "damascus_radio_sy_58de0306",
+      "title": "Damascus Radio إذاعة دمشق",
+      "subtitle": "Radio",
+      "location": "Syrian Arab Republic",
+      "genre": "Radio",
+      "countryCode": "SY",
+      "language": "arabic",
+      "clickCount": 44,
+      "bitrate": 128,
+      "streamUrl": "https://stream.damasradio.fm/radio"
+    },
+    {
+      "id": "lp_arabesk_fm_tr_7fce0d3d",
+      "title": "LP Arabesk Fm",
+      "subtitle": "Arabesk",
+      "location": "Türkiye",
+      "genre": "Arabesk",
+      "countryCode": "TR",
+      "language": "turkish",
+      "clickCount": 9,
+      "bitrate": 128,
+      "streamUrl": "https://stream.zeno.fm/n76ixlonticvv"
+    },
+    {
+      "id": "radyo_44_tr_c8fda875",
+      "title": "Radyo 44",
+      "subtitle": "Radio",
+      "location": "Türkiye",
+      "genre": "Radio",
+      "countryCode": "TR",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://radyo.yayin.com.tr:3444/steram"
+    },
+    {
+      "id": "a_s_radyo_tr_1d11c9f4",
+      "title": "AÇS Radyo",
+      "subtitle": "Art",
+      "location": "Türkiye",
+      "genre": "Art",
+      "countryCode": "TR",
+      "language": "turkish",
+      "clickCount": 5,
+      "bitrate": 64,
+      "streamUrl": "https://ip169.ozelip.com/8312/stream"
+    },
+    {
+      "id": "hk_radyo_106_8_tr_fc14cdb2",
+      "title": "HKÜ Radyo 106.8",
+      "subtitle": "College Radio",
+      "location": "Türkiye",
+      "genre": "College Radio",
+      "countryCode": "TR",
+      "language": "turkish",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://radio.hku.edu.tr/listen/hku_radyo/radio.mp3"
+    },
+    {
+      "id": "g_n_l_fm_97_3_tr_7c2cc0bd",
+      "title": "Gönül FM 97.3",
+      "subtitle": "Radio",
+      "location": "Türkiye",
+      "genre": "Radio",
+      "countryCode": "TR",
+      "language": "turkish",
+      "clickCount": 5,
+      "bitrate": 96,
+      "streamUrl": "https://sslyayin.netyayin.net/gonulfm/stream"
+    },
+    {
+      "id": "klick_fm_106_3_bacolod_ph_c15ab096",
+      "title": "Klick FM 106.3 Bacolod",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 48,
+      "streamUrl": "http://209.126.124.126:8721/stream"
     }
   ]
 }

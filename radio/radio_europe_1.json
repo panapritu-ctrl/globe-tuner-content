@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-11T04:44:42Z",
+  "updated": "2026-11-12T05:48:39Z",
   "region": "europe",
   "part": 1,
   "of": 8,
@@ -26274,18 +26274,6 @@
       "streamUrl": "http://server7524.streamplus.de/stream.mp3"
     },
     {
-      "id": "station_bg_0e7ba644",
-      "title": "БНР – Радио Видин",
-      "subtitle": "Radio",
-      "location": "Bulgaria",
-      "genre": "Radio",
-      "countryCode": "BG",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 36,
-      "streamUrl": "http://stream.bnr.bg:8036/radio-vidin.aac"
-    },
-    {
       "id": "rpr1_k_ln_de_f0dcec7d",
       "title": "RPR1. Köln",
       "subtitle": "80Er",
@@ -28806,18 +28794,6 @@
       "streamUrl": "https://1a-60er.radionetz.de/1a-60er.aac"
     },
     {
-      "id": "pilot_fm_by_c0bb14a0",
-      "title": "Pilot FM",
-      "subtitle": "Pop",
-      "location": "Belarus",
-      "genre": "Pop",
-      "countryCode": "BY",
-      "language": null,
-      "clickCount": 5,
-      "bitrate": 0,
-      "streamUrl": "https://edge2.usp.unistar.by/hls/unistar_pilotfm/96k.m3u8?session_id=60c1fba2-77d4-4180-ab07-4f162b47f3fc"
-    },
-    {
       "id": "80s80_summerhits_de_9b3bc771",
       "title": "80s80 Summerhits",
       "subtitle": "80Er",
@@ -30930,18 +30906,6 @@
       "streamUrl": "http://icecast9.play.cz/slowdown.mp3"
     },
     {
-      "id": "station_by_c4818921",
-      "title": "Чайная роза радио",
-      "subtitle": "Radio",
-      "location": "Belarus",
-      "genre": "Radio",
-      "countryCode": "BY",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 128,
-      "streamUrl": "https://s05.volnorez.com/live-app/788219"
-    },
-    {
       "id": "radio_saw_relax_de_fb51969f",
       "title": "Radio SAW - Relax",
       "subtitle": "Chillout",
@@ -31768,18 +31732,6 @@
       "clickCount": 3,
       "bitrate": 320,
       "streamUrl": "https://stream.louderhost.com/nrgal"
-    },
-    {
-      "id": "club_fm_shqip_al_8ab37ad7",
-      "title": "Club FM Shqip",
-      "subtitle": "Folk",
-      "location": "Albania",
-      "genre": "Folk",
-      "countryCode": "AL",
-      "language": "albanian",
-      "clickCount": 3,
-      "bitrate": 128,
-      "streamUrl": "https://cp1.sednastream.com/proxy/radioshqip/stream"
     },
     {
       "id": "best_lounge_radio_al_9c49a4b0",
@@ -34312,6 +34264,78 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "https://stream.regenbogen.de/oldies/mp3-128/radiobrowser"
+    },
+    {
+      "id": "gothiccommunitystation_de_02ea65fa",
+      "title": "Gothiccommunitystation",
+      "subtitle": "Dark Wave",
+      "location": "Germany",
+      "genre": "Dark Wave",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://gothiccommunitystation.stream.laut.fm/gothiccommunitystation?uuid=002dde30-239f-e0f7-868a-e909494f2bf7&t302=2026-11-12_01-36-19"
+    },
+    {
+      "id": "station_by_c4818921",
+      "title": "Чайная роза радио",
+      "subtitle": "Radio",
+      "location": "Belarus",
+      "genre": "Radio",
+      "countryCode": "BY",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://s05.volnorez.com/live-app/788219"
+    },
+    {
+      "id": "damar_fm_de_e3b40b53",
+      "title": "Damar FM",
+      "subtitle": "Arabesk",
+      "location": "Germany",
+      "genre": "Arabesk",
+      "countryCode": "DE",
+      "language": "turkish",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://yayin.damarfm.com/stream.mp3"
+    },
+    {
+      "id": "aspira_radio_cz_02948412",
+      "title": "Aspira Radio",
+      "subtitle": "Chilled Trap",
+      "location": "Czechia",
+      "genre": "Chilled Trap",
+      "countryCode": "CZ",
+      "language": "czech",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://www.aspiraradio.cz/radio/8000/radio.mp3?aspira"
+    },
+    {
+      "id": "gay_fm_pure_dance_de_8d814c5b",
+      "title": "GAY FM - Pure Dance!",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://icepool.silvacast.com/GAYFM.mp3"
+    },
+    {
+      "id": "die_nieue_107_7_oldies_de_d69fcc17",
+      "title": "DIE NIEUE 107.7 Oldies",
+      "subtitle": "Oldies",
+      "location": "Germany",
+      "genre": "Oldies",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "http://dieneue1077.cast.addradio.de/dieneue1077/oldie/high/stream.mp3"
     }
   ]
 }

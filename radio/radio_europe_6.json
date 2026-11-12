@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-11T04:44:42Z",
+  "updated": "2026-11-12T05:48:39Z",
   "region": "europe",
   "part": 6,
   "of": 8,
@@ -2215,19 +2215,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_radio_pocket_bfdb78b9",
-      "title": "Radio Pocket",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://ice15.fluidstream.net/pocket.aac",
-      "location": "Veneto, Italy",
-      "genre": "Radio",
-      "countryCode": "IT",
-      "language": "italian",
-      "clickCount": 0,
-      "bitrate": 64
-    },
-    {
       "id": "rb2_radio_poderosa_7b3800ff",
       "title": "Radio Poderosa",
       "subtitle": "Political, Social",
@@ -3209,15 +3196,6 @@
       "language": null,
       "clickCount": 2,
       "bitrate": 320
-    },
-    {
-      "id": "radio_stereocitt_it_962863",
-      "title": "Radio Stereocittà",
-      "subtitle": "Dance",
-      "location": "Veneto, Italy",
-      "genre": "Dance",
-      "streamUrl": "http://onair11.xdevel.com:8134/;stream.mp3",
-      "countryCode": "IT"
     },
     {
       "id": "rb2_radio_stereocitt_hq_d113bd9a",
@@ -5550,19 +5528,6 @@
       "language": null,
       "clickCount": 0,
       "bitrate": 64
-    },
-    {
-      "id": "rb2_viniles_radio_56568d0e",
-      "title": "Viniles Radio",
-      "subtitle": "House, Italian",
-      "imageUrl": "",
-      "streamUrl": "https://s3.radio.co/sfaf3f1f4a/listen",
-      "location": "Marche, Italy",
-      "genre": "House",
-      "countryCode": "IT",
-      "language": "italian",
-      "clickCount": 0,
-      "bitrate": 128
     },
     {
       "id": "virgin_radio_classic_rock",
@@ -12454,19 +12419,6 @@
       "language": null,
       "clickCount": 1,
       "bitrate": 192
-    },
-    {
-      "id": "rb2_kilrock_c9cf1423",
-      "title": "KilRock",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://mediaserv30.live-streams.nl:8013/low",
-      "location": "Zeeland, The Netherlands",
-      "genre": "Radio",
-      "countryCode": "NL",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 48
     },
     {
       "id": "rb2_koekstad_radio_deventer_cfc5a152",
@@ -24734,18 +24686,6 @@
       "streamUrl": "https://livestreaming.b67v2.tweedekamer.nl/live/plenairezaal/audio/prog_index.m3u8"
     },
     {
-      "id": "muziekteam_nl_59200d36",
-      "title": "Muziekteam",
-      "subtitle": "Radio",
-      "location": "The Netherlands",
-      "genre": "Radio",
-      "countryCode": "NL",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 192,
-      "streamUrl": "http://mcp-1.streampanel.nl:18036/stream"
-    },
-    {
       "id": "candelight_nl_ae96d47f",
       "title": "Candelight",
       "subtitle": "Radio",
@@ -25284,18 +25224,6 @@
       "clickCount": 3,
       "bitrate": 320,
       "streamUrl": "http://radiolive.trm.md:8000/RC-Actualitati"
-    },
-    {
-      "id": "leproradio_lt_b9be09d1",
-      "title": "Leproradio",
-      "subtitle": "Radio",
-      "location": "Lithuania",
-      "genre": "Radio",
-      "countryCode": "LT",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 128,
-      "streamUrl": "https://live.leproradio.com/bender.ogg"
     },
     {
       "id": "vocea_basarabiei_md_e0e7e62b",
@@ -28092,6 +28020,18 @@
       "clickCount": 4,
       "bitrate": 320,
       "streamUrl": "http://135.181.165.48:8019/stream"
+    },
+    {
+      "id": "rtv4_nl_a4f76771",
+      "title": "RTV4",
+      "subtitle": "Radio",
+      "location": "The Netherlands",
+      "genre": "Radio",
+      "countryCode": "NL",
+      "language": "dutch",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://streams.rtv4.nl/rtv4.mp3"
     }
   ]
 }

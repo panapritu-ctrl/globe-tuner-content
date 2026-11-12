@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-11T04:44:42Z",
+  "updated": "2026-11-12T05:48:39Z",
   "region": "europe",
   "part": 2,
   "of": 8,
@@ -9148,19 +9148,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_rpr1_best_of_80s_0d5029eb",
-      "title": "RPR1. Best of 80s",
-      "subtitle": "80S, Pop",
-      "imageUrl": "https://cdn.rpr1.de/sites/all/themes/rpr1/favicon.ico",
-      "streamUrl": "https://streams.rpr1.de/rpr-80er-128-aac?usid=0-0-H-M-D-01",
-      "location": "Rheinland-Pfalz, Germany",
-      "genre": "80S",
-      "countryCode": "DE",
-      "language": "german",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_rpr1_chilloutzone_7ff0e3fe",
       "title": "RPR1. Chilloutzone",
       "subtitle": "Chillout, Regional Radio",
@@ -9262,19 +9249,6 @@
       "countryCode": "DE",
       "language": null,
       "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_rpr1_yoga_sounds_efe250ae",
-      "title": "RPR1. Yoga Sounds",
-      "subtitle": "Ambient, Chill",
-      "imageUrl": "",
-      "streamUrl": "http://streams.rpr1.de/rpr-entspannung-128-aac?usid=0-0-H-A-D-20",
-      "location": "Germany",
-      "genre": "Ambient",
-      "countryCode": "DE",
-      "language": null,
-      "clickCount": 1,
       "bitrate": 128
     },
     {
@@ -18036,19 +18010,6 @@
       "bitrate": 192
     },
     {
-      "id": "rb2_fluxfm_90s_der_90er_channel_998324a9",
-      "title": "fluxfm 90s – Der 90er Channel",
-      "subtitle": "90S",
-      "imageUrl": "https://www.fluxfm.de/assets/favicons/apple-icon-120x120.png",
-      "streamUrl": "https://streams.fluxfm.de/90er/aac-64/audio/",
-      "location": "Germany",
-      "genre": "90S",
-      "countryCode": "DE",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_harmony_70er_d7889964",
       "title": "harmony +70er",
       "subtitle": "70S, Oldies",
@@ -21980,19 +21941,6 @@
       "language": "russian",
       "clickCount": 0,
       "bitrate": 320
-    },
-    {
-      "id": "rb2_sooviraadio_962037d3",
-      "title": "Sooviraadio",
-      "subtitle": "80S, Sparse Info",
-      "imageUrl": "http://sooviraadio.net/favicon.ico",
-      "streamUrl": "http://media.uunox.net:8888/;",
-      "location": "Estonia",
-      "genre": "80S",
-      "countryCode": "EE",
-      "language": "estonian",
-      "clickCount": 0,
-      "bitrate": 128
     },
     {
       "id": "star_fm_ee_694c17",
@@ -26588,19 +26536,6 @@
       "imageUrl": "https://masterfm.es/wp-content/uploads/2022/02/proradio-demo2-logo-negative-1-1.png.webp",
       "streamUrl": "https://radios.lamaster.es:8000/web24",
       "location": "Madrid, Spain",
-      "genre": "Radio",
-      "countryCode": "ES",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 192
-    },
-    {
-      "id": "rb2_mdt_radio_madrid_dab_3ac2f890",
-      "title": "MDT RADIO Madrid DAB+",
-      "subtitle": "Radio",
-      "imageUrl": "https://mdtradio.com/wp-content/uploads/2022/11/logobanner.png",
-      "streamUrl": "https://streams1.mdtradio.com:8443/MdtMadrid",
-      "location": "Spain",
       "genre": "Radio",
       "countryCode": "ES",
       "language": null,
@@ -33441,18 +33376,6 @@
       "streamUrl": "https://dispatcher.rndfnk.com/wdr/sportschau/liga1spiel9/mp3/128/stream.mp3"
     },
     {
-      "id": "dr_p4_stjylland_aac_dk_86d978b1",
-      "title": "DR P4 Østjylland (AAC)",
-      "subtitle": "Regional Radio",
-      "location": "Denmark",
-      "genre": "Regional Radio",
-      "countryCode": "DK",
-      "language": "danish",
-      "clickCount": 5,
-      "bitrate": 324,
-      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4ostjylland/masterab.m3u8"
-    },
-    {
       "id": "punk_fm_ee_d0362c1a",
       "title": "PUNK FM",
       "subtitle": "Alternative",
@@ -34615,6 +34538,114 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://apassingfeeling.stream.laut.fm/a_passing_feeling"
+    },
+    {
+      "id": "partyfm_dk_48c28bd3",
+      "title": "PartyFM",
+      "subtitle": "90S",
+      "location": "Denmark",
+      "genre": "90S",
+      "countryCode": "DK",
+      "language": "danish",
+      "clickCount": 8,
+      "bitrate": 320,
+      "streamUrl": "http://stream.partyfm.dk/Party320/"
+    },
+    {
+      "id": "planet_radio_mit_mehr_deutschrap_de_22defaa8",
+      "title": "planet radio mit mehr Deutschrap",
+      "subtitle": "Deutschrap Deutschpop",
+      "location": "Germany",
+      "genre": "Deutschrap Deutschpop",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 7,
+      "bitrate": 128,
+      "streamUrl": "http://mp3.planetradio.de/plrplus/hqdeutschrap.mp3"
+    },
+    {
+      "id": "radio_21_hamburg_de_4ff7ceb9",
+      "title": "Radio 21 Hamburg",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 7,
+      "bitrate": 0,
+      "streamUrl": "https://radio21.streamabc.net/radio21-hamburg-mp3-192-8894776"
+    },
+    {
+      "id": "wdr_4_rheinland_de_69c97990",
+      "title": "WDR 4 Rheinland",
+      "subtitle": "Oldies",
+      "location": "Germany",
+      "genre": "Oldies",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://icecast.wdr.de/wdr/wdr4/rheinland/mp3/128/stream.mp3"
+    },
+    {
+      "id": "sch_tzenfest_im_radio_de_bb278eca",
+      "title": "Schützenfest im Radio",
+      "subtitle": "Aktuell",
+      "location": "Germany",
+      "genre": "Aktuell",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "http://schuetzenfestimradio.stream.laut.fm/schuetzenfestimradio?uuid=0918dfbe-324a-ea54-80c9-8b8a53396bf2&t302=2026-11-12_03-18-04"
+    },
+    {
+      "id": "dr_p4_sj_lland_aac_dk_760081a0",
+      "title": "DR P4 Sjælland (AAC)",
+      "subtitle": "Regional Radio",
+      "location": "Denmark",
+      "genre": "Regional Radio",
+      "countryCode": "DK",
+      "language": "danish",
+      "clickCount": 5,
+      "bitrate": 324,
+      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4sjaelland/masterab.m3u8"
+    },
+    {
+      "id": "omaneo_podcast_de_20441912",
+      "title": "omaneo Podcast",
+      "subtitle": "Barista",
+      "location": "Germany",
+      "genre": "Barista",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://radio.omaneo.de/listen/omaneo_podcast/radio.mp3"
+    },
+    {
+      "id": "r_gen_radio_de_6b1829a9",
+      "title": "Rügen Radio",
+      "subtitle": "Alternative",
+      "location": "Germany",
+      "genre": "Alternative",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://ruegenradio.stream.laut.fm/ruegenradio?uuid=68ccbe6e-22e5-e8ad-5db3-551f7baafc7e&t302=2026-11-07_03-04-49"
+    },
+    {
+      "id": "radio_bob_classic_rock_de_84cf3cbf",
+      "title": "Radio BOB! - Classic Rock",
+      "subtitle": "Classic Rock",
+      "location": "Germany",
+      "genre": "Classic Rock",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://regiocast.streamabc.net/regc-boblivenational-mp3-192-4076554?sABC=67pnro77%231%238qqro8nrnsnn496ons412o4n6pnn8223%23ubzrcntr&mode=preroll&aw_0_1st.skey=1741351787&cb=851348839&listenerid=8ddeb8aeafaa496baf412b4a6caa8223&aw_0_1st.playerid=homepage&amsparams=playerid:homepage;skey:1741351799"
     }
   ]
 }

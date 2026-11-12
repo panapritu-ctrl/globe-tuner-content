@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-11T04:44:42Z",
+  "updated": "2026-11-12T05:48:39Z",
   "region": "europe",
   "part": 8,
   "of": 8,
@@ -20931,19 +20931,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb_club_fm_kosov_41baca00",
-      "title": "Club FM Kosovë",
-      "subtitle": "Radio",
-      "imageUrl": "https://clubfmkosova.al/wp-content/uploads/2021/01/Player-Cover-ClubFM-Kosove-play-2-768x768.png",
-      "streamUrl": "https://cp1.sednastream.com/proxy/clubfmkosova?mp=/stream",
-      "location": "Kosovo",
-      "genre": "Radio",
-      "countryCode": "XK",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
       "id": "glamradio_xk",
       "title": "GlamRADIO",
       "subtitle": "MP3 192kbps",
@@ -24788,18 +24775,6 @@
       "streamUrl": "http://jfm1.hostingradio.ru:14536/rock90.mp3"
     },
     {
-      "id": "anima_amoris_deep_tech_house_ru_1c9bcb95",
-      "title": "Anima Amoris Deep Tech House",
-      "subtitle": "Radio",
-      "location": "The Russian Federation",
-      "genre": "Radio",
-      "countryCode": "RU",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 0,
-      "streamUrl": "https://amoris.sknt.ru/deeptech.mp3"
-    },
-    {
       "id": "radi_caprice_afrobeat_ru_fadb8770",
       "title": "Radi Caprice - Afrobeat",
       "subtitle": "Radio",
@@ -25278,18 +25253,6 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "http://kino-1.catcast.tv/content/37742/index.m3u8"
-    },
-    {
-      "id": "90s_rewind_se_6bf611b2",
-      "title": "90s Rewind",
-      "subtitle": "90S",
-      "location": "Sweden",
-      "genre": "90S",
-      "countryCode": "SE",
-      "language": "english",
-      "clickCount": 7,
-      "bitrate": 0,
-      "streamUrl": "https://mml1.prostream.se/listen/90s_rewind/radio.mp3"
     },
     {
       "id": "sector_space_ru_e3519012",
@@ -26022,6 +25985,78 @@
       "clickCount": 5,
       "bitrate": 0,
       "streamUrl": "https://sahaj.radio.fm/bhajans.mp3"
+    },
+    {
+      "id": "elite_convoy_fm_russia_ru_a46497ef",
+      "title": "ELITE CONVOY FM RUSSIA",
+      "subtitle": "Radio",
+      "location": "The Russian Federation",
+      "genre": "Radio",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://listen7.myradio24.com/88375"
+    },
+    {
+      "id": "retro_ua_30626fc2",
+      "title": "Радіо Київстар Retro",
+      "subtitle": "256 Kbit/S",
+      "location": "Ukraine",
+      "genre": "256 Kbit/S",
+      "countryCode": "UA",
+      "language": "ukranian",
+      "clickCount": 5,
+      "bitrate": 281,
+      "streamUrl": "https://radio.kyivstar.ua/stream/retromusic/master.m3u8"
+    },
+    {
+      "id": "station_ru_49660175",
+      "title": "Сектор Газа",
+      "subtitle": "Radio",
+      "location": "The Russian Federation",
+      "genre": "Radio",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://stream03.pcradio.app/Sector_Gaza-hi.aac"
+    },
+    {
+      "id": "anima_amoris_trip_hop_lounge_ru_6d09266b",
+      "title": "Anima Amoris Trip Hop Lounge",
+      "subtitle": "Radio",
+      "location": "The Russian Federation",
+      "genre": "Radio",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://amoris.sknt.ru/triphop.mp3"
+    },
+    {
+      "id": "get_radio_ru_1228a54f",
+      "title": "get.radio — Хип-хоп (Русский)",
+      "subtitle": "Hiphop",
+      "location": "The Russian Federation",
+      "genre": "Hiphop",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://get-radio.sipout.ai/stream/hiphop-ru.mp3"
+    },
+    {
+      "id": "40_ru_19c2423b",
+      "title": "Радио 40",
+      "subtitle": "Рок",
+      "location": "The Russian Federation",
+      "genre": "Рок",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 320,
+      "streamUrl": "http://195.112.119.187:8000/Radio40"
     }
   ]
 }

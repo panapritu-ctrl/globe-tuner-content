@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-11T04:44:42Z",
+  "updated": "2026-11-12T05:48:39Z",
   "region": "africa",
   "stations": [
     {
@@ -896,15 +896,6 @@
       "genre": "News",
       "countryCode": "ER",
       "streamUrl": "https://jmc-live.ercdn.net/eritreatv/eritreatv.m3u8"
-    },
-    {
-      "id": "eritrean_music_er",
-      "title": "Eritrean Music",
-      "subtitle": "Amharic / Tigrigna",
-      "location": "Eritrea",
-      "genre": "Music",
-      "countryCode": "ER",
-      "streamUrl": "http://linuxfreelancer.com:8000/test.mp3"
     },
     {
       "id": "rb_hip_hop_756783df",
@@ -12955,18 +12946,6 @@
       "streamUrl": "https://fm.imediaport.com/pitakwa"
     },
     {
-      "id": "fop_radio_sl_26da388e",
-      "title": "FOP Radio",
-      "subtitle": "Culture",
-      "location": "Sierra Leone",
-      "genre": "Culture",
-      "countryCode": "SL",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 128,
-      "streamUrl": "https://stream.fopradios.top/main"
-    },
-    {
       "id": "sports_radio_brila_fm_ng_fa173a1c",
       "title": "Sports Radio Brila FM",
       "subtitle": "Radio",
@@ -13889,6 +13868,102 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://stream-155.zeno.fm/ide8zzvajbcvv"
+    },
+    {
+      "id": "96_3_favour_fm_juba_ss_3c5b9c39",
+      "title": "96.3 Favour FM Juba",
+      "subtitle": "Radio",
+      "location": "South Sudan",
+      "genre": "Radio",
+      "countryCode": "SS",
+      "language": null,
+      "clickCount": 9,
+      "bitrate": 0,
+      "streamUrl": "https://us5new.listen2myradio.com:2199/listen.php?port=8106&type=ice&mount=live"
+    },
+    {
+      "id": "eritrean_music_er_b97bc85d",
+      "title": "Eritrean Music",
+      "subtitle": "Amharic",
+      "location": "Eritrea",
+      "genre": "Amharic",
+      "countryCode": "ER",
+      "language": "amharic",
+      "clickCount": 7,
+      "bitrate": 56,
+      "streamUrl": "http://linuxfreelancer.com:8000/test.mp3"
+    },
+    {
+      "id": "ambassador_radio_ke_e74c1599",
+      "title": "Ambassador Radio",
+      "subtitle": "Gospel",
+      "location": "Kenya",
+      "genre": "Gospel",
+      "countryCode": "KE",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://icy.cloudrad.io/9b2c9add"
+    },
+    {
+      "id": "tne_music_radio_ug_55a631f1",
+      "title": "TNE Music Radio",
+      "subtitle": "Radio",
+      "location": "Uganda",
+      "genre": "Radio",
+      "countryCode": "UG",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 96,
+      "streamUrl": "https://2clet0pw.r.eu-central-1.awstrack.me/L0/https:%2F%2Feu4.fastcast4u.com%2Fproxy%2Ftnemusicradio%3Fmp=%2F1/1/010701a1c70dcc80-ad0c9a73-d1b6-41df-b2d1-9012ee1017e2-000000/fHFbHgFdvjzkEbfCH5k3E63ZeTc=258"
+    },
+    {
+      "id": "investment_radio_africa_ira_zw_3c85b2a4",
+      "title": "Investment Radio Africa (IRA)",
+      "subtitle": "News",
+      "location": "Zimbabwe",
+      "genre": "News",
+      "countryCode": "ZW",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://stream.zeno.fm/pb9w7wk6rxhvv"
+    },
+    {
+      "id": "serveur_de_messages_proph_tiques_ci_bdb49fe9",
+      "title": "Serveur de Messages Prophétiques",
+      "subtitle": "Christian",
+      "location": "Coted Ivoire",
+      "genre": "Christian",
+      "countryCode": "CI",
+      "language": "french",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://listen.radioking.com/radio/688134/stream/752823"
+    },
+    {
+      "id": "hiphop_gin_ke_e01590c9",
+      "title": "Hiphop Gin",
+      "subtitle": "Radio",
+      "location": "Kenya",
+      "genre": "Radio",
+      "countryCode": "KE",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 320,
+      "streamUrl": "https://stream.zeno.fm/m25b7vevgm8uv"
+    },
+    {
+      "id": "elixir_fm_the_uncompromised_signal_ke_d6e50f06",
+      "title": "Elixir.fm - The Uncompromised Signal",
+      "subtitle": "320Kbps",
+      "location": "Kenya",
+      "genre": "320Kbps",
+      "countryCode": "KE",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://streaming.live365.com/a89962"
     }
   ]
 }
