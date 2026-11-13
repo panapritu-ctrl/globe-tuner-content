@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-12T05:48:39Z",
+  "updated": "2026-11-13T05:06:37Z",
   "region": "oceania",
   "stations": [
     {
@@ -4181,19 +4181,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_australian_digital_radio_network_kids_mu_44a452f4",
-      "title": "Australian Digital Radio Network - Kids Music (MP3)",
-      "subtitle": "Kids, Music",
-      "imageUrl": "http://www.australiandigitalradio.com/favicon.ico",
-      "streamUrl": "http://abm21.com.au:8000/CONTAINER21",
-      "location": "Sydney NSW, Australia",
-      "genre": "Kids",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_australian_digital_radio_network_latin_m_df27ce30",
       "title": "Australian Digital Radio Network - Latin Music (MP3)",
       "subtitle": "Latin Music",
@@ -4565,19 +4552,6 @@
       "streamUrl": "http://abm21.com.au:8000/CONTAINER151",
       "location": "Sydney NSW, Australia",
       "genre": "Queen",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_australian_digital_radio_network_radio_b_6f6a4251",
-      "title": "Australian Digital Radio Network - Radio Brisbane",
-      "subtitle": "Non-Stop Music",
-      "imageUrl": "http://www.radiobrisbane.com.au/favicon.ico",
-      "streamUrl": "http://abm22.com.au:8000/CONTAINER135",
-      "location": "Brisbane QLD, Australia",
-      "genre": "Non-Stop Music",
       "countryCode": "AU",
       "language": "english",
       "clickCount": 0,
@@ -15666,18 +15640,6 @@
       "streamUrl": "https://stream.tripleafm.com.au//"
     },
     {
-      "id": "australian_digital_radio_network_1980s_hair_metal_mp3_au_f8e01dba",
-      "title": "Australian Digital Radio Network - 1980s Hair Metal (MP3)",
-      "subtitle": "1980S",
-      "location": "Australia",
-      "genre": "1980S",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 7,
-      "bitrate": 128,
-      "streamUrl": "http://abm21.com.au:8000/CONTAINER16"
-    },
-    {
       "id": "australian_digital_radio_network_1990s_alternative_mp3_au_ce018dcb",
       "title": "Australian Digital Radio Network - 1990s Alternative (MP3)",
       "subtitle": "1990S",
@@ -15760,18 +15722,6 @@
       "clickCount": 3,
       "bitrate": 224,
       "streamUrl": "https://regfm.radioca.st/stream"
-    },
-    {
-      "id": "australian_digital_radio_network_coldplay_mp3_au_0526b4b8",
-      "title": "Australian Digital Radio Network - Coldplay (MP3)",
-      "subtitle": "Coldplay",
-      "location": "Australia",
-      "genre": "Coldplay",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 3,
-      "bitrate": 128,
-      "streamUrl": "http://abm22.com.au:8000/CONTAINER127"
     },
     {
       "id": "abc_radio_western_queensland_au_d417ac9a",
@@ -16314,18 +16264,6 @@
       "streamUrl": "https://radio.turbo.net.au:8443/ugfm-live"
     },
     {
-      "id": "tfc_guam_gu_566aedae",
-      "title": "TFC Guam",
-      "subtitle": "Filipino",
-      "location": "Guam",
-      "genre": "Filipino",
-      "countryCode": "GU",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 1872,
-      "streamUrl": "https://tfcguam-abscbn-ono.amagi.tv/index.m3u8"
-    },
-    {
       "id": "lovers_as_b44f721f",
       "title": "Lovers",
       "subtitle": "Radio",
@@ -16504,6 +16442,30 @@
       "clickCount": 5,
       "bitrate": 0,
       "streamUrl": "https://wz0liw.scahw.com.au/live/drumnbass_128.stream/playlist.m3u8"
+    },
+    {
+      "id": "australian_digital_radio_network_tropical_house_mp3_au_74de3bbc",
+      "title": "Australian Digital Radio Network - Tropical House (MP3)",
+      "subtitle": "Tropical House",
+      "location": "Australia",
+      "genre": "Tropical House",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "http://abm22.com.au:8000/CONTAINER66"
+    },
+    {
+      "id": "blackout_room_radio_au_58742ebb",
+      "title": "Blackout Room Radio",
+      "subtitle": "Australian",
+      "location": "Australia",
+      "genre": "Australian",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 320,
+      "streamUrl": "https://blackoutroomrecords.com/radio/stream.mp3"
     }
   ]
 }

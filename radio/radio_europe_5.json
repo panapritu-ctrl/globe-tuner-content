@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-12T05:48:39Z",
+  "updated": "2026-11-13T05:06:37Z",
   "region": "europe",
   "part": 5,
   "of": 8,
@@ -14844,19 +14844,6 @@
       "countryCode": "HU"
     },
     {
-      "id": "rb2_radiozora_chill_364d9e8c",
-      "title": "RadiOzora Chill",
-      "subtitle": "Downtempo, Electronic",
-      "imageUrl": "",
-      "streamUrl": "http://chill.out.airtime.pro:8000/chill_a",
-      "location": "Hungary",
-      "genre": "Downtempo",
-      "countryCode": "HU",
-      "language": "english",
-      "clickCount": 3,
-      "bitrate": 192
-    },
-    {
       "id": "radiozora_trance_hu_3280e7",
       "title": "RadiOzora Trance",
       "subtitle": "Psychedelic",
@@ -27983,18 +27970,6 @@
       "streamUrl": "http://streaminglattemiele.lemcloud.net:12200/lembasilicata2.mp3"
     },
     {
-      "id": "tg3rai_it_de0a701f",
-      "title": "TG3RAI",
-      "subtitle": "Radio",
-      "location": "Italy",
-      "genre": "Radio",
-      "countryCode": "IT",
-      "language": null,
-      "clickCount": 5,
-      "bitrate": 1990,
-      "streamUrl": "https://tgrcampania-live.akamaized.net/hls/live/2025562/tgrcampania/tgrcampania/playlist.m3u8?auth=daEa4cQd5bWc2dXcZdLdgcKaga2a_c9b5cI-bITV25-c0-GltxyFv&aifp=V001"
-    },
-    {
       "id": "radio_d_opera_hu_a908de32",
       "title": "Radio-D - Opera",
       "subtitle": "Radio",
@@ -28101,6 +28076,18 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://sr14.inmystream.it/stream/freedom"
+    },
+    {
+      "id": "euphonic_moments_radio_hu_71385c5e",
+      "title": "Euphonic Moments Radio",
+      "subtitle": "Ambient",
+      "location": "Hungary",
+      "genre": "Ambient",
+      "countryCode": "HU",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 256,
+      "streamUrl": "https://radio.euphonicmoments.com/listen/euphonic-moments/Euphonicmoments_radio256kbps.mp3"
     }
   ]
 }

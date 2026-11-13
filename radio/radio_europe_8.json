@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-12T05:48:39Z",
+  "updated": "2026-11-13T05:06:37Z",
   "region": "europe",
   "part": 8,
   "of": 8,
@@ -4017,19 +4017,6 @@
       "language": null,
       "clickCount": 3,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_maska_010196c1",
-      "title": "Radio Maska",
-      "subtitle": "Hits, Pop",
-      "imageUrl": "",
-      "streamUrl": "http://radio.lovecity3d.com:4010/stream",
-      "location": "The Russian Federation",
-      "genre": "Hits",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 0,
-      "bitrate": 320
     },
     {
       "id": "rb2_radio_maximum_beats_riffs_d8a6d60f",
@@ -26057,6 +26044,66 @@
       "clickCount": 4,
       "bitrate": 320,
       "streamUrl": "http://195.112.119.187:8000/Radio40"
+    },
+    {
+      "id": "melody_filmov_hity_sk_dc79fd44",
+      "title": "Melody - Filmové hity",
+      "subtitle": "Movie Music",
+      "location": "Slovakia",
+      "genre": "Movie Music",
+      "countryCode": "SK",
+      "language": null,
+      "clickCount": 7,
+      "bitrate": 95,
+      "streamUrl": "https://stream.bauermedia.sk/filmove-hity-hi.aac"
+    },
+    {
+      "id": "897_sk_4e6d891b",
+      "title": "897",
+      "subtitle": "Club",
+      "location": "Slovakia",
+      "genre": "Club",
+      "countryCode": "SK",
+      "language": null,
+      "clickCount": 7,
+      "bitrate": 128,
+      "streamUrl": "https://c34.radioboss.fm:8106/stream"
+    },
+    {
+      "id": "station_ru_3476e5c1",
+      "title": "Юное",
+      "subtitle": "Детское",
+      "location": "The Russian Federation",
+      "genre": "Детское",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 256,
+      "streamUrl": "http://xn--80aibovgem6j.xn--p1ai:8000/live256"
+    },
+    {
+      "id": "monte_carlo_ru_bbaa4d5a",
+      "title": "Monte Carlo",
+      "subtitle": "Easy-Listening",
+      "location": "The Russian Federation",
+      "genre": "Easy-Listening",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 5,
+      "bitrate": 100,
+      "streamUrl": "https://hls-01-montecarlo.hostingradio.ru/montecarlo/playlist.m3u8"
+    },
+    {
+      "id": "mrs_90_5_stockholm_se_e445d1a8",
+      "title": "MRS 90.5 Stockholm",
+      "subtitle": "Disco",
+      "location": "Sweden",
+      "genre": "Disco",
+      "countryCode": "SE",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://radiostreamone.mine.nu/MRS9050one"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-12T05:48:39Z",
+  "updated": "2026-11-13T05:06:37Z",
   "region": "europe",
   "part": 3,
   "of": 8,
@@ -2353,19 +2353,6 @@
       "language": "spanish",
       "clickCount": 0,
       "bitrate": 260
-    },
-    {
-      "id": "rb2_radio_mai_a4ed21fe",
-      "title": "Radio Mai",
-      "subtitle": "Music, Spoken Word",
-      "imageUrl": "https://radiomai.com/online/logoradiomai.gif",
-      "streamUrl": "http://radio.indaloweb.es:8001/live",
-      "location": "Aragón, Spain",
-      "genre": "Music",
-      "countryCode": "ES",
-      "language": "spanish",
-      "clickCount": 0,
-      "bitrate": 128
     },
     {
       "id": "rb2_radio_maktub_nj_09e78cd8",
@@ -8531,19 +8518,6 @@
       "subtitle": "Radio",
       "imageUrl": "https://www.nexusxiv.fr/media/radio/logos/107.3_Morro_Rock_Radio.webp",
       "streamUrl": "http://82.65.103.36:8000/morro-rock",
-      "location": "France",
-      "genre": "Radio",
-      "countryCode": "FR",
-      "language": "english",
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_cp2077_pacific_dreams_88_9_fd0ddaf7",
-      "title": "CP2077 - Pacific Dreams 88.9",
-      "subtitle": "Radio",
-      "imageUrl": "https://www.nexusxiv.fr/media/radio/logos/88.9_Pacific_Dreams.webp",
-      "streamUrl": "http://82.65.103.36:8000/pacific-dreams",
       "location": "France",
       "genre": "Radio",
       "countryCode": "FR",
@@ -18414,19 +18388,6 @@
       "bitrate": 140
     },
     {
-      "id": "rb2_rtfm_lounge_93c1ae4a",
-      "title": "RTFM Lounge",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://streaming.brol.tech/rtfmlounge",
-      "location": "France",
-      "genre": "Radio",
-      "countryCode": "FR",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
       "id": "rtl_fr_042d31",
       "title": "RTL",
       "subtitle": "Généraliste",
@@ -25491,18 +25452,6 @@
       "streamUrl": "https://radio.musicradio.ai/listen/music_radio_house/radio.mp3"
     },
     {
-      "id": "robotariis_radio_fr_2672cbca",
-      "title": "ROBOTARIIS RADIO",
-      "subtitle": "Ai Generated",
-      "location": "France",
-      "genre": "Ai Generated",
-      "countryCode": "FR",
-      "language": "english",
-      "clickCount": 4,
-      "bitrate": 192,
-      "streamUrl": "https://subwave.robotariis.com/stream.mp3"
-    },
-    {
       "id": "1mix_radio_edm_uk_32kb_aac_gb_7bacefa7",
       "title": "1Mix Radio - EDM (UK) 32kb aac+",
       "subtitle": "Edm",
@@ -26295,18 +26244,6 @@
       "streamUrl": "https://radio.drumandbassuk.com/listen/drum_and_bass_uk_radio/radio.mp3"
     },
     {
-      "id": "breniges_fm_fr_8a65ae96",
-      "title": "Breniges FM",
-      "subtitle": "Local News",
-      "location": "France",
-      "genre": "Local News",
-      "countryCode": "FR",
-      "language": "french",
-      "clickCount": 5,
-      "bitrate": 0,
-      "streamUrl": "https://breniges.fr/flux/radio-browser-9df9.mp3"
-    },
-    {
       "id": "abc_loungr_fr_1a049c54",
       "title": "ABC-Loungr",
       "subtitle": "Radio",
@@ -26461,18 +26398,6 @@
       "clickCount": 5,
       "bitrate": 128,
       "streamUrl": "https://listen.radioking.com/radio/314507/stream/361754"
-    },
-    {
-      "id": "haulfm_fi_377486cd",
-      "title": "HaulFM",
-      "subtitle": "Radio",
-      "location": "Finland",
-      "genre": "Radio",
-      "countryCode": "FI",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 128,
-      "streamUrl": "https://stream.haul.fm/haulmpfm.mp3"
     },
     {
       "id": "nostalgie_nantes_fr_fbe25fe4",
@@ -27577,6 +27502,174 @@
       "clickCount": 4,
       "bitrate": 64,
       "streamUrl": "https://streaming.nrjaudio.fm/oudbox2h9r57"
+    },
+    {
+      "id": "gozadera_fm_almer_a_es_c0b6ebcb",
+      "title": "Gozadera FM (Almería)",
+      "subtitle": "Comercial",
+      "location": "Spain",
+      "genre": "Comercial",
+      "countryCode": "ES",
+      "language": "spaish",
+      "clickCount": 8,
+      "bitrate": 64,
+      "streamUrl": "https://azura.abcorp.es/listen/gozadera-almeria/almeria"
+    },
+    {
+      "id": "radio_mi_amigo_international_es_3d857337",
+      "title": "Radio Mi Amigo International",
+      "subtitle": "Radio",
+      "location": "Spain",
+      "genre": "Radio",
+      "countryCode": "ES",
+      "language": null,
+      "clickCount": 8,
+      "bitrate": 192,
+      "streamUrl": "http://142.4.219.8:8350/stream"
+    },
+    {
+      "id": "jm_radio_fr_b18d94e9",
+      "title": "JM Radio",
+      "subtitle": "Hits",
+      "location": "France",
+      "genre": "Hits",
+      "countryCode": "FR",
+      "language": null,
+      "clickCount": 7,
+      "bitrate": 0,
+      "streamUrl": "https://jm-radio.fr/flux/jmradio?t=1794495911634"
+    },
+    {
+      "id": "90s_2000s_more_gb_826d89e9",
+      "title": "90s 2000s & More",
+      "subtitle": "00S",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "00S",
+      "countryCode": "GB",
+      "language": "english",
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://lunar.citrus3.com:8162/stream"
+    },
+    {
+      "id": "nostalgie_italia_fr_e31375d1",
+      "title": "Nostalgie Italia",
+      "subtitle": "Italian Pop",
+      "location": "France",
+      "genre": "Italian Pop",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://streaming.nrjaudio.fm/oubyqnj25zuw?origine=fluxradios"
+    },
+    {
+      "id": "satellite_fm_paris_fr_cae1aab3",
+      "title": "Satellite FM Paris",
+      "subtitle": "Radio",
+      "location": "France",
+      "genre": "Radio",
+      "countryCode": "FR",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://manager11.streamradio.fr:2935/stream"
+    },
+    {
+      "id": "tony_s_place_radio_gb_8c0a8acf",
+      "title": "Tony's Place Radio",
+      "subtitle": "Ambient",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Ambient",
+      "countryCode": "GB",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "https://tonysplace.co.uk/api/radio/stream"
+    },
+    {
+      "id": "josema_retro_radio_es_c7e8ea4f",
+      "title": "Josema Retro Radio",
+      "subtitle": "Arcade",
+      "location": "Spain",
+      "genre": "Arcade",
+      "countryCode": "ES",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 64,
+      "streamUrl": "https://radio.josema.zapto.org:8443/listen/retro/radio.mp3"
+    },
+    {
+      "id": "radiumfm_paris_fr_6ef2b671",
+      "title": "RadiumFM Paris",
+      "subtitle": "Ai Generated",
+      "location": "France",
+      "genre": "Ai Generated",
+      "countryCode": "FR",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream.radiumfm.com/paris"
+    },
+    {
+      "id": "jm_classiks_fr_8997fa3d",
+      "title": "JM Classiks",
+      "subtitle": "Classic Hits",
+      "location": "France",
+      "genre": "Classic Hits",
+      "countryCode": "FR",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://jm-radio.fr/flux/classiks?t=1794496313891"
+    },
+    {
+      "id": "nrj_edm_fr_e8ac02cc",
+      "title": "NRJ EDM",
+      "subtitle": "Nrj",
+      "location": "France",
+      "genre": "Nrj",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://streaming.nrjaudio.fm/oumr2p8fnozc"
+    },
+    {
+      "id": "radio_fuze_fr_9b94753d",
+      "title": "Radio Fuze",
+      "subtitle": "France",
+      "location": "France",
+      "genre": "France",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://stream-ssl.radios-arra.fr:8443/fuze"
+    },
+    {
+      "id": "raptz_fr_b60163fb",
+      "title": "RapTz",
+      "subtitle": "Deep House",
+      "location": "France",
+      "genre": "Deep House",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 4,
+      "bitrate": 320,
+      "streamUrl": "https://www.radioking.com/play/radio-raptz/78175"
+    },
+    {
+      "id": "nrj_lyon_fr_3ec3e867",
+      "title": "NRJ Lyon",
+      "subtitle": "Nrj",
+      "location": "France",
+      "genre": "Nrj",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://streaming.nrjaudio.fm/ou8v5agk7oiu"
     }
   ]
 }

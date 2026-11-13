@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-12T05:48:39Z",
+  "updated": "2026-11-13T05:06:37Z",
   "region": "africa",
   "stations": [
     {
@@ -3835,15 +3835,6 @@
       "genre": "Music",
       "countryCode": "SN",
       "streamUrl": "https://stream.zeno.fm/7cru7g7rcwzuv"
-    },
-    {
-      "id": "manoor_fm_89_4_dakar_sn_3e0f7c",
-      "title": "Manooré FM 89.4 Dakar",
-      "subtitle": "General",
-      "location": "Senegal",
-      "genre": "General",
-      "streamUrl": "https://stream.zeno.fm/sad0xwh0mg8uv",
-      "countryCode": "SN"
     },
     {
       "id": "rb2_metraf_fm_103_7_dakar_c1fb30d3",
@@ -11410,18 +11401,6 @@
       "streamUrl": "https://listen.radioking.com/radio/725756/stream/791726"
     },
     {
-      "id": "radio_nuit_blanche_ci_68fadc13",
-      "title": "Radio Nuit Blanche",
-      "subtitle": "Talk",
-      "location": "Coted Ivoire",
-      "genre": "Talk",
-      "countryCode": "CI",
-      "language": "french",
-      "clickCount": 3,
-      "bitrate": 96,
-      "streamUrl": "https://free.rcast.net/73850"
-    },
-    {
       "id": "luli_radio_ci_cae4b741",
       "title": "Luli Radio",
       "subtitle": "Christian",
@@ -13964,6 +13943,54 @@
       "clickCount": 4,
       "bitrate": 192,
       "streamUrl": "https://streaming.live365.com/a89962"
+    },
+    {
+      "id": "fiderana_web_radio_mg_241f632a",
+      "title": "Fiderana Web Radio",
+      "subtitle": "Christian",
+      "location": "Madagascar",
+      "genre": "Christian",
+      "countryCode": "MG",
+      "language": "french",
+      "clickCount": 12,
+      "bitrate": 192,
+      "streamUrl": "https://a9.asurahosting.com/listen/fiderana/radio.mp3"
+    },
+    {
+      "id": "radio_h_micycle_porto_novo_bj_0e2053d8",
+      "title": "Radio Hémicycle Porto-Novo",
+      "subtitle": "Radio",
+      "location": "Benin",
+      "genre": "Radio",
+      "countryCode": "BJ",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://listen.radioking.com/radio/117355/stream/156709"
+    },
+    {
+      "id": "bcc_fm_radio_tz_0396bfab",
+      "title": "BCC-FM Radio",
+      "subtitle": "Smooth Jazz",
+      "location": "United Republic Of Tanzania",
+      "genre": "Smooth Jazz",
+      "countryCode": "TZ",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "https://a7.asurahosting.com/listen/bethel_fm/radio.mp3"
+    },
+    {
+      "id": "radio_cotonou_bj_4f74844c",
+      "title": "Radio Cotonou",
+      "subtitle": "Radio",
+      "location": "Benin",
+      "genre": "Radio",
+      "countryCode": "BJ",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream-151.zeno.fm/o9bspgm4y78vv"
     }
   ]
 }

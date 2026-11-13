@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-12T05:48:39Z",
+  "updated": "2026-11-13T05:06:37Z",
   "region": "asia",
   "part": 1,
   "of": 3,
@@ -26461,18 +26461,6 @@
       "streamUrl": "http://82.213.26.67:8000/stfeam"
     },
     {
-      "id": "cctv1_cn_7f462224",
-      "title": "CCTV1",
-      "subtitle": "Radio",
-      "location": "China",
-      "genre": "Radio",
-      "countryCode": "CN",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 8200,
-      "streamUrl": "http://8.138.7.223/%E3%80%90%E5%85%AC%E4%BC%97%E5%8F%B7%EF%BC%9A%E6%A6%B4%E8%8A%92%E7%94%B5%E8%A7%86%E3%80%91/cctv1.m3u8"
-    },
-    {
       "id": "station_cn_6994c89a",
       "title": "山西故事广播",
       "subtitle": "Storytelling",
@@ -26567,18 +26555,6 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "https://rscdn.ajmide.com/r_3149/nglive_3149.m3u8"
-    },
-    {
-      "id": "fm105_8_cn_df7a8804",
-      "title": "青岛FM105.8",
-      "subtitle": "Music",
-      "location": "China",
-      "genre": "Music",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 3,
-      "bitrate": 0,
-      "streamUrl": "http://video10.qtv.com.cn/zhibo875/manifest.m3u8"
     },
     {
       "id": "station_cn_508532d5",
@@ -26915,18 +26891,6 @@
       "clickCount": 5,
       "bitrate": 637,
       "streamUrl": "https://admn-radio-cdn-lb.starzplayarabia.com/out/v1/admn_radio_enc/emarat_fm/emarat_fm_hls_nd/index.m3u8"
-    },
-    {
-      "id": "bhakti_world_af_d60df80d",
-      "title": "Bhakti World",
-      "subtitle": "Classical",
-      "location": "Afghanistan",
-      "genre": "Classical",
-      "countryCode": "AF",
-      "language": null,
-      "clickCount": 5,
-      "bitrate": 48,
-      "streamUrl": "http://gurbani.out.airtime.pro:8000/gurbani_a"
     },
     {
       "id": "station_cn_af0ecd3c",
@@ -27299,6 +27263,162 @@
       "clickCount": 4,
       "bitrate": 168,
       "streamUrl": "http://play.jinnantv.top/live/JNTV2.m3u8"
+    },
+    {
+      "id": "bhakti_world_af_d60df80d",
+      "title": "Bhakti World",
+      "subtitle": "Classical",
+      "location": "Afghanistan",
+      "genre": "Classical",
+      "countryCode": "AF",
+      "language": null,
+      "clickCount": 10,
+      "bitrate": 48,
+      "streamUrl": "http://gurbani.out.airtime.pro:8000/gurbani_a"
+    },
+    {
+      "id": "cctv1_cn_7f462224",
+      "title": "CCTV1",
+      "subtitle": "Radio",
+      "location": "China",
+      "genre": "Radio",
+      "countryCode": "CN",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 8200,
+      "streamUrl": "http://8.138.7.223/%E3%80%90%E5%85%AC%E4%BC%97%E5%8F%B7%EF%BC%9A%E6%A6%B4%E8%8A%92%E7%94%B5%E8%A7%86%E3%80%91/cctv1.m3u8"
+    },
+    {
+      "id": "station_cn_0ec79051",
+      "title": "宝鸡综合广播",
+      "subtitle": "News",
+      "location": "China",
+      "genre": "News",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "https://lhttp-hw.qtfm.cn/live/15318125/64k.mp3"
+    },
+    {
+      "id": "station_af_399202bf",
+      "title": "Русское радио ВЛ",
+      "subtitle": "Classical",
+      "location": "Afghanistan",
+      "genre": "Classical",
+      "countryCode": "AF",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "http://194.58.122.69:8000/rrvl"
+    },
+    {
+      "id": "brtv_cn_af35e99d",
+      "title": "BRTV北京城市广播",
+      "subtitle": "Information",
+      "location": "China",
+      "genre": "Information",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://brtv-radiolive.rbc.cn/alive/fm1073.m3u8"
+    },
+    {
+      "id": "station_cn_40cef4a2",
+      "title": "宁波综合广播",
+      "subtitle": "News",
+      "location": "China",
+      "genre": "News",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://lhttp-hw.qtfm.cn/live/1138/64k.mp3"
+    },
+    {
+      "id": "wukin_news_tv_cn_4c52ee84",
+      "title": "Wukin News TV",
+      "subtitle": "Hls Video",
+      "location": "China",
+      "genre": "Hls Video",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "http://live.wjyanghu.com/live/CH1.m3u8"
+    },
+    {
+      "id": "station_cn_f3b36040",
+      "title": "营口综合广播",
+      "subtitle": "Radio",
+      "location": "China",
+      "genre": "Radio",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "http://live.ximalaya.com/radio-first-page-app/live/2861/64.m3u8"
+    },
+    {
+      "id": "station_cn_ad3999a0",
+      "title": "安庆综合广播",
+      "subtitle": "News",
+      "location": "China",
+      "genre": "News",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://lhttp.qingting.fm/live/1965/64k.mp3"
+    },
+    {
+      "id": "station_cn_bf8643c8",
+      "title": "西藏汉语广播",
+      "subtitle": "Full Service",
+      "location": "China",
+      "genre": "Full Service",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "http://satellitepull.cnr.cn/live/wxxzhygb/playlist.m3u8?wsSession=d8b4488aebb72eb396f72a83-174700937926481&wsIPSercert=5bb043949891952939522be8c9bd5410"
+    },
+    {
+      "id": "station_cn_be3286eb",
+      "title": "蚌埠交通文艺广播",
+      "subtitle": "Entertainment",
+      "location": "China",
+      "genre": "Entertainment",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "http://live.ximalaya.com/radio-first-page-app/live/151/64.m3u8"
+    },
+    {
+      "id": "27_cn_d0e484cc",
+      "title": "测试27",
+      "subtitle": "Radio",
+      "location": "China",
+      "genre": "Radio",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 4,
+      "bitrate": 500,
+      "streamUrl": "http://gctxyc.liveplay.myqcloud.com/gc/ztd_1/index.m3u8"
+    },
+    {
+      "id": "brtv_cn_d13d7c50",
+      "title": "BRTV京津冀之声",
+      "subtitle": "Full Service",
+      "location": "China",
+      "genre": "Full Service",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://brtv-radiolive.rbc.cn/alive/fm1006.m3u8"
     }
   ]
 }
