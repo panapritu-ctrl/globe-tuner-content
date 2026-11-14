@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-13T05:06:37Z",
+  "updated": "2026-11-14T04:59:30Z",
   "region": "asia",
   "part": 3,
   "of": 3,
@@ -1933,19 +1933,6 @@
       "language": null,
       "clickCount": 0,
       "bitrate": 96
-    },
-    {
-      "id": "rb2_prime_fm_ilonggo_bd345567",
-      "title": "Prime FM Ilonggo",
-      "subtitle": "Radio",
-      "imageUrl": "https://4.bp.blogspot.com/-Y1XYp2_7yrQ/W_IokJkfM1I/AAAAAAAAENY/ioZjKiFbYe0YGal__mQRaq32-UFNSDY4gCLcBGAs/s320/prime-fm-radio-amfmph.png",
-      "streamUrl": "http://148.72.153.65:9265/live",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 64
     },
     {
       "id": "rb2_r597_9ec6d411",
@@ -16698,18 +16685,6 @@
       "streamUrl": "http://livestream.rmn.ph:8000/ifmcdo"
     },
     {
-      "id": "92_3_radyo5_true_fm_ph_5565e674",
-      "title": "92.3 Radyo5 True FM",
-      "subtitle": "Radio",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "language": null,
-      "clickCount": 6,
-      "bitrate": 463,
-      "streamUrl": "https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/radyo5_qp.m3u8"
-    },
-    {
       "id": "krb_radio_2_th_5c2d7672",
       "title": "KRB Radio 2",
       "subtitle": "Blind Radio",
@@ -16732,18 +16707,6 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://livestream.rmn.ph/ifmvigan"
-    },
-    {
-      "id": "nbt_north_digital_tv_channel_11_th_276013b8",
-      "title": "NBT North: digital TV channel 11",
-      "subtitle": "Radio",
-      "location": "Thailand",
-      "genre": "Radio",
-      "countryCode": "TH",
-      "language": "thai",
-      "clickCount": 4,
-      "bitrate": 3128,
-      "streamUrl": "https://cdn-edge.iiptvcdn.com/live_event/smil:4f6e-aa34-2034-5492-c82d.smil/playlist.m3u8?null"
     },
     {
       "id": "pal_station_tr_47ba2ac5",
@@ -16828,18 +16791,6 @@
       "clickCount": 5,
       "bitrate": 96,
       "streamUrl": "http://138.201.198.218:8252/stream"
-    },
-    {
-      "id": "kent_fm_tr_aace675c",
-      "title": "Kent FM",
-      "subtitle": "Radio",
-      "location": "Türkiye",
-      "genre": "Radio",
-      "countryCode": "TR",
-      "language": null,
-      "clickCount": 5,
-      "bitrate": 0,
-      "streamUrl": "https://moondigitalmaster.radyotvonline.net/kentfm/playlist.m3u8"
     },
     {
       "id": "ifm_lucena_ph_48ccee1b",
@@ -17740,6 +17691,66 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://ip.vitaminfm.com:8190/stream"
+    },
+    {
+      "id": "xone_fm_vn_3b095ab8",
+      "title": "XONE FM",
+      "subtitle": "Pop",
+      "location": "Vietnam",
+      "genre": "Pop",
+      "countryCode": "VN",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "https://vnno-ne-2-tf-multi-playlist-zmp3.zmdcdn.me/Wbo0diyYozY/zhls/playback-realtime/audio/e75e51f26db784e9dda6/audio.m3u8"
+    },
+    {
+      "id": "mexalounge_radio_tr_218aab58",
+      "title": "Mexalounge Radio",
+      "subtitle": "Afro House",
+      "location": "Türkiye",
+      "genre": "Afro House",
+      "countryCode": "TR",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://radyohost.ugnhosting.com/cp/links.php?p=8018&m=pls"
+    },
+    {
+      "id": "y101fm_cebu_ph_72f638f1",
+      "title": "Y101fm Cebu",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 64,
+      "streamUrl": "http://209.126.124.126:8849/stream"
+    },
+    {
+      "id": "a_k_k_y_open_shore_tr_22d054ad",
+      "title": "Açık Kıyı | Open Shore",
+      "subtitle": "Aegean",
+      "location": "Türkiye",
+      "genre": "Aegean",
+      "countryCode": "TR",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://a2.asurahosting.com:6130/radio.mp3"
+    },
+    {
+      "id": "kent_fm_tr_aace675c",
+      "title": "Kent FM",
+      "subtitle": "Radio",
+      "location": "Türkiye",
+      "genre": "Radio",
+      "countryCode": "TR",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://moondigitalmaster.radyotvonline.net/kentfm/playlist.m3u8"
     }
   ]
 }

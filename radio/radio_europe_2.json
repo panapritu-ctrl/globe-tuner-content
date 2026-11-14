@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-13T05:06:37Z",
+  "updated": "2026-11-14T04:59:30Z",
   "region": "europe",
   "part": 2,
   "of": 8,
@@ -33028,18 +33028,6 @@
       "streamUrl": "http://streaming.fueralle.org:8000/slubfurt"
     },
     {
-      "id": "dr_p3_aac_dk_c42bfd7b",
-      "title": "DR P3 (AAC)",
-      "subtitle": "Pop",
-      "location": "Denmark",
-      "genre": "Pop",
-      "countryCode": "DK",
-      "language": "danish",
-      "clickCount": 10,
-      "bitrate": 324,
-      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p3/masterab.m3u8"
-    },
-    {
       "id": "90s_90s_millennium_de_ac1fbcc1",
       "title": "90s 90s Millennium",
       "subtitle": "90S",
@@ -33148,18 +33136,6 @@
       "streamUrl": "https://le305.euddn.net/aa0f7d5d0d91aedebb64537a46b6f235e1374e98dee2446ce2ee75c7e9e4a85b863861d1b85a0c675a01ce4a8e56aae7fc27f38880073635a0a2d6074cae887ac761b3e16b6a977403828578918690942361afed45372f2861895cd16a638269e6df6a0d3719acbaf55c61c16830dfe6c96d49a2f97b42435a73435cf007546f8af475becf62934c70322ccc09d42f9807579bbd8f280b5d54e91aaa135e83fe670c240e8987328c76a8192c7bc79c4a/md_mhdance.aac"
     },
     {
-      "id": "dr_p8_jazz_aac_dk_5a5bf838",
-      "title": "DR P8 JAZZ (AAC)",
-      "subtitle": "Jazz",
-      "location": "Denmark",
-      "genre": "Jazz",
-      "countryCode": "DK",
-      "language": "danish",
-      "clickCount": 9,
-      "bitrate": 324,
-      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p8jazz/masterab.m3u8"
-    },
-    {
       "id": "piano_dreams_de_e841cbb9",
       "title": "Piano Dreams",
       "subtitle": "Instrumental",
@@ -33194,18 +33170,6 @@
       "clickCount": 3,
       "bitrate": 102,
       "streamUrl": "https://radio-hls.mdr.de/hls/live/2112900/mdr-284300-2-hls/index.m3u8"
-    },
-    {
-      "id": "dr_p4_fyn_aac_dk_50d1da47",
-      "title": "DR P4 Fyn (AAC)",
-      "subtitle": "Regional Radio",
-      "location": "Denmark",
-      "genre": "Regional Radio",
-      "countryCode": "DK",
-      "language": "danish",
-      "clickCount": 3,
-      "bitrate": 324,
-      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4fyn/masterab.m3u8"
     },
     {
       "id": "bayern_2_hls_96_de_cd9f35c7",
@@ -33338,18 +33302,6 @@
       "clickCount": 6,
       "bitrate": 192,
       "streamUrl": "https://listen.hochschulradio.de/hsr-192"
-    },
-    {
-      "id": "kika_hd_kinderkanal_von_ard_und_zdf_de_be441daf",
-      "title": "KiKA HD - Kinderkanal von ARD und ZDF",
-      "subtitle": "Ard",
-      "location": "Germany",
-      "genre": "Ard",
-      "countryCode": "DE",
-      "language": "german",
-      "clickCount": 6,
-      "bitrate": 1672,
-      "streamUrl": "https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8"
     },
     {
       "id": "1_liga_spiel_9_sportschau_de_3e70daa9",
@@ -34718,6 +34670,102 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "http://acidjazz.stream.laut.fm/acidjazz?t302=2019-05-18_21-11-59&uuid=b8563a96-26f5-4d6c-8496-650129c3c798"
+    },
+    {
+      "id": "dr_p3_aac_dk_c42bfd7b",
+      "title": "DR P3 (AAC)",
+      "subtitle": "Pop",
+      "location": "Denmark",
+      "genre": "Pop",
+      "countryCode": "DK",
+      "language": "danish",
+      "clickCount": 9,
+      "bitrate": 324,
+      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p3/masterab.m3u8"
+    },
+    {
+      "id": "christmas_by_rautemusik_de_3d8bb45b",
+      "title": "Christmas by Rautemusik",
+      "subtitle": "Christmas Music",
+      "location": "Germany",
+      "genre": "Christmas Music",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 6,
+      "bitrate": 192,
+      "streamUrl": "http://christmas-high.rautemusik.fm/?upd-meta&upd-scheme=http&_art=dD0xNzk0NDMzMzA4JmQ9NjU2MjYxOTlkN2I3N2JhYTU2YjM"
+    },
+    {
+      "id": "hardcore_predictor_fm_ee_10d3d414",
+      "title": "Hardcore Predictor FM",
+      "subtitle": "Festival",
+      "location": "Estonia",
+      "genre": "Festival",
+      "countryCode": "EE",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://azura.hpsbassline.club/listen/hardcore_predictorfm/radio.mp3"
+    },
+    {
+      "id": "dopephonk_atomicradio_de_e9cff5c6",
+      "title": "DOPEPHONK - atomicradio",
+      "subtitle": "Atomicradio",
+      "location": "Germany",
+      "genre": "Atomicradio",
+      "countryCode": "DE",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 352,
+      "streamUrl": "https://listen.atomic.radio/dopephonk.m3u8"
+    },
+    {
+      "id": "os_radio_de_ff8bf7f5",
+      "title": "OS-Radio",
+      "subtitle": "Pop Music",
+      "location": "Germany",
+      "genre": "Pop Music",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 256,
+      "streamUrl": "https://live.osradio.de/os-radio.mp3"
+    },
+    {
+      "id": "radio_nordseewelle_2_de_46e9533a",
+      "title": "Radio Nordseewelle 2",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://nsw.streamabc.net/nsw-radionsw2-mp3-128-3629106"
+    },
+    {
+      "id": "radio_stsj_lland_rollo_dk_f376124c",
+      "title": "Radio Østsjælland Rollo",
+      "subtitle": "Radio",
+      "location": "Denmark",
+      "genre": "Radio",
+      "countryCode": "DK",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 320,
+      "streamUrl": "http://stream.radiosolutions.dk/rollo"
+    },
+    {
+      "id": "dr_p4_trekanten_aac_dk_a030938a",
+      "title": "DR P4 Trekanten (AAC)",
+      "subtitle": "Regional Radio",
+      "location": "Denmark",
+      "genre": "Regional Radio",
+      "countryCode": "DK",
+      "language": "danish",
+      "clickCount": 4,
+      "bitrate": 324,
+      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4trekanten/masterab.m3u8"
     }
   ]
 }

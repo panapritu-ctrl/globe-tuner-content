@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-13T05:06:37Z",
+  "updated": "2026-11-14T04:59:30Z",
   "region": "europe",
   "part": 6,
   "of": 8,
@@ -2035,19 +2035,6 @@
       "language": "italian",
       "clickCount": 1,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_palermo_lido_d75e0720",
-      "title": "Radio Palermo Lido",
-      "subtitle": "Hits, Musica Italiana",
-      "imageUrl": "",
-      "streamUrl": "http://nr1.newradio.it:9289/stream",
-      "location": "Italy",
-      "genre": "Hits",
-      "countryCode": "IT",
-      "language": "italian",
-      "clickCount": 4,
-      "bitrate": 192
     },
     {
       "id": "rb2_radio_parma_d9e800aa",
@@ -28044,6 +28031,42 @@
       "clickCount": 5,
       "bitrate": 128,
       "streamUrl": "https://onair7.xdevel.com/proxy/xautocloud_xzyu_2675?mp=/;1/"
+    },
+    {
+      "id": "radio_2go_li_bfd8b97b",
+      "title": "Radio 2Go",
+      "subtitle": "Eclectic Programming",
+      "location": "Liechtenstein",
+      "genre": "Eclectic Programming",
+      "countryCode": "LI",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "https://stream.radio2go.li/"
+    },
+    {
+      "id": "lounge_private_lv_eb391415",
+      "title": "LOUNGE PRIVATE",
+      "subtitle": "Bossa Nova",
+      "location": "Latvia",
+      "genre": "Bossa Nova",
+      "countryCode": "LV",
+      "language": "latvian",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://streams.radioskonto.lv:8443/lounge-private"
+    },
+    {
+      "id": "rick_fm_nl_f710b7c4",
+      "title": "Rick FM",
+      "subtitle": "Local News",
+      "location": "The Netherlands",
+      "genre": "Local News",
+      "countryCode": "NL",
+      "language": "dutch",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "http://rickfm.myqnapcloud.com:8000/studio.mp3"
     }
   ]
 }

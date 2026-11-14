@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-13T05:06:37Z",
+  "updated": "2026-11-14T04:59:30Z",
   "region": "oceania",
   "stations": [
     {
@@ -3265,19 +3265,6 @@
       "streamUrl": "http://abm22.com.au:8000/CONTAINER53",
       "location": "Sydney NSW, Australia",
       "genre": "Afro House",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_australian_digital_radio_network_alan_ja_b8af373a",
-      "title": "Australian Digital Radio Network - Alan Jackson",
-      "subtitle": "Alan Jackson",
-      "imageUrl": "http://www.australiandigitalradio.com/favicon.ico",
-      "streamUrl": "http://abm22.com.au:8000/CONTAINER108",
-      "location": "Sydney NSW, Australia",
-      "genre": "Alan Jackson",
       "countryCode": "AU",
       "language": "english",
       "clickCount": 0,
@@ -15892,18 +15879,6 @@
       "streamUrl": "https://streams3.vision.org.au/worshipap.aac"
     },
     {
-      "id": "listnr_sleep_hls_au_51872f43",
-      "title": "LiSTNR - Sleep (HLS)",
-      "subtitle": "Sleep",
-      "location": "Australia",
-      "genre": "Sleep",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 3,
-      "bitrate": 0,
-      "streamUrl": "http://wz0lic.scahw.com.au/live/sleep.stream/playlist.m3u8"
-    },
-    {
       "id": "australian_digital_radio_network_funky_house_mp3_au_a693594a",
       "title": "Australian Digital Radio Network - Funky House (MP3)",
       "subtitle": "Funky House",
@@ -16240,18 +16215,6 @@
       "streamUrl": "http://135.148.34.128:9041/;stream.nsv"
     },
     {
-      "id": "listnr_light_rain_soundscapes_au_5c02e9d5",
-      "title": "LiSTNR - Light Rain [Soundscapes]",
-      "subtitle": "Light Rain",
-      "location": "Australia",
-      "genre": "Light Rain",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 5,
-      "bitrate": 0,
-      "streamUrl": "http://wz0liw.scahw.com.au/live/lightrain_128.stream/playlist.m3u8"
-    },
-    {
       "id": "ugfm_radio_murrindindi_106_9_au_3b2dc6d7",
       "title": "UGFM Radio Murrindindi 106.9",
       "subtitle": "Radio",
@@ -16466,6 +16429,66 @@
       "clickCount": 4,
       "bitrate": 320,
       "streamUrl": "https://blackoutroomrecords.com/radio/stream.mp3"
+    },
+    {
+      "id": "fg_david_guetta_au_b70ae2c5",
+      "title": "FG - David Guetta",
+      "subtitle": "Radio",
+      "location": "Australia",
+      "genre": "Radio",
+      "countryCode": "AU",
+      "language": null,
+      "clickCount": 7,
+      "bitrate": 0,
+      "streamUrl": "https://n02-us2.rcs.revma.com/88h6r9dusd3vv?rj-ttl=5&rj-tok=AAABodN-JoIAMZcb36uY6Rrd0w&CAID=202611131553403202660257&consent=CQtnz4AQtnz4AAHABBENC4FsAP_AAEPgAAAALPwDwANgA1AFwAVkAxQBoAERAI9AUsAvMBgIDLAIyAWDAs-CwcAYAGoBigEegLzAZYBYMAAA.ILPwDwANgA1AFwAVkAxQBoAERAI9AUsAvMBgIDLAIyAWDAs-.f_gACHwAAAAA&trk_ir_c=0"
+    },
+    {
+      "id": "abc_radio_far_north_au_cf28e8a2",
+      "title": "ABC Radio Far North",
+      "subtitle": "Local",
+      "location": "Australia",
+      "genre": "Local",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 115,
+      "streamUrl": "https://streaming.abc-cdn.net.au/audio/hls/localfarnorth.m3u8?source=web"
+    },
+    {
+      "id": "listnr_chill_jazz_hls_au_712feb70",
+      "title": "LiSTNR - Chill Jazz (HLS)",
+      "subtitle": "Chill Jazz",
+      "location": "Australia",
+      "genre": "Chill Jazz",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "http://wz0liw.scahw.com.au/live/chill-jazz.stream/playlist.m3u8"
+    },
+    {
+      "id": "australian_digital_radio_network_coldplay_mp3_au_0526b4b8",
+      "title": "Australian Digital Radio Network - Coldplay (MP3)",
+      "subtitle": "Coldplay",
+      "location": "Australia",
+      "genre": "Coldplay",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://abm22.com.au:8000/CONTAINER127"
+    },
+    {
+      "id": "abc_radio_midwest_wheatbelt_au_0c6128af",
+      "title": "ABC Radio Midwest & Wheatbelt",
+      "subtitle": "Local",
+      "location": "Australia",
+      "genre": "Local",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 115,
+      "streamUrl": "https://streaming.abc-cdn.net.au/audio/hls/localwheatbelt.m3u8?source=web"
     }
   ]
 }

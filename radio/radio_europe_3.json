@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-13T05:06:37Z",
+  "updated": "2026-11-14T04:59:30Z",
   "region": "europe",
   "part": 3,
   "of": 8,
@@ -8523,19 +8523,6 @@
       "countryCode": "FR",
       "language": "english",
       "clickCount": 1,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_cp2077_radio_pebkac_103_5_045ff7d7",
-      "title": "CP2077 - Radio PEBKAC 103.5",
-      "subtitle": "Radio",
-      "imageUrl": "https://www.nexusxiv.fr/media/radio/logos/103.5_Radio_PEBKAC.webp",
-      "streamUrl": "http://82.65.103.36:8000/radio-pebkac",
-      "location": "France",
-      "genre": "Radio",
-      "countryCode": "FR",
-      "language": "english",
-      "clickCount": 0,
       "bitrate": 128
     },
     {
@@ -26592,18 +26579,6 @@
       "streamUrl": "https://listen.radioking.com/radio/409087/stream/461632"
     },
     {
-      "id": "futuradio_bands_camp_fr_5a763909",
-      "title": "Futuradio Bands-Camp",
-      "subtitle": "Hits",
-      "location": "France",
-      "genre": "Hits",
-      "countryCode": "FR",
-      "language": "french",
-      "clickCount": 4,
-      "bitrate": 128,
-      "streamUrl": "https://futuradiorock.ice.infomaniak.ch/frrock-128.mp3"
-    },
-    {
       "id": "yoga_chill_on_vip_radios_fm_fr_980e4676",
       "title": "Yoga Chill on Vip-Radios.fm",
       "subtitle": "Chillout & Relaxation Music",
@@ -27670,6 +27645,66 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://streaming.nrjaudio.fm/ou8v5agk7oiu"
+    },
+    {
+      "id": "fip_strasbourg_fr_a97645dd",
+      "title": "Fip Strasbourg",
+      "subtitle": "Fip",
+      "location": "France",
+      "genre": "Fip",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "http://icecast.radiofrance.fr/fipstrasbourg-midfi.mp3"
+    },
+    {
+      "id": "funkagroove_fr_b2f84838",
+      "title": "FunkaGroove",
+      "subtitle": "Radio",
+      "location": "France",
+      "genre": "Radio",
+      "countryCode": "FR",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 320,
+      "streamUrl": "https://radio12.pro-fhi.net/radio/9063/stream.mp3?1786626461441"
+    },
+    {
+      "id": "retro_plus_tv_es_f53b529f",
+      "title": "Retro Plus TV",
+      "subtitle": "Retro Music",
+      "location": "Spain",
+      "genre": "Retro Music",
+      "countryCode": "ES",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 2345,
+      "streamUrl": "https://video06.logicahost.com.br/aretroplustv01/aretroplustv01/playlist.m3u8"
+    },
+    {
+      "id": "radio_mavoix_digital_fr_9f07efcd",
+      "title": "Radio Mavoix Digital",
+      "subtitle": "Chanson",
+      "location": "France",
+      "genre": "Chanson",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://radio.mavoixdigital.pro/flux/mavoix.mp3"
+    },
+    {
+      "id": "la_radio_plus_club_fr_909a22e6",
+      "title": "La Radio Plus Club",
+      "subtitle": "Radio",
+      "location": "France",
+      "genre": "Radio",
+      "countryCode": "FR",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://plus-wr06.ice.infomaniak.ch/plus-wr06.mp3"
     }
   ]
 }

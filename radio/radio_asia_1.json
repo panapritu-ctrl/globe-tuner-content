@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-13T05:06:37Z",
+  "updated": "2026-11-14T04:59:30Z",
   "region": "asia",
   "part": 1,
   "of": 3,
@@ -14740,19 +14740,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_station_0d0db200",
-      "title": "大连少儿广播",
-      "subtitle": "106.7, 106.7 Fm",
-      "imageUrl": "",
-      "streamUrl": "http://ls.qingting.fm/live/1084.m3u8",
-      "location": "Dalian, China",
-      "genre": "106.7",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_fm106_7_9058df53",
       "title": "大连少儿广播 FM106.7",
       "subtitle": "Radio",
@@ -27397,6 +27384,90 @@
       "streamUrl": "http://live.ximalaya.com/radio-first-page-app/live/151/64.m3u8"
     },
     {
+      "id": "brtv_cn_d13d7c50",
+      "title": "BRTV京津冀之声",
+      "subtitle": "Full Service",
+      "location": "China",
+      "genre": "Full Service",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://brtv-radiolive.rbc.cn/alive/fm1006.m3u8"
+    },
+    {
+      "id": "station_cn_b6ce0336",
+      "title": "青岛文艺广播",
+      "subtitle": "Lifestyle",
+      "location": "China",
+      "genre": "Lifestyle",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 9,
+      "bitrate": 0,
+      "streamUrl": "http://video10.qtv.com.cn/zhibosjcgb/manifest.m3u8"
+    },
+    {
+      "id": "station_cn_a5d8ecb7",
+      "title": "甘肃移动电视",
+      "subtitle": "Tv",
+      "location": "China",
+      "genre": "Tv",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://live.gstv.com.cn/live/j6od116.m3u8"
+    },
+    {
+      "id": "station_cn_f9eb1178",
+      "title": "雪声电台",
+      "subtitle": "Relax",
+      "location": "China",
+      "genre": "Relax",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://rscdn.ajmide.com/r_3162/nglive_3162.m3u8"
+    },
+    {
+      "id": "station_cn_1aa5f60c",
+      "title": "黑龙江生活广播",
+      "subtitle": "Lifestyle",
+      "location": "China",
+      "genre": "Lifestyle",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://lhttp.qtfm.cn/live/4970/64k.mp3"
+    },
+    {
+      "id": "station_cn_f5bc32cb",
+      "title": "泉州交通广播",
+      "subtitle": "Music",
+      "location": "China",
+      "genre": "Music",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://lhttp.qingting.fm/live/15318189/64k.mp3"
+    },
+    {
+      "id": "station_cn_cf8f794a",
+      "title": "清远综合广播",
+      "subtitle": "News",
+      "location": "China",
+      "genre": "News",
+      "countryCode": "CN",
+      "language": "cantonese",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "http://lhttp.qingting.fm/live/15318668/64k.mp3"
+    },
+    {
       "id": "27_cn_d0e484cc",
       "title": "测试27",
       "subtitle": "Radio",
@@ -27409,16 +27480,16 @@
       "streamUrl": "http://gctxyc.liveplay.myqcloud.com/gc/ztd_1/index.m3u8"
     },
     {
-      "id": "brtv_cn_d13d7c50",
-      "title": "BRTV京津冀之声",
-      "subtitle": "Full Service",
+      "id": "station_cn_9f71d3f9",
+      "title": "大连交通广播",
+      "subtitle": "Entertainment",
       "location": "China",
-      "genre": "Full Service",
+      "genre": "Entertainment",
       "countryCode": "CN",
       "language": "chinese",
       "clickCount": 4,
       "bitrate": 0,
-      "streamUrl": "https://brtv-radiolive.rbc.cn/alive/fm1006.m3u8"
+      "streamUrl": "https://lhttp-hw.qtfm.cn/live/3997/64k.mp3"
     }
   ]
 }

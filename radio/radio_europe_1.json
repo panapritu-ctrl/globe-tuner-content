@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-13T05:06:37Z",
+  "updated": "2026-11-14T04:59:30Z",
   "region": "europe",
   "part": 1,
   "of": 8,
@@ -8319,19 +8319,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_fred_film_radio_f1542263",
-      "title": "Fred Film Radio(Български език)",
-      "subtitle": "Culture, Film",
-      "imageUrl": "",
-      "streamUrl": "https://s10.webradio-hosting.com/proxy/fredradiobg/stream",
-      "location": "Bulgaria",
-      "genre": "Culture",
-      "countryCode": "BG",
-      "language": "bulgarian",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "fresh_bulgaria_bg_96429b",
       "title": "Fresh Bulgaria",
       "subtitle": "Radio",
@@ -10062,19 +10049,6 @@
       "genre": "Radio",
       "countryCode": "BY",
       "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_unistar_41363e63",
-      "title": "Radio Unistar",
-      "subtitle": "Hits, Pop",
-      "imageUrl": "",
-      "streamUrl": "https://edge2.usp.unistar.by/hls/unistar_main/96k.m3u8",
-      "location": "Minsk, Belarus",
-      "genre": "Hits",
-      "countryCode": "BY",
-      "language": "belarusian",
       "clickCount": 0,
       "bitrate": 128
     },
@@ -15058,15 +15032,6 @@
       "streamUrl": "http://mp3stream4.abradio.cz/humor128.mp3"
     },
     {
-      "id": "abradio_chillout_cz",
-      "title": "ABradio Chillout",
-      "subtitle": "Chillout / Electronic",
-      "location": "Czechia",
-      "genre": "Electronic",
-      "countryCode": "CZ",
-      "streamUrl": "http://mp3stream4.abradio.cz/chillout128.mp3"
-    },
-    {
       "id": "rb2_astra_radio_d66c7784",
       "title": "Astra Radio",
       "subtitle": "Radio",
@@ -16459,19 +16424,6 @@
       "countryCode": "CZ",
       "language": "czech",
       "clickCount": 1,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_rock_r_dio_cz_rock_f74b1240",
-      "title": "Rock rádio – CZ Rock",
-      "subtitle": "Rock",
-      "imageUrl": "https://radia.cz/media/images/0001/01/f1a30ba0ae3a38a7b2ceef8a16375700196275f2.svg",
-      "streamUrl": "https://ice2.radia.cz/rockzabava128.aac",
-      "location": "Czechia",
-      "genre": "Rock",
-      "countryCode": "CZ",
-      "language": "czech",
-      "clickCount": 0,
       "bitrate": 128
     },
     {
@@ -34429,6 +34381,66 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "https://stream.rpr1.de/weihnachten/mp3-128/radiobrowser"
+    },
+    {
+      "id": "club_fm_shqip_al_8ab37ad7",
+      "title": "Club FM Shqip",
+      "subtitle": "Folk",
+      "location": "Albania",
+      "genre": "Folk",
+      "countryCode": "AL",
+      "language": "albanian",
+      "clickCount": 7,
+      "bitrate": 128,
+      "streamUrl": "https://cp1.sednastream.com/proxy/radioshqip/stream"
+    },
+    {
+      "id": "veselina_retro_bg_394f51bf",
+      "title": "Veselina Retro",
+      "subtitle": "Retro Folk",
+      "location": "Bulgaria",
+      "genre": "Retro Folk",
+      "countryCode": "BG",
+      "language": "bulgarian",
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://nova-radio.neterra.tv/veselinaretro"
+    },
+    {
+      "id": "josef_bochn_ek_cz_177f1d65",
+      "title": "Josef Bochníček",
+      "subtitle": "Radio",
+      "location": "Czechia",
+      "genre": "Radio",
+      "countryCode": "CZ",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://www.aspiraradio.cz/radio/8000/radio.mp3"
+    },
+    {
+      "id": "rockradio24_de_caba3648",
+      "title": "Rockradio24",
+      "subtitle": "Alternative Rock",
+      "location": "Germany",
+      "genre": "Alternative Rock",
+      "countryCode": "DE",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream.laut.fm/rockradio24"
+    },
+    {
+      "id": "radio_galaxy_rosenheim_de_fd066bd2",
+      "title": "Radio Galaxy Rosenheim",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://s17.myradiostream.com:13366/;stream.mp3"
     }
   ]
 }
