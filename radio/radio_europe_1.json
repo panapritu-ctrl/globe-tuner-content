@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-14T04:59:30Z",
+  "updated": "2026-11-15T04:51:14Z",
   "region": "europe",
   "part": 1,
   "of": 8,
@@ -15023,15 +15023,6 @@
       "bitrate": 128
     },
     {
-      "id": "ab_r_dio_humor_128",
-      "title": "AB Rádio Humor 128",
-      "subtitle": "MP3 128kbps",
-      "location": "Czechia",
-      "genre": "Music",
-      "countryCode": "CZ",
-      "streamUrl": "http://mp3stream4.abradio.cz/humor128.mp3"
-    },
-    {
       "id": "rb2_astra_radio_d66c7784",
       "title": "Astra Radio",
       "subtitle": "Radio",
@@ -16477,19 +16468,6 @@
       "language": "czech",
       "clickCount": 2,
       "bitrate": 32
-    },
-    {
-      "id": "rb2_r_dio_applaus_938a5577",
-      "title": "Rádio Applaus",
-      "subtitle": "Pop",
-      "imageUrl": "",
-      "streamUrl": "http://mp3stream3.abradio.cz/applaus128.mp3",
-      "location": "Czechia",
-      "genre": "Pop",
-      "countryCode": "CZ",
-      "language": "czech",
-      "clickCount": 0,
-      "bitrate": 128
     },
     {
       "id": "r_dio_blan_k_cz_eac6a0",
@@ -28743,18 +28721,6 @@
       "streamUrl": "http://rsa.streamabc.net/regc-rsasachsen70erold9456468-mp3-128-2357955?sABC=6no0qs24%230%23r30o443r1929r059s085628511796n57%23fgernzf.efn-fnpufra.qr&aw_0_1st.playerid=streams.rsa-sachsen.de&amsparams=playerid:streams.rsa-sachsen.de;skey:1789976356"
     },
     {
-      "id": "mdr_sachsen_markkleeberg_de_63d88c2d",
-      "title": "MDR SACHSEN Markkleeberg",
-      "subtitle": "80Er",
-      "location": "Germany",
-      "genre": "80Er",
-      "countryCode": "DE",
-      "language": "german",
-      "clickCount": 4,
-      "bitrate": 320,
-      "streamUrl": "http://streamer.secondradio.de:7070/dab-sr?ref=emil.marche@radio-zett.org"
-    },
-    {
       "id": "the_industrial_complex_de_feb61ea0",
       "title": "The Industrial Complex",
       "subtitle": "Radio",
@@ -34441,6 +34407,162 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "http://s17.myradiostream.com:13366/;stream.mp3"
+    },
+    {
+      "id": "station_bg_9d071438",
+      "title": "БНР – Радио Благоевград",
+      "subtitle": "Public Radio",
+      "location": "Bulgaria",
+      "genre": "Public Radio",
+      "countryCode": "BG",
+      "language": "bulgarian",
+      "clickCount": 7,
+      "bitrate": 36,
+      "streamUrl": "http://stream.bnr.bg:8035/radio-blagoevgrad.aac"
+    },
+    {
+      "id": "ffh_weihnachten_de_e87668e8",
+      "title": "FFH+ WEIHNACHTEN",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 7,
+      "bitrate": 128,
+      "streamUrl": "http://mp3.ffh.de/ffhchannels/hqxmas.mp3"
+    },
+    {
+      "id": "life_radio_ober_sterreich_at_f98b2749",
+      "title": "Life Radio Oberösterreich",
+      "subtitle": "Pop",
+      "location": "Austria",
+      "genre": "Pop",
+      "countryCode": "AT",
+      "language": "german",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://stream1.liferadio.at/"
+    },
+    {
+      "id": "rock_r_dio_cz_rock_cz_34054a61",
+      "title": "Rock rádio – CZ Rock",
+      "subtitle": "Rock",
+      "location": "Czechia",
+      "genre": "Rock",
+      "countryCode": "CZ",
+      "language": "czech",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://ice2.radia.cz/rockzabava128.aac"
+    },
+    {
+      "id": "radio_zeitung_cz_f6d0459b",
+      "title": "Radio Zeitung",
+      "subtitle": "Spoken Word",
+      "location": "Czechia",
+      "genre": "Spoken Word",
+      "countryCode": "CZ",
+      "language": "czech",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://stream.radiojar.com/2h1bhm7zhxquv"
+    },
+    {
+      "id": "alpenradio_volksmusik_de_dd06d619",
+      "title": "Alpenradio Volksmusik",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://stream.laut.fm/alpenradio-volksmusik"
+    },
+    {
+      "id": "89_0_rtl_partytrash_de_be3fe45b",
+      "title": "89.0 RTL Partytrash",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://stream.89.0rtl.de/party-trash/mp3-256"
+    },
+    {
+      "id": "veselina_folk_bg_e97ac5aa",
+      "title": "Veselina Folk",
+      "subtitle": "Radio",
+      "location": "Bulgaria",
+      "genre": "Radio",
+      "countryCode": "BG",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://nova-radio.neterra.tv/veselinafolk"
+    },
+    {
+      "id": "oldie_superhit_radio_de_13ec52d6",
+      "title": "Oldie Superhit Radio",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://oldie-superhit-radio.stream.laut.fm/oldie-superhit-radio"
+    },
+    {
+      "id": "classic_rock_de_6040de72",
+      "title": "Classic Rock",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://edge61.streamonkey.net/antthue-classicsrock/stream/mp3?aggregator=amp"
+    },
+    {
+      "id": "techliveradio_de_bed77619",
+      "title": "TechLiveRadio",
+      "subtitle": "Charts",
+      "location": "Germany",
+      "genre": "Charts",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream.laut.fm/techliveradio"
+    },
+    {
+      "id": "a_tv_augsburg_de_9dc27aef",
+      "title": "a.tv Augsburg",
+      "subtitle": "Tv",
+      "location": "Germany",
+      "genre": "Tv",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 3193,
+      "streamUrl": "https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8"
+    },
+    {
+      "id": "klassikradio_aac_64_kbit_s_de_1bb73068",
+      "title": "Klassikradio [AAC 64 kbit/s]",
+      "subtitle": "Die Schönsten Klassik Hits",
+      "location": "Germany",
+      "genre": "Die Schönsten Klassik Hits",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "http://klassikr.streamabc.net/klr-krdnational-aacplus-64-8291420?aggregator=hoererdirekt"
     }
   ]
 }

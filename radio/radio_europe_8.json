@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-14T04:59:30Z",
+  "updated": "2026-11-15T04:51:14Z",
   "region": "europe",
   "part": 8,
   "of": 8,
@@ -3863,19 +3863,6 @@
       "bitrate": 32
     },
     {
-      "id": "rb2_radio_free_music_a1be5085",
-      "title": "Radio Free Music",
-      "subtitle": "Classic Hits, Hits",
-      "imageUrl": "",
-      "streamUrl": "https://radio-holding.ru:9433/rfm",
-      "location": "The Russian Federation",
-      "genre": "Classic Hits",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_radio_gameplay_387753d6",
       "title": "Radio Gameplay",
       "subtitle": "16Bit, 8 Bit",
@@ -4017,19 +4004,6 @@
       "language": null,
       "clickCount": 3,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_maximum_beats_riffs_d8a6d60f",
-      "title": "Radio Maximum - Beats & Riffs",
-      "subtitle": "Radio",
-      "imageUrl": "https://www.maximum.ru/favicon.ico",
-      "streamUrl": "https://maximum-erock.hostingradio.ru/maxerock96.aacp",
-      "location": "The Russian Federation",
-      "genre": "Radio",
-      "countryCode": "RU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 96
     },
     {
       "id": "rb2_radio_maximum_britpop_f28261cd",
@@ -26136,6 +26110,78 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "https://m.axradio.net/stream.mp3"
+    },
+    {
+      "id": "zuno_radio_ru_20ae801e",
+      "title": "ZUNO-RADIO",
+      "subtitle": "Radio",
+      "location": "The Russian Federation",
+      "genre": "Radio",
+      "countryCode": "RU",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "https://myradio24.org/41782"
+    },
+    {
+      "id": "gta_iv_electro_choc_gtaradio_net_ru_9fddd9ed",
+      "title": "[GTA IV] Electro Choc [GTARadio.net]",
+      "subtitle": "Electro House",
+      "location": "The Russian Federation",
+      "genre": "Electro House",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://audio.gtaradio.net/4/dance_mix"
+    },
+    {
+      "id": "station_ru_380dfd81",
+      "title": "Вечеринка для старого",
+      "subtitle": "Radio",
+      "location": "The Russian Federation",
+      "genre": "Radio",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://listen2.myradio24.com/1054"
+    },
+    {
+      "id": "karasevuy_radio_ru_01356ca4",
+      "title": "Karasevuy radio",
+      "subtitle": "Anime",
+      "location": "The Russian Federation",
+      "genre": "Anime",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://karasevuy.ru/radiostream"
+    },
+    {
+      "id": "station_ru_e49aef88",
+      "title": "Монтекарло Санкт Петербург",
+      "subtitle": "12+",
+      "location": "The Russian Federation",
+      "genre": "12+",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 5,
+      "bitrate": 100,
+      "streamUrl": "https://hls-01-montecarlo.hostingradio.ru/montecarlo-spb/playlist.m3u8"
+    },
+    {
+      "id": "vsemirnoeodesscoeradio_ua_162af971",
+      "title": "VsemirnoeOdesscoeRadio",
+      "subtitle": "Radio",
+      "location": "Ukraine",
+      "genre": "Radio",
+      "countryCode": "UA",
+      "language": "rus",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://listen1.myradio24.com/odesradio"
     }
   ]
 }

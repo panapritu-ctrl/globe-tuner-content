@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-14T04:59:30Z",
+  "updated": "2026-11-15T04:51:14Z",
   "region": "asia",
   "part": 1,
   "of": 3,
@@ -8919,19 +8919,6 @@
       "genre": "Pop",
       "countryCode": "AM",
       "streamUrl": "https://cast.thiff.com/proxy/laarmeni?mp=/stream"
-    },
-    {
-      "id": "rb_fama_5ed84267",
-      "title": "Fama",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://eu.stream4cast.com:8036/stream/",
-      "location": "Armenia",
-      "genre": "Radio",
-      "countryCode": "AM",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 192
     },
     {
       "id": "rb_love_radio_67559407",
@@ -25176,18 +25163,6 @@
       "streamUrl": "https://stream.zeno.fm/by5n9vuubphvv"
     },
     {
-      "id": "station_cn_956bc877",
-      "title": "千里之外",
-      "subtitle": "Radio",
-      "location": "China",
-      "genre": "Radio",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 3,
-      "bitrate": 400,
-      "streamUrl": "https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8"
-    },
-    {
       "id": "station_cn_f83d0de7",
       "title": "繁昌新闻综合广播",
       "subtitle": "Information",
@@ -27490,6 +27465,54 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "https://lhttp-hw.qtfm.cn/live/3997/64k.mp3"
+    },
+    {
+      "id": "station_cn_d47acdba",
+      "title": "陕西经济广播",
+      "subtitle": "Culture",
+      "location": "China",
+      "genre": "Culture",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "http://radio.snrtv.com/audio/encnomy/index.m3u8"
+    },
+    {
+      "id": "fm100_3_cn_b6416350",
+      "title": "嵊州综合广播 FM100.3",
+      "subtitle": "Full Service",
+      "location": "China",
+      "genre": "Full Service",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://l.cztvcloud.com/channels/lantian/SXshengzhouaud/128k.m3u8"
+    },
+    {
+      "id": "station_cn_07d6343e",
+      "title": "河北经济广播 高清",
+      "subtitle": "Storytelling",
+      "location": "China",
+      "genre": "Storytelling",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://satellitepull.cnr.cn/live/wxhebjjgb/playlist.m3u8?wsSession=a919bd0baf31a1a6f3966f08-174814197009714&wsIPSercert=302e928c9e06924943d63c021170d763"
+    },
+    {
+      "id": "station_cn_67dcfea0",
+      "title": "陕西农村广播",
+      "subtitle": "Agriculture",
+      "location": "China",
+      "genre": "Agriculture",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "http://radio.snrtv.com/audio/country/index.m3u8"
     }
   ]
 }

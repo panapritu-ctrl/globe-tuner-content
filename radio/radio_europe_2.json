@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-14T04:59:30Z",
+  "updated": "2026-11-15T04:51:14Z",
   "region": "europe",
   "part": 2,
   "of": 8,
@@ -26142,19 +26142,6 @@
       "bitrate": 16
     },
     {
-      "id": "rb2_la_disco_radio_08826bc1",
-      "title": "La Disco Radio",
-      "subtitle": "Radio",
-      "imageUrl": "https://ladiscoradio.com/wp-content/uploads/2022/10/cropped-aab.jpg?w=192",
-      "streamUrl": "https://sonic.sistemahost.es/8086/stream;",
-      "location": "Spain",
-      "genre": "Radio",
-      "countryCode": "ES",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 192
-    },
-    {
       "id": "rb2_la_indie_dd264a2a",
       "title": "La Indie",
       "subtitle": "Indie, Indie Pop",
@@ -26541,19 +26528,6 @@
       "language": null,
       "clickCount": 2,
       "bitrate": 192
-    },
-    {
-      "id": "rb2_mdt_radio_0a52d143",
-      "title": "MDT Radio",
-      "subtitle": "Radio",
-      "imageUrl": "https://mdtradio.com/wp-content/uploads/2022/11/logowebok.png",
-      "streamUrl": "http://streams1.mdtradio.com:8020/mdtweb",
-      "location": "Comunitat Valenciana, Spain",
-      "genre": "Radio",
-      "countryCode": "ES",
-      "language": "castellano. español",
-      "clickCount": 2,
-      "bitrate": 128
     },
     {
       "id": "rb2_mad_radio_barcelona_29ba74b4",
@@ -31432,18 +31406,6 @@
       "streamUrl": "https://stream.bigfm.de/bayern/mp3-128/radiobrowser"
     },
     {
-      "id": "dnb_band_de_3318caec",
-      "title": "DNB.BAND",
-      "subtitle": "Dnb",
-      "location": "Germany",
-      "genre": "Dnb",
-      "countryCode": "DE",
-      "language": "english",
-      "clickCount": 3,
-      "bitrate": 192,
-      "streamUrl": "http://45.13.239.248/listen/dnb/radio.mp3"
-    },
-    {
       "id": "rpr1_flashback_de_d9affa82",
       "title": "RPR1. Flashback",
       "subtitle": "2000S",
@@ -34766,6 +34728,210 @@
       "clickCount": 4,
       "bitrate": 324,
       "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4trekanten/masterab.m3u8"
+    },
+    {
+      "id": "95_5_charivari_tom_novy_club_mix_de_1f595578",
+      "title": "95.5 Charivari Tom Novy Club Mix",
+      "subtitle": "Balearic House",
+      "location": "Germany",
+      "genre": "Balearic House",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "http://live.stream.charivari.de/955charivari-tomnovymix/stream/mp3"
+    },
+    {
+      "id": "antenne_th_ringen_radio_de_227678b2",
+      "title": "Antenne Thüringen Radio",
+      "subtitle": "Pop",
+      "location": "Germany",
+      "genre": "Pop",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://edge21.streamonkey.net/antthue-mitte/stream/mp3"
+    },
+    {
+      "id": "landeswelle_th_ringen_radio_de_3fee6078",
+      "title": "LandesWelle Thüringen Radio",
+      "subtitle": "Pop",
+      "location": "Germany",
+      "genre": "Pop",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://edge09.streamonkey.net/landeswelle-mitte/stream/mp3"
+    },
+    {
+      "id": "paradisehunter_de_2198ecd2",
+      "title": "Paradisehunter",
+      "subtitle": "192Kbps",
+      "location": "Germany",
+      "genre": "192Kbps",
+      "countryCode": "DE",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "https://radio.paradisehunter.de/listen/chillout/radio.mp3"
+    },
+    {
+      "id": "nucrooze_de_bcd1b043",
+      "title": "NUCROOZE",
+      "subtitle": "Smooth Jazz",
+      "location": "Germany",
+      "genre": "Smooth Jazz",
+      "countryCode": "DE",
+      "language": "british english",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://stream.nucrooze.com/listen/nucrooze/radio.mp3"
+    },
+    {
+      "id": "bayern_2_hq_de_b2aefb15",
+      "title": "Bayern 2 (HQ)",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://streams.br.de/bayern2_2.m3u"
+    },
+    {
+      "id": "dr_p4_stjylland_aac_dk_86d978b1",
+      "title": "DR P4 Østjylland (AAC)",
+      "subtitle": "Regional Radio",
+      "location": "Denmark",
+      "genre": "Regional Radio",
+      "countryCode": "DK",
+      "language": "danish",
+      "clickCount": 5,
+      "bitrate": 324,
+      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4ostjylland/masterab.m3u8"
+    },
+    {
+      "id": "fluxfm_anima_radio_320k_mp3_de_7fac6541",
+      "title": "FluxFM Anima Radio | 320k MP3",
+      "subtitle": "Contemporary",
+      "location": "Germany",
+      "genre": "Contemporary",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://fluxmusic.api.radiosphere.io/channels/anima-radio/stream.mp3?quality=10"
+    },
+    {
+      "id": "acoustic_atomicradio_de_8035bf5e",
+      "title": "ACOUSTIC - atomicradio",
+      "subtitle": "Acoustic",
+      "location": "Germany",
+      "genre": "Acoustic",
+      "countryCode": "DE",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 352,
+      "streamUrl": "https://listen.atomic.radio/acoustic.m3u8"
+    },
+    {
+      "id": "technolovers_fm_house_de_abded31c",
+      "title": "Technolovers.fm - House",
+      "subtitle": "Electro",
+      "location": "Germany",
+      "genre": "Electro",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://stream.technolovers.fm/house"
+    },
+    {
+      "id": "harmony_80er_wave_pop_de_fa4b3304",
+      "title": "Harmony 80er Wave Pop",
+      "subtitle": "80'S",
+      "location": "Germany",
+      "genre": "80'S",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://mp3.harmonyfm.de/hrmchannels/hqstars03.mp3?aw_0_req.gdpr=true"
+    },
+    {
+      "id": "dr_p4_nordjylland_aac_dk_412ae0ef",
+      "title": "DR P4 Nordjylland (AAC)",
+      "subtitle": "Regional Radio",
+      "location": "Denmark",
+      "genre": "Regional Radio",
+      "countryCode": "DK",
+      "language": "danish",
+      "clickCount": 4,
+      "bitrate": 324,
+      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4nordjylland/masterab.m3u8"
+    },
+    {
+      "id": "dr_p8_jazz_aac_dk_ee45cacf",
+      "title": "DR P8 Jazz (AAC)",
+      "subtitle": "Radio",
+      "location": "Denmark",
+      "genre": "Radio",
+      "countryCode": "DK",
+      "language": "danish",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://drliveradio2.akamaized.net/hls/live/2118698/p8/playlist-320000.m3u8"
+    },
+    {
+      "id": "dr_p4_fyn_aac_dk_50d1da47",
+      "title": "DR P4 Fyn (AAC)",
+      "subtitle": "Regional Radio",
+      "location": "Denmark",
+      "genre": "Regional Radio",
+      "countryCode": "DK",
+      "language": "danish",
+      "clickCount": 4,
+      "bitrate": 324,
+      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4fyn/masterab.m3u8"
+    },
+    {
+      "id": "nyhedstjek_dk_dk_d809dec7",
+      "title": "NyhedsTjek.dk",
+      "subtitle": "Radio",
+      "location": "Denmark",
+      "genre": "Radio",
+      "countryCode": "DK",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://a12.asurahosting.com/listen/nyhedstjek.dk/radio.mp3"
+    },
+    {
+      "id": "retro_fm_estonia_ee_9c1caf3f",
+      "title": "Retro FM Estonia",
+      "subtitle": "Radio",
+      "location": "Estonia",
+      "genre": "Radio",
+      "countryCode": "EE",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 88,
+      "streamUrl": "https://stream.skymedia.ee/live/RETRO_AAC"
+    },
+    {
+      "id": "rahvaraadio_ee_09c37cd3",
+      "title": "Rahvaraadio",
+      "subtitle": "Pop",
+      "location": "Estonia",
+      "genre": "Pop",
+      "countryCode": "EE",
+      "language": "estonian",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "http://streamer.tt.ee:8000/rahvaraadio"
     }
   ]
 }

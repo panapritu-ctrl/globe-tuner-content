@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-14T04:59:30Z",
+  "updated": "2026-11-15T04:51:14Z",
   "region": "europe",
   "part": 7,
   "of": 8,
@@ -7491,19 +7491,6 @@
       "bitrate": 320
     },
     {
-      "id": "rb2_ebs_radio_live_cluj_napoca_90_4_fm_8176fb6d",
-      "title": "EBS Radio Live -Cluj Napoca 90,4 FM",
-      "subtitle": "Local Radio, Music",
-      "imageUrl": "https://ebsmedia.ro/placeholder.png",
-      "streamUrl": "https://azura.ebsmedia.ro/listen/live/live128.mp3?refresh=1779027831553",
-      "location": "Romania",
-      "genre": "Local Radio",
-      "countryCode": "RO",
-      "language": "română",
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_ercis_fm_4e7e7c46",
       "title": "ERCIS FM",
       "subtitle": "Radio",
@@ -10618,19 +10605,6 @@
       "countryCode": "RO",
       "language": "romanian",
       "clickCount": 2,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_romantic_9126ba68",
-      "title": "Radio Romantic",
-      "subtitle": "Musica Romantica, Retro",
-      "imageUrl": "",
-      "streamUrl": "http://stream.zeno.fm/72k4a597rs8uv",
-      "location": "Romania, Romania",
-      "genre": "Musica Romantica",
-      "countryCode": "RO",
-      "language": "english",
-      "clickCount": 1,
       "bitrate": 128
     },
     {
@@ -18946,19 +18920,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_love_radio_power_c2b00a39",
-      "title": "Love Radio Power",
-      "subtitle": "Поп-Музыка",
-      "imageUrl": "",
-      "streamUrl": "https://stream2.n340.com/15_power_24?type=aac&UID=B898397E42A137B560DB2B805B118E10",
-      "location": "The Russian Federation",
-      "genre": "Поп-Музыка",
-      "countryCode": "RU",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 28
-    },
-    {
       "id": "rb2_love_radio_104_9_fm_b54ab3f1",
       "title": "Love Radio Нижний Новгород 104.9 FM",
       "subtitle": "Love Radio, Music",
@@ -18996,19 +18957,6 @@
       "language": "russian",
       "clickCount": 1,
       "bitrate": 256
-    },
-    {
-      "id": "rb2_love_radio_100_6_fm_6d1b1652",
-      "title": "Love radio Ярославль 100.6 FM",
-      "subtitle": "Love Radio, Music",
-      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241228_113014358.jpg?alt=media&token=baf5ebdb-844c-4642-a88f-360fad466b36",
-      "streamUrl": "http://microit.n340.com:9000/VgMv0WV17ZVx1uuo_12_love_128_reg_239",
-      "location": "The Russian Federation",
-      "genre": "Love Radio",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 1,
-      "bitrate": 128
     },
     {
       "id": "rb2_lute_radio_caprice_d77c0d9d",
@@ -24991,18 +24939,6 @@
       "streamUrl": "https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8"
     },
     {
-      "id": "radio_petrec_retzu_ro_7009cace",
-      "title": "Radio Petrecăretzu",
-      "subtitle": "Etno",
-      "location": "Romania",
-      "genre": "Etno",
-      "countryCode": "RO",
-      "language": "romanian",
-      "clickCount": 6,
-      "bitrate": 128,
-      "streamUrl": "http://live.radiopetrecaretzu.ro:8383/;"
-    },
-    {
       "id": "radiumfm_warsaw_pl_25ea2521",
       "title": "RadiumFM Warsaw",
       "subtitle": "Ai Generated",
@@ -26141,6 +26077,126 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://sonicpanel.namehost.ro:8402/stream"
+    },
+    {
+      "id": "clasic_radio_80_bucure_ti_ro_10176f58",
+      "title": "Clasic Radio_80 -București",
+      "subtitle": "80S",
+      "location": "Romania",
+      "genre": "80S",
+      "countryCode": "RO",
+      "language": "română",
+      "clickCount": 12,
+      "bitrate": 320,
+      "streamUrl": "https://live.radioclasic.com/listen/radio_clasic_80/live.mp3"
+    },
+    {
+      "id": "profm_ro_a053726e",
+      "title": "ProFM",
+      "subtitle": "News",
+      "location": "Romania",
+      "genre": "News",
+      "countryCode": "RO",
+      "language": "romanian",
+      "clickCount": 12,
+      "bitrate": 0,
+      "streamUrl": "https://edge126.rcs-rds.ro/profm/profm.mp3"
+    },
+    {
+      "id": "trance_energy_ro_d027b611",
+      "title": "Trance Energy",
+      "subtitle": "Trance",
+      "location": "Romania",
+      "genre": "Trance",
+      "countryCode": "RO",
+      "language": null,
+      "clickCount": 9,
+      "bitrate": 320,
+      "streamUrl": "https://fra-pioneer01.dedicateware.com:2990/stream"
+    },
+    {
+      "id": "clasic_radio_jazz_bucure_ti_ro_179c3751",
+      "title": "Clasic Radio_Jazz -București",
+      "subtitle": "Jazz",
+      "location": "Romania",
+      "genre": "Jazz",
+      "countryCode": "RO",
+      "language": "română",
+      "clickCount": 8,
+      "bitrate": 128,
+      "streamUrl": "https://live.radioclasic.com/listen/radio_clasic_jazz/live.mp3"
+    },
+    {
+      "id": "radio_pogoda_warszawa_pl_68c6f5d5",
+      "title": "Radio Pogoda Warszawa",
+      "subtitle": "Radio",
+      "location": "Poland",
+      "genre": "Radio",
+      "countryCode": "PL",
+      "language": "polish",
+      "clickCount": 7,
+      "bitrate": 128,
+      "streamUrl": "http://stream13.radioagora.pl/tuba38-1.mp3"
+    },
+    {
+      "id": "clasic_radio_60_bucure_ti_ro_47d467bb",
+      "title": "Clasic Radio_60 -București",
+      "subtitle": "60S",
+      "location": "Romania",
+      "genre": "60S",
+      "countryCode": "RO",
+      "language": "română",
+      "clickCount": 7,
+      "bitrate": 320,
+      "streamUrl": "https://live.radioclasic.com/listen/radio_clasic_60/live.mp3"
+    },
+    {
+      "id": "clasic_radio_indie_bucure_ti_ro_2098cba3",
+      "title": "Clasic Radio_Indie -București",
+      "subtitle": "Experimental",
+      "location": "Romania",
+      "genre": "Experimental",
+      "countryCode": "RO",
+      "language": "română",
+      "clickCount": 5,
+      "bitrate": 320,
+      "streamUrl": "https://live.radioclasic.com/listen/radio_clasic_indie/live.mp3"
+    },
+    {
+      "id": "clasic_radio_love_bucure_ti_ro_9a55751b",
+      "title": "Clasic Radio_Love -București",
+      "subtitle": "Love",
+      "location": "Romania",
+      "genre": "Love",
+      "countryCode": "RO",
+      "language": "română",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://live.radioclasic.com/listen/radio_clasic_love/live.mp3"
+    },
+    {
+      "id": "nova_fm_bra_ov_98_2_fm_ro_7eb10b0e",
+      "title": "Nova FM -Brașov 98,2 FM",
+      "subtitle": "Local",
+      "location": "Romania",
+      "genre": "Local",
+      "countryCode": "RO",
+      "language": "română",
+      "clickCount": 5,
+      "bitrate": 96,
+      "streamUrl": "http://86.125.106.34:8000/live"
+    },
+    {
+      "id": "tdi_radio_crna_gora_rs_e1f86c5d",
+      "title": "TDI Radio CRNA GORA",
+      "subtitle": "Radio",
+      "location": "Serbia",
+      "genre": "Radio",
+      "countryCode": "RS",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://streaming.tdiradio.com/crnagora.mp3"
     }
   ]
 }

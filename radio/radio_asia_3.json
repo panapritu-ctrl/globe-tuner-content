@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-14T04:59:30Z",
+  "updated": "2026-11-15T04:51:14Z",
   "region": "asia",
   "part": 3,
   "of": 3,
@@ -299,19 +299,6 @@
       "language": null,
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_bionic_online_radio_9b993759",
-      "title": "Bionic Online Radio",
-      "subtitle": "Radio",
-      "imageUrl": "https://bioniconlineradio.com/wp-content/uploads/2026/01/bionic_logo.png",
-      "streamUrl": "https://io.radyoph.com:8000/bionic",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 64
     },
     {
       "id": "rb2_bliss_radio_88c8d9fe",
@@ -921,19 +908,6 @@
       "countryCode": "PH",
       "language": null,
       "clickCount": 2,
-      "bitrate": 64
-    },
-    {
-      "id": "rb2_fm_radio_tacloban_493d12e3",
-      "title": "FM Radio Tacloban",
-      "subtitle": "Radio",
-      "imageUrl": "https://pcmc.com.ph/wp-content/uploads/2024/09/FMRADIO-LOGO-1-e1727730141490-768x662.png",
-      "streamUrl": "http://62.138.18.102:8676/stream",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "language": null,
-      "clickCount": 0,
       "bitrate": 64
     },
     {
@@ -16673,18 +16647,6 @@
       "streamUrl": "https://stream.zeno.fm/sq7ntk6zlaquv"
     },
     {
-      "id": "ifm_cagayan_de_oro_ph_4606a409",
-      "title": "iFM Cagayan de Oro",
-      "subtitle": "Radio",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "language": null,
-      "clickCount": 6,
-      "bitrate": 96,
-      "streamUrl": "http://livestream.rmn.ph:8000/ifmcdo"
-    },
-    {
       "id": "krb_radio_2_th_5c2d7672",
       "title": "KRB Radio 2",
       "subtitle": "Blind Radio",
@@ -16973,18 +16935,6 @@
       "streamUrl": "https://usa4.fastcast4u.com/proxy/radyoizmirfm/mp3stream128"
     },
     {
-      "id": "radio_pakistan_karachi_mw_639_pk_ab781f8f",
-      "title": "Radio Pakistan Karachi MW 639",
-      "subtitle": "Public Radio",
-      "location": "Pakistan",
-      "genre": "Public Radio",
-      "countryCode": "PK",
-      "language": null,
-      "clickCount": 5,
-      "bitrate": 128,
-      "streamUrl": "https://whmsonic.radio.gov.pk:7000/MW639khi"
-    },
-    {
       "id": "hector_sa_7daa329b",
       "title": "Hector",
       "subtitle": "Radio",
@@ -17007,18 +16957,6 @@
       "clickCount": 5,
       "bitrate": 128,
       "streamUrl": "https://radio11.plathong.net/7050/;stream.mp3"
-    },
-    {
-      "id": "96_1_infinite_radio_panabo_city_ph_db8c7a3a",
-      "title": "96.1 Infinite Radio Panabo City",
-      "subtitle": "Radio",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 64,
-      "streamUrl": "http://us1.amfmph.com:8644/live"
     },
     {
       "id": "vov1_vn_83f53484",
@@ -17751,6 +17689,18 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "https://moondigitalmaster.radyotvonline.net/kentfm/playlist.m3u8"
+    },
+    {
+      "id": "energy_fm_davao_ph_1812b3f4",
+      "title": "Energy FM Davao",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 64,
+      "streamUrl": "https://s1.free-shoutcast.com/stream/18178"
     }
   ]
 }

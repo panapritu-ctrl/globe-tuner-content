@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-14T04:58:58Z",
+  "updated": "2026-11-15T04:51:14Z",
   "region": "americas",
   "part": 5,
   "of": 5,
@@ -2002,18 +2002,6 @@
       "streamUrl": "http://acp4.lorini.net:15004/stream"
     },
     {
-      "id": "chevere_100_7_fm_ve_4e1f9ed4",
-      "title": "Chevere 100.7 FM",
-      "subtitle": "Radio",
-      "location": "Bolivarian Republic Of Venezuela",
-      "genre": "Radio",
-      "countryCode": "VE",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 64,
-      "streamUrl": "http://streamingned.com:7342/stream"
-    },
-    {
       "id": "kys_fm_ve_6c4d374e",
       "title": "KYS FM",
       "subtitle": "Adult Contemporary",
@@ -2132,6 +2120,30 @@
       "clickCount": 7,
       "bitrate": 0,
       "streamUrl": "https://comodin.uy/radio/8000/320.mp3"
+    },
+    {
+      "id": "indie_pop_en_espa_ol_uy_26d514c8",
+      "title": "Indie Pop en Español",
+      "subtitle": "Indie",
+      "location": "Uruguay",
+      "genre": "Indie",
+      "countryCode": "UY",
+      "language": "spanish",
+      "clickCount": 5,
+      "bitrate": 64,
+      "streamUrl": "https://radio-render-ey3i.onrender.com/stream?src=radiobrowser"
+    },
+    {
+      "id": "sierra_99_1_fm_ve_8264211a",
+      "title": "SIERRA 99.1 FM",
+      "subtitle": "Entretenimiento",
+      "location": "Bolivarian Republic Of Venezuela",
+      "genre": "Entretenimiento",
+      "countryCode": "VE",
+      "language": "spanish",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://stream.zeno.fm/9m95mfutymruv"
     }
   ]
 }

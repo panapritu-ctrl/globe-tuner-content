@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-14T04:59:30Z",
+  "updated": "2026-11-15T04:51:14Z",
   "region": "europe",
   "part": 6,
   "of": 8,
@@ -6136,19 +6136,6 @@
       "bitrate": 192
     },
     {
-      "id": "rb2_geras2_fm_32078da8",
-      "title": "Geras2 FM",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://stream.goldfm.lt/gerasfm.mp3",
-      "location": "Vilnius, Lithuania",
-      "genre": "Radio",
-      "countryCode": "LT",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 192
-    },
-    {
       "id": "gold_fm_lt_bc9a56",
       "title": "Gold FM",
       "subtitle": "Radio",
@@ -7782,19 +7769,6 @@
       "language": null,
       "clickCount": 1,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_deepnova_radio_dancenova_82954a7f",
-      "title": "DeepNova Radio - DanceNova",
-      "subtitle": "Club Hits, Dance House",
-      "imageUrl": "https://deepnovaradio.com/wp-content/uploads/2025/06/dancenova-320.png.webp",
-      "streamUrl": "https://a3.asurahosting.com/listen/dance_house_hits/radio-192.mp3%20(320kbps%20MP3)",
-      "location": "The Republic Of Moldova",
-      "genre": "Club Hits",
-      "countryCode": "MD",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 192
     },
     {
       "id": "rb2_drive_fm_78160e93",
@@ -13729,19 +13703,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_pinguin_aardschok_c5c19438",
-      "title": "Pinguin Aardschok",
-      "subtitle": "Alternative Metal",
-      "imageUrl": "",
-      "streamUrl": "https://streams.pinguinradio.com/Aardschok192.mp3",
-      "location": "The Netherlands",
-      "genre": "Alternative Metal",
-      "countryCode": "NL",
-      "language": "dutch",
-      "clickCount": 1,
-      "bitrate": 192
-    },
-    {
       "id": "pinguin_classics_nl_d64cfc",
       "title": "Pinguin Classics",
       "subtitle": "Alternative",
@@ -19008,19 +18969,6 @@
       "language": "english",
       "clickCount": 0,
       "bitrate": 96
-    },
-    {
-      "id": "rb2_radio_med_oslo_246132bf",
-      "title": "Radio Med Oslo",
-      "subtitle": "Retro",
-      "imageUrl": "",
-      "streamUrl": "http://108.59.11.81:10107/stream",
-      "location": "Norway",
-      "genre": "Retro",
-      "countryCode": "NO",
-      "language": "engilsh uk",
-      "clickCount": 0,
-      "bitrate": 128
     },
     {
       "id": "radio_norge_no_80b3c9",
@@ -28067,6 +28015,18 @@
       "clickCount": 4,
       "bitrate": 192,
       "streamUrl": "http://rickfm.myqnapcloud.com:8000/studio.mp3"
+    },
+    {
+      "id": "air_ai_radio_mt_755c52cb",
+      "title": "AIR AI Radio",
+      "subtitle": "Ai Music",
+      "location": "Malta",
+      "genre": "Ai Music",
+      "countryCode": "MT",
+      "language": "english",
+      "clickCount": 9,
+      "bitrate": 192,
+      "streamUrl": "https://listentoair.live/stream"
     }
   ]
 }

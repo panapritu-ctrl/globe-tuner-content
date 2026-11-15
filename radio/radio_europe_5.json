@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-14T04:59:30Z",
+  "updated": "2026-11-15T04:51:14Z",
   "region": "europe",
   "part": 5,
   "of": 8,
@@ -14394,19 +14394,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_nemzeti_sportr_di_59d532c2",
-      "title": "Nemzeti Sportrádió",
-      "subtitle": "Sports",
-      "imageUrl": "",
-      "streamUrl": "https://icast.connectmedia.hu/4657/mr11.mp3",
-      "location": "Budapest, Hungary",
-      "genre": "Sports",
-      "countryCode": "HU",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 64
-    },
-    {
       "id": "rb2_nemzetis_gi_ad_sok_960c759c",
       "title": "Nemzetiségi adások",
       "subtitle": "Duna Média, Minority",
@@ -20705,19 +20692,6 @@
       "language": null,
       "clickCount": 2,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_penny_fm_96348c58",
-      "title": "Penny FM",
-      "subtitle": "Instore Radio, Milano",
-      "imageUrl": "",
-      "streamUrl": "http://listen.radiomax.technology/penny-italy",
-      "location": "Lombardia, Italy",
-      "genre": "Instore Radio",
-      "countryCode": "IT",
-      "language": "italian",
-      "clickCount": 0,
-      "bitrate": 100
     },
     {
       "id": "rb2_pfarrradio_schlern_aa885df6",
@@ -28206,6 +28180,66 @@
       "clickCount": 4,
       "bitrate": 96,
       "streamUrl": "https://nrf1.newradio.it/stream/9750"
+    },
+    {
+      "id": "r_v_r_s_1_is_a2457c03",
+      "title": "Rúv Rás 1",
+      "subtitle": "Radio",
+      "location": "Iceland",
+      "genre": "Radio",
+      "countryCode": "IS",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "http://netradio.ruv.is/ras1.mp3"
+    },
+    {
+      "id": "minimal_deep_tech_on_mixlive_net_ie_75d161d7",
+      "title": "Minimal & Deep-tech on MixLive.net",
+      "subtitle": "Deep And Minimalist Sounds",
+      "location": "Ireland",
+      "genre": "Deep And Minimalist Sounds",
+      "countryCode": "IE",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "https://free.rcast.net/200710"
+    },
+    {
+      "id": "new_radio_cecchetto_it_7d5a5d93",
+      "title": "New Radio Cecchetto",
+      "subtitle": "Pop",
+      "location": "Italy",
+      "genre": "Pop",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "https://nr15.newradio.it/stream/9142"
+    },
+    {
+      "id": "venice_classic_radio_live_it_5335dd92",
+      "title": "Venice Classic Radio *LIVE",
+      "subtitle": "Classical",
+      "location": "Italy",
+      "genre": "Classical",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "http://116.202.241.212:8020/stream"
+    },
+    {
+      "id": "rttr_it_a3c1f850",
+      "title": "RTTR",
+      "subtitle": "Radio",
+      "location": "Italy",
+      "genre": "Radio",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "http://str01.fluidstream.net/rtt.mp3"
     }
   ]
 }

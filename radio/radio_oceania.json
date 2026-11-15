@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-14T04:59:30Z",
+  "updated": "2026-11-15T04:51:14Z",
   "region": "oceania",
   "stations": [
     {
@@ -3385,19 +3385,6 @@
       "countryCode": "AU",
       "language": "english",
       "clickCount": 1,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_australian_digital_radio_network_bollywo_224e0d1c",
-      "title": "Australian Digital Radio Network - Bollywood - Mix (MP3)",
-      "subtitle": "Bollywood, Mix",
-      "imageUrl": "http://www.australiandigitalradio.com/favicon.ico",
-      "streamUrl": "http://abm21.com.au:8000/CONTAINER117",
-      "location": "Sydney NSW, Australia",
-      "genre": "Bollywood",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 2,
       "bitrate": 128
     },
     {
@@ -16489,6 +16476,42 @@
       "clickCount": 4,
       "bitrate": 115,
       "streamUrl": "https://streaming.abc-cdn.net.au/audio/hls/localwheatbelt.m3u8?source=web"
+    },
+    {
+      "id": "abc_radio_north_queensland_au_a4811402",
+      "title": "ABC Radio North Queensland",
+      "subtitle": "Local",
+      "location": "Australia",
+      "genre": "Local",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 115,
+      "streamUrl": "https://streaming.abc-cdn.net.au/audio/hls/localnorthqld.m3u8?source=web"
+    },
+    {
+      "id": "abc_radio_central_west_au_3fa6bf89",
+      "title": "ABC Radio Central West",
+      "subtitle": "Local",
+      "location": "Australia",
+      "genre": "Local",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 115,
+      "streamUrl": "https://streaming.abc-cdn.net.au/audio/hls/localcentralwest.m3u8?source=web"
+    },
+    {
+      "id": "australian_digital_radio_network_1980s_hair_metal_mp3_au_f8e01dba",
+      "title": "Australian Digital Radio Network - 1980s Hair Metal (MP3)",
+      "subtitle": "1980S",
+      "location": "Australia",
+      "genre": "1980S",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://abm21.com.au:8000/CONTAINER16"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-14T04:59:30Z",
+  "updated": "2026-11-15T04:51:14Z",
   "region": "americas",
   "part": 2,
   "of": 5,
@@ -17392,19 +17392,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_fiesta_102_7_fm_5022c429",
-      "title": "Fiesta 102.7 FM",
-      "subtitle": "Crossover, Grupera",
-      "imageUrl": "https://www.fiestafm.com.co/images/logo-repro.png",
-      "streamUrl": "https://server1.intermediacolombia.com:8008/stream",
-      "location": "Colombia",
-      "genre": "Crossover",
-      "countryCode": "CO",
-      "language": "spanish",
-      "clickCount": 1,
-      "bitrate": 64
-    },
-    {
       "id": "rb2_fiesta_106_2_fm_29489b43",
       "title": "Fiesta 106.2 FM",
       "subtitle": "Latino, Music",
@@ -28577,6 +28564,30 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://unlimited4-us.dps.live/positiva/aac/icecast.audio"
+    },
+    {
+      "id": "kracradio_ambient_ca_5c05913c",
+      "title": "KracRadio Ambient",
+      "subtitle": "Ambient",
+      "location": "Canada",
+      "genre": "Ambient",
+      "countryCode": "CA",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://stream.kracradio.com/listen/ambient/radio.mp3"
+    },
+    {
+      "id": "beethovenfm_cl_9d9200b4",
+      "title": "BeethovenFM",
+      "subtitle": "Radio",
+      "location": "Chile",
+      "genre": "Radio",
+      "countryCode": "CL",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://unlimited3-cl.dps.live/beethovenfm/go/audio/now/livestream1.m3u8"
     }
   ]
 }
