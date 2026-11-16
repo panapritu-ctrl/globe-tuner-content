@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-15T04:51:14Z",
+  "updated": "2026-11-16T04:47:36Z",
   "region": "europe",
   "part": 5,
   "of": 8,
@@ -14809,15 +14809,6 @@
       "bitrate": 192
     },
     {
-      "id": "radiozora_hu_7fb7c6",
-      "title": "RadiOzora",
-      "subtitle": "Darkpsy",
-      "location": "Hungary",
-      "genre": "Darkpsy",
-      "streamUrl": "http://trance.out.airtime.pro:8000/trance_a",
-      "countryCode": "HU"
-    },
-    {
       "id": "radiozora_trance_hu_3280e7",
       "title": "RadiOzora Trance",
       "subtitle": "Psychedelic",
@@ -27378,18 +27369,6 @@
       "streamUrl": "https://stream12.xdevel.com/audio40s975552-3306/stream/icecast.audio"
     },
     {
-      "id": "7_radiovisione_it_f6444a55",
-      "title": "7 RadioVisione",
-      "subtitle": "Radio",
-      "location": "Italy",
-      "genre": "Radio",
-      "countryCode": "IT",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 2159,
-      "streamUrl": "https://stream10.xdevel.com/video1s976543-1932/stream/playlist.m3u8"
-    },
-    {
       "id": "radiouno_it_851203cf",
       "title": "RadioUno",
       "subtitle": "Radio",
@@ -27688,18 +27667,6 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://mediagw.e-tiger.net/stream/zc08"
-    },
-    {
-      "id": "radio_studio_93_it_dbc0ab9c",
-      "title": "Radio Studio 93",
-      "subtitle": "Pop",
-      "location": "Italy",
-      "genre": "Pop",
-      "countryCode": "IT",
-      "language": "italian",
-      "clickCount": 4,
-      "bitrate": 0,
-      "streamUrl": "http://onair15.xdevel.com:9160/listen.pls"
     },
     {
       "id": "ireland_s_love_radio_ie_db50e8ce",
@@ -28002,18 +27969,6 @@
       "streamUrl": "https://sr14.inmystream.it/stream/freedom"
     },
     {
-      "id": "euphonic_moments_radio_hu_71385c5e",
-      "title": "Euphonic Moments Radio",
-      "subtitle": "Ambient",
-      "location": "Hungary",
-      "genre": "Ambient",
-      "countryCode": "HU",
-      "language": "english",
-      "clickCount": 5,
-      "bitrate": 256,
-      "streamUrl": "https://radio.euphonicmoments.com/listen/euphonic-moments/Euphonicmoments_radio256kbps.mp3"
-    },
-    {
       "id": "radio_laikorempetiko_gr_bd8a50b9",
       "title": "Radio Laikorempetiko",
       "subtitle": "Greek Folk",
@@ -28240,6 +28195,126 @@
       "clickCount": 5,
       "bitrate": 128,
       "streamUrl": "http://str01.fluidstream.net/rtt.mp3"
+    },
+    {
+      "id": "radiozora_hu_f1bf3865",
+      "title": "RadiOzora",
+      "subtitle": "Darkpsy",
+      "location": "Hungary",
+      "genre": "Darkpsy",
+      "countryCode": "HU",
+      "language": "english",
+      "clickCount": 7,
+      "bitrate": 192,
+      "streamUrl": "http://trance.out.airtime.pro:8000/trance_a"
+    },
+    {
+      "id": "euphonic_moments_radio_hu_71385c5e",
+      "title": "Euphonic Moments Radio",
+      "subtitle": "Ambient",
+      "location": "Hungary",
+      "genre": "Ambient",
+      "countryCode": "HU",
+      "language": "english",
+      "clickCount": 6,
+      "bitrate": 256,
+      "streamUrl": "https://radio.euphonicmoments.com/listen/euphonic-moments/Euphonicmoments_radio256kbps.mp3"
+    },
+    {
+      "id": "radio_fiorenza_it_a2021f7b",
+      "title": "Radio Fiorenza",
+      "subtitle": "Bossa Nova",
+      "location": "Italy",
+      "genre": "Bossa Nova",
+      "countryCode": "IT",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 320,
+      "streamUrl": "https://artemis.streamerr.co/listen/radiofiorenza/radio.mp3"
+    },
+    {
+      "id": "studio_1_web_radio_gr_37143cae",
+      "title": "Studio 1 Web Radio",
+      "subtitle": "Greek Folk",
+      "location": "Greece",
+      "genre": "Greek Folk",
+      "countryCode": "GR",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://radio.webhosting4u.gr/stream/studio1/stream"
+    },
+    {
+      "id": "abc_80s_dublin_neuer_stream_ie_40b0f738",
+      "title": "ABC 80s Dublin - Neuer Stream",
+      "subtitle": "80S Pop",
+      "location": "Ireland",
+      "genre": "80S Pop",
+      "countryCode": "IE",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://cast3.torontocast.com:1750/stream"
+    },
+    {
+      "id": "rcuno_it_4500fca3",
+      "title": "rcuno",
+      "subtitle": "Hits",
+      "location": "Italy",
+      "genre": "Hits",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://stream.laut.fm/radiocoveruno"
+    },
+    {
+      "id": "streamee_noel_gr_f9fbf0a3",
+      "title": "Streamee Noel",
+      "subtitle": "Christmas Music",
+      "location": "Greece",
+      "genre": "Christmas Music",
+      "countryCode": "GR",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://politismedia-sec3.live24.gr/pm-noel"
+    },
+    {
+      "id": "88_8_gr_8fc2b0d3",
+      "title": "Δημοτική Ανθολογία 88.8",
+      "subtitle": "Dimotika",
+      "location": "Greece",
+      "genre": "Dimotika",
+      "countryCode": "GR",
+      "language": "greek",
+      "clickCount": 4,
+      "bitrate": 320,
+      "streamUrl": "https://solid67.streamupsolutions.com/proxy/qddyuwck/stream"
+    },
+    {
+      "id": "radio_art_romantic_latin_gr_047f6091",
+      "title": "Radio Art - Romantic Latin",
+      "subtitle": "Dance",
+      "location": "Greece",
+      "genre": "Dance",
+      "countryCode": "GR",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 96,
+      "streamUrl": "https://live.radioart.com/fRomantic_latin.mp3"
+    },
+    {
+      "id": "mixlive_progressive_tech_house_ie_d676556a",
+      "title": "MixLive - Progressive & Tech-house",
+      "subtitle": "Progressive House",
+      "location": "Ireland",
+      "genre": "Progressive House",
+      "countryCode": "IE",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://strw3.openstream.co/939"
     }
   ]
 }

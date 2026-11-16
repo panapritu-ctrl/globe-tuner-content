@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-15T04:51:14Z",
+  "updated": "2026-11-16T04:47:36Z",
   "region": "europe",
   "part": 1,
   "of": 8,
@@ -4453,19 +4453,6 @@
       "bitrate": 192
     },
     {
-      "id": "rb2_accent_radio_ae600421",
-      "title": "Accent Radio",
-      "subtitle": "Radio",
-      "imageUrl": "https://www.radioaccent.be/apple-touch-icon.png",
-      "streamUrl": "https://www.clubfmserver.be/accent.mp3",
-      "location": "Oost-Vlaanderen, Belgium",
-      "genre": "Radio",
-      "countryCode": "BE",
-      "language": "dutch",
-      "clickCount": 0,
-      "bitrate": 192
-    },
-    {
       "id": "rb2_afrikana_radio_live_african_13acd5a9",
       "title": "Afrikana Radio – Live African",
       "subtitle": "African Music, African Vibes",
@@ -8910,19 +8897,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_radio_contact_cb177161",
-      "title": "Radio Contact",
-      "subtitle": "Misc",
-      "imageUrl": "",
-      "streamUrl": "https://listen.radioking.com/radio/490082/stream/546899",
-      "location": "Bulgaria",
-      "genre": "Misc",
-      "countryCode": "BG",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_radio_dance_with_me_d50058fc",
       "title": "Radio Dance With Me",
       "subtitle": "Radio",
@@ -11263,19 +11237,6 @@
       "countryCode": "CH",
       "language": "english",
       "clickCount": 1,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_basspistol_radio_876d62ba",
-      "title": "Basspistol Radio",
-      "subtitle": "Dance, Electronic",
-      "imageUrl": "https://basspistol.com/siteicon.png",
-      "streamUrl": "https://radio.basspistol.com/radio.mp3",
-      "location": "Switzerland",
-      "genre": "Dance",
-      "countryCode": "CH",
-      "language": null,
-      "clickCount": 0,
       "bitrate": 128
     },
     {
@@ -34563,6 +34524,102 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "http://klassikr.streamabc.net/klr-krdnational-aacplus-64-8291420?aggregator=hoererdirekt"
+    },
+    {
+      "id": "berlin_beach_house_radio_de_f9976a69",
+      "title": "Berlin Beach House Radio",
+      "subtitle": "Beach House",
+      "location": "Germany",
+      "genre": "Beach House",
+      "countryCode": "DE",
+      "language": "english",
+      "clickCount": 7,
+      "bitrate": 0,
+      "streamUrl": "https://channels.fluxfm.de/berlin-beach-house/externalembedflxhp/stream.aac"
+    },
+    {
+      "id": "antenne_bayern_weihnachtslounge_de_675cdb5c",
+      "title": "Antenne Bayern - Weihnachtslounge",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 7,
+      "bitrate": 128,
+      "streamUrl": "https://stream.antenne.de/lounge/stream/mp3"
+    },
+    {
+      "id": "hamburg_zwei_de_96abb079",
+      "title": "Hamburg zwei",
+      "subtitle": "80'S",
+      "location": "Germany",
+      "genre": "80'S",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://stream.hamburg-zwei.de/live/mp3-192/tunein/play.m3u"
+    },
+    {
+      "id": "oldenburg_eins_oeins_de_05ee7b28",
+      "title": "Oldenburg Eins (oeins)",
+      "subtitle": "Local Radio",
+      "location": "Germany",
+      "genre": "Local Radio",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://oeins.de/oeins"
+    },
+    {
+      "id": "weihnachtsmusik_fm_lounge_weihnachten_de_99c88e93",
+      "title": "Weihnachtsmusik.fm Lounge Weihnachten",
+      "subtitle": "Chillout",
+      "location": "Germany",
+      "genre": "Chillout",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "http://streams.weihnachtsmusik.fm/lounge/mp3-192/streams.weihnachtsmusik.fm/"
+    },
+    {
+      "id": "esk_rozhlas_st_edn_echy_cz_896a7821",
+      "title": "Český rozhlas Střední Čechy",
+      "subtitle": "Music",
+      "location": "Czechia",
+      "genre": "Music",
+      "countryCode": "CZ",
+      "language": "czech",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://rozhlas.stream/region.mp3"
+    },
+    {
+      "id": "radio_saw_relax_de_e18f8857",
+      "title": "radio SAW-Relax",
+      "subtitle": "Easy Pop",
+      "location": "Germany",
+      "genre": "Easy Pop",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://stream.radiosaw.de/saw-relax/mp3-192/radio-browser/"
+    },
+    {
+      "id": "dasding_weekend_warmup_de_71122f4b",
+      "title": "DASDING Weekend WarmUp",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 96,
+      "streamUrl": "https://liveradio.swr.de/d245tgd/raka04/"
     }
   ]
 }

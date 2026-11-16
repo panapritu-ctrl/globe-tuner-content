@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-15T04:51:14Z",
+  "updated": "2026-11-16T04:47:36Z",
   "region": "europe",
   "part": 8,
   "of": 8,
@@ -5657,19 +5657,6 @@
       "language": "russian",
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_seismic_radio_russian_service_9e7e1008",
-      "title": "Seismic Radio - Russian Service",
-      "subtitle": "Christian",
-      "imageUrl": "",
-      "streamUrl": "http://158.69.227.214:8143/;?1690716440786",
-      "location": "The Russian Federation",
-      "genre": "Christian",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 0,
-      "bitrate": 32
     },
     {
       "id": "rb2_sevastopol_fm_b1cbc5b5",
@@ -23964,18 +23951,6 @@
       "streamUrl": "https://mpc2.mediacp.eu:8200/rebecaweb"
     },
     {
-      "id": "10_ru_eff8a0aa",
-      "title": "Радио 10",
-      "subtitle": "Pop Music",
-      "location": "The Russian Federation",
-      "genre": "Pop Music",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 4,
-      "bitrate": 128,
-      "streamUrl": "https://ic.radio10.live/stream.mp3"
-    },
-    {
       "id": "old_radio_music_32_ru_01a28fb4",
       "title": "Старое радио Музыка - Old radio Music 32",
       "subtitle": "Retro",
@@ -24802,18 +24777,6 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "https://get-radio.sipout.ai/stream/halloween.mp3"
-    },
-    {
-      "id": "retro_fm_sk_ne_se_54b4a862",
-      "title": "Retro FM Skåne",
-      "subtitle": "Oldies",
-      "location": "Sweden",
-      "genre": "Oldies",
-      "countryCode": "SE",
-      "language": "swedish",
-      "clickCount": 11,
-      "bitrate": 96,
-      "streamUrl": "https://live-bauerse-fm.sharp-stream.com/retrofm_aacp?ua=WEB&aw_0_1st.playerid=SBS_RP_WEB&aw_0_1st.skey=1575715192&companionAds=true&listenerId=@@GUID@@"
     },
     {
       "id": "101_ru_italo_disco_ru_d6f50ee6",
@@ -26182,6 +26145,90 @@
       "clickCount": 5,
       "bitrate": 128,
       "streamUrl": "https://listen1.myradio24.com/odesradio"
+    },
+    {
+      "id": "dfm_101_2_fm_ru_f72eb6c6",
+      "title": "DFM 101,2 FM",
+      "subtitle": "Club",
+      "location": "The Russian Federation",
+      "genre": "Club",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 7,
+      "bitrate": 0,
+      "streamUrl": "https://dfm.hostingradio.ru/dfm96.aacp"
+    },
+    {
+      "id": "gta_iv_tuff_gong_radio_gtaradio_net_ru_56875fee",
+      "title": "[GTA IV] Tuff Gong Radio [GTARadio.net]",
+      "subtitle": "Dub",
+      "location": "The Russian Federation",
+      "genre": "Dub",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://audio.gtaradio.net/4/babylon"
+    },
+    {
+      "id": "gta_iv_the_beat_102_7_gtaradio_net_ru_01f44f2f",
+      "title": "[GTA IV] The Beat 102.7 [GTARadio.net]",
+      "subtitle": "Hiphop",
+      "location": "The Russian Federation",
+      "genre": "Hiphop",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://audio.gtaradio.net/4/beat_95"
+    },
+    {
+      "id": "radio_caprice_russian_club_dance_music_2_ru_c71610b3",
+      "title": "Radio Caprice - Russian Club Dance Music [2]",
+      "subtitle": "Club",
+      "location": "The Russian Federation",
+      "genre": "Club",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 5,
+      "bitrate": 320,
+      "streamUrl": "http://79.120.77.11:8000/clubru"
+    },
+    {
+      "id": "get_radio_ru_13718033",
+      "title": "get.radio — Классика (Русский)",
+      "subtitle": "Classical",
+      "location": "The Russian Federation",
+      "genre": "Classical",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://get-radio.sipout.ai/stream/classical-ru.mp3"
+    },
+    {
+      "id": "europa_2_top_40_sk_da288483",
+      "title": "Europa 2 - Top 40",
+      "subtitle": "Radio",
+      "location": "Slovakia",
+      "genre": "Radio",
+      "countryCode": "SK",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 96,
+      "streamUrl": "https://stream.bauermedia.sk/top-40-hi.aac"
+    },
+    {
+      "id": "radi_o_ua_0b750aa8",
+      "title": "Просто Radi.O (Київ)",
+      "subtitle": "Information",
+      "location": "Ukraine",
+      "genre": "Information",
+      "countryCode": "UA",
+      "language": "ukrainian",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "http://85.238.113.60:8000/PRK128"
     }
   ]
 }

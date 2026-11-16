@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-15T04:51:14Z",
+  "updated": "2026-11-16T04:47:36Z",
   "region": "europe",
   "part": 3,
   "of": 8,
@@ -1436,19 +1436,6 @@
       "language": null,
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_rock_fm_espa_a_787ae3de",
-      "title": "ROCK FM (España)",
-      "subtitle": "Rock",
-      "imageUrl": "https://www.rockfm.fm/estaticos/apple-touch-icon-192x192.png",
-      "streamUrl": "http://rockfm.cope.stream.flumotion.com/cope/rockfm/playlist.m3u8",
-      "location": "Madrid, Spain",
-      "genre": "Rock",
-      "countryCode": "ES",
-      "language": "castellano. español",
-      "clickCount": 2,
-      "bitrate": 64
     },
     {
       "id": "rb2_rpv_gran_canaria_74ea3f2d",
@@ -3867,19 +3854,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_r_dio_el_vendrell_963e14ea",
-      "title": "Ràdio el Vendrell",
-      "subtitle": "El Vendell",
-      "imageUrl": "",
-      "streamUrl": "https://enacast.com/rtvelvendrell/streams/SD",
-      "location": "Penedès, Spain",
-      "genre": "El Vendell",
-      "countryCode": "ES",
-      "language": "catalan",
-      "clickCount": 0,
-      "bitrate": 56
-    },
-    {
       "id": "rb2_r_dio_l_hospitalet_de_l_infant_en_direct_b77ac286",
       "title": "Ràdio l'Hospitalet de l'Infant en directe Ràdio l'Hospitalet de l'Infant",
       "subtitle": "Radio",
@@ -4407,19 +4381,6 @@
       "language": "catalan",
       "clickCount": 0,
       "bitrate": 160
-    },
-    {
-      "id": "rb2_trespatines_radio_42becd70",
-      "title": "Trespatines Radio",
-      "subtitle": "Radio",
-      "imageUrl": "https://primary.jwwb.nl/public/q/j/h/temp-wnxqdgzedajduxousypi/q8tef3/c300.png?enable-io=true&enable=upscale&height=140&quality=70",
-      "streamUrl": "https://s1.nexuscast.com:8054/1",
-      "location": "Spain",
-      "genre": "Radio",
-      "countryCode": "ES",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 64
     },
     {
       "id": "rb2_urban_revolution_b0354088",
@@ -5834,19 +5795,6 @@
       "countryCode": "FI",
       "language": null,
       "clickCount": 1,
-      "bitrate": 192
-    },
-    {
-      "id": "rb2_rollfm_0269dbb3",
-      "title": "RollFM",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://rollfm.online/",
-      "location": "Finland",
-      "genre": "Radio",
-      "countryCode": "FI",
-      "language": null,
-      "clickCount": 0,
       "bitrate": 192
     },
     {
@@ -27538,18 +27486,6 @@
       "streamUrl": "https://tonysplace.co.uk/api/radio/stream"
     },
     {
-      "id": "josema_retro_radio_es_c7e8ea4f",
-      "title": "Josema Retro Radio",
-      "subtitle": "Arcade",
-      "location": "Spain",
-      "genre": "Arcade",
-      "countryCode": "ES",
-      "language": "english",
-      "clickCount": 4,
-      "bitrate": 64,
-      "streamUrl": "https://radio.josema.zapto.org:8443/listen/retro/radio.mp3"
-    },
-    {
       "id": "radiumfm_paris_fr_6ef2b671",
       "title": "RadiumFM Paris",
       "subtitle": "Ai Generated",
@@ -27788,6 +27724,150 @@
       "clickCount": 4,
       "bitrate": 192,
       "streamUrl": "https://ukstream.radiohost.co.uk/listen/hot_fm_dance/radio.mp3"
+    },
+    {
+      "id": "rock_fm_espa_a_es_c1d26f33",
+      "title": "ROCK FM (España)",
+      "subtitle": "Rock",
+      "location": "Spain",
+      "genre": "Rock",
+      "countryCode": "ES",
+      "language": "castellano. español",
+      "clickCount": 14,
+      "bitrate": 64,
+      "streamUrl": "http://rockfm.cope.stream.flumotion.com/cope/rockfm/playlist.m3u8"
+    },
+    {
+      "id": "ef_gospel_and_hymns_gb_4beefbbf",
+      "title": "Ef Gospel and Hymns",
+      "subtitle": "Radio",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Radio",
+      "countryCode": "GB",
+      "language": null,
+      "clickCount": 10,
+      "bitrate": 64,
+      "streamUrl": "http://ec2.yesstreaming.net:1810/stream"
+    },
+    {
+      "id": "radio_fuego_fr_e4567d4a",
+      "title": "Radio Fuego",
+      "subtitle": "Dance",
+      "location": "France",
+      "genre": "Dance",
+      "countryCode": "FR",
+      "language": "francaise",
+      "clickCount": 8,
+      "bitrate": 0,
+      "streamUrl": "https://n12a-eu.rcs.revma.com/dapwbz2befcwv"
+    },
+    {
+      "id": "babyradio_latinoam_rica_es_7d60d362",
+      "title": "Babyradio Latinoamérica",
+      "subtitle": "Children",
+      "location": "Spain",
+      "genre": "Children",
+      "countryCode": "ES",
+      "language": "spanish",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://26313.live.streamtheworld.com:443/SAM04AAC33_SC"
+    },
+    {
+      "id": "sun_metal_fr_bb1f411b",
+      "title": "SUN Metal",
+      "subtitle": "Metal",
+      "location": "France",
+      "genre": "Metal",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 5,
+      "bitrate": 160,
+      "streamUrl": "https://diffusion.lafrap.fr/sun-metal.mp3"
+    },
+    {
+      "id": "soulful_house_fr_91cd5599",
+      "title": "Soulful House",
+      "subtitle": "Soulful House",
+      "location": "France",
+      "genre": "Soulful House",
+      "countryCode": "FR",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://radio4.vip-radios.fm:18057/stream-128kmp3-SoulfulHouse"
+    },
+    {
+      "id": "rire_chansons_rire_en_fr_09adca83",
+      "title": "Rire & Chansons Rire En ...",
+      "subtitle": "Rire Et Chansons",
+      "location": "France",
+      "genre": "Rire Et Chansons",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://streaming.nrjaudio.fm/oua8now2dqao"
+    },
+    {
+      "id": "onda_cero_tierras_de_medina_es_9e6fa449",
+      "title": "Onda Cero Tierras de Medina",
+      "subtitle": "Radio",
+      "location": "Spain",
+      "genre": "Radio",
+      "countryCode": "ES",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 64,
+      "streamUrl": "http://server6.20comunicacion.com:8100/?utm_source=chatgpt.com"
+    },
+    {
+      "id": "clapas_jazz_fr_cec635b3",
+      "title": "Clapas Jazz",
+      "subtitle": "Radio",
+      "location": "France",
+      "genre": "Radio",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream.radioclapas.fr/listen/clapas_jazz/radio.mp3"
+    },
+    {
+      "id": "agora_c_te_d_azur_fr_e07dc7c1",
+      "title": "AGORA CÔTE D’AZUR",
+      "subtitle": "Radio",
+      "location": "France",
+      "genre": "Radio",
+      "countryCode": "FR",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://agoracotedazur.ice.infomaniak.ch/agoracotedazur.mp3"
+    },
+    {
+      "id": "cornwall_rewind_gb_56c4c9b6",
+      "title": "Cornwall Rewind",
+      "subtitle": "80'S",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "80'S",
+      "countryCode": "GB",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://s4.radio.co/s2eaa194f6/listen"
+    },
+    {
+      "id": "alex_pepper_live_gb_86b3a8c6",
+      "title": "Alex Pepper Live",
+      "subtitle": "Edm",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Edm",
+      "countryCode": "GB",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://halo.streamerr.co/listen/alexpepperlive/105.aac"
     }
   ]
 }

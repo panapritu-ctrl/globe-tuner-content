@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-15T04:51:14Z",
+  "updated": "2026-11-16T04:47:36Z",
   "region": "europe",
   "part": 2,
   "of": 8,
@@ -3787,19 +3787,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_klassikradio_easy_relax_31420050",
-      "title": "Klassikradio  Easy Relax",
-      "subtitle": "Easy Jazz",
-      "imageUrl": "https://images.ctfassets.net/jkv7j7ridlow/49gNb5p6RBdu1iZSRCowSa/058f0312c20f08258627ea744cd64beb/Easy_Relax.jpg?f=faces&q=60&fm=avif&w=252&h=252&fit=fill&bg=",
-      "streamUrl": "https://stream.klassikradio.de/relax/mp3-192/surfmusik",
-      "location": "Germany",
-      "genre": "Easy Jazz",
-      "countryCode": "DE",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 128
-    },
-    {
       "id": "klassikradio_barock_de_860d8d",
       "title": "Klassikradio - Barock",
       "subtitle": "Baroque",
@@ -5218,15 +5205,6 @@
       "genre": "Youth",
       "countryCode": "DE",
       "streamUrl": "http://mdr-284320-0.cast.mdr.de/mdr/284320/0/mp3/high/stream.mp3"
-    },
-    {
-      "id": "mdr_klassik_de_960536",
-      "title": "MDR Klassik",
-      "subtitle": "Classical",
-      "location": "Germany",
-      "genre": "Classical",
-      "countryCode": "DE",
-      "streamUrl": "http://mdr-284350-0.cast.mdr.de/mdr/284350/0/mp3/high/stream.mp3"
     },
     {
       "id": "rb2_mdr_klassik_mp3_256_ff9e962e",
@@ -34932,6 +34910,42 @@
       "clickCount": 4,
       "bitrate": 192,
       "streamUrl": "http://streamer.tt.ee:8000/rahvaraadio"
+    },
+    {
+      "id": "fluxfm_indie_disco_320k_aac_de_26c74089",
+      "title": "FluxFM Indie Disco | 320k AAC",
+      "subtitle": "Contemporary",
+      "location": "Germany",
+      "genre": "Contemporary",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://fluxmusic.api.radiosphere.io/channels/indiedisco/stream.aac?quality=10"
+    },
+    {
+      "id": "lueneburger_radio_autodj_de_672a835b",
+      "title": "Lueneburger Radio,AutoDJ",
+      "subtitle": "80Er",
+      "location": "Germany",
+      "genre": "80Er",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://luneburgerradio.sp.radio.fm/stream.mp3"
+    },
+    {
+      "id": "dr_p4_bornholm_aac_dk_543b0681",
+      "title": "DR P4 Bornholm (AAC)",
+      "subtitle": "Regional Radio",
+      "location": "Denmark",
+      "genre": "Regional Radio",
+      "countryCode": "DK",
+      "language": "danish",
+      "clickCount": 4,
+      "bitrate": 324,
+      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4bornholm/masterab.m3u8"
     }
   ]
 }

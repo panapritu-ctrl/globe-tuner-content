@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-15T04:51:14Z",
+  "updated": "2026-11-16T04:47:36Z",
   "region": "europe",
   "part": 7,
   "of": 8,
@@ -23691,18 +23691,6 @@
       "streamUrl": "http://streaming-live-app.rtp.pt/liveradio/antena380a/playlist.m3u8"
     },
     {
-      "id": "shamanu_ro_15f46cb1",
-      "title": "SHAMANU",
-      "subtitle": "Deep Techno",
-      "location": "Romania",
-      "genre": "Deep Techno",
-      "countryCode": "RO",
-      "language": "english",
-      "clickCount": 3,
-      "bitrate": 0,
-      "streamUrl": "https://shamanu.live/stream"
-    },
-    {
       "id": "radio_one_live_80_s_90_s_pl_80212f2a",
       "title": "Radio One Live 80's & 90's",
       "subtitle": "Radio",
@@ -25839,18 +25827,6 @@
       "streamUrl": "https://ssl.servereradio.ro/8054/stream"
     },
     {
-      "id": "radio_veselia_folclor_ro_85c48f32",
-      "title": "Radio Veselia Folclor",
-      "subtitle": "Folk",
-      "location": "Romania",
-      "genre": "Folk",
-      "countryCode": "RO",
-      "language": "romanian",
-      "clickCount": 7,
-      "bitrate": 128,
-      "streamUrl": "http://asculta.radioveseliafolclor.com:8232/;"
-    },
-    {
       "id": "one_ti_city_radio_ro_66204386",
       "title": "Onești City Radio",
       "subtitle": "Bacau",
@@ -26197,6 +26173,30 @@
       "clickCount": 5,
       "bitrate": 0,
       "streamUrl": "https://streaming.tdiradio.com/crnagora.mp3"
+    },
+    {
+      "id": "shamanu_ro_15f46cb1",
+      "title": "SHAMANU",
+      "subtitle": "Deep Techno",
+      "location": "Romania",
+      "genre": "Deep Techno",
+      "countryCode": "RO",
+      "language": "english",
+      "clickCount": 9,
+      "bitrate": 0,
+      "streamUrl": "https://shamanu.live/stream"
+    },
+    {
+      "id": "radio_loop24_pl_3e98dc1a",
+      "title": "Radio LOOP24",
+      "subtitle": "Radio",
+      "location": "Poland",
+      "genre": "Radio",
+      "countryCode": "PL",
+      "language": "polish",
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "https://streaming.broadcast.radio/loop24"
     }
   ]
 }

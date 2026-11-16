@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-15T04:51:14Z",
+  "updated": "2026-11-16T04:47:36Z",
   "region": "asia",
   "part": 1,
   "of": 3,
@@ -11181,19 +11181,6 @@
       "bitrate": 64
     },
     {
-      "id": "rb2_urumtsi_uyghur_radio_f6552ebb",
-      "title": "Urumtsi Uyghur Radio",
-      "subtitle": "Radio",
-      "imageUrl": "http://pic.qingting.fm/2011/0926/20110926112508788.jpg",
-      "streamUrl": "http://ls.qingting.fm/live/1923.m3u8",
-      "location": "Sinkiang, China",
-      "genre": "Radio",
-      "countryCode": "CN",
-      "language": "uyghur",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_vok_fm105_3_eea2554c",
       "title": "VOK 库尔勒梨城之声 FM105.3",
       "subtitle": "Full Service",
@@ -12615,32 +12602,6 @@
       "streamUrl": "https://lhttp.qtfm.cn/live/15318156/64k.mp3",
       "location": "China",
       "genre": "Radio",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_fm92_6_am1179_93077c26",
-      "title": "克拉玛依汉语综合广播 FM92.6 AM1179",
-      "subtitle": "Full Service",
-      "imageUrl": "https://news.kelamayi.com.cn/klmy-rmt-h5/assets/logo-Csc5nXGU.png",
-      "streamUrl": "https://live-news.kelamayi.com.cn/hls/k926/index.m3u8",
-      "location": "Sinkiang, China",
-      "genre": "Full Service",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_fm90_7_am882_1edc9b08",
-      "title": "克拉玛依维吾尔语综合广播 FM90.7 AM882",
-      "subtitle": "Full Service",
-      "imageUrl": "https://news.kelamayi.com.cn/klmy-rmt-h5/assets/logo-Csc5nXGU.png",
-      "streamUrl": "https://live-news.kelamayi.com.cn/hls/k907/index.m3u8",
-      "location": "Sinkiang, China",
-      "genre": "Full Service",
       "countryCode": "CN",
       "language": "chinese",
       "clickCount": 0,
@@ -25547,18 +25508,6 @@
       "streamUrl": "http://a.live.hnradio.com/xwpd/radio120k_xwpd.m3u8?auth_key=1588751187-0-0-f1675340b0cec8720747b81d8dfc9e99"
     },
     {
-      "id": "station_cn_08671f03",
-      "title": "临沂经济广播",
-      "subtitle": "Lifestyle",
-      "location": "China",
-      "genre": "Lifestyle",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 3,
-      "bitrate": 0,
-      "streamUrl": "https://lhttp.qtfm.cn/live/3994/64k.mp3"
-    },
-    {
       "id": "station_cn_3ab00277",
       "title": "临沂音乐科教广播",
       "subtitle": "Music",
@@ -26639,18 +26588,6 @@
       "streamUrl": "https://brtv-radiolive.rbc.cn/alive/fm945.m3u8"
     },
     {
-      "id": "station_cn_1f276732",
-      "title": "临夏综合广播",
-      "subtitle": "Full Service",
-      "location": "China",
-      "genre": "Full Service",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 5,
-      "bitrate": 2560,
-      "streamUrl": "https://play.kankanlive.com/live/1719371517772901.m3u8"
-    },
-    {
       "id": "station_cn_37faff25",
       "title": "盐城经济生活广播",
       "subtitle": "Traffic",
@@ -27009,18 +26946,6 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "http://212.34.233.78:8000/live"
-    },
-    {
-      "id": "siaoshan_life_tv_cn_8d460ccd",
-      "title": "Siaoshan Life TV",
-      "subtitle": "Radio",
-      "location": "China",
-      "genre": "Radio",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 4,
-      "bitrate": 0,
-      "streamUrl": "http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8"
     },
     {
       "id": "station_cn_9682b930",
@@ -27513,6 +27438,30 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "http://radio.snrtv.com/audio/country/index.m3u8"
+    },
+    {
+      "id": "station_cn_956bc877",
+      "title": "千里之外",
+      "subtitle": "Radio",
+      "location": "China",
+      "genre": "Radio",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 10,
+      "bitrate": 400,
+      "streamUrl": "https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8"
+    },
+    {
+      "id": "station_cn_166d975c",
+      "title": "厦门交通旅游广播",
+      "subtitle": "Traffic Radio Broadcast",
+      "location": "China",
+      "genre": "Traffic Radio Broadcast",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://rscdn.ajmide.com/r_1152/nglive_1152.m3u8"
     }
   ]
 }

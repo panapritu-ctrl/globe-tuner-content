@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-15T04:51:14Z",
+  "updated": "2026-11-16T04:47:36Z",
   "region": "asia",
   "part": 3,
   "of": 3,
@@ -16383,18 +16383,6 @@
       "streamUrl": "https://fm.alarabiya.net/fm/myStream/playlist.m3u8"
     },
     {
-      "id": "dxbh_hope_radio_103_7mhz_ph_0681d4b1",
-      "title": "DXBH Hope Radio 103.7Mhz",
-      "subtitle": "Gospel",
-      "location": "The Philippines",
-      "genre": "Gospel",
-      "countryCode": "PH",
-      "language": "cebuano",
-      "clickCount": 5,
-      "bitrate": 64,
-      "streamUrl": "https://stream.dxbh.net/main_mp3"
-    },
-    {
       "id": "energy_fm_cebu_ph_b3c6b689",
       "title": "Energy FM Cebu",
       "subtitle": "Radio",
@@ -16683,18 +16671,6 @@
       "streamUrl": "https://moondigitaledge.radyotvonline.net/palstation/playlist.m3u8"
     },
     {
-      "id": "dzmm_radyo_patrol_630_ph_0f1b5a34",
-      "title": "DZMM Radyo Patrol 630",
-      "subtitle": "Radio",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "language": null,
-      "clickCount": 18,
-      "bitrate": 64,
-      "streamUrl": "http://209.126.124.126:8852/stream"
-    },
-    {
       "id": "huna_aden_fm_ye_02de5fc8",
       "title": "Huna Aden FM",
       "subtitle": "Radio",
@@ -16777,18 +16753,6 @@
       "clickCount": 4,
       "bitrate": 192,
       "streamUrl": "http://18.141.67.248:8024/stream/1/"
-    },
-    {
-      "id": "mcot_100_5_th_2bf73158",
-      "title": "MCOT 100.5",
-      "subtitle": "Radio",
-      "location": "Thailand",
-      "genre": "Radio",
-      "countryCode": "TH",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 2000,
-      "streamUrl": "https://lcdn.mcot.net/RadioLive/smil:fm1005_live.smil/playlist.m3u8"
     },
     {
       "id": "radyo_fenomen_2010_lar_tr_3dd54a29",
@@ -17247,18 +17211,6 @@
       "streamUrl": "https://yayin.radyomadyo.com:9180/stream"
     },
     {
-      "id": "nbt_north_ease_digital_tv_channel_11_th_0a9022f5",
-      "title": "NBT North Ease: digital TV channel 11",
-      "subtitle": "Radio",
-      "location": "Thailand",
-      "genre": "Radio",
-      "countryCode": "TH",
-      "language": "thai",
-      "clickCount": 4,
-      "bitrate": 3128,
-      "streamUrl": "https://cdn-edge.iiptvcdn.com/live_event/smil:98ff-027d-46aa-1a6a-8480.smil/playlist.m3u8?null"
-    },
-    {
       "id": "powerturk_tr_de03d105",
       "title": "powerturk",
       "subtitle": "Pop",
@@ -17701,6 +17653,90 @@
       "clickCount": 6,
       "bitrate": 64,
       "streamUrl": "https://s1.free-shoutcast.com/stream/18178"
+    },
+    {
+      "id": "dzmm_radyo_patrol_630_ph_0f1b5a34",
+      "title": "DZMM Radyo Patrol 630",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 12,
+      "bitrate": 64,
+      "streamUrl": "http://209.126.124.126:8852/stream"
+    },
+    {
+      "id": "tp_tv_channel_digital_tv_channel_10_th_baa918c3",
+      "title": "TP TV channel: digital TV channel 10",
+      "subtitle": "Radio",
+      "location": "Thailand",
+      "genre": "Radio",
+      "countryCode": "TH",
+      "language": "thai",
+      "clickCount": 5,
+      "bitrate": 153,
+      "streamUrl": "https://tv-live.tpchannel.org/live/tv.m3u8"
+    },
+    {
+      "id": "boracay_beach_radio_ph_b756aca1",
+      "title": "Boracay Beach Radio",
+      "subtitle": "Jazz",
+      "location": "The Philippines",
+      "genre": "Jazz",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://s2.viastreaming.net:8390/;stream/"
+    },
+    {
+      "id": "zexfm_ph_8bdb630f",
+      "title": "ZEXFM",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://listen.smilemediaph.com/listen/zexfm/radio.mp3"
+    },
+    {
+      "id": "rmn_dxdr_981_dipolog_ph_e7b3051d",
+      "title": "RMN DXDR 981 Dipolog",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://livestream.rmn.ph/dxdrdipolog"
+    },
+    {
+      "id": "ifm_laoag_ph_748bb44e",
+      "title": "iFM Laoag",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://livestream.rmn.ph:8000/ifmlaoag"
+    },
+    {
+      "id": "nbt2hd_th_9a9146a2",
+      "title": "NBT2HD",
+      "subtitle": "Government",
+      "location": "Thailand",
+      "genre": "Government",
+      "countryCode": "TH",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 3128,
+      "streamUrl": "https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/playlist.m3u8"
     }
   ]
 }
