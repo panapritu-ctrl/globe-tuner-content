@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-16T04:47:36Z",
+  "updated": "2026-11-17T06:33:40Z",
   "region": "africa",
   "stations": [
     {
@@ -278,15 +278,6 @@
       "genre": "Talk",
       "countryCode": "CF",
       "streamUrl": "http://stream.radiondekeluka.org:8001/ndekeluka"
-    },
-    {
-      "id": "radio_maria_democratic_rep_congo_cg",
-      "title": "Radio Maria Democratic Rep. Congo",
-      "subtitle": "AAC+ 64kbps",
-      "location": "The Congo",
-      "genre": "Music",
-      "countryCode": "CG",
-      "streamUrl": "https://dreamsiteradiocp2.com/proxy/rmrepdemcongo?mp=/stream"
     },
     {
       "id": "rb_africa_radio_abidjan_0d7c9963",
@@ -5264,15 +5255,6 @@
       "language": "english",
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "radio_maria_uganda_ug_488ec7",
-      "title": "RADIO MARIA UGANDA",
-      "subtitle": "Catholic",
-      "location": "Uganda",
-      "genre": "News/Talk",
-      "countryCode": "UG",
-      "streamUrl": "http://dreamsiteradiocp.com:8052/stream"
     },
     {
       "id": "rb2_radiocity_ug_6e6a2c2c",
@@ -14087,6 +14069,78 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://ice.creacast.com/bipradio"
+    },
+    {
+      "id": "zaa_radio_gh_738c08d4",
+      "title": "Zaa Radio",
+      "subtitle": "Music",
+      "location": "Ghana",
+      "genre": "Music",
+      "countryCode": "GH",
+      "language": "english",
+      "clickCount": 7,
+      "bitrate": 128,
+      "streamUrl": "http://stream.zaaradio.com:60700/Zaa"
+    },
+    {
+      "id": "parliament_radio_zm_a5cb473a",
+      "title": "Parliament Radio",
+      "subtitle": "News",
+      "location": "Zambia",
+      "genre": "News",
+      "countryCode": "ZM",
+      "language": "english",
+      "clickCount": 7,
+      "bitrate": 48,
+      "streamUrl": "https://streamer.parliament.gov.zm:9446/;"
+    },
+    {
+      "id": "neat_fm_gh_b2b71baf",
+      "title": "Neat Fm",
+      "subtitle": "Entertainment",
+      "location": "Ghana",
+      "genre": "Entertainment",
+      "countryCode": "GH",
+      "language": "akan",
+      "clickCount": 6,
+      "bitrate": 64,
+      "streamUrl": "https://atunwadigital.streamguys1.com/neatfm"
+    },
+    {
+      "id": "soul_97_5_fm_gh_d64a337c",
+      "title": "Soul 97.5 fm",
+      "subtitle": "Radio",
+      "location": "Ghana",
+      "genre": "Radio",
+      "countryCode": "GH",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://stream.zeno.fm/0c2setohoirtv"
+    },
+    {
+      "id": "volum_3_cm_57297ed8",
+      "title": "Volum'3",
+      "subtitle": "African",
+      "location": "Cameroon",
+      "genre": "African",
+      "countryCode": "CM",
+      "language": "french",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://listen.radioking.com/radio/651205/stream/714685"
+    },
+    {
+      "id": "hills_fm_online_gh_ff3cf347",
+      "title": "Hills FM Online",
+      "subtitle": "General",
+      "location": "Ghana",
+      "genre": "General",
+      "countryCode": "GH",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://radiohost.ifastekpanel.com/listen/hills-fm-online/live"
     }
   ]
 }

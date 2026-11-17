@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-16T04:47:36Z",
+  "updated": "2026-11-17T06:33:40Z",
   "region": "europe",
   "part": 3,
   "of": 8,
@@ -2669,19 +2669,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_radio_qk_107_2fm_b5a2ba7f",
-      "title": "Radio QK 107.2FM",
-      "subtitle": "Radio Libre",
-      "imageUrl": "https://www.radioqk.org/favicon.ico",
-      "streamUrl": "http://212.231.231.169:8000/radioqk_master.mp3",
-      "location": "Spain",
-      "genre": "Radio Libre",
-      "countryCode": "ES",
-      "language": "asturian",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_radio_radio_network_7dd8b01e",
       "title": "Radio Radio Network",
       "subtitle": "Bossa, Chillout",
@@ -3436,19 +3423,6 @@
       "genre": "Radio",
       "countryCode": "ES",
       "streamUrl": "http://flucast31-h-cloud.flumotion.com/cope/rockfm-low.mp3"
-    },
-    {
-      "id": "rb2_rock_fm_espana_hi_res_ba787931",
-      "title": "Rock FM Espana Hi-Res",
-      "subtitle": "Rock",
-      "imageUrl": "",
-      "streamUrl": "https://rockfm-cope.flumotion.com/chunks.m3u8",
-      "location": "Spain",
-      "genre": "Rock",
-      "countryCode": "ES",
-      "language": "spanish",
-      "clickCount": 4,
-      "bitrate": 128
     },
     {
       "id": "rb2_rock_radioo_09ca95f0",
@@ -8396,19 +8370,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_cp2077_30_principales_106_9_e6f73107",
-      "title": "CP2077 - 30 PRINCIPALES 106.9",
-      "subtitle": "Radio",
-      "imageUrl": "https://www.nexusxiv.fr/media/radio/logos/106.9_30_PRINCIPALES.webp",
-      "streamUrl": "http://82.65.103.36:8000/30-principales",
-      "location": "France",
-      "genre": "Radio",
-      "countryCode": "FR",
-      "language": "english",
-      "clickCount": 2,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_cp2077_body_heat_radio_98_7_4c08f1cd",
       "title": "CP2077 - Body Heat Radio 98.7",
       "subtitle": "Radio",
@@ -8445,19 +8406,6 @@
       "countryCode": "FR",
       "language": "english",
       "clickCount": 1,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_cp2077_impulse_99_9_316b5c05",
-      "title": "CP2077 - Impulse 99.9",
-      "subtitle": "Radio",
-      "imageUrl": "https://www.nexusxiv.fr/media/radio/logos/99.9_Impulse.webp",
-      "streamUrl": "http://82.65.103.36:8000/impulse",
-      "location": "France",
-      "genre": "Radio",
-      "countryCode": "FR",
-      "language": "english",
-      "clickCount": 2,
       "bitrate": 128
     },
     {
@@ -26682,18 +26630,6 @@
       "streamUrl": "https://a6.asurahosting.com:6700/radio.mp3"
     },
     {
-      "id": "bbc_radio_northampton_uk_only_gb_3b8e7de2",
-      "title": "BBC Radio Northampton (UK Only)",
-      "subtitle": "Information",
-      "location": "The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "Information",
-      "countryCode": "GB",
-      "language": "english",
-      "clickCount": 7,
-      "bitrate": 339,
-      "streamUrl": "http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/cfs/bbc_radio_northampton.m3u8"
-    },
-    {
       "id": "mystery_train_radio_gb_3e560e48",
       "title": "Mystery Train Radio",
       "subtitle": "Americana",
@@ -26992,18 +26928,6 @@
       "clickCount": 4,
       "bitrate": 320,
       "streamUrl": "https://stream.onefm.es/listen/one_fm/onefm.mp3"
-    },
-    {
-      "id": "lomond_radio_gb_147a0c74",
-      "title": "Lomond Radio",
-      "subtitle": "Classic Hits",
-      "location": "The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "Classic Hits",
-      "countryCode": "GB",
-      "language": "english",
-      "clickCount": 4,
-      "bitrate": 0,
-      "streamUrl": "http://ukwesta.streaming.broadcast.radio:17210/lomondradio"
     },
     {
       "id": "all_out_80s_gb_2ec1afc3",
@@ -27868,6 +27792,126 @@
       "clickCount": 4,
       "bitrate": 192,
       "streamUrl": "https://halo.streamerr.co/listen/alexpepperlive/105.aac"
+    },
+    {
+      "id": "copesal_es_49c41aae",
+      "title": "copesal",
+      "subtitle": "News",
+      "location": "Spain",
+      "genre": "News",
+      "countryCode": "ES",
+      "language": null,
+      "clickCount": 10,
+      "bitrate": 56,
+      "streamUrl": "https://salamanca-copesedes-rrcast.flumotion.com/copesedes/salamanca-low.mp3"
+    },
+    {
+      "id": "bbc_radio_northampton_uk_only_gb_3b8e7de2",
+      "title": "BBC Radio Northampton (UK Only)",
+      "subtitle": "Information",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Information",
+      "countryCode": "GB",
+      "language": "english",
+      "clickCount": 9,
+      "bitrate": 339,
+      "streamUrl": "http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/cfs/bbc_radio_northampton.m3u8"
+    },
+    {
+      "id": "biterroise_fm_fr_933c9e12",
+      "title": "Biterroise-FM",
+      "subtitle": "Beziers",
+      "location": "France",
+      "genre": "Beziers",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 8,
+      "bitrate": 192,
+      "streamUrl": "https://stream10.vestaradio.com/Biterroise-FM"
+    },
+    {
+      "id": "music_radio_afrobeats_fr_858ebcca",
+      "title": "Music Radio Afrobeats",
+      "subtitle": "Ai Music",
+      "location": "France",
+      "genre": "Ai Music",
+      "countryCode": "FR",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 192,
+      "streamUrl": "https://radio.musicradio.ai/listen/music_radio_afrobeats/radio.mp3"
+    },
+    {
+      "id": "josema_retro_radio_es_75d338f5",
+      "title": "Josema Retro Radio",
+      "subtitle": "Arcade",
+      "location": "Spain",
+      "genre": "Arcade",
+      "countryCode": "ES",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 64,
+      "streamUrl": "https://radio.josema.zapto.org:8443/listen/retro/radio"
+    },
+    {
+      "id": "hits_music_radio_rock_es_d60690cd",
+      "title": "HITS MUSIC RADIO ROCK",
+      "subtitle": "Classic Rock",
+      "location": "Spain",
+      "genre": "Classic Rock",
+      "countryCode": "ES",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "https://stream.radiositemaker.com/s/hits-music-radio-rock.mp3"
+    },
+    {
+      "id": "abc_lounge_fr_0740f4bd",
+      "title": "ABC Lounge",
+      "subtitle": "Jazz Lounge",
+      "location": "France",
+      "genre": "Jazz Lounge",
+      "countryCode": "FR",
+      "language": "francaise",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://listen.openstream.co/4457/audio"
+    },
+    {
+      "id": "phaune_radio_fr_b13409f0",
+      "title": "Phaune radio",
+      "subtitle": "Sounds Of Nature",
+      "location": "France",
+      "genre": "Sounds Of Nature",
+      "countryCode": "FR",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://stream.phauneradio.com/phaune_128"
+    },
+    {
+      "id": "radio_rtl_2_pop_rock_station_fr_57fb5621",
+      "title": "Radio RTL 2 Pop Rock Station",
+      "subtitle": "Pop Rock",
+      "location": "France",
+      "genre": "Pop Rock",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://icecast.rtl2.fr/rtl2-1-44-128?listen=webCwsBCggNCQgLDQUGBAcGBg%20ou%20http://streaming.radio.rtl2.fr/rtl2-1-44-128?listen=webCwsBCggNCQgLDQUGBAcGBg"
+    },
+    {
+      "id": "bishop_fm_gb_5e86e34a",
+      "title": "Bishop FM",
+      "subtitle": "Local Radio",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Local Radio",
+      "countryCode": "GB",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://bishop.radioca.st:8792/stream"
     }
   ]
 }

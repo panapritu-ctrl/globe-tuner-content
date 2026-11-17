@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-16T04:47:36Z",
+  "updated": "2026-11-17T06:33:40Z",
   "region": "europe",
   "part": 7,
   "of": 8,
@@ -10946,15 +10946,6 @@
       "bitrate": 128
     },
     {
-      "id": "radio_zu_ro_70d48c",
-      "title": "Radio Zu",
-      "subtitle": "Top 40",
-      "location": "ROMANIA, Romania",
-      "genre": "Pop",
-      "countryCode": "RO",
-      "streamUrl": "http://zuicast.digitalag.ro:9420/zu"
-    },
-    {
       "id": "rb2_radiodoamna_bac_u_d4475853",
       "title": "RadioDoamna -Bacău",
       "subtitle": "Oldies, Pop",
@@ -18920,32 +18911,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_love_radio_104_9_fm_b54ab3f1",
-      "title": "Love Radio Нижний Новгород 104.9 FM",
-      "subtitle": "Love Radio, Music",
-      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250111_194150530.jpg?alt=media&token=bbd7a1cf-4f00-4331-9732-df851936dcb1",
-      "streamUrl": "http://microit.n340.com:9000/VgMv0WV17ZVx1uuo_12_love_128_reg_202",
-      "location": "The Russian Federation",
-      "genre": "Love Radio",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 2,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_love_radio_105_3_fm_4096282a",
-      "title": "Love Radio Санкт-Петербург 105.3 FM",
-      "subtitle": "105_3, 178",
-      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250118_182500328.jpg?alt=media&token=358adac3-5b69-4989-ace2-91622cb31ea7",
-      "streamUrl": "http://microit.n340.com:9000/VgMv0WV17ZVx1uuo_12_love_128_reg_45",
-      "location": "The Russian Federation",
-      "genre": "105_3",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_love_radio_88_6_fm_124021cd",
       "title": "Love Radio Симферополь 88.6 FM",
       "subtitle": "88_6, Krym",
@@ -26197,6 +26162,78 @@
       "clickCount": 6,
       "bitrate": 0,
       "streamUrl": "https://streaming.broadcast.radio/loop24"
+    },
+    {
+      "id": "radio_zu_ro_878c49bd",
+      "title": "Radio ZU",
+      "subtitle": "Adult Contemporary",
+      "location": "Romania",
+      "genre": "Adult Contemporary",
+      "countryCode": "RO",
+      "language": null,
+      "clickCount": 24,
+      "bitrate": 96,
+      "streamUrl": "http://zuicast.digitalag.ro:9420/zu"
+    },
+    {
+      "id": "24dubstep_pl_dropzone_radio_mp3_320_pl_fde8154a",
+      "title": "24Dubstep.pl || DropZone Radio - MP3 320",
+      "subtitle": "Radio",
+      "location": "Poland",
+      "genre": "Radio",
+      "countryCode": "PL",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 320,
+      "streamUrl": "https://stream.24dubstep.pl/listen/dubstep/mp3_best"
+    },
+    {
+      "id": "radio_q_pl_c18b40f2",
+      "title": "Radio Q",
+      "subtitle": "Informcje",
+      "location": "Poland",
+      "genre": "Informcje",
+      "countryCode": "PL",
+      "language": "polish",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "http://79.188.161.82:8020/;"
+    },
+    {
+      "id": "clasic_radio_popular_bucure_ti_ro_491062be",
+      "title": "Clasic Radio_Popular -București",
+      "subtitle": "Petrecere",
+      "location": "Romania",
+      "genre": "Petrecere",
+      "countryCode": "RO",
+      "language": "română",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://live.radioclasic.com/listen/radio_clasic_popular/live.mp3"
+    },
+    {
+      "id": "stil_rom_nia_radio_stil_popular_ro_91fa607e",
+      "title": "Stil România -Radio Stil Popular",
+      "subtitle": "Petrecere",
+      "location": "Romania",
+      "genre": "Petrecere",
+      "countryCode": "RO",
+      "language": "romania",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://popular.radiostill.ro/8176/stream"
+    },
+    {
+      "id": "radio_romanian_dance_ro_0f06e4ce",
+      "title": "Radio Romanian Dance",
+      "subtitle": "Radio",
+      "location": "Romania",
+      "genre": "Radio",
+      "countryCode": "RO",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 64,
+      "streamUrl": "https://asculta.radioromanian.net:8100/;?type=http&nocache=1741201580?x=1741201587896"
     }
   ]
 }

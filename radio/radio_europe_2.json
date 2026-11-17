@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-16T04:47:36Z",
+  "updated": "2026-11-17T06:33:40Z",
   "region": "europe",
   "part": 2,
   "of": 8,
@@ -25319,19 +25319,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_gran_via_radio_barcelona_70f4f461",
-      "title": "Gran Via Radio Barcelona",
-      "subtitle": "80S, 90S",
-      "imageUrl": "https://public-rf-upload.minhawebradio.net/246535/logo/53a76bd0c2369b2c46a538b72197b04c.png",
-      "streamUrl": "https://servidor14-3.brlogic.com:7066/live",
-      "location": "Catalunya, Spain",
-      "genre": "80S",
-      "countryCode": "ES",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_hitz_91_0_a2ec63c2",
       "title": "HITZ 91.0",
       "subtitle": "R&B/Urban",
@@ -33976,18 +33963,6 @@
       "streamUrl": "http://stream.laut.fm/black-tapes-on-air"
     },
     {
-      "id": "dr_p6_beat_aac_dk_29e901b6",
-      "title": "DR P6 BEAT (AAC)",
-      "subtitle": "Beat",
-      "location": "Denmark",
-      "genre": "Beat",
-      "countryCode": "DK",
-      "language": "danish",
-      "clickCount": 4,
-      "bitrate": 324,
-      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p6beat/masterab.m3u8"
-    },
-    {
       "id": "dr_p5_k_benhavn_aac_dk_590a0c64",
       "title": "DR P5 København (AAC)",
       "subtitle": "Regional Radio",
@@ -34936,16 +34911,124 @@
       "streamUrl": "https://luneburgerradio.sp.radio.fm/stream.mp3"
     },
     {
-      "id": "dr_p4_bornholm_aac_dk_543b0681",
-      "title": "DR P4 Bornholm (AAC)",
-      "subtitle": "Regional Radio",
+      "id": "swr_4_koblenz_de_7522d21d",
+      "title": "SWR 4 Koblenz",
+      "subtitle": "Pop",
+      "location": "Germany",
+      "genre": "Pop",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 6,
+      "bitrate": 96,
+      "streamUrl": "https://liveradio.swr.de/sw331ch/swr4ko/"
+    },
+    {
+      "id": "radio_psr_pop_dance_de_02104e17",
+      "title": "RADIO PSR Pop Dance",
+      "subtitle": "Alle Farben",
+      "location": "Germany",
+      "genre": "Alle Farben",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://regiocast.streamabc.net/regc-psr2000er1212201-mp3-192-6313640?sABC=6nson974%230%23nq59s62359o2nr38nsp8150610pq18p9%23fgernzf.enqvbcfe.qr&aw_0_1st.playerid=streams.radiopsr.de&amsparams=playerid:streams.radiopsr.de;skey:1794877812"
+    },
+    {
+      "id": "antenne_bayern_mallorca_party_de_3b8ca553",
+      "title": "Antenne Bayern Mallorca Party",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream.antenne.de/mallorca-party/stream/mp3"
+    },
+    {
+      "id": "drgnu_x_mas_rock_de_e78ba1cf",
+      "title": "DrGnu - X-Mas Rock",
+      "subtitle": "Christmas",
+      "location": "Germany",
+      "genre": "Christmas",
+      "countryCode": "DE",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "http://streams.radiobob.de/bob-christmas/mp3-192/mediaplayer/"
+    },
+    {
+      "id": "bravefm_rap_de_5913ee28",
+      "title": "BraveFM #rap",
+      "subtitle": "Bravefm",
+      "location": "Germany",
+      "genre": "Bravefm",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://stream.laut.fm/bravefmrap"
+    },
+    {
+      "id": "wdr3_hd_de_11e7f1fc",
+      "title": "WDR3 HD",
+      "subtitle": "Feature",
+      "location": "Germany",
+      "genre": "Feature",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 102,
+      "streamUrl": "https://wdr-radio.ard-mcdn.de/wdr/radio/wdr3hd/hls/master.m3u8"
+    },
+    {
+      "id": "regenbogen_2_rhein_neckar_aac_64_de_30f028dd",
+      "title": "Regenbogen 2 Rhein-Neckar aac-64",
+      "subtitle": "Classic Rock",
+      "location": "Germany",
+      "genre": "Classic Rock",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://stream.regenbogen2.de/rheinneckar/aac-64"
+    },
+    {
+      "id": "bit_express_digital_radio_erlangen_de_67e1d356",
+      "title": "Bit Express Digital Radio - Erlangen",
+      "subtitle": "Erlangen",
+      "location": "Germany",
+      "genre": "Erlangen",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 96000,
+      "streamUrl": "http://streaming.bitexpress.de:8010/heaac"
+    },
+    {
+      "id": "radio_psr_sinnlos_telefon_de_6ffb794c",
+      "title": "RADIO PSR Sinnlos-Telefon",
+      "subtitle": "Comedy",
+      "location": "Germany",
+      "genre": "Comedy",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://regiocast.streamabc.net/regc-psr2000er1212201-mp3-192-6313640?sABC=6nso7p11%230%23nq59s62359o2nr38nsp8150610pq18p9%23fgernzf.enqvbcfe.qr&aw_0_1st.playerid=streams.radiopsr.de&amsparams=playerid:streams.radiopsr.de;skey:1794866193"
+    },
+    {
+      "id": "dr_p6_beat_aac_dk_4d6e9dd5",
+      "title": "DR P6 BEAT (AAC)",
+      "subtitle": "Beat",
       "location": "Denmark",
-      "genre": "Regional Radio",
+      "genre": "Beat",
       "countryCode": "DK",
       "language": "danish",
       "clickCount": 4,
       "bitrate": 324,
-      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4bornholm/masterab.m3u8"
+      "streamUrl": "https://drliveradio2.akamaized.net/hls/live/2118698/p6/masterab.m3u8"
     }
   ]
 }

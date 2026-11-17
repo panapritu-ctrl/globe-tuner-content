@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-16T04:47:36Z",
+  "updated": "2026-11-17T06:33:40Z",
   "region": "europe",
   "part": 1,
   "of": 8,
@@ -15310,19 +15310,6 @@
       "language": "czech",
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_fajn_fresh_radio_5d37c750",
-      "title": "Fajn Fresh Radio",
-      "subtitle": "Dance, House",
-      "imageUrl": "https://radia.cz/favicon.ico",
-      "streamUrl": "http://mp3stream4.abradio.cz/fajnfresh64.mp3",
-      "location": "Czechia",
-      "genre": "Dance",
-      "countryCode": "CZ",
-      "language": "czech",
-      "clickCount": 1,
-      "bitrate": 64
     },
     {
       "id": "fajn_r_dio_cz_8c5750",
@@ -33182,18 +33169,6 @@
       "streamUrl": "https://stream.regenbogen.de/sommerhits/aac-128/radiobrowser"
     },
     {
-      "id": "munich_vinyl_radio_de_18b406f1",
-      "title": "Munich Vinyl Radio",
-      "subtitle": "Jazz",
-      "location": "Germany",
-      "genre": "Jazz",
-      "countryCode": "DE",
-      "language": "german",
-      "clickCount": 8,
-      "bitrate": 296,
-      "streamUrl": "https://stream.munichvinylradio.de/listen/mvr/stream.aac"
-    },
-    {
       "id": "radio_regenbogen_80er_pop_rock_de_ac526f89",
       "title": "Radio Regenbogen - 80er Pop-Rock",
       "subtitle": "80S",
@@ -34620,6 +34595,126 @@
       "clickCount": 4,
       "bitrate": 96,
       "streamUrl": "https://liveradio.swr.de/d245tgd/raka04/"
+    },
+    {
+      "id": "radio_unistar_by_f8039bf6",
+      "title": "Radio Unistar",
+      "subtitle": "Hits",
+      "location": "Belarus",
+      "genre": "Hits",
+      "countryCode": "BY",
+      "language": "belarusian",
+      "clickCount": 20,
+      "bitrate": 0,
+      "streamUrl": "https://edge2.usp.unistar.by/hls/unistar_main/96k.m3u8"
+    },
+    {
+      "id": "radio_in_de_e2aa655a",
+      "title": "Radio IN",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 7,
+      "bitrate": 128,
+      "streamUrl": "https://funkhaus-ingolstadt.stream24.net/radio-in.mp3"
+    },
+    {
+      "id": "pilot_fm_by_c0bb14a0",
+      "title": "Pilot FM",
+      "subtitle": "Pop",
+      "location": "Belarus",
+      "genre": "Pop",
+      "countryCode": "BY",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "https://edge2.usp.unistar.by/hls/unistar_pilotfm/96k.m3u8?session_id=60c1fba2-77d4-4180-ab07-4f162b47f3fc"
+    },
+    {
+      "id": "antena_sarajevo_ba_ee722cbc",
+      "title": "Antena Sarajevo",
+      "subtitle": "Radio",
+      "location": "Bosnia And Herzegovina",
+      "genre": "Radio",
+      "countryCode": "BA",
+      "language": "bosnian",
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "https://stream.rsgmedia.ba/listen/antena_sarajevo/radio.mp3"
+    },
+    {
+      "id": "sweet_radio_bg_6de12534",
+      "title": "Sweet Radio",
+      "subtitle": "Dance",
+      "location": "Bulgaria",
+      "genre": "Dance",
+      "countryCode": "BG",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 256,
+      "streamUrl": "https://stream.sweetradio.online:8001/live"
+    },
+    {
+      "id": "interhit_bg_715709e1",
+      "title": "Interhit",
+      "subtitle": "Pop Folk",
+      "location": "Bulgaria",
+      "genre": "Pop Folk",
+      "countryCode": "BG",
+      "language": "bulgarian",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://play.123castbg.eu:18425/stream"
+    },
+    {
+      "id": "rock_radio_metalomanie_cz_dd179266",
+      "title": "Rock Radio Metalomanie",
+      "subtitle": "Metal",
+      "location": "Czechia",
+      "genre": "Metal",
+      "countryCode": "CZ",
+      "language": "czech",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://ice2.radia.cz/metalomanie128.aac"
+    },
+    {
+      "id": "rock_radio_alternative_rock_cz_76469448",
+      "title": "Rock Radio Alternative Rock",
+      "subtitle": "Alternative Rock",
+      "location": "Czechia",
+      "genre": "Alternative Rock",
+      "countryCode": "CZ",
+      "language": "czech",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://ice2.radia.cz/znamkapunku128.aac"
+    },
+    {
+      "id": "pylot_fm_by_54493a8f",
+      "title": "Pylot FM",
+      "subtitle": "Radio",
+      "location": "Belarus",
+      "genre": "Radio",
+      "countryCode": "BY",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://edge1.usp.unistar.by/hls/unistar_pilotfm/96k.m3u8?session_id=mvmo6b6w-rxbyqldtul"
+    },
+    {
+      "id": "fm_by_7e0d62e2",
+      "title": "Барановичи FM",
+      "subtitle": "Adult Contemporary",
+      "location": "Belarus",
+      "genre": "Adult Contemporary",
+      "countryCode": "BY",
+      "language": "russian",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://radio.100fm.by:8000/100fm128"
     }
   ]
 }

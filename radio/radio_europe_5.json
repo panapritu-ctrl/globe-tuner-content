@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-16T04:47:36Z",
+  "updated": "2026-11-17T06:33:40Z",
   "region": "europe",
   "part": 5,
   "of": 8,
@@ -15062,19 +15062,6 @@
       "bitrate": 160
     },
     {
-      "id": "rb2_r_di_88_retro_9628590f",
-      "title": "Rádió 88 Retro",
-      "subtitle": "Hits, Retro",
-      "imageUrl": "https://www.radio88.hu/wp-content/uploads/2020/04/cropped-r88logo-180x180.png",
-      "streamUrl": "http://stream1.radio88.hu:8300/;stream",
-      "location": "Csongrád, Hungary",
-      "genre": "Hits",
-      "countryCode": "HU",
-      "language": "hungarian",
-      "clickCount": 3,
-      "bitrate": 160
-    },
-    {
       "id": "rb2_r_di_88_szeged_81d80aea",
       "title": "Rádió 88 Szeged",
       "subtitle": "Adult Contemporary, Local News",
@@ -19246,19 +19233,6 @@
       "language": "english",
       "clickCount": 0,
       "bitrate": 24
-    },
-    {
-      "id": "rb2_holy_forever_radio_6214813c",
-      "title": "Holy Forever Radio",
-      "subtitle": "Radio",
-      "imageUrl": "https://drive.google.com/file/d/1lYOAE4xPqBKLNPzPJsa-JRRc-Pyp6sLA/view?usp=sharing",
-      "streamUrl": "https://holyforever-radio.com:1045/stream",
-      "location": "Italy",
-      "genre": "Radio",
-      "countryCode": "IT",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
     },
     {
       "id": "rb2_hot_block_radio_debdc716",
@@ -26949,18 +26923,6 @@
       "streamUrl": "https://stream.frekvenci.com/space"
     },
     {
-      "id": "radio_forte_prenestino_it_3a17001a",
-      "title": "Radio Forte Prenestino",
-      "subtitle": "Community Radio",
-      "location": "Italy",
-      "genre": "Community Radio",
-      "countryCode": "IT",
-      "language": "italian",
-      "clickCount": 5,
-      "bitrate": 0,
-      "streamUrl": "https://blimp.streampunk.cc/_stream/RadioForte.ogg"
-    },
-    {
       "id": "bridge_fm_hungary_hu_6ac296bf",
       "title": "Bridge Fm Hungary",
       "subtitle": "Comedy",
@@ -27127,18 +27089,6 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "http://95.110.186.253:8020/magic.mp3"
-    },
-    {
-      "id": "rai_news_24_it_8831f2b9",
-      "title": "Rai News 24",
-      "subtitle": "News",
-      "location": "Italy",
-      "genre": "News",
-      "countryCode": "IT",
-      "language": "italian",
-      "clickCount": 11,
-      "bitrate": 0,
-      "streamUrl": "https://streamcdnb3-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_2400/chunklist.m3u8"
     },
     {
       "id": "indaco_it_37c0666e",
@@ -28315,6 +28265,198 @@
       "clickCount": 4,
       "bitrate": 192,
       "streamUrl": "https://strw3.openstream.co/939"
+    },
+    {
+      "id": "rai_news_24_it_8831f2b9",
+      "title": "Rai News 24",
+      "subtitle": "News",
+      "location": "Italy",
+      "genre": "News",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 18,
+      "bitrate": 0,
+      "streamUrl": "https://streamcdnb3-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_2400/chunklist.m3u8"
+    },
+    {
+      "id": "radio_sei_it_a1bdd3b1",
+      "title": "Radio Sei",
+      "subtitle": "Calcio",
+      "location": "Italy",
+      "genre": "Calcio",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 7,
+      "bitrate": 32,
+      "streamUrl": "https://icecast.ithost.it/radiosei.ogg"
+    },
+    {
+      "id": "vox_aria_english_it_b2a3e696",
+      "title": "VOX-ARIA English",
+      "subtitle": "Ai",
+      "location": "Italy",
+      "genre": "Ai",
+      "countryCode": "IT",
+      "language": "english",
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://stream.voxaria.live/listen/voxaria_en/diretta.mp3"
+    },
+    {
+      "id": "station_gr_5990b153",
+      "title": "Ράδιο Ειρήνη",
+      "subtitle": "Greek Music",
+      "location": "Greece",
+      "genre": "Greek Music",
+      "countryCode": "GR",
+      "language": "greek",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://i3.streams.ovh/sc/demo/stream"
+    },
+    {
+      "id": "velvet_rock_96_8_gr_44a82a65",
+      "title": "Velvet Rock 96.8",
+      "subtitle": "Rock",
+      "location": "Greece",
+      "genre": "Rock",
+      "countryCode": "GR",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://metromedia.live24.gr/velvetrockthess"
+    },
+    {
+      "id": "biggest_disco_radio_ie_485bc1b0",
+      "title": "Biggest Disco Radio",
+      "subtitle": "Radio",
+      "location": "Ireland",
+      "genre": "Radio",
+      "countryCode": "IE",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 64,
+      "streamUrl": "https://s5.radio.co/s823d25743/low"
+    },
+    {
+      "id": "poli_radio_it_60a2ec34",
+      "title": "POLI.RADIO",
+      "subtitle": "Radio",
+      "location": "Italy",
+      "genre": "Radio",
+      "countryCode": "IT",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 320,
+      "streamUrl": "https://streaming.poliradio.it/hq"
+    },
+    {
+      "id": "radio_bella_vita_it_d4efedff",
+      "title": "Radio Bella Vita",
+      "subtitle": "Music",
+      "location": "Italy",
+      "genre": "Music",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://ice09.fluidstream.net/bellavita.mp3"
+    },
+    {
+      "id": "92_3_gr_c8a2eb9f",
+      "title": "Ι.Μ. Παροναξίας 92.3",
+      "subtitle": "Christian",
+      "location": "Greece",
+      "genre": "Christian",
+      "countryCode": "GR",
+      "language": "greek",
+      "clickCount": 4,
+      "bitrate": 32,
+      "streamUrl": "http://live.onweb.gr:8212/;"
+    },
+    {
+      "id": "96_7_gr_dc56d0ce",
+      "title": "Δημοτική Ραδιοφωνία Λευκάδας 96.7",
+      "subtitle": "Municipal",
+      "location": "Greece",
+      "genre": "Municipal",
+      "countryCode": "GR",
+      "language": "greek",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://cast.magicstreams.gr:9164/stream?type=http&nocache=20"
+    },
+    {
+      "id": "93_gr_95eaf42f",
+      "title": "Καστοριά 93",
+      "subtitle": "Greek Folk",
+      "location": "Greece",
+      "genre": "Greek Folk",
+      "countryCode": "GR",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://i2.streams.ovh/sc/radiokastoria/stream"
+    },
+    {
+      "id": "keratea_gr_e10c1925",
+      "title": "Keratea",
+      "subtitle": "Greek Folk",
+      "location": "Greece",
+      "genre": "Greek Folk",
+      "countryCode": "GR",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 320,
+      "streamUrl": "https://i6.streams.ovh/sc/ioannis/stream"
+    },
+    {
+      "id": "station_gr_a385259c",
+      "title": "Καλοκαιράκι",
+      "subtitle": "Radio",
+      "location": "Greece",
+      "genre": "Radio",
+      "countryCode": "GR",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://eco2.onestreaming.com/proxy/kalokairaki/stream"
+    },
+    {
+      "id": "95_gr_a4167977",
+      "title": "Γλέντι 95",
+      "subtitle": "Greek Traditional",
+      "location": "Greece",
+      "genre": "Greek Traditional",
+      "countryCode": "GR",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://sh.onweb.gr/8554/;"
+    },
+    {
+      "id": "more_103_9_gr_e8268cf1",
+      "title": "More 103.9",
+      "subtitle": "Mainstream",
+      "location": "Greece",
+      "genre": "Mainstream",
+      "countryCode": "GR",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://free.rcast.net/68849"
+    },
+    {
+      "id": "station_gr_7bb38f88",
+      "title": "Μικρασιάτης",
+      "subtitle": "Greek Traditional",
+      "location": "Greece",
+      "genre": "Greek Traditional",
+      "countryCode": "GR",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream.radio.co/s584f20f45/listen"
     }
   ]
 }

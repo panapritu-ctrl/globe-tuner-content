@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-16T04:47:36Z",
+  "updated": "2026-11-17T06:33:40Z",
   "region": "asia",
   "part": 3,
   "of": 3,
@@ -12663,18 +12663,6 @@
       "streamUrl": "https://streamak0134.akamaized.net/live0134lh-5gst/_definst_/am855/chunklist.m3u8"
     },
     {
-      "id": "radio_pakistan_d_i_khan_mw_711_pk_a1e0c1f0",
-      "title": "Radio Pakistan D.I. Khan MW 711",
-      "subtitle": "Public Radio",
-      "location": "Pakistan",
-      "genre": "Public Radio",
-      "countryCode": "PK",
-      "language": null,
-      "clickCount": 5,
-      "bitrate": 96,
-      "streamUrl": "https://whmsonic.radio.gov.pk:7000/Dikhan"
-    },
-    {
       "id": "home_radio_legazpi_ph_a4dace2f",
       "title": "Home Radio Legazpi",
       "subtitle": "Radio",
@@ -15879,18 +15867,6 @@
       "streamUrl": "http://162.244.80.118:4900/stream.mp3"
     },
     {
-      "id": "hedgehog_radio_tr_f35118f9",
-      "title": "Hedgehog Radio",
-      "subtitle": "Atmospheric",
-      "location": "Türkiye",
-      "genre": "Atmospheric",
-      "countryCode": "TR",
-      "language": "english",
-      "clickCount": 4,
-      "bitrate": 0,
-      "streamUrl": "https://stream.hedgehogradio.com/radio.mp3"
-    },
-    {
       "id": "fark_radyo_tr_bafcb8a6",
       "title": "fark radyo",
       "subtitle": "Latin Jazz",
@@ -17737,6 +17713,54 @@
       "clickCount": 4,
       "bitrate": 3128,
       "streamUrl": "https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/playlist.m3u8"
+    },
+    {
+      "id": "astriel_radio_ph_fde0b64f",
+      "title": "Astriel Radio",
+      "subtitle": "Chill Station",
+      "location": "The Philippines",
+      "genre": "Chill Station",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "https://listen.smilemediaph.com/listen/astriel_radio/radio.mp3"
+    },
+    {
+      "id": "mcot_100_5_th_2bf73158",
+      "title": "MCOT 100.5",
+      "subtitle": "Radio",
+      "location": "Thailand",
+      "genre": "Radio",
+      "countryCode": "TH",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 2000,
+      "streamUrl": "https://lcdn.mcot.net/RadioLive/smil:fm1005_live.smil/playlist.m3u8"
+    },
+    {
+      "id": "halk_n_sesi_radyo_tr_24b6f414",
+      "title": "Halkın Sesi Radyo",
+      "subtitle": "Folk",
+      "location": "Türkiye",
+      "genre": "Folk",
+      "countryCode": "TR",
+      "language": "kurdish",
+      "clickCount": 5,
+      "bitrate": 64,
+      "streamUrl": "https://halkinse.80.yayin.com.tr/;"
+    },
+    {
+      "id": "bayram_fm_tr_10f4f240",
+      "title": "Bayram FM",
+      "subtitle": "Radio",
+      "location": "Türkiye",
+      "genre": "Radio",
+      "countryCode": "TR",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 96,
+      "streamUrl": "https://sslyayin.netyayin.net:10962/320.mp3"
     }
   ]
 }
