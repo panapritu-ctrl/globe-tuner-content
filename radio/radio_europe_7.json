@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-17T06:33:40Z",
+  "updated": "2026-11-18T05:57:57Z",
   "region": "europe",
   "part": 7,
   "of": 8,
@@ -25120,18 +25120,6 @@
       "streamUrl": "http://79.120.39.202:8004/postmetal"
     },
     {
-      "id": "fm_radio_manele_ro_ea4cab3d",
-      "title": "FM Radio Manele",
-      "subtitle": "Manele",
-      "location": "Romania",
-      "genre": "Manele",
-      "countryCode": "RO",
-      "language": "romanian",
-      "clickCount": 5,
-      "bitrate": 128,
-      "streamUrl": "http://a.fmradiomanele.ro:8054/stream"
-    },
-    {
       "id": "tequila_rom_nia_radio_dance_ro_bfa82f4f",
       "title": "Tequila România -Radio Dance",
       "subtitle": "Dance",
@@ -25586,18 +25574,6 @@
       "clickCount": 7,
       "bitrate": 128,
       "streamUrl": "https://colinde.radiotequila.ro/8989/stream"
-    },
-    {
-      "id": "radio_folclor_ro_6a108776",
-      "title": "Radio Folclor",
-      "subtitle": "Folclor",
-      "location": "Romania",
-      "genre": "Folclor",
-      "countryCode": "RO",
-      "language": "romanian",
-      "clickCount": 6,
-      "bitrate": 128,
-      "streamUrl": "https://ssl.omegahost.ro/8092/stream"
     },
     {
       "id": "radio_party_bucure_ti_ro_a3e2197b",
@@ -26234,6 +26210,18 @@
       "clickCount": 5,
       "bitrate": 64,
       "streamUrl": "https://asculta.radioromanian.net:8100/;?type=http&nocache=1741201580?x=1741201587896"
+    },
+    {
+      "id": "r_dio_flux_pt_a33b427b",
+      "title": "Rádio FLUX",
+      "subtitle": "Pop",
+      "location": "Portugal",
+      "genre": "Pop",
+      "countryCode": "PT",
+      "language": "english",
+      "clickCount": 6,
+      "bitrate": 192,
+      "streamUrl": "https://fluxmedia.radioca.st/stream/"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-17T06:33:40Z",
+  "updated": "2026-11-18T05:57:57Z",
   "region": "europe",
   "part": 2,
   "of": 8,
@@ -32175,18 +32175,6 @@
       "streamUrl": "https://audio.xxl-radio.de:8000/radio.mp3"
     },
     {
-      "id": "abyss_radio_de_fad59864",
-      "title": "Abyss Radio",
-      "subtitle": "Radio",
-      "location": "Germany",
-      "genre": "Radio",
-      "countryCode": "DE",
-      "language": null,
-      "clickCount": 3,
-      "bitrate": 256,
-      "streamUrl": "https://us3.internet-radio.com/proxy/abyssradio/stream"
-    },
-    {
       "id": "nerds_and_geeks_the_station_96kbps_de_1f65a046",
       "title": "Nerds and Geeks: THE STATION (96kbps)",
       "subtitle": "Chiptunes",
@@ -35029,6 +35017,90 @@
       "clickCount": 4,
       "bitrate": 324,
       "streamUrl": "https://drliveradio2.akamaized.net/hls/live/2118698/p6/masterab.m3u8"
+    },
+    {
+      "id": "dw_espa_ol_ld_de_4b8873b6",
+      "title": "DW Español (LD)",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/streamPlaylist.m3u8"
+    },
+    {
+      "id": "klassik_radio_barock_free_de_9d558ba8",
+      "title": "Klassik Radio Barock (free)",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "https://klassikr.streamabc.net/klassikr-barock-mp3-192-7751777?sABC=6npps976%230%230q4o84q69n1os2pp89016op34n8q3o88%23enqvbcynlre&aw_0_1st.playerid=radioplayer&amsparams=playerid:radioplayer;skey:1791818102"
+    },
+    {
+      "id": "baden_fm_onair_de_18e4388c",
+      "title": "baden.fm OnAir",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://frontend.streams.baden.fm/badenfm-onair?aggregator=badenfm_konsole"
+    },
+    {
+      "id": "radio_saw_region_harz_niedersachsen_de_3ed5141f",
+      "title": "radio SAW Region Harz/Niedersachsen",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://stream.radiosaw.de/saw-harz-niedersachsen/mp3-192"
+    },
+    {
+      "id": "mdr_th_ringen_mittel_und_westth_ringen_de_5cddbd6f",
+      "title": "MDR THÜRINGEN Mittel- und Westthüringen",
+      "subtitle": "Apolda",
+      "location": "Germany",
+      "genre": "Apolda",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 102,
+      "streamUrl": "https://radio-hls.mdr.de/hls/live/2112898/mdr-284300-0-hls/index.m3u8"
+    },
+    {
+      "id": "retro_f_rstenwalde_de_1d0bb434",
+      "title": "Retro Fürstenwalde",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://stream.laut.fm/retro"
+    },
+    {
+      "id": "r_sa_dieter_bohlen_stream_de_3eb12a05",
+      "title": "R.SA Dieter Bohlen Stream",
+      "subtitle": "Pop",
+      "location": "Germany",
+      "genre": "Pop",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://streams.rsa-sachsen.de/dieterbohlen/aac-64/streams.rsa-sachsen.de/"
     }
   ]
 }

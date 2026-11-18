@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-17T06:33:40Z",
+  "updated": "2026-11-18T05:57:57Z",
   "region": "europe",
   "part": 8,
   "of": 8,
@@ -18796,19 +18796,6 @@
       "countryCode": "UA"
     },
     {
-      "id": "rb2_k_pop_24_1748f193",
-      "title": "K-Pop 24",
-      "subtitle": "Kpop",
-      "imageUrl": "https://slukhay.com/uploads/2026/2/12/bfd86efc-78e8-4124-8815-c8849ca2a1b7.png",
-      "streamUrl": "https://lux.radio.tvstitch.com/k-pop-sd",
-      "location": "Kyiv, Ukraine",
-      "genre": "Kpop",
-      "countryCode": "UA",
-      "language": "ukrainian",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_kmusic_radio_82b93a24",
       "title": "KMusic Radio",
       "subtitle": "128 Kbit/S, Https",
@@ -25137,18 +25124,6 @@
       "streamUrl": "https://audio.gtaradio.net/4/hardcore"
     },
     {
-      "id": "anima_amoris_dub_techno_mix_ru_0e2c3d6c",
-      "title": "Anima Amoris Dub Techno Mix",
-      "subtitle": "Dub",
-      "location": "The Russian Federation",
-      "genre": "Dub",
-      "countryCode": "RU",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 0,
-      "streamUrl": "http://amoris.sknt.ru/dubtechnomix.mp3"
-    },
-    {
       "id": "null_fm_ru_feadb285",
       "title": "null fm",
       "subtitle": "Eclectic",
@@ -26191,6 +26166,138 @@
       "clickCount": 6,
       "bitrate": 0,
       "streamUrl": "https://abtvlive-lh.akamaized.net/hls/live/msl5/20001068/ab/radio/master.m3u8"
+    },
+    {
+      "id": "station_ru_78b43743",
+      "title": "ЭкоРадио",
+      "subtitle": "Local News",
+      "location": "The Russian Federation",
+      "genre": "Local News",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "http://online.ekoradio.ru/stream.mp3"
+    },
+    {
+      "id": "anima_amoris_dub_techno_mix_ru_0e2c3d6c",
+      "title": "Anima Amoris Dub Techno Mix",
+      "subtitle": "Dub",
+      "location": "The Russian Federation",
+      "genre": "Dub",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "http://amoris.sknt.ru/dubtechnomix.mp3"
+    },
+    {
+      "id": "radioapans_knattekanal_aac_320_se_1a2945e3",
+      "title": "Radioapans knattekanal (aac-320)",
+      "subtitle": "Children",
+      "location": "Sweden",
+      "genre": "Children",
+      "countryCode": "SE",
+      "language": "swedish",
+      "clickCount": 6,
+      "bitrate": 248,
+      "streamUrl": "https://live1.sr.se/knattekanalen-aac-320"
+    },
+    {
+      "id": "sr_p4_radio_malm_hus_se_dcedade3",
+      "title": "SR P4 Radio Malmöhus",
+      "subtitle": "Malmö",
+      "location": "Sweden",
+      "genre": "Malmö",
+      "countryCode": "SE",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 37,
+      "streamUrl": "https://ljud1-cdn.sr.se/lc/p4malm.m3u8"
+    },
+    {
+      "id": "europa_2_zvuk_ulice_sk_b616cc61",
+      "title": "Europa 2 - Zvuk ulice",
+      "subtitle": "House",
+      "location": "Slovakia",
+      "genre": "House",
+      "countryCode": "SK",
+      "language": "slovak",
+      "clickCount": 6,
+      "bitrate": 95,
+      "streamUrl": "https://stream.bauermedia.sk/zvuk-ulice-hi.aac"
+    },
+    {
+      "id": "get_radio_ru_8eb82d0c",
+      "title": "get.radio — Шансон (Без вокала)",
+      "subtitle": "Chanson",
+      "location": "The Russian Federation",
+      "genre": "Chanson",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://get-radio.sipout.ai/stream/chanson-instrumental.mp3"
+    },
+    {
+      "id": "avtoradio_stream_3_moscow_ru_a5210b11",
+      "title": "Авторадио - Москва (Avtoradio - Stream 3, Moscow)",
+      "subtitle": "Größte Pop-Hits Der 2000Er",
+      "location": "The Russian Federation",
+      "genre": "Größte Pop-Hits Der 2000Er",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "http://23.105.238.4/gpm-avtoradio495.aacp"
+    },
+    {
+      "id": "deep1_ru_45922900",
+      "title": "Deep1",
+      "subtitle": "Radio",
+      "location": "The Russian Federation",
+      "genre": "Radio",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://stream.deep1.ru/deep1aac"
+    },
+    {
+      "id": "station_ru_f57e2c25",
+      "title": "Русь",
+      "subtitle": "Поп-Музыка",
+      "location": "The Russian Federation",
+      "genre": "Поп-Музыка",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://radio-holding.ru:9433/rus"
+    },
+    {
+      "id": "p4_plus_se_cea52eca",
+      "title": "P4 Plus",
+      "subtitle": "Radio",
+      "location": "Sweden",
+      "genre": "Radio",
+      "countryCode": "SE",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 148,
+      "streamUrl": "https://live1.sr.se/p4plus-mp3-96"
+    },
+    {
+      "id": "sveriges_radio_p4_v_rmland_se_d9d3d2fd",
+      "title": "Sveriges Radio P4 Värmland",
+      "subtitle": "Radio",
+      "location": "Sweden",
+      "genre": "Radio",
+      "countryCode": "SE",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 156,
+      "streamUrl": "https://live1.sr.se/p4vrml-mp3-96"
     }
   ]
 }

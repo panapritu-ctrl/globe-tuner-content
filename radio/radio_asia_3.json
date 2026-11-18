@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-17T06:33:40Z",
+  "updated": "2026-11-18T05:57:57Z",
   "region": "asia",
   "part": 3,
   "of": 3,
@@ -6710,19 +6710,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_fenomen_pop_bd3e6e56",
-      "title": "FENOMEN POP",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://live.radyofenomen.com/fenomenpop/abr/fenomenpop/128/chunks.m3u8",
-      "location": "Türkiye",
-      "genre": "Radio",
-      "countryCode": "TR",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_fenomen_t_rk_acab9839",
       "title": "FENOMEN TÜRK",
       "subtitle": "Radio",
@@ -7038,19 +7025,6 @@
       "language": null,
       "clickCount": 6,
       "bitrate": 192
-    },
-    {
-      "id": "rb2_hayatmi_x_arabesk_a1cd74f5",
-      "title": "HAYATMİX ARABESK",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://radyo.yayin.com.tr:4078/mp3",
-      "location": "Türkiye",
-      "genre": "Radio",
-      "countryCode": "TR",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 128
     },
     {
       "id": "rb2_home_klasi_k_turkey_1c4363ac",
@@ -17583,18 +17557,6 @@
       "streamUrl": "https://radyohost.ugnhosting.com/cp/links.php?p=8018&m=pls"
     },
     {
-      "id": "y101fm_cebu_ph_72f638f1",
-      "title": "Y101fm Cebu",
-      "subtitle": "Radio",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 64,
-      "streamUrl": "http://209.126.124.126:8849/stream"
-    },
-    {
       "id": "a_k_k_y_open_shore_tr_22d054ad",
       "title": "Açık Kıyı | Open Shore",
       "subtitle": "Aegean",
@@ -17761,6 +17723,42 @@
       "clickCount": 5,
       "bitrate": 96,
       "streamUrl": "https://sslyayin.netyayin.net:10962/320.mp3"
+    },
+    {
+      "id": "all_radio_97_1_cebu_ph_cf4c3d09",
+      "title": "All Radio 97.1 Cebu",
+      "subtitle": "Music",
+      "location": "The Philippines",
+      "genre": "Music",
+      "countryCode": "PH",
+      "language": "english",
+      "clickCount": 6,
+      "bitrate": 64,
+      "streamUrl": "http://209.126.124.126:8855/stream"
+    },
+    {
+      "id": "therockradio_tr_748781e6",
+      "title": "TheRockRadio",
+      "subtitle": "Radio",
+      "location": "Türkiye",
+      "genre": "Radio",
+      "countryCode": "TR",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 250,
+      "streamUrl": "https://ssl4.radyotvonline.com/radyohome/therockradio.stream/playlist.m3u8"
+    },
+    {
+      "id": "radyovizyon_fm_93_0_tr_1599595f",
+      "title": "Radyovizyon FM 93.0",
+      "subtitle": "Ankara",
+      "location": "Türkiye",
+      "genre": "Ankara",
+      "countryCode": "TR",
+      "language": "turkish",
+      "clickCount": 5,
+      "bitrate": 32,
+      "streamUrl": "https://stream.netradyom.com/radio/9300/radio.mp3"
     }
   ]
 }

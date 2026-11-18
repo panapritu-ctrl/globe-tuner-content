@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-17T06:33:40Z",
+  "updated": "2026-11-18T05:57:57Z",
   "region": "europe",
   "part": 5,
   "of": 8,
@@ -5473,19 +5473,6 @@
       "countryCode": "GR",
       "language": "greek",
       "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_streamee_bouzoukia_6998e7a1",
-      "title": "Streamee Bouzoukia",
-      "subtitle": "Greek Folk Music",
-      "imageUrl": "https://streamee.com/wp-content/uploads/2023/02/Mood-10.jpg",
-      "streamUrl": "https://politismedia-sec3.live24.gr/pm-bouzoukia",
-      "location": "Athens, Greece",
-      "genre": "Greek Folk Music",
-      "countryCode": "GR",
-      "language": null,
-      "clickCount": 3,
       "bitrate": 128
     },
     {
@@ -27463,18 +27450,6 @@
       "streamUrl": "https://streamingv2.shoutcast.com/radio-zeta_48.aac"
     },
     {
-      "id": "su_urland_fm_is_0c98c038",
-      "title": "Suðurland FM",
-      "subtitle": "Country",
-      "location": "Iceland",
-      "genre": "Country",
-      "countryCode": "IS",
-      "language": "icelandic",
-      "clickCount": 4,
-      "bitrate": 0,
-      "streamUrl": "https://ice-11.spilarinn.is/xsudurlandfm"
-    },
-    {
       "id": "rocker_r_di_hu_106bcd97",
       "title": "Rocker Rádió",
       "subtitle": "Classic Rock",
@@ -28457,6 +28432,30 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://stream.radio.co/s584f20f45/listen"
+    },
+    {
+      "id": "r_di_88_retro_hu_bf09693e",
+      "title": "Rádió 88 Retro",
+      "subtitle": "Hits",
+      "location": "Hungary",
+      "genre": "Hits",
+      "countryCode": "HU",
+      "language": "hungarian",
+      "clickCount": 10,
+      "bitrate": 160,
+      "streamUrl": "http://stream1.radio88.hu:8300/;stream"
+    },
+    {
+      "id": "the_best_mix_wnsr_ie_229622a8",
+      "title": "The Best Mix WNSR",
+      "subtitle": "60S",
+      "location": "Ireland",
+      "genre": "60S",
+      "countryCode": "IE",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "https://streams.radiomast.io/7b61283b-ea0b-49d1-8045-1680591e8558"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-17T06:33:40Z",
+  "updated": "2026-11-18T05:57:57Z",
   "region": "europe",
   "part": 3,
   "of": 8,
@@ -17901,15 +17901,6 @@
       "countryCode": "FR"
     },
     {
-      "id": "rfi_monde_fr_960c68",
-      "title": "RFI Monde",
-      "subtitle": "News",
-      "location": "Île-de-France, France",
-      "genre": "News",
-      "countryCode": "FR",
-      "streamUrl": "http://live02.rfi.fr/rfimonde-64.mp3"
-    },
-    {
       "id": "rb2_rfi_musique_960730df",
       "title": "RFI Musique",
       "subtitle": "African, French",
@@ -26222,18 +26213,6 @@
       "streamUrl": "https://s4.radio.co/sb2dc1ab4f/listen"
     },
     {
-      "id": "bbc_somali_radio_gb_c328b53d",
-      "title": "BBC Somali Radio",
-      "subtitle": "News",
-      "location": "The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "News",
-      "countryCode": "GB",
-      "language": "english",
-      "clickCount": 4,
-      "bitrate": 101,
-      "streamUrl": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_somali_radio.m3u8"
-    },
-    {
       "id": "music_radio_reggae_fr_989103c2",
       "title": "Music Radio Reggae",
       "subtitle": "Ai Music",
@@ -27912,6 +27891,174 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "http://bishop.radioca.st:8792/stream"
+    },
+    {
+      "id": "bbc_somali_radio_gb_c328b53d",
+      "title": "BBC Somali Radio",
+      "subtitle": "News",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "News",
+      "countryCode": "GB",
+      "language": "english",
+      "clickCount": 8,
+      "bitrate": 101,
+      "streamUrl": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_somali_radio.m3u8"
+    },
+    {
+      "id": "ocionews_classics_es_fc6b7068",
+      "title": "OcioNews Classics",
+      "subtitle": "Classic Hits",
+      "location": "Spain",
+      "genre": "Classic Hits",
+      "countryCode": "ES",
+      "language": "spanish",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://radios.ocionews.com/listen/ocionews_classics/radio128.mp3"
+    },
+    {
+      "id": "cadena_ser_ja_n_es_de3f8719",
+      "title": "Cadena SER Jaén",
+      "subtitle": "Noticias",
+      "location": "Spain",
+      "genre": "Noticias",
+      "countryCode": "ES",
+      "language": "castellano. español",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_JAEN.mp3"
+    },
+    {
+      "id": "rainbow_radio_wales_kids_gb_eb9a0ae9",
+      "title": "Rainbow Radio Wales KIDS",
+      "subtitle": "Entertainment",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Entertainment",
+      "countryCode": "GB",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://stream.zeno.fm/3cbdm81pvxhvv"
+    },
+    {
+      "id": "soul_city_radio_uk_gb_c3debc6a",
+      "title": "Soul City Radio UK",
+      "subtitle": "Soul",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Soul",
+      "countryCode": "GB",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://sirius.nucast.co.uk/listen/soul_city_radio/radio.mp3"
+    },
+    {
+      "id": "ocionews_radio_es_25332041",
+      "title": "OcioNews Radio",
+      "subtitle": "Entertainment",
+      "location": "Spain",
+      "genre": "Entertainment",
+      "countryCode": "ES",
+      "language": "spanish",
+      "clickCount": 4,
+      "bitrate": 320,
+      "streamUrl": "https://radios.ocionews.com/listen/ocionews/radio320.mp3"
+    },
+    {
+      "id": "radio_ayre_venezuela_1_es_fb1b61ee",
+      "title": "Radio AYRE Venezuela 1",
+      "subtitle": "Generalist",
+      "location": "Spain",
+      "genre": "Generalist",
+      "countryCode": "ES",
+      "language": "spanish",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream.zeno.fm/gbpyparwsf9uv"
+    },
+    {
+      "id": "ayre2radio_es_95011ae4",
+      "title": "AYRE2Radio",
+      "subtitle": "Dance",
+      "location": "Spain",
+      "genre": "Dance",
+      "countryCode": "ES",
+      "language": "spanish",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream.zeno.fm/zsaq47hrvy8uv"
+    },
+    {
+      "id": "radiom7_es_a2ed95ea",
+      "title": "radiom7",
+      "subtitle": "Variety",
+      "location": "Spain",
+      "genre": "Variety",
+      "countryCode": "ES",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 320,
+      "streamUrl": "http://stream.zeno.fm/fqsakp8f0d0vv"
+    },
+    {
+      "id": "motiva_fm_es_9d87c690",
+      "title": "Motiva FM",
+      "subtitle": "Latin",
+      "location": "Spain",
+      "genre": "Latin",
+      "countryCode": "ES",
+      "language": "spanish",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream.guadigo.es/listen/motiva/motiva.mp3"
+    },
+    {
+      "id": "nrj_annecy_fr_136b309a",
+      "title": "NRJ Annecy",
+      "subtitle": "Nrj",
+      "location": "France",
+      "genre": "Nrj",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 4,
+      "bitrate": 64,
+      "streamUrl": "https://streaming.nrjaudio.fm/ouw85tsk6j4d"
+    },
+    {
+      "id": "ch16_channel_sixteen_fr_240e489e",
+      "title": "CH16 · Channel Sixteen",
+      "subtitle": "Disco",
+      "location": "France",
+      "genre": "Disco",
+      "countryCode": "FR",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://stream.channelsixteen.com/listen/ch16/radio.mp3"
+    },
+    {
+      "id": "bbc_radio_5_gb_3707c8ff",
+      "title": "BBC RADIO 5",
+      "subtitle": "Radio",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Radio",
+      "countryCode": "GB",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "http://as-hls-ww-live.akamaized.net/pool_89021708/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d96000.norewind.m3u8"
+    },
+    {
+      "id": "bbc_radio_cambridgeshire_gb_6224ed18",
+      "title": "BBC Radio Cambridgeshire",
+      "subtitle": "Radio",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Radio",
+      "countryCode": "GB",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "http://as-hls-ww-live.akamaized.net/pool_21074581/live/ww/bbc_radio_cambridge/bbc_radio_cambridge.isml/bbc_radio_cambridge-audio%3d96000.norewind.m3u8"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-17T06:33:40Z",
+  "updated": "2026-11-18T05:57:57Z",
   "region": "europe",
   "part": 6,
   "of": 8,
@@ -11668,19 +11668,6 @@
       "bitrate": 192
     },
     {
-      "id": "rb2_hitstream_fm_daa8bde9",
-      "title": "Hitstream FM",
-      "subtitle": "Radio",
-      "imageUrl": "https://www.hitstream.fm/static/logo-2a23f21b0d3facae9130b5718ae8842f.png",
-      "streamUrl": "https://stream.streamhits.nl/stream/1/",
-      "location": "The Netherlands",
-      "genre": "Radio",
-      "countryCode": "NL",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 192
-    },
-    {
       "id": "rb2_hitzzz_das_radio_e30ae0d6",
       "title": "Hitzzz das radio",
       "subtitle": "Classical",
@@ -16176,19 +16163,6 @@
       "countryCode": "NL",
       "language": "dutch",
       "clickCount": 0,
-      "bitrate": 320
-    },
-    {
-      "id": "rb2_radiobonita_e5e8cb81",
-      "title": "RadioBonita",
-      "subtitle": "Radio",
-      "imageUrl": "https://everestcastprohostingbudget.nl:1030/media/CACHE/images/djs/flamingo/bd607d7de3051a3469aa4725990413ef.jpg",
-      "streamUrl": "http://everestcastprohostingbudget.nl:1040/stream",
-      "location": "The Netherlands",
-      "genre": "Radio",
-      "countryCode": "NL",
-      "language": null,
-      "clickCount": 1,
       "bitrate": 320
     },
     {
@@ -23136,18 +23110,6 @@
       "streamUrl": "https://futura.fm/stream.ogg?ts=1723791202.627"
     },
     {
-      "id": "ini_radijas_lt_dd37f20f",
-      "title": "Žinių Radijas",
-      "subtitle": "Lietuvos Zinios",
-      "location": "Lithuania",
-      "genre": "Lietuvos Zinios",
-      "countryCode": "LT",
-      "language": "lithuanian",
-      "clickCount": 4,
-      "bitrate": 320,
-      "streamUrl": "http://netradio.ziniur.lt:8000/ziniur.mp3"
-    },
-    {
       "id": "rtv_noord_nl_67dac60d",
       "title": "RTV Noord",
       "subtitle": "Groningen",
@@ -25138,18 +25100,6 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "https://stream.jazzradiobymaestro.com/relaxin"
-    },
-    {
-      "id": "house_classics_nl_f8087a9c",
-      "title": "House Classics",
-      "subtitle": "Dance",
-      "location": "The Netherlands",
-      "genre": "Dance",
-      "countryCode": "NL",
-      "language": "english",
-      "clickCount": 3,
-      "bitrate": 128,
-      "streamUrl": "https://icy.cloudrad.io/ef63ee57"
     },
     {
       "id": "free_radio_conselve_it_5a5a6e3b",
@@ -27456,18 +27406,6 @@
       "streamUrl": "https://ssl.lega-c.nl/proxy/legacy/stream"
     },
     {
-      "id": "s_rlandsradioen_no_077ff736",
-      "title": "Sørlandsradioen",
-      "subtitle": "Radio",
-      "location": "Norway",
-      "genre": "Radio",
-      "countryCode": "NO",
-      "language": "norsk",
-      "clickCount": 6,
-      "bitrate": 160,
-      "streamUrl": "https://nettradio.sorlandsradioen.no/sorlandsradioen_hq"
-    },
-    {
       "id": "ivofm_lv_b300b250",
       "title": "IvoFm",
       "subtitle": "Radio",
@@ -27526,18 +27464,6 @@
       "clickCount": 4,
       "bitrate": 256,
       "streamUrl": "https://stream.discofactory.fm/listen/discofactory/radio.mp3"
-    },
-    {
-      "id": "harder_fm_the_hardersound_nl_6c240dbb",
-      "title": "HARDER-FM THE HARDERSOUND",
-      "subtitle": "Frenchcore",
-      "location": "The Netherlands",
-      "genre": "Frenchcore",
-      "countryCode": "NL",
-      "language": "dutch",
-      "clickCount": 4,
-      "bitrate": 128,
-      "streamUrl": "https://radio.harder-fm.nl/listen/radio/;"
     },
     {
       "id": "talsi_lounge_radio_lv_1ac5e019",
@@ -28126,6 +28052,90 @@
       "clickCount": 4,
       "bitrate": 192,
       "streamUrl": "https://stream1.slowradio.com/"
+    },
+    {
+      "id": "radiogs_it_0a6e9d86",
+      "title": "RadioGs",
+      "subtitle": "Radio",
+      "location": "Italy",
+      "genre": "Radio",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://stream.zeno.fm/f384h3c0r98uv"
+    },
+    {
+      "id": "ini_radijas_lt_dd37f20f",
+      "title": "Žinių Radijas",
+      "subtitle": "Lietuvos Zinios",
+      "location": "Lithuania",
+      "genre": "Lietuvos Zinios",
+      "countryCode": "LT",
+      "language": "lithuanian",
+      "clickCount": 6,
+      "bitrate": 320,
+      "streamUrl": "http://netradio.ziniur.lt:8000/ziniur.mp3"
+    },
+    {
+      "id": "neringa_fm_the_soundtrack_of_endless_holidays_lt_a2ca9ee8",
+      "title": "Neringa FM – The soundtrack of endless holidays",
+      "subtitle": "Balearic",
+      "location": "Lithuania",
+      "genre": "Balearic",
+      "countryCode": "LT",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://cast5.my-control-panel.com/proxy/mbadvent/neringafmnew_live"
+    },
+    {
+      "id": "radio_master_89_6_digital_it_c7d3bf9e",
+      "title": "Radio Master 89.6 digital",
+      "subtitle": "70 80 90",
+      "location": "Italy",
+      "genre": "70 80 90",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 5,
+      "bitrate": 320,
+      "streamUrl": "http://198.27.127.246:7394/;"
+    },
+    {
+      "id": "xerosradio_nl_842648fe",
+      "title": "XerosRadio",
+      "subtitle": "60S",
+      "location": "The Netherlands",
+      "genre": "60S",
+      "countryCode": "NL",
+      "language": "dutch",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://streaming.xeros-radio.nl/radio/8000/xerosradio"
+    },
+    {
+      "id": "radio_l_lillesand_no_09dfaec9",
+      "title": "Radio L Lillesand",
+      "subtitle": "Radio",
+      "location": "Norway",
+      "genre": "Radio",
+      "countryCode": "NO",
+      "language": "norwegian",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://stream.radio-l.no/rlihq"
+    },
+    {
+      "id": "radio_revolt_no_8052a937",
+      "title": "Radio Revolt",
+      "subtitle": "Local",
+      "location": "Norway",
+      "genre": "Local",
+      "countryCode": "NO",
+      "language": "norwegian",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://direkte.radiorevolt.no/revolt.aac"
     }
   ]
 }
