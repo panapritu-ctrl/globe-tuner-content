@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-18T05:57:57Z",
+  "updated": "2026-11-19T05:58:52Z",
   "region": "asia",
   "part": 3,
   "of": 3,
@@ -4064,15 +4064,6 @@
       "genre": "News",
       "countryCode": "QA",
       "streamUrl": "https://l3.itworkscdn.net/alarabyradiolive/alarabyradio_audio/icecast.audio"
-    },
-    {
-      "id": "aljazeera_arabic_qa",
-      "title": "Aljazeera Arabic",
-      "subtitle": "Aljazeera / الجزيرة",
-      "location": "Qatar",
-      "genre": "Music",
-      "countryCode": "QA",
-      "streamUrl": "https://live-hls-web-aja.getaj.net/AJA/index.m3u8"
     },
     {
       "id": "rb2_qabayan_radio_94_3_fm_flac_70a43176",
@@ -16849,18 +16840,6 @@
       "streamUrl": "https://usa4.fastcast4u.com/proxy/radyoizmirfm/mp3stream128"
     },
     {
-      "id": "hector_sa_7daa329b",
-      "title": "Hector",
-      "subtitle": "Radio",
-      "location": "Saudi Arabia",
-      "genre": "Radio",
-      "countryCode": "SA",
-      "language": null,
-      "clickCount": 5,
-      "bitrate": 96,
-      "streamUrl": "http://193.70.34.27:20330/groovy"
-    },
-    {
       "id": "cwk_th_2dc1064e",
       "title": "CWK",
       "subtitle": "Radio",
@@ -17449,18 +17428,6 @@
       "streamUrl": "http://us1.amfmph.com:8849/live"
     },
     {
-      "id": "ifm_davao_ph_8ed0ad43",
-      "title": "iFM Davao",
-      "subtitle": "Radio",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 96,
-      "streamUrl": "http://livestream.rmn.ph:8000/ifmdavao"
-    },
-    {
       "id": "glitchy_radio_ph_b8da2da1",
       "title": "Glitchy Radio",
       "subtitle": "Radio",
@@ -17759,6 +17726,78 @@
       "clickCount": 5,
       "bitrate": 32,
       "streamUrl": "https://stream.netradyom.com/radio/9300/radio.mp3"
+    },
+    {
+      "id": "fenomen_pop_tr_15e33b69",
+      "title": "FENOMEN POP",
+      "subtitle": "Radio",
+      "location": "Türkiye",
+      "genre": "Radio",
+      "countryCode": "TR",
+      "language": null,
+      "clickCount": 48,
+      "bitrate": 0,
+      "streamUrl": "https://live.radyofenomen.com/fenomenpop/abr/fenomenpop/128/chunks.m3u8"
+    },
+    {
+      "id": "aljazeera_qa_eddea153",
+      "title": "aljazeera",
+      "subtitle": "Classical",
+      "location": "Qatar",
+      "genre": "Classical",
+      "countryCode": "QA",
+      "language": null,
+      "clickCount": 15,
+      "bitrate": 6324,
+      "streamUrl": "https://live-hls-web-aja.getaj.net/AJA/index.m3u8"
+    },
+    {
+      "id": "insaf_radio_pk_03822bf2",
+      "title": "Insaf Radio",
+      "subtitle": "Radio",
+      "location": "Pakistan",
+      "genre": "Radio",
+      "countryCode": "PK",
+      "language": null,
+      "clickCount": 7,
+      "bitrate": 0,
+      "streamUrl": "https://cdn.voscast.com/resources/?key=4e1e2d7ac97ea7ad9493c529df2ab16c&c=wmp"
+    },
+    {
+      "id": "rmn_tacloban_ph_c005ba39",
+      "title": "RMN Tacloban",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 96,
+      "streamUrl": "https://livestream.rmn.ph/rmntacloban"
+    },
+    {
+      "id": "vizyon_pulse_tr_e72fb490",
+      "title": "Vizyon Pulse",
+      "subtitle": "Ankara",
+      "location": "Türkiye",
+      "genre": "Ankara",
+      "countryCode": "TR",
+      "language": "turkish",
+      "clickCount": 6,
+      "bitrate": 32,
+      "streamUrl": "https://stream.netradyom.com/radio/7050/radio.mp3"
+    },
+    {
+      "id": "hector_sa_7daa329b",
+      "title": "Hector",
+      "subtitle": "Radio",
+      "location": "Saudi Arabia",
+      "genre": "Radio",
+      "countryCode": "SA",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 96,
+      "streamUrl": "http://193.70.34.27:20330/groovy"
     }
   ]
 }

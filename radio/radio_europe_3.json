@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-18T05:57:57Z",
+  "updated": "2026-11-19T05:58:52Z",
   "region": "europe",
   "part": 3,
   "of": 8,
@@ -8380,19 +8380,6 @@
       "countryCode": "FR",
       "language": "english",
       "clickCount": 1,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_cp2077_dark_star_107_5_3f248145",
-      "title": "CP2077 - Dark Star 107.5",
-      "subtitle": "Radio",
-      "imageUrl": "https://www.nexusxiv.fr/media/radio/logos/107.5_Dark_Star.webp",
-      "streamUrl": "http://82.65.103.36:8000/dark-star",
-      "location": "France",
-      "genre": "Radio",
-      "countryCode": "FR",
-      "language": "english",
-      "clickCount": 0,
       "bitrate": 128
     },
     {
@@ -17914,19 +17901,6 @@
       "bitrate": 64
     },
     {
-      "id": "rb2_rfi_persian_96167407",
-      "title": "RFI Persian",
-      "subtitle": "Persian",
-      "imageUrl": "",
-      "streamUrl": "http://live02.rfi.fr/rfienpersan-64k.mp3",
-      "location": "France",
-      "genre": "Persian",
-      "countryCode": "FR",
-      "language": "persian",
-      "clickCount": 1,
-      "bitrate": 64
-    },
-    {
       "id": "rb2_rfi_portugais_3aae0dfe",
       "title": "RFI Portugais",
       "subtitle": "Radio",
@@ -26501,18 +26475,6 @@
       "streamUrl": "https://servidor15-2.brlogic.com:7292/live"
     },
     {
-      "id": "one_station_fr_d2ecd788",
-      "title": "One Station",
-      "subtitle": "Funk",
-      "location": "France",
-      "genre": "Funk",
-      "countryCode": "FR",
-      "language": null,
-      "clickCount": 5,
-      "bitrate": 128,
-      "streamUrl": "https://stream.onestation.fr/128.mp3"
-    },
-    {
       "id": "jordanne_fm_mauriac_fr_26a80757",
       "title": "Jordanne FM Mauriac",
       "subtitle": "Auvergne",
@@ -26609,18 +26571,6 @@
       "streamUrl": "https://a6.asurahosting.com:6700/radio.mp3"
     },
     {
-      "id": "mystery_train_radio_gb_3e560e48",
-      "title": "Mystery Train Radio",
-      "subtitle": "Americana",
-      "location": "The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "Americana",
-      "countryCode": "GB",
-      "language": "english",
-      "clickCount": 6,
-      "bitrate": 256,
-      "streamUrl": "https://streamer.radio.co/sf662f27c0/listen"
-    },
-    {
       "id": "itacafm_es_f2875b62",
       "title": "ItacaFM",
       "subtitle": "Radio",
@@ -26703,18 +26653,6 @@
       "clickCount": 4,
       "bitrate": 64,
       "streamUrl": "https://play.lrradio.uk/"
-    },
-    {
-      "id": "cope_madrid_fm_es_e696c5a4",
-      "title": "Cope Madrid FM",
-      "subtitle": "Radio",
-      "location": "Spain",
-      "genre": "Radio",
-      "countryCode": "ES",
-      "language": "spanish",
-      "clickCount": 86,
-      "bitrate": 64,
-      "streamUrl": "https://net1-cope-rrcast.flumotion.com/cope/net1-low.mp3"
     },
     {
       "id": "cope_alicante_es_019829e4",
@@ -27171,18 +27109,6 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://streaming.nrjaudio.fm/ousrg6m4z85f?origine=fluxradios&aw_0_1st.station=Nostalgie-Best-of-60"
-    },
-    {
-      "id": "rtve_24h_es_391eb505",
-      "title": "RTVE 24h",
-      "subtitle": "Radio",
-      "location": "Spain",
-      "genre": "Radio",
-      "countryCode": "ES",
-      "language": "castellano. español",
-      "clickCount": 29,
-      "bitrate": 3012,
-      "streamUrl": "https://ztnr.rtve.es/ztnr/1694255.m3u8"
     },
     {
       "id": "retro_music_radio_uk_gb_4273ac53",
@@ -28059,6 +27985,90 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "http://as-hls-ww-live.akamaized.net/pool_21074581/live/ww/bbc_radio_cambridge/bbc_radio_cambridge.isml/bbc_radio_cambridge-audio%3d96000.norewind.m3u8"
+    },
+    {
+      "id": "cope_asturias_es_3208ed6a",
+      "title": "COPE Asturias",
+      "subtitle": "Asturias",
+      "location": "Spain",
+      "genre": "Asturias",
+      "countryCode": "ES",
+      "language": "spanish",
+      "clickCount": 6,
+      "bitrate": 96,
+      "streamUrl": "https://wecast-bl01.flumotion.com/copesedes/asturias.mp3"
+    },
+    {
+      "id": "rlf_radio_loire_forez_fr_f02cdd77",
+      "title": "RLF, Radio Loire Forez",
+      "subtitle": "2000",
+      "location": "France",
+      "genre": "2000",
+      "countryCode": "FR",
+      "language": "francaise",
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://rlf-laplusbelleplaylist.ice.infomaniak.ch/radiorlf.mp3"
+    },
+    {
+      "id": "happyness_radio_fr_5db9a5c4",
+      "title": "Happyness Radio",
+      "subtitle": "00S",
+      "location": "France",
+      "genre": "00S",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://azuracast-scrs-2.foxoud.synology.me/listen/happyness_radio/player"
+    },
+    {
+      "id": "nrj_classic_dance_fr_2841dcec",
+      "title": "NRJ Classic Dance",
+      "subtitle": "Classics",
+      "location": "France",
+      "genre": "Classics",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://streaming.nrjaudio.fm/outpzv6ubafg"
+    },
+    {
+      "id": "music_radio_lounge_fr_b3071988",
+      "title": "Music Radio Lounge",
+      "subtitle": "Ai Music",
+      "location": "France",
+      "genre": "Ai Music",
+      "countryCode": "FR",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://radio.musicradio.ai/listen/music_radio_lounge/radio.mp3"
+    },
+    {
+      "id": "piccadilly_261_heritage_gb_17a4cc06",
+      "title": "Piccadilly 261 Heritage",
+      "subtitle": "Radio",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Radio",
+      "countryCode": "GB",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://visual.shoutca.st/stream/8166"
+    },
+    {
+      "id": "magna_radio_gb_a157f4ce",
+      "title": "Magna Radio",
+      "subtitle": "Adult Contemporary",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Adult Contemporary",
+      "countryCode": "GB",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://listen-magna-dmin.sharp-stream.com/magna.mp3"
     }
   ]
 }

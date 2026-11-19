@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-18T05:57:57Z",
+  "updated": "2026-11-19T05:58:52Z",
   "region": "europe",
   "part": 6,
   "of": 8,
@@ -26914,18 +26914,6 @@
       "streamUrl": "http://stream1.fzo.nu/studio.aac"
     },
     {
-      "id": "radio_amsterdam_noord_nl_0d363036",
-      "title": "RADIO AMSTERDAM NOORD",
-      "subtitle": "Radio",
-      "location": "The Netherlands",
-      "genre": "Radio",
-      "countryCode": "NL",
-      "language": "dutch",
-      "clickCount": 4,
-      "bitrate": 128,
-      "streamUrl": "https://cast5.asurahosting.com/proxy/radioams/stream"
-    },
-    {
       "id": "ziltradio_nl_025b3b92",
       "title": "ZILTradio",
       "subtitle": "70'S",
@@ -28136,6 +28124,42 @@
       "clickCount": 5,
       "bitrate": 128,
       "streamUrl": "https://direkte.radiorevolt.no/revolt.aac"
+    },
+    {
+      "id": "c_dance_retro_nl_5d504e14",
+      "title": "C-Dance RETRO",
+      "subtitle": "Radio",
+      "location": "The Netherlands",
+      "genre": "Radio",
+      "countryCode": "NL",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 192,
+      "streamUrl": "https://s45.myradiostream.com/18304/;?type=http&nocache=1728303081?0.29796721986116603"
+    },
+    {
+      "id": "radio_906_it_20dd2960",
+      "title": "Radio 906",
+      "subtitle": "Dab+",
+      "location": "Italy",
+      "genre": "Dab+",
+      "countryCode": "IT",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://stream.rcs.revma.com/e580f9f39yuvv"
+    },
+    {
+      "id": "mfm_brabant_oss_uden_bernheze_nl_4bfb4e9c",
+      "title": "MFM Brabant Oss-Uden-Bernheze",
+      "subtitle": "105.2 Fm",
+      "location": "The Netherlands",
+      "genre": "105.2 Fm",
+      "countryCode": "NL",
+      "language": "dutch",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://nlpo.stream.vip/mfmuden/mp3-192/nlpo.stream.vip/"
     }
   ]
 }

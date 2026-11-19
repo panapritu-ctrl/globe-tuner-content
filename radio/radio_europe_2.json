@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-18T05:57:57Z",
+  "updated": "2026-11-19T05:58:52Z",
   "region": "europe",
   "part": 2,
   "of": 8,
@@ -33879,18 +33879,6 @@
       "streamUrl": "https://stream.ffn.de/energybremen/mp3-192/livestream.mp3"
     },
     {
-      "id": "dr_p2_aac_dk_0aeeaf1d",
-      "title": "DR P2 (AAC)",
-      "subtitle": "Radio",
-      "location": "Denmark",
-      "genre": "Radio",
-      "countryCode": "DK",
-      "language": "danish",
-      "clickCount": 4,
-      "bitrate": 324,
-      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p2/masterab.m3u8"
-    },
-    {
       "id": "nordic_lodge_copenhagen_dk_27f714aa",
       "title": "nordic lodge copenhagen",
       "subtitle": "Radio",
@@ -35101,6 +35089,54 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "https://streams.rsa-sachsen.de/dieterbohlen/aac-64/streams.rsa-sachsen.de/"
+    },
+    {
+      "id": "regenbogen_2_metal_de_e2bffcf4",
+      "title": "REGENBOGEN 2 - METAL",
+      "subtitle": "Heavy Metal",
+      "location": "Germany",
+      "genre": "Heavy Metal",
+      "countryCode": "DE",
+      "language": "deutsch fränkisch",
+      "clickCount": 7,
+      "bitrate": 0,
+      "streamUrl": "http://stream.dar.fm/145322"
+    },
+    {
+      "id": "dress_fm_de_5466068e",
+      "title": "Dress FM",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://streams.fluxfm.de/nyir-ger/mp3-128/streams.fluxfm.de/"
+    },
+    {
+      "id": "rock_antenne_indie_de_0fc7970e",
+      "title": "Rock Antenne Indie",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream.rockantenne.de/indie/stream/mp3"
+    },
+    {
+      "id": "dr_p4_bornholm_aac_dk_543b0681",
+      "title": "DR P4 Bornholm (AAC)",
+      "subtitle": "Regional Radio",
+      "location": "Denmark",
+      "genre": "Regional Radio",
+      "countryCode": "DK",
+      "language": "danish",
+      "clickCount": 4,
+      "bitrate": 324,
+      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4bornholm/masterab.m3u8"
     }
   ]
 }

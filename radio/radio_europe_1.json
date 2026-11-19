@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-18T05:57:57Z",
+  "updated": "2026-11-19T05:58:52Z",
   "region": "europe",
   "part": 1,
   "of": 8,
@@ -34345,18 +34345,6 @@
       "streamUrl": "http://s17.myradiostream.com:13366/;stream.mp3"
     },
     {
-      "id": "station_bg_9d071438",
-      "title": "БНР – Радио Благоевград",
-      "subtitle": "Public Radio",
-      "location": "Bulgaria",
-      "genre": "Public Radio",
-      "countryCode": "BG",
-      "language": "bulgarian",
-      "clickCount": 7,
-      "bitrate": 36,
-      "streamUrl": "http://stream.bnr.bg:8035/radio-blagoevgrad.aac"
-    },
-    {
       "id": "ffh_weihnachten_de_e87668e8",
       "title": "FFH+ WEIHNACHTEN",
       "subtitle": "Radio",
@@ -34787,6 +34775,66 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "https://stream.bigfm.de/xmas/mp3-128/radiobrowser"
+    },
+    {
+      "id": "radio_sal_kulthits_de_739c180d",
+      "title": "Radio Salü Kulthits",
+      "subtitle": "80S",
+      "location": "Germany",
+      "genre": "80S",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 9,
+      "bitrate": 128,
+      "streamUrl": "http://internetradio.salue.de:8000/top100.mp3"
+    },
+    {
+      "id": "i_love_radio_2010_throwback_de_6ff0ed9f",
+      "title": "I Love Radio 2010 Throwback",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 8,
+      "bitrate": 192,
+      "streamUrl": "https://ilm.stream18.radiohost.de/ilm_ilove2010throwbacks_mp3-192?upd-meta&upd-scheme=https&_art=dD0xNzk0ODc2ODEwJmQ9YmZjZWM0MTEyMDU2NzBkMTRmOTU"
+    },
+    {
+      "id": "harmony_national_de_8dbd69c8",
+      "title": "Harmony National",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 47,
+      "streamUrl": "https://mp3.harmonyfm.de/harmonyfm/livestream.aac"
+    },
+    {
+      "id": "obi_an_radio_mostar_ba_385c9f5a",
+      "title": "Običan Radio - Mostar",
+      "subtitle": "Radio",
+      "location": "Bosnia And Herzegovina",
+      "genre": "Radio",
+      "countryCode": "BA",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream.leftor.com/proxy/obicanin/stream/;stream.mp3"
+    },
+    {
+      "id": "fred_film_radio_bg_4f34943f",
+      "title": "Fred Film Radio(Български език)",
+      "subtitle": "Culture",
+      "location": "Bulgaria",
+      "genre": "Culture",
+      "countryCode": "BG",
+      "language": "bulgarian",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://s10.webradio-hosting.com/proxy/fredradiobg/stream"
     }
   ]
 }

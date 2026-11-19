@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-18T05:57:57Z",
+  "updated": "2026-11-19T05:58:52Z",
   "region": "europe",
   "part": 5,
   "of": 8,
@@ -4780,19 +4780,6 @@
       "genre": "Radio",
       "countryCode": "GR",
       "streamUrl": "https://i5.streams.ovh:14030/live"
-    },
-    {
-      "id": "rb2_sevi_0be5e045",
-      "title": "Sevi",
-      "subtitle": "Folk, Greek",
-      "imageUrl": "http://resources.live24.gr/resources/images/stations/41ef3649-0fdc-4009-a3aa-d76418ccde35.png",
-      "streamUrl": "http://cast.streams.ovh:9035/live",
-      "location": "Greece",
-      "genre": "Folk",
-      "countryCode": "GR",
-      "language": "greek",
-      "clickCount": 1,
-      "bitrate": 128
     },
     {
       "id": "sfera_102_2_gr_9611d4",
@@ -15138,19 +15125,6 @@
       "language": "hungarian",
       "clickCount": 0,
       "bitrate": 320
-    },
-    {
-      "id": "rb2_r_hej_r_di_96f4105b",
-      "title": "Röhej rádió",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://listen.radioking.com/radio/641950/stream/704998",
-      "location": "Hungary",
-      "genre": "Radio",
-      "countryCode": "HU",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
     },
     {
       "id": "rb2_shine_fm_radio_74587181",
@@ -27030,18 +27004,6 @@
       "streamUrl": "https://streamingv2.shoutcast.com/rtl-1025-best_48.aac"
     },
     {
-      "id": "rtl_102_5_disco_mobile_48kbps_it_babdbdd6",
-      "title": "RTL 102.5 Disco [Mobile 48kbps]",
-      "subtitle": "Dance",
-      "location": "Italy",
-      "genre": "Dance",
-      "countryCode": "IT",
-      "language": "italian",
-      "clickCount": 6,
-      "bitrate": 96,
-      "streamUrl": "https://streamingv2.shoutcast.com/rtl-1025-doc_48.aac"
-    },
-    {
       "id": "radio_centrale_montorio_al_vomano_it_01d1adc6",
       "title": "Radio Centrale - Montorio al Vomano",
       "subtitle": "Classic Italian Pop",
@@ -27304,18 +27266,6 @@
       "clickCount": 5,
       "bitrate": 0,
       "streamUrl": "https://stream12.xdevel.com/audio40s975552-3306/stream/icecast.audio"
-    },
-    {
-      "id": "radiouno_it_851203cf",
-      "title": "RadioUno",
-      "subtitle": "Radio",
-      "location": "Italy",
-      "genre": "Radio",
-      "countryCode": "IT",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 0,
-      "streamUrl": "https://streamcdng2-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/radiounoita1/hls/radiounoita1_320/chunklist.m3u8"
     },
     {
       "id": "music_star_rolling_stones_it_9109e709",
@@ -28456,6 +28406,114 @@
       "clickCount": 5,
       "bitrate": 192,
       "streamUrl": "https://streams.radiomast.io/7b61283b-ea0b-49d1-8045-1680591e8558"
+    },
+    {
+      "id": "102_6_gr_e7f8d7b1",
+      "title": "Ραδιοκύματα 102.6",
+      "subtitle": "Greek Folk",
+      "location": "Greece",
+      "genre": "Greek Folk",
+      "countryCode": "GR",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://sh.onweb.gr/8702/stream"
+    },
+    {
+      "id": "cool_106_8_gr_18103bf4",
+      "title": "Cool 106.8",
+      "subtitle": "Pop",
+      "location": "Greece",
+      "genre": "Pop",
+      "countryCode": "GR",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://sh.onweb.gr/8826/stream?cb=1792956290600"
+    },
+    {
+      "id": "alpha_news_106_2_gr_6b4da23d",
+      "title": "Alpha News 106.2",
+      "subtitle": "Radio",
+      "location": "Greece",
+      "genre": "Radio",
+      "countryCode": "GR",
+      "language": "greek",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://antares.dribbcast.com/proxy/alpha1062?mp=/stream"
+    },
+    {
+      "id": "93_5_gr_032e0f59",
+      "title": "Ξάνθη 93.5",
+      "subtitle": "Cultural",
+      "location": "Greece",
+      "genre": "Cultural",
+      "countryCode": "GR",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://stream.myip.gr/proxy/radioxanthi/live"
+    },
+    {
+      "id": "la_vita_radio_gr_bec3c3a9",
+      "title": "La Vita Radio",
+      "subtitle": "Greek Folk",
+      "location": "Greece",
+      "genre": "Greek Folk",
+      "countryCode": "GR",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://mcr.streams.gr/listen/lavitaradio"
+    },
+    {
+      "id": "larissa_deejay_95_7_gr_f20b38e2",
+      "title": "Larissa DeeJay 95.7",
+      "subtitle": "Radio",
+      "location": "Greece",
+      "genre": "Radio",
+      "countryCode": "GR",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://a6.asurahosting.com:7030/radio.mp3"
+    },
+    {
+      "id": "94_2_gr_403a8571",
+      "title": "Χώρος 94.2",
+      "subtitle": "Rock",
+      "location": "Greece",
+      "genre": "Rock",
+      "countryCode": "GR",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://xoros.samos.aegean.gr/stream?1792959015622"
+    },
+    {
+      "id": "brian_daly_ie_65953e07",
+      "title": "BRIAN DALY",
+      "subtitle": "Community Radio",
+      "location": "Ireland",
+      "genre": "Community Radio",
+      "countryCode": "IE",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://uksoutha.streaming.broadcast.radio:28140/lifefm"
+    },
+    {
+      "id": "mixlive_net_psybient_sunset_ie_69a7507c",
+      "title": "MixLive.net - Psybient Sunset",
+      "subtitle": "Darkpsy",
+      "location": "Ireland",
+      "genre": "Darkpsy",
+      "countryCode": "IE",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://listen.openstream.co/6517/audio"
     }
   ]
 }
