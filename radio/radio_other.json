@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-19T05:58:52Z",
+  "updated": "2026-11-20T05:58:33Z",
   "region": "other",
   "stations": [
     {
@@ -6718,18 +6718,6 @@
       "streamUrl": "http://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_919_AAC48.aac"
     },
     {
-      "id": "rfi_afrique_fr_47a1fda6",
-      "title": "RFI-Afrique",
-      "subtitle": "France Médias Monde",
-      "location": "France",
-      "genre": "France Médias Monde",
-      "countryCode": "FR",
-      "language": "french",
-      "clickCount": 18,
-      "bitrate": 96,
-      "streamUrl": "http://live02.rfi.fr/rfiafrique-96k.mp3"
-    },
-    {
       "id": "972_costabrava_es_ff4bd02f",
       "title": "972'CostaBrava",
       "subtitle": "Ambient Lounge",
@@ -7256,18 +7244,6 @@
       "clickCount": 7,
       "bitrate": 128,
       "streamUrl": "https://streaming.nrjaudio.fm/our7rmvukkaq"
-    },
-    {
-      "id": "chaos_fm_gb_f14b27c3",
-      "title": "Chaos FM",
-      "subtitle": "78S",
-      "location": "The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "78S",
-      "countryCode": "GB",
-      "language": "english",
-      "clickCount": 7,
-      "bitrate": 192,
-      "streamUrl": "https://chaosfm.com:8443/stream"
     },
     {
       "id": "90_7_k_love_us_e5950a91",
@@ -10628,18 +10604,6 @@
       "clickCount": 6,
       "bitrate": 128,
       "streamUrl": "http://hydra.cdnstream.com/1552_128?cb=71750.mp3"
-    },
-    {
-      "id": "wgn_720_chicago_il_us_50fe5662",
-      "title": "WGN 720 Chicago, IL",
-      "subtitle": "Chicago",
-      "location": "The United States Of America",
-      "genre": "Chicago",
-      "countryCode": "US",
-      "language": "english",
-      "clickCount": 6,
-      "bitrate": 64,
-      "streamUrl": "http://18.204.34.32/wgnam-wgnammp3-ibc2?session-id=5454f628e56b230ad5744422f4dce0c0"
     },
     {
       "id": "wgn_radio_720_us_254d2be9",
@@ -23650,18 +23614,6 @@
       "streamUrl": "https://streaming.live365.com/a40386"
     },
     {
-      "id": "wdve_102_5_pittsburgh_pa_us_f58c5329",
-      "title": "WDVE 102.5 Pittsburgh, PA",
-      "subtitle": "Classic Rock",
-      "location": "The United States Of America",
-      "genre": "Classic Rock",
-      "countryCode": "US",
-      "language": "english",
-      "clickCount": 4,
-      "bitrate": 0,
-      "streamUrl": "https://n1db-e2.revma.ihrhls.com/zc2017"
-    },
-    {
       "id": "highway_radio_hits_us_743e975f",
       "title": "Highway Radio Hits",
       "subtitle": "Classic Hits",
@@ -24178,18 +24130,6 @@
       "streamUrl": "https://icecast.kanm.org/listen"
     },
     {
-      "id": "bob_total_country_klci_us_1dbd8fcc",
-      "title": "BOB Total Country KLCI",
-      "subtitle": "Radio",
-      "location": "The United States Of America",
-      "genre": "Radio",
-      "countryCode": "US",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 48,
-      "streamUrl": "https://prod-52-91-75-207.amperwave.net/milestoneradio-klcifmmp3-ibc1?session-id=a2b64982ceb76d82e932eb22c862ac0d"
-    },
-    {
       "id": "gotradio_aaa_boulevard_us_007d5073",
       "title": "GotRadio - AAA Boulevard",
       "subtitle": "Aaa",
@@ -24200,18 +24140,6 @@
       "clickCount": 4,
       "bitrate": 64,
       "streamUrl": "https://pureplay.cdnstream1.com/6032_64.aac"
-    },
-    {
-      "id": "banana_101_5_wwbn_us_78bcff31",
-      "title": "Banana 101.5 WWBN",
-      "subtitle": "Alternative",
-      "location": "The United States Of America",
-      "genre": "Alternative",
-      "countryCode": "US",
-      "language": "english",
-      "clickCount": 4,
-      "bitrate": 64,
-      "streamUrl": "https://prod-54-224-105-89.amperwave.net/townsquare-wwbnfmaac-ibc3?"
     },
     {
       "id": "classic_alternative_villageradio_net_us_502726b6",
@@ -27248,6 +27176,150 @@
       "clickCount": 5,
       "bitrate": 128,
       "streamUrl": "https://stream.emergent.fm/stream"
+    },
+    {
+      "id": "station_us_815b5b5c",
+      "title": "美国中文电台-西雅图",
+      "subtitle": "Chinese",
+      "location": "The United States Of America",
+      "genre": "Chinese",
+      "countryCode": "US",
+      "language": "chinese",
+      "clickCount": 30,
+      "bitrate": 128,
+      "streamUrl": "http://kxparadio.serverroom.us:5852/stream.mp3"
+    },
+    {
+      "id": "emergent_fm_chillhop_coding_radio_us_3d4c2e5e",
+      "title": "Emergent.FM Chillhop Coding Radio",
+      "subtitle": "Ai News",
+      "location": "The United States Of America",
+      "genre": "Ai News",
+      "countryCode": "US",
+      "language": "english",
+      "clickCount": 15,
+      "bitrate": 128,
+      "streamUrl": "https://stream.emergent.fm/chillhop"
+    },
+    {
+      "id": "sonixus_radio_ch_f3e30a59",
+      "title": "SONIXUS Radio",
+      "subtitle": "Ambient",
+      "location": "Switzerland",
+      "genre": "Ambient",
+      "countryCode": "CH",
+      "language": "english",
+      "clickCount": 6,
+      "bitrate": 320,
+      "streamUrl": "https://radio.sonixus.live/stream.mp3"
+    },
+    {
+      "id": "1490_am_radio_chicago_weur_us_8eab52e3",
+      "title": "1490 AM Radio Chicago (WEUR)",
+      "subtitle": "Ethnic",
+      "location": "The United States Of America",
+      "genre": "Ethnic",
+      "countryCode": "US",
+      "language": "polish",
+      "clickCount": 6,
+      "bitrate": 320,
+      "streamUrl": "https://usa19.fastcast4u.com:3870/;"
+    },
+    {
+      "id": "activa_nashville_am_1240_fm_105_1_us_28d9d9e5",
+      "title": "Activa Nashville AM 1240 - FM 105.1",
+      "subtitle": "Banda",
+      "location": "The United States Of America",
+      "genre": "Banda",
+      "countryCode": "US",
+      "language": "spanish",
+      "clickCount": 6,
+      "bitrate": 64,
+      "streamUrl": "https://ice66.securenetsystems.net/WNVL"
+    },
+    {
+      "id": "matthew_seibel_skylord_us_19394c89",
+      "title": "Matthew Seibel Skylord",
+      "subtitle": "Aerospace",
+      "location": "The United States Of America",
+      "genre": "Aerospace",
+      "countryCode": "US",
+      "language": "english",
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://c7.radioboss.fm:8471/stream"
+    },
+    {
+      "id": "1_tubaskinny_us_9e18b525",
+      "title": "1-Tubaskinny",
+      "subtitle": "Jazz",
+      "location": "The United States Of America",
+      "genre": "Jazz",
+      "countryCode": "US",
+      "language": "american english",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://stream.laut.fm/1-tubaskinny"
+    },
+    {
+      "id": "radio_cafe_lepa_eeuu_fono_16787704169_dj_monkey_us_f7628777",
+      "title": "RADIO CAFE LEPA ( EEUU.)  fono +16787704169  DJ MONKEY",
+      "subtitle": "Alternative Rock",
+      "location": "The United States Of America",
+      "genre": "Alternative Rock",
+      "countryCode": "US",
+      "language": "bahasa indonesia",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://maxradio.azuracast.com.es:8000/CAFELEPA.mp3"
+    },
+    {
+      "id": "kazu_us_d2486a12",
+      "title": "KAZU",
+      "subtitle": "Public Radio",
+      "location": "The United States Of America",
+      "genre": "Public Radio",
+      "countryCode": "US",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://kazu.streamguys1.com/kazu.mp3"
+    },
+    {
+      "id": "kcyr_lp_101_5_kerrville_texas_us_20abf414",
+      "title": "KCYR-LP 101.5 Kerrville, Texas",
+      "subtitle": "Christian Contemporary",
+      "location": "The United States Of America",
+      "genre": "Christian Contemporary",
+      "countryCode": "US",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 32,
+      "streamUrl": "https://ice42.securenetsystems.net/KCYR"
+    },
+    {
+      "id": "chh1_powered_by_all_saints_radio_us_2c6e87ca",
+      "title": "CHH1 Powered by All Saints Radio",
+      "subtitle": "Christian",
+      "location": "The United States Of America",
+      "genre": "Christian",
+      "countryCode": "US",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://s20.reliastream.com/stream/8052"
+    },
+    {
+      "id": "yolo_life_is_like_a_dance_be_c871d7a0",
+      "title": "YOLO - Life is like a dance",
+      "subtitle": "Eurodance",
+      "location": "Belgium",
+      "genre": "Eurodance",
+      "countryCode": "BE",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://streamingv2.shoutcast.com/yolo-life-is-like-a-dance"
     }
   ]
 }

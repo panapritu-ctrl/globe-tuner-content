@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-19T05:58:52Z",
+  "updated": "2026-11-20T05:58:33Z",
   "region": "europe",
   "part": 3,
   "of": 8,
@@ -1666,19 +1666,6 @@
       "language": null,
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_bluesflac_47891e88",
-      "title": "Radio Bluesflac",
-      "subtitle": "Radio",
-      "imageUrl": "https://bluesflac.com/wp-content/uploads/2020/02/cropped-bluesflac1.png",
-      "streamUrl": "https://audio-edge-jfbmv.sin.d.radiomast.io/radioblues-flac?t=nightvision%3Fs%3D88baf5be-4b2d-416a-afc6-b0d9be7c9f1e&cachebuster=5213503296919065",
-      "location": "Spain",
-      "genre": "Radio",
-      "countryCode": "ES",
-      "language": null,
-      "clickCount": 3,
-      "bitrate": 1500
     },
     {
       "id": "rb2_radio_brand_5c6b7883",
@@ -5168,15 +5155,6 @@
       "bitrate": 320
     },
     {
-      "id": "kasari_fi_b302c0",
-      "title": "Kasari",
-      "subtitle": "Decades",
-      "location": "Finland",
-      "genre": "Decades",
-      "streamUrl": "https://stream-redirect.bauermedia.fi/kasari/kasari_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein",
-      "countryCode": "FI"
-    },
-    {
       "id": "rb2_kerhoradio_617baea8",
       "title": "Kerhoradio",
       "subtitle": "Ice-Hockey, Sport",
@@ -5253,19 +5231,6 @@
       "language": null,
       "clickCount": 2,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_nrj_1917621f",
-      "title": "NRJ",
-      "subtitle": "Pop",
-      "imageUrl": "https://w7.pngwing.com/pngs/469/239/png-transparent-nrj-group-nrj-hits-internet-radio-nrj-international-in-maintenance-text-fm-broadcasting-logo-thumbnail.png",
-      "streamUrl": "https://stream-redirect.bauermedia.fi/nrj/nrj_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein",
-      "location": "Uusimaa, Finland",
-      "genre": "Pop",
-      "countryCode": "FI",
-      "language": "finnish",
-      "clickCount": 4,
-      "bitrate": 64
     },
     {
       "id": "rb2_nightwish_b6280ede",
@@ -8419,19 +8384,6 @@
       "countryCode": "FR",
       "language": "english",
       "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_cp2077_the_dirge_101_9_015520c6",
-      "title": "CP2077 - The Dirge 101.9",
-      "subtitle": "Radio",
-      "imageUrl": "https://www.nexusxiv.fr/media/radio/logos/101.9_The_Dirge.webp",
-      "streamUrl": "http://82.65.103.36:8000/the-dirge",
-      "location": "France",
-      "genre": "Radio",
-      "countryCode": "FR",
-      "language": "english",
-      "clickCount": 1,
       "bitrate": 128
     },
     {
@@ -26295,18 +26247,6 @@
       "streamUrl": "http://s3.radio.co/s143113707/listen"
     },
     {
-      "id": "bbc_arabic_radio_gb_fdfbc1fe",
-      "title": "BBC Arabic Radio",
-      "subtitle": "Arabic",
-      "location": "The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "Arabic",
-      "countryCode": "GB",
-      "language": "arabic",
-      "clickCount": 13,
-      "bitrate": 101,
-      "streamUrl": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_arabic_radio.m3u8"
-    },
-    {
       "id": "easy_radio_network_gb_a87b0258",
       "title": "Easy Radio Network",
       "subtitle": "Beautiful Music",
@@ -26509,18 +26449,6 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "http://streamplus55.leonex.de:10636/stream/1/"
-    },
-    {
-      "id": "france24_arabic_fr_a2a63f6f",
-      "title": "France24 arabic",
-      "subtitle": "News",
-      "location": "France",
-      "genre": "News",
-      "countryCode": "FR",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 1095,
-      "streamUrl": "http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8"
     },
     {
       "id": "melodia_fr_quence_passion_fr_fec43e91",
@@ -28069,6 +27997,66 @@
       "clickCount": 4,
       "bitrate": 192,
       "streamUrl": "https://listen-magna-dmin.sharp-stream.com/magna.mp3"
+    },
+    {
+      "id": "france24_arabic_fr_a2a63f6f",
+      "title": "France24 arabic",
+      "subtitle": "News",
+      "location": "France",
+      "genre": "News",
+      "countryCode": "FR",
+      "language": null,
+      "clickCount": 7,
+      "bitrate": 1095,
+      "streamUrl": "http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8"
+    },
+    {
+      "id": "ici_alsace_fr_ff3eae10",
+      "title": "Ici Alsace",
+      "subtitle": "France",
+      "location": "France",
+      "genre": "France",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "http://direct.francebleu.fr/live/fbalsace-midfi.mp3"
+    },
+    {
+      "id": "dj_garx_radio_es_1465b48a",
+      "title": "DJ GarX Radio",
+      "subtitle": "24/7",
+      "location": "Spain",
+      "genre": "24/7",
+      "countryCode": "ES",
+      "language": "spanish",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://djgarxradio.com/stream.mp3"
+    },
+    {
+      "id": "gay_radio_fr_fr_460a28fb",
+      "title": "Gay Radio FR",
+      "subtitle": "Gay",
+      "location": "France",
+      "genre": "Gay",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://srv.webradiomanager.fr:1285/stream?x=1745084131773"
+    },
+    {
+      "id": "public_health_radio_italiano_fr_c72fe49b",
+      "title": "Public Health Radio Italiano",
+      "subtitle": "Health",
+      "location": "France",
+      "genre": "Health",
+      "countryCode": "FR",
+      "language": "italian",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://publichealthradioit.ice.infomaniak.ch/publichealthradioit-128.mp3"
     }
   ]
 }

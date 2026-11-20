@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-19T05:58:52Z",
+  "updated": "2026-11-20T05:58:33Z",
   "region": "europe",
   "part": 7,
   "of": 8,
@@ -12000,19 +12000,6 @@
       "bitrate": 160
     },
     {
-      "id": "rb2_transilvania_statia_oradea_97_2_fm_558c5171",
-      "title": "Transilvania -statia Oradea 97.2 FM",
-      "subtitle": "Local News, Local Radio",
-      "imageUrl": "https://radiotransilvania.ro/images/transi/logo-green-large3.png",
-      "streamUrl": "https://stream2.radiotransilvania.ro/Oradea",
-      "location": "Romania",
-      "genre": "Local News",
-      "countryCode": "RO",
-      "language": "romania",
-      "clickCount": 0,
-      "bitrate": 192
-    },
-    {
       "id": "rb2_transilvania_statia_satu_mare_99_0_fm_7dffd02b",
       "title": "Transilvania -statia Satu Mare 99.0 FM",
       "subtitle": "Local News, Local Radio",
@@ -17789,19 +17776,6 @@
       "language": "язык: русский",
       "clickCount": 0,
       "bitrate": 64
-    },
-    {
-      "id": "rb2_east_of_russia_d7424e90",
-      "title": "East of Russia (Восток России)",
-      "subtitle": "Rock, Soft Rock",
-      "imageUrl": "https://vostoknews.ru/webapp/img/android-icon-128x128.png",
-      "streamUrl": "http://109.70.24.182:8000/stream/1/",
-      "location": "Khabarovsk, The Russian Federation",
-      "genre": "Rock",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 2,
-      "bitrate": 256
     },
     {
       "id": "echo_online_ru_e502de",
@@ -24628,18 +24602,6 @@
       "streamUrl": "http://dance.radiotequila.ro:7000/;stream.nsv"
     },
     {
-      "id": "naxi_jazz_radio_rs_5452c2c5",
-      "title": "Naxi Jazz Radio",
-      "subtitle": "Radio",
-      "location": "Serbia",
-      "genre": "Radio",
-      "countryCode": "RS",
-      "language": "serbian",
-      "clickCount": 5,
-      "bitrate": 128,
-      "streamUrl": "https://naxidigital-jazz128ssl.streaming.rs:8172/;stream.nsv"
-    },
-    {
       "id": "naxi_blues_rs_1cabca89",
       "title": "Naxi Blues",
       "subtitle": "Rock",
@@ -26222,6 +26184,90 @@
       "clickCount": 5,
       "bitrate": 320,
       "streamUrl": "http://stream1.dabcom.pl:8000/rdnmpl_hq.mp3"
+    },
+    {
+      "id": "105_4_cascais_o_rock_da_linha_pt_ccbf4df6",
+      "title": "105.4 Cascais - O Rock da Linha",
+      "subtitle": "Rock",
+      "location": "Portugal",
+      "genre": "Rock",
+      "countryCode": "PT",
+      "language": "portuguese",
+      "clickCount": 14,
+      "bitrate": 256,
+      "streamUrl": "https://play.radioregional.pt:8220/stream/2/;;/stream.mp3"
+    },
+    {
+      "id": "get_radio_ru_8a76124b",
+      "title": "get.radio — Лоу-фай",
+      "subtitle": "Lofi",
+      "location": "The Russian Federation",
+      "genre": "Lofi",
+      "countryCode": "RU",
+      "language": "english",
+      "clickCount": 12,
+      "bitrate": 0,
+      "streamUrl": "https://get-radio.sipout.ai/stream/lofi.mp3"
+    },
+    {
+      "id": "anima_amoris_deep_tech_house_ru_1c9bcb95",
+      "title": "Anima Amoris Deep Tech House",
+      "subtitle": "Radio",
+      "location": "The Russian Federation",
+      "genre": "Radio",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 11,
+      "bitrate": 0,
+      "streamUrl": "https://amoris.sknt.ru/deeptech.mp3"
+    },
+    {
+      "id": "radio_hot_style_ro_ae1fa292",
+      "title": "Radio Hot Style",
+      "subtitle": "Dance",
+      "location": "Romania",
+      "genre": "Dance",
+      "countryCode": "RO",
+      "language": "romanian",
+      "clickCount": 8,
+      "bitrate": 128,
+      "streamUrl": "http://mp3.radiohot.ro:8000/stream"
+    },
+    {
+      "id": "anima_amoris_electronic_styles_ru_9bb51049",
+      "title": "Anima Amoris Electronic Styles",
+      "subtitle": "Radio",
+      "location": "The Russian Federation",
+      "genre": "Radio",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 7,
+      "bitrate": 0,
+      "streamUrl": "https://amoris.sknt.ru/electronic.mp3"
+    },
+    {
+      "id": "fm_radio_manele_ro_ea4cab3d",
+      "title": "FM Radio Manele",
+      "subtitle": "Manele",
+      "location": "Romania",
+      "genre": "Manele",
+      "countryCode": "RO",
+      "language": "romanian",
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "http://a.fmradiomanele.ro:8054/stream"
+    },
+    {
+      "id": "antishop_radio_rs_6932821c",
+      "title": "Antishop radio",
+      "subtitle": "Radio",
+      "location": "Serbia",
+      "genre": "Radio",
+      "countryCode": "RS",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "http://stream.zeno.fm/ua1623xz198uv"
     }
   ]
 }

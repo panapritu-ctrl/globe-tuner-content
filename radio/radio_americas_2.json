@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-19T05:58:52Z",
+  "updated": "2026-11-20T05:58:33Z",
   "region": "americas",
   "part": 2,
   "of": 5,
@@ -1198,19 +1198,6 @@
       "countryCode": "CA",
       "language": null,
       "clickCount": 0,
-      "bitrate": 80
-    },
-    {
-      "id": "rb2_cfnj_99_1_saint_gabriel_de_brandon_qc_962d5f17",
-      "title": "CFNJ 99,1 Saint-Gabriel-de-Brandon, QC",
-      "subtitle": "Music, Talk",
-      "imageUrl": "https://cfnj.net/wp-content/uploads/2020/10/cropped-favicon-cfnj-180x180.png",
-      "streamUrl": "http://66.70.178.194:9700/stream",
-      "location": "Quebec, Canada",
-      "genre": "Music",
-      "countryCode": "CA",
-      "language": "french",
-      "clickCount": 2,
       "bitrate": 80
     },
     {
@@ -14224,19 +14211,6 @@
       "genre": "Radio",
       "streamUrl": "https://sp001.servidoresph.com:7035/stream",
       "countryCode": "CL"
-    },
-    {
-      "id": "rb2_radio_municipal_iquique_28de5900",
-      "title": "Radio Municipal Iquique",
-      "subtitle": "Radio",
-      "imageUrl": "https://radiomunicipal.cl/wp-content/uploads/2022/06/logo-comprimido.png",
-      "streamUrl": "https://audio.streaminghd.cl:2000/stream/radiomunicipaliquique/;stream.mp3",
-      "location": "Tarapaca, Chile",
-      "genre": "Radio",
-      "countryCode": "CL",
-      "language": "spanish",
-      "clickCount": 0,
-      "bitrate": 96
     },
     {
       "id": "rb2_radio_municipal_iquique_93_3_fm_6d46dbd7",
@@ -28215,18 +28189,6 @@
       "streamUrl": "https://rogers-hls.leanstream.co/rogers/van1130.stream/playlist.m3u8"
     },
     {
-      "id": "13c_cl_268da850",
-      "title": "13C",
-      "subtitle": "Cultura",
-      "location": "Chile",
-      "genre": "Cultura",
-      "countryCode": "CL",
-      "language": "español chile",
-      "clickCount": 4,
-      "bitrate": 98,
-      "streamUrl": "https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/5c915497c6fd7c085b29169d/playlist.m3u8"
-    },
-    {
       "id": "primera_stereo_99_2_hatonuevo_la_guajira_co_d5983c49",
       "title": "primera stereo 99.2 hatonuevo la guajira",
       "subtitle": "Clásicos En Español",
@@ -28741,6 +28703,90 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "http://radiocimarrona.out.airtime.pro:8000/radiocimarrona_a"
+    },
+    {
+      "id": "cina_radio_ca_056c98f6",
+      "title": "Cina radio",
+      "subtitle": "Music",
+      "location": "Canada",
+      "genre": "Music",
+      "countryCode": "CA",
+      "language": "hindi",
+      "clickCount": 10,
+      "bitrate": 32,
+      "streamUrl": "https://ice8.securenetsystems.net/CINA"
+    },
+    {
+      "id": "punkrockradio_ca_ca_7a5555f2",
+      "title": "PunkRockRadio.ca",
+      "subtitle": "Post-Punk",
+      "location": "Canada",
+      "genre": "Post-Punk",
+      "countryCode": "CA",
+      "language": "french",
+      "clickCount": 9,
+      "bitrate": 192,
+      "streamUrl": "https://stream.radio.co/s904013bb1/listen"
+    },
+    {
+      "id": "sportsnet_650_vancouver_ca_bbcc8804",
+      "title": "Sportsnet 650 Vancouver",
+      "subtitle": "650",
+      "location": "Canada",
+      "genre": "650",
+      "countryCode": "CA",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "http://rogers-hls.leanstream.co/rogers/van650.stream/playlist.m3u8"
+    },
+    {
+      "id": "kracradio_rock_ca_9eb20bd1",
+      "title": "KracRadio Rock",
+      "subtitle": "Alternative",
+      "location": "Canada",
+      "genre": "Alternative",
+      "countryCode": "CA",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "https://stream.kracradio.com/listen/rock/radio.mp3"
+    },
+    {
+      "id": "cjam_ca_2f0595f1",
+      "title": "CJAM",
+      "subtitle": "Radio",
+      "location": "Canada",
+      "genre": "Radio",
+      "countryCode": "CA",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://cast5.my-control-panel.com/proxy/lorne/stream.aac"
+    },
+    {
+      "id": "cfmi_rock_101_1_vancouver_ca_08cb9b4d",
+      "title": "CFMI Rock 101.1 Vancouver",
+      "subtitle": "Radio",
+      "location": "Canada",
+      "genre": "Radio",
+      "countryCode": "CA",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://live.leanstream.co/CFMIFM-MP3"
+    },
+    {
+      "id": "hala_canada_radio_ca_51fd9d3b",
+      "title": "Hala Canada Radio - راديو هلا كندا",
+      "subtitle": "Arabic",
+      "location": "Canada",
+      "genre": "Arabic",
+      "countryCode": "CA",
+      "language": "arabic",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://streams.radio.co/s338fb47f3/listen"
     }
   ]
 }

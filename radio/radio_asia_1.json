@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-19T05:58:52Z",
+  "updated": "2026-11-20T05:58:33Z",
   "region": "asia",
   "part": 1,
   "of": 3,
@@ -17041,19 +17041,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_station_2e0244b5",
-      "title": "承德交通文艺广播",
-      "subtitle": "Culture, Music",
-      "imageUrl": "http://pic.qingting.fm/2016/0704/20160704100252695.png",
-      "streamUrl": "https://lhttp.qtfm.cn/live/15318216/64k.mp3",
-      "location": "Hopei, China",
-      "genre": "Culture",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_station_5a2f4a1c",
       "title": "承德旅游生活广播",
       "subtitle": "Music, Pop",
@@ -26555,18 +26542,6 @@
       "streamUrl": "https://live.ximalaya.com/radio-first-page-app/live/1834/64.m3u8?transcode=ts"
     },
     {
-      "id": "station_cn_a7c73d3f",
-      "title": "青岛故事广播",
-      "subtitle": "Old Age",
-      "location": "China",
-      "genre": "Old Age",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 5,
-      "bitrate": 0,
-      "streamUrl": "http://video10.qtv.com.cn/zhibogsgb/manifest.m3u8"
-    },
-    {
       "id": "exclusively_chris_rea_ae_b246038a",
       "title": "Exclusively Chris Rea",
       "subtitle": "Blues",
@@ -27609,6 +27584,102 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://stream.zeno.fm/i9w3sw7wtwttv"
+    },
+    {
+      "id": "station_cn_6baccc2c",
+      "title": "青岛经典音乐广播",
+      "subtitle": "Radio",
+      "location": "China",
+      "genre": "Radio",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 7,
+      "bitrate": 0,
+      "streamUrl": "http://live.ximalaya.com/radio-first-page-app/live/1853/64.m3u8"
+    },
+    {
+      "id": "baku_hit_fm_az_e8e0a888",
+      "title": "Baku Hit FM",
+      "subtitle": "Hits",
+      "location": "Azerbaijan",
+      "genre": "Hits",
+      "countryCode": "AZ",
+      "language": "azerbaijani",
+      "clickCount": 6,
+      "bitrate": 192,
+      "streamUrl": "https://stream.bakuradioalliance.az/hitfm"
+    },
+    {
+      "id": "fm90_6_cn_c6fafc72",
+      "title": "平湖广播 FM90.6（直播间视频流）",
+      "subtitle": "Full Service",
+      "location": "China",
+      "genre": "Full Service",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "http://l.cztvcloud.com/channels/lantian/SXpinghu4/720p.m3u8"
+    },
+    {
+      "id": "thmr_cn_c8c3796d",
+      "title": "东方音乐电台 THMR",
+      "subtitle": "Japanese",
+      "location": "China",
+      "genre": "Japanese",
+      "countryCode": "CN",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 320,
+      "streamUrl": "https://radio.yunmoan.cn/radio/touhou/320k"
+    },
+    {
+      "id": "106fm_az_2c09be8f",
+      "title": "106fm",
+      "subtitle": "Pop",
+      "location": "Azerbaijan",
+      "genre": "Pop",
+      "countryCode": "AZ",
+      "language": "azer",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://audiostr.atv.az/106fm"
+    },
+    {
+      "id": "baku_retro_fm_az_d233cdf3",
+      "title": "Baku Retro FM",
+      "subtitle": "Retro",
+      "location": "Azerbaijan",
+      "genre": "Retro",
+      "countryCode": "AZ",
+      "language": "azer",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://stream.bakuradioalliance.az/retrofm"
+    },
+    {
+      "id": "station_cn_fe3c278b",
+      "title": "宣城交通文艺广播",
+      "subtitle": "Entertainment",
+      "location": "China",
+      "genre": "Entertainment",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://lhttp-hw.qtfm.cn/live/5023/64k.mp3"
+    },
+    {
+      "id": "station_cn_dc5a57f8",
+      "title": "湖南潇湘之声",
+      "subtitle": "Information",
+      "location": "China",
+      "genre": "Information",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "http://a.live.hnradio.com/zxpd/radio120k_zxpd.m3u8?auth_key=1588751208-0-0-3440555a157a45fdcbdb7840504278c5"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-19T05:58:52Z",
+  "updated": "2026-11-20T05:58:33Z",
   "region": "oceania",
   "stations": [
     {
@@ -3616,19 +3616,6 @@
       "streamUrl": "http://abm22.com.au:8000/CONTAINER52",
       "location": "Sydney NSW, Australia",
       "genre": "Dance",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_australian_digital_radio_network_dance_h_7eba1c42",
-      "title": "Australian Digital Radio Network - Dance Hits of 2011 (MP3)",
-      "subtitle": "2011, Dance",
-      "imageUrl": "http://www.australiandigitalradio.com/favicon.ico",
-      "streamUrl": "http://abm21.com.au:8000/CONTAINER34",
-      "location": "Sydney NSW, Australia",
-      "genre": "2011",
       "countryCode": "AU",
       "language": "english",
       "clickCount": 0,
@@ -15432,18 +15419,6 @@
       "streamUrl": "https://stream.tripleafm.com.au//"
     },
     {
-      "id": "australian_digital_radio_network_1990s_alternative_mp3_au_ce018dcb",
-      "title": "Australian Digital Radio Network - 1990s Alternative (MP3)",
-      "subtitle": "1990S",
-      "location": "Australia",
-      "genre": "1990S",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 4,
-      "bitrate": 128,
-      "streamUrl": "http://abm21.com.au:8000/CONTAINER91"
-    },
-    {
       "id": "real_radio_oamaru_nz_05e19125",
       "title": "Real Radio Oamaru",
       "subtitle": "Radio",
@@ -16056,18 +16031,6 @@
       "streamUrl": "https://streaming.abc-cdn.net.au/audio/hls/localnewcastle.m3u8?source=web"
     },
     {
-      "id": "listnr_cooling_fan_white_noise_soundscapes_au_161fe3af",
-      "title": "LiSTNR - Cooling Fan (White Noise) [Soundscapes]",
-      "subtitle": "Cooling Fan",
-      "location": "Australia",
-      "genre": "Cooling Fan",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 4,
-      "bitrate": 0,
-      "streamUrl": "http://wz0liw.scahw.com.au/live/fan_128.stream/playlist.m3u8"
-    },
-    {
       "id": "australian_digital_radio_network_abba_au_d5d8fdb4",
       "title": "Australian Digital Radio Network - ABBA",
       "subtitle": "Abba",
@@ -16222,18 +16185,6 @@
       "clickCount": 4,
       "bitrate": 115,
       "streamUrl": "https://streaming.abc-cdn.net.au/audio/hls/localfarnorth.m3u8?source=web"
-    },
-    {
-      "id": "listnr_chill_jazz_hls_au_712feb70",
-      "title": "LiSTNR - Chill Jazz (HLS)",
-      "subtitle": "Chill Jazz",
-      "location": "Australia",
-      "genre": "Chill Jazz",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 4,
-      "bitrate": 0,
-      "streamUrl": "http://wz0liw.scahw.com.au/live/chill-jazz.stream/playlist.m3u8"
     },
     {
       "id": "australian_digital_radio_network_coldplay_mp3_au_0526b4b8",
@@ -16474,6 +16425,102 @@
       "clickCount": 4,
       "bitrate": 115,
       "streamUrl": "https://streaming.abc-cdn.net.au/audio/hls/ramulti.m3u8?source=web"
+    },
+    {
+      "id": "eternic_au_2402c1bc",
+      "title": "ETERNIC",
+      "subtitle": "Ambient",
+      "location": "Australia",
+      "genre": "Ambient",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 7,
+      "bitrate": 192,
+      "streamUrl": "https://radio.eternic.com/listen/eternic/radio.mp3"
+    },
+    {
+      "id": "rnz_national_nz_4a7471f4",
+      "title": "RNZ National",
+      "subtitle": "Talk & Community",
+      "location": "New Zealand",
+      "genre": "Talk & Community",
+      "countryCode": "NZ",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "https://radionz.streamguys1.com/national/national/national/national-mainstream/chunks.m3u8"
+    },
+    {
+      "id": "abc_radio_north_and_west_au_6bcabbce",
+      "title": "ABC Radio North and West",
+      "subtitle": "Local",
+      "location": "Australia",
+      "genre": "Local",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 115,
+      "streamUrl": "https://streaming.abc-cdn.net.au/audio/hls/localnorthandwest.m3u8?source=web"
+    },
+    {
+      "id": "listnr_50s_hits_hls_au_ee3ffb90",
+      "title": "LiSTNR - 50s Hits (HLS)",
+      "subtitle": "1950S",
+      "location": "Australia",
+      "genre": "1950S",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "http://wz0liw.scahw.com.au/live/50s-hits.stream/playlist.m3u8"
+    },
+    {
+      "id": "totally_radio_throwbacks_au_d3a2cd2d",
+      "title": "Totally Radio - Throwbacks",
+      "subtitle": "Radio",
+      "location": "Australia",
+      "genre": "Radio",
+      "countryCode": "AU",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/TOTALLY_RADIO_THROWBACKS_S01.mp3"
+    },
+    {
+      "id": "abc_radio_eyre_peninsula_au_5d573f47",
+      "title": "ABC Radio Eyre Peninsula",
+      "subtitle": "Local",
+      "location": "Australia",
+      "genre": "Local",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 115,
+      "streamUrl": "https://streaming.abc-cdn.net.au/audio/hls/localeyre.m3u8?source=web"
+    },
+    {
+      "id": "killer_klown_clan_radio_au_58e415bf",
+      "title": "Killer Klown Clan Radio",
+      "subtitle": "Hip Hop",
+      "location": "Australia",
+      "genre": "Hip Hop",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://listen.radioking.com/radio/957501/stream/1029366"
+    },
+    {
+      "id": "australian_digital_radio_network_the_beatles_mp3_au_2ea29d4c",
+      "title": "Australian Digital Radio Network - The Beatles (MP3)",
+      "subtitle": "The Beatles",
+      "location": "Australia",
+      "genre": "The Beatles",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://abm21.com.au:8000/CONTAINER142"
     }
   ]
 }

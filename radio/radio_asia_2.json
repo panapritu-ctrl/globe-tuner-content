@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-19T05:58:52Z",
+  "updated": "2026-11-20T05:58:33Z",
   "region": "asia",
   "part": 2,
   "of": 3,
@@ -1729,19 +1729,6 @@
       "streamUrl": "http://lhttp.qingting.fm/live/1676/64k.mp3",
       "location": "Shantung, China",
       "genre": "Public Radio",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_station_b6bf843b",
-      "title": "青岛经典音乐广播",
-      "subtitle": "Radio",
-      "imageUrl": "http://pic.qtfm.cn/device/38001a712ed243279e23691a527a963b/1702466598089_b3sISTIJ2.jpg!200",
-      "streamUrl": "http://live.ximalaya.com/radio-first-page-app/live/1853/64.m3u8",
-      "location": "China",
-      "genre": "Radio",
       "countryCode": "CN",
       "language": "chinese",
       "clickCount": 0,
@@ -4764,19 +4751,6 @@
       "countryCode": "ID",
       "language": null,
       "clickCount": 1,
-      "bitrate": 96
-    },
-    {
-      "id": "rb2_kiara_4u_d28a9fd2",
-      "title": "KIARA 4U",
-      "subtitle": "Pop",
-      "imageUrl": "http://cdn.theradiohub.com/logos/157.jpg",
-      "streamUrl": "https://eu1.fastcast4u.com/proxy/kiarafm?mp=/1",
-      "location": "West Sumatera, Indonesia",
-      "genre": "Pop",
-      "countryCode": "ID",
-      "language": "bahasa indonesia",
-      "clickCount": 4,
       "bitrate": 96
     },
     {
@@ -26158,18 +26132,6 @@
       "streamUrl": "https://serverkw.quran-uni.com:8356/;"
     },
     {
-      "id": "yarmouk_university_fm_jo_10be34c3",
-      "title": "Yarmouk University FM",
-      "subtitle": "Radio",
-      "location": "Jordan",
-      "genre": "Radio",
-      "countryCode": "JO",
-      "language": "arabic",
-      "clickCount": 11,
-      "bitrate": 0,
-      "streamUrl": "https://yufm.yu.edu.jo/broadwave.mp3"
-    },
-    {
       "id": "radio_ntala_gewang_id_9d91c21c",
       "title": "Radio Ntala Gewang",
       "subtitle": "Hits",
@@ -26252,18 +26214,6 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "https://service.luxfm.kz/bc/live"
-    },
-    {
-      "id": "mbc_kr_490a2382",
-      "title": "MBC 올댓뮤직",
-      "subtitle": "Radio",
-      "location": "The Republic Of Korea",
-      "genre": "Radio",
-      "countryCode": "KR",
-      "language": null,
-      "clickCount": 29,
-      "bitrate": 67,
-      "streamUrl": "https://minicw.imbc.com/dchm/_definst_/chm.stream/playlist.m3u8?_lsu_sa_=6C21801243293DE45148C53635F1E248D5D531F5DA06829B3170F1aDB6E43A9658a023E63892774DE00F35F114bCF1150115DA12FCD197E73A502B2E37F8B0DC38F047ABDE7622EC12E89957D2BB9F2869FD1FAA6C26EC29AC35DC69EB62E959A18152906E2E1FF80E479C15A34B5563"
     },
     {
       "id": "nhk_world_radio_13_jp_aa600f66",
@@ -28592,6 +28542,174 @@
       "clickCount": 4,
       "bitrate": 256,
       "streamUrl": "http://202.147.199.98/;?1737921496499"
+    },
+    {
+      "id": "ran_fm_lk_37fc5deb",
+      "title": "Ran FM",
+      "subtitle": "Entertainment",
+      "location": "Sri Lanka",
+      "genre": "Entertainment",
+      "countryCode": "LK",
+      "language": "sinhala",
+      "clickCount": 16,
+      "bitrate": 320,
+      "streamUrl": "https://a3.asurahosting.com/listen/ranfm/radio.mp3"
+    },
+    {
+      "id": "yarmouk_university_fm_jo_10be34c3",
+      "title": "Yarmouk University FM",
+      "subtitle": "Radio",
+      "location": "Jordan",
+      "genre": "Radio",
+      "countryCode": "JO",
+      "language": "arabic",
+      "clickCount": 11,
+      "bitrate": 0,
+      "streamUrl": "https://yufm.yu.edu.jo/broadwave.mp3"
+    },
+    {
+      "id": "women_s_radio_kh_85dc7b95",
+      "title": "Women's Radio",
+      "subtitle": "Women",
+      "location": "Cambodia",
+      "genre": "Women",
+      "countryCode": "KH",
+      "language": "khmer",
+      "clickCount": 10,
+      "bitrate": 192,
+      "streamUrl": "https://a3.asurahosting.com/listen/women-radio/radio.mp3"
+    },
+    {
+      "id": "bbc_world_service_english_np_1935efd9",
+      "title": "BBC World Service English",
+      "subtitle": "Radio",
+      "location": "Nepal",
+      "genre": "Radio",
+      "countryCode": "NP",
+      "language": "nepali",
+      "clickCount": 10,
+      "bitrate": 0,
+      "streamUrl": "https://www.hamropatro.com/api/radio/stream/5639388954361856"
+    },
+    {
+      "id": "jami_at_tirmidhi_in_english_44_46_kw_4be25e72",
+      "title": "Jami` at-Tirmidhi in English 44 - 46",
+      "subtitle": "English",
+      "location": "Kuwait",
+      "genre": "English",
+      "countryCode": "KW",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://serverkw.quran-uni.com:8296/;"
+    },
+    {
+      "id": "baideshik_rojgar_np_510b0ef9",
+      "title": "Baideshik Rojgar",
+      "subtitle": "Radio",
+      "location": "Nepal",
+      "genre": "Radio",
+      "countryCode": "NP",
+      "language": "nepali",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://www.hamropatro.com/api/radio/stream/5645757971431424"
+    },
+    {
+      "id": "makalu_fm_np_6fa0bc3c",
+      "title": "Makalu FM",
+      "subtitle": "Radio",
+      "location": "Nepal",
+      "genre": "Radio",
+      "countryCode": "NP",
+      "language": "nepali",
+      "clickCount": 5,
+      "bitrate": 48,
+      "streamUrl": "https://www.hamropatro.com/api/radio/stream/318"
+    },
+    {
+      "id": "sunan_abu_dawud_english_1_12_kw_d8a7ae4d",
+      "title": "Sunan Abu Dawud English 1 - 12",
+      "subtitle": "English",
+      "location": "Kuwait",
+      "genre": "English",
+      "countryCode": "KW",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://serverkw.quran-uni.com:8310/;"
+    },
+    {
+      "id": "sunan_abu_dawud_english_25_43_kw_e3b15963",
+      "title": "Sunan Abu Dawud English 25 - 43",
+      "subtitle": "English",
+      "location": "Kuwait",
+      "genre": "English",
+      "countryCode": "KW",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://serverkw.quran-uni.com:8314/;"
+    },
+    {
+      "id": "youth_fm_lk_1c75fbb7",
+      "title": "Youth FM",
+      "subtitle": "Dance",
+      "location": "Sri Lanka",
+      "genre": "Dance",
+      "countryCode": "LK",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://ec6.yesstreaming.net:1920/stream"
+    },
+    {
+      "id": "24_nepali_online_radio_np_bbc57b97",
+      "title": "24 Nepali Online Radio",
+      "subtitle": "Radio",
+      "location": "Nepal",
+      "genre": "Radio",
+      "countryCode": "NP",
+      "language": "nepali",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://www.hamropatro.com/api/radio/stream/5648733377134592"
+    },
+    {
+      "id": "radio_ganatantra_aawaj_np_c6b81db4",
+      "title": "Radio Ganatantra Aawaj",
+      "subtitle": "Radio",
+      "location": "Nepal",
+      "genre": "Radio",
+      "countryCode": "NP",
+      "language": "nepali",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://www.hamropatro.com/api/radio/stream/5661090081931264"
+    },
+    {
+      "id": "chitwan_radio_network_np_0acab9ca",
+      "title": "Chitwan Radio Network",
+      "subtitle": "Radio",
+      "location": "Nepal",
+      "genre": "Radio",
+      "countryCode": "NP",
+      "language": "nepali",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://www.hamropatro.com/api/radio/stream/123"
+    },
+    {
+      "id": "nepali_online_radio_np_096a8915",
+      "title": "Nepali Online Radio",
+      "subtitle": "Radio",
+      "location": "Nepal",
+      "genre": "Radio",
+      "countryCode": "NP",
+      "language": "nepali",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://www.hamropatro.com/api/radio/stream/1754975892132"
     }
   ]
 }

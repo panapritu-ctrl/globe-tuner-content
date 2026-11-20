@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-19T05:58:52Z",
+  "updated": "2026-11-20T05:58:33Z",
   "region": "europe",
   "part": 5,
   "of": 8,
@@ -10850,19 +10850,6 @@
       "bitrate": 320
     },
     {
-      "id": "rb2_cmc_rock_6ccd8884",
-      "title": "CMC Rock",
-      "subtitle": "Radio",
-      "imageUrl": "https://radio.cmc.com.hr/favicon.ico",
-      "streamUrl": "http://radio-stream.cmc.com.hr:8060/autodj",
-      "location": "Croatia",
-      "genre": "Radio",
-      "countryCode": "HR",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 192
-    },
-    {
       "id": "rb2_cmc_tambure_fcc0a6f8",
       "title": "CMC Tambure",
       "subtitle": "Radio",
@@ -15977,19 +15964,6 @@
       "language": "english",
       "clickCount": 5,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_dublin_s_q102_80s_e2b4f407",
-      "title": "Dublin's Q102 80s",
-      "subtitle": "1980S, 80S",
-      "imageUrl": "https://cdn-profiles.tunein.com/s306851/images/logog.jpg",
-      "streamUrl": "http://wg.cdn.tibus.net/Q10280s",
-      "location": "Dublin, Ireland",
-      "genre": "1980S",
-      "countryCode": "IE",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 48
     },
     {
       "id": "rb2_dundalk_fm_9615d92c",
@@ -25696,18 +25670,6 @@
       "streamUrl": "https://s8.ssl-stream.com/prolaznik"
     },
     {
-      "id": "lmfm_country_ie_9e2ece1c",
-      "title": "LMFM Country",
-      "subtitle": "Radio",
-      "location": "Ireland",
-      "genre": "Radio",
-      "countryCode": "IE",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 127,
-      "streamUrl": "http://gbradio.cdn.tibus.net/LMFMCountry?aw_0_1st.platform=website&aw_0_1st.playerid=wireless-website&aw_0_req.gdpr=true&aw_0_awz.listenerid=#ADVERTISINGID&_=223438"
-    },
-    {
       "id": "92_5_phoenix_fm_ie_39ad458c",
       "title": "92.5 Phoenix FM",
       "subtitle": "Community Radio",
@@ -27772,18 +27734,6 @@
       "streamUrl": "https://stream.laut.fm/radioneb"
     },
     {
-      "id": "fm_classic_it_21c492c9",
-      "title": "FM Classic",
-      "subtitle": "70S",
-      "location": "Italy",
-      "genre": "70S",
-      "countryCode": "IT",
-      "language": "italian",
-      "clickCount": 4,
-      "bitrate": 0,
-      "streamUrl": "http://onair7.xdevel.com:8724/;stream.nsv"
-    },
-    {
       "id": "radio_tvornica_zagreb_hr_3cd60b3d",
       "title": "Radio Tvornica Zagreb",
       "subtitle": "Blues",
@@ -27962,18 +27912,6 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://shoutcast.k-planet.eu:10951/stream?type=http&nocache=14"
-    },
-    {
-      "id": "abc_80s_dublin_ie_85a813e6",
-      "title": "ABC 80s (Dublin)",
-      "subtitle": "Radio",
-      "location": "Ireland",
-      "genre": "Radio",
-      "countryCode": "IE",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 96,
-      "streamUrl": "https://canada1.reliastream.com/proxy/brendan3?mp=/stream"
     },
     {
       "id": "rmc_music_star_zucchero_it_85aab667",
@@ -28514,6 +28452,78 @@
       "clickCount": 4,
       "bitrate": 192,
       "streamUrl": "https://listen.openstream.co/6517/audio"
+    },
+    {
+      "id": "radio_zagora_hr_3b4507a6",
+      "title": "Radio Zagora",
+      "subtitle": "Radio",
+      "location": "Croatia",
+      "genre": "Radio",
+      "countryCode": "HR",
+      "language": null,
+      "clickCount": 7,
+      "bitrate": 320,
+      "streamUrl": "https://azuracast.myautodj.com/listen/radio_zagora/radio.mp3"
+    },
+    {
+      "id": "su_urland_fm_is_0c98c038",
+      "title": "Suðurland FM",
+      "subtitle": "Country",
+      "location": "Iceland",
+      "genre": "Country",
+      "countryCode": "IS",
+      "language": "icelandic",
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "https://ice-11.spilarinn.is/xsudurlandfm"
+    },
+    {
+      "id": "tiamo_gr_gr_749be60e",
+      "title": "Tiamo GR",
+      "subtitle": "Chillout",
+      "location": "Greece",
+      "genre": "Chillout",
+      "countryCode": "GR",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 320,
+      "streamUrl": "https://i5.streams.ovh/sc/tiamo/stream"
+    },
+    {
+      "id": "smooth_radio_thessaloniki_gr_05145b07",
+      "title": "Smooth Radio Thessaloniki",
+      "subtitle": "Dance",
+      "location": "Greece",
+      "genre": "Dance",
+      "countryCode": "GR",
+      "language": "greek",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://solid9.streamupsolutions.com/proxy/lrazisyb?mp=/live"
+    },
+    {
+      "id": "all_star_radio_80_s_hu_a1417ef3",
+      "title": "All-Star Radio 80's",
+      "subtitle": "Radio",
+      "location": "Hungary",
+      "genre": "Radio",
+      "countryCode": "HU",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://a3.asurahosting.com/listen/all-star_radio_80s_disco/radio.mp3"
+    },
+    {
+      "id": "radio_jolly_it_87ee61d4",
+      "title": "Radio Jolly",
+      "subtitle": "Eurodance",
+      "location": "Italy",
+      "genre": "Eurodance",
+      "countryCode": "IT",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://radio.garden/api/ara/content/listen/Zrs6jv66/channel.mp3"
     }
   ]
 }

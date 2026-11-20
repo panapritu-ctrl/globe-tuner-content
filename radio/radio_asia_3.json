@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-19T05:58:52Z",
+  "updated": "2026-11-20T05:58:33Z",
   "region": "asia",
   "part": 3,
   "of": 3,
@@ -7967,15 +7967,6 @@
       "genre": "Folk",
       "countryCode": "TR",
       "streamUrl": "http://yayin.netradyom.com:8050/PARKFM/"
-    },
-    {
-      "id": "power_fm_t_rkiye_tr_dd307e",
-      "title": "Power FM Türkiye",
-      "subtitle": "Radio",
-      "location": "Türkiye",
-      "genre": "Radio",
-      "countryCode": "TR",
-      "streamUrl": "https://listen.powerapp.com.tr/powerfm/256/chunks.m3u8"
     },
     {
       "id": "rb2_power_gold_tr_6fd08b58",
@@ -16120,18 +16111,6 @@
       "streamUrl": "http://asima.out.airtime.pro:8000/asima_a"
     },
     {
-      "id": "star_fm_manila_ph_da91f6b4",
-      "title": "Star FM Manila",
-      "subtitle": "Radio",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "language": null,
-      "clickCount": 39,
-      "bitrate": 96,
-      "streamUrl": "https://stream-13.zeno.fm/g1pmt17nz9duv"
-    },
-    {
       "id": "station_tw_debd508b",
       "title": "新竹勞工之聲",
       "subtitle": "Music",
@@ -16900,18 +16879,6 @@
       "streamUrl": "https://livestream.rmn.ph/dxdcdavao"
     },
     {
-      "id": "xfm_tagum_ph_0dc13ce7",
-      "title": "XFM Tagum",
-      "subtitle": "Radio",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 64,
-      "streamUrl": "http://209.126.124.126:8681/stream"
-    },
-    {
       "id": "x_fm_naga_city_philippines_ph_c0708508",
       "title": "X FM Naga City, Philippines",
       "subtitle": "Classic Hits",
@@ -17066,18 +17033,6 @@
       "clickCount": 6,
       "bitrate": 128,
       "streamUrl": "https://cdn-th2.livestreaming.in.th/shoutcast/8795"
-    },
-    {
-      "id": "station_tw_2e3de465",
-      "title": "古都電台",
-      "subtitle": "Culture",
-      "location": "Taiwan, Republic Of China",
-      "genre": "Culture",
-      "countryCode": "TW",
-      "language": "hokkien",
-      "clickCount": 5,
-      "bitrate": 0,
-      "streamUrl": "http://n03.rcs.revma.com/8bpxy9a122hvv"
     },
     {
       "id": "92_3_fmr_manila_ph_6845a9ad",
@@ -17404,18 +17359,6 @@
       "streamUrl": "http://209.126.124.126:8721/stream"
     },
     {
-      "id": "radyo_sincero_valencia_ph_60c60e2a",
-      "title": "Radyo Sincero Valencia",
-      "subtitle": "Radio",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 64,
-      "streamUrl": "http://stream.zeno.fm/vzrt2visttbvv"
-    },
-    {
       "id": "y101_cebu_ph_6cf6a35a",
       "title": "Y101 Cebu",
       "subtitle": "Radio",
@@ -17704,18 +17647,6 @@
       "streamUrl": "http://209.126.124.126:8855/stream"
     },
     {
-      "id": "therockradio_tr_748781e6",
-      "title": "TheRockRadio",
-      "subtitle": "Radio",
-      "location": "Türkiye",
-      "genre": "Radio",
-      "countryCode": "TR",
-      "language": null,
-      "clickCount": 5,
-      "bitrate": 250,
-      "streamUrl": "https://ssl4.radyotvonline.com/radyohome/therockradio.stream/playlist.m3u8"
-    },
-    {
       "id": "radyovizyon_fm_93_0_tr_1599595f",
       "title": "Radyovizyon FM 93.0",
       "subtitle": "Ankara",
@@ -17798,6 +17729,54 @@
       "clickCount": 5,
       "bitrate": 96,
       "streamUrl": "http://193.70.34.27:20330/groovy"
+    },
+    {
+      "id": "gaza_radio_106_3_fm_ps_95785c41",
+      "title": "Gaza Radio 106.3 FM",
+      "subtitle": "Arabic",
+      "location": "State Of Palestine",
+      "genre": "Arabic",
+      "countryCode": "PS",
+      "language": "arabic",
+      "clickCount": 7,
+      "bitrate": 128,
+      "streamUrl": "https://c2.radioboss.fm:8961/stream"
+    },
+    {
+      "id": "xfm_100_7_davao_region_ph_62ccb3fa",
+      "title": "XFM 100.7 DAVAO REGION",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 64,
+      "streamUrl": "https://us1.amfmph.com/ssl/xfmdavao?mp=/live"
+    },
+    {
+      "id": "dxmy_90_9_rmn_cotabato_ph_f010d34c",
+      "title": "DXMY 90.9 RMN Cotabato",
+      "subtitle": "Music",
+      "location": "The Philippines",
+      "genre": "Music",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 96,
+      "streamUrl": "https://livestream.rmn.ph/dxmycotabato"
+    },
+    {
+      "id": "xfm_davao_city_ph_9f370729",
+      "title": "XFM Davao City",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 64,
+      "streamUrl": "http://us1.amfmph.com:8724/live"
     }
   ]
 }

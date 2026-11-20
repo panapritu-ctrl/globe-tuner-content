@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-19T05:58:52Z",
+  "updated": "2026-11-20T05:58:33Z",
   "region": "americas",
   "part": 3,
   "of": 5,
@@ -15891,19 +15891,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_radio_sarape_e1ad1ef6",
-      "title": "radio sarape",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://s1.jcbroadcast.org:8040/stream",
-      "location": "Saltillo, Coahuila, Mexico",
-      "genre": "Radio",
-      "countryCode": "MX",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_stereo_sol_89_1_las_varas_eddc4d1a",
       "title": "stereo sol 89.1 las varas",
       "subtitle": "Banda, Banda Norteña",
@@ -26849,18 +26836,6 @@
       "streamUrl": "https://ice26.securenetsystems.net/WZTG"
     },
     {
-      "id": "radio_vibras_92_7fm_py_3a850643",
-      "title": "Radio Vibras 92.7FM",
-      "subtitle": "Latino",
-      "location": "Paraguay",
-      "genre": "Latino",
-      "countryCode": "PY",
-      "language": "spanish",
-      "clickCount": 5,
-      "bitrate": 0,
-      "streamUrl": "https://rds3.desdeparaguay.net/movvibras/movvibras.stream/playlist.m3u8"
-    },
-    {
       "id": "emisoras_paraguay_106_1_fm_py_6c809248",
       "title": "Emisoras Paraguay 106.1 FM",
       "subtitle": "Cumbia",
@@ -28191,6 +28166,102 @@
       "clickCount": 4,
       "bitrate": 320,
       "streamUrl": "https://usa3.lhdserver.es:8307/stream"
+    },
+    {
+      "id": "cardinal_romance_98_5_fm_py_0985ce9a",
+      "title": "Cardinal Romance 98.5 FM",
+      "subtitle": "Radio",
+      "location": "Paraguay",
+      "genre": "Radio",
+      "countryCode": "PY",
+      "language": null,
+      "clickCount": 8,
+      "bitrate": 128,
+      "streamUrl": "https://ny1.radio.primcast.com/8350/stream"
+    },
+    {
+      "id": "fusi_n_102_5_xhuan_fm_mx_930212c2",
+      "title": "Fusión 102.5 XHUAN-FM",
+      "subtitle": "Jazz",
+      "location": "Mexico",
+      "genre": "Jazz",
+      "countryCode": "MX",
+      "language": "español mexico",
+      "clickCount": 7,
+      "bitrate": 64,
+      "streamUrl": "https://s2.mexside.net/8036/stream"
+    },
+    {
+      "id": "airosa_fm_mx_a776258f",
+      "title": "Airosa FM",
+      "subtitle": "Alternative Rock",
+      "location": "Mexico",
+      "genre": "Alternative Rock",
+      "countryCode": "MX",
+      "language": "spanish",
+      "clickCount": 7,
+      "bitrate": 128,
+      "streamUrl": "https://airosafm-mayeutica.radioca.st/stream"
+    },
+    {
+      "id": "wbru_brown_university_us_16ce6c53",
+      "title": "WBRU Brown University",
+      "subtitle": "Alternative",
+      "location": "The United States Of America",
+      "genre": "Alternative",
+      "countryCode": "US",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "https://s3.radio.co/s115121de1/listen"
+    },
+    {
+      "id": "florida_man_radio_us_c216ee15",
+      "title": "Florida Man Radio",
+      "subtitle": "News",
+      "location": "The United States Of America",
+      "genre": "News",
+      "countryCode": "US",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 32,
+      "streamUrl": "https://ice42.securenetsystems.net/WZLB"
+    },
+    {
+      "id": "radio_centro_quito_97_7_fm_ec_dabdee0e",
+      "title": "Radio Centro Quito 97.7 FM",
+      "subtitle": "Radio",
+      "location": "Ecuador",
+      "genre": "Radio",
+      "countryCode": "EC",
+      "language": "español ecuador",
+      "clickCount": 4,
+      "bitrate": 36,
+      "streamUrl": "https://sp.dattavolt.com:7037/stream"
+    },
+    {
+      "id": "art_radio_jm_8e102de0",
+      "title": "ART RADIO",
+      "subtitle": "Radio",
+      "location": "Jamaica",
+      "genre": "Radio",
+      "countryCode": "JM",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://a3.asurahosting.com:6220/radio.mp3"
+    },
+    {
+      "id": "radio_dragonux_pe_9b3d4182",
+      "title": "Radio Dragonux",
+      "subtitle": "Pop Rock",
+      "location": "Peru",
+      "genre": "Pop Rock",
+      "countryCode": "PE",
+      "language": "español peruano",
+      "clickCount": 4,
+      "bitrate": 96,
+      "streamUrl": "https://usa3.fastcast4u.com/proxy/dragonux?mp=/stream"
     }
   ]
 }

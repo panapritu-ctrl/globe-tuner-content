@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-19T05:58:52Z",
+  "updated": "2026-11-20T05:58:33Z",
   "region": "europe",
   "part": 6,
   "of": 8,
@@ -18331,19 +18331,6 @@
       "bitrate": 159
     },
     {
-      "id": "rb2_nrk_p1_rogaland_f7050f2a",
-      "title": "NRK P1 Rogaland",
-      "subtitle": "Radio",
-      "imageUrl": "https://static.nrk.no/radio/dist/favicons/apple-touch-icon.png",
-      "streamUrl": "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p1_dk9",
-      "location": "Rogaland, Norway",
-      "genre": "Radio",
-      "countryCode": "NO",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 158
-    },
-    {
       "id": "rb2_nrk_p1_sogn_og_fjordane_h_y_kvalitet_aac_569f9c60",
       "title": "NRK P1 Sogn og Fjordane (Høy kvalitet AAC)",
       "subtitle": "Radio",
@@ -22508,18 +22495,6 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://radio.quadracode.com/kernel.aac"
-    },
-    {
-      "id": "mela_radio_it_f7eaee65",
-      "title": "Mela Radio",
-      "subtitle": "80'S",
-      "location": "Italy",
-      "genre": "80'S",
-      "countryCode": "IT",
-      "language": "italian",
-      "clickCount": 4,
-      "bitrate": 128,
-      "streamUrl": "https://melaradio-fellini.radioca.st/;"
     },
     {
       "id": "sublime_live_nl_0b671dce",
@@ -27166,18 +27141,6 @@
       "streamUrl": "https://c34.radioboss.fm:9058/stream"
     },
     {
-      "id": "haze_pub_radio_lt_b4b0b608",
-      "title": "Haze Pub Radio",
-      "subtitle": "Alternative",
-      "location": "Lithuania",
-      "genre": "Alternative",
-      "countryCode": "LT",
-      "language": "lithuanian",
-      "clickCount": 4,
-      "bitrate": 128,
-      "streamUrl": "https://live.leproradio.com/rocks.ogg"
-    },
-    {
       "id": "the_dutch_eagles_nl_d6c7f86f",
       "title": "the dutch eagles",
       "subtitle": "Radio",
@@ -27778,18 +27741,6 @@
       "streamUrl": "http://135.181.165.48:8019/stream"
     },
     {
-      "id": "rtv4_nl_a4f76771",
-      "title": "RTV4",
-      "subtitle": "Radio",
-      "location": "The Netherlands",
-      "genre": "Radio",
-      "countryCode": "NL",
-      "language": "dutch",
-      "clickCount": 4,
-      "bitrate": 0,
-      "streamUrl": "https://streams.rtv4.nl/rtv4.mp3"
-    },
-    {
       "id": "relax_fm_online_nl_1bc6aa13",
       "title": "Relax FM Online",
       "subtitle": "80'S",
@@ -28160,6 +28111,138 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "https://nlpo.stream.vip/mfmuden/mp3-192/nlpo.stream.vip/"
+    },
+    {
+      "id": "fm_classic_it_21c492c9",
+      "title": "FM Classic",
+      "subtitle": "70S",
+      "location": "Italy",
+      "genre": "70S",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 8,
+      "bitrate": 0,
+      "streamUrl": "http://onair7.xdevel.com:8724/;stream.nsv"
+    },
+    {
+      "id": "radio_leila_it_37334515",
+      "title": "Radio Leila",
+      "subtitle": "Ambient",
+      "location": "Italy",
+      "genre": "Ambient",
+      "countryCode": "IT",
+      "language": "english",
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "https://radio.radioleila.com/radioleila.mp3"
+    },
+    {
+      "id": "nettvy_radio_no_959faff0",
+      "title": "Nettvy Radio",
+      "subtitle": "80'S",
+      "location": "Norway",
+      "genre": "80'S",
+      "countryCode": "NO",
+      "language": "norwegian",
+      "clickCount": 6,
+      "bitrate": 320,
+      "streamUrl": "https://nettvy.no/radio/stream"
+    },
+    {
+      "id": "hi_on_line_classic_radio_nl_4529c734",
+      "title": "Hi On Line Classic Radio",
+      "subtitle": "Radio",
+      "location": "The Netherlands",
+      "genre": "Radio",
+      "countryCode": "NL",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 320,
+      "streamUrl": "http://mediaserv30.live-streams.nl:8088/stream"
+    },
+    {
+      "id": "radio_vest_no_9aed35fe",
+      "title": "Radio Vest",
+      "subtitle": "Pop Music",
+      "location": "Norway",
+      "genre": "Pop Music",
+      "countryCode": "NO",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://stream.radiovest.no/radiovest"
+    },
+    {
+      "id": "radio_everest_it_52918af1",
+      "title": "Radio Everest",
+      "subtitle": "Ballad",
+      "location": "Italy",
+      "genre": "Ballad",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://stream.radioeverest.it/listen/radio_everest/radio.mp3"
+    },
+    {
+      "id": "heimatradio_nl_nl_ee34ad2b",
+      "title": "Heimatradio.nl",
+      "subtitle": "Various",
+      "location": "The Netherlands",
+      "genre": "Various",
+      "countryCode": "NL",
+      "language": "dutch",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://live.heimatradio.nl/stream"
+    },
+    {
+      "id": "flevoziekenomroep_hls_audio_nl_e3048cc3",
+      "title": "FlevoZiekenOmroep (HLS audio)",
+      "subtitle": "Music",
+      "location": "The Netherlands",
+      "genre": "Music",
+      "countryCode": "NL",
+      "language": "dutch",
+      "clickCount": 4,
+      "bitrate": 52,
+      "streamUrl": "https://video.fzo.nu/live.m3u8"
+    },
+    {
+      "id": "echo_raido_nl_e7f401e7",
+      "title": "echo-raido",
+      "subtitle": "Radio",
+      "location": "The Netherlands",
+      "genre": "Radio",
+      "countryCode": "NL",
+      "language": "nederland",
+      "clickCount": 4,
+      "bitrate": 320,
+      "streamUrl": "https://stream.echo-radio.nl/listen/echo-radio/radio.mp3"
+    },
+    {
+      "id": "slam_juize_nl_21dd0ea0",
+      "title": "Slam Juize",
+      "subtitle": "Radio",
+      "location": "The Netherlands",
+      "genre": "Radio",
+      "countryCode": "NL",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream.slam.nl/web09_mp3"
+    },
+    {
+      "id": "draaiorgel_radio_nl_83b8333f",
+      "title": "Draaiorgel Radio",
+      "subtitle": "Radio",
+      "location": "The Netherlands",
+      "genre": "Radio",
+      "countryCode": "NL",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream.draaiorgel-radio.nl/stream"
     }
   ]
 }

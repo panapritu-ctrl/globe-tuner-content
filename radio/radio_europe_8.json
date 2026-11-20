@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-19T05:58:52Z",
+  "updated": "2026-11-20T05:58:33Z",
   "region": "europe",
   "part": 8,
   "of": 8,
@@ -18082,19 +18082,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_r_dio_jazz_913b7498",
-      "title": "Rádio Jazz",
-      "subtitle": "Jazz",
-      "imageUrl": "https://radiojazz.sk/favicon.ico",
-      "streamUrl": "http://stream.sepia.sk:8000/jazz128.mp3",
-      "location": "Slovakia",
-      "genre": "Jazz",
-      "countryCode": "SK",
-      "language": "slovak",
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_r_dio_kiks_d936322c",
       "title": "Rádio KIKS",
       "subtitle": "80S, Eurodance",
@@ -22933,18 +22920,6 @@
       "streamUrl": "https://radio.mediacdn.ru/shanson_omsk.mp3"
     },
     {
-      "id": "garage_fm_ru_5e911ed0",
-      "title": "Garage FM",
-      "subtitle": "Radio",
-      "location": "The Russian Federation",
-      "genre": "Radio",
-      "countryCode": "RU",
-      "language": null,
-      "clickCount": 5,
-      "bitrate": 128,
-      "streamUrl": "https://garagefm.ru/streaming/Garagefm128"
-    },
-    {
       "id": "mineplay_fm_ru_2af943a1",
       "title": "Mineplay FM",
       "subtitle": "Mineplaytv",
@@ -26291,6 +26266,126 @@
       "clickCount": 5,
       "bitrate": 0,
       "streamUrl": "https://get-radio.sipout.ai/stream/hyperpop-other.mp3"
+    },
+    {
+      "id": "bandit_rock_se_3374c04f",
+      "title": "Bandit Rock",
+      "subtitle": "Alternative Rock",
+      "location": "Sweden",
+      "genre": "Alternative Rock",
+      "countryCode": "SE",
+      "language": "swedish",
+      "clickCount": 39,
+      "bitrate": 128,
+      "streamUrl": "http://fm02-ice.stream.khz.se/fm02_mp3"
+    },
+    {
+      "id": "lugna_favoriter_stockholm_se_2a5b97ff",
+      "title": "Lugna Favoriter Stockholm",
+      "subtitle": "Pop",
+      "location": "Sweden",
+      "genre": "Pop",
+      "countryCode": "SE",
+      "language": "swedish",
+      "clickCount": 29,
+      "bitrate": 128,
+      "streamUrl": "http://fm03-ice.stream.khz.se/fm03_mp3?"
+    },
+    {
+      "id": "radio_rehab_ua_4e983e32",
+      "title": "Radio Rehab",
+      "subtitle": "2000S",
+      "location": "Ukraine",
+      "genre": "2000S",
+      "countryCode": "UA",
+      "language": "ukrainian",
+      "clickCount": 15,
+      "bitrate": 192,
+      "streamUrl": "https://radiorehab.duckdns.org/radio.mp3"
+    },
+    {
+      "id": "gamla_favoritter_se_8de4c0eb",
+      "title": "Gamla Favoritter",
+      "subtitle": "Radio",
+      "location": "Sweden",
+      "genre": "Radio",
+      "countryCode": "SE",
+      "language": null,
+      "clickCount": 10,
+      "bitrate": 128,
+      "streamUrl": "https://wr09-ice.stream.khz.se/wr09_mp3"
+    },
+    {
+      "id": "r_dio_rock_grunge_90s_sk_bae68580",
+      "title": "Rádio ROCK - Grunge 90s",
+      "subtitle": "80S 90S Grunge",
+      "location": "Slovakia",
+      "genre": "80S 90S Grunge",
+      "countryCode": "SK",
+      "language": null,
+      "clickCount": 10,
+      "bitrate": 95,
+      "streamUrl": "https://stream.bauermedia.sk/grunge-90s-hi.aac"
+    },
+    {
+      "id": "melody_oldies_party_sk_b42e9c3d",
+      "title": "Melody - Oldies Party",
+      "subtitle": "Oldies",
+      "location": "Slovakia",
+      "genre": "Oldies",
+      "countryCode": "SK",
+      "language": null,
+      "clickCount": 7,
+      "bitrate": 95,
+      "streamUrl": "https://stream.bauermedia.sk/oldies-party-hi.aac"
+    },
+    {
+      "id": "anima_amoris_idm_ru_d5d3d725",
+      "title": "Anima Amoris IDM",
+      "subtitle": "Radio",
+      "location": "The Russian Federation",
+      "genre": "Radio",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://amoris.sknt.ru/idm.mp3"
+    },
+    {
+      "id": "get_radio_ru_ed4e2b70",
+      "title": "get.radio — Джаз (Без вокала)",
+      "subtitle": "Jazz",
+      "location": "The Russian Federation",
+      "genre": "Jazz",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://get-radio.sipout.ai/stream/jazz-instrumental.mp3"
+    },
+    {
+      "id": "r_dio_expres_detsk_hity_sk_5436ca60",
+      "title": "Rádio Expres - Detské hity",
+      "subtitle": "Children",
+      "location": "Slovakia",
+      "genre": "Children",
+      "countryCode": "SK",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 95,
+      "streamUrl": "https://stream.bauermedia.sk/detske-hity-hi.aac"
+    },
+    {
+      "id": "r_dio_expres_millennials_sk_7e8d967f",
+      "title": "Rádio Expres - Millennials",
+      "subtitle": "Radio",
+      "location": "Slovakia",
+      "genre": "Radio",
+      "countryCode": "SK",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 95,
+      "streamUrl": "https://stream.bauermedia.sk/millennials-hi.aac"
     }
   ]
 }
