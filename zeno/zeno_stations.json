@@ -1,6 +1,6 @@
 {
-  "version": 101,
-  "updated": "2026-11-20T11:19:08Z",
+  "version": 102,
+  "updated": "2026-11-21T10:56:45Z",
   "stations": [
     {
       "id": "80s80s_radio_de_9adaa6e1",
@@ -7736,15 +7736,6 @@
       "countryCode": "AE"
     },
     {
-      "id": "radio_786_za_6afca786",
-      "title": "Radio 786",
-      "subtitle": "MP3",
-      "location": "South Africa",
-      "genre": "Radio",
-      "streamUrl": "https://stream.krypton.co.za/proxy/radio786?mp=/stream",
-      "countryCode": "ZA"
-    },
-    {
       "id": "yes_933_sg_b5b41667",
       "title": "Yes 933",
       "subtitle": "AAC+",
@@ -13758,15 +13749,6 @@
       "countryCode": "MX"
     },
     {
-      "id": "ai_cn_9f6462ee",
-      "title": "每日经济新闻AI电视",
-      "subtitle": "UNKNOWN",
-      "location": "China",
-      "genre": "Economics",
-      "streamUrl": "http://swiftplay.hxkjmedia.com/tv/yytestW.m3u8",
-      "countryCode": "CN"
-    },
-    {
       "id": "flash_hits_br_ad2472b9",
       "title": "Flash Hits",
       "subtitle": "MP3",
@@ -14895,15 +14877,6 @@
       "streamUrl": "http://8903.brasilstream.com.br:8903/stream?1556404996680"
     },
     {
-      "id": "cope_madrid_fm_es_e696c5a4",
-      "title": "Cope Madrid FM",
-      "subtitle": "MP3",
-      "location": "mad, Spain",
-      "genre": "Radio",
-      "streamUrl": "https://net1-cope-rrcast.flumotion.com/cope/net1-low.mp3",
-      "countryCode": "ES"
-    },
-    {
       "id": "radio_538_party_nl_a4a5162d",
       "title": "Radio 538 Party",
       "subtitle": "MP3",
@@ -15039,15 +15012,6 @@
       "countryCode": "DE"
     },
     {
-      "id": "rock_fm_es_ee80be38",
-      "title": "ROCK FM",
-      "subtitle": "MP3",
-      "location": "Spain",
-      "genre": "Radio",
-      "streamUrl": "https://rockfm-cope-rrcast.flumotion.com/cope/rockfm-low.mp3",
-      "countryCode": "ES"
-    },
-    {
       "id": "fluxfm_techno_underground_de_67d6f446",
       "title": "FluxFM - Techno Underground",
       "subtitle": "MP3",
@@ -15118,15 +15082,6 @@
       "genre": "Radio",
       "streamUrl": "https://dreamsiteradiocp2.com/proxy/rmrepdemcongo?mp=/stream",
       "countryCode": "CG"
-    },
-    {
-      "id": "rtl_102_5_best_it_864d3c17",
-      "title": "RTL 102.5 Best",
-      "subtitle": "MP3",
-      "location": "Italy",
-      "genre": "Best Music",
-      "streamUrl": "https://streamingv2.shoutcast.com/rtl-1025-best",
-      "countryCode": "IT"
     },
     {
       "id": "nrj_fi_470883a4",
@@ -15242,6 +15197,221 @@
       "location": "Germany",
       "genre": "Radio",
       "streamUrl": "http://fhhalle.streamabc.net/fhhal-rtlinthemix-mp3-256-1489633?sABC=6nsp1734%230%236q8s7o7o3p7411o9n0871834qs5r90so%23qverxgyvaxUC&aw_0_1st.playerid=direktlinkHP&amsparams=playerid:direktlinkHP;skey:1794905908",
+      "countryCode": "DE"
+    },
+    {
+      "id": "somafm_lush_128k_mp3_us_f45e32f3",
+      "title": "SomaFM Lush (128k MP3)",
+      "subtitle": "MP3",
+      "location": "California, The United States Of America",
+      "genre": "Electronic",
+      "streamUrl": "https://ice4.somafm.com/lush-128-mp3",
+      "countryCode": "US"
+    },
+    {
+      "id": "cfrb_news_talk_1010_toronto_on_ca_5797f237",
+      "title": "CFRB News/Talk 1010 (Toronto, ON)",
+      "subtitle": "AAC+",
+      "location": "Ontario, Canada",
+      "genre": "Commercial",
+      "streamUrl": "http://26103.live.streamtheworld.com/CFRBAMAAC_SC",
+      "countryCode": "CA"
+    },
+    {
+      "id": "hit_radio_ffh_party_de_1e1f41b0",
+      "title": "Hit Radio FFH - Party",
+      "subtitle": "MP3",
+      "location": "Germany",
+      "genre": "Party",
+      "streamUrl": "http://mp3.ffh.de/ffhchannels/hqparty.mp3?aw_0_req.gdpr=true",
+      "countryCode": "DE"
+    },
+    {
+      "id": "8radio_ie_adf6fa75",
+      "title": "8radio",
+      "subtitle": "MP3",
+      "location": "Ireland",
+      "genre": "Alternative",
+      "streamUrl": "https://edge4.audioxi.com/8RADIO",
+      "countryCode": "IE"
+    },
+    {
+      "id": "sky_radio_lovesongs_nl_95866d84",
+      "title": "Sky Radio Lovesongs",
+      "subtitle": "AAC+",
+      "location": "The Netherlands",
+      "genre": "Love Songs",
+      "streamUrl": "http://29033.live.streamtheworld.com:3690/SRGSTR03AAC_SC",
+      "countryCode": "NL"
+    },
+    {
+      "id": "hitradio_antenne_1_stuttgart_xx_a70ae492",
+      "title": "Hitradio Antenne 1 Stuttgart",
+      "subtitle": "AAC",
+      "location": "Unknown",
+      "genre": "Radio",
+      "streamUrl": "http://stream.antenne1.de/a1stg/livestream1.aac"
+    },
+    {
+      "id": "rock_fm_es_ee80be38",
+      "title": "ROCK FM",
+      "subtitle": "MP3",
+      "location": "Spain",
+      "genre": "Radio",
+      "streamUrl": "https://rockfm-cope-rrcast.flumotion.com/cope/rockfm-low.mp3",
+      "countryCode": "ES"
+    },
+    {
+      "id": "stockholm_fm_101_1_sweden_se_df4b3bc2",
+      "title": "Stockholm FM 101,1 Sweden",
+      "subtitle": "MP3",
+      "location": "Stockholm, Sweden",
+      "genre": "International",
+      "streamUrl": "http://radiostreamone.mine.nu/18020",
+      "countryCode": "SE"
+    },
+    {
+      "id": "deejay_80_it_e6875a96",
+      "title": "Deejay 80",
+      "subtitle": "UNKNOWN",
+      "location": "Lombardia, Italy",
+      "genre": "1980S",
+      "streamUrl": "https://streamcdnr3-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejay80/live.m3u8",
+      "countryCode": "IT"
+    },
+    {
+      "id": "radio_helsinki_98_5_mhz_fi_c518dfc2",
+      "title": "Radio Helsinki 98,5 Mhz",
+      "subtitle": "MP3",
+      "location": "Finland",
+      "genre": "Radio",
+      "streamUrl": "https://tunein-ondemand.cdnstream1.com/multi_bump_sonic_pre_pre.mp3?aw_0_1st.playerid=LogitechSqueeze&aw_0_1st.skey=1794879663&aw_0_1st.abtest=&partnerId=LogitechSqueeze&aw_0_1st.stationId=s97243&aw_0_1st.premium=false&source=TuneIn&aw_0_req.gdpr=true&aw_0_1st.platform=tunein&aw_0_1st.genre_id=g22&aw_0_1st.class=music&aw_0_1st.ads_partner_alias=ce.LogitechSqueezebox&aw_0_azn.planguage=en%2cfi&aw_0_1st.is_ondemand=false&aw_0_1st.topicId=na&aw_0_1st.bandId=2&delivery=1",
+      "countryCode": "FI"
+    },
+    {
+      "id": "heart_xmas_gb_66ada9fe",
+      "title": "Heart Xmas",
+      "subtitle": "MP3",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Radio",
+      "streamUrl": "http://media-ice.musicradio.com/HeartXmasMP3",
+      "countryCode": "GB"
+    },
+    {
+      "id": "rabe_radio_bern_switzerland_ch_77048cbb",
+      "title": "RaBe Radio Bern Switzerland",
+      "subtitle": "MP3",
+      "location": "Bern, Switzerland",
+      "genre": "Multikulti",
+      "streamUrl": "http://stream.rabe.ch/livestream/rabe-mid.mp3",
+      "countryCode": "CH"
+    },
+    {
+      "id": "la_2x4_ar_14f7fb37",
+      "title": "La 2x4",
+      "subtitle": "MP3",
+      "location": "Buenos Aires, Argentina",
+      "genre": "Radio",
+      "streamUrl": "https://storage.googleapis.com/m-infra.appspot.com/public/webchat/sent.mp3",
+      "countryCode": "AR"
+    },
+    {
+      "id": "duo_rock_ee_c2a3e69e",
+      "title": "Duo Rock",
+      "subtitle": "AAC",
+      "location": "Estonia",
+      "genre": "Rock",
+      "streamUrl": "http://le302.euddn.net/7b3e6612116bdaf755d8864437bc3a10b098e15b37258f8480c4ba01a54505c915d95b72394b7fc73774ca4282ac233dc05b1fe3163e2fe9abba68e98e03a39d3651d19a5efd2822ce20f12f21120dcf237485aed8983a5114e96acea3a63ec38bbd5b501d4a8aefedcdf01793e23613c2af8d3ae9d84298723f7831467811f681534f848a1196e26cd5aef93ee7e7e8ec32e63d03d2efb06c4033f2b9bc237b/rokk.aac",
+      "countryCode": "EE"
+    },
+    {
+      "id": "radio_sahar_il_112e9ac7",
+      "title": "Radio Sahar",
+      "subtitle": "MP3",
+      "location": "Israel",
+      "genre": "Alternative Rock",
+      "streamUrl": "https://live.ecast.co.il/stream/sahar/stream",
+      "countryCode": "IL"
+    },
+    {
+      "id": "rcv_radio_cabo_verde_direct_cv_65039499",
+      "title": "RCV Radio Cabo Verde direct",
+      "subtitle": "MP3",
+      "location": "Cabo Verde",
+      "genre": "Radio",
+      "streamUrl": "https://a3.asurahosting.com/listen/rcv/radio.mp3",
+      "countryCode": "CV"
+    },
+    {
+      "id": "gold_fm_lt_6b0c3e46",
+      "title": "Gold FM",
+      "subtitle": "MP3",
+      "location": "Lithuania",
+      "genre": "Radio",
+      "streamUrl": "https://stream.goldfm.lt/goldfm.mp3",
+      "countryCode": "LT"
+    },
+    {
+      "id": "bbc_world_service_english_np_1935efd9",
+      "title": "BBC World Service English",
+      "subtitle": "AAC",
+      "location": "Nepal",
+      "genre": "Radio",
+      "streamUrl": "https://www.hamropatro.com/api/radio/stream/5639388954361856",
+      "countryCode": "NP"
+    },
+    {
+      "id": "yenevibe_radio_et_e0f0721a",
+      "title": "YeneVibe Radio",
+      "subtitle": "MP3",
+      "location": "Addis Ababa, Ethiopia",
+      "genre": "Addis Ababa",
+      "streamUrl": "https://stream.yeneviberadio.com/",
+      "countryCode": "ET"
+    },
+    {
+      "id": "station_kp_74bc14cb",
+      "title": "평양음악방송",
+      "subtitle": "UNKNOWN",
+      "location": "The Democratic Peoples Republic Of Korea",
+      "genre": "Korean Music",
+      "streamUrl": "https://live.koryocdn.org/pyfm/index.m3u8",
+      "countryCode": "KP"
+    },
+    {
+      "id": "cbc_radio_one_nord_quebec_mp3_stream_ca_319fc080",
+      "title": "CBC Radio One - Nord Quebec (MP3 stream)",
+      "subtitle": "MP3",
+      "location": "Quebec, Canada",
+      "genre": "Features",
+      "streamUrl": "https://22983.live.streamtheworld.com/CBMPFM_CBC_SC",
+      "countryCode": "CA"
+    },
+    {
+      "id": "delta_radio_hard_rock_heavy_metal_de_d68d47be",
+      "title": "delta radio HARD ROCK & HEAVY METAL",
+      "subtitle": "MP3",
+      "location": "Germany",
+      "genre": "Radio",
+      "streamUrl": "https://deltaradio.streamabc.net/regc-deltahardheavy-mp3-128-4714362?sABC=6nso7p8q%230%23nq59s62359o2nr38nsp8150610pq18p9%23fgernzf.qrygnenqvb.qr&aw_0_1st.playerid=streams.deltaradio.de&amsparams=playerid:streams.deltaradio.de;skey:1794866317",
+      "countryCode": "DE"
+    },
+    {
+      "id": "suomirap_fi_f89ba4f4",
+      "title": "SuomiRap",
+      "subtitle": "AAC",
+      "location": "National (Finland), Finland",
+      "genre": "Finnish Rap",
+      "streamUrl": "https://suomirap-redirect.vercel.app/api/suomirap",
+      "countryCode": "FI"
+    },
+    {
+      "id": "radio_bob_livestream_hessen_de_bad6bdc4",
+      "title": "Radio Bob! Livestream Hessen",
+      "subtitle": "MP3",
+      "location": "Germany",
+      "genre": "Radio",
+      "streamUrl": "http://regiocast.streamabc.net/regc-boblivehessen-mp3-192-4115873?sABC=6nsp06p9%230%236q8s7o7o3p7411o9n0871834qs5r90so%23fgernzf.enqvbobo.qr&aw_0_1st.playerid=streams.radiobob.de&amsparams=playerid:streams.radiobob.de;skey:1794901705",
       "countryCode": "DE"
     }
   ]
