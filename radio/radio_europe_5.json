@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-20T05:58:33Z",
+  "updated": "2026-11-21T05:41:41Z",
   "region": "europe",
   "part": 5,
   "of": 8,
@@ -6386,19 +6386,6 @@
       "streamUrl": "https://sp1.32bit.gr/8018/;",
       "location": "Patra, Greece",
       "genre": "Rock",
-      "countryCode": "GR",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_we_radio_89_4_37e08045",
-      "title": "We Radio 89.4",
-      "subtitle": "Mainstream, Pop",
-      "imageUrl": "https://resources.live24.gr/resources/images/stations/b4d7fa92-e97d-45a4-abfe-d23114dbc18a.png",
-      "streamUrl": "https://radio.1055rock.gr:32667/live",
-      "location": "Thessaloniki, Greece",
-      "genre": "Mainstream",
       "countryCode": "GR",
       "language": null,
       "clickCount": 0,
@@ -26426,18 +26413,6 @@
       "streamUrl": "http://vcr1gra.ondastreaming.eu/stream2"
     },
     {
-      "id": "rtl_102_5_mobile_48kbps_it_b718dd99",
-      "title": "RTL 102.5 [Mobile 48kbps]",
-      "subtitle": "Radio",
-      "location": "Italy",
-      "genre": "Radio",
-      "countryCode": "IT",
-      "language": "italian",
-      "clickCount": 4,
-      "bitrate": 96,
-      "streamUrl": "https://streamingv2.shoutcast.com/rtl-1025_48.aac"
-    },
-    {
       "id": "free_radio_jolly_international_it_22466d09",
       "title": "Free Radio Jolly International",
       "subtitle": "Radio",
@@ -28502,28 +28477,148 @@
       "streamUrl": "https://solid9.streamupsolutions.com/proxy/lrazisyb?mp=/live"
     },
     {
-      "id": "all_star_radio_80_s_hu_a1417ef3",
-      "title": "All-Star Radio 80's",
+      "id": "radioone_lo_fi_nyelvtanul_hu_8232ffd3",
+      "title": "RadioOne - Lo-Fi Nyelvtanuló",
+      "subtitle": "Educational",
+      "location": "Hungary",
+      "genre": "Educational",
+      "countryCode": "HU",
+      "language": "english",
+      "clickCount": 11,
+      "bitrate": 128,
+      "streamUrl": "https://stream.radioone.hu/ch5"
+    },
+    {
+      "id": "radio_calabria_international_it_ddce7a85",
+      "title": "Radio Calabria International",
+      "subtitle": "Folk",
+      "location": "Italy",
+      "genre": "Folk",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 7,
+      "bitrate": 192,
+      "streamUrl": "https://www.radiocalabriainternational.com/listen/rci/radio.mp3"
+    },
+    {
+      "id": "dyno_dance_it_aa5abe58",
+      "title": "Dyno Dance",
+      "subtitle": "Radio",
+      "location": "Italy",
+      "genre": "Radio",
+      "countryCode": "IT",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 96,
+      "streamUrl": "https://stream.dynodance.com/stream/dynodance/stream_low"
+    },
+    {
+      "id": "radio_dancefloor_90s_it_dfd0fb81",
+      "title": "Radio Dancefloor 90s",
+      "subtitle": "Dance",
+      "location": "Italy",
+      "genre": "Dance",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 6,
+      "bitrate": 96,
+      "streamUrl": "https://audio.radiodancefloor.it/dancefloor.mp3"
+    },
+    {
+      "id": "derti_gr_75a64515",
+      "title": "Derti",
+      "subtitle": "Radio",
+      "location": "Greece",
+      "genre": "Radio",
+      "countryCode": "GR",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://n13.radiojar.com/tzcb5k453quvv?rj-ttl=5&rj-tok=AAABofgowdgA9uO390hUaG3vkA"
+    },
+    {
+      "id": "r_di_1_szombathely_hu_050f9835",
+      "title": "Rádió 1 Szombathely",
       "subtitle": "Radio",
       "location": "Hungary",
       "genre": "Radio",
       "countryCode": "HU",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 128,
-      "streamUrl": "https://a3.asurahosting.com/listen/all-star_radio_80s_disco/radio.mp3"
+      "language": "hungarian",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://icast.connectmedia.hu/5216/live.mp3"
     },
     {
-      "id": "radio_jolly_it_87ee61d4",
-      "title": "Radio Jolly",
-      "subtitle": "Eurodance",
+      "id": "dj_work_radio_it_9ccec285",
+      "title": "Dj Work Radio",
+      "subtitle": "Afro House",
       "location": "Italy",
-      "genre": "Eurodance",
+      "genre": "Afro House",
       "countryCode": "IT",
       "language": "english",
+      "clickCount": 5,
+      "bitrate": 96,
+      "streamUrl": "https://usa1-vn.mixstream.net/8010/listen.mp3"
+    },
+    {
+      "id": "radio_mambassa_it_0628d735",
+      "title": "Radio Mambassa",
+      "subtitle": "Radio",
+      "location": "Italy",
+      "genre": "Radio",
+      "countryCode": "IT",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://stream.radioterlizzistereo.it/rmblecce"
+    },
+    {
+      "id": "radio_inblu2000_it_fe7ccfdd",
+      "title": "Radio InBlu2000",
+      "subtitle": "Religious",
+      "location": "Italy",
+      "genre": "Religious",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://www.radioinblu.it/live-stream/inblu2000-playlist.m3u8"
+    },
+    {
+      "id": "radioone_arabesk_hu_06e8e2f9",
+      "title": "RadioOne - Arabesk",
+      "subtitle": "Arabesk",
+      "location": "Hungary",
+      "genre": "Arabesk",
+      "countryCode": "HU",
+      "language": "hungarian",
       "clickCount": 4,
       "bitrate": 128,
-      "streamUrl": "http://radio.garden/api/ara/content/listen/Zrs6jv66/channel.mp3"
+      "streamUrl": "https://stream.radioone.hu/ch3"
+    },
+    {
+      "id": "oxygen_xmas_320_hu_08b40419",
+      "title": "Oxygen Xmas (320)",
+      "subtitle": "Christmas",
+      "location": "Hungary",
+      "genre": "Christmas",
+      "countryCode": "HU",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 160,
+      "streamUrl": "https://oxygenmusic.hu:8000/xmas_320"
+    },
+    {
+      "id": "vox_aria_it_aceb529a",
+      "title": "VOX-ARIA",
+      "subtitle": "Ai",
+      "location": "Italy",
+      "genre": "Ai",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream.voxaria.live/listen/voxaria/diretta.mp3"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-20T05:58:33Z",
+  "updated": "2026-11-21T05:41:41Z",
   "region": "europe",
   "part": 3,
   "of": 8,
@@ -3105,19 +3105,6 @@
       "language": "spanish",
       "clickCount": 0,
       "bitrate": 160
-    },
-    {
-      "id": "rb2_radio_vitoria_1fc2ef8f",
-      "title": "Radio Vitoria",
-      "subtitle": "Local News",
-      "imageUrl": "https://images14.eitb.eus/multimedia/recursos/generales/streaming/logo_zuzenean_radio_vitoria.png",
-      "streamUrl": "https://multimedia.eitb.eus/live-content/radiovitoria-hls/bitrate_1.m3u8",
-      "location": "Araba, Spain",
-      "genre": "Local News",
-      "countryCode": "ES",
-      "language": null,
-      "clickCount": 3,
-      "bitrate": 128
     },
     {
       "id": "rb2_radio_voz_a_coru_a_5fc62f93",
@@ -8353,19 +8340,6 @@
       "subtitle": "Radio",
       "imageUrl": "https://www.nexusxiv.fr/media/radio/logos/89.7_Growl_FM.webp",
       "streamUrl": "http://82.65.103.36:8000/growl-fm",
-      "location": "France",
-      "genre": "Radio",
-      "countryCode": "FR",
-      "language": "english",
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_cp2077_morro_rock_radio_107_3_7e9a6c34",
-      "title": "CP2077 - Morro Rock Radio 107.3",
-      "subtitle": "Radio",
-      "imageUrl": "https://www.nexusxiv.fr/media/radio/logos/107.3_Morro_Rock_Radio.webp",
-      "streamUrl": "http://82.65.103.36:8000/morro-rock",
       "location": "France",
       "genre": "Radio",
       "countryCode": "FR",
@@ -14201,19 +14175,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_kfm_961ca2f6",
-      "title": "KFM",
-      "subtitle": "Outre-Mer",
-      "imageUrl": "",
-      "streamUrl": "http://10191.go2stream.fr:8000/stream",
-      "location": "Guyane, France",
-      "genre": "Outre-Mer",
-      "countryCode": "FR",
-      "language": "french",
-      "clickCount": 2,
-      "bitrate": 128
-    },
-    {
       "id": "kiss_pop_rock_fr_53548d",
       "title": "KISS Pop Rock",
       "subtitle": "Blues",
@@ -14389,19 +14350,6 @@
       "genre": "Radio",
       "countryCode": "FR",
       "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_lars_n_c0af99dc",
-      "title": "LARS'N",
-      "subtitle": "Documentaries, Local Music",
-      "imageUrl": "",
-      "streamUrl": "https://radio.larsn.fr:8443/main",
-      "location": "France",
-      "genre": "Documentaries",
-      "countryCode": "FR",
-      "language": "english",
       "clickCount": 0,
       "bitrate": 128
     },
@@ -17811,15 +17759,6 @@
       "language": "french",
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "rfi_afrique_fr_960c29",
-      "title": "RFI Afrique",
-      "subtitle": "Africa",
-      "location": "France",
-      "genre": "News",
-      "countryCode": "FR",
-      "streamUrl": "http://live02.rfi.fr/rfiafrique-64.mp3"
     },
     {
       "id": "rfi_anglais_english_fr_96210e",
@@ -26367,30 +26306,6 @@
       "streamUrl": "https://streaming.nrjaudio.fm/ouwrpwsk6j4d?origine=fluxradios&aw_0_1st.station=Nostalgie-Rock"
     },
     {
-      "id": "bbc_radio_5_live_uk_hls_akamai_gb_27714514",
-      "title": "BBC Radio 5 Live (UK-HLS-Akamai)",
-      "subtitle": "Radio",
-      "location": "The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "Radio",
-      "countryCode": "GB",
-      "language": null,
-      "clickCount": 24,
-      "bitrate": 339,
-      "streamUrl": "http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/audio_syndication_high_sbr_v1/ak/bbc_radio_five_live.m3u8"
-    },
-    {
-      "id": "bbc_afrique_radio_gb_bd80f7c9",
-      "title": "BBC Afrique Radio",
-      "subtitle": "Africa",
-      "location": "The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "Africa",
-      "countryCode": "GB",
-      "language": "english",
-      "clickCount": 21,
-      "bitrate": 101,
-      "streamUrl": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_afrique_radio.m3u8"
-    },
-    {
       "id": "rtvce_es_22b1f89a",
       "title": "RTVCE",
       "subtitle": "Radio",
@@ -28057,6 +27972,174 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://publichealthradioit.ice.infomaniak.ch/publichealthradioit-128.mp3"
+    },
+    {
+      "id": "cope_madrid_fm_es_e696c5a4",
+      "title": "Cope Madrid FM",
+      "subtitle": "Radio",
+      "location": "Spain",
+      "genre": "Radio",
+      "countryCode": "ES",
+      "language": "spanish",
+      "clickCount": 218,
+      "bitrate": 64,
+      "streamUrl": "https://net1-cope-rrcast.flumotion.com/cope/net1-low.mp3"
+    },
+    {
+      "id": "nrj_fi_470883a4",
+      "title": "NRJ",
+      "subtitle": "Pop",
+      "location": "Finland",
+      "genre": "Pop",
+      "countryCode": "FI",
+      "language": "finnish",
+      "clickCount": 29,
+      "bitrate": 63,
+      "streamUrl": "https://stream-redirect.bauermedia.fi/nrj/nrj_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein"
+    },
+    {
+      "id": "bbc_afrique_radio_gb_bd80f7c9",
+      "title": "BBC Afrique Radio",
+      "subtitle": "Africa",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Africa",
+      "countryCode": "GB",
+      "language": "english",
+      "clickCount": 25,
+      "bitrate": 101,
+      "streamUrl": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_afrique_radio.m3u8"
+    },
+    {
+      "id": "kasari_fi_4d021c36",
+      "title": "Kasari",
+      "subtitle": "Decades",
+      "location": "Finland",
+      "genre": "Decades",
+      "countryCode": "FI",
+      "language": null,
+      "clickCount": 11,
+      "bitrate": 64,
+      "streamUrl": "https://stream-redirect.bauermedia.fi/kasari/kasari_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein"
+    },
+    {
+      "id": "bbc_radio_5_live_uk_hls_akamai_gb_27714514",
+      "title": "BBC Radio 5 Live (UK-HLS-Akamai)",
+      "subtitle": "Radio",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Radio",
+      "countryCode": "GB",
+      "language": null,
+      "clickCount": 11,
+      "bitrate": 339,
+      "streamUrl": "http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/audio_syndication_high_sbr_v1/ak/bbc_radio_five_live.m3u8"
+    },
+    {
+      "id": "cyb_rip_radio_fr_0e6258ee",
+      "title": "CYB.RIP RADIO",
+      "subtitle": "Breakbeats",
+      "location": "France",
+      "genre": "Breakbeats",
+      "countryCode": "FR",
+      "language": "english",
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "https://cyb.rip/radio/stream"
+    },
+    {
+      "id": "rfi_persian_fr_cc89371d",
+      "title": "RFI Persian",
+      "subtitle": "Persian",
+      "location": "France",
+      "genre": "Persian",
+      "countryCode": "FR",
+      "language": "persian",
+      "clickCount": 5,
+      "bitrate": 64,
+      "streamUrl": "http://live02.rfi.fr/rfienpersan-64k.mp3"
+    },
+    {
+      "id": "radio_90_fm_valencia_es_5f474e23",
+      "title": "Radio 90 FM Valencia",
+      "subtitle": "Radio",
+      "location": "Spain",
+      "genre": "Radio",
+      "countryCode": "ES",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://stream90.es/listen/radio90fm/radio"
+    },
+    {
+      "id": "radio_dei_kristiinankaupunki_fi_49438c58",
+      "title": "Radio Dei Kristiinankaupunki",
+      "subtitle": "Religion",
+      "location": "Finland",
+      "genre": "Religion",
+      "countryCode": "FI",
+      "language": "finnish",
+      "clickCount": 4,
+      "bitrate": 256,
+      "streamUrl": "http://isojako.radiodei.fi:8000/kristiinankaupunki"
+    },
+    {
+      "id": "music_radio_blues_fr_4075cde5",
+      "title": "Music Radio Blues",
+      "subtitle": "Blues",
+      "location": "France",
+      "genre": "Blues",
+      "countryCode": "FR",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://radio.musicradio.ai/listen/music_radio_blues/radio.mp3"
+    },
+    {
+      "id": "radio_tfm_fr_39cc1329",
+      "title": "Radio TFM",
+      "subtitle": "Pop",
+      "location": "France",
+      "genre": "Pop",
+      "countryCode": "FR",
+      "language": "francaise",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://st8.hotradio.fr/tfm"
+    },
+    {
+      "id": "nrj_new_dance_friday_fr_2853a02d",
+      "title": "NRJ New Dance Friday",
+      "subtitle": "Dance",
+      "location": "France",
+      "genre": "Dance",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://streaming.nrjaudio.fm/ou4w4ahtd2ko"
+    },
+    {
+      "id": "france24_espa_ol_fr_b6b44060",
+      "title": "France24 Español",
+      "subtitle": "Noticias",
+      "location": "France",
+      "genre": "Noticias",
+      "countryCode": "FR",
+      "language": "spanish",
+      "clickCount": 4,
+      "bitrate": 105,
+      "streamUrl": "http://static.france24.com/live/F24_ES_LO_HLS/live_audio.m3u8"
+    },
+    {
+      "id": "dj_audio_gb_26b90757",
+      "title": "Dj audio",
+      "subtitle": "Radio",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Radio",
+      "countryCode": "GB",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream.zeno.fm/7qfsnmc8rrhvv"
     }
   ]
 }

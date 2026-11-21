@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-20T05:58:33Z",
+  "updated": "2026-11-21T05:41:41Z",
   "region": "europe",
   "part": 8,
   "of": 8,
@@ -21888,18 +21888,6 @@
       "streamUrl": "https://cst.res.ad/rw320"
     },
     {
-      "id": "radio_kontinental_ru_53623751",
-      "title": "Radio Kontinental",
-      "subtitle": "Pop",
-      "location": "The Russian Federation",
-      "genre": "Pop",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 5,
-      "bitrate": 192,
-      "streamUrl": "http://stream01.radiocon.ru:8000/hum_tbk"
-    },
-    {
       "id": "102_7_fm_ru_784773a2",
       "title": "Первое радио Краснодар 102.7 FM",
       "subtitle": "Music",
@@ -23158,18 +23146,6 @@
       "clickCount": 6,
       "bitrate": 128,
       "streamUrl": "http://a7.radioheart.ru:8044/newageradio?_ga=2.255684622.769977034.1646991967-126118534.1646991967"
-    },
-    {
-      "id": "station_ru_922f79c2",
-      "title": "Елена ФМ",
-      "subtitle": "Radio",
-      "location": "The Russian Federation",
-      "genre": "Radio",
-      "countryCode": "RU",
-      "language": null,
-      "clickCount": 6,
-      "bitrate": 128,
-      "streamUrl": "https://listen7.myradio24.com/radioelena"
     },
     {
       "id": "andean_south_american_music_radio_caprice_ru_103a6035",
@@ -25488,18 +25464,6 @@
       "streamUrl": "https://fm05-ice.stream.khz.se/fm05_aac"
     },
     {
-      "id": "go_country_se_07667647",
-      "title": "Go Country",
-      "subtitle": "Country",
-      "location": "Sweden",
-      "genre": "Country",
-      "countryCode": "SE",
-      "language": "english",
-      "clickCount": 9,
-      "bitrate": 128,
-      "streamUrl": "https://wr14-ice.stream.khz.se/wr14_mp3"
-    },
-    {
       "id": "rix_fm_se_9fd808bc",
       "title": "Rix FM",
       "subtitle": "Radio",
@@ -26386,6 +26350,78 @@
       "clickCount": 5,
       "bitrate": 95,
       "streamUrl": "https://stream.bauermedia.sk/millennials-hi.aac"
+    },
+    {
+      "id": "r_dio_rock_hard_rock_sk_06d5d2c7",
+      "title": "Rádio ROCK - Hard Rock",
+      "subtitle": "Hard Rock",
+      "location": "Slovakia",
+      "genre": "Hard Rock",
+      "countryCode": "SK",
+      "language": null,
+      "clickCount": 7,
+      "bitrate": 96,
+      "streamUrl": "https://stream.bauermedia.sk/hard-rock-hi.aac"
+    },
+    {
+      "id": "r_dio_rock_rockov_balady_sk_6d8ffa1f",
+      "title": "Rádio ROCK - Rockové balady",
+      "subtitle": "Rock Ballads",
+      "location": "Slovakia",
+      "genre": "Rock Ballads",
+      "countryCode": "SK",
+      "language": null,
+      "clickCount": 7,
+      "bitrate": 96,
+      "streamUrl": "https://stream.bauermedia.sk/rockove-balady-hi.aac"
+    },
+    {
+      "id": "100_5_fm_ru_53d04b27",
+      "title": "Радио Ваня Туапсе 100.5 FM",
+      "subtitle": "Music",
+      "location": "The Russian Federation",
+      "genre": "Music",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 5,
+      "bitrate": 256,
+      "streamUrl": "http://185.185.69.62:8000/vanya"
+    },
+    {
+      "id": "get_radio_ru_fcdf3795",
+      "title": "get.radio — Классика (Прочие языки)",
+      "subtitle": "Classical",
+      "location": "The Russian Federation",
+      "genre": "Classical",
+      "countryCode": "RU",
+      "language": "french",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://get-radio.sipout.ai/stream/classical-other.mp3"
+    },
+    {
+      "id": "r_dio_rock_classic_rock_sk_bf63f37e",
+      "title": "Rádio ROCK - Classic Rock",
+      "subtitle": "Classic Rock",
+      "location": "Slovakia",
+      "genre": "Classic Rock",
+      "countryCode": "SK",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 95,
+      "streamUrl": "https://stream.bauermedia.sk/classic-rock-hi.aac"
+    },
+    {
+      "id": "r_dio_jazz_sk_5732399f",
+      "title": "Rádio Jazz",
+      "subtitle": "Jazz",
+      "location": "Slovakia",
+      "genre": "Jazz",
+      "countryCode": "SK",
+      "language": "slovak",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "http://stream.sepia.sk:8000/jazz128.mp3"
     }
   ]
 }

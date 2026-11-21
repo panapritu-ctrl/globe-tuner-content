@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-20T05:58:33Z",
+  "updated": "2026-11-21T05:41:41Z",
   "region": "europe",
   "part": 1,
   "of": 8,
@@ -6771,19 +6771,6 @@
       "subtitle": "Radio",
       "imageUrl": "",
       "streamUrl": "https://stream.radiostar.be/",
-      "location": "Belgium",
-      "genre": "Radio",
-      "countryCode": "BE",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_star_70_80_s_0e4ea315",
-      "title": "Radio STAR 70-80's",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://stream.radiostar.be:7080/stream",
       "location": "Belgium",
       "genre": "Radio",
       "countryCode": "BE",
@@ -25986,18 +25973,6 @@
       "streamUrl": "https://icecast8.play.cz/classic128.mp3"
     },
     {
-      "id": "fusion7_bg_14c09a25",
-      "title": "Fusion7",
-      "subtitle": "Radio",
-      "location": "Bulgaria",
-      "genre": "Radio",
-      "countryCode": "BG",
-      "language": null,
-      "clickCount": 3,
-      "bitrate": 192,
-      "streamUrl": "https://radio.palamarka.com/listen/fusion7/radio.mp3"
-    },
-    {
       "id": "techno_classics_de_f3d90b6b",
       "title": "Techno Classics",
       "subtitle": "Techno Classics",
@@ -34876,6 +34851,54 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "https://stream.klassikradio.de/friendshome/aac-64/stream.klassikradio.de?aggregator=hoererdirekt"
+    },
+    {
+      "id": "post_rock_nation_radio_de_e7222fd6",
+      "title": "Post-Rock Nation Radio",
+      "subtitle": "Ambient",
+      "location": "Germany",
+      "genre": "Ambient",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 7,
+      "bitrate": 192,
+      "streamUrl": "https://radio.postrocknation.com/listen/radio/radio.mp3"
+    },
+    {
+      "id": "spitzkunnersdorfer_dancewelle_de_994a3ac7",
+      "title": "Spitzkunnersdorfer Dancewelle",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": "bohemian",
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://sachsen3.stream.laut.fm/sachsen3?aggregator=AmeliusCoppola&t302=2026-11-17_01-31-52&ref=Radioautistentroll&uuid=240ce6f7-8521-08d6-ef1f-c35e62b089a6"
+    },
+    {
+      "id": "cro_jazz_cz_7c3bf116",
+      "title": "CRO Jazz",
+      "subtitle": "Radio",
+      "location": "Czechia",
+      "genre": "Radio",
+      "countryCode": "CZ",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://amp.cesnet.cz:8443/cro-jazz.flac"
+    },
+    {
+      "id": "radio_grodno_101_2_fm_by_5782e46a",
+      "title": "Radio Grodno 101.2 FM",
+      "subtitle": "Pop Music",
+      "location": "Belarus",
+      "genre": "Pop Music",
+      "countryCode": "BY",
+      "language": "belarusian",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://live.alpha.by:7000/tuner_grodno"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-20T05:58:33Z",
+  "updated": "2026-11-21T05:41:41Z",
   "region": "europe",
   "part": 2,
   "of": 8,
@@ -33819,18 +33819,6 @@
       "streamUrl": "https://stream.laut.fm/radionarcan"
     },
     {
-      "id": "dr_p4_midt_vest_aac_dk_ed0c0d93",
-      "title": "DR P4 Midt-Vest (AAC)",
-      "subtitle": "Regional Radio",
-      "location": "Denmark",
-      "genre": "Regional Radio",
-      "countryCode": "DK",
-      "language": "danish",
-      "clickCount": 5,
-      "bitrate": 324,
-      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4midtvest/masterab.m3u8"
-    },
-    {
       "id": "dr_p1_aac_dk_5bbf616a",
       "title": "DR P1 (AAC)",
       "subtitle": "Radio",
@@ -34021,18 +34009,6 @@
       "clickCount": 5,
       "bitrate": 320,
       "streamUrl": "https://sc2.flamebox.org/bigfm-hd"
-    },
-    {
-      "id": "xl_radio_estonia_ee_8de0f26b",
-      "title": "XL Radio Estonia",
-      "subtitle": "Club",
-      "location": "Estonia",
-      "genre": "Club",
-      "countryCode": "EE",
-      "language": "estonian",
-      "clickCount": 5,
-      "bitrate": 320,
-      "streamUrl": "https://stream.rcast.net/69794"
     },
     {
       "id": "absolut_top_clubnight_mp3_de_109cec87",
@@ -35173,6 +35149,54 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "http://streams.norawebstreams.de/nora-event01/mp3-192/streams.norawebstreams.de/"
+    },
+    {
+      "id": "aida_radio_meer_gef_hl_de_649e7c39",
+      "title": "AIDA Radio. Meer Gefühl.",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 7,
+      "bitrate": 0,
+      "streamUrl": "https://edge68.streamonkey.net/aidaradio-meergefuehl?aggregator=website&aw_0_req.gdpr=false"
+    },
+    {
+      "id": "radio_psr_partymix_aac_64_kbps_de_fefa6a71",
+      "title": "Radio PSR Partymix | AAC 64 kbps",
+      "subtitle": "64 Kbps",
+      "location": "Germany",
+      "genre": "64 Kbps",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://streams.radiopsr.de/psr-partymix/aac-64/streams.radiopsr.de"
+    },
+    {
+      "id": "gleisbergs_rock_nroll_museum_de_e09cc5b8",
+      "title": "Gleisbergs Rock'nRoll Museum",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": "norddeutsch",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://stream.laut.fm/gleisbergs-rock-and-roll-museum"
+    },
+    {
+      "id": "super_ee_e09dd5f5",
+      "title": "Super Рок",
+      "subtitle": "Classic Rock",
+      "location": "Estonia",
+      "genre": "Classic Rock",
+      "countryCode": "EE",
+      "language": "russian",
+      "clickCount": 4,
+      "bitrate": 256,
+      "streamUrl": "https://stream.skymedia.ee/live/rrock"
     }
   ]
 }
