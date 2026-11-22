@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-21T05:41:41Z",
+  "updated": "2026-11-22T05:04:53Z",
   "region": "europe",
   "part": 8,
   "of": 8,
@@ -23364,18 +23364,6 @@
       "streamUrl": "https://stream.musicaldecadence.ru/live"
     },
     {
-      "id": "station_ru_35366e64",
-      "title": "Радио Грозный",
-      "subtitle": "Grozniy",
-      "location": "The Russian Federation",
-      "genre": "Grozniy",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 4,
-      "bitrate": 0,
-      "streamUrl": "https://e10-ll.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/hls_live/index.m3u8"
-    },
-    {
       "id": "lounge_fm_chill_out_ua_ea2e92e6",
       "title": "Lounge FM Chill Out",
       "subtitle": "Chillout",
@@ -23422,18 +23410,6 @@
       "clickCount": 5,
       "bitrate": 320,
       "streamUrl": "http://live.lofiradio.ru:8000/lofi_mp3_320"
-    },
-    {
-      "id": "bri_dge_tv_ru_10da3caf",
-      "title": "BRİDGE TV",
-      "subtitle": "Pop Music",
-      "location": "The Russian Federation",
-      "genre": "Pop Music",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 5,
-      "bitrate": 0,
-      "streamUrl": "http://stream.mcquack.net/318/index.m3u8"
     },
     {
       "id": "retro_ru_2868f429",
@@ -24804,18 +24780,6 @@
       "streamUrl": "https://audio.gtaradio.net/4/ny_classics"
     },
     {
-      "id": "uezdnoe_ru_99240b67",
-      "title": "uezdnoe",
-      "subtitle": "Shanson",
-      "location": "The Russian Federation",
-      "genre": "Shanson",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 4,
-      "bitrate": 128,
-      "streamUrl": "http://62.192.226.178:8001/stream.ogg"
-    },
-    {
       "id": "fm_ua_177bb86a",
       "title": "Радіо Калуш FM",
       "subtitle": "Information",
@@ -25486,18 +25450,6 @@
       "clickCount": 7,
       "bitrate": 96,
       "streamUrl": "https://fm01-ice.stream.khz.se/fm01_aac"
-    },
-    {
-      "id": "star_fm_107_1_se_792a1e44",
-      "title": "STAR FM 107,1",
-      "subtitle": "Pop",
-      "location": "Sweden",
-      "genre": "Pop",
-      "countryCode": "SE",
-      "language": "swedish",
-      "clickCount": 7,
-      "bitrate": 128,
-      "streamUrl": "https://fm05-ice.stream.khz.se/fm05_mp3"
     },
     {
       "id": "r_dio_laskaro_sk_29597e56",
@@ -26422,6 +26374,18 @@
       "clickCount": 5,
       "bitrate": 128,
       "streamUrl": "http://stream.sepia.sk:8000/jazz128.mp3"
+    },
+    {
+      "id": "nucrooze_189aac_sk_8159e927",
+      "title": "NUCROOZE (189AAC)",
+      "subtitle": "Funk",
+      "location": "Slovakia",
+      "genre": "Funk",
+      "countryCode": "SK",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://stream.nucrooze.com/listen/nucrooze/radio.aac"
     }
   ]
 }

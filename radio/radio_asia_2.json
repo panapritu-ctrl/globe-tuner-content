@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-21T05:41:41Z",
+  "updated": "2026-11-22T05:04:53Z",
   "region": "asia",
   "part": 2,
   "of": 3,
@@ -2819,19 +2819,6 @@
       "countryCode": "GE",
       "language": "georgian",
       "clickCount": 2,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_sivrce_561665cf",
-      "title": "რადიო სივრცე (Radio Sivrce)",
-      "subtitle": "Radio",
-      "imageUrl": "https://spnews.io/img/logoRadio.png",
-      "streamUrl": "https://proxy.streamer.mediabox.ge/ice/8000/sivrce",
-      "location": "Tbilisi, Georgia",
-      "genre": "Radio",
-      "countryCode": "GE",
-      "language": "georgian",
-      "clickCount": 0,
       "bitrate": 128
     },
     {
@@ -8563,15 +8550,6 @@
       "genre": "Mantra",
       "countryCode": "IN",
       "streamUrl": "http://hot.out.airtime.pro:8000/hot_a"
-    },
-    {
-      "id": "2b_radio_sangam_shri_ram_in_d9125a",
-      "title": "2B! Radio Sangam Shri Ram",
-      "subtitle": "Mantra",
-      "location": "India",
-      "genre": "Mantra",
-      "countryCode": "IN",
-      "streamUrl": "http://dard.out.airtime.pro:8000/dard_a"
     },
     {
       "id": "4lobos_bollywood_radio_in_d2800e",
@@ -18882,18 +18860,6 @@
       "streamUrl": "https://i.klikhost.com/8332/;"
     },
     {
-      "id": "al_rasheed_fm_iq_caf01cb7",
-      "title": "Al rasheed fm",
-      "subtitle": "Arabic",
-      "location": "Iraq",
-      "genre": "Arabic",
-      "countryCode": "IQ",
-      "language": null,
-      "clickCount": 5,
-      "bitrate": 320,
-      "streamUrl": "https://streaming.shoutcast.com/alrasheed-fm?1719771692024"
-    },
-    {
       "id": "radio_ar_bali_id_2f9f254d",
       "title": "Radio AR Bali",
       "subtitle": "Easy Listening",
@@ -20632,18 +20598,6 @@
       "clickCount": 3,
       "bitrate": 32,
       "streamUrl": "http://45.32.103.238:8056/live"
-    },
-    {
-      "id": "myfriends_station_my_9446c93d",
-      "title": "MyFriends Station",
-      "subtitle": "Classic Rock",
-      "location": "Malaysia",
-      "genre": "Classic Rock",
-      "countryCode": "MY",
-      "language": "malay",
-      "clickCount": 3,
-      "bitrate": 128,
-      "streamUrl": "https://cast3.asurahosting.com/proxy/myfriend/stream"
     },
     {
       "id": "radio_city_chennai_in_bdf3f679",
@@ -26238,18 +26192,6 @@
       "streamUrl": "https://stream.zeno.fm/mk6qxx8hpm0uv"
     },
     {
-      "id": "mbc_fm4u_kr_916d775b",
-      "title": "안동MBC FM4U",
-      "subtitle": "K-Pop",
-      "location": "The Republic Of Korea",
-      "genre": "K-Pop",
-      "countryCode": "KR",
-      "language": "korean",
-      "clickCount": 6,
-      "bitrate": 36,
-      "streamUrl": "https://live.andongmbc.co.kr/live/fmlive/playlist.m3u8"
-    },
-    {
       "id": "quran_recitation_by_abdul_rahman_al_usi_kw_668641ee",
       "title": "Quran Recitation by Abdul-Rahman Al-Usi",
       "subtitle": "Arabic",
@@ -28458,18 +28400,6 @@
       "streamUrl": "http://202.147.199.98/;?1737921496499"
     },
     {
-      "id": "ran_fm_lk_37fc5deb",
-      "title": "Ran FM",
-      "subtitle": "Entertainment",
-      "location": "Sri Lanka",
-      "genre": "Entertainment",
-      "countryCode": "LK",
-      "language": "sinhala",
-      "clickCount": 16,
-      "bitrate": 320,
-      "streamUrl": "https://a3.asurahosting.com/listen/ranfm/radio.mp3"
-    },
-    {
       "id": "yarmouk_university_fm_jo_10be34c3",
       "title": "Yarmouk University FM",
       "subtitle": "Radio",
@@ -28636,6 +28566,90 @@
       "clickCount": 5,
       "bitrate": 0,
       "streamUrl": "https://live.koryocdn.org/kcbs2/index.m3u8"
+    },
+    {
+      "id": "kbs_cool_fm_kr_2291cdaa",
+      "title": "KBS Cool FM",
+      "subtitle": "Radio",
+      "location": "The Republic Of Korea",
+      "genre": "Radio",
+      "countryCode": "KR",
+      "language": null,
+      "clickCount": 86,
+      "bitrate": 0,
+      "streamUrl": "https://2fm-ad.gscdn.kbs.co.kr/2fm_ad_192_1.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8yZm0tYWQuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTU0Njg5MTB9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=if3Suk5GSmea4IcFdhAqboeYgVZGWSVZN~Wu34zUhPBl-176orlRUNzPcit-dD~02Z7IploB2icMfKEG7L7VqGZf5IJ3kCgssKAJLnQdLVHLB0U6Ajzz4nu5M0VkV79nwBWIRhBG-DztmSrquxN2hEqpevqAz85GYELyluBEbTFSqgt7nXuU~pGDKLafPnlIk9Qkep-HGERj7Dw4qVs72SBvvIhhSOlr4nNWCt22cvOMReu3slv063-NBwsitMbAsbDgPAilMb69xflw5flHmL5CtDjwvYz1LJ-7Dr8fJndB~zsyChZiiysIm0MmRpbFqW2Otkqn4qpfL6SApYXWWQ__"
+    },
+    {
+      "id": "al_rasheed_fm_iq_caf01cb7",
+      "title": "Al rasheed fm",
+      "subtitle": "Arabic",
+      "location": "Iraq",
+      "genre": "Arabic",
+      "countryCode": "IQ",
+      "language": null,
+      "clickCount": 41,
+      "bitrate": 320,
+      "streamUrl": "https://streaming.shoutcast.com/alrasheed-fm?1719771692024"
+    },
+    {
+      "id": "station_kp_74bc14cb",
+      "title": "평양음악방송",
+      "subtitle": "Korean Music",
+      "location": "The Democratic Peoples Republic Of Korea",
+      "genre": "Korean Music",
+      "countryCode": "KP",
+      "language": "korean",
+      "clickCount": 38,
+      "bitrate": 0,
+      "streamUrl": "https://live.koryocdn.org/pyfm/index.m3u8"
+    },
+    {
+      "id": "mbc_fm4u_kr_916d775b",
+      "title": "안동MBC FM4U",
+      "subtitle": "K-Pop",
+      "location": "The Republic Of Korea",
+      "genre": "K-Pop",
+      "countryCode": "KR",
+      "language": "korean",
+      "clickCount": 8,
+      "bitrate": 36,
+      "streamUrl": "https://live.andongmbc.co.kr/live/fmlive/playlist.m3u8"
+    },
+    {
+      "id": "spiritflow_sounds_radio_om_f1671ffd",
+      "title": "SpiritFlow Sounds Radio",
+      "subtitle": "African Gospel",
+      "location": "Oman",
+      "genre": "African Gospel",
+      "countryCode": "OM",
+      "language": "english",
+      "clickCount": 8,
+      "bitrate": 0,
+      "streamUrl": "https://radio.spiritflowsounds.com/listen/spiritflow-sounds-radio/radio.mp3?utm_source=chatgpt.com"
+    },
+    {
+      "id": "radio_sahar_il_112e9ac7",
+      "title": "Radio Sahar",
+      "subtitle": "Alternative Rock",
+      "location": "Israel",
+      "genre": "Alternative Rock",
+      "countryCode": "IL",
+      "language": "english",
+      "clickCount": 7,
+      "bitrate": 320,
+      "streamUrl": "https://live.ecast.co.il/stream/sahar/stream"
+    },
+    {
+      "id": "radio_tikva_il_289ff31d",
+      "title": "RADIO TIKVA",
+      "subtitle": "Francophone",
+      "location": "Israel",
+      "genre": "Francophone",
+      "countryCode": "IL",
+      "language": "french",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://stream10.vestaradio.com/radiotikva"
     }
   ]
 }

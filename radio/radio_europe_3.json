@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-21T05:41:41Z",
+  "updated": "2026-11-22T05:04:53Z",
   "region": "europe",
   "part": 3,
   "of": 8,
@@ -2012,19 +2012,6 @@
       "streamUrl": "https://crtvg-radiogalega-musica-hls.flumotion.cloud/playlist.m3u8"
     },
     {
-      "id": "rb2_radio_genil_d7b37dce",
-      "title": "Radio Genil",
-      "subtitle": "Radio",
-      "imageUrl": "https://radiogenil.es/ico.png",
-      "streamUrl": "https://stream.positivafm.es:8102/genil",
-      "location": "Spain",
-      "genre": "Radio",
-      "countryCode": "ES",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 192
-    },
-    {
       "id": "rb2_radio_guadaira_25c10d9e",
       "title": "Radio Guadaira",
       "subtitle": "Local Radio",
@@ -2704,19 +2691,6 @@
       "genre": "Canal Red Radio",
       "countryCode": "ES",
       "language": "spanish",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_redondela_882cdd67",
-      "title": "Radio Redondela",
-      "subtitle": "Radio",
-      "imageUrl": "https://www.radioredondela.com/wp-content/uploads/2020/10/cropped-rr_logo_small-192x192.png",
-      "streamUrl": "https://stream.visualtec.host:8000/redondela.mp3",
-      "location": "Vigo - Pontevedra, Spain",
-      "genre": "Radio",
-      "countryCode": "ES",
-      "language": null,
       "clickCount": 0,
       "bitrate": 128
     },
@@ -8345,19 +8319,6 @@
       "countryCode": "FR",
       "language": "english",
       "clickCount": 1,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_cp2077_ritual_fm_96_1_9b0443f4",
-      "title": "CP2077 - Ritual FM 96.1",
-      "subtitle": "Radio",
-      "imageUrl": "https://www.nexusxiv.fr/media/radio/logos/96.1_Ritual_FM.webp",
-      "streamUrl": "http://82.65.103.36:8000/ritual-fm",
-      "location": "France",
-      "genre": "Radio",
-      "countryCode": "FR",
-      "language": "english",
-      "clickCount": 0,
       "bitrate": 128
     },
     {
@@ -26510,18 +26471,6 @@
       "streamUrl": "https://wecast-bl01.flumotion.com/copesedes/alicante.mp3"
     },
     {
-      "id": "bbc_radio_5_sports_extra_uk_only_gb_7ca967df",
-      "title": "BBC Radio 5 Sports Extra (UK only)",
-      "subtitle": "Sports",
-      "location": "The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "Sports",
-      "countryCode": "GB",
-      "language": "english",
-      "clickCount": 11,
-      "bitrate": 135,
-      "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/audio_syndication_med_sbr_v1/aks/bbc_radio_five_live_sports_extra.m3u8"
-    },
-    {
       "id": "hitwest_fr_92eed14d",
       "title": "HITWEST",
       "subtitle": "Radio",
@@ -26628,18 +26577,6 @@
       "clickCount": 4,
       "bitrate": 64,
       "streamUrl": "https://usa1-vn.mixstream.net/8084/listen.mp3"
-    },
-    {
-      "id": "bbc_radio_5_sports_extra_3_uk_only_gb_15a11830",
-      "title": "BBC Radio 5 Sports Extra 3 (UK only)",
-      "subtitle": "Sports",
-      "location": "The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "Sports",
-      "countryCode": "GB",
-      "language": "english",
-      "clickCount": 4,
-      "bitrate": 135,
-      "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/audio_syndication_med_sbr_v1/aks/bbc_radio_five_sports_extra_3.m3u8"
     },
     {
       "id": "kizrock_m_tal_fr_dbc2c255",
@@ -28118,18 +28055,6 @@
       "streamUrl": "https://streaming.nrjaudio.fm/ou4w4ahtd2ko"
     },
     {
-      "id": "france24_espa_ol_fr_b6b44060",
-      "title": "France24 Español",
-      "subtitle": "Noticias",
-      "location": "France",
-      "genre": "Noticias",
-      "countryCode": "FR",
-      "language": "spanish",
-      "clickCount": 4,
-      "bitrate": 105,
-      "streamUrl": "http://static.france24.com/live/F24_ES_LO_HLS/live_audio.m3u8"
-    },
-    {
       "id": "dj_audio_gb_26b90757",
       "title": "Dj audio",
       "subtitle": "Radio",
@@ -28140,6 +28065,150 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://stream.zeno.fm/7qfsnmc8rrhvv"
+    },
+    {
+      "id": "bbc_radio_1_dance_official_hls_gb_45b39577",
+      "title": "BBC Radio 1 Dance (Official HLS)",
+      "subtitle": "Bbc",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Bbc",
+      "countryCode": "GB",
+      "language": "english",
+      "clickCount": 22,
+      "bitrate": 101,
+      "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one_dance.m3u8"
+    },
+    {
+      "id": "bbc_radio_5_sports_extra_uk_only_gb_7ca967df",
+      "title": "BBC Radio 5 Sports Extra (UK only)",
+      "subtitle": "Sports",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Sports",
+      "countryCode": "GB",
+      "language": "english",
+      "clickCount": 15,
+      "bitrate": 135,
+      "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/audio_syndication_med_sbr_v1/aks/bbc_radio_five_live_sports_extra.m3u8"
+    },
+    {
+      "id": "bbc_radio_1_dance_320kbps_gb_53cfa0ea",
+      "title": "BBC Radio 1 Dance (320kbps)",
+      "subtitle": "Bbc",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Bbc",
+      "countryCode": "GB",
+      "language": "english",
+      "clickCount": 10,
+      "bitrate": 0,
+      "streamUrl": "https://as-hls-ww.live.cf.md.bbci.co.uk/pool_62063831/live/ww/bbc_radio_one_dance/bbc_radio_one_dance.isml/bbc_radio_one_dance-audio%3d320000.norewind.m3u8"
+    },
+    {
+      "id": "bbc_radio_5_sports_extra_3_uk_only_gb_15a11830",
+      "title": "BBC Radio 5 Sports Extra 3 (UK only)",
+      "subtitle": "Sports",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Sports",
+      "countryCode": "GB",
+      "language": "english",
+      "clickCount": 9,
+      "bitrate": 135,
+      "streamUrl": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/audio_syndication_med_sbr_v1/aks/bbc_radio_five_sports_extra_3.m3u8"
+    },
+    {
+      "id": "greatest_hits_radio_devon_gb_1cc8480f",
+      "title": "Greatest Hits Radio (Devon)",
+      "subtitle": "1970",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "1970",
+      "countryCode": "GB",
+      "language": "english",
+      "clickCount": 7,
+      "bitrate": 112,
+      "streamUrl": "https://stream-mz.hellorayo.co.uk/net2devon.mp3?aw_0_1st.skey=1602676850"
+    },
+    {
+      "id": "sevilla_fc_radio_es_d1f7ea91",
+      "title": "Sevilla FC Radio",
+      "subtitle": "Radio",
+      "location": "Spain",
+      "genre": "Radio",
+      "countryCode": "ES",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_ye0b8tc0/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8"
+    },
+    {
+      "id": "tdp_tv_es_d0e6b472",
+      "title": "TDP TV",
+      "subtitle": "Deportes",
+      "location": "Spain",
+      "genre": "Deportes",
+      "countryCode": "ES",
+      "language": "castellano. español",
+      "clickCount": 4,
+      "bitrate": 3012,
+      "streamUrl": "https://ztnr.rtve.es/ztnr/1712295.m3u8"
+    },
+    {
+      "id": "music_radio_disco_fr_bc24fba2",
+      "title": "Music Radio Disco",
+      "subtitle": "Ai Music",
+      "location": "France",
+      "genre": "Ai Music",
+      "countryCode": "FR",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://radio.musicradio.ai/listen/music_radio_disco/radio.mp3"
+    },
+    {
+      "id": "tsugi_radio_fr_94850c5d",
+      "title": "Tsugi Radio",
+      "subtitle": "Electro House Techno Indie Hiphop",
+      "location": "France",
+      "genre": "Electro House Techno Indie Hiphop",
+      "countryCode": "FR",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://listen.radioking.com/radio/1906/stream/6029"
+    },
+    {
+      "id": "nostalgie_100_francais_80s_fr_7844e0a6",
+      "title": "Nostalgie 100% Francais 80s",
+      "subtitle": "80S",
+      "location": "France",
+      "genre": "80S",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://streaming.nrjaudio.fm/out2976ubafg?origine=playernostalgie&aw_0_req.userConsentV2=CQthOAAQthOAAAHABBENC4FsAP_gAEPgAAqIJ2tR_G_fbWlj-TZ1YbpkeYwP99gj7sQxBgSIkm4FyJvW7JwCx2ESJAyapiIKmRIAu3DBAQNlGADURUAAIIAFqSDMaESUgTNKJ6BEiEMRIyJQCExvm4FDeQCZ4kp_9kcwmB-s6dr-yNzgAgAAAUCAIAAgAIABAACIAAAgAAEAAQAAgiwACAAAAAAAAEAAAFAAAAAAAAEAAAACAAAAAAAAIJ2gAmGhUQAlgQCBAoCAECAAQVhABQIAgAASAggIASBgQ5AwAXWESAAAKAAIIAQAAgwABAAAJAAhEAEABAIAQIBAIAAQAAAAIACBAADABQiAQAAgOgYBAQQCBYAJEYUBggQgAIBASyFCAAAAgAACAAAAAAIAAAAAAAAAgAAEAAAAAggQAAAAAAAAAAEAAABAAEAAAAAAAAAAAAAAAAAAAIAA.IJ2tR_G_fbWlj-TZ14bpkeYwf99gj7sQxBgSIkm4FyJvW7JwC32ESJAyapiIKmRIAu3DBAQNtGAjURUABIIAVqTDMaESUgTNKJ6BEiHMRYyJQCExvm4FDeQCZ4kp_90dwmR-s6dr-yNzgAgAgAUCAIAAgAIABAACIAAAgAAEAAQAAgiwACAAAAAAAAEAAAFAAEAAAAAEAAAACAAAAAAAAIAA.f_wACHwAAAAA&aw_0_1st.station=Nostalgie-100-Francais-80"
+    },
+    {
+      "id": "europe_2_dance_fr_4b77ef01",
+      "title": "Europe 2 Dance",
+      "subtitle": "Dance",
+      "location": "France",
+      "genre": "Dance",
+      "countryCode": "FR",
+      "language": "https://cdn.europe2.fr/upload/favicon_6a7d9907734bc0.09491199.ico?v=1786616072",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://europe2.lmn.fm/vr-wr19.aac"
+    },
+    {
+      "id": "gretopia_radio_gb_a6f341d5",
+      "title": "Gretopia Radio",
+      "subtitle": "60S",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "60S",
+      "countryCode": "GB",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 256,
+      "streamUrl": "https://audio.stream.gretor.net/listen/gretopia_radio/radio.mp3"
     }
   ]
 }

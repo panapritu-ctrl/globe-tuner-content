@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-21T05:41:41Z",
+  "updated": "2026-11-22T05:04:53Z",
   "region": "asia",
   "part": 1,
   "of": 3,
@@ -14688,19 +14688,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_station_ffd28ae3",
-      "title": "大连都市之声",
-      "subtitle": "Culture, Entertainment",
-      "imageUrl": "https://pic.qtfm.cn/2024/1211/20241211043454.png",
-      "streamUrl": "http://live.ximalaya.com/radio-first-page-app/live/2819/64.m3u8",
-      "location": "Dalian, China",
-      "genre": "Culture",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_station_abed049c",
       "title": "大连音乐广播",
       "subtitle": "Children, Music",
@@ -16606,19 +16593,6 @@
       "streamUrl": "http://lhttp.qingting.fm/live/5021507/64k.mp3",
       "location": "Hopei, China",
       "genre": "Culture",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_station_c0026cc9",
-      "title": "张家口综合广播",
-      "subtitle": "Radio",
-      "imageUrl": "http://pic.qingting.fm/2024/0311/20240311125755.png",
-      "streamUrl": "https://lhttp-hw.qtfm.cn/live/15318285/64k.mp3",
-      "location": "China",
-      "genre": "Radio",
       "countryCode": "CN",
       "language": "chinese",
       "clickCount": 0,
@@ -25556,18 +25530,6 @@
       "streamUrl": "https://pili-live-hls-zdzz-tv.zzxwcm.cn/zdzz-tv/nqzhgb.m3u8"
     },
     {
-      "id": "station_cn_320bc403",
-      "title": "滨海文艺广播",
-      "subtitle": "Crosstalk",
-      "location": "China",
-      "genre": "Crosstalk",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 5,
-      "bitrate": 64,
-      "streamUrl": "http://traffic.jbh.tjbh.com/live/FM101.7/playlist.m3u8"
-    },
-    {
       "id": "qami_lo_af_24599709",
       "title": "Qamişlo",
       "subtitle": "Classical",
@@ -26792,18 +26754,6 @@
       "streamUrl": "https://videoplaynew.yanqingrmzx.com/yq/gb.m3u8"
     },
     {
-      "id": "station_cn_574990bc",
-      "title": "南宁故事广播",
-      "subtitle": "Culture",
-      "location": "China",
-      "genre": "Culture",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 4,
-      "bitrate": 2560,
-      "streamUrl": "https://hls.nntv.cn/nnradio/895_24.m3u8"
-    },
-    {
       "id": "station_cn_06dddbea",
       "title": "津南之声",
       "subtitle": "Full Service",
@@ -27666,6 +27616,66 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "https://streetcatpull.hellobike.com/live/4154701567245307824_0.m3u8"
+    },
+    {
+      "id": "taleemul_quran_radio_af_ac33df82",
+      "title": "Taleemul Quran Radio",
+      "subtitle": "Islamic",
+      "location": "Afghanistan",
+      "genre": "Islamic",
+      "countryCode": "AF",
+      "language": "pashto",
+      "clickCount": 8,
+      "bitrate": 64,
+      "streamUrl": "https://radio.hewadict.com/proxy/quranradio?mp=/stream"
+    },
+    {
+      "id": "station_cn_574990bc",
+      "title": "南宁故事广播",
+      "subtitle": "Culture",
+      "location": "China",
+      "genre": "Culture",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 5,
+      "bitrate": 2560,
+      "streamUrl": "https://hls.nntv.cn/nnradio/895_24.m3u8"
+    },
+    {
+      "id": "radio_sadaye_zindagi_af_da9a9233",
+      "title": "Radio Sadaye Zindagi",
+      "subtitle": "Christian",
+      "location": "Afghanistan",
+      "genre": "Christian",
+      "countryCode": "AF",
+      "language": "dari",
+      "clickCount": 4,
+      "bitrate": 56,
+      "streamUrl": "https://afghanradio.org:9443/stream"
+    },
+    {
+      "id": "station_cn_75f98090",
+      "title": "甘肃新闻综合广播",
+      "subtitle": "Full Service",
+      "location": "China",
+      "genre": "Full Service",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://rscdn.ajmide.com/r_1249/nglive_1249.m3u8"
+    },
+    {
+      "id": "station_cn_6dc50776",
+      "title": "成都潮台",
+      "subtitle": "88.7",
+      "location": "China",
+      "genre": "88.7",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://live.ximalaya.com/radio-first-page-app/live/2781/64.m3u8"
     }
   ]
 }

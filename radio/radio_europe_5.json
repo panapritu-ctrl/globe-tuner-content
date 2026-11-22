@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-21T05:41:41Z",
+  "updated": "2026-11-22T05:04:53Z",
   "region": "europe",
   "part": 5,
   "of": 8,
@@ -736,19 +736,6 @@
       "countryCode": "GR",
       "language": "greek",
       "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_proto_a9cdd914",
-      "title": "Proto Κως",
-      "subtitle": "Greek, News",
-      "imageUrl": "https://radioproto.gr/wp-content/uploads/2020/12/ico-r.png",
-      "streamUrl": "http://server.insms.gr:45114/;stream.mp3",
-      "location": "Kos, Greece",
-      "genre": "Greek",
-      "countryCode": "GR",
-      "language": "greek",
-      "clickCount": 2,
       "bitrate": 128
     },
     {
@@ -25489,18 +25476,6 @@
       "streamUrl": "https://radiostreaming.ert.gr/ert-voiceofgreece"
     },
     {
-      "id": "radio_rebetikes_melodies_gr_e28b8664",
-      "title": "Radio Rebetikes Melodies",
-      "subtitle": "Greek Folk",
-      "location": "Greece",
-      "genre": "Greek Folk",
-      "countryCode": "GR",
-      "language": "greek",
-      "clickCount": 8,
-      "bitrate": 128,
-      "streamUrl": "https://rebetis.duckdns.org:8545/live"
-    },
-    {
       "id": "hrt_radio_split_hr_7484133e",
       "title": "HRT Radio Split",
       "subtitle": "Hrt",
@@ -28619,6 +28594,78 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://stream.voxaria.live/listen/voxaria/diretta.mp3"
+    },
+    {
+      "id": "groove_city_hu_578d3c1b",
+      "title": "Groove City",
+      "subtitle": "Pop",
+      "location": "Hungary",
+      "genre": "Pop",
+      "countryCode": "HU",
+      "language": "hungarian",
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "https://www.radiogroove.hu/city.mp3/"
+    },
+    {
+      "id": "l_v_z_r_di_living_water_radio_hu_70614d30",
+      "title": "Élő Víz Rádió - Living Water Radio",
+      "subtitle": "A Cappella",
+      "location": "Hungary",
+      "genre": "A Cappella",
+      "countryCode": "HU",
+      "language": "hungarian",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://radio.truth.fm:8000/hungary"
+    },
+    {
+      "id": "rockradio32_hu_f8ac5a31",
+      "title": "RockRadio32",
+      "subtitle": "Hard Rock",
+      "location": "Hungary",
+      "genre": "Hard Rock",
+      "countryCode": "HU",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "https://rockradio32.com/listen/rockradio32/radio.mp3"
+    },
+    {
+      "id": "kiis_95_8_gr_3ce04f9a",
+      "title": "KIIS 95.8",
+      "subtitle": "Pop",
+      "location": "Greece",
+      "genre": "Pop",
+      "countryCode": "GR",
+      "language": "greek",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://streams.enjoyfm.gr:48500/kiis958.mp3"
+    },
+    {
+      "id": "radio_north_846_am_redcastle_ireland_ie_6115e739",
+      "title": "Radio North 846 AM Redcastle, Ireland",
+      "subtitle": "Christian Preaching",
+      "location": "Ireland",
+      "genre": "Christian Preaching",
+      "countryCode": "IE",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://usa6.fastcast4u.com/proxy/ljohns03?mp=/stream"
+    },
+    {
+      "id": "rmc_bluemoon_it_69066ae5",
+      "title": "RMC BlueMoon",
+      "subtitle": "Music",
+      "location": "Italy",
+      "genre": "Music",
+      "countryCode": "IT",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://icy.unitedradio.it/rmcweb017"
     }
   ]
 }

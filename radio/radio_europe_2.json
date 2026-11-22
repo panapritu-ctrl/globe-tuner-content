@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-21T05:41:41Z",
+  "updated": "2026-11-22T05:04:53Z",
   "region": "europe",
   "part": 2,
   "of": 8,
@@ -24333,19 +24333,6 @@
       "streamUrl": "http://streaming5.elitecomunicacion.es:8230/;"
     },
     {
-      "id": "rb2_decibelia_fm_6215226f",
-      "title": "Decibelia FM",
-      "subtitle": "Breakbeat",
-      "imageUrl": "https://decibeliafm.es/web/wp-content/uploads/2022/12/Decibelia-FM-Logo-Letras-01-Blanco-e1672154375524-147x39.png",
-      "streamUrl": "http://master.shoutcast.com:8000/decibelia",
-      "location": "Spain",
-      "genre": "Breakbeat",
-      "countryCode": "ES",
-      "language": "spanish",
-      "clickCount": 0,
-      "bitrate": 96
-    },
-    {
       "id": "digital_hits_fm_es_5ced97",
       "title": "Digital Hits FM",
       "subtitle": "Dance",
@@ -33759,18 +33746,6 @@
       "streamUrl": "http://noiseonfm.stream.laut.fm/noiseonfm"
     },
     {
-      "id": "dr_p4_k_benhavn_aac_dk_b9ea5518",
-      "title": "DR P4 København (AAC)",
-      "subtitle": "Regional Radio",
-      "location": "Denmark",
-      "genre": "Regional Radio",
-      "countryCode": "DK",
-      "language": "danish",
-      "clickCount": 7,
-      "bitrate": 324,
-      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4kobenhavn/masterab.m3u8"
-    },
-    {
       "id": "solidcast_flac_de_bdf80681",
       "title": "SolidCast FLAC",
       "subtitle": "Various",
@@ -33819,18 +33794,6 @@
       "streamUrl": "https://stream.laut.fm/radionarcan"
     },
     {
-      "id": "dr_p1_aac_dk_5bbf616a",
-      "title": "DR P1 (AAC)",
-      "subtitle": "Radio",
-      "location": "Denmark",
-      "genre": "Radio",
-      "countryCode": "DK",
-      "language": "danish",
-      "clickCount": 5,
-      "bitrate": 324,
-      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p1/masterab.m3u8"
-    },
-    {
       "id": "bayern_1_oberbayern_hls_96_de_e422c06c",
       "title": "Bayern 1 Oberbayern (HLS 96)",
       "subtitle": "Oldies",
@@ -33865,18 +33828,6 @@
       "clickCount": 17,
       "bitrate": 128,
       "streamUrl": "http://radio.streemlion.com:1160/stream"
-    },
-    {
-      "id": "bayern1_obb_de_6d39ba57",
-      "title": "Bayern1 Obb",
-      "subtitle": "70/8",
-      "location": "Germany",
-      "genre": "70/8",
-      "countryCode": "DE",
-      "language": "bayrisch",
-      "clickCount": 6,
-      "bitrate": 0,
-      "streamUrl": "https://streams.br.de/bayern1obb_2.m3u"
     },
     {
       "id": "r_sa_italo_disco_de_5e620362",
@@ -34299,18 +34250,6 @@
       "streamUrl": "https://edge11.live-sm.absolutradio.de/absolut-hot/stream/mp3"
     },
     {
-      "id": "bayern_klassik_256_de_3f33a9ba",
-      "title": "Bayern Klassik 256",
-      "subtitle": "Classical",
-      "location": "Germany",
-      "genre": "Classical",
-      "countryCode": "DE",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 0,
-      "streamUrl": "https://streams.br.de/br-klassik_3.m3u"
-    },
-    {
       "id": "a_passing_feeling_de_5d9a0d32",
       "title": "A Passing Feeling",
       "subtitle": "Alternative",
@@ -34729,18 +34668,6 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "http://mp3.harmonyfm.de/hrmchannels/hqstars03.mp3?aw_0_req.gdpr=true"
-    },
-    {
-      "id": "dr_p4_nordjylland_aac_dk_412ae0ef",
-      "title": "DR P4 Nordjylland (AAC)",
-      "subtitle": "Regional Radio",
-      "location": "Denmark",
-      "genre": "Regional Radio",
-      "countryCode": "DK",
-      "language": "danish",
-      "clickCount": 4,
-      "bitrate": 324,
-      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4nordjylland/masterab.m3u8"
     },
     {
       "id": "dr_p8_jazz_aac_dk_ee45cacf",
@@ -35197,6 +35124,138 @@
       "clickCount": 4,
       "bitrate": 256,
       "streamUrl": "https://stream.skymedia.ee/live/rrock"
+    },
+    {
+      "id": "dr_p4_k_benhavn_aac_dk_b9ea5518",
+      "title": "DR P4 København (AAC)",
+      "subtitle": "Regional Radio",
+      "location": "Denmark",
+      "genre": "Regional Radio",
+      "countryCode": "DK",
+      "language": "danish",
+      "clickCount": 7,
+      "bitrate": 324,
+      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4kobenhavn/masterab.m3u8"
+    },
+    {
+      "id": "bayern1_obb_de_6d39ba57",
+      "title": "Bayern1 Obb",
+      "subtitle": "70/8",
+      "location": "Germany",
+      "genre": "70/8",
+      "countryCode": "DE",
+      "language": "bayrisch",
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "https://streams.br.de/bayern1obb_2.m3u"
+    },
+    {
+      "id": "weihnachtsmusik_fm_neue_pop_weihnachten_de_f5e395ed",
+      "title": "Weihnachtsmusik.fm Neue Pop Weihnachten",
+      "subtitle": "Christmas Music",
+      "location": "Germany",
+      "genre": "Christmas Music",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "http://streams.weihnachtsmusik.fm/aktuell/mp3-192/streams.weihnachtsmusik.fm/"
+    },
+    {
+      "id": "opus_de_68569097",
+      "title": "/opus",
+      "subtitle": "90S Rave",
+      "location": "Germany",
+      "genre": "90S Rave",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 1411,
+      "streamUrl": "https://stream.solid-software.net/opus"
+    },
+    {
+      "id": "jazzloft_de_b68d9a12",
+      "title": "Jazzloft",
+      "subtitle": "Jazz",
+      "location": "Germany",
+      "genre": "Jazz",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "http://jazzloft.stream.laut.fm/jazzloft?t302=2026-11-17_10-33-30&uuid=3e0c767e-93ac-67e7-0a84-b5b03f70aec7"
+    },
+    {
+      "id": "c3lounge_de_025fa141",
+      "title": "C3Lounge",
+      "subtitle": "Lounge Radio",
+      "location": "Germany",
+      "genre": "Lounge Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "https://live.c3lounge.de:8000/192.mp3"
+    },
+    {
+      "id": "huge_fm_de_1652f731",
+      "title": "HUGE FM",
+      "subtitle": "Phonk",
+      "location": "Germany",
+      "genre": "Phonk",
+      "countryCode": "DE",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://radio.linuxmc.tech/huge-fm"
+    },
+    {
+      "id": "dr_p4_sj_lland_aac_dk_760081a0",
+      "title": "DR P4 Sjælland (AAC)",
+      "subtitle": "Regional Radio",
+      "location": "Denmark",
+      "genre": "Regional Radio",
+      "countryCode": "DK",
+      "language": "danish",
+      "clickCount": 4,
+      "bitrate": 324,
+      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4sjaelland/masterab.m3u8"
+    },
+    {
+      "id": "neuroscope_fm_mobile_128k_ee_09f7c9d1",
+      "title": "NEUROSCOPE FM (mobile 128k)",
+      "subtitle": "Adult Contemporary",
+      "location": "Estonia",
+      "genre": "Adult Contemporary",
+      "countryCode": "EE",
+      "language": "russian",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://a13.asurahosting.com/listen/neuroscope_fm/mobile.mp3"
+    },
+    {
+      "id": "cool_fm_ee_7dc07ff5",
+      "title": "Cool FM",
+      "subtitle": "Pop Dance",
+      "location": "Estonia",
+      "genre": "Pop Dance",
+      "countryCode": "EE",
+      "language": "estonia",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "http://94.130.105.20/listen/coolfm/radio.mp3"
+    },
+    {
+      "id": "retro_fm_j_ulud_ee_9af6f5d4",
+      "title": "Retro FM - Jõulud",
+      "subtitle": "Christmas",
+      "location": "Estonia",
+      "genre": "Christmas",
+      "countryCode": "EE",
+      "language": "estonian",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://stream.skymedia.ee/live/RetroJ6ulud"
     }
   ]
 }

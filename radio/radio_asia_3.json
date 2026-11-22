@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-21T05:41:41Z",
+  "updated": "2026-11-22T05:04:53Z",
   "region": "asia",
   "part": 3,
   "of": 3,
@@ -907,19 +907,6 @@
       "genre": "Radio",
       "countryCode": "PH",
       "language": "filipino",
-      "clickCount": 0,
-      "bitrate": 64
-    },
-    {
-      "id": "rb2_fmr_tacloban_9af22417",
-      "title": "FMR Tacloban",
-      "subtitle": "Radio",
-      "imageUrl": "https://www.amfmph.com/wp-content/uploads/amfmph/fmr-tacloban.png?1742473172",
-      "streamUrl": "http://148.72.153.65:9192/stream",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "language": null,
       "clickCount": 0,
       "bitrate": 64
     },
@@ -14223,18 +14210,6 @@
       "streamUrl": "https://criturk.radyotvonline.net/"
     },
     {
-      "id": "star_fm_cotabato_ph_d6fae8fe",
-      "title": "Star FM Cotabato",
-      "subtitle": "Radio",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "language": null,
-      "clickCount": 3,
-      "bitrate": 0,
-      "streamUrl": "https://stream.zeno.fm/hf1yubc29heuv"
-    },
-    {
       "id": "fm98_9_tw_fa54ecc7",
       "title": "人人電台 好事聯播網FM98.9",
       "subtitle": "Music",
@@ -16299,18 +16274,6 @@
       "streamUrl": "https://audio-lss.vov.vn/live/vov3.m3u8"
     },
     {
-      "id": "ok_fm_legazpi_ph_5b43f036",
-      "title": "OK-FM Legazpi",
-      "subtitle": "Radio",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 102,
-      "streamUrl": "https://s2.netradiostation.com/proxy/dwgb?mp=/stream"
-    },
-    {
       "id": "95_9_xfm_gensan_ph_ae45bc28",
       "title": "95.9 XFM Gensan",
       "subtitle": "Radio",
@@ -16333,18 +16296,6 @@
       "clickCount": 26,
       "bitrate": 96,
       "streamUrl": "https://broadcast.shoutstream.co.uk:8078/stream"
-    },
-    {
-      "id": "power_radio_fm_99_islamabad_pk_9a2d357c",
-      "title": "Power Radio FM 99 Islamabad",
-      "subtitle": "Music",
-      "location": "Pakistan",
-      "genre": "Music",
-      "countryCode": "PK",
-      "language": "urdu",
-      "clickCount": 10,
-      "bitrate": 128,
-      "streamUrl": "https://isb.power99.live/stream"
     },
     {
       "id": "105_9_energy_fm_dwla_ph_20d82615",
@@ -16887,18 +16838,6 @@
       "streamUrl": "https://cdn-th2.livestreaming.in.th/shoutcast/8730"
     },
     {
-      "id": "sawt_al_farah_sy_12bb811f",
-      "title": "Sawt Al Farah",
-      "subtitle": "Radio",
-      "location": "Syrian Arab Republic",
-      "genre": "Radio",
-      "countryCode": "SY",
-      "language": "arabic",
-      "clickCount": 19,
-      "bitrate": 128,
-      "streamUrl": "https://radio.garden/api/ara/content/listen/TBbZ87vu/channel.mp3"
-    },
-    {
       "id": "great_93_fm_th_6cc4b86d",
       "title": "Great 93 FM",
       "subtitle": "Pop",
@@ -17259,18 +17198,6 @@
       "streamUrl": "https://sslyayin.netyayin.net/gonulfm/stream"
     },
     {
-      "id": "klick_fm_106_3_bacolod_ph_c15ab096",
-      "title": "Klick FM 106.3 Bacolod",
-      "subtitle": "Radio",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 48,
-      "streamUrl": "http://209.126.124.126:8721/stream"
-    },
-    {
       "id": "y101_cebu_ph_6cf6a35a",
       "title": "Y101 Cebu",
       "subtitle": "Radio",
@@ -17329,18 +17256,6 @@
       "clickCount": 4,
       "bitrate": 300,
       "streamUrl": "https://live.topnews.co.th/hls/topnews.m3u8"
-    },
-    {
-      "id": "damlachatfm_damlachat_radyo_tr_66181974",
-      "title": "DamlaChatFM - DamLaChat Radyo",
-      "subtitle": "Chat",
-      "location": "Türkiye",
-      "genre": "Chat",
-      "countryCode": "TR",
-      "language": "turkish",
-      "clickCount": 4,
-      "bitrate": 128,
-      "streamUrl": "http://radyo.damlachat.com:8346/;"
     },
     {
       "id": "vitamin_fm_88_4_tr_cf167085",
@@ -17797,6 +17712,66 @@
       "clickCount": 5,
       "bitrate": 128,
       "streamUrl": "https://radyo2.fkbs.com.tr/8048/stream"
+    },
+    {
+      "id": "radyo_ritim_tr_ff4d0c08",
+      "title": "Radyo Ritim",
+      "subtitle": "Yerel",
+      "location": "Türkiye",
+      "genre": "Yerel",
+      "countryCode": "TR",
+      "language": "turkish",
+      "clickCount": 7,
+      "bitrate": 96,
+      "streamUrl": "https://sslyayin.netyayin.net/erzurumritm"
+    },
+    {
+      "id": "radyo_meal_t_rk_e_kuran_meali_tr_ed603373",
+      "title": "Radyo Meal Türkçe Kuran Meali",
+      "subtitle": "Kur'An-I Kerim",
+      "location": "Türkiye",
+      "genre": "Kur'An-I Kerim",
+      "countryCode": "TR",
+      "language": "türkisch",
+      "clickCount": 7,
+      "bitrate": 128,
+      "streamUrl": "https://anadolu.liderhost.com.tr:10995/;"
+    },
+    {
+      "id": "jam_88_3_ph_30735952",
+      "title": "Jam 88.3",
+      "subtitle": "Radio",
+      "location": "The Philippines",
+      "genre": "Radio",
+      "countryCode": "PH",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "http://sg-icecast.eradioportal.com:8000/jam883"
+    },
+    {
+      "id": "973fm_blasts_that_last_radio_sg_31c5a8d8",
+      "title": "973FM: Blasts That Last radio",
+      "subtitle": "Hits",
+      "location": "Singapore",
+      "genre": "Hits",
+      "countryCode": "SG",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 48,
+      "streamUrl": "https://c16.radioboss.fm:18115/stream?icecast"
+    },
+    {
+      "id": "arabesk_fm_tr_53bc4751",
+      "title": "Arabesk FM",
+      "subtitle": "Arabesk",
+      "location": "Türkiye",
+      "genre": "Arabesk",
+      "countryCode": "TR",
+      "language": "türkisch",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://yayin.radyodurak.com/8016/stream"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-21T05:41:41Z",
+  "updated": "2026-11-22T05:04:53Z",
   "region": "europe",
   "part": 7,
   "of": 8,
@@ -15526,19 +15526,6 @@
       "bitrate": 192
     },
     {
-      "id": "rb2_3_music_6063667a",
-      "title": "3 Music",
-      "subtitle": "Расслабляющая, Чилаут",
-      "imageUrl": "https://3musicradio.com/wp-content/uploads/2020/09/3musiclogo5-250x250.png",
-      "streamUrl": "http://misato.ru-hoster.com:8057/stream",
-      "location": "Москва, The Russian Federation",
-      "genre": "Расслабляющая",
-      "countryCode": "RU",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_32_87_9_fm_8830c3f4",
       "title": "32 Радио Брянск 87.9 FM",
       "subtitle": "32 Radio, 87_9 Fm",
@@ -18679,19 +18666,6 @@
       "language": null,
       "clickCount": 2,
       "bitrate": 320
-    },
-    {
-      "id": "rb2_kids_hits_befd15f4",
-      "title": "KIDS HITS",
-      "subtitle": "Radio",
-      "imageUrl": "http://kids-hits.ru/wp-content/uploads/2020/08/favicon.png",
-      "streamUrl": "https://listen4.myradio24.com/kidshits",
-      "location": "The Russian Federation",
-      "genre": "Radio",
-      "countryCode": "RU",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 128
     },
     {
       "id": "rb2_kamchatka_live_chillout_6884c612",
@@ -24625,18 +24599,6 @@
       "streamUrl": "https://go-audio.toya.net.pl/63222"
     },
     {
-      "id": "naxi_fresh_radio_rs_5d51b6ba",
-      "title": "Naxi Fresh Radio",
-      "subtitle": "Radio",
-      "location": "Serbia",
-      "genre": "Radio",
-      "countryCode": "RS",
-      "language": "serbian",
-      "clickCount": 6,
-      "bitrate": 128,
-      "streamUrl": "https://naxidigital-fresh128ssl.streaming.rs:8212/;stream.nsv"
-    },
-    {
       "id": "naxi_latino_radio_rs_4f7caa9f",
       "title": "Naxi Latino Radio",
       "subtitle": "Radio",
@@ -25261,18 +25223,6 @@
       "streamUrl": "http://listen13.vdfm.ru:8000/dacha"
     },
     {
-      "id": "antyradio_warszawa_pl_1b8bea60",
-      "title": "Antyradio Warszawa",
-      "subtitle": "Radio",
-      "location": "Poland",
-      "genre": "Radio",
-      "countryCode": "PL",
-      "language": null,
-      "clickCount": 6,
-      "bitrate": 128,
-      "streamUrl": "https://an.cdn.eurozet.pl/ant-web.mp3?t=1703697029993"
-    },
-    {
       "id": "gta_iv_massive_b_soundsystem_96_9_gtaradio_net_ru_107a8774",
       "title": "[GTA IV] Massive B Soundsystem 96.9 [GTARadio.net]",
       "subtitle": "Dancehall",
@@ -25511,18 +25461,6 @@
       "clickCount": 29,
       "bitrate": 128,
       "streamUrl": "https://naxidigital-exyu128ssl.streaming.rs:8242/;stream.nsv"
-    },
-    {
-      "id": "futrzak_fm_320kbps_pl_e5734206",
-      "title": "FUTRZAK.FM - 320kbps",
-      "subtitle": "Edm",
-      "location": "Poland",
-      "genre": "Edm",
-      "countryCode": "PL",
-      "language": "english",
-      "clickCount": 7,
-      "bitrate": 320,
-      "streamUrl": "https://audio.futrzak.fm/futrzakfm-320"
     },
     {
       "id": "rock_radio_beograd_rs_472976a1",
@@ -26315,6 +26253,90 @@
       "clickCount": 5,
       "bitrate": 0,
       "streamUrl": "http://217.182.76.63:8000/bfmweb"
+    },
+    {
+      "id": "radio_folclor_ro_6a108776",
+      "title": "Radio Folclor",
+      "subtitle": "Folclor",
+      "location": "Romania",
+      "genre": "Folclor",
+      "countryCode": "RO",
+      "language": "romanian",
+      "clickCount": 8,
+      "bitrate": 128,
+      "streamUrl": "https://ssl.omegahost.ro/8092/stream"
+    },
+    {
+      "id": "superfm_pt_6b9856c3",
+      "title": "SuperFM",
+      "subtitle": "Metal",
+      "location": "Portugal",
+      "genre": "Metal",
+      "countryCode": "PT",
+      "language": "portuguese",
+      "clickCount": 7,
+      "bitrate": 256,
+      "streamUrl": "https://play.radioregional.pt:8210/stream/2/;/stream.mp3"
+    },
+    {
+      "id": "get_radio_ru_4126a2fd",
+      "title": "get.radio — Эмбиент (Без вокала)",
+      "subtitle": "Ambient",
+      "location": "The Russian Federation",
+      "genre": "Ambient",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 7,
+      "bitrate": 0,
+      "streamUrl": "https://get-radio.sipout.ai/stream/ambient-instrumental.mp3"
+    },
+    {
+      "id": "radio_90_rybnik_pl_79649638",
+      "title": "Radio 90 Rybnik",
+      "subtitle": "Hits",
+      "location": "Poland",
+      "genre": "Hits",
+      "countryCode": "PL",
+      "language": "polish",
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "http://streams.radio90.pl:8000/radio90_128kbps_stereo.mp3"
+    },
+    {
+      "id": "radio_petrec_retzu_ro_7009cace",
+      "title": "Radio Petrecăretzu",
+      "subtitle": "Etno",
+      "location": "Romania",
+      "genre": "Etno",
+      "countryCode": "RO",
+      "language": "romanian",
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "http://live.radiopetrecaretzu.ro:8383/;"
+    },
+    {
+      "id": "radio_hit_107_6_fm_pl_26f2e74f",
+      "title": "Radio HIT 107.6 FM",
+      "subtitle": "Pop",
+      "location": "Poland",
+      "genre": "Pop",
+      "countryCode": "PL",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://mpc.my-control-panel.eu/stream/radiohit"
+    },
+    {
+      "id": "capital_fm_manele_ro_655cd11f",
+      "title": "Capital FM - Manele",
+      "subtitle": "Manele",
+      "location": "Romania",
+      "genre": "Manele",
+      "countryCode": "RO",
+      "language": "romanian",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "http://manele.capitalfm.ro:8020/;"
     }
   ]
 }
