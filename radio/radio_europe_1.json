@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-22T05:04:53Z",
+  "updated": "2026-11-23T05:48:57Z",
   "region": "europe",
   "part": 1,
   "of": 8,
@@ -27436,18 +27436,6 @@
       "streamUrl": "http://stream.radiox.de:8000/live"
     },
     {
-      "id": "punkrockers_radio_de_23032e32",
-      "title": "punkrockers-radio",
-      "subtitle": "Punk",
-      "location": "Germany",
-      "genre": "Punk",
-      "countryCode": "DE",
-      "language": "german",
-      "clickCount": 5,
-      "bitrate": 192,
-      "streamUrl": "https://stream.punkrockers-radio.de:8443/prr.mp3"
-    },
-    {
       "id": "bigfm_just_music_de_3a67de9d",
       "title": "bigfm Just Music",
       "subtitle": "Hip-Hop",
@@ -34144,18 +34132,6 @@
       "streamUrl": "https://stream.webmee2.com/stream"
     },
     {
-      "id": "synthwave_atomicradio_de_3031c970",
-      "title": "SYNTHWAVE - atomicradio",
-      "subtitle": "80S",
-      "location": "Germany",
-      "genre": "80S",
-      "countryCode": "DE",
-      "language": "english",
-      "clickCount": 4,
-      "bitrate": 352,
-      "streamUrl": "https://listen.atomic.radio/synthwave.m3u8"
-    },
-    {
       "id": "rave_atomicradio_de_f73806a5",
       "title": "RAVE - atomicradio",
       "subtitle": "Atomicradio",
@@ -34982,6 +34958,42 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "https://edge69.streamonkey.net/oe24-live"
+    },
+    {
+      "id": "oldies_radio_cz_de1a63a9",
+      "title": "Oldies radio",
+      "subtitle": "Radio",
+      "location": "Czechia",
+      "genre": "Radio",
+      "countryCode": "CZ",
+      "language": null,
+      "clickCount": 8,
+      "bitrate": 128,
+      "streamUrl": "https://ice.abradio.cz/oldiesradio128.mp3"
+    },
+    {
+      "id": "80er_90er_oldie_antenne_de_8852e2a9",
+      "title": "80er 90er Oldie Antenne",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://s8-webradio.oldie-antenne.de/oldie-antenne/stream/mp3"
+    },
+    {
+      "id": "delta_radio_der_beste_rockpop_reloaded_de_00529b0e",
+      "title": "delta radio DER BESTE ROCKPOP RELOADED",
+      "subtitle": "Rock Pop",
+      "location": "Germany",
+      "genre": "Rock Pop",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://streams.deltaradio.de/delta-poprock/mp3-192/streams.deltaradio.de/"
     }
   ]
 }

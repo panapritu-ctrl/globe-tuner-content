@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-22T05:04:53Z",
+  "updated": "2026-11-23T05:48:57Z",
   "region": "europe",
   "part": 3,
   "of": 8,
@@ -1073,19 +1073,6 @@
       "imageUrl": "https://www.radioluzdalias.com/imagenes/apple-icono-web.png",
       "streamUrl": "https://broadcast.radioponiente.org:8034/;listen.pls",
       "location": "Andalucía, Spain",
-      "genre": "Radio",
-      "countryCode": "ES",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_qk_107_2fm_uvi_u_fec51306",
-      "title": "RADIO QK 107.2fm UVIÉU",
-      "subtitle": "Radio",
-      "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEjFGls32lkn1NNK_2em0F0pW_GfI7zr1calKptFd8X_2WXxTeVj1j2aoLyIIHd-SEhP6TDcZlCdumUj-62hzwQ9MUsyAmkje6C8GZ8AwLjpcrnWvETT26okQ8Uyb-U0bG0bMSsDVebAp2RH9EPRStqcn9fh3v-PBNSHJkfXstCvwiaHqpd-2cz6LsqSBw=s280",
-      "streamUrl": "https://icecast.radioqk.org:8443/radioqk_master.mp3?1772282735529",
-      "location": "Spain",
       "genre": "Radio",
       "countryCode": "ES",
       "language": null,
@@ -16836,19 +16823,6 @@
       "streamUrl": "https://ecmanager.pro-fhi.net:1710/;"
     },
     {
-      "id": "rb2_playlist_music_radio_f6f5525c",
-      "title": "Playlist Music Radio",
-      "subtitle": "Radio",
-      "imageUrl": "https://www.playlist-webradio.net/wp-content/uploads/logo-web-1.jpg",
-      "streamUrl": "https://radio13.pro-fhi.net/listen/pdpyrses/stream.mp3",
-      "location": "France",
-      "genre": "Radio",
-      "countryCode": "FR",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 320
-    },
-    {
       "id": "rb2_playloud_4fd337cb",
       "title": "Playloud",
       "subtitle": "Electro",
@@ -28209,6 +28183,138 @@
       "clickCount": 4,
       "bitrate": 256,
       "streamUrl": "https://audio.stream.gretor.net/listen/gretopia_radio/radio.mp3"
+    },
+    {
+      "id": "old_gold_radio_gb_0bca7cac",
+      "title": "Old Gold Radio",
+      "subtitle": "Classic Hits",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Classic Hits",
+      "countryCode": "GB",
+      "language": "english",
+      "clickCount": 8,
+      "bitrate": 192,
+      "streamUrl": "https://oldgoldradio.com:10443/listen/oldgoldradio/radio.mp3"
+    },
+    {
+      "id": "radio_vitoria_es_13599d74",
+      "title": "Radio Vitoria",
+      "subtitle": "Local News",
+      "location": "Spain",
+      "genre": "Local News",
+      "countryCode": "ES",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "https://multimedia.eitb.eus/live-content/radiovitoria-hls/bitrate_1.m3u8"
+    },
+    {
+      "id": "cadena_ser_radio_bierzo_es_cd3c493e",
+      "title": "Cadena SER - Radio Bierzo",
+      "subtitle": "Radio",
+      "location": "Spain",
+      "genre": "Radio",
+      "countryCode": "ES",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 96,
+      "streamUrl": "http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_BIERZO.mp3"
+    },
+    {
+      "id": "radio_can_casahl_es_46d4fc71",
+      "title": "Radio Can Casahl",
+      "subtitle": "Instrumental",
+      "location": "Spain",
+      "genre": "Instrumental",
+      "countryCode": "ES",
+      "language": "global",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://rcc.iberdahl.com/stream"
+    },
+    {
+      "id": "radio_maricel_es_5a929a11",
+      "title": "Radio Maricel",
+      "subtitle": "Radio",
+      "location": "Spain",
+      "genre": "Radio",
+      "countryCode": "ES",
+      "language": "catalan",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://radioserver.radiomaricel.cat/proxy/radio_maricel?mp=/stream"
+    },
+    {
+      "id": "kauneimmat_joululaulut_fi_3bee1293",
+      "title": "Kauneimmat joululaulut",
+      "subtitle": "Radio",
+      "location": "Finland",
+      "genre": "Radio",
+      "countryCode": "FI",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 137,
+      "streamUrl": "https://aud-stream-jouluradio03.nm-elemental.nelonenmedia.fi/master.m3u8"
+    },
+    {
+      "id": "paroles_et_musique_fr_20ed3893",
+      "title": "Paroles et Musique",
+      "subtitle": "Chanson",
+      "location": "France",
+      "genre": "Chanson",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "http://www.pprb.fr:9505/mpd"
+    },
+    {
+      "id": "radio_vallespir_fr_85c52f1d",
+      "title": "Radio Vallespir",
+      "subtitle": "Community Radio",
+      "location": "France",
+      "genre": "Community Radio",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream10.vestaradio.com/Radio-Vallespir"
+    },
+    {
+      "id": "nrj_lounge_fr_63dbcc42",
+      "title": "NRJ Lounge",
+      "subtitle": "Lounge",
+      "location": "France",
+      "genre": "Lounge",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://streaming.nrjaudio.fm/oua828w2dqao"
+    },
+    {
+      "id": "radio_chanson_d_autrefois_fr_fe2513dd",
+      "title": "Radio Chanson d'Autrefois",
+      "subtitle": "Chanson Francaise",
+      "location": "France",
+      "genre": "Chanson Francaise",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://stream10.vestaradio.com/radiochansondautrefoisfr"
+    },
+    {
+      "id": "otoradio_fr_46bb0be7",
+      "title": "Otoradio",
+      "subtitle": "Radio",
+      "location": "France",
+      "genre": "Radio",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 4,
+      "bitrate": 160,
+      "streamUrl": "https://stunnel1.cyber-streaming.com:9160/stream"
     }
   ]
 }

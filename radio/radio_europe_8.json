@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-22T05:04:53Z",
+  "updated": "2026-11-23T05:48:57Z",
   "region": "europe",
   "part": 8,
   "of": 8,
@@ -22308,18 +22308,6 @@
       "streamUrl": "https://live1.sr.se/p4uppl-aac-320"
     },
     {
-      "id": "station_ru_aa2c7091",
-      "title": "Отклик — стихи и отклики нейросети",
-      "subtitle": "Ai",
-      "location": "The Russian Federation",
-      "genre": "Ai",
-      "countryCode": "RU",
-      "language": null,
-      "clickCount": 5,
-      "bitrate": 0,
-      "streamUrl": "https://otklik.taile7f452.ts.net/stream.mp3"
-    },
-    {
       "id": "record_80_ru_500b4ff3",
       "title": "Record 80-х",
       "subtitle": "Поп-Музыка",
@@ -25368,18 +25356,6 @@
       "streamUrl": "http://stream.radioskovoroda.com:8000/radioskovoroda"
     },
     {
-      "id": "bandit_metal_se_b5d990a1",
-      "title": "Bandit Metal",
-      "subtitle": "Death Metal",
-      "location": "Sweden",
-      "genre": "Death Metal",
-      "countryCode": "SE",
-      "language": null,
-      "clickCount": 17,
-      "bitrate": 128,
-      "streamUrl": "https://wr03-ice.stream.khz.se/wr03_mp3"
-    },
-    {
       "id": "hitmix90_s_se_5b5e6b73",
       "title": "HitMix90's",
       "subtitle": "Radio",
@@ -25426,18 +25402,6 @@
       "clickCount": 11,
       "bitrate": 96,
       "streamUrl": "https://fm05-ice.stream.khz.se/fm05_aac"
-    },
-    {
-      "id": "rix_fm_se_9fd808bc",
-      "title": "Rix FM",
-      "subtitle": "Radio",
-      "location": "Sweden",
-      "genre": "Radio",
-      "countryCode": "SE",
-      "language": null,
-      "clickCount": 8,
-      "bitrate": 128,
-      "streamUrl": "http://fm01-ice.stream.khz.se/fm01_mp3"
     },
     {
       "id": "rix_fm_106_7_se_f2cab949",
@@ -26100,18 +26064,6 @@
       "streamUrl": "https://wr21-ice.stream.khz.se/wr21_aac"
     },
     {
-      "id": "bandit_classic_rock_se_7ad29322",
-      "title": "Bandit Classic Rock",
-      "subtitle": "Classic Rock",
-      "location": "Sweden",
-      "genre": "Classic Rock",
-      "countryCode": "SE",
-      "language": "swedish",
-      "clickCount": 13,
-      "bitrate": 128,
-      "streamUrl": "https://wr11-ice.stream.khz.se/wr11_mp3"
-    },
-    {
       "id": "bandit_rock_se_43b8f930",
       "title": "Bandit ÍRock",
       "subtitle": "Rock",
@@ -26386,6 +26338,66 @@
       "clickCount": 5,
       "bitrate": 0,
       "streamUrl": "https://stream.nucrooze.com/listen/nucrooze/radio.aac"
+    },
+    {
+      "id": "east_of_russia_ru_8dd9e8c6",
+      "title": "East of Russia (Восток России)",
+      "subtitle": "Rock",
+      "location": "The Russian Federation",
+      "genre": "Rock",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 6,
+      "bitrate": 256,
+      "streamUrl": "http://109.70.24.182:8000/stream/1/"
+    },
+    {
+      "id": "get_radio_ru_70e8856a",
+      "title": "get.radio — Джаз (Прочие языки)",
+      "subtitle": "Jazz",
+      "location": "The Russian Federation",
+      "genre": "Jazz",
+      "countryCode": "RU",
+      "language": "french",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://get-radio.sipout.ai/stream/jazz-other.mp3"
+    },
+    {
+      "id": "station_ru_c3f1713a",
+      "title": "Дорожное радио Чита",
+      "subtitle": "Radio",
+      "location": "The Russian Federation",
+      "genre": "Radio",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://dorognoe.hostingradio.ru:8000/dorognoe"
+    },
+    {
+      "id": "anima_amoris_dt_ru_4bfe1708",
+      "title": "Anima Amoris DT",
+      "subtitle": "Dub Techno",
+      "location": "The Russian Federation",
+      "genre": "Dub Techno",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://amoris.sknt.ru/dubtechno.mp3"
+    },
+    {
+      "id": "get_radio_ru_4dfea8e9",
+      "title": "get.radio — Кино",
+      "subtitle": "Cinema",
+      "location": "The Russian Federation",
+      "genre": "Cinema",
+      "countryCode": "RU",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://get-radio.sipout.ai/stream/cinema.mp3"
     }
   ]
 }

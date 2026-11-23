@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-22T05:04:53Z",
+  "updated": "2026-11-23T05:48:57Z",
   "region": "europe",
   "part": 7,
   "of": 8,
@@ -15578,19 +15578,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_7nevo_a50919de",
-      "title": "7Nevo",
-      "subtitle": "Classic Hits, Dance",
-      "imageUrl": "",
-      "streamUrl": "http://91.201.117.219:8000/stream",
-      "location": "The Russian Federation",
-      "genre": "Classic Hits",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_7_b213561d",
       "title": "7Б",
       "subtitle": "Radio",
@@ -26337,6 +26324,54 @@
       "clickCount": 5,
       "bitrate": 128,
       "streamUrl": "http://manele.capitalfm.ro:8020/;"
+    },
+    {
+      "id": "naxi_jazz_radio_rs_5452c2c5",
+      "title": "Naxi Jazz Radio",
+      "subtitle": "Radio",
+      "location": "Serbia",
+      "genre": "Radio",
+      "countryCode": "RS",
+      "language": "serbian",
+      "clickCount": 7,
+      "bitrate": 128,
+      "streamUrl": "https://naxidigital-jazz128ssl.streaming.rs:8172/;stream.nsv"
+    },
+    {
+      "id": "naxi_chillwave_rs_b49f4885",
+      "title": "Naxi Chillwave",
+      "subtitle": "Pop",
+      "location": "Serbia",
+      "genre": "Pop",
+      "countryCode": "RS",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://naxidigital-chillwave128ssl.streaming.rs:8322/;stream.nsv"
+    },
+    {
+      "id": "naxi_fresh_radio_rs_5d51b6ba",
+      "title": "Naxi Fresh Radio",
+      "subtitle": "Radio",
+      "location": "Serbia",
+      "genre": "Radio",
+      "countryCode": "RS",
+      "language": "serbian",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://naxidigital-fresh128ssl.streaming.rs:8212/;stream.nsv"
+    },
+    {
+      "id": "naxi_hype_rs_1ee453cb",
+      "title": "Naxi - hype",
+      "subtitle": "Folk",
+      "location": "Serbia",
+      "genre": "Folk",
+      "countryCode": "RS",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://naxidigital-hype128ssl.streaming.rs:8272/;stream.nsv"
     }
   ]
 }

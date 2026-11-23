@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-22T05:04:53Z",
+  "updated": "2026-11-23T05:48:57Z",
   "region": "asia",
   "part": 3,
   "of": 3,
@@ -1655,19 +1655,6 @@
       "language": null,
       "clickCount": 1,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_manila_wave_radio_2_71f63706",
-      "title": "Manila Wave Radio 2",
-      "subtitle": "Radio",
-      "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/779/manila-wave-radio.bcdfccf4.jpg",
-      "streamUrl": "https://a13.asurahosting.com/listen/manila_wave_radio_2/radio.mp3",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 192
     },
     {
       "id": "rb2_map_a_radio_cardinal_0c071538",
@@ -8608,19 +8595,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_radyo_delal_dd6a0a85",
-      "title": "Radyo Delal",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "https://wowza1.radyotvonline.com/idilpr/radyodelal.stream/playlist.m3u8",
-      "location": "Türkiye",
-      "genre": "Radio",
-      "countryCode": "TR",
-      "language": "kurdi",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_radyo_dingil_8fa300ca",
       "title": "Radyo Dingil",
       "subtitle": "Karışık",
@@ -15362,18 +15336,6 @@
       "streamUrl": "http://162.220.162.10:8010/stream"
     },
     {
-      "id": "89_5_subic_bay_radio_ph_7b0f815c",
-      "title": "89.5 Subic Bay Radio",
-      "subtitle": "Radio",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "language": null,
-      "clickCount": 3,
-      "bitrate": 0,
-      "streamUrl": "http://143.44.245.11:8080/895subicbay.mp3"
-    },
-    {
       "id": "hemdem_radyo_tr_77ddc2f7",
       "title": "Hemdem Radyo",
       "subtitle": "Arabesk Fantazi",
@@ -16490,18 +16452,6 @@
       "streamUrl": "https://rstream.hadara.ps/proxy/amen24/stream"
     },
     {
-      "id": "rmn_dxcc_828_cagayan_de_oro_ph_03ab8298",
-      "title": "RMN DXCC 828 Cagayan De Oro",
-      "subtitle": "Radio",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "language": null,
-      "clickCount": 6,
-      "bitrate": 128,
-      "streamUrl": "http://livestream.rmn.ph:8000/rmncdo"
-    },
-    {
       "id": "love_radio_baguio_ph_e4377c05",
       "title": "Love Radio Baguio",
       "subtitle": "Radio",
@@ -17282,18 +17232,6 @@
       "streamUrl": "https://vnno-ne-2-tf-multi-playlist-zmp3.zmdcdn.me/Wbo0diyYozY/zhls/playback-realtime/audio/e75e51f26db784e9dda6/audio.m3u8"
     },
     {
-      "id": "mexalounge_radio_tr_218aab58",
-      "title": "Mexalounge Radio",
-      "subtitle": "Afro House",
-      "location": "Türkiye",
-      "genre": "Afro House",
-      "countryCode": "TR",
-      "language": null,
-      "clickCount": 5,
-      "bitrate": 0,
-      "streamUrl": "https://radyohost.ugnhosting.com/cp/links.php?p=8018&m=pls"
-    },
-    {
       "id": "a_k_k_y_open_shore_tr_22d054ad",
       "title": "Açık Kıyı | Open Shore",
       "subtitle": "Aegean",
@@ -17772,6 +17710,54 @@
       "clickCount": 5,
       "bitrate": 128,
       "streamUrl": "https://yayin.radyodurak.com/8016/stream"
+    },
+    {
+      "id": "station_sa_9ab04453",
+      "title": "إذاعة ترتيل - ترتيل القرآن الكريم",
+      "subtitle": "Islam",
+      "location": "Saudi Arabia",
+      "genre": "Islam",
+      "countryCode": "SA",
+      "language": "arabic",
+      "clickCount": 9,
+      "bitrate": 0,
+      "streamUrl": "https://live.trtel.vip/live"
+    },
+    {
+      "id": "radyo_7_arabesk_tr_b6727b5d",
+      "title": "Radyo 7 Arabesk",
+      "subtitle": "Arabesk",
+      "location": "Türkiye",
+      "genre": "Arabesk",
+      "countryCode": "TR",
+      "language": "türkisch",
+      "clickCount": 7,
+      "bitrate": 64,
+      "streamUrl": "https://moondigitaledge2.radyotvonline.net/radyo7arabesk/playlist.m3u8"
+    },
+    {
+      "id": "side_fm_tr_1ec7b53a",
+      "title": "Side FM",
+      "subtitle": "Pop",
+      "location": "Türkiye",
+      "genre": "Pop",
+      "countryCode": "TR",
+      "language": "tr",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://sslyayin.netyayin.net/8155/;"
+    },
+    {
+      "id": "radyo_7_slow_tr_cdd2e8f5",
+      "title": "Radyo 7 Slow",
+      "subtitle": "Slow",
+      "location": "Türkiye",
+      "genre": "Slow",
+      "countryCode": "TR",
+      "language": "türkisch",
+      "clickCount": 5,
+      "bitrate": 63,
+      "streamUrl": "https://moondigitaledge2.radyotvonline.net/radyo7slow/playlist.m3u8"
     }
   ]
 }
