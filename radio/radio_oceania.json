@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-23T05:48:57Z",
+  "updated": "2026-11-24T08:26:03Z",
   "region": "oceania",
   "stations": [
     {
@@ -4100,19 +4100,6 @@
       "countryCode": "AU",
       "language": "english",
       "clickCount": 2,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_australian_digital_radio_network_opera_m_8515b3d0",
-      "title": "Australian Digital Radio Network - Opera (MP3)",
-      "subtitle": "Classical, Opera",
-      "imageUrl": "http://www.australiandigitalradio.com/favicon.ico",
-      "streamUrl": "http://abm21.com.au:8000/CONTAINER9",
-      "location": "Sydney NSW, Australia",
-      "genre": "Classical",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
       "bitrate": 128
     },
     {
@@ -16618,6 +16605,18 @@
       "clickCount": 4,
       "bitrate": 238,
       "streamUrl": "https://streaming.abc-cdn.net.au/audio/hls/classicfmnt.m3u8?source=web"
+    },
+    {
+      "id": "australian_digital_radio_network_2010s_pop_charting_mp3_au_ffd984dd",
+      "title": "Australian Digital Radio Network - 2010s Pop Charting (MP3)",
+      "subtitle": "2010S",
+      "location": "Australia",
+      "genre": "2010S",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://abm21.com.au:8000/CONTAINER97"
     }
   ]
 }

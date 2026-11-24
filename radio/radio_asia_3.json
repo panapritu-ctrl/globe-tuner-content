@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-23T05:48:57Z",
+  "updated": "2026-11-24T08:26:03Z",
   "region": "asia",
   "part": 3,
   "of": 3,
@@ -15960,18 +15960,6 @@
       "streamUrl": "https://stream.radioalhara.net/ra"
     },
     {
-      "id": "asima_online_radio_sy_a1286303",
-      "title": "Asima Online Radio",
-      "subtitle": "Radio",
-      "location": "Syrian Arab Republic",
-      "genre": "Radio",
-      "countryCode": "SY",
-      "language": "arabic",
-      "clickCount": 4,
-      "bitrate": 128,
-      "streamUrl": "http://asima.out.airtime.pro:8000/asima_a"
-    },
-    {
       "id": "station_tw_debd508b",
       "title": "新竹勞工之聲",
       "subtitle": "Music",
@@ -16282,18 +16270,6 @@
       "clickCount": 7,
       "bitrate": 48,
       "streamUrl": "https://radio.guventechnology.com/9334/stream"
-    },
-    {
-      "id": "greenwave_th_357b95c5",
-      "title": "Greenwave",
-      "subtitle": "Live",
-      "location": "Thailand",
-      "genre": "Live",
-      "countryCode": "TH",
-      "language": "thai",
-      "clickCount": 6,
-      "bitrate": 0,
-      "streamUrl": "https://atimehd.smartclick.co.th/greenwave/hls/greenwave.m3u8"
     },
     {
       "id": "brigada_news_fm_gensan_ph_55b2f125",
@@ -17184,18 +17160,6 @@
       "streamUrl": "https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8"
     },
     {
-      "id": "90_5_smart_news_th_b3b7c4fe",
-      "title": "90.5 Smart News มิติข่าว",
-      "subtitle": "Radio",
-      "location": "Thailand",
-      "genre": "Radio",
-      "countryCode": "TH",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 0,
-      "streamUrl": "http://live3.smartbomb.co.th:8624/;stream.mp3"
-    },
-    {
       "id": "top_news_th_2c8bc281",
       "title": "Top News",
       "subtitle": "Hls Video",
@@ -17508,18 +17472,6 @@
       "streamUrl": "https://c2.radioboss.fm:8961/stream"
     },
     {
-      "id": "xfm_100_7_davao_region_ph_62ccb3fa",
-      "title": "XFM 100.7 DAVAO REGION",
-      "subtitle": "Radio",
-      "location": "The Philippines",
-      "genre": "Radio",
-      "countryCode": "PH",
-      "language": null,
-      "clickCount": 5,
-      "bitrate": 64,
-      "streamUrl": "https://us1.amfmph.com/ssl/xfmdavao?mp=/live"
-    },
-    {
       "id": "dxmy_90_9_rmn_cotabato_ph_f010d34c",
       "title": "DXMY 90.9 RMN Cotabato",
       "subtitle": "Music",
@@ -17758,6 +17710,30 @@
       "clickCount": 5,
       "bitrate": 63,
       "streamUrl": "https://moondigitaledge2.radyotvonline.net/radyo7slow/playlist.m3u8"
+    },
+    {
+      "id": "asima_online_radio_sy_a1286303",
+      "title": "Asima Online Radio",
+      "subtitle": "Radio",
+      "location": "Syrian Arab Republic",
+      "genre": "Radio",
+      "countryCode": "SY",
+      "language": "arabic",
+      "clickCount": 10,
+      "bitrate": 128,
+      "streamUrl": "http://asima.out.airtime.pro:8000/asima_a"
+    },
+    {
+      "id": "90_5_smart_news_th_b3b7c4fe",
+      "title": "90.5 Smart News มิติข่าว",
+      "subtitle": "Radio",
+      "location": "Thailand",
+      "genre": "Radio",
+      "countryCode": "TH",
+      "language": null,
+      "clickCount": 8,
+      "bitrate": 0,
+      "streamUrl": "http://live3.smartbomb.co.th:8624/;stream.mp3"
     }
   ]
 }

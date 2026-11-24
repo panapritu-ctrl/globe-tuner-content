@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-23T05:48:57Z",
+  "updated": "2026-11-24T08:26:03Z",
   "region": "europe",
   "part": 7,
   "of": 8,
@@ -15700,19 +15700,6 @@
       "bitrate": 3520
     },
     {
-      "id": "rb2_ak_laboratory_14dcc9cf",
-      "title": "AK Laboratory",
-      "subtitle": "Various",
-      "imageUrl": "",
-      "streamUrl": "http://anklab.ru/stream/sc.ogg",
-      "location": "The Russian Federation",
-      "genre": "Various",
-      "countryCode": "RU",
-      "language": "english/russian",
-      "clickCount": 0,
-      "bitrate": 320
-    },
-    {
       "id": "rb2_amber_fm_74a2dbd8",
       "title": "AMBER-FM",
       "subtitle": "Танцевальная",
@@ -19025,19 +19012,6 @@
       "genre": "Heavy Metal",
       "countryCode": "RU",
       "language": null,
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_maria_fm_102_9_3c733329",
-      "title": "Maria FM 102.9",
-      "subtitle": "Pop, Pop Music",
-      "imageUrl": "https://mariafm.ru/static/icons/general/favicon.37e459d7fe2a.png",
-      "streamUrl": "https://online.mariafm.ru:8443/MariaFM",
-      "location": "Kirov, The Russian Federation",
-      "genre": "Pop",
-      "countryCode": "RU",
-      "language": "russian",
       "clickCount": 1,
       "bitrate": 128
     },
@@ -25198,18 +25172,6 @@
       "streamUrl": "https://stream.zeno.fm/g7awzbwvzutvv"
     },
     {
-      "id": "station_ru_3c868601",
-      "title": "Радио дача",
-      "subtitle": "Radio",
-      "location": "The Russian Federation",
-      "genre": "Radio",
-      "countryCode": "RU",
-      "language": null,
-      "clickCount": 7,
-      "bitrate": 0,
-      "streamUrl": "http://listen13.vdfm.ru:8000/dacha"
-    },
-    {
       "id": "gta_iv_massive_b_soundsystem_96_9_gtaradio_net_ru_107a8774",
       "title": "[GTA IV] Massive B Soundsystem 96.9 [GTARadio.net]",
       "subtitle": "Dancehall",
@@ -26134,18 +26096,6 @@
       "streamUrl": "http://mp3.radiohot.ro:8000/stream"
     },
     {
-      "id": "anima_amoris_electronic_styles_ru_9bb51049",
-      "title": "Anima Amoris Electronic Styles",
-      "subtitle": "Radio",
-      "location": "The Russian Federation",
-      "genre": "Radio",
-      "countryCode": "RU",
-      "language": null,
-      "clickCount": 7,
-      "bitrate": 0,
-      "streamUrl": "https://amoris.sknt.ru/electronic.mp3"
-    },
-    {
       "id": "fm_radio_manele_ro_ea4cab3d",
       "title": "FM Radio Manele",
       "subtitle": "Manele",
@@ -26372,6 +26322,90 @@
       "clickCount": 5,
       "bitrate": 128,
       "streamUrl": "https://naxidigital-hype128ssl.streaming.rs:8272/;stream.nsv"
+    },
+    {
+      "id": "aria_ambient_radio_ro_33a958ff",
+      "title": "Aria Ambient Radio",
+      "subtitle": "Ambiental",
+      "location": "Romania",
+      "genre": "Ambiental",
+      "countryCode": "RO",
+      "language": "română",
+      "clickCount": 6,
+      "bitrate": 256,
+      "streamUrl": "https://malaimare.eu/listen/aria_ambient_radio/radio.mp3"
+    },
+    {
+      "id": "spa_105_rs_10bbf0ca",
+      "title": "Spa 105",
+      "subtitle": "Ambient",
+      "location": "Serbia",
+      "genre": "Ambient",
+      "countryCode": "RS",
+      "language": "english",
+      "clickCount": 6,
+      "bitrate": 192,
+      "streamUrl": "https://stream.it4radio.com/listen/spa105/radio.mp3"
+    },
+    {
+      "id": "dhr_fm_lounge_ro_cea4b1da",
+      "title": "DHR FM -Lounge",
+      "subtitle": "Calm",
+      "location": "Romania",
+      "genre": "Calm",
+      "countryCode": "RO",
+      "language": "romanian",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://streaming.xtservers.com/listen/lounge/lounge.mp3"
+    },
+    {
+      "id": "radio_kibu_ro_257f46e3",
+      "title": "Radio Kibuț",
+      "subtitle": "Jazz",
+      "location": "Romania",
+      "genre": "Jazz",
+      "countryCode": "RO",
+      "language": "romanian",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://s6.citrus3.com/stream/radiokibut"
+    },
+    {
+      "id": "radio_oko_ostro_ka_pl_104cc6b8",
+      "title": "Radio Oko Ostrołęka",
+      "subtitle": "Local News",
+      "location": "Poland",
+      "genre": "Local News",
+      "countryCode": "PL",
+      "language": "polish",
+      "clickCount": 4,
+      "bitrate": 64,
+      "streamUrl": "http://stream3.nadaje.com:8028/radiooko"
+    },
+    {
+      "id": "radi_u_pl_8965be34",
+      "title": "radi/u/",
+      "subtitle": "Electronica",
+      "location": "Poland",
+      "genre": "Electronica",
+      "countryCode": "PL",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://radio.dangeru.us:8000/stream.ogg"
+    },
+    {
+      "id": "dhr_fm_afro_house_ro_81275556",
+      "title": "DHR FM - Afro House",
+      "subtitle": "Organic",
+      "location": "Romania",
+      "genre": "Organic",
+      "countryCode": "RO",
+      "language": "romanian",
+      "clickCount": 4,
+      "bitrate": 320,
+      "streamUrl": "https://streaming.xtservers.com/listen/afro/afroxq.mp3"
     }
   ]
 }

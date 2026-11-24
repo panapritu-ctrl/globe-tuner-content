@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-23T05:48:57Z",
+  "updated": "2026-11-24T08:26:03Z",
   "region": "europe",
   "part": 5,
   "of": 8,
@@ -906,19 +906,6 @@
       "countryCode": "GR",
       "language": "greek",
       "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_rso_91_7_thessaloniki_961d4058",
-      "title": "RSO 91.7 Thessaloniki",
-      "subtitle": "Greek, Pop",
-      "imageUrl": "http://www.rso.gr/templates/gk_hotel/images/touch-device.png",
-      "streamUrl": "http://tachyon.shoutca.st:8594/stream",
-      "location": "Thessaloniki, Greece",
-      "genre": "Greek",
-      "countryCode": "GR",
-      "language": "greek",
-      "clickCount": 1,
       "bitrate": 128
     },
     {
@@ -8482,19 +8469,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_87_6_ae5b880e",
-      "title": "Λαϊκός 87,6",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://derti.live24.gr/laikos876",
-      "location": "Thessaloniki, Greece",
-      "genre": "Radio",
-      "countryCode": "GR",
-      "language": "greek",
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_88_3b48f609",
       "title": "Λαϊκός 88",
       "subtitle": "Greek Folk Music",
@@ -10614,19 +10588,6 @@
       "genre": "Rock",
       "countryCode": "HR",
       "streamUrl": "http://live.antenazagreb.hr:8000/;"
-    },
-    {
-      "id": "rb2_antena_zagreb_xmas_87cbef7f",
-      "title": "Antena Zagreb - Xmas",
-      "subtitle": "Christmas Music, Xmas",
-      "imageUrl": "http://www.antenazagreb.hr/favicon.ico",
-      "streamUrl": "http://live.antenazagreb.hr:8015/;",
-      "location": "Croatia",
-      "genre": "Christmas Music",
-      "countryCode": "HR",
-      "language": "croatian",
-      "clickCount": 3,
-      "bitrate": 64
     },
     {
       "id": "rb_antena_zagreb_u_ivo_961fce21",
@@ -27382,18 +27343,6 @@
       "streamUrl": "https://melody-trail.online/listen/melody_trail/radio.mp3"
     },
     {
-      "id": "estuary_fm_is_335b833f",
-      "title": "Estuary FM",
-      "subtitle": "Ambient",
-      "location": "Iceland",
-      "genre": "Ambient",
-      "countryCode": "IS",
-      "language": "english",
-      "clickCount": 5,
-      "bitrate": 128,
-      "streamUrl": "https://89-126-248-183.sslip.io:9443/estuary"
-    },
-    {
       "id": "radio_inside_hu_adb4ef2c",
       "title": "RADIO INSIDE",
       "subtitle": "Club",
@@ -27488,18 +27437,6 @@
       "clickCount": 5,
       "bitrate": 0,
       "streamUrl": "https://stormnortheast.com:8443/storm"
-    },
-    {
-      "id": "radio_ciccio_riccio_it_d00ba74b",
-      "title": "Radio Ciccio Riccio",
-      "subtitle": "Varied",
-      "location": "Italy",
-      "genre": "Varied",
-      "countryCode": "IT",
-      "language": "italian",
-      "clickCount": 9,
-      "bitrate": 0,
-      "streamUrl": "https://stream5.xdevel.com/audio0s975942-758/stream/icecast.audio"
     },
     {
       "id": "radio_canale_italia_fm_90_4_it_23cbc601",
@@ -28546,18 +28483,6 @@
       "streamUrl": "https://stream.radioone.hu/ch3"
     },
     {
-      "id": "oxygen_xmas_320_hu_08b40419",
-      "title": "Oxygen Xmas (320)",
-      "subtitle": "Christmas",
-      "location": "Hungary",
-      "genre": "Christmas",
-      "countryCode": "HU",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 160,
-      "streamUrl": "https://oxygenmusic.hu:8000/xmas_320"
-    },
-    {
       "id": "vox_aria_it_aceb529a",
       "title": "VOX-ARIA",
       "subtitle": "Ai",
@@ -28676,6 +28601,138 @@
       "clickCount": 5,
       "bitrate": 128,
       "streamUrl": "https://dreamsiteradiocp3.com/proxy/radiosardegna?mp=/stream?ver=199651"
+    },
+    {
+      "id": "radio_m2o_on_air_it_fb99fee7",
+      "title": "Radio m2o - On Air",
+      "subtitle": "Commercial",
+      "location": "Italy",
+      "genre": "Commercial",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 7,
+      "bitrate": 0,
+      "streamUrl": "https://streamcdnb3-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o/play1.m3u8"
+    },
+    {
+      "id": "antena_love_hr_e09a351c",
+      "title": "Antena Love",
+      "subtitle": "Radio",
+      "location": "Croatia",
+      "genre": "Radio",
+      "countryCode": "HR",
+      "language": "croatian",
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://audio.social3.hr/listen/antena_love/radio.mp3"
+    },
+    {
+      "id": "radio_battikuore_it_19f68a98",
+      "title": "Radio Battikuore",
+      "subtitle": "Pop",
+      "location": "Italy",
+      "genre": "Pop",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 6,
+      "bitrate": 64,
+      "streamUrl": "http://nr6.newradio.it:9124/;"
+    },
+    {
+      "id": "rso_91_7_thessaloniki_gr_260d187c",
+      "title": "RSO 91.7 Thessaloniki",
+      "subtitle": "Greek",
+      "location": "Greece",
+      "genre": "Greek",
+      "countryCode": "GR",
+      "language": "greek",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "http://tachyon.shoutca.st:8594/stream"
+    },
+    {
+      "id": "cmc_rock_hr_18caa325",
+      "title": "CMC Rock",
+      "subtitle": "Radio",
+      "location": "Croatia",
+      "genre": "Radio",
+      "countryCode": "HR",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "http://radio-stream.cmc.com.hr:8060/autodj"
+    },
+    {
+      "id": "antena_club_hr_487e91a2",
+      "title": "Antena Club",
+      "subtitle": "Radio",
+      "location": "Croatia",
+      "genre": "Radio",
+      "countryCode": "HR",
+      "language": "croatian",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://audio.social3.hr/listen/antena_hit/radio.mp3"
+    },
+    {
+      "id": "fm_classic_siracusa_it_3d9f4851",
+      "title": "FM Classic Siracusa",
+      "subtitle": "Oldies",
+      "location": "Italy",
+      "genre": "Oldies",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://stream1.xdevel.com/audio0s975817-359/stream/icecast.audio"
+    },
+    {
+      "id": "ff_radio_live_it_fef788cf",
+      "title": "FF Radio Live",
+      "subtitle": "Acoustic",
+      "location": "Italy",
+      "genre": "Acoustic",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://stream.rmstudio.app/ffradio.mp3"
+    },
+    {
+      "id": "antena_split_hr_8f6c05cd",
+      "title": "Antena Split",
+      "subtitle": "Radio",
+      "location": "Croatia",
+      "genre": "Radio",
+      "countryCode": "HR",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 96,
+      "streamUrl": "https://streaming.antenazagreb.hr/sources/antena-split/audio"
+    },
+    {
+      "id": "groove_cafe_192kbps_hu_de62424d",
+      "title": "Groove Cafe (192kbps)",
+      "subtitle": "Chill",
+      "location": "Hungary",
+      "genre": "Chill",
+      "countryCode": "HU",
+      "language": "hungarian",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://www.radiogroove.hu/cafe.mp3"
+    },
+    {
+      "id": "radio_domusnovas_it_5c8467f1",
+      "title": "Radio Domusnovas",
+      "subtitle": "Radio",
+      "location": "Italy",
+      "genre": "Radio",
+      "countryCode": "IT",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://www.shoutcastitalia.com/proxy/domusnovas?mp=/stream?ext=.mp3"
     }
   ]
 }

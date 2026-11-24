@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-23T05:48:57Z",
+  "updated": "2026-11-24T08:26:02Z",
   "region": "asia",
   "part": 1,
   "of": 3,
@@ -11055,32 +11055,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_shikiachwang_news_radio_157a6dd3",
-      "title": "Shikiachwang News Radio",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://ls.qingting.fm/live/1652.m3u8",
-      "location": "Hopei, China",
-      "genre": "Radio",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_shikiachwang_traffic_radio_47d12a1e",
-      "title": "Shikiachwang Traffic Radio",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://ls.qingting.fm/live/1655.m3u8",
-      "location": "Hopei, China",
-      "genre": "Radio",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_taiyuan_economics_radio_cbfaf908",
       "title": "Taiyuan Economics Radio",
       "subtitle": "Radio",
@@ -11114,19 +11088,6 @@
       "genre": "Music",
       "countryCode": "CN",
       "streamUrl": "https://stream.zeno.fm/advmk81bu68uv"
-    },
-    {
-      "id": "rb2_tsingtao_economics_radio_2268f682",
-      "title": "Tsingtao Economics Radio",
-      "subtitle": "Radio",
-      "imageUrl": "http://www.qtv.com.cn/favicon.ico",
-      "streamUrl": "http://ls.qingting.fm/live/1674.m3u8",
-      "location": "Shantung, China",
-      "genre": "Radio",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 0,
-      "bitrate": 128
     },
     {
       "id": "rb2_tsingtao_music_sports_radio_4e15ea13",
@@ -16638,19 +16599,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_station_79d12f66",
-      "title": "弥勒人民广播电台",
-      "subtitle": "News",
-      "imageUrl": "",
-      "streamUrl": "https://lhttp.qingting.fm/live/5022531/64k.mp3",
-      "location": "Yunnan, China",
-      "genre": "News",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_mp3_cfd988f1",
       "title": "彬州市人民广播电台 mp3",
       "subtitle": "Full Service",
@@ -16658,19 +16606,6 @@
       "streamUrl": "https://lhttp-hw.qtfm.cn/live/20500035/64k.mp3",
       "location": "Shensi, China",
       "genre": "Full Service",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_station_760c3efb",
-      "title": "彭州综合广播",
-      "subtitle": "88.7, 88.7 Fm",
-      "imageUrl": "http://pic.qingting.fm/2022/0115/20220115044031.gif",
-      "streamUrl": "http://live.xmcdn.com/live/2781/64.m3u8",
-      "location": "Szechuan, China",
-      "genre": "88.7",
       "countryCode": "CN",
       "language": "chinese",
       "clickCount": 0,
@@ -23451,18 +23386,6 @@
       "streamUrl": "https://de.auroramedia.am/jazz.mp3"
     },
     {
-      "id": "station_cn_9ab40c3b",
-      "title": "自强之声",
-      "subtitle": "Internet Radio",
-      "location": "China",
-      "genre": "Internet Radio",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 3,
-      "bitrate": 0,
-      "streamUrl": "https://lhttp-hw.qtfm.cn/live/5021905/64k.mp3"
-    },
-    {
       "id": "station_cn_17fbf414",
       "title": "高阳人民广播电台",
       "subtitle": "Music",
@@ -25947,18 +25870,6 @@
       "streamUrl": "https://lhttp-hw.qtfm.cn/live/20485/64k.mp3"
     },
     {
-      "id": "station_cn_c737f587",
-      "title": "深圳宝安湾区之声",
-      "subtitle": "Full Service",
-      "location": "China",
-      "genre": "Full Service",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 5,
-      "bitrate": 0,
-      "streamUrl": "https://live.ximalaya.com/radio-first-page-app/live/2912/64.m3u8?transcode=ts"
-    },
-    {
       "id": "station_cn_e16a3044",
       "title": "山西经济广播",
       "subtitle": "Economics",
@@ -26473,18 +26384,6 @@
       "clickCount": 10,
       "bitrate": 0,
       "streamUrl": "https://brtv-radiolive.rbc.cn/alive/fm876.m3u8"
-    },
-    {
-      "id": "station_cn_48c1cbfd",
-      "title": "天籁之音 - 经典正流行",
-      "subtitle": "Music",
-      "location": "China",
-      "genre": "Music",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 24,
-      "bitrate": 0,
-      "streamUrl": "http://play-radio-stream3.hndt.com/now/WUBA5hW2/chunklist.m3u8"
     },
     {
       "id": "siaoshan_news_tv_cn_19d70108",
@@ -27685,6 +27584,90 @@
       "clickCount": 4,
       "bitrate": 2560,
       "streamUrl": "https://play.kankanlive.com/live/1721805639071291.m3u8"
+    },
+    {
+      "id": "station_cn_48c1cbfd",
+      "title": "天籁之音 - 经典正流行",
+      "subtitle": "Music",
+      "location": "China",
+      "genre": "Music",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 63,
+      "bitrate": 0,
+      "streamUrl": "http://play-radio-stream3.hndt.com/now/WUBA5hW2/chunklist.m3u8"
+    },
+    {
+      "id": "station_cn_dcec6388",
+      "title": "丽水综合广播",
+      "subtitle": "News",
+      "location": "China",
+      "genre": "News",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 9,
+      "bitrate": 0,
+      "streamUrl": "https://rscdn.ajmide.com/r_2868/nglive_2868.m3u8"
+    },
+    {
+      "id": "cityfm_cn_701f68a9",
+      "title": "CityFM城市音乐台",
+      "subtitle": "流行音乐",
+      "location": "China",
+      "genre": "流行音乐",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "https://lhttp.qingting.fm/live/20500153/64k.mp3"
+    },
+    {
+      "id": "station_cn_7cf32f67",
+      "title": "大连都市之声",
+      "subtitle": "Culture",
+      "location": "China",
+      "genre": "Culture",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "http://live.ximalaya.com/radio-first-page-app/live/2819/64.m3u8"
+    },
+    {
+      "id": "shangyu_people_radio_cn_d62a0760",
+      "title": "Shangyu People Radio",
+      "subtitle": "Chekiang",
+      "location": "China",
+      "genre": "Chekiang",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "http://l.cztvcloud.com/channels/lantian/SXshangyuaud/128k.m3u8"
+    },
+    {
+      "id": "station_cn_fa567b2c",
+      "title": "乐游广播",
+      "subtitle": "Internet Radio",
+      "location": "China",
+      "genre": "Internet Radio",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://rscdn.ajmide.com/r_3834/nglive_3834.m3u8"
+    },
+    {
+      "id": "station_cn_98bb35fa",
+      "title": "西江之声",
+      "subtitle": "Music",
+      "location": "China",
+      "genre": "Music",
+      "countryCode": "CN",
+      "language": "cantonese",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://lhttp-hw.qtfm.cn/live/5022379/64k.mp3?"
     }
   ]
 }

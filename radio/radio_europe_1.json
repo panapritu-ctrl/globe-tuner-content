@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-23T05:48:57Z",
+  "updated": "2026-11-24T08:26:03Z",
   "region": "europe",
   "part": 1,
   "of": 8,
@@ -33760,18 +33760,6 @@
       "streamUrl": "https://stream.laut.fm/smooth-jazz"
     },
     {
-      "id": "ora_news_al_fb65a00b",
-      "title": "Ora News",
-      "subtitle": "News",
-      "location": "Albania",
-      "genre": "News",
-      "countryCode": "AL",
-      "language": "albanian",
-      "clickCount": 5,
-      "bitrate": 0,
-      "streamUrl": "https://live1.mediadesk.al/oranews.m3u8"
-    },
-    {
       "id": "esc_radio_de_e13077c4",
       "title": "ESC Radio",
       "subtitle": "Radio",
@@ -34994,6 +34982,114 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "https://streams.deltaradio.de/delta-poprock/mp3-192/streams.deltaradio.de/"
+    },
+    {
+      "id": "antenne_bayern_weihnachtslieder_de_d941ac19",
+      "title": "Antenne Bayern Weihnachtslieder",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 12,
+      "bitrate": 128,
+      "streamUrl": "https://stream.antenne.de/weihnachts-hits/stream/mp3"
+    },
+    {
+      "id": "arabella_christmas_at_2b6af293",
+      "title": "Arabella Christmas",
+      "subtitle": "Christmas",
+      "location": "Austria",
+      "genre": "Christmas",
+      "countryCode": "AT",
+      "language": null,
+      "clickCount": 10,
+      "bitrate": 0,
+      "streamUrl": "https://edge01.streams.arabella.at/arabella-christmas"
+    },
+    {
+      "id": "320_fm_de_7611e33a",
+      "title": "320.fm",
+      "subtitle": "Electronic",
+      "location": "Germany",
+      "genre": "Electronic",
+      "countryCode": "DE",
+      "language": "english",
+      "clickCount": 6,
+      "bitrate": 320,
+      "streamUrl": "https://320.fm/radio/stream/320kbs"
+    },
+    {
+      "id": "wdr_cosmo_adaptive_de_0579e11d",
+      "title": "WDR Cosmo adaptive",
+      "subtitle": "Electro",
+      "location": "Germany",
+      "genre": "Electro",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 6,
+      "bitrate": 102,
+      "streamUrl": "https://wdrhf.akamaized.net/hls/live/2027997/cosmo/master.m3u8"
+    },
+    {
+      "id": "radiofloh_de_209b40d7",
+      "title": "Radiofloh",
+      "subtitle": "Entspannung",
+      "location": "Germany",
+      "genre": "Entspannung",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream.laut.fm/radiofloh"
+    },
+    {
+      "id": "maximix_de_2d777b55",
+      "title": "Maximix",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream.laut.fm/maximix"
+    },
+    {
+      "id": "dopephonk_atomicradio_de_e9cff5c6",
+      "title": "DOPEPHONK - atomicradio",
+      "subtitle": "Atomicradio",
+      "location": "Germany",
+      "genre": "Atomicradio",
+      "countryCode": "DE",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 352,
+      "streamUrl": "https://listen.atomic.radio/dopephonk.m3u8"
+    },
+    {
+      "id": "radio_campesina_cubana_de_66892a34",
+      "title": "Radio Campesina Cubana",
+      "subtitle": "Son",
+      "location": "Germany",
+      "genre": "Son",
+      "countryCode": "DE",
+      "language": "español internacional",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://radiocampesinacubana.stream.laut.fm/radiocampesinacubana?uuid=bc4b27f2-a930-e066-77d9-7ba4132fd81c&t302=2026-11-22_09-07-17"
+    },
+    {
+      "id": "radio_bobs_christmas_rock_de_30dc480c",
+      "title": "Radio Bobs Christmas Rock",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://streams.radiobob.de/bob-christmas/mp3-128/radiode"
     }
   ]
 }
