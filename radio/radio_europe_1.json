@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-24T08:26:03Z",
+  "updated": "2026-11-25T07:03:49Z",
   "region": "europe",
   "part": 1,
   "of": 8,
@@ -4725,19 +4725,6 @@
       "countryCode": "BE",
       "language": "dutch",
       "clickCount": 1,
-      "bitrate": 192
-    },
-    {
-      "id": "rb2_de_geluidsfabriek_0df0cfb3",
-      "title": "De Geluidsfabriek",
-      "subtitle": "Blues, Classic Rock",
-      "imageUrl": "",
-      "streamUrl": "https://s5.radio.co/s4674a3b1c/listen",
-      "location": "Vlaanderen, Belgium",
-      "genre": "Blues",
-      "countryCode": "BE",
-      "language": null,
-      "clickCount": 0,
       "bitrate": 192
     },
     {
@@ -12494,19 +12481,6 @@
       "countryCode": "CH",
       "language": "german",
       "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_radio_alta_ac5fdde2",
-      "title": "Radio Alta",
-      "subtitle": "Christian, Gospel",
-      "imageUrl": "",
-      "streamUrl": "https://transmiss.ion.ovh/listen/alta/radio.mp3",
-      "location": "Burgenland, Switzerland",
-      "genre": "Christian",
-      "countryCode": "CH",
-      "language": null,
-      "clickCount": 3,
       "bitrate": 128
     },
     {
@@ -33724,18 +33698,6 @@
       "streamUrl": "http://mp3.news894.c.nmdn.net/news894/livestream.mp3"
     },
     {
-      "id": "br_bayern_4_klassik_de_48b42f38",
-      "title": "BR Bayern 4 Klassik",
-      "subtitle": "Radio",
-      "location": "Germany",
-      "genre": "Radio",
-      "countryCode": "DE",
-      "language": null,
-      "clickCount": 7,
-      "bitrate": 0,
-      "streamUrl": "http://streams.br.de/br-klassik_2.m3u"
-    },
-    {
       "id": "mdr_klassik_aac_de_9d51d9b4",
       "title": "MDR Klassik (AAC)",
       "subtitle": "Classical",
@@ -35090,6 +35052,102 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "https://streams.radiobob.de/bob-christmas/mp3-128/radiode"
+    },
+    {
+      "id": "ora_news_al_fb65a00b",
+      "title": "Ora News",
+      "subtitle": "News",
+      "location": "Albania",
+      "genre": "News",
+      "countryCode": "AL",
+      "language": "albanian",
+      "clickCount": 7,
+      "bitrate": 0,
+      "streamUrl": "https://live1.mediadesk.al/oranews.m3u8"
+    },
+    {
+      "id": "radio_saw_weihnachten_de_465d6adf",
+      "title": "radio SAW-Weihnachten",
+      "subtitle": "Christmas",
+      "location": "Germany",
+      "genre": "Christmas",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 7,
+      "bitrate": 0,
+      "streamUrl": "https://stream.radiosaw.de/saw-weihnachten/mp3-192/radio-browser/"
+    },
+    {
+      "id": "fluxfm_finest_320_de_001b77bd",
+      "title": "FluxFM Finest [320]",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "https://streams.fluxfm.de/fluxfmfinest/mp3-320/audio/"
+    },
+    {
+      "id": "hitr_dio_ern_hora_128_cz_7236f0e2",
+      "title": "Hitrádio Černá Hora 128",
+      "subtitle": "Radio",
+      "location": "Czechia",
+      "genre": "Radio",
+      "countryCode": "CZ",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://ice.abradio.cz/cernahora128.mp3"
+    },
+    {
+      "id": "123_by_eaca0743",
+      "title": "Радио 123",
+      "subtitle": "Christian",
+      "location": "Belarus",
+      "genre": "Christian",
+      "countryCode": "BY",
+      "language": "russian",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://de1.internet-radio.com:8173/stream"
+    },
+    {
+      "id": "radio_fips_aac_de_db431747",
+      "title": "Radio Fips [aac]",
+      "subtitle": "Community Radio",
+      "location": "Germany",
+      "genre": "Community Radio",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://streams.radiofips.de/fipsaac?ver=545778"
+    },
+    {
+      "id": "kpop_atomicradio_de_a557cd40",
+      "title": "KPOP - atomicradio",
+      "subtitle": "K-Pop",
+      "location": "Germany",
+      "genre": "K-Pop",
+      "countryCode": "DE",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 352,
+      "streamUrl": "https://listen.atomic.radio/kpop.m3u8"
+    },
+    {
+      "id": "schwany5_oberkrain_de_b855b59b",
+      "title": "Schwany5 Oberkrain",
+      "subtitle": "Blasmusik",
+      "location": "Germany",
+      "genre": "Blasmusik",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 320,
+      "streamUrl": "http://oberkrain.sp.radio.fm/stream"
     }
   ]
 }

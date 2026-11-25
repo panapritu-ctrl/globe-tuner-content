@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-24T08:26:03Z",
+  "updated": "2026-11-25T07:03:49Z",
   "region": "europe",
   "part": 5,
   "of": 8,
@@ -15544,19 +15544,6 @@
       "bitrate": 192
     },
     {
-      "id": "rb2_80s_rewind_3e0aff80",
-      "title": "80s Rewind",
-      "subtitle": "Radio",
-      "imageUrl": "http://80s-rewind.com/branding/80s_Rewind_Poster.jpg",
-      "streamUrl": "https://a8.asurahosting.com:7170/radio.mp3",
-      "location": "Dub, Ireland",
-      "genre": "Radio",
-      "countryCode": "IE",
-      "language": null,
-      "clickCount": 2,
-      "bitrate": 192
-    },
-    {
       "id": "8radio_ie",
       "title": "8Radio",
       "subtitle": "Alternative / Indie Rock",
@@ -28733,6 +28720,90 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://www.shoutcastitalia.com/proxy/domusnovas?mp=/stream?ext=.mp3"
+    },
+    {
+      "id": "radio_megamix_your_life_your_beat_it_678ab898",
+      "title": "Radio Megamix | Your life, your beat",
+      "subtitle": "2000S Hits",
+      "location": "Italy",
+      "genre": "2000S Hits",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 8,
+      "bitrate": 192,
+      "streamUrl": "https://icecast.megamix80.com/stream4"
+    },
+    {
+      "id": "antena_zagreb_hr_41c272c1",
+      "title": "Antena Zagreb",
+      "subtitle": "Radio",
+      "location": "Croatia",
+      "genre": "Radio",
+      "countryCode": "HR",
+      "language": null,
+      "clickCount": 7,
+      "bitrate": 96,
+      "streamUrl": "https://audio.social3.hr/listen/antena_aac/radio"
+    },
+    {
+      "id": "radio_parsifal_it_e73add8a",
+      "title": "Radio Parsifal",
+      "subtitle": "Radio",
+      "location": "Italy",
+      "genre": "Radio",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://stream5.xdevel.com/audio0s976542-1302/stream/icecast.audio"
+    },
+    {
+      "id": "radio_ciccio_riccio_it_d00ba74b",
+      "title": "Radio Ciccio Riccio",
+      "subtitle": "Varied",
+      "location": "Italy",
+      "genre": "Varied",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://stream5.xdevel.com/audio0s975942-758/stream/icecast.audio"
+    },
+    {
+      "id": "station_gr_26af09f0",
+      "title": "Λόφος",
+      "subtitle": "Student Radio",
+      "location": "Greece",
+      "genre": "Student Radio",
+      "countryCode": "GR",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream.myaegean.gr/lofosradio.mp3"
+    },
+    {
+      "id": "rt_raidio_na_gaeltachta_ie_0b856542",
+      "title": "RTÉ Raidio na Gaeltachta",
+      "subtitle": "Radio",
+      "location": "Ireland",
+      "genre": "Radio",
+      "countryCode": "IE",
+      "language": "gaelic",
+      "clickCount": 4,
+      "bitrate": 160,
+      "streamUrl": "https://25553.live.streamtheworld.com/RTE_RAIDIO_NA_GAELTACHTA.mp3?tdsdk=rte"
+    },
+    {
+      "id": "fred_film_radio_26_slenska_is_c5bb97b6",
+      "title": "Fred Film Radio-26 Íslenska",
+      "subtitle": "Film",
+      "location": "Iceland",
+      "genre": "Film",
+      "countryCode": "IS",
+      "language": "icelandic",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://s10.webradio-hosting.com/proxy/fredradiois/stream"
     }
   ]
 }

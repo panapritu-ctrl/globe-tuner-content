@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-24T08:26:03Z",
+  "updated": "2026-11-25T07:03:49Z",
   "region": "europe",
   "part": 8,
   "of": 8,
@@ -7255,19 +7255,6 @@
       "bitrate": 192
     },
     {
-      "id": "rb2_105_3_fm_8ac2575b",
-      "title": "Вести ФМ Киров 105.3 FM",
-      "subtitle": "Kirov, Local News",
-      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250104_181905632.jpg?alt=media&token=2a3bcb43-2ddd-4eec-b172-d9d5c360780c",
-      "streamUrl": "http://cast-vestifm.gtrk-vyatka.ru/",
-      "location": "The Russian Federation",
-      "genre": "Kirov",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 0,
-      "bitrate": 96
-    },
-    {
       "id": "rb2_90_3_fm_a98306d0",
       "title": "Вести ФМ Липецк 90.3 FM",
       "subtitle": "Army, Lipetsk",
@@ -8116,19 +8103,6 @@
       "language": "russian",
       "clickCount": 0,
       "bitrate": 128
-    },
-    {
-      "id": "rb2_102_9_fm_97f1d6fa",
-      "title": "Дорожное радио Подпорожье 102.9 FM",
-      "subtitle": "Music",
-      "imageUrl": "",
-      "streamUrl": "http://78.140.197.238:9877/DR-Podporogie",
-      "location": "The Russian Federation",
-      "genre": "Music",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 0,
-      "bitrate": 64
     },
     {
       "id": "rb2_107_6_fm_77cd6933",
@@ -10487,19 +10461,6 @@
       "language": "russian",
       "clickCount": 0,
       "bitrate": 116
-    },
-    {
-      "id": "rb2_7_106_2_fm_89d848db",
-      "title": "Радио 7 Липецк 106.2 FM",
-      "subtitle": "Music",
-      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240821_185809326.jpg?alt=media&token=d6dda706-d075-4674-84de-94a282423f83",
-      "streamUrl": "http://onair.lipetskfm.ru:8000/radio7_lipetsk",
-      "location": "The Russian Federation",
-      "genre": "Music",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 0,
-      "bitrate": 256
     },
     {
       "id": "rb2_7_100_0_fm_0d642122",
@@ -25078,18 +25039,6 @@
       "streamUrl": "http://89.223.45.5:8000/zed-flac"
     },
     {
-      "id": "redback_radio_se_288e5ac2",
-      "title": "Redback Radio",
-      "subtitle": "Eclectic",
-      "location": "Sweden",
-      "genre": "Eclectic",
-      "countryCode": "SE",
-      "language": "english",
-      "clickCount": 5,
-      "bitrate": 128,
-      "streamUrl": "https://redback.mywire.org/stream.mp3"
-    },
-    {
       "id": "station_ru_f9483001",
       "title": "Вастрик 📻 Радио",
       "subtitle": "Radio",
@@ -25424,18 +25373,6 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "https://stream03.pcradio.app/Sector_Gaza-hi.aac"
-    },
-    {
-      "id": "anima_amoris_trip_hop_lounge_ru_6d09266b",
-      "title": "Anima Amoris Trip Hop Lounge",
-      "subtitle": "Radio",
-      "location": "The Russian Federation",
-      "genre": "Radio",
-      "countryCode": "RU",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 0,
-      "streamUrl": "https://amoris.sknt.ru/triphop.mp3"
     },
     {
       "id": "get_radio_ru_1228a54f",
@@ -26360,6 +26297,138 @@
       "clickCount": 5,
       "bitrate": 95,
       "streamUrl": "https://stream.bauermedia.sk/best-of-90s-hi.aac"
+    },
+    {
+      "id": "radio_viking_101_4_se_4913f016",
+      "title": "Radio Viking 101.4",
+      "subtitle": "Dansband",
+      "location": "Sweden",
+      "genre": "Dansband",
+      "countryCode": "SE",
+      "language": "swedish",
+      "clickCount": 12,
+      "bitrate": 0,
+      "streamUrl": "https://n25-eu.rcs.revma.com/qp6w2wzrruhvv?rj-ttl=5&amp"
+    },
+    {
+      "id": "soulless_ua_2d8342ae",
+      "title": "SOULLESS",
+      "subtitle": "Deep House",
+      "location": "Ukraine",
+      "genre": "Deep House",
+      "countryCode": "UA",
+      "language": "english",
+      "clickCount": 7,
+      "bitrate": 192,
+      "streamUrl": "https://soullessradio.com/listen/soulless/radio.mp3"
+    },
+    {
+      "id": "station_ru_d0118e8e",
+      "title": "Новогоднее радио",
+      "subtitle": "Pop",
+      "location": "The Russian Federation",
+      "genre": "Pop",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://s3.radiostreams.ru/novogodneeradio"
+    },
+    {
+      "id": "chill_lounge_ua_3b5ca3c0",
+      "title": "Радіо Київстар Chill & Lounge",
+      "subtitle": "256 Kbit/S",
+      "location": "Ukraine",
+      "genre": "256 Kbit/S",
+      "countryCode": "UA",
+      "language": "ukranian",
+      "clickCount": 6,
+      "bitrate": 281,
+      "streamUrl": "https://radio.kyivstar.ua/stream/chill/master.m3u8"
+    },
+    {
+      "id": "radio_caprice_groove_metal_128_ru_08c14a8e",
+      "title": "Radio Caprice - Groove Metal (128)",
+      "subtitle": "Radio",
+      "location": "The Russian Federation",
+      "genre": "Radio",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 320,
+      "streamUrl": "http://79.120.39.202:8000/groovemetal"
+    },
+    {
+      "id": "station_ru_71c8a045",
+      "title": "Алтай ФМ Предгорье",
+      "subtitle": "101.1 Fm",
+      "location": "The Russian Federation",
+      "genre": "101.1 Fm",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://fmstream.ru/altay-fm-predgorie"
+    },
+    {
+      "id": "maria_fm_102_9_ru_cc58a454",
+      "title": "Maria FM 102.9",
+      "subtitle": "Pop",
+      "location": "The Russian Federation",
+      "genre": "Pop",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://online.mariafm.ru:8443/MariaFM"
+    },
+    {
+      "id": "station_ru_35366e64",
+      "title": "Радио Грозный",
+      "subtitle": "Grozniy",
+      "location": "The Russian Federation",
+      "genre": "Grozniy",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://e10-ll.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/hls_live/index.m3u8"
+    },
+    {
+      "id": "radio_maria_kosovo_xk_afc0658f",
+      "title": "RADIO MARIA KOSOVO",
+      "subtitle": "Catholic",
+      "location": "Kosovo",
+      "genre": "Catholic",
+      "countryCode": "XK",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 64,
+      "streamUrl": "http://dreamsiteradiocp2.com:8124/stream"
+    },
+    {
+      "id": "107_9_fm_ru_6afbc823",
+      "title": "Ретро ФМ Сочи 107.9 FM",
+      "subtitle": "Radio",
+      "location": "The Russian Federation",
+      "genre": "Radio",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "http://emgregion.hostingradio.ru:8064/sochi.retrofm.mp3"
+    },
+    {
+      "id": "fm_ua_47190aca",
+      "title": "Балта FM",
+      "subtitle": "Information",
+      "location": "Ukraine",
+      "genre": "Information",
+      "countryCode": "UA",
+      "language": "ukrainian",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://podilske.com:8013/online"
     }
   ]
 }

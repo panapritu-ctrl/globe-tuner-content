@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-24T08:26:03Z",
+  "updated": "2026-11-25T07:03:50Z",
   "region": "oceania",
   "stations": [
     {
@@ -2955,19 +2955,6 @@
       "genre": "Community Radio",
       "countryCode": "AU",
       "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_alkarma_tv_australia_8b526005",
-      "title": "Alkarma TV Australia",
-      "subtitle": "Christian, Tv",
-      "imageUrl": "https://i1.wp.com/en.alkarmatv.com/wp-content/uploads/2020/02/Logo-AU.png?resize=150%2C150&ssl=1",
-      "streamUrl": "https://5b622f07944df.streamlock.net/alkarmatv.com/alkarmaau.smil/chunklist_w377932823_b1628000_slar.m3u8",
-      "location": "Australia",
-      "genre": "Christian",
-      "countryCode": "AU",
-      "language": null,
       "clickCount": 0,
       "bitrate": 128
     },
@@ -13747,19 +13734,6 @@
       "bitrate": 320
     },
     {
-      "id": "rb2_radiowave_nz_fb02ee16",
-      "title": "Radiowave NZ",
-      "subtitle": "80S, 90S",
-      "imageUrl": "",
-      "streamUrl": "https://listen.radioking.com/radio/106324/stream/145267",
-      "location": "Auckland, New Zealand",
-      "genre": "80S",
-      "countryCode": "NZ",
-      "language": "english",
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_raglan_community_radio_5d0d5fd3",
       "title": "Raglan Community Radio",
       "subtitle": "Radio",
@@ -15251,18 +15225,6 @@
       "streamUrl": "https://15053.live.streamtheworld.com/DEV_7ADAAC_SC"
     },
     {
-      "id": "triple_a_fm_wagga_wagga_107_1_fm_https_mp3_au_4573e749",
-      "title": "Triple A FM - Wagga Wagga - 107.1 FM (HTTPS) (MP3)",
-      "subtitle": "Community Radio",
-      "location": "Australia",
-      "genre": "Community Radio",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 4,
-      "bitrate": 128,
-      "streamUrl": "https://stream.tripleafm.com.au//"
-    },
-    {
       "id": "real_radio_oamaru_nz_05e19125",
       "title": "Real Radio Oamaru",
       "subtitle": "Radio",
@@ -16617,6 +16579,30 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "http://abm21.com.au:8000/CONTAINER97"
+    },
+    {
+      "id": "australian_digital_radio_network_1980s_pop_number_1s_mp3_au_a2cb7a4d",
+      "title": "Australian Digital Radio Network - 1980s Pop Number 1s (MP3)",
+      "subtitle": "1980S",
+      "location": "Australia",
+      "genre": "1980S",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://abm21.com.au:8000/CONTAINER85"
+    },
+    {
+      "id": "smooth_sailing_radio_au_4d03eb5f",
+      "title": "Smooth Sailing Radio",
+      "subtitle": "Rnb",
+      "location": "Australia",
+      "genre": "Rnb",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://s44.myradiostream.com/9144/listen.mp3"
     }
   ]
 }

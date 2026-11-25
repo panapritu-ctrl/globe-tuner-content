@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-24T08:26:03Z",
+  "updated": "2026-11-25T07:03:50Z",
   "region": "europe",
   "part": 3,
   "of": 8,
@@ -8288,19 +8288,6 @@
       "subtitle": "Radio",
       "imageUrl": "https://www.nexusxiv.fr/media/radio/logos/98.7_Body_Heat_Radio.webp",
       "streamUrl": "http://82.65.103.36:8000/body-heat",
-      "location": "France",
-      "genre": "Radio",
-      "countryCode": "FR",
-      "language": "english",
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_cp2077_growl_fm_89_7_5d7fede5",
-      "title": "CP2077 - Growl FM 89.7",
-      "subtitle": "Radio",
-      "imageUrl": "https://www.nexusxiv.fr/media/radio/logos/89.7_Growl_FM.webp",
-      "streamUrl": "http://82.65.103.36:8000/growl-fm",
       "location": "France",
       "genre": "Radio",
       "countryCode": "FR",
@@ -26397,18 +26384,6 @@
       "streamUrl": "https://go.2stream.net/kizrock"
     },
     {
-      "id": "hotmix_hip_hop_int_fr_4488588c",
-      "title": "Hotmix Hip Hop INT",
-      "subtitle": "Hip Hop",
-      "location": "France",
-      "genre": "Hip Hop",
-      "countryCode": "FR",
-      "language": "english",
-      "clickCount": 4,
-      "bitrate": 192,
-      "streamUrl": "https://streaming.hotmixradio.com/hotmix-hiphop-en-mp3"
-    },
-    {
       "id": "mansfield_103_2_gb_997d8f73",
       "title": "Mansfield 103.2",
       "subtitle": "Dance",
@@ -27429,18 +27404,6 @@
       "streamUrl": "https://agoracotedazur.ice.infomaniak.ch/agoracotedazur.mp3"
     },
     {
-      "id": "cornwall_rewind_gb_56c4c9b6",
-      "title": "Cornwall Rewind",
-      "subtitle": "80'S",
-      "location": "The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "80'S",
-      "countryCode": "GB",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 128,
-      "streamUrl": "http://s4.radio.co/s2eaa194f6/listen"
-    },
-    {
       "id": "alex_pepper_live_gb_86b3a8c6",
       "title": "Alex Pepper Live",
       "subtitle": "Edm",
@@ -28411,6 +28374,102 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://streaming.nrjaudio.fm/ou3kk4uizv6i"
+    },
+    {
+      "id": "chilli_fm_es_bcc95c6a",
+      "title": "Chilli FM",
+      "subtitle": "English",
+      "location": "Spain",
+      "genre": "English",
+      "countryCode": "ES",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://stream.aiir.com/gzsyvjpqs4svv"
+    },
+    {
+      "id": "la_urban_radio_es_9737badb",
+      "title": "La Urban Radio",
+      "subtitle": "Other",
+      "location": "Spain",
+      "genre": "Other",
+      "countryCode": "ES",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 0,
+      "streamUrl": "https://st1.urbanrevolution.es:8443/laurbanfm.mp3"
+    },
+    {
+      "id": "ladiez_es_eee6d404",
+      "title": "ladiez",
+      "subtitle": "Magazines",
+      "location": "Spain",
+      "genre": "Magazines",
+      "countryCode": "ES",
+      "language": "spanish",
+      "clickCount": 4,
+      "bitrate": 96,
+      "streamUrl": "https://panel5.soydigital.fm/8030/stream"
+    },
+    {
+      "id": "t_rkvox_radio_fr_3e4c52d5",
+      "title": "TürkVox Radio",
+      "subtitle": "Turkish",
+      "location": "France",
+      "genre": "Turkish",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://turkvox.eu/stream/turkvox.mp3"
+    },
+    {
+      "id": "ou_fm_christmas_rock_fr_cecece66",
+      "title": "OUÏ FM Christmas Rock",
+      "subtitle": "Christmas",
+      "location": "France",
+      "genre": "Christmas",
+      "countryCode": "FR",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://ouifmnoel.ice.infomaniak.ch/ouifmnoel-128.mp3"
+    },
+    {
+      "id": "blast_fm_fr_acd785a2",
+      "title": "BLAST FM",
+      "subtitle": "Classics",
+      "location": "France",
+      "genre": "Classics",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://radio.blastfm.fr/listen/blast_fm/radio.mp3"
+    },
+    {
+      "id": "vey_house_fr_c6ffea3d",
+      "title": "Vey House",
+      "subtitle": "Deep House",
+      "location": "France",
+      "genre": "Deep House",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://vey-house-audio.vayhouseradio.workers.dev/live.mp3"
+    },
+    {
+      "id": "maxlaradio_fr_02b87334",
+      "title": "MaxLaRadio",
+      "subtitle": "Oldies",
+      "location": "France",
+      "genre": "Oldies",
+      "countryCode": "FR",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://stream.votreradiosurlenet.eu/maxlaradio.mp3"
     }
   ]
 }
