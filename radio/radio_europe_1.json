@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-25T07:03:49Z",
+  "updated": "2026-11-26T06:53:40Z",
   "region": "europe",
   "part": 1,
   "of": 8,
@@ -10154,19 +10154,6 @@
       "subtitle": "Christian",
       "imageUrl": "",
       "streamUrl": "https://rt.radioslovo.net:4145/stream",
-      "location": "Belarus",
-      "genre": "Christian",
-      "countryCode": "BY",
-      "language": "russian",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_station_29620844",
-      "title": "Открытое Слово Братские встречи",
-      "subtitle": "Christian",
-      "imageUrl": "https://radioslovo.net/assets/css/img/favicon.ico",
-      "streamUrl": "https://rt.radioslovo.net:4135/stream",
       "location": "Belarus",
       "genre": "Christian",
       "countryCode": "BY",
@@ -32810,18 +32797,6 @@
       "streamUrl": "http://lobpreis-by-echingtv.stream.laut.fm/lobpreis-by-echingtv"
     },
     {
-      "id": "nest_radio_al_3ba71f08",
-      "title": "Nest Radio",
-      "subtitle": "Albanian",
-      "location": "Albania",
-      "genre": "Albanian",
-      "countryCode": "AL",
-      "language": "albanian",
-      "clickCount": 3,
-      "bitrate": 192,
-      "streamUrl": "https://radio.nestnews.al/listen/nest-radio/radio.mp3"
-    },
-    {
       "id": "egofm_kavka_hq_de_1e1d8ec6",
       "title": "egoFM Kavka [HQ]",
       "subtitle": "Egofm",
@@ -34670,18 +34645,6 @@
       "streamUrl": "https://s10.webradio-hosting.com/proxy/fredradiobg/stream"
     },
     {
-      "id": "extravaganza_radio_sexy_secrets_records_al_04fc3f28",
-      "title": "Extravaganza Radio - Sexy Secrets Records",
-      "subtitle": "Dance",
-      "location": "Albania",
-      "genre": "Dance",
-      "countryCode": "AL",
-      "language": "english",
-      "clickCount": 12,
-      "bitrate": 0,
-      "streamUrl": "https://pstnet5.shoutcastnet.com:50374/stream"
-    },
-    {
       "id": "weihnachten_mit_antenne_bayern_de_08498e1d",
       "title": "Weihnachten mit ANTENNE BAYERN",
       "subtitle": "Radio",
@@ -35148,6 +35111,78 @@
       "clickCount": 4,
       "bitrate": 320,
       "streamUrl": "http://oberkrain.sp.radio.fm/stream"
+    },
+    {
+      "id": "br_bayern_4_klassik_de_48b42f38",
+      "title": "BR Bayern 4 Klassik",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 10,
+      "bitrate": 0,
+      "streamUrl": "http://streams.br.de/br-klassik_2.m3u"
+    },
+    {
+      "id": "mdr_de_8d1f4dc8",
+      "title": "MDR",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 9,
+      "bitrate": 128,
+      "streamUrl": "http://mdr-284280-0.sslcast.mdr.de/mdr/284280/0/mp3/high/stream.mp3"
+    },
+    {
+      "id": "pure_fm_de_ec250912",
+      "title": "Pure FM",
+      "subtitle": "Dance",
+      "location": "Germany",
+      "genre": "Dance",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 6,
+      "bitrate": 320,
+      "streamUrl": "https://s4.radionetz.de/purefm-mb.mp3"
+    },
+    {
+      "id": "flux_kompensator_320_de_4c2c6d96",
+      "title": "Flux-Kompensator (320)",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "https://streams.fluxfm.de/fluxkompensator/mp3-320"
+    },
+    {
+      "id": "nest_radio_al_3ba71f08",
+      "title": "Nest Radio",
+      "subtitle": "Albanian",
+      "location": "Albania",
+      "genre": "Albanian",
+      "countryCode": "AL",
+      "language": "albanian",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://radio.nestnews.al/listen/nest-radio/radio.mp3"
+    },
+    {
+      "id": "radio_o106_cz_83f735f1",
+      "title": "Radio O106",
+      "subtitle": "Radio",
+      "location": "Czechia",
+      "genre": "Radio",
+      "countryCode": "CZ",
+      "language": "czech",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://listen.radioking.com/radio/442799/stream/497147"
     }
   ]
 }

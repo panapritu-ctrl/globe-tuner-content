@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-25T07:03:49Z",
+  "updated": "2026-11-26T06:53:40Z",
   "region": "asia",
   "part": 1,
   "of": 3,
@@ -17613,19 +17613,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_station_b271a417",
-      "title": "杭州交通经济广播",
-      "subtitle": "Lifestyle, Traffic",
-      "imageUrl": "",
-      "streamUrl": "http://live.xmcdn.com/live/632/64.m3u8",
-      "location": "Chekiang, China",
-      "genre": "Lifestyle",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 1,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_station_6621dbec",
       "title": "杭州华语之声网络广播",
       "subtitle": "Full Service, Internet Radio",
@@ -18871,19 +18858,6 @@
       "countryCode": "CN",
       "language": "chinese",
       "clickCount": 6,
-      "bitrate": 64
-    },
-    {
-      "id": "rb2_station_fd0060c0",
-      "title": "河南戏曲网络广播",
-      "subtitle": "Radio",
-      "imageUrl": "http://cmsres.dianzhenkeji.com/files/images/2017/06/23/1498187753774837.png",
-      "streamUrl": "http://stream.hndt.com/live/wangluoxiqu/playlist.m3u8",
-      "location": "China",
-      "genre": "Radio",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 2,
       "bitrate": 64
     },
     {
@@ -23770,18 +23744,6 @@
       "streamUrl": "https://lhttp.qingting.fm/live/5022388/64k.mp3"
     },
     {
-      "id": "asiafm_cn_d6bcfeda",
-      "title": "AsiaFM亚洲音乐台(新)",
-      "subtitle": "Music",
-      "location": "China",
-      "genre": "Music",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 20,
-      "bitrate": 0,
-      "streamUrl": "https://live.xmcdn.com/live/764/64.m3u8"
-    },
-    {
       "id": "station_cn_fc26520c",
       "title": "宿州文艺广播",
       "subtitle": "Entertainment",
@@ -24008,18 +23970,6 @@
       "clickCount": 3,
       "bitrate": 0,
       "streamUrl": "http://ls.qingting.fm/live/1308.m3u8"
-    },
-    {
-      "id": "station_cn_034100ae",
-      "title": "萧山有线广播",
-      "subtitle": "Public Radio",
-      "location": "China",
-      "genre": "Public Radio",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 3,
-      "bitrate": 0,
-      "streamUrl": "http://l.cztvcloud.com/channels/lantian/SXxiaoshanaud2/128k.m3u8"
     },
     {
       "id": "station_cn_85848056",
@@ -26482,18 +26432,6 @@
       "streamUrl": "https://api.xmgspace.me/api/vom-latest/"
     },
     {
-      "id": "fm87_6_cn_2962bb07",
-      "title": "百色音乐广播 FM87.6",
-      "subtitle": "Music",
-      "location": "China",
-      "genre": "Music",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 5,
-      "bitrate": 0,
-      "streamUrl": "https://vod.bsyjrb.cn/live/82c95bdd98f2.m3u8"
-    },
-    {
       "id": "radio_impetus_cn_796d5229",
       "title": "Radio Impetus 心动电台",
       "subtitle": "Electronic",
@@ -27056,18 +26994,6 @@
       "clickCount": 6,
       "bitrate": 0,
       "streamUrl": "https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv5_1/index.m3u8?adapt=0&BR=audio"
-    },
-    {
-      "id": "shangyu_news_tv_cn_8836df68",
-      "title": "Shangyu News TV",
-      "subtitle": "Chekiang",
-      "location": "China",
-      "genre": "Chekiang",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 6,
-      "bitrate": 0,
-      "streamUrl": "http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8"
     },
     {
       "id": "radio_ghazal_af_60763217",
@@ -27680,6 +27606,162 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "https://lhttp.qtfm.cn/live/20500121/64k.mp3"
+    },
+    {
+      "id": "asiafm_cn_d6bcfeda",
+      "title": "AsiaFM亚洲音乐台(新)",
+      "subtitle": "Music",
+      "location": "China",
+      "genre": "Music",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 68,
+      "bitrate": 0,
+      "streamUrl": "https://live.xmcdn.com/live/764/64.m3u8"
+    },
+    {
+      "id": "station_cn_db415b46",
+      "title": "杭州交通经济广播",
+      "subtitle": "Entertainment",
+      "location": "China",
+      "genre": "Entertainment",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 15,
+      "bitrate": 0,
+      "streamUrl": "https://lhttp.qtfm.cn/live/1133/64k.mp3"
+    },
+    {
+      "id": "day_az_radio_192_kbps_az_6eab770f",
+      "title": "Day.Az Radio (192 kbps)",
+      "subtitle": "Azerbaijani",
+      "location": "Azerbaijan",
+      "genre": "Azerbaijani",
+      "countryCode": "AZ",
+      "language": "azerbaijani",
+      "clickCount": 10,
+      "bitrate": 192,
+      "streamUrl": "https://radio.day.az:9443/aac192"
+    },
+    {
+      "id": "station_cn_31d9ba32",
+      "title": "咸阳音乐广播",
+      "subtitle": "Music",
+      "location": "China",
+      "genre": "Music",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 7,
+      "bitrate": 2560,
+      "streamUrl": "https://hplayer1.juyun.tv/camera/63973146.m3u8"
+    },
+    {
+      "id": "day_az_radio_az_17c201b6",
+      "title": "Day.Az Radio",
+      "subtitle": "Azerbaijani",
+      "location": "Azerbaijan",
+      "genre": "Azerbaijani",
+      "countryCode": "AZ",
+      "language": "azerbaijani",
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://radio.day.az:9443/aac128"
+    },
+    {
+      "id": "day_az_radio_48_kbps_az_4601f694",
+      "title": "Day.Az Radio (48 kbps)",
+      "subtitle": "Azerbaijani",
+      "location": "Azerbaijan",
+      "genre": "Azerbaijani",
+      "countryCode": "AZ",
+      "language": "azerbaijani",
+      "clickCount": 6,
+      "bitrate": 48,
+      "streamUrl": "https://radio.day.az:9443/aac48"
+    },
+    {
+      "id": "station_cn_c737f587",
+      "title": "深圳宝安湾区之声",
+      "subtitle": "Full Service",
+      "location": "China",
+      "genre": "Full Service",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "https://live.ximalaya.com/radio-first-page-app/live/2912/64.m3u8?transcode=ts"
+    },
+    {
+      "id": "wardak_fm_af_b142135f",
+      "title": "Wardak FM",
+      "subtitle": "Music",
+      "location": "Afghanistan",
+      "genre": "Music",
+      "countryCode": "AF",
+      "language": "pashto",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://stream.zeno.fm/sgp6ng971k8uv"
+    },
+    {
+      "id": "station_cn_7002c0cb",
+      "title": "安徽农村广播",
+      "subtitle": "Agriculture",
+      "location": "China",
+      "genre": "Agriculture",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://lhttp.qtfm.cn/live/1950/64k.mp3"
+    },
+    {
+      "id": "fm87_6_cn_2962bb07",
+      "title": "百色音乐广播 FM87.6",
+      "subtitle": "Music",
+      "location": "China",
+      "genre": "Music",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://vod.bsyjrb.cn/live/82c95bdd98f2.m3u8"
+    },
+    {
+      "id": "station_cn_1f276732",
+      "title": "临夏综合广播",
+      "subtitle": "Full Service",
+      "location": "China",
+      "genre": "Full Service",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 4,
+      "bitrate": 2560,
+      "streamUrl": "https://play.kankanlive.com/live/1719371517772901.m3u8"
+    },
+    {
+      "id": "station_cn_d6194038",
+      "title": "通渭综合广播",
+      "subtitle": "5G智慧电台",
+      "location": "China",
+      "genre": "5G智慧电台",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 4,
+      "bitrate": 2560,
+      "streamUrl": "http://play.kankanlive.com/live/1725005604372021.m3u8"
+    },
+    {
+      "id": "station_cn_b5997f05",
+      "title": "四川民族广播",
+      "subtitle": "Public Radio",
+      "location": "China",
+      "genre": "Public Radio",
+      "countryCode": "CN",
+      "language": "tibetan",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://lhttp.qtfm.cn/live/1115/64k.mp3"
     }
   ]
 }

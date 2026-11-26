@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-25T07:03:49Z",
+  "updated": "2026-11-26T06:53:40Z",
   "region": "africa",
   "stations": [
     {
@@ -13589,18 +13589,6 @@
       "streamUrl": "https://stream-155.zeno.fm/ide8zzvajbcvv"
     },
     {
-      "id": "eritrean_music_er_b97bc85d",
-      "title": "Eritrean Music",
-      "subtitle": "Amharic",
-      "location": "Eritrea",
-      "genre": "Amharic",
-      "countryCode": "ER",
-      "language": "amharic",
-      "clickCount": 7,
-      "bitrate": 56,
-      "streamUrl": "http://linuxfreelancer.com:8000/test.mp3"
-    },
-    {
       "id": "investment_radio_africa_ira_zw_3c85b2a4",
       "title": "Investment Radio Africa (IRA)",
       "subtitle": "News",
@@ -14057,18 +14045,6 @@
       "streamUrl": "https://linuxfreelancer.com:8443/test.mp3"
     },
     {
-      "id": "r_dio_kair_s_angola_ao_5fd3e9ed",
-      "title": "Rádio Kairós Angola",
-      "subtitle": "Christian",
-      "location": "Angola",
-      "genre": "Christian",
-      "countryCode": "AO",
-      "language": "portuguese",
-      "clickCount": 7,
-      "bitrate": 0,
-      "streamUrl": "https://www.radiokairosangola.ao/livenow"
-    },
-    {
       "id": "ebs_radio_mw_213cfeb4",
       "title": "EBS Radio",
       "subtitle": "Education",
@@ -14427,6 +14403,42 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://rfmreunio.ice.infomaniak.ch/rfmrun-128.mp3"
+    },
+    {
+      "id": "eritrean_music_er_b97bc85d",
+      "title": "Eritrean Music",
+      "subtitle": "Amharic",
+      "location": "Eritrea",
+      "genre": "Amharic",
+      "countryCode": "ER",
+      "language": "amharic",
+      "clickCount": 12,
+      "bitrate": 56,
+      "streamUrl": "http://linuxfreelancer.com:8000/test.mp3"
+    },
+    {
+      "id": "b_web_radio_ml_37182da1",
+      "title": "B Web Radio",
+      "subtitle": "African",
+      "location": "Mali",
+      "genre": "African",
+      "countryCode": "ML",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://azuracast-nuremberg.myautodj.com/listen/bwebradio/radio.mp3"
+    },
+    {
+      "id": "pikine_diaspora_radio_sn_368c735a",
+      "title": "Pikine Diaspora Radio",
+      "subtitle": "Radio",
+      "location": "Senegal",
+      "genre": "Radio",
+      "countryCode": "SN",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "http://cdn.voscast.com/resources/?key=563fcd75f43e77334d6fb664b7358f9e&c=winamp"
     }
   ]
 }

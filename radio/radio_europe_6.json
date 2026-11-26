@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-25T07:03:18Z",
+  "updated": "2026-11-26T06:53:40Z",
   "region": "europe",
   "part": 6,
   "of": 8,
@@ -15667,19 +15667,6 @@
       "bitrate": 192
     },
     {
-      "id": "rb2_radio_pechaan_5cf5a7de",
-      "title": "Radio Pechaan",
-      "subtitle": "Bollywood, Dutch",
-      "imageUrl": "http://radiopehchaan.com/radio_pehchaan_logo.png",
-      "streamUrl": "http://mscp3.live-streams.nl:8050/stream",
-      "location": "The Netherlands",
-      "genre": "Bollywood",
-      "countryCode": "NL",
-      "language": "dutch",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_radio_purmerend_dab_aa4c9e2a",
       "title": "Radio Purmerend (DAB)",
       "subtitle": "Community Radio, Local News",
@@ -23372,18 +23359,6 @@
       "streamUrl": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk8_mp3_h"
     },
     {
-      "id": "nordic_chillout_radio_lv_54641621",
-      "title": "Nordic Chillout Radio",
-      "subtitle": "Chillout",
-      "location": "Latvia",
-      "genre": "Chillout",
-      "countryCode": "LV",
-      "language": "english",
-      "clickCount": 8,
-      "bitrate": 64,
-      "streamUrl": "https://play.radioking.io/nordic-chillout-radio/736489"
-    },
-    {
       "id": "concertzender_ori_nt_express_nl_c0829885",
       "title": "Concertzender Oriënt Express",
       "subtitle": "World Music",
@@ -28446,6 +28421,66 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "https://streaming.xeros-radio.nl/radio/8020/xerosradioclassics"
+    },
+    {
+      "id": "dreamscape_radio_nl_a153a813",
+      "title": "Dreamscape Radio",
+      "subtitle": "Ambient",
+      "location": "The Netherlands",
+      "genre": "Ambient",
+      "countryCode": "NL",
+      "language": "dutch",
+      "clickCount": 8,
+      "bitrate": 320,
+      "streamUrl": "https://dreamscape.nexradio.nl/dreamscape/stream"
+    },
+    {
+      "id": "jungletrain_net_24_7_drum_and_bass_nl_01571029",
+      "title": "jungletrain.net - 24/7 drum and bass",
+      "subtitle": "Radio",
+      "location": "The Netherlands",
+      "genre": "Radio",
+      "countryCode": "NL",
+      "language": null,
+      "clickCount": 7,
+      "bitrate": 256,
+      "streamUrl": "https://stream.josh-hill.nl:8000/?v=1795616123212"
+    },
+    {
+      "id": "radio_vandobo_it_63398853",
+      "title": "Radio VanDobo",
+      "subtitle": "Vandobo",
+      "location": "Italy",
+      "genre": "Vandobo",
+      "countryCode": "IT",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 320,
+      "streamUrl": "https://vandobo.tail761e81.ts.net/listen/radio_vandobo/radio.mp3"
+    },
+    {
+      "id": "radio_a_r_c_it_5a20d86e",
+      "title": "Radio A.R.C.",
+      "subtitle": "Radio",
+      "location": "Italy",
+      "genre": "Radio",
+      "countryCode": "IT",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://arclibrary.grausof.it/stream"
+    },
+    {
+      "id": "jungle_radio_the_original_nl_ce00daaa",
+      "title": "Jungle Radio The Original",
+      "subtitle": "2000S",
+      "location": "The Netherlands",
+      "genre": "2000S",
+      "countryCode": "NL",
+      "language": "dutch",
+      "clickCount": 4,
+      "bitrate": 96,
+      "streamUrl": "http://eu8.fastcast4u.com:3296/stream"
     }
   ]
 }

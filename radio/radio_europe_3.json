@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-25T07:03:50Z",
+  "updated": "2026-11-26T06:53:40Z",
   "region": "europe",
   "part": 3,
   "of": 8,
@@ -1217,19 +1217,6 @@
       "imageUrl": "",
       "streamUrl": "https://dispatcher.rndfnk.com/crtve/rne5/ter/mp3/high?idasset=6116428",
       "location": "Huesca, Spain",
-      "genre": "Local News",
-      "countryCode": "ES",
-      "language": "castellano. español",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_rne_radio_5_teruel_30f98b10",
-      "title": "RNE - Radio 5 Teruel",
-      "subtitle": "Local News, News",
-      "imageUrl": "",
-      "streamUrl": "https://f111.rndfnk.com/star/crtve/rne1/ara/mp3/128/ct/stream.mp3?cid=01GENZWHP8NT4XFGV9EAFXK644&sid=38HMKLWsUY28J5FxQUoWC1YCAuZ&token=ul_zhGH_HgAoo2QPe2R-f9Jh5tZOAGHskNac0qVpCME&tvf=ONFUbVnhihhmMTExLnJuZGZuay5jb20",
-      "location": "Teruel, Spain",
       "genre": "Local News",
       "countryCode": "ES",
       "language": "castellano. español",
@@ -8280,19 +8267,6 @@
       "countryCode": "FR",
       "language": null,
       "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_cp2077_body_heat_radio_98_7_4c08f1cd",
-      "title": "CP2077 - Body Heat Radio 98.7",
-      "subtitle": "Radio",
-      "imageUrl": "https://www.nexusxiv.fr/media/radio/logos/98.7_Body_Heat_Radio.webp",
-      "streamUrl": "http://82.65.103.36:8000/body-heat",
-      "location": "France",
-      "genre": "Radio",
-      "countryCode": "FR",
-      "language": "english",
-      "clickCount": 1,
       "bitrate": 128
     },
     {
@@ -27392,18 +27366,6 @@
       "streamUrl": "https://stream.radioclapas.fr/listen/clapas_jazz/radio.mp3"
     },
     {
-      "id": "agora_c_te_d_azur_fr_e07dc7c1",
-      "title": "AGORA CÔTE D’AZUR",
-      "subtitle": "Radio",
-      "location": "France",
-      "genre": "Radio",
-      "countryCode": "FR",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 128,
-      "streamUrl": "https://agoracotedazur.ice.infomaniak.ch/agoracotedazur.mp3"
-    },
-    {
       "id": "alex_pepper_live_gb_86b3a8c6",
       "title": "Alex Pepper Live",
       "subtitle": "Edm",
@@ -28470,6 +28432,90 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://stream.votreradiosurlenet.eu/maxlaradio.mp3"
+    },
+    {
+      "id": "france_musique_la_jazz_hifi_sans_pub_fr_128c0a06",
+      "title": "France musique La Jazz hifi sans pub",
+      "subtitle": "Jazz",
+      "location": "France",
+      "genre": "Jazz",
+      "countryCode": "FR",
+      "language": "francaise",
+      "clickCount": 6,
+      "bitrate": 0,
+      "streamUrl": "https://stream.radiofrance.fr/francemusiquelajazz/francemusiquelajazz_hifi.m3u8"
+    },
+    {
+      "id": "nova_vintage_fr_52ac1b12",
+      "title": "Nova Vintage",
+      "subtitle": "Radio",
+      "location": "France",
+      "genre": "Radio",
+      "countryCode": "FR",
+      "language": null,
+      "clickCount": 6,
+      "bitrate": 128,
+      "streamUrl": "https://nova-vnt.ice.infomaniak.ch/nova-vnt-128.mp3"
+    },
+    {
+      "id": "gran_via_radio_barcelona_es_bb7145df",
+      "title": "Gran Via Radio Barcelona",
+      "subtitle": "80S",
+      "location": "Spain",
+      "genre": "80S",
+      "countryCode": "ES",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://servidor14-3.brlogic.com:7066/live"
+    },
+    {
+      "id": "radio_mont_blanc_fr_162a5331",
+      "title": "Radio Mont Blanc",
+      "subtitle": "Haute Savoie",
+      "location": "France",
+      "genre": "Haute Savoie",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://radiomontblanc1.ice.infomaniak.ch/radiomontblanc1-128.mp3"
+    },
+    {
+      "id": "la_baroque_sans_pub_fr_02efad84",
+      "title": "La Baroque-sans pub",
+      "subtitle": "Classical Barock Music",
+      "location": "France",
+      "genre": "Classical Barock Music",
+      "countryCode": "FR",
+      "language": "francaise",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://stream.radiofrance.fr/francemusiquebaroque/francemusiquebaroque_hifi.m3u8"
+    },
+    {
+      "id": "nrj_latino_classics_fr_ef642ebd",
+      "title": "NRJ Latino Classics",
+      "subtitle": "Classics",
+      "location": "France",
+      "genre": "Classics",
+      "countryCode": "FR",
+      "language": "french",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://streaming.nrjaudio.fm/oudb5z2h9r57"
+    },
+    {
+      "id": "inforadio_fr_eead0013",
+      "title": "INFORADIO",
+      "subtitle": "Radio",
+      "location": "France",
+      "genre": "Radio",
+      "countryCode": "FR",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 35,
+      "streamUrl": "https://inforadio-1.radiohls.infomaniak.com/inforadio-1/manifest.m3u8"
     }
   ]
 }

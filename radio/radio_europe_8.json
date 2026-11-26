@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-25T07:03:49Z",
+  "updated": "2026-11-26T06:53:40Z",
   "region": "europe",
   "part": 8,
   "of": 8,
@@ -14866,19 +14866,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_station_e150ce21",
-      "title": "радио Алтай",
-      "subtitle": "Поп",
-      "imageUrl": "",
-      "streamUrl": "http://146.158.96.114:8000/radio",
-      "location": "The Russian Federation",
-      "genre": "Поп",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 0,
-      "bitrate": 48
-    },
-    {
       "id": "rb2_station_096a158b",
       "title": "радио Забытая кассета",
       "subtitle": "Pop Music",
@@ -15937,19 +15924,6 @@
       "language": "swedish",
       "clickCount": 1,
       "bitrate": 152
-    },
-    {
-      "id": "rb2_sveriges_radio_p4_halland_1576f6f2",
-      "title": "Sveriges Radio - P4 Halland",
-      "subtitle": "Radio",
-      "imageUrl": "https://sverigesradio.se/dist/images/apple-touch-icon-default.png",
-      "streamUrl": "https://sverigesradio.se/topsy/ljudfil/srse/8266576.mp3",
-      "location": "Halland, Sweden",
-      "genre": "Radio",
-      "countryCode": "SE",
-      "language": "swedish",
-      "clickCount": 1,
-      "bitrate": 128
     },
     {
       "id": "rb_sveriges_radio_p4_plus_962c1da9",
@@ -23335,18 +23309,6 @@
       "streamUrl": "http://live.lofiradio.ru:8000/asmr_mp3_320"
     },
     {
-      "id": "bri_dge_classi_c_tv_ru_264306cf",
-      "title": "BRİDGE CLASSİC TV",
-      "subtitle": "Classic Hits",
-      "location": "The Russian Federation",
-      "genre": "Classic Hits",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 4,
-      "bitrate": 0,
-      "streamUrl": "http://stream.mcquack.net/272/index.m3u8"
-    },
-    {
       "id": "101_ru_enigma_ru_0a83140b",
       "title": "101.ru Enigma",
       "subtitle": "Discography",
@@ -25903,18 +25865,6 @@
       "streamUrl": "http://fm10-ice.stream.khz.se/fm10_mp3"
     },
     {
-      "id": "star_fm_se_ec31cff3",
-      "title": "Star FM",
-      "subtitle": "Radio",
-      "location": "Sweden",
-      "genre": "Radio",
-      "countryCode": "SE",
-      "language": "swedish",
-      "clickCount": 10,
-      "bitrate": 128,
-      "streamUrl": "http://fm05-ice.stream.khz.se/fm05_mp3"
-    },
-    {
       "id": "radio_euvropa_se_8552711e",
       "title": "Radio Euvropa",
       "subtitle": "Europe",
@@ -26021,18 +25971,6 @@
       "clickCount": 7,
       "bitrate": 95,
       "streamUrl": "https://stream.bauermedia.sk/oldies-party-hi.aac"
-    },
-    {
-      "id": "anima_amoris_idm_ru_d5d3d725",
-      "title": "Anima Amoris IDM",
-      "subtitle": "Radio",
-      "location": "The Russian Federation",
-      "genre": "Radio",
-      "countryCode": "RU",
-      "language": null,
-      "clickCount": 5,
-      "bitrate": 0,
-      "streamUrl": "https://amoris.sknt.ru/idm.mp3"
     },
     {
       "id": "get_radio_ru_ed4e2b70",
@@ -26429,6 +26367,114 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://podilske.com:8013/online"
+    },
+    {
+      "id": "2_0_ru_08b4552b",
+      "title": "СИБИРСКАЯ СТАНЦИЯ 2.0",
+      "subtitle": "Ambient",
+      "location": "The Russian Federation",
+      "genre": "Ambient",
+      "countryCode": "RU",
+      "language": "english",
+      "clickCount": 11,
+      "bitrate": 192,
+      "streamUrl": "https://sibstation2.ru/listen/%D1%81%D0%B8%D0%B1%D0%B8%D1%80%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_2.0/radio.mp3"
+    },
+    {
+      "id": "numberstations_se_39e2d6f9",
+      "title": "Numberstations",
+      "subtitle": "Radio",
+      "location": "Sweden",
+      "genre": "Radio",
+      "countryCode": "SE",
+      "language": null,
+      "clickCount": 9,
+      "bitrate": 0,
+      "streamUrl": "https://broadcast.sonologic.net/numberstations.mp3"
+    },
+    {
+      "id": "rmp_music_ua_eecd4efa",
+      "title": "RMP Music",
+      "subtitle": "Super Mixes Dj",
+      "location": "Ukraine",
+      "genre": "Super Mixes Dj",
+      "countryCode": "UA",
+      "language": "ua ru ro",
+      "clickCount": 7,
+      "bitrate": 320,
+      "streamUrl": "https://rmpmusicradio.online/stream320"
+    },
+    {
+      "id": "radio_caprice_eurodance_ru_81fc206f",
+      "title": "Radio Caprice - Eurodance",
+      "subtitle": "Electronic",
+      "location": "The Russian Federation",
+      "genre": "Electronic",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 48,
+      "streamUrl": "http://79.120.39.202:8002/eurodance"
+    },
+    {
+      "id": "golden_hits_ua_e710237c",
+      "title": "Радіо Київстар Golden Hits",
+      "subtitle": "256 Kbit/S",
+      "location": "Ukraine",
+      "genre": "256 Kbit/S",
+      "countryCode": "UA",
+      "language": "ukranian",
+      "clickCount": 5,
+      "bitrate": 281,
+      "streamUrl": "https://radio.kyivstar.ua/stream/gold/master.m3u8"
+    },
+    {
+      "id": "radio_caprice_modern_classical_ru_db3a2711",
+      "title": "Radio Caprice - Modern Classical",
+      "subtitle": "Classical",
+      "location": "The Russian Federation",
+      "genre": "Classical",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 48,
+      "streamUrl": "http://79.120.39.202:8002/modernclassical"
+    },
+    {
+      "id": "fm_ru_70a534e9",
+      "title": "Говору нет FM",
+      "subtitle": "Radio",
+      "location": "The Russian Federation",
+      "genre": "Radio",
+      "countryCode": "RU",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://82.146.46.30:8443/govorunetfm"
+    },
+    {
+      "id": "station_ru_8fdc164b",
+      "title": "Первое радио Кубани",
+      "subtitle": "Pop",
+      "location": "The Russian Federation",
+      "genre": "Pop",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "http://188.170.219.153:8000/"
+    },
+    {
+      "id": "urban_ua_c6ae05e0",
+      "title": "Радіо Київстар Urban",
+      "subtitle": "256 Kbit/S",
+      "location": "Ukraine",
+      "genre": "256 Kbit/S",
+      "countryCode": "UA",
+      "language": "ukranian",
+      "clickCount": 4,
+      "bitrate": 281,
+      "streamUrl": "https://radio.kyivstar.ua/stream/rap/master.m3u8"
     }
   ]
 }
