@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-26T06:53:40Z",
+  "updated": "2026-11-27T06:47:18Z",
   "region": "europe",
   "part": 8,
   "of": 8,
@@ -7768,19 +7768,6 @@
       "countryCode": "RU",
       "language": null,
       "clickCount": 1,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_station_5b58a6df",
-      "title": "Два Берега",
-      "subtitle": "Поп-Музыка, Рок",
-      "imageUrl": "http://2beregafm.ru/wp-content/uploads/2021/04/cropped-92.6-FM.jpg",
-      "streamUrl": "http://radio-connect.dline-media.com/ber_FM.mp3?1739033089436",
-      "location": "Березники, The Russian Federation",
-      "genre": "Поп-Музыка",
-      "countryCode": "RU",
-      "language": null,
-      "clickCount": 0,
       "bitrate": 128
     },
     {
@@ -19596,19 +19583,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_fm_12c25025",
-      "title": "Жидачів FM",
-      "subtitle": "Local Radio, Music",
-      "imageUrl": "",
-      "streamUrl": "https://complex.in.ua/zhudachiv",
-      "location": "Zhydachiv, Ukraine",
-      "genre": "Local Radio",
-      "countryCode": "UA",
-      "language": "ukrainian",
-      "clickCount": 0,
-      "bitrate": 64
-    },
-    {
       "id": "rb2_fm_96483438",
       "title": "Закарпаття FM",
       "subtitle": "Adult Contemporary",
@@ -26213,18 +26187,6 @@
       "streamUrl": "http://stream01.radiocon.ru:8000/hum_tbk"
     },
     {
-      "id": "station_ru_6aecc3f7",
-      "title": "Радио Мелодия",
-      "subtitle": "Old Time Radio",
-      "location": "The Russian Federation",
-      "genre": "Old Time Radio",
-      "countryCode": "RU",
-      "language": "russian",
-      "clickCount": 5,
-      "bitrate": 64,
-      "streamUrl": "http://stream64.melodiafm.spb.ru:8000/melodia64"
-    },
-    {
       "id": "r_dio_expres_best_of_90s_sk_285d9e9c",
       "title": "Rádio Expres - Best Of 90s",
       "subtitle": "90'S",
@@ -26475,6 +26437,42 @@
       "clickCount": 4,
       "bitrate": 281,
       "streamUrl": "https://radio.kyivstar.ua/stream/rap/master.m3u8"
+    },
+    {
+      "id": "instrumental_jazz_ru_3779ce65",
+      "title": "Instrumental Jazz",
+      "subtitle": "Instrumental",
+      "location": "The Russian Federation",
+      "genre": "Instrumental",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 61,
+      "bitrate": 128,
+      "streamUrl": "https://jfm1.hostingradio.ru:14536/ijstream.mp3"
+    },
+    {
+      "id": "shanson_tv_ru_5f8ca818",
+      "title": "Shanson TV / Шансон ТВ",
+      "subtitle": "Shanson",
+      "location": "The Russian Federation",
+      "genre": "Shanson",
+      "countryCode": "RU",
+      "language": "russian",
+      "clickCount": 7,
+      "bitrate": 996,
+      "streamUrl": "https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8"
+    },
+    {
+      "id": "radio_record_disco_funk_ru_1149cd36",
+      "title": "Radio Record Disco Funk",
+      "subtitle": "Disco",
+      "location": "The Russian Federation",
+      "genre": "Disco",
+      "countryCode": "RU",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 113,
+      "streamUrl": "https://hls-01-radiorecord.hostingradio.ru/record-discofunk/112/playlist.m3u8"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-26T06:53:40Z",
+  "updated": "2026-11-27T06:47:18Z",
   "region": "europe",
   "part": 6,
   "of": 8,
@@ -4697,19 +4697,6 @@
       "genre": "Jazz",
       "countryCode": "IT",
       "language": "italian",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_spore_lq_fcac861e",
-      "title": "Spore LQ",
-      "subtitle": "Radio",
-      "imageUrl": "",
-      "streamUrl": "http://upstream.radiospore.oziosi.org:8000/spore_LQ.ogg",
-      "location": "Italy",
-      "genre": "Radio",
-      "countryCode": "IT",
-      "language": null,
       "clickCount": 0,
       "bitrate": 128
     },
@@ -25759,18 +25746,6 @@
       "streamUrl": "https://a10.asurahosting.com:8350/radio.mp3"
     },
     {
-      "id": "ehr_festiv_lu_hiti_lv_ca06d099",
-      "title": "EHR Festivālu Hiti",
-      "subtitle": "Skaļāko Festivālu Mūzikas Izlase",
-      "location": "Latvia",
-      "genre": "Skaļāko Festivālu Mūzikas Izlase",
-      "countryCode": "LV",
-      "language": "latvian",
-      "clickCount": 5,
-      "bitrate": 0,
-      "streamUrl": "http://stream.ehrhiti.lv:8000/Stream_73.mp3"
-    },
-    {
       "id": "ehr_ice_ice_party_lv_2f020694",
       "title": "EHR Ice Ice Party",
       "subtitle": "Labākie Deju Superhiti",
@@ -25937,18 +25912,6 @@
       "clickCount": 3,
       "bitrate": 128,
       "streamUrl": "http://www.radiocentrosuono.it:8000/rcs"
-    },
-    {
-      "id": "radio_retro_vibe_nl_f5e6bbeb",
-      "title": "Radio Retro Vibe",
-      "subtitle": "Music",
-      "location": "The Netherlands",
-      "genre": "Music",
-      "countryCode": "NL",
-      "language": "dutch",
-      "clickCount": 3,
-      "bitrate": 0,
-      "streamUrl": "https://stream.radioretrovibe.com/stream192"
     },
     {
       "id": "radio_energy_is_on_flac_it_1ef3b58d",
@@ -28363,18 +28326,6 @@
       "streamUrl": "https://plays.zw.lt/zw128"
     },
     {
-      "id": "deepnova_radio_dancenova_md_8d58785f",
-      "title": "DeepNova Radio - DanceNova",
-      "subtitle": "Club Hits",
-      "location": "The Republic Of Moldova",
-      "genre": "Club Hits",
-      "countryCode": "MD",
-      "language": null,
-      "clickCount": 5,
-      "bitrate": 192,
-      "streamUrl": "https://a3.asurahosting.com/listen/dance_house_hits/radio-192.mp3%20(320kbps%20MP3)"
-    },
-    {
       "id": "noordvaarder_instrumental_nl_30f226ab",
       "title": "Noordvaarder instrumental",
       "subtitle": "Instrumental.Easy Listening",
@@ -28481,6 +28432,30 @@
       "clickCount": 4,
       "bitrate": 96,
       "streamUrl": "http://eu8.fastcast4u.com:3296/stream"
+    },
+    {
+      "id": "nordic_chillout_radio_lv_54641621",
+      "title": "Nordic Chillout Radio",
+      "subtitle": "Chillout",
+      "location": "Latvia",
+      "genre": "Chillout",
+      "countryCode": "LV",
+      "language": "english",
+      "clickCount": 12,
+      "bitrate": 64,
+      "streamUrl": "https://play.radioking.io/nordic-chillout-radio/736489"
+    },
+    {
+      "id": "nieuwspaal_radio_nl_4cf0c77e",
+      "title": "Nieuwspaal Radio",
+      "subtitle": "Music",
+      "location": "The Netherlands",
+      "genre": "Music",
+      "countryCode": "NL",
+      "language": "dutch",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://stream.radio.co/sf82104afb/listen"
     }
   ]
 }

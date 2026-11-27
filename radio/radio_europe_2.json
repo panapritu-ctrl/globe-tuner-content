@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-26T06:53:40Z",
+  "updated": "2026-11-27T06:47:19Z",
   "region": "europe",
   "part": 2,
   "of": 8,
@@ -22115,15 +22115,6 @@
       "streamUrl": "https://1slowradio.stream.laut.fm/1_slowradio"
     },
     {
-      "id": "100_salsa_es_01adaa",
-      "title": "100 % SALSA",
-      "subtitle": "Latino",
-      "location": "Spain",
-      "genre": "Latino",
-      "countryCode": "ES",
-      "streamUrl": "https://stm01.streammaximum.com:8194/;"
-    },
-    {
       "id": "1000_80s_hits_es_c0cf26",
       "title": "1000 80s Hits",
       "subtitle": "80",
@@ -34525,18 +34516,6 @@
       "streamUrl": "https://stream.nucrooze.com/listen/nucrooze/radio.mp3"
     },
     {
-      "id": "dr_p4_stjylland_aac_dk_86d978b1",
-      "title": "DR P4 Østjylland (AAC)",
-      "subtitle": "Regional Radio",
-      "location": "Denmark",
-      "genre": "Regional Radio",
-      "countryCode": "DK",
-      "language": "danish",
-      "clickCount": 5,
-      "bitrate": 324,
-      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4ostjylland/masterab.m3u8"
-    },
-    {
       "id": "fluxfm_anima_radio_320k_mp3_de_7fac6541",
       "title": "FluxFM Anima Radio | 320k MP3",
       "subtitle": "Contemporary",
@@ -35483,6 +35462,78 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "http://icecast.radiobremen.de/rb/webchannel5/mp3/128/stream.mp3"
+    },
+    {
+      "id": "dorfkind_radio_de_c8f24979",
+      "title": "Dorfkind Radio",
+      "subtitle": "Radio",
+      "location": "Germany",
+      "genre": "Radio",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://frontend.streamonkey.net/antthue-dorfkindradio/stream/mp3"
+    },
+    {
+      "id": "opus_de_68569097",
+      "title": "/opus",
+      "subtitle": "90S Rave",
+      "location": "Germany",
+      "genre": "90S Rave",
+      "countryCode": "DE",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 96,
+      "streamUrl": "https://stream.solid-software.net/opus"
+    },
+    {
+      "id": "rt1_80er_de_32f58737",
+      "title": "RT1 80er",
+      "subtitle": "80S",
+      "location": "Germany",
+      "genre": "80S",
+      "countryCode": "DE",
+      "language": "german",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://frontend.streamonkey.net/rt1-ch01/stream/mp3"
+    },
+    {
+      "id": "techno_hub_radio_de_559d04ba",
+      "title": "Techno-Hub Radio",
+      "subtitle": "Hard Techno",
+      "location": "Germany",
+      "genre": "Hard Techno",
+      "countryCode": "DE",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 256,
+      "streamUrl": "http://streamlive1.hearthis.at:8000/11642296.ogg"
+    },
+    {
+      "id": "dr_p4_nordjylland_aac_dk_412ae0ef",
+      "title": "DR P4 Nordjylland (AAC)",
+      "subtitle": "Regional Radio",
+      "location": "Denmark",
+      "genre": "Regional Radio",
+      "countryCode": "DK",
+      "language": "danish",
+      "clickCount": 4,
+      "bitrate": 324,
+      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4nordjylland/masterab.m3u8"
+    },
+    {
+      "id": "dr_p5_nordjylland_aac_dk_6d29407b",
+      "title": "DR P5 Nordjylland (AAC)",
+      "subtitle": "Regional Radio",
+      "location": "Denmark",
+      "genre": "Regional Radio",
+      "countryCode": "DK",
+      "language": "danish",
+      "clickCount": 4,
+      "bitrate": 324,
+      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p5nordjylland/masterab.m3u8"
     }
   ]
 }

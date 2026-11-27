@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-26T06:53:40Z",
+  "updated": "2026-11-27T06:47:19Z",
   "region": "europe",
   "part": 5,
   "of": 8,
@@ -19354,15 +19354,6 @@
       "bitrate": 128
     },
     {
-      "id": "italiaradio_mrg_fm_it_a698b7",
-      "title": "ItaliaRadio (MRG.fm)",
-      "subtitle": "Classic Italian Pop",
-      "location": "Roma, Italy",
-      "genre": "Classic Italian Pop",
-      "countryCode": "IT",
-      "streamUrl": "http://listen.mrg.fm:8120/stream"
-    },
-    {
       "id": "rb2_italian_dance_network_ac2127db",
       "title": "Italian Dance Network",
       "subtitle": "Dance, Techno",
@@ -26515,18 +26506,6 @@
       "streamUrl": "http://live.notafm.hu:8000/notafm"
     },
     {
-      "id": "radio_aki_asgeirsson_tonlist_music_by_aki_asgeirsson_is_3e312a29",
-      "title": "RADIO AKI ASGEIRSSON : Tonlist / Music by Aki Asgeirsson",
-      "subtitle": "Composer",
-      "location": "Iceland",
-      "genre": "Composer",
-      "countryCode": "IS",
-      "language": null,
-      "clickCount": 6,
-      "bitrate": 128,
-      "streamUrl": "https://kast.aki.is/radio"
-    },
-    {
       "id": "il_regno_della_tigrotta_radio_web_it_a47c4e0c",
       "title": "Il Regno della Tigrotta - Radio Web",
       "subtitle": "90S",
@@ -27161,18 +27140,6 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "http://icy.unitedradio.it/Jovanotti.mp3"
-    },
-    {
-      "id": "radiolina_it_9221d819",
-      "title": "Radiolina",
-      "subtitle": "Radio",
-      "location": "Italy",
-      "genre": "Radio",
-      "countryCode": "IT",
-      "language": "italian",
-      "clickCount": 9,
-      "bitrate": 192,
-      "streamUrl": "https://streaming.shoutcast.com/radiolina"
     },
     {
       "id": "sicilia_bedda_it_c9a8f145",
@@ -28627,18 +28594,6 @@
       "streamUrl": "https://audio.social3.hr/listen/antena_hit/radio.mp3"
     },
     {
-      "id": "fm_classic_siracusa_it_3d9f4851",
-      "title": "FM Classic Siracusa",
-      "subtitle": "Oldies",
-      "location": "Italy",
-      "genre": "Oldies",
-      "countryCode": "IT",
-      "language": "italian",
-      "clickCount": 5,
-      "bitrate": 0,
-      "streamUrl": "https://stream1.xdevel.com/audio0s975817-359/stream/icecast.audio"
-    },
-    {
       "id": "ff_radio_live_it_fef788cf",
       "title": "FF Radio Live",
       "subtitle": "Acoustic",
@@ -28817,6 +28772,30 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://sonic.streams.ovh/9500/;"
+    },
+    {
+      "id": "sok_103_3_gr_89f6687f",
+      "title": "Sok 103.3",
+      "subtitle": "Greek Pop",
+      "location": "Greece",
+      "genre": "Greek Pop",
+      "countryCode": "GR",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "https://n09-eu1.rcs.revma.com/sb84xcs9g8nwv?rj-ttl=5&rj-tok=AAABoUWWx7MAelEx5JBKepfBJA"
+    },
+    {
+      "id": "pataradio_it_ebb29dea",
+      "title": "Pataradio",
+      "subtitle": "Blues",
+      "location": "Italy",
+      "genre": "Blues",
+      "countryCode": "IT",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://radio.sonicpanel.ro/pataradio/stream"
     }
   ]
 }
