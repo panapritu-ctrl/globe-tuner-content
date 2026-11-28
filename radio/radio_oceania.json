@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-27T06:47:18Z",
+  "updated": "2026-11-28T06:20:02Z",
   "region": "oceania",
   "stations": [
     {
@@ -11007,19 +11007,6 @@
       "bitrate": 64
     },
     {
-      "id": "rb2_totally_radio_70s_mp3_59750463",
-      "title": "Totally Radio - 70s (MP3)",
-      "subtitle": "1970S, 70'S",
-      "imageUrl": "https://totallyradio.com.au/wp-content/uploads/elementor/thumbs/70s-2020-om8tybynwkn72x1xjquou2y3k0as7ac1l9rb53c3ts.png",
-      "streamUrl": "http://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_70S_S01.mp3",
-      "location": "Australia",
-      "genre": "1970S",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_totally_radio_80s_aac_92894d23",
       "title": "Totally Radio - 80s (AAC+)",
       "subtitle": "1980S, 80'S",
@@ -13617,19 +13604,6 @@
       "bitrate": 96
     },
     {
-      "id": "rb2_sayhifm_f93ed26a",
-      "title": "SayHiFM",
-      "subtitle": "Filipino Radio In New Zealand, Filipino Station",
-      "imageUrl": "https://sayhifm.com/images/favicon.ico",
-      "streamUrl": "https://play.radioking.io/sayhifm",
-      "location": "Auckland, New Zealand",
-      "genre": "Filipino Radio In New Zealand",
-      "countryCode": "NZ",
-      "language": "bisaya",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb_ski_fm_6ef99996",
       "title": "Ski FM",
       "subtitle": "Contemporary Hits, Ski Mountain",
@@ -15331,18 +15305,6 @@
       "streamUrl": "https://streaming.abc-cdn.net.au/audio/hls/rnvic.m3u8?source=web"
     },
     {
-      "id": "australian_digital_radio_network_the_rolling_stones_mp3_au_d6af360e",
-      "title": "Australian Digital Radio Network - The Rolling Stones (MP3)",
-      "subtitle": "The Rolling Stones",
-      "location": "Australia",
-      "genre": "The Rolling Stones",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 4,
-      "bitrate": 128,
-      "streamUrl": "http://abm21.com.au:8000/CONTAINER149"
-    },
-    {
       "id": "abc_radio_new_england_north_west_au_7e832c91",
       "title": "ABC Radio New England North West",
       "subtitle": "Local",
@@ -15725,18 +15687,6 @@
       "clickCount": 4,
       "bitrate": 115,
       "streamUrl": "https://streaming.abc-cdn.net.au/audio/hls/localfarnorth.m3u8?source=web"
-    },
-    {
-      "id": "australian_digital_radio_network_coldplay_mp3_au_0526b4b8",
-      "title": "Australian Digital Radio Network - Coldplay (MP3)",
-      "subtitle": "Coldplay",
-      "location": "Australia",
-      "genre": "Coldplay",
-      "countryCode": "AU",
-      "language": "english",
-      "clickCount": 4,
-      "bitrate": 128,
-      "streamUrl": "http://abm22.com.au:8000/CONTAINER127"
     },
     {
       "id": "abc_radio_midwest_wheatbelt_au_0c6128af",
@@ -16529,6 +16479,78 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://streaming.exclusive.radio/er/thewho/icecast.audio"
+    },
+    {
+      "id": "australian_digital_radio_network_eurodance_mp3_au_87129874",
+      "title": "Australian Digital Radio Network - Eurodance (MP3)",
+      "subtitle": "Eurodance",
+      "location": "Australia",
+      "genre": "Eurodance",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "http://abm22.com.au:8000/CONTAINER27"
+    },
+    {
+      "id": "radio_te_aroha_88fm_nz_b86560f8",
+      "title": "Radio Te Aroha 88FM",
+      "subtitle": "Community",
+      "location": "New Zealand",
+      "genre": "Community",
+      "countryCode": "NZ",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 32,
+      "streamUrl": "https://c2.radioboss.fm:18440/stream"
+    },
+    {
+      "id": "australian_digital_radio_network_ac_dc_mp3_au_b9cd6094",
+      "title": "Australian Digital Radio Network - AC/DC (MP3)",
+      "subtitle": "Ac/Dc",
+      "location": "Australia",
+      "genre": "Ac/Dc",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://abm21.com.au:8000/CONTAINER170"
+    },
+    {
+      "id": "australian_digital_radio_network_pink_floyd_mp3_au_6ac5d2f8",
+      "title": "Australian Digital Radio Network - Pink Floyd (MP3)",
+      "subtitle": "Pink Floyd",
+      "location": "Australia",
+      "genre": "Pink Floyd",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://abm21.com.au:8000/CONTAINER148"
+    },
+    {
+      "id": "happy_radio_au_5a6c5bf5",
+      "title": "Happy Radio",
+      "subtitle": "70S",
+      "location": "Australia",
+      "genre": "70S",
+      "countryCode": "AU",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://hq3.yesstreaming.net/happyradio/stream"
+    },
+    {
+      "id": "george_fm_club_classics_nz_21ad470e",
+      "title": "George Fm Club Classics",
+      "subtitle": "Electronic",
+      "location": "New Zealand",
+      "genre": "Electronic",
+      "countryCode": "NZ",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 130,
+      "streamUrl": "https://mediaworks.streamguys1.com/george_net/playlist.m3u8"
     }
   ]
 }

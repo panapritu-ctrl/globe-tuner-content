@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-27T06:47:18Z",
+  "updated": "2026-11-28T06:20:02Z",
   "region": "africa",
   "stations": [
     {
@@ -8741,18 +8741,6 @@
       "streamUrl": "https://radio.9300.co.za/listen/rockbox-radio/radio.mp3"
     },
     {
-      "id": "radio_yoo_mp3_ug_43d176e0",
-      "title": "Radio Yoo (MP3)",
-      "subtitle": "Christian",
-      "location": "Uganda",
-      "genre": "Christian",
-      "countryCode": "UG",
-      "language": "english",
-      "clickCount": 3,
-      "bitrate": 0,
-      "streamUrl": "http://stream.zeno.fm/v73tc5gwaphvv"
-    },
-    {
       "id": "capital_fm_uk_ug_4993ba6b",
       "title": "Capital FM UK",
       "subtitle": "Rock",
@@ -11777,18 +11765,6 @@
       "streamUrl": "https://webradio3.tda.dz:8001/Taref_64K.mp3"
     },
     {
-      "id": "makie_max_radio_tz_fbfe3b6c",
-      "title": "Makie Max Radio",
-      "subtitle": "Entertainment",
-      "location": "United Republic Of Tanzania",
-      "genre": "Entertainment",
-      "countryCode": "TZ",
-      "language": "kiswahili",
-      "clickCount": 6,
-      "bitrate": 96,
-      "streamUrl": "https://eu4.fastcast4u.com/proxy/makiemaxradio?mp=/1"
-    },
-    {
       "id": "rna_r_dio_ngola_yetu_ao_c490901f",
       "title": "RNA - Rádio Ngola Yetu",
       "subtitle": "News",
@@ -14499,6 +14475,42 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://stream.zeno.fm/w9g4bgjcaicvv"
+    },
+    {
+      "id": "medina_fm_tarab_128_kbps_ma_7a3654e6",
+      "title": "Medina FM Tarab (128 kbps)",
+      "subtitle": "Morocco",
+      "location": "Morocco",
+      "genre": "Morocco",
+      "countryCode": "MA",
+      "language": "arabic",
+      "clickCount": 30,
+      "bitrate": 128,
+      "streamUrl": "https://medinatarab.ice.infomaniak.ch/medinatarab-128.mp3"
+    },
+    {
+      "id": "ryf_radio_cm_d19e7a56",
+      "title": "RYF Radio",
+      "subtitle": "African Music",
+      "location": "Cameroon",
+      "genre": "African Music",
+      "countryCode": "CM",
+      "language": "french",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://listen.radioking.com/radio/445556/stream/500072"
+    },
+    {
+      "id": "rukiga_fm_ug_060e1cc8",
+      "title": "RUKIGA FM",
+      "subtitle": "Radio",
+      "location": "Uganda",
+      "genre": "Radio",
+      "countryCode": "UG",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 96,
+      "streamUrl": "https://stream1.rcast.net/74102"
     }
   ]
 }

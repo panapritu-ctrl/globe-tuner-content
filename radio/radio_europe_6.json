@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-27T06:47:18Z",
+  "updated": "2026-11-28T06:20:02Z",
   "region": "europe",
   "part": 6,
   "of": 8,
@@ -15728,19 +15728,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_radio_rijnmond_extra_348b3d13",
-      "title": "Radio Rijnmond Extra",
-      "subtitle": "Sport",
-      "imageUrl": "https://s.regiogroei.cloud/img/favicons/rijnmond/apple-touch-icon.png?v=1715008420733",
-      "streamUrl": "https://d2e9xgjjdd9cr5.cloudfront.net/icecast/rijnmond/radio-extra-mp3",
-      "location": "The Netherlands",
-      "genre": "Sport",
-      "countryCode": "NL",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 192
-    },
-    {
       "id": "rb2_radio_sbs_3b3f521f",
       "title": "Radio SBS",
       "subtitle": "Bollywood, Dutch",
@@ -28062,18 +28049,6 @@
       "streamUrl": "https://live.heimatradio.nl/stream"
     },
     {
-      "id": "flevoziekenomroep_hls_audio_nl_e3048cc3",
-      "title": "FlevoZiekenOmroep (HLS audio)",
-      "subtitle": "Music",
-      "location": "The Netherlands",
-      "genre": "Music",
-      "countryCode": "NL",
-      "language": "dutch",
-      "clickCount": 4,
-      "bitrate": 52,
-      "streamUrl": "https://video.fzo.nu/live.m3u8"
-    },
-    {
       "id": "echo_raido_nl_e7f401e7",
       "title": "echo-raido",
       "subtitle": "Radio",
@@ -28456,6 +28431,54 @@
       "clickCount": 4,
       "bitrate": 192,
       "streamUrl": "https://stream.radio.co/sf82104afb/listen"
+    },
+    {
+      "id": "radio_clandestina_it_11b39d79",
+      "title": "Radio Clandestina",
+      "subtitle": "Classic Hits",
+      "location": "Italy",
+      "genre": "Classic Hits",
+      "countryCode": "IT",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "http://onair7.xdevel.com:7188/;"
+    },
+    {
+      "id": "radio_studio_2000_it_1867b190",
+      "title": "Radio Studio 2000",
+      "subtitle": "Variety",
+      "location": "Italy",
+      "genre": "Variety",
+      "countryCode": "IT",
+      "language": "italian",
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://s4.shoutitaly.com/listen/radiostudio2000/radio.mp3"
+    },
+    {
+      "id": "achterhoeksepiraten_com_nl_220cb79e",
+      "title": "AchterhoeksePiraten.com",
+      "subtitle": "Dutch",
+      "location": "The Netherlands",
+      "genre": "Dutch",
+      "countryCode": "NL",
+      "language": "dutch",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "https://proxy1.audiostreamen.nl/achterhoeksepiraten.mp3"
+    },
+    {
+      "id": "radio_malle_pietje_nl_4edab1cf",
+      "title": "radio malle pietje",
+      "subtitle": "Dutch.German",
+      "location": "The Netherlands",
+      "genre": "Dutch.German",
+      "countryCode": "NL",
+      "language": "dutch",
+      "clickCount": 4,
+      "bitrate": 320,
+      "streamUrl": "https://server7.radio-streams.net/proxy/radiomal/stream"
     }
   ]
 }

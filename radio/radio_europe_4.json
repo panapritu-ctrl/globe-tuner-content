@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-27T06:47:18Z",
+  "updated": "2026-11-28T06:20:02Z",
   "region": "europe",
   "part": 4,
   "of": 8,
@@ -2770,19 +2770,6 @@
       "streamUrl": "http://uk2.internet-radio.com:8008/stream",
       "location": "The United Kingdom Of Great Britain And Northern Ireland",
       "genre": "Radio",
-      "countryCode": "GB",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 64
-    },
-    {
-      "id": "rb2_belters_radio_0d3c8b15",
-      "title": "Belters Radio",
-      "subtitle": "Alternative, Indie Rock",
-      "imageUrl": "https://seeded-session-images.scdn.co/v2/img/122/secondary/artist/6Q7SW1I96IGwqBDhIm55oj/en",
-      "streamUrl": "https://uk2.internet-radio.com/proxy/belters?mp=/live",
-      "location": "The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "Alternative",
       "countryCode": "GB",
       "language": null,
       "clickCount": 0,
@@ -15321,19 +15308,6 @@
       "bitrate": 96
     },
     {
-      "id": "rb2_tempo_107_4_fm_b34181dc",
-      "title": "Tempo 107.4 FM",
-      "subtitle": "Radio",
-      "imageUrl": "https://www.tempofm.co.uk/wp-content/uploads/2018/09/Tempo-Logo-Local-Radio-from-Wetherby-600x400.jpg",
-      "streamUrl": "http://stream.dnsgb.net:8040/;",
-      "location": "The United Kingdom Of Great Britain And Northern Ireland",
-      "genre": "Radio",
-      "countryCode": "GB",
-      "language": null,
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
       "id": "rb2_the_ambientscape_project_c8107f2f",
       "title": "The Ambientscape Project",
       "subtitle": "Radio",
@@ -19714,19 +19688,6 @@
       "genre": "Pop",
       "countryCode": "GR",
       "language": "english",
-      "clickCount": 0,
-      "bitrate": 128
-    },
-    {
-      "id": "rb2_dream_c6d31a0b",
-      "title": "Dream Ηράκλειο",
-      "subtitle": "Greek, News",
-      "imageUrl": "https://dreamfm.gr/wp-content/uploads/2020/03/cropped-favicon-180x180.png",
-      "streamUrl": "https://neos.win:48420/stream",
-      "location": "Heraclion, Greece",
-      "genre": "Greek",
-      "countryCode": "GR",
-      "language": "greek",
       "clickCount": 0,
       "bitrate": 128
     },
@@ -26978,18 +26939,6 @@
       "streamUrl": "https://d1tmej9eu7kw5c.cloudfront.net/f70fdeca437dc326/f70fdeca437dc326.m3u8"
     },
     {
-      "id": "ekfrasi97_gr_cb3685d0",
-      "title": "Ekfrasi97",
-      "subtitle": "News",
-      "location": "Greece",
-      "genre": "News",
-      "countryCode": "GR",
-      "language": "greek",
-      "clickCount": 5,
-      "bitrate": 128,
-      "streamUrl": "https://s13.myradiostream.com/:40902/listen.mp3"
-    },
-    {
       "id": "rythmos_fm_gr_gr_901b77d8",
       "title": "Rythmos FM.GR",
       "subtitle": "Folklore",
@@ -27348,18 +27297,6 @@
       "clickCount": 7,
       "bitrate": 128,
       "streamUrl": "https://stream-150.zeno.fm/vx5rgf16q98uv?zs=tR7JZL39TRSY845wVVrdnA"
-    },
-    {
-      "id": "kannadasan_radio_in_c58515eb",
-      "title": "Kannadasan Radio",
-      "subtitle": "India",
-      "location": "India",
-      "genre": "India",
-      "countryCode": "IN",
-      "language": "tamil",
-      "clickCount": 7,
-      "bitrate": 64,
-      "streamUrl": "https://psrlive2.listenon.in/kavi?station=kaviyarasarradio"
     },
     {
       "id": "oakylp_in_c6dfba5b",
@@ -27948,18 +27885,6 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://tls-chrome.live24.gr/813?http://s2.onweb.gr:8608/;listen.pls"
-    },
-    {
-      "id": "radio_sanskar_in_2defa4b0",
-      "title": "RADIO SANSKAR",
-      "subtitle": "Misc",
-      "location": "India",
-      "genre": "Misc",
-      "countryCode": "IN",
-      "language": null,
-      "clickCount": 4,
-      "bitrate": 96,
-      "streamUrl": "https://mehramedia.com:9318/stream.mp3"
     },
     {
       "id": "air_urdu_in_ede8f82f",
@@ -28860,6 +28785,78 @@
       "clickCount": 4,
       "bitrate": 192,
       "streamUrl": "https://totallywired.out.airtime.pro/totallywired_a"
+    },
+    {
+      "id": "air_news_24_7_in_3203205f",
+      "title": "AIR News 24/7",
+      "subtitle": "News Talk",
+      "location": "India",
+      "genre": "News Talk",
+      "countryCode": "IN",
+      "language": "hindi",
+      "clickCount": 21,
+      "bitrate": 0,
+      "streamUrl": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio002/hlspbaudio00264kbps.m3u8"
+    },
+    {
+      "id": "pie_radio_gb_426dad2d",
+      "title": "Pie Radio",
+      "subtitle": "Hits",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Hits",
+      "countryCode": "GB",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "http://stream.aiir.com/dnjp99nozxavv"
+    },
+    {
+      "id": "lake_district_radio_gb_86b1d15b",
+      "title": "Lake District Radio",
+      "subtitle": "Adult Contemporary",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Adult Contemporary",
+      "countryCode": "GB",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 192,
+      "streamUrl": "https://a5.asurahosting.com:8370/radio.mp3"
+    },
+    {
+      "id": "max_fm_derby_92_2_gb_2268e3cf",
+      "title": "MAX FM DERBY 92.2",
+      "subtitle": "Drum And Bass",
+      "location": "The United Kingdom Of Great Britain And Northern Ireland",
+      "genre": "Drum And Bass",
+      "countryCode": "GB",
+      "language": "english",
+      "clickCount": 4,
+      "bitrate": 192,
+      "streamUrl": "http://12991.cloudrad.io:9438/live"
+    },
+    {
+      "id": "nterti_gr_6f379d3b",
+      "title": "Nterti",
+      "subtitle": "Greek Folk",
+      "location": "Greece",
+      "genre": "Greek Folk",
+      "countryCode": "GR",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://cast1.asurahosting.com/proxy/ntertir1/stream"
+    },
+    {
+      "id": "33_gr_5bb26b65",
+      "title": "33 Στροφές",
+      "subtitle": "Greek Folk",
+      "location": "Greece",
+      "genre": "Greek Folk",
+      "countryCode": "GR",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 128,
+      "streamUrl": "https://rdst.win:59393/stream"
     }
   ]
 }

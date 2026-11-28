@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-27T06:47:18Z",
+  "updated": "2026-11-28T06:20:02Z",
   "region": "asia",
   "part": 1,
   "of": 3,
@@ -23934,18 +23934,6 @@
       "streamUrl": "https://jwcdnqx.hebyun.com.cn/live/xtjtyygb/1500k/tzwj_video.m3u8"
     },
     {
-      "id": "station_cn_c31a2265",
-      "title": "襄阳交通音乐广播",
-      "subtitle": "Music",
-      "location": "China",
-      "genre": "Music",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 3,
-      "bitrate": 0,
-      "streamUrl": "http://ls.qingting.fm/live/1308.m3u8"
-    },
-    {
       "id": "station_cn_85848056",
       "title": "黔西南综合广播",
       "subtitle": "Information",
@@ -24580,18 +24568,6 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "https://rscdn.ajmide.com/r_3145/nglive_3145.m3u8"
-    },
-    {
-      "id": "station_cn_25b522cc",
-      "title": "蝠声文艺频道",
-      "subtitle": "Internet Radio",
-      "location": "China",
-      "genre": "Internet Radio",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 4,
-      "bitrate": 0,
-      "streamUrl": "http://fm.fsaxgb.com/radio/fsgb1.m3u8"
     },
     {
       "id": "siaoshan_fm_radio_cn_1a6fcd86",
@@ -26454,30 +26430,6 @@
       "streamUrl": "http://play.jinnantv.top/live/JNTV2.m3u8"
     },
     {
-      "id": "bhakti_world_af_d60df80d",
-      "title": "Bhakti World",
-      "subtitle": "Classical",
-      "location": "Afghanistan",
-      "genre": "Classical",
-      "countryCode": "AF",
-      "language": null,
-      "clickCount": 10,
-      "bitrate": 48,
-      "streamUrl": "http://gurbani.out.airtime.pro:8000/gurbani_a"
-    },
-    {
-      "id": "cctv1_cn_7f462224",
-      "title": "CCTV1",
-      "subtitle": "Radio",
-      "location": "China",
-      "genre": "Radio",
-      "countryCode": "CN",
-      "language": null,
-      "clickCount": 6,
-      "bitrate": 8200,
-      "streamUrl": "http://8.138.7.223/%E3%80%90%E5%85%AC%E4%BC%97%E5%8F%B7%EF%BC%9A%E6%A6%B4%E8%8A%92%E7%94%B5%E8%A7%86%E3%80%91/cctv1.m3u8"
-    },
-    {
       "id": "station_cn_0ec79051",
       "title": "宝鸡综合广播",
       "subtitle": "News",
@@ -26572,18 +26524,6 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "http://satellitepull.cnr.cn/live/wxxzhygb/playlist.m3u8?wsSession=d8b4488aebb72eb396f72a83-174700937926481&wsIPSercert=5bb043949891952939522be8c9bd5410"
-    },
-    {
-      "id": "station_cn_be3286eb",
-      "title": "蚌埠交通文艺广播",
-      "subtitle": "Entertainment",
-      "location": "China",
-      "genre": "Entertainment",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 4,
-      "bitrate": 0,
-      "streamUrl": "http://live.ximalaya.com/radio-first-page-app/live/151/64.m3u8"
     },
     {
       "id": "brtv_cn_d13d7c50",
@@ -26800,18 +26740,6 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "https://rscdn.ajmide.com/r_49/nglive_49.m3u8"
-    },
-    {
-      "id": "fm105_8_cn_df7a8804",
-      "title": "青岛FM105.8",
-      "subtitle": "Music",
-      "location": "China",
-      "genre": "Music",
-      "countryCode": "CN",
-      "language": "chinese",
-      "clickCount": 4,
-      "bitrate": 0,
-      "streamUrl": "http://video10.qtv.com.cn/zhibo875/manifest.m3u8"
     },
     {
       "id": "station_cn_2480afa1",
@@ -27736,6 +27664,66 @@
       "clickCount": 4,
       "bitrate": 0,
       "streamUrl": "http://a.live.hnradio.com/jtpd/radio120k_jtpd.m3u8?auth_key=1588751155-0-0-301d7e28868eff70a72edf5e4569b546"
+    },
+    {
+      "id": "station_cn_a7c73d3f",
+      "title": "青岛故事广播",
+      "subtitle": "Old Age",
+      "location": "China",
+      "genre": "Old Age",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 7,
+      "bitrate": 0,
+      "streamUrl": "http://video10.qtv.com.cn/zhibogsgb/manifest.m3u8"
+    },
+    {
+      "id": "radio_space_104fm_az_f806e2ce",
+      "title": "Radio Space 104FM",
+      "subtitle": "Pop",
+      "location": "Azerbaijan",
+      "genre": "Pop",
+      "countryCode": "AZ",
+      "language": "azerbaijani",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://stream.surfernetwork.com/rxzd8t0l1ivvv"
+    },
+    {
+      "id": "cctv1_cn_7f462224",
+      "title": "CCTV1",
+      "subtitle": "Radio",
+      "location": "China",
+      "genre": "Radio",
+      "countryCode": "CN",
+      "language": null,
+      "clickCount": 5,
+      "bitrate": 8200,
+      "streamUrl": "http://8.138.7.223/%E3%80%90%E5%85%AC%E4%BC%97%E5%8F%B7%EF%BC%9A%E6%A6%B4%E8%8A%92%E7%94%B5%E8%A7%86%E3%80%91/cctv1.m3u8"
+    },
+    {
+      "id": "bhakti_world_af_d60df80d",
+      "title": "Bhakti World",
+      "subtitle": "Classical",
+      "location": "Afghanistan",
+      "genre": "Classical",
+      "countryCode": "AF",
+      "language": null,
+      "clickCount": 4,
+      "bitrate": 48,
+      "streamUrl": "http://gurbani.out.airtime.pro:8000/gurbani_a"
+    },
+    {
+      "id": "station_cn_c31a2265",
+      "title": "襄阳交通音乐广播",
+      "subtitle": "Music",
+      "location": "China",
+      "genre": "Music",
+      "countryCode": "CN",
+      "language": "chinese",
+      "clickCount": 4,
+      "bitrate": 0,
+      "streamUrl": "http://ls.qingting.fm/live/1308.m3u8"
     }
   ]
 }

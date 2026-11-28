@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-27T06:47:19Z",
+  "updated": "2026-11-28T06:20:02Z",
   "region": "europe",
   "part": 5,
   "of": 8,
@@ -16774,19 +16774,6 @@
       "bitrate": 128
     },
     {
-      "id": "rb2_retro_rewind_bf149353",
-      "title": "Retro Rewind",
-      "subtitle": "90S, Club Dance",
-      "imageUrl": "",
-      "streamUrl": "https://a10.asurahosting.com:7050/radio.mp3",
-      "location": "Dublin, Ireland",
-      "genre": "90S",
-      "countryCode": "IE",
-      "language": null,
-      "clickCount": 1,
-      "bitrate": 192
-    },
-    {
       "id": "rb2_retronow_9bd7e003",
       "title": "RetroNow",
       "subtitle": "90S, Club",
@@ -28796,6 +28783,30 @@
       "clickCount": 4,
       "bitrate": 128,
       "streamUrl": "https://radio.sonicpanel.ro/pataradio/stream"
+    },
+    {
+      "id": "radioone_italo_disco_hu_126a946a",
+      "title": "RadioOne - Italo Disco",
+      "subtitle": "80S",
+      "location": "Hungary",
+      "genre": "80S",
+      "countryCode": "HU",
+      "language": "hungarian",
+      "clickCount": 5,
+      "bitrate": 128,
+      "streamUrl": "https://stream.radioone.hu/ch2"
+    },
+    {
+      "id": "galway_bay_fm_ie_aa939bc3",
+      "title": "Galway Bay FM",
+      "subtitle": "Radio",
+      "location": "Ireland",
+      "genre": "Radio",
+      "countryCode": "IE",
+      "language": "english",
+      "clickCount": 5,
+      "bitrate": 64,
+      "streamUrl": "https://gbfm.tibus.stream/stream1-aac"
     }
   ]
 }

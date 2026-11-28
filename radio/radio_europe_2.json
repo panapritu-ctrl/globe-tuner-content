@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-27T06:47:19Z",
+  "updated": "2026-11-28T06:20:02Z",
   "region": "europe",
   "part": 2,
   "of": 8,
@@ -35236,18 +35236,6 @@
       "streamUrl": "https://stream.radio-fds.de:9148/stream"
     },
     {
-      "id": "hertz_87_9_campusradio_f_r_bielefeld_mp3_hq_de_0b612322",
-      "title": "Hertz 87.9 - Campusradio für Bielefeld | MP3 HQ",
-      "subtitle": "Bielefeld",
-      "location": "Germany",
-      "genre": "Bielefeld",
-      "countryCode": "DE",
-      "language": "german",
-      "clickCount": 5,
-      "bitrate": 0,
-      "streamUrl": "https://stream.radiohertz.de/hertz-hq.mp3"
-    },
-    {
       "id": "dr_p4_trekanten_aac_dk_a030938a",
       "title": "DR P4 Trekanten (AAC)",
       "subtitle": "Regional Radio",
@@ -35534,6 +35522,30 @@
       "clickCount": 4,
       "bitrate": 324,
       "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p5nordjylland/masterab.m3u8"
+    },
+    {
+      "id": "dr_p4_stjylland_aac_dk_86d978b1",
+      "title": "DR P4 Østjylland (AAC)",
+      "subtitle": "Regional Radio",
+      "location": "Denmark",
+      "genre": "Regional Radio",
+      "countryCode": "DK",
+      "language": "danish",
+      "clickCount": 5,
+      "bitrate": 324,
+      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p4ostjylland/masterab.m3u8"
+    },
+    {
+      "id": "dr_p5_k_benhavn_aac_dk_590a0c64",
+      "title": "DR P5 København (AAC)",
+      "subtitle": "Regional Radio",
+      "location": "Denmark",
+      "genre": "Regional Radio",
+      "countryCode": "DK",
+      "language": "danish",
+      "clickCount": 4,
+      "bitrate": 324,
+      "streamUrl": "https://drliveradio1.akamaized.net/hls/live/2097651/p5kobenhavn/masterab.m3u8"
     }
   ]
 }
